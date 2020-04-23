@@ -9,10 +9,10 @@ local ToastFrame;
 local ExpandFrame;
 local ConfirmDeleteFrame;
 
-local addonVersion = "1.4.4";
-local contributors = "Wizm-Mograine PvP, Devilish-Everlook Normal";
+local addonVersion = "2.3";
+local contributors = "Wizm-Mograine PvP, Devilish-Everlook Normal, Trashboi-Everlook, Hauclir-Everlook, Dextera-Everlook Normal";
 
-local loadMessageStart = "|cFF00FFB0" .. "BiSTracker" .. ": |r";
+local loadMessageStart = "|cFF00FFB0" .. "BiSTracker2020" .. ": |r";
 local loadMessage = loadMessageStart .. "|cff00cc66Version |r" .. addonVersion .. "|cff00cc66, developed and maintained by|r Yekru-Mograine PvP";
 local contributorMessage = loadMessageStart .. "|cff00cc66Contributors: |r" .. contributors;
 
@@ -56,7 +56,7 @@ local itemSlots = {
 	"Trinket1",
 	"Trinket2",
 	"MainHand",
-	"OffHand",
+	"OffHand",	
 	"Ranged"
 };
 local items = {};
@@ -114,7 +114,7 @@ local paladinSpecs = {
 };
 local priestSpecs = {
 	"Holy",
-	"Hybrid",
+	-- "Hybrid",
 	"Shadow"
 };
 local rogueSpecs = {
@@ -123,15 +123,16 @@ local rogueSpecs = {
 };
 local shamanSpecs = {
 	"Elemental",
-	"Restoration",
-	"Enhancement"
+	"Enhancement",
+	"Restoration"
 };
 local warlockSpecs = {
 	"All"
 };
 local warriorSpecs = {
 	"Fury",
-	"Protection"
+	"Protection",
+	"FuryProt"
 };
 local phases = {
 	"Phase1",
@@ -142,35 +143,35 @@ local phases = {
 	"Phase5",
 	"Phase6"
 };
-
-if englishClass == "DRUID" then
-	class = "Druid";
-	spec = "FeralTank";
-elseif englishClass == "HUNTER" then
-	class = "Hunter";
-	spec = "All";
-elseif englishClass == "MAGE" then
-	class = "Mage";
-	spec = "All";
-elseif englishClass == "PALADIN" then
-	class = "Paladin";
-	spec = "Holy";
-elseif englishClass == "PRIEST" then
-	class = "Priest";
-	spec = "Holy";
-elseif englishClass == "ROGUE" then
-	class = "Rogue";
-	spec = "Swords";
-elseif englishClass == "SHAMAN" then
-	class = "Shaman";
-	spec = "Elemental"
-elseif englishClass == "WARLOCK" then
-	class = "Warlock";
-	spec = "All";
-elseif englishClass == "WARRIOR" then
-	class = "Warrior";
-	spec = "Fury";
-end
+-- Shows only first spec of other class demending on with which class player is logged in
+-- if englishClass == "DRUID" then
+	-- class = "Druid";
+	-- spec = "FeralTank";
+-- elseif englishClass == "HUNTER" then
+	-- class = "Hunter";
+	-- spec = "All";
+-- elseif englishClass == "MAGE" then
+	-- class = "Mage";
+	-- spec = "All";
+-- elseif englishClass == "PALADIN" then
+	-- class = "Paladin";
+	-- spec = "Holy";
+-- elseif englishClass == "PRIEST" then
+	-- class = "Priest";
+	-- spec = "Holy";
+-- elseif englishClass == "ROGUE" then
+	-- class = "Rogue";
+	-- spec = "Swords";
+-- elseif englishClass == "SHAMAN" then
+	-- class = "Shaman";
+	-- spec = "Elemental"
+-- elseif englishClass == "WARLOCK" then
+	-- class = "Warlock";
+	-- spec = "All";
+-- elseif englishClass == "WARRIOR" then
+	-- class = "Warrior";
+	-- spec = "Fury";
+-- end
 
 local bisCurrentClassSpecData = {};
 
@@ -584,15 +585,15 @@ function toggleWindow()
 	if showWindow then
 		MainFrame:Hide();
 		showWindow = false;
-		ExpandFrame:SetNormalTexture("Interface\\AddOns\\BiSTracker\\assets\\ArrowRight");
-		ExpandFrame:SetPushedTexture("Interface\\AddOns\\BiSTracker\\assets\\ArrowRight");
-		ExpandFrame:SetHighlightTexture("Interface\\AddOns\\BiSTracker\\assets\\ArrowRightHover", "ADD");
+		ExpandFrame:SetNormalTexture("Interface\\AddOns\\BiSTracker2020\\assets\\ArrowRight");
+		ExpandFrame:SetPushedTexture("Interface\\AddOns\\BiSTracker2020\\assets\\ArrowRight");
+		ExpandFrame:SetHighlightTexture("Interface\\AddOns\\BiSTracker2020\\assets\\ArrowRightHover", "ADD");
 	else
 		MainFrame:Show();
 		showWindow = true;
-		ExpandFrame:SetNormalTexture("Interface\\AddOns\\BiSTracker\\assets\\ArrowLeft");
-		ExpandFrame:SetPushedTexture("Interface\\AddOns\\BiSTracker\\assets\\ArrowLeft");
-		ExpandFrame:SetHighlightTexture("Interface\\AddOns\\BiSTracker\\assets\\ArrowLeftHover", "ADD");
+		ExpandFrame:SetNormalTexture("Interface\\AddOns\\BiSTracker2020\\assets\\ArrowLeft");
+		ExpandFrame:SetPushedTexture("Interface\\AddOns\\BiSTracker2020\\assets\\ArrowLeft");
+		ExpandFrame:SetHighlightTexture("Interface\\AddOns\\BiSTracker2020\\assets\\ArrowLeftHover", "ADD");
 	end
 end
 
@@ -732,7 +733,7 @@ local function createDropdownListSpecItems(specs, dropdownlist)
 					NewCustomSpecFrame.scrollFrame.content.OffHand.zoneEdit:SetText("");
 					NewCustomSpecFrame.scrollFrame.content.OffHand.typeEdit:SetText("");
 					NewCustomSpecFrame.scrollFrame.content.OffHand.methodEdit:SetText("");
-					NewCustomSpecFrame.scrollFrame.content.OffHand.dropEdit:SetText("");
+					NewCustomSpecFrame.scrollFrame.content.OffHand.dropEdit:SetText("");					
 
 					NewCustomSpecFrame.scrollFrame.content.Ranged.idEdit:SetNumber(0);
 					NewCustomSpecFrame.scrollFrame.content.Ranged.zoneEdit:SetText("");
@@ -862,9 +863,9 @@ local function createDropdown(title, x, y, width, height)
 	dropdown.arrow = CreateFrame("Button", "BiSDropdownClassButton", dropdown);
 	dropdown.arrow:SetSize(18, 18);
 	dropdown.arrow:SetPoint("RIGHT", dropdown.Right, "CENTER", -3, 1);
-	dropdown.arrow:SetNormalTexture("Interface\\AddOns\\BiSTracker\\assets\\DropdownArrow");
-	dropdown.arrow:SetPushedTexture("Interface\\AddOns\\BiSTracker\\assets\\DropdownArrow");
-	dropdown.arrow:SetHighlightTexture("Interface\\AddOns\\BiSTracker\\assets\\DropdownArrow", "ADD");
+	dropdown.arrow:SetNormalTexture("Interface\\AddOns\\BiSTracker2020\\assets\\DropdownArrow");
+	dropdown.arrow:SetPushedTexture("Interface\\AddOns\\BiSTracker2020\\assets\\DropdownArrow");
+	dropdown.arrow:SetHighlightTexture("Interface\\AddOns\\BiSTracker2020\\assets\\DropdownArrow", "ADD");
 	dropdown.arrow:Show();
 	dropdown:SetScript("OnMouseDown", function(self, event, ...)
 		dropdownClick(title, dropdown);
@@ -1818,7 +1819,7 @@ MainFrame:SetScript("OnEvent", function(self, event, ...)
 							NewCustomSpecFrame.scrollFrame.content.OffHand.zoneEdit:SetText("");
 							NewCustomSpecFrame.scrollFrame.content.OffHand.typeEdit:SetText("");
 							NewCustomSpecFrame.scrollFrame.content.OffHand.methodEdit:SetText("");
-							NewCustomSpecFrame.scrollFrame.content.OffHand.dropEdit:SetText("");
+							NewCustomSpecFrame.scrollFrame.content.OffHand.dropEdit:SetText("");							
 
 							NewCustomSpecFrame.scrollFrame.content.Ranged.idEdit:SetNumber(0);
 							NewCustomSpecFrame.scrollFrame.content.Ranged.zoneEdit:SetText("");
@@ -2019,9 +2020,9 @@ MainFrame:SetScript("OnEvent", function(self, event, ...)
 		MainFrame.editSpec = CreateFrame("Button", "BiSEditSpecButton", MainFrame);
 		MainFrame.editSpec:SetSize(18, 18);
 		MainFrame.editSpec:SetPoint("RIGHT", MainFrame.TopRight, "CENTER", -50, -14);
-		MainFrame.editSpec:SetNormalTexture("Interface\\AddOns\\BiSTracker\\assets\\pentest");
-		MainFrame.editSpec:SetPushedTexture("Interface\\AddOns\\BiSTracker\\assets\\pentest");
-		MainFrame.editSpec:SetHighlightTexture("Interface\\AddOns\\BiSTracker\\assets\\pen50", "ADD");
+		MainFrame.editSpec:SetNormalTexture("Interface\\AddOns\\BiSTracker2020\\assets\\pentest");
+		MainFrame.editSpec:SetPushedTexture("Interface\\AddOns\\BiSTracker2020\\assets\\pentest");
+		MainFrame.editSpec:SetHighlightTexture("Interface\\AddOns\\BiSTracker2020\\assets\\pen50", "ADD");
 		MainFrame.editSpec:Hide();
 
 		MainFrame.editSpec:SetScript("OnClick", function(self, event, ...)
@@ -2144,9 +2145,9 @@ MainFrame:SetScript("OnEvent", function(self, event, ...)
 		MainFrame.deleteSpec = CreateFrame("Button", "BiSDeleteSpecButton", MainFrame);
 		MainFrame.deleteSpec:SetSize(18, 18);
 		MainFrame.deleteSpec:SetPoint("RIGHT", MainFrame.TopRight, "CENTER", -27, -14);
-		MainFrame.deleteSpec:SetNormalTexture("Interface\\AddOns\\BiSTracker\\assets\\delete");
-		MainFrame.deleteSpec:SetPushedTexture("Interface\\AddOns\\BiSTracker\\assets\\delete");
-		MainFrame.deleteSpec:SetHighlightTexture("Interface\\AddOns\\BiSTracker\\assets\\delete", "ADD");
+		MainFrame.deleteSpec:SetNormalTexture("Interface\\AddOns\\BiSTracker2020\\assets\\delete");
+		MainFrame.deleteSpec:SetPushedTexture("Interface\\AddOns\\BiSTracker2020\\assets\\delete");
+		MainFrame.deleteSpec:SetHighlightTexture("Interface\\AddOns\\BiSTracker2020\\assets\\delete", "ADD");
 		MainFrame.deleteSpec:Hide();
 
 		MainFrame.deleteSpec:SetScript("OnClick", function(self, event, ...)
@@ -2159,9 +2160,9 @@ MainFrame:SetScript("OnEvent", function(self, event, ...)
 		MainFrame.reload = CreateFrame("Button", "BiSReloadButton", MainFrame);
 		MainFrame.reload:SetSize(18, 18);
 		MainFrame.reload:SetPoint("RIGHT", MainFrame.TopRight, "CENTER", -6, -14);
-		MainFrame.reload:SetNormalTexture("Interface\\AddOns\\BiSTracker\\assets\\reload");
-		MainFrame.reload:SetPushedTexture("Interface\\AddOns\\BiSTracker\\assets\\reload");
-		MainFrame.reload:SetHighlightTexture("Interface\\AddOns\\BiSTracker\\assets\\reload", "ADD");
+		MainFrame.reload:SetNormalTexture("Interface\\AddOns\\BiSTracker2020\\assets\\reload");
+		MainFrame.reload:SetPushedTexture("Interface\\AddOns\\BiSTracker2020\\assets\\reload");
+		MainFrame.reload:SetHighlightTexture("Interface\\AddOns\\BiSTracker2020\\assets\\reload", "ADD");
 		MainFrame.reload:Show();
 
 		MainFrame.reload:SetScript("OnClick", function(self, event, ...)
@@ -2200,7 +2201,7 @@ MainFrame:SetScript("OnEvent", function(self, event, ...)
 
 		updateItemList();
 	elseif event == "ADDON_LOADED" then
-        if args[1] == "BiSTracker" then
+        if args[1] == "BiSTracker2020" then
             print(loadMessage);
             print(contributorMessage);
         end
