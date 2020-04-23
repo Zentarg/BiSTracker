@@ -9,8 +9,8 @@ local ToastFrame;
 local ExpandFrame;
 local ConfirmDeleteFrame;
 
-local addonVersion = "1.4.4";
-local contributors = "Wizm-Mograine PvP, Devilish-Everlook Normal";
+local addonVersion = "2.3";
+local contributors = "Wizm-Mograine PvP, Devilish-Everlook Normal, Trashboi-Everlook, Hauclir-Everlook, Dextera-Everlook Normal";
 
 local loadMessageStart = "|cFF00FFB0" .. "BiSTracker" .. ": |r";
 local loadMessage = loadMessageStart .. "|cff00cc66Version |r" .. addonVersion .. "|cff00cc66, developed and maintained by|r Yekru-Mograine PvP";
@@ -56,7 +56,7 @@ local itemSlots = {
 	"Trinket1",
 	"Trinket2",
 	"MainHand",
-	"OffHand",
+	"OffHand",	
 	"Ranged"
 };
 local items = {};
@@ -114,7 +114,7 @@ local paladinSpecs = {
 };
 local priestSpecs = {
 	"Holy",
-	"Hybrid",
+	-- "Hybrid",
 	"Shadow"
 };
 local rogueSpecs = {
@@ -123,15 +123,16 @@ local rogueSpecs = {
 };
 local shamanSpecs = {
 	"Elemental",
-	"Restoration",
-	"Enhancement"
+	"Enhancement",
+	"Restoration"
 };
 local warlockSpecs = {
 	"All"
 };
 local warriorSpecs = {
 	"Fury",
-	"Protection"
+	"Protection",
+	"FuryProt"
 };
 local phases = {
 	"Phase1",
@@ -142,35 +143,35 @@ local phases = {
 	"Phase5",
 	"Phase6"
 };
-
-if englishClass == "DRUID" then
-	class = "Druid";
-	spec = "FeralTank";
-elseif englishClass == "HUNTER" then
-	class = "Hunter";
-	spec = "All";
-elseif englishClass == "MAGE" then
-	class = "Mage";
-	spec = "All";
-elseif englishClass == "PALADIN" then
-	class = "Paladin";
-	spec = "Holy";
-elseif englishClass == "PRIEST" then
-	class = "Priest";
-	spec = "Holy";
-elseif englishClass == "ROGUE" then
-	class = "Rogue";
-	spec = "Swords";
-elseif englishClass == "SHAMAN" then
-	class = "Shaman";
-	spec = "Elemental"
-elseif englishClass == "WARLOCK" then
-	class = "Warlock";
-	spec = "All";
-elseif englishClass == "WARRIOR" then
-	class = "Warrior";
-	spec = "Fury";
-end
+-- Shows only first spec of other class demending on with which class player is logged in
+-- if englishClass == "DRUID" then
+	-- class = "Druid";
+	-- spec = "FeralTank";
+-- elseif englishClass == "HUNTER" then
+	-- class = "Hunter";
+	-- spec = "All";
+-- elseif englishClass == "MAGE" then
+	-- class = "Mage";
+	-- spec = "All";
+-- elseif englishClass == "PALADIN" then
+	-- class = "Paladin";
+	-- spec = "Holy";
+-- elseif englishClass == "PRIEST" then
+	-- class = "Priest";
+	-- spec = "Holy";
+-- elseif englishClass == "ROGUE" then
+	-- class = "Rogue";
+	-- spec = "Swords";
+-- elseif englishClass == "SHAMAN" then
+	-- class = "Shaman";
+	-- spec = "Elemental"
+-- elseif englishClass == "WARLOCK" then
+	-- class = "Warlock";
+	-- spec = "All";
+-- elseif englishClass == "WARRIOR" then
+	-- class = "Warrior";
+	-- spec = "Fury";
+-- end
 
 local bisCurrentClassSpecData = {};
 
@@ -732,7 +733,7 @@ local function createDropdownListSpecItems(specs, dropdownlist)
 					NewCustomSpecFrame.scrollFrame.content.OffHand.zoneEdit:SetText("");
 					NewCustomSpecFrame.scrollFrame.content.OffHand.typeEdit:SetText("");
 					NewCustomSpecFrame.scrollFrame.content.OffHand.methodEdit:SetText("");
-					NewCustomSpecFrame.scrollFrame.content.OffHand.dropEdit:SetText("");
+					NewCustomSpecFrame.scrollFrame.content.OffHand.dropEdit:SetText("");					
 
 					NewCustomSpecFrame.scrollFrame.content.Ranged.idEdit:SetNumber(0);
 					NewCustomSpecFrame.scrollFrame.content.Ranged.zoneEdit:SetText("");
@@ -1818,7 +1819,7 @@ MainFrame:SetScript("OnEvent", function(self, event, ...)
 							NewCustomSpecFrame.scrollFrame.content.OffHand.zoneEdit:SetText("");
 							NewCustomSpecFrame.scrollFrame.content.OffHand.typeEdit:SetText("");
 							NewCustomSpecFrame.scrollFrame.content.OffHand.methodEdit:SetText("");
-							NewCustomSpecFrame.scrollFrame.content.OffHand.dropEdit:SetText("");
+							NewCustomSpecFrame.scrollFrame.content.OffHand.dropEdit:SetText("");							
 
 							NewCustomSpecFrame.scrollFrame.content.Ranged.idEdit:SetNumber(0);
 							NewCustomSpecFrame.scrollFrame.content.Ranged.zoneEdit:SetText("");
