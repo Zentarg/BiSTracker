@@ -1,179 +1,23 @@
 BiSData = {
 	Druid = {
 		FeralTank = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 20623,
-					Obtain = {
-						Zone = "Duskwood - Worldboss",
-						Type = "By Killing",
-						Method = "Emeriss",
-						Drop = "5%",
-					}
-				},
-				Neck = {
-					itemID = 19383,
-					Obtain = {
-						Zone = "BWL",
-						Type = "Quest",
-						Method = "Quest - The Lord of Blackrock",
-						Drop = "100%",
-					}
-				},
-				Shoulder = {
-					itemID = 19389,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Chromaggus",
-						Drop = "19,53%",
-					}
-				},
-				Cloak = {
-					itemID = 19386,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Chromaggus",
-						Drop = "17,31%",
-					}
-				},
-				Chest = {
-					itemID = 19405,
-					Obtain = {
-						Zone = "BWL",
-						Type = "by Killing",
-						Method = "Ebonroc",
-						Drop = "17,16%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
-					Obtain = {
-						Zone = "Green Dragons",
-						Type = "By Killing",
-						Method = "World Bosses",
-						Drop = "1,8-9%",
-					}
-				},
-				Gloves = {
-					itemID = 13258,
-					Obtain = {
-						Zone = "LBRS",
-						Type = "By Killing",
-						Method = "Urok Doomhowl",
-						Drop = "33%",
-					}
-				},
-				Waist = {
-					itemID = 19163,
-					Obtain = {
-						Zone = "",
-						Type = "By Profession (Tailoring)",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Legs = {
-					itemID = 13170,
-					Obtain = {
-						Zone = "Warsong Gulch",
-						Type = "",
-						Method = "Reputation Exalted",
-						Drop = "",
-					}
-				},
-				Boots = {
-					itemID = 19381,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "18,57%",
-					}
-				},
-				Ring1 = {
-					itemID = 17063,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Ragnaros",
-						Drop = "10,53%",
-					}
-				},
-				Ring2 = {
-					itemID = 19376,
-					Obtain = {
-						Zone = "BWL",
-						Type = "by Killing",
-						Method = "Nefarian",
-						Drop = "17,45%",
-					}
-				},
-				Trinket1 = {
-					itemID = 19406,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Ebonroc",
-						Drop = "18,01%",
-					}
-				},
-				Trinket2 = {
-					itemID = 13966,
-					Obtain = {
-						Zone = "UBRS",
-						Type = "Quest",
-						Method = "General Drakkisath's Demise / For the Horde!",
-						Drop = "",
-					}
-				},
-				MainHand = {
-					itemID = 943,
-					Obtain = {
-						Zone = "World Drop",
-						Type = "By Killing",
-						Method = "",
-						Drop = "",
-					}
-				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Ranged = {
-					itemID = 23198,
+					itemID = 13404,
 					Obtain = {
 						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Magistrate Barthilas",
-						Drop = "2,60%",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 14539,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Rattlegore",
-						Drop = "10%",
+						Method = "The Unforgiven",
+						Drop = "21%",
 					}
 				},
 				Neck = {
-					itemID = 13177,
+					itemID = 12927,
 					Obtain = {
 						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "War Master Voone",
-						Drop = "1.5%",
+						Method = "Pyroguard Emberseer",
+						Drop = "11%",
 					}
 				},
 				Shoulder = {
@@ -186,20 +30,20 @@ BiSData = {
 					}
 				},
 				Cloak = {
-					itemID = 12551,
+					itemID = 13397,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Trash",
-						Drop = "~0.1%",
+						Method = "Stonespine",
+						Drop = "31%",
 					}
 				},
 				Chest = {
 					itemID = 15064,
 					Obtain = {
-						Zone = "Felwood",
-						Type = "by Profession (leatherworking)",
-						Method = "Vendor: Meilosh",
+						Zone = "Winterspring",
+						Type = "by Quest)",
+						Method = "Breastplate of Bloodthirst",
 						Drop = "",
 					}
 				},
@@ -222,30 +66,30 @@ BiSData = {
 					}
 				},
 				Waist = {
-					itemID = 13252,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Quartermaster Zigris",
-						Drop = "11%",
-					}
-				},
-				Legs = {
-					itemID = 11821,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "General Angerforge",
-						Drop = "11%",
-					}
-				},
-				Boots = {
-					itemID = 16711,
+					itemID = 14502,
 					Obtain = {
 						Zone = "Scholomance",
 						Type = "By Killing",
-						Method = "Rattlegore",
-						Drop = "12%",
+						Method = "Ras Frostwhisper",
+						Drop = "15%",
+					}
+				},
+				Legs = {
+					itemID = 12963,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "The Beast",
+						Drop = "20%",
+					}
+				},
+				Boots = {
+					itemID = 18716,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Archivist Galford",
+						Drop = "21%",
 					}
 				},
 				Ring1 = {
@@ -285,6 +129,24 @@ BiSData = {
 					}
 				},
 				MainHand = {
+					itemID = 868,
+					Obtain = {
+						Zone = "World Drop",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.11%",
+					}
+				},
+				OffHand = {
+					itemID = 13385,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Archivist Galford",
+						Drop = "14%",
+					}
+				},
+				TwoHand = {
 					itemID = 943,
 					Obtain = {
 						Zone = "Zul'Farrak",
@@ -293,27 +155,183 @@ BiSData = {
 						Drop = "~0.1%",
 					}
 				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
 				Ranged = {
-					itemID = 0,
+					itemID = 23198,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Magistrate Barthilas",
+						Drop = "1%",
 					}
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 14539,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Rattlegore",
+						Drop = "10%",
+					}
+				},
+				Neck = {
+					itemID = 17065,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "32%",
+					}
+				},
+				Shoulder = {
+					itemID = 19139,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "15%",
+					}
+				},
+				Cloak = {
+					itemID = 17107,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Chest = {
+					itemID = 15064,
+					Obtain = {
+						Zone = "Felwood",
+						Type = "by Profession (leatherworking)",
+						Method = "Vendor: Meilosh",
+						Drop = "",
+					}
+				},
+				Wrist = {
+					itemID = 12966,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "The Beast",
+						Drop = "19%",
+					}
+				},
+				Gloves = {
+					itemID = 13258,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Urok Doomhowl",
+						Drop = "16%",
+					}
+				},
+				Waist = {
+					itemID = 19149,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Profession (Leatherworking)",
+						Method = "Thorium Brotherhood",
+						Drop = "100%",
+					}
+				},
+				Legs = {
+					itemID = 11821,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "General Angerforge",
+						Drop = "11%",
+					}
+				},
+				Boots = {
+					itemID = 16711,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Rattlegore",
+						Drop = "12%",
+					}
+				},
+				Ring1 = {
+					itemID = 15855,
+					Obtain = {
+						Zone = "Estern Plaguelands",
+						Type = "by Quest",
+						Method = "Hidden Treasures",
+						Drop = "",
+					}
+				},
+				Ring2 = {
+					itemID = 18879,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "5%",
+					}
+				},
+				Trinket1 = {
+					itemID = 13966,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "by Quest",
+						Method = "General Drakkisath's Demise",
+						Drop = "",
+					}
+				},
+				Trinket2 = {
+					itemID = 11811,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "by Profession (Enchanting)",
+						Method = "Lord Roccor",
+						Drop = "18%",
+					}
+				},
+				MainHand = {
+					itemID = 868,
+					Obtain = {
+						Zone = "World Drop",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.11%",
+					}
+				},
+				OffHand = {
+					itemID = 13385,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Archivist Galford",
+						Drop = "14%",
+					}
+				},
+				TwoHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
+					}
+				},
+				Ranged = {
+					itemID = 23198,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Magistrate Barthilas",
+						Drop = "1%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 20623,
 					Obtain = {
@@ -434,28 +452,37 @@ BiSData = {
 				Trinket2 = {
 					itemID = 13966,
 					Obtain = {
-						Zone = "UBRS",
+						Zone = "Blackrock Spire",
 						Type = "Quest",
 						Method = "General Drakkisath's Demise / For the Horde!",
 						Drop = "",
 					}
 				},
 				MainHand = {
-					itemID = 943,
+					itemID = 868,
 					Obtain = {
 						Zone = "World Drop",
 						Type = "By Killing",
-						Method = "",
-						Drop = "",
+						Method = "Trash",
+						Drop = "~0.11%",
 					}
 				},
 				OffHand = {
-					itemID = 0,
+					itemID = 13385,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Archivist Galford",
 						Drop = "",
+					}
+				},
+				TwoHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
 					}
 				},
 				Ranged = {
@@ -464,12 +491,12 @@ BiSData = {
 						Zone = "Stratholme",
 						Type = "By Killing",
 						Method = "Magistrate Barthilas",
-						Drop = "2,60%",
+						Drop = "1%",
 					}
 				},
 
 			},
-			Phase3 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 20623,
 					Obtain = {
@@ -590,28 +617,37 @@ BiSData = {
 				Trinket2 = {
 					itemID = 13966,
 					Obtain = {
-						Zone = "UBRS",
+						Zone = "Blackrock Spire",
 						Type = "Quest",
 						Method = "General Drakkisath's Demise / For the Horde!",
 						Drop = "",
 					}
 				},
 				MainHand = {
-					itemID = 943,
+					itemID = 868,
 					Obtain = {
 						Zone = "World Drop",
 						Type = "By Killing",
-						Method = "",
-						Drop = "",
+						Method = "Trash",
+						Drop = "~0.11%",
 					}
 				},
 				OffHand = {
-					itemID = 0,
+					itemID = 13385,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Archivist Galford",
 						Drop = "",
+					}
+				},
+				TwoHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
 					}
 				},
 				Ranged = {
@@ -625,163 +661,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
-				Head = {
-					itemID = 20623,
-					Obtain = {
-						Zone = "Duskwood - Worldboss",
-						Type = "By Killing",
-						Method = "Emeriss",
-						Drop = "5%",
-					}
-				},
-				Neck = {
-					itemID = 19383,
-					Obtain = {
-						Zone = "BWL",
-						Type = "Quest",
-						Method = "Quest - The Lord of Blackrock",
-						Drop = "100%",
-					}
-				},
-				Shoulder = {
-					itemID = 19389,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Chromaggus",
-						Drop = "19,53%",
-					}
-				},
-				Cloak = {
-					itemID = 19386,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Chromaggus",
-						Drop = "17,31%",
-					}
-				},
-				Chest = {
-					itemID = 19405,
-					Obtain = {
-						Zone = "BWL",
-						Type = "by Killing",
-						Method = "Ebonroc",
-						Drop = "17,16%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
-					Obtain = {
-						Zone = "Green Dragons",
-						Type = "By Killing",
-						Method = "World Bosses",
-						Drop = "1,8-9%",
-					}
-				},
-				Gloves = {
-					itemID = 13258,
-					Obtain = {
-						Zone = "LBRS",
-						Type = "By Killing",
-						Method = "Urok Doomhowl",
-						Drop = "33%",
-					}
-				},
-				Waist = {
-					itemID = 19163,
-					Obtain = {
-						Zone = "",
-						Type = "By Profession (Tailoring)",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Legs = {
-					itemID = 22740,
-					Obtain = {
-						Zone = "Warsong Gulch",
-						Type = "",
-						Method = "Reputation Exalted",
-						Drop = "",
-					}
-				},
-				Boots = {
-					itemID = 19381,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "18,57%",
-					}
-				},
-				Ring1 = {
-					itemID = 17063,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Ragnaros",
-						Drop = "10,53%",
-					}
-				},
-				Ring2 = {
-					itemID = 19376,
-					Obtain = {
-						Zone = "BWL",
-						Type = "by Killing",
-						Method = "Nefarian",
-						Drop = "17,45%",
-					}
-				},
-				Trinket1 = {
-					itemID = 19406,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Ebonroc",
-						Drop = "18,01%",
-					}
-				},
-				Trinket2 = {
-					itemID = 13966,
-					Obtain = {
-						Zone = "UBRS",
-						Type = "Quest",
-						Method = "General Drakkisath's Demise / For the Horde!",
-						Drop = "",
-					}
-				},
-				MainHand = {
-					itemID = 943,
-					Obtain = {
-						Zone = "World Drop",
-						Type = "By Killing",
-						Method = "",
-						Drop = "",
-					}
-				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Ranged = {
-					itemID = 23198,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Magistrate Barthilas",
-						Drop = "2,60%",
-					}
-				},
-
-			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 21693,
 					Obtain = {
@@ -902,7 +782,7 @@ BiSData = {
 				Trinket2 = {
 					itemID = 13966,
 					Obtain = {
-						Zone = "UBRS",
+						Zone = "Blackrock Spire",
 						Type = "Quest",
 						Method = "General Drakkisath's Demise / For the Horde!",
 						Drop = "",
@@ -926,6 +806,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
+					}
+				},
 				Ranged = {
 					itemID = 23198,
 					Obtain = {
@@ -937,7 +826,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 21693,
 					Obtain = {
@@ -1082,6 +971,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
+					}
+				},
 				Ranged = {
 					itemID = 23198,
 					Obtain = {
@@ -1095,163 +993,7 @@ BiSData = {
 			}
 		},
 		FeralDps = {
-			Phase1 = {
-				Head = {
-					itemID = 8345,
-					Obtain = {
-						Zone = "Thousand Needles",
-						Type = "by Profession (leatherworking)",
-						Method = "Vendor: Caryssia Moonhunter",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 18404,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "by Killing",
-						Method = "by Quest: Head of Onyxia",
-						Drop = "100%",
-					}
-				},
-				Shoulder = {
-					itemID = 20194,
-					Obtain = {
-						Zone = "Arathi Basin",
-						Type = "By Killing",
-						Method = "Reputation Exalted",
-						Drop = "",
-					}
-				},
-				Cloak = {
-					itemID = 19436,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "10-17%",
-					}
-				},
-				Chest = {
-					itemID = 16452,
-					Obtain = {
-						Zone = "PVP",
-						Type = "By Killing",
-						Method = "Rank 13",
-						Drop = "",
-					}
-				},
-				Wrist = {
-					itemID = 19587,
-					Obtain = {
-						Zone = "Warsong Gulch",
-						Type = "By Killing",
-						Method = "Reputation Exalted",
-						Drop = "",
-					}
-				},
-				Gloves = {
-					itemID = 16448,
-					Obtain = {
-						Zone = "PVP",
-						Type = "by Killing",
-						Method = "Rank 12",
-						Drop = "",
-					}
-				},
-				Waist = {
-					itemID = 20216,
-					Obtain = {
-						Zone = "Zul'Gurub",
-						Type = "By Killing",
-						Method = "A Collection of Heads",
-						Drop = "",
-					}
-				},
-				Legs = {
-					itemID = 16450,
-					Obtain = {
-						Zone = "PVP",
-						Type = "by Killing)",
-						Method = "Rank 12",
-						Drop = "",
-					}
-				},
-				Boots = {
-					itemID = 19381,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "18,57%",
-					}
-				},
-				Ring1 = {
-					itemID = 19432,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Flamegor",
-						Drop = "19,95%",
-					}
-				},
-				Ring2 = {
-					itemID = 18821,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several Bosses",
-						Drop = "4-12%",
-					}
-				},
-				Trinket1 = {
-					itemID = 19406,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Ebonroc",
-						Drop = "18,01%",
-					}
-				},
-				Trinket2 = {
-					itemID = 18537,
-					Obtain = {
-						Zone = "Dire Maul ",
-						Type = "By Killing",
-						Method = "Tribute run",
-						Drop = "1,1%",
-					}
-				},
-				MainHand = {
-					itemID = 20580,
-					Obtain = {
-						Zone = "Worldboss",
-						Type = "",
-						Method = "Worldboss Dragons",
-						Drop = "100%",
-					}
-				},
-				OffHand = {
-					itemID = 13385,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "13,71%",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
+			Phase1_PreRaid = {
 				Head = {
 					itemID = 8345,
 					Obtain = {
@@ -1343,12 +1085,12 @@ BiSData = {
 					}
 				},
 				Ring1 = {
-					itemID = 17713,
+					itemID = 2246,
 					Obtain = {
-						Zone = "Maraudon",
+						Zone = "World Drop",
 						Type = "By Killing",
-						Method = "Princess Theradras",
-						Drop = "5%",
+						Method = "",
+						Drop = "~0,11%",
 					}
 				},
 				Ring2 = {
@@ -1379,35 +1121,209 @@ BiSData = {
 					}
 				},
 				MainHand = {
+					itemID = 13368,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Baron Rivendare",
+						Drop = "6%",
+					}
+				},
+				OffHand = {
+					itemID = 13385,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Archivist Galford",
+						Drop = "14",
+					}
+				},
+				TwoHand = {
 					itemID = 18420,
 					Obtain = {
 						Zone = "Dire Maul",
 						Type = "By Quest",
-						Method = "Treasure of the Shen'dralar",
-						Drop = "100%",
-					}
-				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
+						Method = "The Treasure of the Shen'dralar",
 						Drop = "",
 					}
 				},
 				Ranged = {
-					itemID = 0,
+					itemID = 23198,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Magistrate Barthilas",
+						Drop = "1%",
 					}
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 8345,
+					Obtain = {
+						Zone = "Thousand Needles",
+						Type = "by Profession (leatherworking)",
+						Method = "Vendor: Caryssia Moonhunter",
+						Drop = "",
+					}
+				},
+				Neck = {
+					itemID = 18404,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "by Killing",
+						Method = "by Quest: Head of Onyxia",
+						Drop = "100%",
+					}
+				},
+				Shoulder = {
+					itemID = 12927,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Pyroguard Emberseer",
+						Drop = "11%",
+					}
+				},
+				Cloak = {
+					itemID = 13340,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Baron Rivendare",
+						Drop = "7%",
+					}
+				},
+				Chest = {
+					itemID = 14637,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Lord Alexei Barov",
+						Drop = "5%",
+					}
+				},
+				Wrist = {
+					itemID = 19146,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "5%",
+					}
+				},
+				Gloves = {
+					itemID = 18823,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "9%",
+					}
+				},
+				Waist = {
+					itemID = 13252,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Quartermaster Zigris",
+						Drop = "11%",
+					}
+				},
+				Legs = {
+					itemID = 15062,
+					Obtain = {
+						Zone = "Un'Goro Crater",
+						Type = "by Profession (Leatherworking)",
+						Method = "Glutinous Ooze",
+						Drop = "1.08%",
+					}
+				},
+				Boots = {
+					itemID = 12553,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Princess Moira Bronzebeard",
+						Drop = "14%",
+					}
+				},
+				Ring1 = {
+					itemID = 17063,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Ring2 = {
+					itemID = 18500,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "by World Event",
+						Method = "Mizzle the Crafty",
+						Drop = "3%",
+					}
+				},
+				Trinket1 = {
+					itemID = 13965,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "by Quest",
+						Method = "General Drakkisath's Demise",
+						Drop = "",
+					}
+				},
+				Trinket2 = {
+					itemID = 11815,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Emperor Dagran Thaurissan",
+						Drop = "4%",
+					}
+				},
+				MainHand = {
+					itemID = 13368,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Baron Rivendare",
+						Drop = "6%",
+					}
+				},
+				OffHand = {
+					itemID = 13385,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Archivist Galford",
+						Drop = "14",
+					}
+				},
+				TwoHand = {
+					itemID = 18420,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Quest",
+						Method = "The Treasure of the Shen'dralar",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 23198,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Magistrate Barthilas",
+						Drop = "1%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 8345,
 					Obtain = {
@@ -1535,12 +1451,12 @@ BiSData = {
 					}
 				},
 				MainHand = {
-					itemID = 20580,
+					itemID = 13368,
 					Obtain = {
-						Zone = "Worldboss",
-						Type = "",
-						Method = "Worldboss Dragons",
-						Drop = "100%",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Baron Rivendare",
+						Drop = "6%",
 					}
 				},
 				OffHand = {
@@ -1549,21 +1465,30 @@ BiSData = {
 						Zone = "Stratholme",
 						Type = "By Killing",
 						Method = "Archivist Galford",
-						Drop = "13,71%",
+						Drop = "14",
+					}
+				},
+				TwoHand = {
+					itemID = 18420,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Quest",
+						Method = "The Treasure of the Shen'dralar",
+						Drop = "",
 					}
 				},
 				Ranged = {
-					itemID = 0,
+					itemID = 23198,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Magistrate Barthilas",
+						Drop = "1%",
 					}
 				},
 
 			},
-			Phase3 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 8345,
 					Obtain = {
@@ -1691,12 +1616,12 @@ BiSData = {
 					}
 				},
 				MainHand = {
-					itemID = 20580,
+					itemID = 13368,
 					Obtain = {
-						Zone = "Worldboss",
-						Type = "",
-						Method = "Worldboss Dragons",
-						Drop = "100%",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Baron Rivendare",
+						Drop = "6%",
 					}
 				},
 				OffHand = {
@@ -1705,177 +1630,30 @@ BiSData = {
 						Zone = "Stratholme",
 						Type = "By Killing",
 						Method = "Archivist Galford",
-						Drop = "13,71%",
+						Drop = "14",
+					}
+				},
+				TwoHand = {
+					itemID = 19358,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Trash & Dragons",
+						Drop = "8-15%",
 					}
 				},
 				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase4 = {
-				Head = {
-					itemID = 8345,
-					Obtain = {
-						Zone = "Thousand Needles",
-						Type = "by Profession (leatherworking)",
-						Method = "Vendor: Caryssia Moonhunter",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 18404,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "by Killing",
-						Method = "by Quest: Head of Onyxia",
-						Drop = "100%",
-					}
-				},
-				Shoulder = {
-					itemID = 20194,
-					Obtain = {
-						Zone = "Arathi Basin",
-						Type = "By Killing",
-						Method = "Reputation Exalted",
-						Drop = "",
-					}
-				},
-				Cloak = {
-					itemID = 19436,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "10-17%",
-					}
-				},
-				Chest = {
-					itemID = 16452,
-					Obtain = {
-						Zone = "PVP",
-						Type = "By Killing",
-						Method = "Rank 13",
-						Drop = "",
-					}
-				},
-				Wrist = {
-					itemID = 19587,
-					Obtain = {
-						Zone = "Warsong Gulch",
-						Type = "By Killing",
-						Method = "Reputation Exalted",
-						Drop = "",
-					}
-				},
-				Gloves = {
-					itemID = 16448,
-					Obtain = {
-						Zone = "PVP",
-						Type = "by Killing",
-						Method = "Rank 12",
-						Drop = "",
-					}
-				},
-				Waist = {
-					itemID = 20216,
-					Obtain = {
-						Zone = "Zul'Gurub",
-						Type = "By Killing",
-						Method = "A Collection of Heads",
-						Drop = "",
-					}
-				},
-				Legs = {
-					itemID = 16450,
-					Obtain = {
-						Zone = "PVP",
-						Type = "by Killing)",
-						Method = "Rank 12",
-						Drop = "",
-					}
-				},
-				Boots = {
-					itemID = 19381,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "18,57%",
-					}
-				},
-				Ring1 = {
-					itemID = 19432,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Flamegor",
-						Drop = "19,95%",
-					}
-				},
-				Ring2 = {
-					itemID = 18821,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several Bosses",
-						Drop = "4-12%",
-					}
-				},
-				Trinket1 = {
-					itemID = 19406,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Ebonroc",
-						Drop = "18,01%",
-					}
-				},
-				Trinket2 = {
-					itemID = 18537,
-					Obtain = {
-						Zone = "Dire Maul ",
-						Type = "By Killing",
-						Method = "Tribute run",
-						Drop = "1,1%",
-					}
-				},
-				MainHand = {
-					itemID = 20580,
-					Obtain = {
-						Zone = "Worldboss",
-						Type = "",
-						Method = "Worldboss Dragons",
-						Drop = "100%",
-					}
-				},
-				OffHand = {
-					itemID = 13385,
+					itemID = 23198,
 					Obtain = {
 						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "13,71%",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Method = "Magistrate Barthilas",
+						Drop = "1%",
 					}
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 8345,
 					Obtain = {
@@ -2020,18 +1798,27 @@ BiSData = {
 						Drop = "13,71%",
 					}
 				},
-				Ranged = {
-					itemID = 22397,
+				TwoHand = {
+					itemID = 19358,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "BWL",
 						Type = "By Killing",
-						Method = "Lord Roccor",
-						Drop = "11,30",
+						Method = "Trash & Dragons",
+						Drop = "8-15%",
+					}
+				},
+				Ranged = {
+					itemID = 23198,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Magistrate Barthilas",
+						Drop = "1%",
 					}
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 8345,
 					Obtain = {
@@ -2176,183 +1963,36 @@ BiSData = {
 						Drop = "13,71%",
 					}
 				},
-				Ranged = {
-					itemID = 22397,
+				TwoHand = {
+					itemID = 19358,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "BWL",
 						Type = "By Killing",
-						Method = "Lord Roccor",
-						Drop = "11,30",
+						Method = "Trash & Dragons",
+						Drop = "8-15%",
+					}
+				},
+				Ranged = {
+					itemID = 23198,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Magistrate Barthilas",
+						Drop = "1%",
 					}
 				},
 
 			}
 		},
 		Restoration = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 20628,
+					itemID = 18490,
 					Obtain = {
-						Zone = "Worldboss",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Lethon",
-						Drop = "6%",
-					}
-				},
-				Neck = {
-					itemID = 19885,
-					Obtain = {
-						Zone = "Zul'Gurub",
-						Type = "By Killing",
-						Method = "Jin'do the Hexxer",
-						Drop = "6%",
-					}
-				},
-				Shoulder = {
-					itemID = 18810,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Majordomo Executus",
-						Drop = "5%",
-					}
-				},
-				Cloak = {
-					itemID = 19430,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Flamegor",
+						Method = "Cho'Rush the Observer",
 						Drop = "43%",
-					}
-				},
-				Chest = {
-					itemID = 13346,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "10%",
-					}
-				},
-				Wrist = {
-					itemID = 16904,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Razorgore the Untamed",
-						Drop = "20,43%",
-					}
-				},
-				Gloves = {
-					itemID = 16899,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Flamegor, Ebonroc, Firemaw",
-						Drop = "5%",
-					}
-				},
-				Waist = {
-					itemID = 19162,
-					Obtain = {
-						Zone = "",
-						Type = "by Profession (Leatherworking)",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Legs = {
-					itemID = 19385,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Chromaggus",
-						Drop = "19,48%",
-					}
-				},
-				Boots = {
-					itemID = 19437,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "8-17%",
-					}
-				},
-				Ring1 = {
-					itemID = 13143,
-					Obtain = {
-						Zone = "LBRS",
-						Type = "By Killing",
-						Method = "Overlord Wyrmthalak",
-						Drop = "2,11%",
-					}
-				},
-				Ring2 = {
-					itemID = 19382,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "17,90",
-					}
-				},
-				Trinket1 = {
-					itemID = 19395,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Ebonroc, Flamegor, Firemaw",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 19955,
-					Obtain = {
-						Zone = "Zul'Gurub",
-						Type = "Voodoo Doll",
-						Method = "Punctured Voodoo Doll",
-						Drop = "",
-					}
-				},
-				MainHand = {
-					itemID = 19360,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "8,78%",
-					}
-				},
-				OffHand = {
-					itemID = 19312,
-					Obtain = {
-						Zone = "Alterac Valley",
-						Type = "By Killing",
-						Method = "Stormpike Exalted",
-						Drop = "24%",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 13102,
-					Obtain = {
-						Zone = "Alterac Mountains",
-						Type = "By Killing",
-						Method = "Narillasanz",
-						Drop = "~0.1%",
 					}
 				},
 				Neck = {
@@ -2401,12 +2041,12 @@ BiSData = {
 					}
 				},
 				Gloves = {
-					itemID = 10787,
+					itemID = 12554,
 					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
+						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Gasher, Hukku, Loro",
-						Drop = "5%",
+						Method = "Princess Moira",
+						Drop = "23%",
 					}
 				},
 				Waist = {
@@ -2464,21 +2104,21 @@ BiSData = {
 					}
 				},
 				Trinket2 = {
-					itemID = 18371,
+					itemID = 12930,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "Magister Kalendris",
-						Drop = "9%",
+						Method = "Jed Runewatcher",
+						Drop = "30%",
 					}
 				},
 				MainHand = {
-					itemID = 11923,
+					itemID = 22380,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Dope'rel",
-						Drop = "33%",
+						Zone = "Silithus",
+						Type = "By Quest",
+						Method = "The Perfect Poison",
+						Drop = "",
 					}
 				},
 				OffHand = {
@@ -2490,18 +2130,192 @@ BiSData = {
 						Drop = "24%",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 22406,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Cannon Master Willey",
+						Drop = "6%",
+					}
+				},
+				Ranged = {
+					itemID = 22398,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Mor Grayhoof",
+						Drop = "13%",
 					}
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 19132,
+					Obtain = {
+						Zone = "Azshara",
+						Type = "by Killing",
+						Method = "Azuregos",
+						Drop = "8%",
+					}
+				},
+				Neck = {
+					itemID = 18723,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Ramstein the Gorger",
+						Drop = "7%",
+					}
+				},
+				Shoulder = {
+					itemID = 18810,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "5%",
+					}
+				},
+				Cloak = {
+					itemID = 18510,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "by Profession (leatherworking)",
+						Method = "Knot Thimblejack's Cache",
+						Drop = "1.6%",
+					}
+				},
+				Chest = {
+					itemID = 13346,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Baron Rivendare",
+						Drop = "15%",
+					}
+				},
+				Wrist = {
+					itemID = 18263,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Profession (Tailoring)",
+						Method = "Several bosses",
+						Drop = "",
+					}
+				},
+				Gloves = {
+					itemID = 10787,
+					Obtain = {
+						Zone = "The Temple of Atal'Hakkar",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "8%",
+					}
+				},
+				Waist = {
+					itemID = 19162,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Profession (Leatherworking)",
+						Method = "Thorium Brotherhood",
+						Drop = "",
+					}
+				},
+				Legs = {
+					itemID = 18875,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "3%",
+					}
+				},
+				Boots = {
+					itemID = 16829,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Lucifron",
+						Drop = "27%",
+					}
+				},
+				Ring1 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Majordomo Executus",
+						Drop = "21%",
+					}
+				},
+				Ring2 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Majordomo Executus",
+						Drop = "21%",
+					}
+				},
+				Trinket1 = {
+					itemID = 18470,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Quest",
+						Method = "The Emerald Dream",
+						Drop = "",
+					}
+				},
+				Trinket2 = {
+					itemID = 17064,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "by Killing",
+						Method = "Onyxia",
+						Drop = "8%",
+					}
+				},
+				MainHand = {
+					itemID = 17105,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Garr",
+						Drop = "27%",
+					}
+				},
+				OffHand = {
+					itemID = 18523,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "King Gordok",
+						Drop = "24%",
+					}
+				},
+				TwoHand = {
+					itemID = 18842,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Golemagg",
+						Drop = "37%",
+					}
+				},
+				Ranged = {
+					itemID = 22398,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Mor Grayhoof",
+						Drop = "13%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 20628,
 					Obtain = {
@@ -2629,191 +2443,44 @@ BiSData = {
 					}
 				},
 				MainHand = {
-					itemID = 19360,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "8,78%",
-					}
-				},
-				OffHand = {
-					itemID = 19312,
-					Obtain = {
-						Zone = "Alterac Valley",
-						Type = "By Killing",
-						Method = "Stormpike Exalted",
-						Drop = "24%",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase3 = {
-				Head = {
-					itemID = 20628,
-					Obtain = {
-						Zone = "Worldboss",
-						Type = "By Killing",
-						Method = "Lethon",
-						Drop = "6%",
-					}
-				},
-				Neck = {
-					itemID = 19885,
-					Obtain = {
-						Zone = "Zul'Gurub",
-						Type = "By Killing",
-						Method = "Jin'do the Hexxer",
-						Drop = "6%",
-					}
-				},
-				Shoulder = {
-					itemID = 18810,
+					itemID = 17105,
 					Obtain = {
 						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Majordomo Executus",
-						Drop = "5%",
-					}
-				},
-				Cloak = {
-					itemID = 19430,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Flamegor",
-						Drop = "43%",
-					}
-				},
-				Chest = {
-					itemID = 13346,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "10%",
-					}
-				},
-				Wrist = {
-					itemID = 16904,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Razorgore the Untamed",
-						Drop = "20,43%",
-					}
-				},
-				Gloves = {
-					itemID = 16899,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Flamegor, Ebonroc, Firemaw",
-						Drop = "5%",
-					}
-				},
-				Waist = {
-					itemID = 19162,
-					Obtain = {
-						Zone = "",
-						Type = "by Profession (Leatherworking)",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Legs = {
-					itemID = 19385,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Chromaggus",
-						Drop = "19,48%",
-					}
-				},
-				Boots = {
-					itemID = 19437,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "8-17%",
-					}
-				},
-				Ring1 = {
-					itemID = 13143,
-					Obtain = {
-						Zone = "LBRS",
-						Type = "By Killing",
-						Method = "Overlord Wyrmthalak",
-						Drop = "2,11%",
-					}
-				},
-				Ring2 = {
-					itemID = 19382,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "17,90",
-					}
-				},
-				Trinket1 = {
-					itemID = 19395,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Ebonroc, Flamegor, Firemaw",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 19955,
-					Obtain = {
-						Zone = "Zul'Gurub",
-						Type = "Voodoo Doll",
-						Method = "Punctured Voodoo Doll",
-						Drop = "",
-					}
-				},
-				MainHand = {
-					itemID = 19360,
-					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "8,78%",
+						Method = "Garr",
+						Drop = "27%",
 					}
 				},
 				OffHand = {
-					itemID = 19312,
+					itemID = 18523,
 					Obtain = {
-						Zone = "Alterac Valley",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Stormpike Exalted",
+						Method = "King Gordok",
 						Drop = "24%",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 18842,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Golemagg",
+						Drop = "37%",
+					}
+				},
+				Ranged = {
+					itemID = 22398,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Mor Grayhoof",
+						Drop = "13%",
 					}
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 20628,
 					Obtain = {
@@ -2958,18 +2625,27 @@ BiSData = {
 						Drop = "24%",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 19909,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Zul'Gurub",
+						Type = "By Killing",
+						Method = "High Priestess Arlokk",
+						Drop = "10%",
+					}
+				},
+				Ranged = {
+					itemID = 22398,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Mor Grayhoof",
+						Drop = "13%",
 					}
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 20628,
 					Obtain = {
@@ -3114,6 +2790,15 @@ BiSData = {
 						Drop = "3%",
 					}
 				},
+				TwoHand = {
+					itemID = 21275,
+					Obtain = {
+						Zone = "Ahn'Qiraji",
+						Type = "By Quest",
+						Method = "Imperial Qiraji Regalia",
+						Drop = "10%",
+					}
+				},
 				Ranged = {
 					itemID = 22399,
 					Obtain = {
@@ -3125,7 +2810,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 20628,
 					Obtain = {
@@ -3270,45 +2955,54 @@ BiSData = {
 						Drop = "14%",
 					}
 				},
-				Ranged = {
-					itemID = 23004,
+				TwoHand = {
+					itemID = 22801,
 					Obtain = {
 						Zone = "Naxxramas",
 						Type = "By Killing",
-						Method = "Instructor Razuvious",
-						Drop = "15%",
+						Method = "Thaddius",
+						Drop = "10%",
+					}
+				},
+				Ranged = {
+					itemID = 22399,
+					Obtain = {
+						Zone = "Ahn'Qiraj",
+						Type = "By Killing",
+						Method = "Viscidus",
+						Drop = "13%",
 					}
 				},
 
 			}
 	},
 		Balance = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 10504,
+					itemID = 22267,
 					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "General Drakkisath",
+						Drop = "20%",
 					}
 				},
 				Neck = {
-					itemID = 12103,
+					itemID = 22403,
 					Obtain = {
 						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Grand Crusader Dathrohan",
-						Drop = "18%",
+						Method = "Cannon Master Willey",
+						Drop = "24%",
 					}
 				},
 				Shoulder = {
-					itemID = 13013,
+					itemID = 20686,
 					Obtain = {
 						Zone = "Silithus",
 						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
+						Method = "Baron Kazum",
+						Drop = "33%",
 					}
 				},
 				Cloak = {
@@ -3317,16 +3011,16 @@ BiSData = {
 						Zone = "Stratholme",
 						Type = "By Killing",
 						Method = "Archivist Galford",
-						Drop = "19%",
+						Drop = "21%",
 					}
 				},
 				Chest = {
-					itemID = 11924,
+					itemID = 19682,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "16%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Wrist = {
@@ -3335,7 +3029,7 @@ BiSData = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
 						Method = "Lord Incendius",
-						Drop = "14%",
+						Drop = "12%",
 					}
 				},
 				Gloves = {
@@ -3357,351 +3051,39 @@ BiSData = {
 					}
 				},
 				Legs = {
-					itemID = 13170,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
-					}
-				},
-				Boots = {
-					itemID = 11822,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "22%",
-					}
-				},
-				Ring1 = {
-					itemID = 12545,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "by Quest",
-						Method = "The Princess's Surprise",
-						Drop = "",
-					}
-				},
-				Ring2 = {
-					itemID = 13001,
-					Obtain = {
-						Zone = "Feralas",
-						Type = "By Killing",
-						Method = "The Razza",
-						Drop = "9%",
-					}
-				},
-				Trinket1 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				Trinket2 = {
-					itemID = 13968,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				MainHand = {
-					itemID = 13964,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Darkmaster Gandling",
-						Drop = "9%",
-					}
-				},
-				OffHand = {
-					itemID = 10796,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Dreamscythe",
-						Drop = "5%",
-					}
-				},
-				Ranged = {
-					itemID = 0,
+					itemID = 19683,
 					Obtain = {
 						Zone = "",
-						Type = "",
+						Type = "By Profession (Tailoring)",
 						Method = "",
 						Drop = "",
 					}
 				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 10504,
-					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 12103,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Grand Crusader Dathrohan",
-						Drop = "18%",
-					}
-				},
-				Shoulder = {
-					itemID = 13013,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
-					}
-				},
-				Cloak = {
-					itemID = 18510,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "by Profession (leatherworking)",
-						Method = "Knot Thimblejack's Cache",
-						Drop = "1.6%",
-					}
-				},
-				Chest = {
-					itemID = 18510,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "16%",
-					}
-				},
-				Wrist = {
-					itemID = 18525,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "King Gordok",
-						Drop = "23%",
-					}
-				},
-				Gloves = {
-					itemID = 13258,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Urok Doomhowl",
-						Drop = "16%",
-					}
-				},
-				Waist = {
-					itemID = 11662,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Ok'thor the Breaker",
-						Drop = "27%",
-					}
-				},
-				Legs = {
-					itemID = 18386,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Illyanna Ravenoak",
-						Drop = "24%",
-					}
-				},
 				Boots = {
-					itemID = 11822,
+					itemID = 19684,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "22%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ring1 = {
-					itemID = 12545,
+					itemID = 22339,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "by Quest",
-						Method = "The Princess's Surprise",
-						Drop = "",
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Lord Valthalak",
+						Drop = "29%",
 					}
 				},
 				Ring2 = {
-					itemID = 13001,
+					itemID = 12543,
 					Obtain = {
-						Zone = "Feralas",
-						Type = "By Killing",
-						Method = "The Razza",
-						Drop = "9%",
-					}
-				},
-				Trinket1 = {
-					itemID = 18470,
-					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Blackrock Depths",
 						Type = "By Quest",
-						Method = "The Emerald Dream",
+						Method = "The Princess's Suprise",
 						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 18371,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "by Killing",
-						Method = "Magister Kalendris",
-						Drop = "9%",
-					}
-				},
-				MainHand = {
-					itemID = 13964,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Darkmaster Gandling",
-						Drop = "9%",
-					}
-				},
-				OffHand = {
-					itemID = 18523,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "King Gordok",
-						Drop = "24%",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase2 = {
-				Head = {
-					itemID = 10504,
-					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 12103,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Grand Crusader Dathrohan",
-						Drop = "18%",
-					}
-				},
-				Shoulder = {
-					itemID = 13013,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
-					}
-				},
-				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 11924,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "16%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 13258,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Urok Doomhowl",
-						Drop = "16%",
-					}
-				},
-				Waist = {
-					itemID = 11662,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Ok'thor the Breaker",
-						Drop = "27%",
-					}
-				},
-				Legs = {
-					itemID = 13170,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
-					}
-				},
-				Boots = {
-					itemID = 11822,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "22%",
-					}
-				},
-				Ring1 = {
-					itemID = 12545,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "by Quest",
-						Method = "The Princess's Surprise",
-						Drop = "",
-					}
-				},
-				Ring2 = {
-					itemID = 13001,
-					Obtain = {
-						Zone = "Feralas",
-						Type = "By Killing",
-						Method = "The Razza",
-						Drop = "9%",
 					}
 				},
 				Trinket1 = {
@@ -3710,14 +3092,14 @@ BiSData = {
 						Zone = "Blackrock Spire",
 						Type = "By Killing",
 						Method = "Jed Runewatcher",
-						Drop = "20%",
+						Drop = "30",
 					}
 				},
 				Trinket2 = {
 					itemID = 13968,
 					Obtain = {
 						Zone = "Blackrock Spire",
-						Type = "by Quest",
+						Type = "By Quest",
 						Method = "General Drakkisath's Demise",
 						Drop = "",
 					}
@@ -3732,15 +3114,162 @@ BiSData = {
 					}
 				},
 				OffHand = {
-					itemID = 10796,
+					itemID = 22329,
 					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
+						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Dreamscythe",
-						Drop = "5%",
+						Method = "Sothos and Jarien's Heirlooms",
+						Drop = "19%",
+					}
+				},
+				TwoHand = {
+					itemID = 18534,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Mizzle the Crafty",
+						Drop = "1,6%%",
 					}
 				},
 				Ranged = {
+					itemID = 23197,
+					Obtain = {
+						Zone = "BoE world drop",
+						Type = "By Killing/Looting",
+						Method = "",
+						Drop = "",
+					}
+				},
+
+			},
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 22267,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "General Drakkisath",
+						Drop = "20%",
+					}
+				},
+				Neck = {
+					itemID = 18814,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "26%",
+					}
+				},
+				Shoulder = {
+					itemID = 16836,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Baron Geddon",
+						Drop = "31%",
+					}
+				},
+				Cloak = {
+					itemID = 13386,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Archivist Galford",
+						Drop = "21%",
+					}
+				},
+				Chest = {
+					itemID = 19682,
+					Obtain = {
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Wrist = {
+					itemID = 18263,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Profession (Tailoring)",
+						Method = "Several bosses",
+						Drop = "",
+					}
+				},
+				Gloves = {
+					itemID = 13258,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Urok Doomhowl",
+						Drop = "16%",
+					}
+				},
+				Waist = {
+					itemID = 19136,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar, Garr, Golemagg",
+						Drop = "4-11%",
+					}
+				},
+				Legs = {
+					itemID = 19683,
+					Obtain = {
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Boots = {
+					itemID = 19684,
+					Obtain = {
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ring1 = {
+					itemID = 19147,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Gehennas, Sulfuron, Lucifron, Shazzrah",
+						Drop = "4-7%",
+					}
+				},
+				Ring2 = {
+					itemID = 19147,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Gehennas, Sulfuron, Lucifron, Shazzrah",
+						Drop = "4-7%",
+					}
+				},
+				Trinket1 = {
+					itemID = 18820,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar, Garr, Golemagg",
+						Drop = "4-11%",
+					}
+				},
+				Trinket2 = {
+					itemID = 12930,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Jed Runewatcher",
+						Drop = "30",
+					}
+				},
+				MainHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -3749,9 +3278,36 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				OffHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				TwoHand = {
+					itemID = 18842,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Golemagg",
+						Drop = "37%",
+					}
+				},
+				Ranged = {
+					itemID = 23197,
+					Obtain = {
+						Zone = "BoE world drop",
+						Type = "By Killing/Looting",
+						Method = "",
+						Drop = "",
+					}
+				},
 
 			},
-			Phase3 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -3896,18 +3452,27 @@ BiSData = {
 						Drop = "5%",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 19356,
 					Obtain = {
-						Zone = "",
-						Type = "",
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "17%",
+					}
+				},
+				Ranged = {
+					itemID = 23197,
+					Obtain = {
+						Zone = "BoE world drop",
+						Type = "By Killing/Looting",
 						Method = "",
 						Drop = "",
 					}
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -4052,18 +3617,27 @@ BiSData = {
 						Drop = "5%",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 19356,
 					Obtain = {
-						Zone = "",
-						Type = "",
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "17%",
+					}
+				},
+				Ranged = {
+					itemID = 23197,
+					Obtain = {
+						Zone = "BoE world drop",
+						Type = "By Killing/Looting",
 						Method = "",
 						Drop = "",
 					}
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -4208,18 +3782,27 @@ BiSData = {
 						Drop = "6%",
 					}
 				},
+				TwoHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "17%",
+					}
+				},
 				Ranged = {
 					itemID = 23197,
 					Obtain = {
-						Zone = "Silithus, Feralas, Tanaris",
-						Type = "By Killing",
-						Method = "General Pax-lish (only spawns during ''Gates of Ahn'Qiraj'' event",
-						Drop = "8%",
+						Zone = "BoE world drop",
+						Type = "By Killing/Looting",
+						Method = "",
+						Drop = "",
 					}
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -4364,13 +3947,22 @@ BiSData = {
 						Drop = "7%",
 					}
 				},
+				TwoHand = {
+					itemID = 22800,
+					Obtain = {
+						Zone = "Naxxramas",
+						Type = "By Killing",
+						Method = "Loatheb",
+						Drop = "10%",
+					}
+				},
 				Ranged = {
 					itemID = 23197,
 					Obtain = {
-						Zone = "Silithus, Feralas, Tanaris",
-						Type = "By Killing",
-						Method = "General Pax-lish (only spawns during ''Gates of Ahn'Qiraj'' event",
-						Drop = "8%",
+						Zone = "BoE world drop",
+						Type = "By Killing/Looting",
+						Method = "",
+						Drop = "",
 					}
 				},
 
@@ -4380,164 +3972,7 @@ BiSData = {
 	},
 	Hunter = {
 		All = {
-			Phase1 = {
-				Head = {
-					itemID = 13404,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
-					}
-				},
-				Neck = {
-					itemID = 15411,
-					Obtain = {
-						Zone = "Western Plaguelands",
-						Type = "by Quest",
-						Method = "In Dreams",
-						Drop = "",
-					}
-				},
-				Shoulder = {
-					itemID = 12927,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Pyroguard Emberseer",
-						Drop = "11%",
-					}
-				},
-				Cloak = {
-					itemID = 13340,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "7%",
-					}
-				},
-				Chest = {
-					itemID = 11726,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Gorosh the Dervish",
-						Drop = "11%",
-					}
-				},
-				Wrist = {
-					itemID = 13211,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Crimson Defender",
-						Drop = "2%",
-					}
-				},
-				Gloves = {
-					itemID = 15063,
-					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Vendor: Nergal",
-						Drop = "",
-					}
-				},
-				Waist = {
-					itemID = 14502,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Ras Frostwhisper",
-						Drop = "10%",
-					}
-				},
-				Legs = {
-					itemID = 15062,
-					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Glutinous Ooze",
-						Drop = "1.08%",
-					}
-				},
-				Boots = {
-					itemID = 13967,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Kirtonos the Herald",
-						Drop = "14%",
-					}
-				},
-				Ring1 = {
-					itemID = 13098,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "15%",
-					}
-				},
-				Ring2 = {
-					itemID = 17713,
-					Obtain = {
-						Zone = "Maraudon",
-						Type = "By Killing",
-						Method = "Princess Theradras",
-						Drop = "5%",
-					}
-				},
-				Trinket1 = {
-					itemID = 13965,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 11815,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 12940,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "4%",
-					}
-				},
-				OffHand = {
-					itemID = 12939,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "8%",
-					}
-				},
-				Ranged = {
-					itemID = 2099,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus Ashi, Regal, Zora",
-						Drop = "10%",
-					}
-				},
-
-			},
-		
-			Phase2PreRaid = {
+			Phase1_PreRaid = {
 				Head = {
 					itemID = 18421,
 					Obtain = {
@@ -4557,12 +3992,12 @@ BiSData = {
 					}
 				},
 				Shoulder = {
-					itemID = 13358,
+					itemID = 12927,
 					Obtain = {
-						Zone = "Stratholme",
+						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "Grand Crusader Dathrohan",
-						Drop = "18%",
+						Method = "Pyroguard Emberseer",
+						Drop = "11%",
 					}
 				},
 				Cloak = {
@@ -4665,21 +4100,30 @@ BiSData = {
 					}
 				},
 				MainHand = {
+					itemID = 12940,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Warchief Rend Blackhand",
+						Drop = "8%",
+					}
+				},
+				OffHand = {
+					itemID = 12939,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Warchief Rend Blackhand",
+						Drop = "8%",
+					}
+				},
+				TwoHand = {
 					itemID = 18520,
 					Obtain = {
 						Zone = "Dire Maul",
 						Type = "By Killing",
 						Method = "King Gordok",
 						Drop = "24%",
-					}
-				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
 					}
 				},
 				Ranged = {
@@ -4693,7 +4137,8 @@ BiSData = {
 				},
 
 			},
-			Phase2 = {
+		
+			Phase2_MC_Ony = {
 				Head = {
 					itemID = 16846,
 					Obtain = {
@@ -4838,6 +4283,15 @@ BiSData = {
 						Drop = "10%",
 					}
 				},
+				TwoHand = {
+					itemID = 18715,
+					Obtain = {
+						Zone = "Molten COre",
+						Type = "By Quest",
+						Method = "Lok'delar, Stave of the Ancient Keepers",
+						Drop = "14%",
+					}
+				},
 				Ranged = {
 					itemID = 18713,
 					Obtain = {
@@ -4849,7 +4303,7 @@ BiSData = {
 				},
 
 			},
-			Phase3 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 16939,
 					Obtain = {
@@ -4994,6 +4448,15 @@ BiSData = {
 						Drop = "10%",
 					}
 				},
+				TwoHand = {
+					itemID = 19364,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "14%",
+					}
+				},
 				Ranged = {
 					itemID = 19361,
 					Obtain = {
@@ -5005,7 +4468,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 16939,
 					Obtain = {
@@ -5150,6 +4613,15 @@ BiSData = {
 						Drop = "10%",
 					}
 				},
+				TwoHand = {
+					itemID = 19364,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "14%",
+					}
+				},
 				Ranged = {
 					itemID = 19361,
 					Obtain = {
@@ -5161,7 +4633,7 @@ BiSData = {
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 16939,
 					Obtain = {
@@ -5306,6 +4778,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 21635,
+					Obtain = {
+						Zone = "Ahn'Qiraji",
+						Type = "By Killing",
+						Method = "Fankriss the Unyielding",
+						Drop = "13%",
+					}
+				},
 				Ranged = {
 					itemID = 19361,
 					Obtain = {
@@ -5317,7 +4798,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 22438,
 					Obtain = {
@@ -5462,6 +4943,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 22812,
 					Obtain = {
@@ -5477,23 +4967,23 @@ BiSData = {
 	},
 	Mage = {
 		All = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 10504,
+					itemID = 22267,
 					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
+						Zone = "Blackrock Spire",
+						Type = "by Killing",
+						Method = "General Drakkisath",
+						Drop = "20%",
 					}
 				},
 				Neck = {
-					itemID = 12103,
+					itemID = 22403,
 					Obtain = {
 						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Grand Crusader Dathrohan",
-						Drop = "18%",
+						Method = "Cannon Master Willey",
+						Drop = "24%",
 					}
 				},
 				Shoulder = {
@@ -5506,30 +4996,30 @@ BiSData = {
 					}
 				},
 				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 14152,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Profession (Tailoring)",
-						Method = "Kill: Firebrand Pyromancer",
-						Drop = "6%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
+					itemID = 11623,
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
+						Method = "High Interrogator Gerstahn",
+						Drop = "42,64%",
+					}
+				},
+				Chest = {
+					itemID = 19682,
+					Obtain = {
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Wrist = {
+					itemID = 18497,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Guard Mol'dar or Guard Slip'kik",
+						Drop = "6%",
 					}
 				},
 				Gloves = {
@@ -5551,39 +5041,39 @@ BiSData = {
 					}
 				},
 				Legs = {
-					itemID = 13170,
+					itemID = 19683,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Boots = {
-					itemID = 11822,
+					itemID = 19684,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "22%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ring1 = {
-					itemID = 942,
+					itemID = 22339,
 					Obtain = {
-						Zone = "",
+						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "Random 48-58 mob",
-						Drop = "~0.1%",
+						Method = "Lord Valthalak",
+						Drop = "29%",
 					}
 				},
 				Ring2 = {
-					itemID = 942,
+					itemID = 22433,
 					Obtain = {
-						Zone = "",
+						Zone = "Scholomance",
 						Type = "By Killing",
-						Method = "Random 48-58 mob",
-						Drop = "~0.1%",
+						Method = "Darkmaster Gandling",
+						Drop = "14%",
 					}
 				},
 				Trinket1 = {
@@ -5622,6 +5112,15 @@ BiSData = {
 						Drop = "5%",
 					}
 				},
+				TwoHand = {
+					itemID = 18534,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Mizzle the Crafty",
+						Drop = "1,6%",
+					}
+				},
 				Ranged = {
 					itemID = 13938,
 					Obtain = {
@@ -5633,23 +5132,23 @@ BiSData = {
 				},
 
 			},
-			Phase2PreRaid = {
+			Phase2_MC_Ony = {
 				Head = {
-					itemID = 10504,
+					itemID = 16914,
 					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
+						Zone = "Onyxia's Lair",
+						Type = "by Killing",
+						Method = "Onyxia",
+						Drop = "19%",
 					}
 				},
 				Neck = {
-					itemID = 12103,
+					itemID = 18814,
 					Obtain = {
-						Zone = "Stratholme",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Grand Crusader Dathrohan",
-						Drop = "18%",
+						Method = "Ragnaros",
+						Drop = "11%",
 					}
 				},
 				Shoulder = {
@@ -5662,30 +5161,30 @@ BiSData = {
 					}
 				},
 				Cloak = {
-					itemID = 13386,
+					itemID = 17078,
 					Obtain = {
-						Zone = "Stratholme",
+						Zone = "Onyxias Lair",
 						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
+						Method = "Onyxia",
+						Drop = "20,59%",
 					}
 				},
 				Chest = {
-					itemID = 14152,
+					itemID = 19682,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Profession (Tailoring)",
-						Method = "Kill: Firebrand Pyromancer",
-						Drop = "6%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Wrist = {
-					itemID = 11766,
+					itemID = 18497,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
+						Method = "Guard Mol'dar or Guard Slip'kik",
+						Drop = "6%",
 					}
 				},
 				Gloves = {
@@ -5698,48 +5197,48 @@ BiSData = {
 					}
 				},
 				Waist = {
-					itemID = 11662,
+					itemID = 19136,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Ok'thor the Breaker",
-						Drop = "27%",
-					}
-				},
-				Legs = {
-					itemID = 13170,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
+						Method = "Several bosses",
 						Drop = "8%",
 					}
 				},
-				Boots = {
-					itemID = 11822,
+				Legs = {
+					itemID = 19683,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "22%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Boots = {
+					itemID = 19684,
+					Obtain = {
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ring1 = {
-					itemID = 942,
+					itemID = 19147,
 					Obtain = {
-						Zone = "",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Random 48-58 mob",
-						Drop = "~0.1%",
+						Method = "Several bosses",
+						Drop = "5%",
 					}
 				},
 				Ring2 = {
-					itemID = 942,
+					itemID = 19147,
 					Obtain = {
-						Zone = "",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Random 48-58 mob",
-						Drop = "~0.1%",
+						Method = "Several bosses",
+						Drop = "5%",
 					}
 				},
 				Trinket1 = {
@@ -5752,21 +5251,21 @@ BiSData = {
 					}
 				},
 				Trinket2 = {
-					itemID = 13968,
+					itemID = 18820,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "7%",
 					}
 				},
 				MainHand = {
-					itemID = 13964,
+					itemID = 17103,
 					Obtain = {
-						Zone = "Scholomance",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Darkmaster Gandling",
-						Drop = "9%",
+						Method = "Golemagg the Incinerator",
+						Drop = "25%",
 					}
 				},
 				OffHand = {
@@ -5778,18 +5277,27 @@ BiSData = {
 						Drop = "5%",
 					}
 				},
-				Ranged = {
-					itemID = 13938,
+				TwoHand = {
+					itemID = 18842,
 					Obtain = {
-						Zone = "Scholomance",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Darkmaster Gandling",
-						Drop = "8%",
+						Method = "Golemagg",
+						Drop = "37%",
+					}
+				},
+				Ranged = {
+					itemID = 19130,
+					Obtain = {
+						Zone = "Azshara",
+						Type = "By Killing",
+						Method = "Azuregos",
+						Drop = "5%",
 					}
 				},
 
 			},
-			Phase2 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 16914,
 					Obtain = {
@@ -5934,160 +5442,13 @@ BiSData = {
 						Drop = "5%",
 					}
 				},
-				Ranged = {
-					itemID = 19130,
+				TwoHand = {
+					itemID = 943,
 					Obtain = {
-						Zone = "Azshara",
+						Zone = "Zul'Farrak",
 						Type = "By Killing",
-						Method = "Azuregos",
-						Drop = "5%",
-					}
-				},
-
-			},
-			Phase3 = {
-				Head = {
-					itemID = 16914,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "by Killing",
-						Method = "Onyxia",
-						Drop = "19%",
-					}
-				},
-				Neck = {
-					itemID = 18814,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "11%",
-					}
-				},
-				Shoulder = {
-					itemID = 11782,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Warder Stilgiss",
-						Drop = "22%",
-					}
-				},
-				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 14152,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Profession (Tailoring)",
-						Method = "Kill: Firebrand Pyromancer",
-						Drop = "6%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 13253,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Quartermaster Zigris",
-						Drop = "7%",
-					}
-				},
-				Waist = {
-					itemID = 19136,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several bosses",
-						Drop = "8%",
-					}
-				},
-				Legs = {
-					itemID = 16915,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "17%",
-					}
-				},
-				Boots = {
-					itemID = 11822,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "22%",
-					}
-				},
-				Ring1 = {
-					itemID = 19147,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several bosses",
-						Drop = "5%",
-					}
-				},
-				Ring2 = {
-					itemID = 19147,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several bosses",
-						Drop = "5%",
-					}
-				},
-				Trinket1 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				Trinket2 = {
-					itemID = 18820,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Several bosses",
-						Drop = "7%",
-					}
-				},
-				MainHand = {
-					itemID = 17103,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Golemagg the Incinerator",
-						Drop = "25%",
-					}
-				},
-				OffHand = {
-					itemID = 10796,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Dreamscythe",
-						Drop = "5%",
+						Method = "Trash",
+						Drop = "~0.1%",
 					}
 				},
 				Ranged = {
@@ -6101,7 +5462,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -6229,6 +5590,24 @@ BiSData = {
 					}
 				},
 				MainHand = {
+					itemID = 19347,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "18%"
+					}
+				},
+				OffHand = {
+					itemID = 19891,
+					Obtain = {
+						Zone = "Zul'Gurub",
+						Type = "By Killing",
+						Method = "Jin'do the Hexxer",
+						Drop = "14%",
+					}
+				},
+				TwoHand = {
 					itemID = 19356,
 					Obtain = {
 						Zone = "BWL",
@@ -6237,27 +5616,18 @@ BiSData = {
 						Drop = "9,08%"
 					}
 				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
 				Ranged = {
 					itemID = 19861,
 					Obtain = {
 						Zone = "Zul'Gurub",
 						Type = "By Killing",
 						Method = "Hakkar",
-						Drop = "",
+						Drop = "12%",
 					}
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -6402,6 +5772,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9,08%"
+					}
+				},
 				Ranged = {
 					itemID = 21603,
 					Obtain = {
@@ -6413,7 +5792,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 22498,
 					Obtain = {
@@ -6558,6 +5937,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9,08%"
+					}
+				},
 				Ranged = {
 					itemID = 22821,
 					Obtain = {
@@ -6573,164 +5961,8 @@ BiSData = {
 	},
 	Paladin = {
 		Holy = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 12633,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Profession (Blacksmithing)",
-						Method = "Ragnaros",
-						Drop = "3%",
-					}
-				},
-				Neck = {
-					itemID = 18723,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Ramstein the Gorger",
-						Drop = "7%",
-					}
-				},
-				Shoulder = {
-					itemID = 18720,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Balnazzar",
-						Drop = "8%",
-					}
-				},
-				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 13346,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "10%",
-					}
-				},
-				Wrist = {
-					itemID = 13969,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Kirtonos the Herald",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 10787,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Gasher, Hukku, Loro",
-						Drop = "5%",
-					}
-				},
-				Waist = {
-					itemID = 18702,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "~0.1%",
-					}
-				},
-				Legs = {
-					itemID = 11841,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Fineous Darkvire",
-						Drop = "26%",
-					}
-				},
-				Boots = {
-					itemID = 13954,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Stonespine",
-						Drop = "29%",
-					}
-				},
-				Ring1 = {
-					itemID = 16058,
-					Obtain = {
-						Zone = "Western Plaguelands",
-						Type = "by Quest",
-						Method = "In Dreams",
-						Drop = "",
-					}
-				},
-				Ring2 = {
-					itemID = 18103,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "9%",
-					}
-				},
-				Trinket1 = {
-					itemID = 11819,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "6%",
-					}
-				},
-				Trinket2 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				MainHand = {
-					itemID = 11923,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Dope'rel",
-						Drop = "33%",
-					}
-				},
-				OffHand = {
-					itemID = 11928,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "14%",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-			Head = {
 					itemID = 18490,
 					Obtain = {
 						Zone = "Dire Maul",
@@ -6874,7 +6106,7 @@ BiSData = {
 						Drop = "23.66%",
 					}
 				},
-				Ranged = {
+				TwoHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -6883,9 +6115,183 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				Ranged = {
+					itemID = 23201,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Several Bosses - Lord Alexei Barov best chance",
+						Drop = "0,13-0,9%",
+					}
+				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+			Head = {
+					itemID = 18490,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Cho'Rush the Observer",
+						Drop = "41.95%",
+					}
+				},
+				Neck = {
+					itemID = 18723,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Ramstein the Gorger",
+						Drop = "7%",
+					}
+				},
+				Shoulder = {
+					itemID = 18810,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "5%",
+					}
+				},
+				Cloak = {
+					itemID = 18510,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "by Profession (Leatherworking)",
+						Method = "Knot Thimblejack's Cache",
+						Drop = "1.6%",
+					}
+				},
+				Chest = {
+					itemID = 19145,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Gehennas,Lucifron,Shazzrah",
+						Drop = "10%",
+					}
+				},
+				Wrist = {
+					itemID = 13969,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Kirtonos the Herald",
+						Drop = "14%",
+					}
+				},
+				Gloves = {
+					itemID = 18527,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "King Gordok",
+						Drop = "25%",
+					}
+				},
+				Waist = {
+					itemID = 19162,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "by Profession (Leatherworking)",
+						Method = "Thorium Brotherhood",
+						Drop = "100%",
+					}
+				},
+				Legs = {
+					itemID = 18875,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Gehennas,Sulfruron Harbinger,Lucifron,Shazzrah",
+						Drop = "23.67%",
+					}
+				},
+				Boots = {
+					itemID = 18507,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Captain Kromcrush",
+						Drop = "25.49%",
+					}
+				},
+				Ring1 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomus Exekutus",
+						Drop = "5%",
+					}
+				},
+				Ring2 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomus Exekutus",
+						Drop = "5%",
+					}
+				},
+				Trinket1 = {
+					itemID = 17064,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "8%",
+					}
+				},
+				Trinket2 = {
+					itemID = 12930,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Jed Runewatcher",
+						Drop = "20%",
+					}
+				},
+				MainHand = {
+					itemID = 17103,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Golemagg the Incinerator",
+						Drop = "24.81%",
+					}
+				},
+				OffHand = {
+					itemID = 18523,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "King Gordok",
+						Drop = "23.66%",
+					}
+				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 23201,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Several Bosses - Lord Alexei Barov best chance",
+						Drop = "0,13-0,9%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 18490,
 					Obtain = {
@@ -7030,7 +6436,7 @@ BiSData = {
 						Drop = "23.66%",
 					}
 				},
-				Ranged = {
+				TwoHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -7039,165 +6445,18 @@ BiSData = {
 						Drop = "",
 					}
 				},
-
-			},
-			Phase3 = {
-				Head = {
-					itemID = 18490,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Cho'Rush the Observer",
-						Drop = "41.95%",
-					}
-				},
-				Neck = {
-					itemID = 18723,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Ramstein the Gorger",
-						Drop = "7%",
-					}
-				},
-				Shoulder = {
-					itemID = 18810,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Majordomo Executus",
-						Drop = "5%",
-					}
-				},
-				Cloak = {
-					itemID = 18510,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "by Profession (Leatherworking)",
-						Method = "Knot Thimblejack's Cache",
-						Drop = "1.6%",
-					}
-				},
-				Chest = {
-					itemID = 19145,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Gehennas,Lucifron,Shazzrah",
-						Drop = "10%",
-					}
-				},
-				Wrist = {
-					itemID = 13969,
+				Ranged = {
+					itemID = 23201,
 					Obtain = {
 						Zone = "Scholomance",
 						Type = "By Killing",
-						Method = "Kirtonos the Herald",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 18527,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "King Gordok",
-						Drop = "25%",
-					}
-				},
-				Waist = {
-					itemID = 19162,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Profession (Leatherworking)",
-						Method = "Thorium Brotherhood",
-						Drop = "100%",
-					}
-				},
-				Legs = {
-					itemID = 18875,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Gehennas,Sulfruron Harbinger,Lucifron,Shazzrah",
-						Drop = "23.67%",
-					}
-				},
-				Boots = {
-					itemID = 18507,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Captain Kromcrush",
-						Drop = "25.49%",
-					}
-				},
-				Ring1 = {
-					itemID = 19140,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Majordomus Exekutus",
-						Drop = "5%",
-					}
-				},
-				Ring2 = {
-					itemID = 19140,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Majordomus Exekutus",
-						Drop = "5%",
-					}
-				},
-				Trinket1 = {
-					itemID = 17064,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "By Killing",
-						Method = "Onyxia",
-						Drop = "8%",
-					}
-				},
-				Trinket2 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				MainHand = {
-					itemID = 17103,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Golemagg the Incinerator",
-						Drop = "24.81%",
-					}
-				},
-				OffHand = {
-					itemID = 18523,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "King Gordok",
-						Drop = "23.66%",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Method = "Several Bosses - Lord Alexei Barov best chance",
+						Drop = "0,13-0,9%",
 					}
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 20628,
 					Obtain = {
@@ -7342,18 +6601,27 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
-					itemID = 19348,
+				TwoHand = {
+					itemID = 0,
 					Obtain = {
-						Zone = "BWL",
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 23201,
+					Obtain = {
+						Zone = "Scholomance",
 						Type = "By Killing",
-						Method = "Vaelastrasz the Corrupt",
-						Drop = "9,77",
+						Method = "Several Bosses - Lord Alexei Barov best chance",
+						Drop = "0,13-0,9%",
 					}
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -7498,6 +6766,15 @@ BiSData = {
 						Drop = "3%",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 22402,
 					Obtain = {
@@ -7509,7 +6786,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 			Head = {
 					itemID = 19375,
 					Obtain = {
@@ -7654,6 +6931,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 23006,
 					Obtain = {
@@ -7667,14 +6953,14 @@ BiSData = {
 			},
 		},
 		Retribution = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 13404,
+					itemID = 12640,
 					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
+						Zone = "Molten Core,Onyxia's Lair",
+						Type = "by Profession (Blacksmithing)",
+						Method = "",
+						Drop = "1%",
 					}
 				},
 				Neck = {
@@ -7812,154 +7098,7 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 13404,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
-					}
-				},
-				Neck = {
-					itemID = 15411,
-					Obtain = {
-						Zone = "Western Plaguelands",
-						Type = "by Quest",
-						Method = "In Dreams",
-						Drop = "",
-					}
-				},
-				Shoulder = {
-					itemID = 12927,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Pyroguard Emberseer",
-						Drop = "11%",
-					}
-				},
-				Cloak = {
-					itemID = 13340,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "7%",
-					}
-				},
-				Chest = {
-					itemID = 11726,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Gorosh the Dervish",
-						Drop = "11%",
-					}
-				},
-				Wrist = {
-					itemID = 12936,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "11%",
-					}
-				},
-				Gloves = {
-					itemID = 13957,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Kirtonos the Herald",
-						Drop = "14%",
-					}
-				},
-				Waist = {
-					itemID = 13959,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "Maxwell's Mission",
-						Drop = "",
-					}
-				},
-				Legs = {
-					itemID = 14554,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus Ashi, Regal, Zora",
-						Drop = "10%",
-					}
-				},
-				Boots = {
-					itemID = 14616,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
-					}
-				},
-				Ring1 = {
-					itemID = 13098,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "15%",
-					}
-				},
-				Ring2 = {
-					itemID = 12548,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "The Princess's Surprise",
-						Drop = "",
-					}
-				},
-				Trinket1 = {
-					itemID = 13965,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 11815,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 12784,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Profession (Blacksmithing)",
-						Method = "Kill: Bannok Grimaxe",
-						Drop = "5%",
-					}
-				},
-				OffHand = {
+				TwoHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -7969,17 +7108,17 @@ BiSData = {
 					}
 				},
 				Ranged = {
-					itemID = 0,
+					itemID = 22401,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Isalien",
+						Drop = "16%",
 					}
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -8124,7 +7263,7 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
+				TwoHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -8133,9 +7272,18 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				Ranged = {
+					itemID = 22401,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Isalien",
+						Drop = "16%",
+					}
+				},
 
 			},
-			Phase3 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -8280,7 +7428,7 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
+				TwoHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -8289,9 +7437,18 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				Ranged = {
+					itemID = 22401,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Isalien",
+						Drop = "16%",
+					}
+				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -8436,7 +7593,7 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
+				TwoHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -8445,9 +7602,18 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				Ranged = {
+					itemID = 22401,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Isalien",
+						Drop = "16%",
+					}
+				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 21387,
 					Obtain = {
@@ -8592,6 +7758,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 23203,
 					Obtain = {
@@ -8603,7 +7778,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 21387,
 					Obtain = {
@@ -8748,6 +7923,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 23203,
 					Obtain = {
@@ -8761,7 +7945,7 @@ BiSData = {
 			},
 		},
 		Protection = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
 					itemID = 12952,
 					Obtain = {
@@ -8781,57 +7965,57 @@ BiSData = {
 					}
 				},
 				Shoulder = {
-					itemID = 14552,
+					itemID = 18681,
 					Obtain = {
-						Zone = "",
+						Zone = "Scholomance",
 						Type = "By Killing",
-						Method = "random 48-58 mob",
-						Drop = "~0.1%",
+						Method = "Several Bosses",
+						Drop = "~9%",
 					}
 				},
 				Cloak = {
-					itemID = 13397,
+					itemID = 18495,
 					Obtain = {
-						Zone = "Stratholme",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Stonespine",
-						Drop = "20%",
+						Method = "Mizzle the Crafty",
+						Drop = "1.1%",
 					}
 				},
 				Chest = {
-					itemID = 14624,
+					itemID = 13346,
 					Obtain = {
-						Zone = "Scholomance",
+						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "4%",
+						Method = "Baron Rivendare",
+						Drop = "14%",
 					}
 				},
 				Wrist = {
-					itemID = 12550,
+					itemID = 18497,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Trash",
-						Drop = "~0.1%",
+						Method = "Guard Slip'kik & Guard Mol'dar",
+						Drop = "5-6%",
 					}
 				},
 				Gloves = {
-					itemID = 14622,
+					itemID = 12554,
 					Obtain = {
-						Zone = "Scholomance",
+						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
+						Method = "Princess Moira Bronzebeard",
+						Drop = "23%",
 					}
 				},
 				Waist = {
-					itemID = 14620,
+					itemID = 18327,
 					Obtain = {
-						Zone = "Scholomance",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
+						Method = "Alzzin the Wildshaper",
+						Drop = "19%",
 					}
 				},
 				Legs = {
@@ -8853,21 +8037,21 @@ BiSData = {
 					}
 				},
 				Ring1 = {
-					itemID = 11669,
+					itemID = 16058,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "27%",
+						Zone = "Western Plaguelands",
+						Type = "By Quest",
+						Method = "In Dreams",
+						Drop = "",
 					}
 				},
 				Ring2 = {
-					itemID = 10795,
+					itemID = 18395,
 					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Morphaz",
-						Drop = "5%",
+						Method = "Prince Tortheldrin",
+						Drop = "24%",
 					}
 				},
 				Trinket1 = {
@@ -8880,21 +8064,21 @@ BiSData = {
 					}
 				},
 				Trinket2 = {
-					itemID = 10779,
-					Obtain = {
-						Zone = "Blasted Lands",
-						Type = "by Quest",
-						Method = "You Are Rakh'likh, Demon",
-						Drop = "",
-					}
-				},
-				MainHand = {
-					itemID = 11784,
+					itemID = 11819,
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Warder Stilgiss",
-						Drop = "17%",
+						Method = "Golem Lord Argelmach",
+						Drop = "9%"
+					}
+				},
+				MainHand = {
+					itemID = 18396,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Prince Tortheldrin",
+						Drop = "22%",
 					}
 				},
 				OffHand = {
@@ -8906,18 +8090,27 @@ BiSData = {
 						Drop = "12%",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 11932,
 					Obtain = {
-						Zone = "",
-						Type = "",
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Emperor Dagran Thaurissan",
+						Drop = "16",
+					}
+				},
+				Ranged = {
+					itemID = 23203,
+					Obtain = {
+						Zone = "World Drop",
+						Type = "By Killing",
 						Method = "",
-						Drop = "",
+						Drop = "~7%",
 					}
 				},
 
 			},
-			Phase2PreRaid = {
+			Phase2_MC_Ony = {
 				Head = {
 					itemID = 12952,
 					Obtain = {
@@ -8928,12 +8121,12 @@ BiSData = {
 					}
 				},
 				Neck = {
-					itemID = 13091,
+					itemID = 17065,
 					Obtain = {
-						Zone = "Silithus",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Qiraji Brigadier General Pax-lish",
-						Drop = "8%",
+						Method = "Magmadar",
+						Drop = "32%",
 					}
 				},
 				Shoulder = {
@@ -9000,12 +8193,12 @@ BiSData = {
 					}
 				},
 				Boots = {
-					itemID = 14621,
+					itemID = 18806,
 					Obtain = {
-						Zone = "Scholomance",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
+						Method = "Majordomo Executus",
+						Drop = "23%",
 					}
 				},
 				Ring1 = {
@@ -9018,11 +8211,11 @@ BiSData = {
 					}
 				},
 				Ring2 = {
-					itemID = 10795,
+					itemID = 18879,
 					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Morphaz",
+						Method = "Several bosses",
 						Drop = "5%",
 					}
 				},
@@ -9036,33 +8229,33 @@ BiSData = {
 					}
 				},
 				Trinket2 = {
-					itemID = 10779,
+					itemID = 18406,
 					Obtain = {
-						Zone = "Blasted Lands",
-						Type = "by Quest",
-						Method = "You Are Rakh'likh, Demon",
-						Drop = "",
+						Zone = "Onyxia's Lair",
+						Type = "by Killing",
+						Method = "by Quest: Head of Onyxia",
+						Drop = "100%",
 					}
 				},
 				MainHand = {
-					itemID = 18396,
+					itemID = 17103,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Prince Tortheldrin",
-						Drop = "22%",
+						Method = "Golemagg the Incinerator",
+						Drop = "37%",
 					}
 				},
 				OffHand = {
-					itemID = 12602,
+					itemID = 17066,
 					Obtain = {
-						Zone = "Blackrock Spire",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "12%",
+						Method = "Garr",
+						Drop = "26%",
 					}
 				},
-				Ranged = {
+				TwoHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -9071,165 +8264,18 @@ BiSData = {
 						Drop = "",
 					}
 				},
-
-			},
-			Phase2 = {
-				Head = {
-					itemID = 12952,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Gyth",
-						Drop = "13%",
-					}
-				},
-				Neck = {
-					itemID = 13091,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Qiraji Brigadier General Pax-lish",
-						Drop = "8%",
-					}
-				},
-				Shoulder = {
-					itemID = 14552,
-					Obtain = {
-						Zone = "",
-						Type = "By Killing",
-						Method = "random 48-58 mob",
-						Drop = "~0.1%",
-					}
-				},
-				Cloak = {
-					itemID = 13397,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Stonespine",
-						Drop = "20%",
-					}
-				},
-				Chest = {
-					itemID = 14624,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "4%",
-					}
-				},
-				Wrist = {
-					itemID = 12550,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "~0.1%",
-					}
-				},
-				Gloves = {
-					itemID = 14622,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
-					}
-				},
-				Waist = {
-					itemID = 14620,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
-					}
-				},
-				Legs = {
-					itemID = 14623,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
-					}
-				},
-				Boots = {
-					itemID = 14621,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
-					}
-				},
-				Ring1 = {
-					itemID = 11669,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "27%",
-					}
-				},
-				Ring2 = {
-					itemID = 10795,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Morphaz",
-						Drop = "5%",
-					}
-				},
-				Trinket1 = {
-					itemID = 11810,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "General Angerforge",
-						Drop = "8%",
-					}
-				},
-				Trinket2 = {
-					itemID = 10779,
-					Obtain = {
-						Zone = "Blasted Lands",
-						Type = "by Quest",
-						Method = "You Are Rakh'likh, Demon",
-						Drop = "",
-					}
-				},
-				MainHand = {
-					itemID = 11784,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Warder Stilgiss",
-						Drop = "17%",
-					}
-				},
-				OffHand = {
-					itemID = 12602,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "12%",
-					}
-				},
 				Ranged = {
-					itemID = 0,
+					itemID = 23203,
 					Obtain = {
-						Zone = "",
-						Type = "",
+						Zone = "World Drop",
+						Type = "By Killing",
 						Method = "",
-						Drop = "",
+						Drop = "~7%",
 					}
 				},
 
 			},
-			Phase3 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 16955,
 					Obtain = {
@@ -9374,7 +8420,7 @@ BiSData = {
 						Drop = "26%",
 					}
 				},
-				Ranged = {
+				TwoHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -9383,9 +8429,18 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				Ranged = {
+					itemID = 23203,
+					Obtain = {
+						Zone = "World Drop",
+						Type = "By Killing",
+						Method = "",
+						Drop = "~7%",
+					}
+				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 16955,
 					Obtain = {
@@ -9530,7 +8585,7 @@ BiSData = {
 						Drop = "9,42%",
 					}
 				},
-				Ranged = {
+				TwoHand = {
 					itemID = 0,
 					Obtain = {
 						Zone = "",
@@ -9539,9 +8594,18 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				Ranged = {
+					itemID = 23203,
+					Obtain = {
+						Zone = "World Drop",
+						Type = "By Killing",
+						Method = "",
+						Drop = "~7%",
+					}
+				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 21387,
 					Obtain = {
@@ -9686,6 +8750,15 @@ BiSData = {
 						Drop = "4%"
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 22401,
 					Obtain = {
@@ -9697,7 +8770,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 21387,
 					Obtain = {
@@ -9842,6 +8915,15 @@ BiSData = {
 						Drop = "12%",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 22401,
 					Obtain = {
@@ -9857,163 +8939,7 @@ BiSData = {
 	},
 	Priest = {
 		Holy = {
-			Phase1 = {
-				Head = {
-					itemID = 13102,
-					Obtain = {
-						Zone = "Alterac Mountains",
-						Type = "By Killing",
-						Method = "Narillasanz",
-						Drop = "~0.1%",
-					}
-				},
-				Neck = {
-					itemID = 18723,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Ramstein the Gorger",
-						Drop = "7%",
-					}
-				},
-				Shoulder = {
-					itemID = 13013,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
-					}
-				},
-				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 14154,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "by Profession (Tailoring)",
-						Method = "Kill: Balnazzar",
-						Drop = "3%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 10787,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Gasher, Hukku, Loro",
-						Drop = "5%",
-					}
-				},
-				Waist = {
-					itemID = 14143,
-					Obtain = {
-						Zone = "Azshara",
-						Type = "by Profession (Tailoring)",
-						Method = "Kill: Lingering Highborne",
-						Drop = "1.8%",
-					}
-				},
-				Legs = {
-					itemID = 11841,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Fineous Darkvire",
-						Drop = "26%",
-					}
-				},
-				Boots = {
-					itemID = 11822,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "22%",
-					}
-				},
-				Ring1 = {
-					itemID = 16058,
-					Obtain = {
-						Zone = "Western Plaguelands",
-						Type = "by Quest",
-						Method = "In Dreams",
-						Drop = "",
-					}
-				},
-				Ring2 = {
-					itemID = 13178,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Urok Doomhowl",
-						Drop = "9%",
-					}
-				},
-				Trinket1 = {
-					itemID = 11819,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "6%",
-					}
-				},
-				Trinket2 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				MainHand = {
-					itemID = 11923,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Dope'rel",
-						Drop = "33%",
-					}
-				},
-				OffHand = {
-					itemID = 11928,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "14%",
-					}
-				},
-				Ranged = {
-					itemID = 16997,
-					Obtain = {
-						Zone = "Estern Plaguelands",
-						Type = "by Quest",
-						Method = "Order Must Be Restored",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
+			Phase1_PreRaid = {
 				Head = {
 					itemID = 13102,
 					Obtain = {
@@ -10158,6 +9084,15 @@ BiSData = {
 						Drop = "24%",
 					}
 				},
+				TwoHand = {
+					itemID = 11932,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Emperor Dagran Thaurissan",
+						Drop = "16%",
+					}
+				},
 				Ranged = {
 					itemID = 18483,
 					Obtain = {
@@ -10169,7 +9104,172 @@ BiSData = {
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 16921,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "26%",
+					}
+				},
+				Neck = {
+					itemID = 18723,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Ramstein the Gorger",
+						Drop = "7%",
+					}
+				},
+				Shoulder = {
+					itemID = 16816,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Sulfuron Harbinger",
+						Drop = "33%",
+					}
+				},
+				Cloak = {
+					itemID = 18510,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "by Profession (leatherworking)",
+						Method = "Knot Thimblejack's Cache",
+						Drop = "1.6%",
+					}
+				},
+				Chest = {
+					itemID = 14154,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "by Profession (Tailoring)",
+						Method = "Kill: Balnazzar",
+						Drop = "3%",
+					}
+				},
+				Wrist = {
+					itemID = 16819,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "2%",
+					}
+				},
+				Gloves = {
+					itemID = 16812,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Gehennas",
+						Drop = "32%",
+					}
+				},
+				Waist = {
+					itemID = 16817,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Trash",
+						Drop = "2%",
+					}
+				},
+				Legs = {
+					itemID = 16922,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Boots = {
+					itemID = 16811,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Shazzrah",
+						Drop = "24%",
+					}
+				},
+				Ring1 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Majordomo Executus",
+						Drop = "21%",
+					}
+				},
+				Ring2 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Majordomo Executus",
+						Drop = "21%",
+					}
+				},
+				Trinket1 = {
+					itemID = 18469,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Quest",
+						Method = "Holy Bologna",
+						Drop = "",
+					}
+				},
+				Trinket2 = {
+					itemID = 17064,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "8%",
+					}
+				},
+				MainHand = {
+					itemID = 17105,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Garr",
+						Drop = "27%",
+					}
+				},
+				OffHand = {
+					itemID = 19312,
+					Obtain = {
+						Zone = "PVP",
+						Type = "Alterac Valley",
+						Method = "Exalted Stormpike",
+						Drop = "",
+					}
+				},
+				TwoHand = {
+					itemID = 18608,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Quest",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 18483,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "by Killing",
+						Method = "Cho'Rush the Observer",
+						Drop = "39%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 16921,
 					Obtain = {
@@ -10314,145 +9414,7 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
-					itemID = 18483,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "by Killing",
-						Method = "Cho'Rush the Observer",
-						Drop = "39%",
-					}
-				},
-
-			},
-			Phase3 = {
-				Head = {
-					itemID = 16921,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "By Killing",
-						Method = "Onyxia",
-						Drop = "26%",
-					}
-				},
-				Neck = {
-					itemID = 18723,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Ramstein the Gorger",
-						Drop = "7%",
-					}
-				},
-				Shoulder = {
-					itemID = 16816,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Sulfuron Harbinger",
-						Drop = "33%",
-					}
-				},
-				Cloak = {
-					itemID = 18510,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "by Profession (leatherworking)",
-						Method = "Knot Thimblejack's Cache",
-						Drop = "1.6%",
-					}
-				},
-				Chest = {
-					itemID = 14154,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "by Profession (Tailoring)",
-						Method = "Kill: Balnazzar",
-						Drop = "3%",
-					}
-				},
-				Wrist = {
-					itemID = 16819,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "2%",
-					}
-				},
-				Gloves = {
-					itemID = 16812,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Gehennas",
-						Drop = "32%",
-					}
-				},
-				Waist = {
-					itemID = 16817,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Trash",
-						Drop = "2%",
-					}
-				},
-				Legs = {
-					itemID = 16922,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "13%",
-					}
-				},
-				Boots = {
-					itemID = 16811,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Shazzrah",
-						Drop = "24%",
-					}
-				},
-				Ring1 = {
-					itemID = 19140,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Majordomo Executus",
-						Drop = "21%",
-					}
-				},
-				Ring2 = {
-					itemID = 19140,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Majordomo Executus",
-						Drop = "21%",
-					}
-				},
-				Trinket1 = {
-					itemID = 18469,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Quest",
-						Method = "Holy Bologna",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 17064,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "By Killing",
-						Method = "Onyxia",
-						Drop = "8%",
-					}
-				},
-				MainHand = {
+				TwoHand = {
 					itemID = 18608,
 					Obtain = {
 						Zone = "Molten Core",
@@ -10461,15 +9423,6 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
 				Ranged = {
 					itemID = 18483,
 					Obtain = {
@@ -10481,7 +9434,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -10626,6 +9579,15 @@ BiSData = {
 						Drop = "100%",
 					}
 				},
+				TwoHand = {
+					itemID = 18608,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Quest",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 19367,
 					Obtain = {
@@ -10637,7 +9599,7 @@ BiSData = {
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 21615,
 					Obtain = {
@@ -10782,6 +9744,15 @@ BiSData = {
 						Drop = "100%",
 					}
 				},
+				TwoHand = {
+					itemID = 18608,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Quest",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 19367,
 					Obtain = {
@@ -10793,7 +9764,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 22514,
 					Obtain = {
@@ -10938,6 +9909,15 @@ BiSData = {
 						Drop = "14%",
 					}
 				},
+				TwoHand = {
+					itemID = 18608,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Quest",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 23009,
 					Obtain = {
@@ -10951,7 +9931,7 @@ BiSData = {
 			}
 		},
 		Hybrid = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
 					itemID = 10504,
 					Obtain = {
@@ -11096,6 +10076,15 @@ BiSData = {
 						Drop = "5%",
 					}
 				},
+				TwoHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
+					}
+				},
 				Ranged = {
 					itemID = 13396,
 					Obtain = {
@@ -11109,172 +10098,16 @@ BiSData = {
 			},
 		},
 		Shadow = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 10504,
-					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 18691,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Vectus",
-						Drop = "4%",
-					}
-				},
-				Shoulder = {
-					itemID = 14112,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "3%",
-					}
-				},
-				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 14136,
-					Obtain = {
-						Zone = "Winterspring",
-						Type = "By Killing",
-						Method = "Cobalt Mageweaver",
-						Drop = "2%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 13253,
+					itemID = 22267,
 					Obtain = {
 						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "Quartermaster Zigris",
-						Drop = "7%",
-					}
-				},
-				Waist = {
-					itemID = 11662,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Ok'thor the Breaker",
-						Drop = "27%",
-					}
-				},
-				Legs = {
-					itemID = 13170,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
-					}
-				},
-				Boots = {
-					itemID = 18735,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "25%",
-					}
-				},
-				Ring1 = {
-					itemID = 12543,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "by Quest",
-						Method = "The Princess's Surprise",
-						Drop = "",
-					}
-				},
-				Ring2 = {
-					itemID = 13001,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "The Razza",
-						Drop = "9%",
-					}
-				},
-				Trinket1 = {
-					itemID = 11819,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "6%",
-					}
-				},
-				Trinket2 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
+						Method = "General Drakkisath",
 						Drop = "20%",
 					}
 				},
-				MainHand = {
-					itemID = 13349,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "10%",
-					}
-				},
-				OffHand = {
-					itemID = 10796,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Dreamscythe",
-						Drop = "5%",
-					}
-				},
-				Ranged = {
-					itemID = 13396,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Skul",
-						Drop = "21%",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 10504,
-					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
-					}
-				},
 				Neck = {
 					itemID = 18691,
 					Obtain = {
@@ -11285,12 +10118,12 @@ BiSData = {
 					}
 				},
 				Shoulder = {
-					itemID = 14112,
+					itemID = 20686,
 					Obtain = {
-						Zone = "Molten Core",
+						Zone = "Silithus",
 						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "3%",
+						Method = "Baron Kazum",
+						Drop = "33%",
 					}
 				},
 				Cloak = {
@@ -11299,25 +10132,25 @@ BiSData = {
 						Zone = "Stratholme",
 						Type = "By Killing",
 						Method = "Archivist Galford",
-						Drop = "19%",
+						Drop = "21%",
 					}
 				},
 				Chest = {
-					itemID = 14136,
+					itemID = 19682,
 					Obtain = {
-						Zone = "Winterspring",
-						Type = "By Killing",
-						Method = "Cobalt Mageweaver",
-						Drop = "2%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Wrist = {
-					itemID = 11766,
+					itemID = 18497,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
+						Method = "Guard Mol'dar or Guard Slip'kik",
+						Drop = "6%",
 					}
 				},
 				Gloves = {
@@ -11339,21 +10172,21 @@ BiSData = {
 					}
 				},
 				Legs = {
-					itemID = 13170,
+					itemID = 19683,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Boots = {
-					itemID = 18735,
+					itemID = 19684,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "25%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ring1 = {
@@ -11366,30 +10199,30 @@ BiSData = {
 					}
 				},
 				Ring2 = {
-					itemID = 13001,
+					itemID = 22339,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "The Razza",
-						Drop = "9%",
+						Method = "Lord Valthalak",
+						Drop = "29%",
 					}
 				},
 				Trinket1 = {
-					itemID = 11819,
+					itemID = 12930,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "6%",
+						Method = "Jed Runewatcher",
+						Drop = "30",
 					}
 				},
 				Trinket2 = {
-					itemID = 18371,
+					itemID = 13968,
 					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Magister Kalendris",
-						Drop = "9%",
+						Zone = "Blackrock Spire",
+						Type = "By Quest",
+						Method = "General Drakkisath's Demise",
+						Drop = "",
 					}
 				},
 				MainHand = {
@@ -11402,12 +10235,21 @@ BiSData = {
 					}
 				},
 				OffHand = {
-					itemID = 10796,
+					itemID = 22329,
 					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
+						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Dreamscythe",
-						Drop = "5%",
+						Method = "Sothos and Jarien's Heirlooms",
+						Drop = "19%",
+					}
+				},
+				TwoHand = {
+					itemID = 18534,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Mizzle the Crafty",
+						Drop = "1,6%%",
 					}
 				},
 				Ranged = {
@@ -11421,7 +10263,172 @@ BiSData = {
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 10504,
+					Obtain = {
+						Zone = "Tanaris",
+						Type = "by Profession (Engineering)",
+						Method = "Vendor: Buzzek Bracketswing",
+						Drop = "",
+					}
+				},
+				Neck = {
+					itemID = 18814,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "11%",
+					}
+				},
+				Shoulder = {
+					itemID = 14112,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "3%",
+					}
+				},
+				Cloak = {
+					itemID = 17078,
+					Obtain = {
+						Zone = "Onyxias Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "20,59%",
+					}
+				},
+				Chest = {
+					itemID = 14136,
+					Obtain = {
+						Zone = "Winterspring",
+						Type = "By Killing",
+						Method = "Cobalt Mageweaver",
+						Drop = "2%",
+					}
+				},
+				Wrist = {
+					itemID = 18497,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Guard Mol'dar or Guard Slip'kik",
+						Drop = "6%",
+					}
+				},
+				Gloves = {
+					itemID = 18407,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Profession (Tailoring)",
+						Method = "Knot Thimblejack's Cache",
+						Drop = "15%",
+					}
+				},
+				Waist = {
+					itemID = 18809,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "5%",
+					}
+				},
+				Legs = {
+					itemID = 19133,
+					Obtain = {
+						Zone = "Blasted Lands",
+						Type = "By Killing",
+						Method = "Lord Kazzak",
+						Drop = "12%",
+					}
+				},
+				Boots = {
+					itemID = 19131,
+					Obtain = {
+						Zone = "Azshara",
+						Type = "By Killing",
+						Method = "Azuregos",
+						Drop = "9%",
+					}
+				},
+				Ring1 = {
+					itemID = 19147,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "5",
+					}
+				},
+				Ring2 = {
+					itemID = 19147,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "5",
+					}
+				},
+				Trinket1 = {
+					itemID = 18820,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "7%",
+					}
+				},
+				Trinket2 = {
+					itemID = 12930,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Jed Runewatcher",
+						Drop = "20%",
+					}
+				},
+				MainHand = {
+					itemID = 18878,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Gehennas, Sulfuronherold, Shazzrah",
+						Drop = "4-7%",
+					}
+				},
+				OffHand = {
+					itemID = 19309,
+					Obtain = {
+						Zone = "PVP",
+						Type = "Alterac Valley",
+						Method = "Exalted",
+						Drop = "",
+					}
+				},
+				TwoHand = {
+					itemID = 18609,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Quest",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 13396,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Skul",
+						Drop = "21%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 10504,
 					Obtain = {
@@ -11566,160 +10573,13 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
-					itemID = 13396,
+				TwoHand = {
+					itemID = 943,
 					Obtain = {
-						Zone = "Stratholme",
+						Zone = "Zul'Farrak",
 						Type = "By Killing",
-						Method = "Skul",
-						Drop = "21%",
-					}
-				},
-
-			},
-			Phase3 = {
-				Head = {
-					itemID = 10504,
-					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 18814,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "11%",
-					}
-				},
-				Shoulder = {
-					itemID = 14112,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "3%",
-					}
-				},
-				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 14136,
-					Obtain = {
-						Zone = "Winterspring",
-						Type = "By Killing",
-						Method = "Cobalt Mageweaver",
-						Drop = "2%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 18407,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Profession (Tailoring)",
-						Method = "Knot Thimblejack's Cache",
-						Drop = "15%",
-					}
-				},
-				Waist = {
-					itemID = 18809,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Majordomo Executus",
-						Drop = "5%",
-					}
-				},
-				Legs = {
-					itemID = 19133,
-					Obtain = {
-						Zone = "Blasted Lands",
-						Type = "By Killing",
-						Method = "Lord Kazzak",
-						Drop = "12%",
-					}
-				},
-				Boots = {
-					itemID = 19131,
-					Obtain = {
-						Zone = "Azshara",
-						Type = "By Killing",
-						Method = "Azuregos",
-						Drop = "9%",
-					}
-				},
-				Ring1 = {
-					itemID = 19147,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Several bosses",
-						Drop = "5",
-					}
-				},
-				Ring2 = {
-					itemID = 19147,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Several bosses",
-						Drop = "5",
-					}
-				},
-				Trinket1 = {
-					itemID = 18820,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several bosses",
-						Drop = "7%",
-					}
-				},
-				Trinket2 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				MainHand = {
-					itemID = 18609,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Quest",
-						Method = "",
-						Drop = "",
-					}
-				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Method = "Trash",
+						Drop = "~0.1%",
 					}
 				},
 				Ranged = {
@@ -11733,7 +10593,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 19886,
 					Obtain = {
@@ -11878,6 +10738,15 @@ BiSData = {
 						Drop = "100%",
 					}
 				},
+				TwoHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9,08%"
+					}
+				},
 				Ranged = {
 					itemID = 13396,
 					Obtain = {
@@ -11889,7 +10758,7 @@ BiSData = {
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 21348,
 					Obtain = {
@@ -12034,6 +10903,15 @@ BiSData = {
 						Drop = "100%",
 					}
 				},
+				TwoHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9,08%"
+					}
+				},
 				Ranged = {
 					itemID = 13396,
 					Obtain = {
@@ -12045,7 +10923,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 23035,
 					Obtain = {
@@ -12190,6 +11068,15 @@ BiSData = {
 						Drop = "7%",
 					}
 				},
+				TwoHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9,08%"
+					}
+				},
 				Ranged = {
 					itemID = 13396,
 					Obtain = {
@@ -12205,14 +11092,14 @@ BiSData = {
 	},
 	Rogue = {
 		Swords = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 13404,
+					itemID = 22005,
 					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
+						Drop = "",
 					}
 				},
 				Neck = {
@@ -12225,12 +11112,12 @@ BiSData = {
 					}
 				},
 				Shoulder = {
-					itemID = 12927,
+					itemID = 22008,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Pyroguard Emberseer",
-						Drop = "11%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
 					}
 				},
 				Cloak = {
@@ -12243,66 +11130,66 @@ BiSData = {
 					}
 				},
 				Chest = {
-					itemID = 14637,
+					itemID = 22009,
 					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "5%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
+						Drop = "",
 					}
 				},
 				Wrist = {
-					itemID = 13120,
+					itemID = 22004,
 					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "An Earnest Proposition",
+						Drop = "",
 					}
 				},
 				Gloves = {
-					itemID = 15063,
+					itemID = 22006,
 					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Vendor: Nergal",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Just Compensation",
 						Drop = "",
 					}
 				},
 				Waist = {
-					itemID = 13252,
+					itemID = 22002,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Quartermaster Zigris",
-						Drop = "11%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Just Compensation",
+						Drop = "",
 					}
 				},
 				Legs = {
-					itemID = 15062,
+					itemID = 22007,
 					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Glutinous Ooze",
-						Drop = "1.08%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
 					}
 				},
 				Boots = {
-					itemID = 12553,
+					itemID = 22003,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Princess Moira Bronzebeard",
-						Drop = "14%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
 					}
 				},
 				Ring1 = {
-					itemID = 13098,
+					itemID = 18500,
 					Obtain = {
-						Zone = "Blackrock Spire",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "15%",
+						Method = "Mizzle the Crafty",
+						Drop = "3%",
 					}
 				},
 				Ring2 = {
@@ -12311,162 +11198,6 @@ BiSData = {
 						Zone = "Maraudon",
 						Type = "By Killing",
 						Method = "Princess Theradras",
-						Drop = "5%",
-					}
-				},
-				Trinket1 = {
-					itemID = 13965,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 11815,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 12940,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "4%",
-					}
-				},
-				OffHand = {
-					itemID = 12939,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "8%",
-					}
-				},
-				Ranged = {
-					itemID = 12651,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Shadow Hunter Vosh'gajin",
-						Drop = "6%",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 13404,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
-					}
-				},
-				Neck = {
-					itemID = 15411,
-					Obtain = {
-						Zone = "Western Plaguelands",
-						Type = "by Quest",
-						Method = "In Dreams",
-						Drop = "",
-					}
-				},
-				Shoulder = {
-					itemID = 12927,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Pyroguard Emberseer",
-						Drop = "11%",
-					}
-				},
-				Cloak = {
-					itemID = 13340,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "7%",
-					}
-				},
-				Chest = {
-					itemID = 14637,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "5%",
-					}
-				},
-				Wrist = {
-					itemID = 18375,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Prince Tortheldrin",
-						Drop = "10%",
-					}
-				},
-				Gloves = {
-					itemID = 15063,
-					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Vendor: Nergal",
-						Drop = "",
-					}
-				},
-				Waist = {
-					itemID = 13252,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Quartermaster Zigris",
-						Drop = "11%",
-					}
-				},
-				Legs = {
-					itemID = 15062,
-					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Glutinous Ooze",
-						Drop = "1.08%",
-					}
-				},
-				Boots = {
-					itemID = 12553,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Princess Moira Bronzebeard",
-						Drop = "14%",
-					}
-				},
-				Ring1 = {
-					itemID = 18500,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Mizzle the Crafty",
-						Drop = "3%",
-					}
-				},
-				Ring2 = {
-					itemID = 18500,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Mizzle the Crafty",
 						Drop = "3%",
 					}
 				},
@@ -12504,6 +11235,15 @@ BiSData = {
 						Type = "By Killing",
 						Method = "Warchief Rend Blackhand",
 						Drop = "8%",
+					}
+				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ranged = {
@@ -12517,7 +11257,163 @@ BiSData = {
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 22005,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
+						Drop = "",
+					}
+				},
+				Neck = {
+					itemID = 18404,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "by Killing",
+						Method = "by Quest: Head of Onyxia",
+						Drop = "100%",
+					}
+				},
+				Shoulder = {
+					itemID = 22008,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
+					}
+				},
+				Chest = {
+					itemID = 22009,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
+						Drop = "",
+					}
+				},
+				Wrist = {
+					itemID = 22004,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "An Earnest Proposition",
+						Drop = "",
+					}
+				},
+				Gloves = {
+					itemID = 22006,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Just Compensation",
+						Drop = "",
+					}
+				},
+				Waist = {
+					itemID = 22002,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Just Compensation",
+						Drop = "",
+					}
+				},
+				Legs = {
+					itemID = 22007,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
+					}
+				},
+				Boots = {
+					itemID = 22003,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
+					}
+				},
+				Ring1 = {
+					itemID = 17063,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Ring2 = {
+					itemID = 18500,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Mizzle the Crafty",
+						Drop = "3%",
+					}
+				},
+				Trinket1 = {
+					itemID = 13965,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "by Quest",
+						Method = "General Drakkisath's Demise",
+						Drop = "",
+					}
+				},
+				Trinket2 = {
+					itemID = 11815,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Emperor Dagran Thaurissan",
+						Drop = "4%",
+					}
+				},
+				MainHand = {
+					itemID = 17075,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "8%",
+					}
+				},
+				OffHand = {
+					itemID = 18832,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Garr",
+						Drop = "20%",
+					}
+				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 17069,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "21%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 16908,
 					Obtain = {
@@ -12662,162 +11558,15 @@ BiSData = {
 						Drop = "20%",
 					}
 				},
-				Ranged = {
-					itemID = 17069,
+				TwoHand = {
+					itemID = 0,
 					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Magmadar",
-						Drop = "21%",
-					}
-				},
-
-			},
-			Phase3 = {
-				Head = {
-					itemID = 16908,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "By Killing",
-						Method = "Onyxia",
-						Drop = "18%",
-					}
-				},
-				Neck = {
-					itemID = 18404,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "by Killing",
-						Method = "by Quest: Head of Onyxia",
-						Drop = "100%",
-					}
-				},
-				Shoulder = {
-					itemID = 16823,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Sulfuron Harbinger",
-						Drop = "35%",
-					}
-				},
-				Cloak = {
-					itemID = 13340,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "7%",
-					}
-				},
-				Chest = {
-					itemID = 16820,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Golemagg the Incinerator",
-						Drop = "24%",
-					}
-				},
-				Wrist = {
-					itemID = 18375,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Prince Tortheldrin",
-						Drop = "10%",
-					}
-				},
-				Gloves = {
-					itemID = 16826,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Gehennas",
-						Drop = "32",
-					}
-				},
-				Waist = {
-					itemID = 16827,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "2%",
-					}
-				},
-				Legs = {
-					itemID = 16909,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Ragnaros",
-						Drop = "14%",
-					}
-				},
-				Boots = {
-					itemID = 16824,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Shazzrah",
-						Drop = "32%",
-					}
-				},
-				Ring1 = {
-					itemID = 17063,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "13%",
-					}
-				},
-				Ring2 = {
-					itemID = 18500,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Mizzle the Crafty",
-						Drop = "3%",
-					}
-				},
-				Trinket1 = {
-					itemID = 13965,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
+						Zone = "",
+						Type = "",
+						Method = "",
 						Drop = "",
 					}
 				},
-				Trinket2 = {
-					itemID = 11815,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 17075,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "By Killing",
-						Method = "Onyxia",
-						Drop = "8%",
-					}
-				},
-				OffHand = {
-					itemID = 18832,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Garr",
-						Drop = "20%",
-					}
-				},
 				Ranged = {
 					itemID = 17069,
 					Obtain = {
@@ -12829,7 +11578,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 16908,
 					Obtain = {
@@ -12974,6 +11723,15 @@ BiSData = {
 						Drop = "19,41%",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 17069,
 					Obtain = {
@@ -12985,7 +11743,7 @@ BiSData = {
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 21360,
 					Obtain = {
@@ -13130,6 +11888,15 @@ BiSData = {
 						Drop = "10,18%",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 17069,
 					Obtain = {
@@ -13141,7 +11908,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 21360,
 					Obtain = {
@@ -13286,6 +12053,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 22812,
 					Obtain = {
@@ -13299,14 +12075,14 @@ BiSData = {
 			}
 		},
 		Daggers = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 13404,
+					itemID = 22005,
 					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
+						Drop = "",
 					}
 				},
 				Neck = {
@@ -13319,12 +12095,12 @@ BiSData = {
 					}
 				},
 				Shoulder = {
-					itemID = 12927,
+					itemID = 22008,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Pyroguard Emberseer",
-						Drop = "11%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
 					}
 				},
 				Cloak = {
@@ -13337,185 +12113,29 @@ BiSData = {
 					}
 				},
 				Chest = {
-					itemID = 14637,
+					itemID = 22009,
 					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "5%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
+						Drop = "",
 					}
 				},
 				Wrist = {
-					itemID = 13120,
+					itemID = 22004,
 					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "An Earnest Proposition",
+						Drop = "",
 					}
 				},
 				Gloves = {
-					itemID = 15063,
+					itemID = 22006,
 					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Vendor: Nergal",
-						Drop = "",
-					}
-				},
-				Waist = {
-					itemID = 13252,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Quartermaster Zigris",
-						Drop = "11%",
-					}
-				},
-				Legs = {
-					itemID = 15062,
-					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Glutinous Ooze",
-						Drop = "1.08%",
-					}
-				},
-				Boots = {
-					itemID = 12553,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Princess Moira Bronzebeard",
-						Drop = "14%",
-					}
-				},
-				Ring1 = {
-					itemID = 13098,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "15%",
-					}
-				},
-				Ring2 = {
-					itemID = 17713,
-					Obtain = {
-						Zone = "Maraudon",
-						Type = "By Killing",
-						Method = "Princess Theradras",
-						Drop = "5%",
-					}
-				},
-				Trinket1 = {
-					itemID = 13965,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 11815,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 12783,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "by Profession (Blacksmithing)",
-						Method = "Kill: Cannon Master Willey",
-						Drop = "6%",
-					}
-				},
-				OffHand = {
-					itemID = 14555,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Lieutenant General Nokhor",
-						Drop = "11%",
-					}
-				},
-				Ranged = {
-					itemID = 12651,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Shadow Hunter Vosh'gajin",
-						Drop = "6%",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 13404,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
-					}
-				},
-				Neck = {
-					itemID = 15411,
-					Obtain = {
-						Zone = "Western Plaguelands",
-						Type = "by Quest",
-						Method = "In Dreams",
-						Drop = "",
-					}
-				},
-				Shoulder = {
-					itemID = 12927,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Pyroguard Emberseer",
-						Drop = "11%",
-					}
-				},
-				Cloak = {
-					itemID = 13340,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "7%",
-					}
-				},
-				Chest = {
-					itemID = 14637,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "5%",
-					}
-				},
-				Wrist = {
-					itemID = 18375,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Prince Tortheldrin",
-						Drop = "10%",
-					}
-				},
-				Gloves = {
-					itemID = 15063,
-					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Vendor: Nergal",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Just Compensation",
 						Drop = "",
 					}
 				},
@@ -13529,21 +12149,21 @@ BiSData = {
 					}
 				},
 				Legs = {
-					itemID = 15062,
+					itemID = 22007,
 					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Glutinous Ooze",
-						Drop = "1.08%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
 					}
 				},
 				Boots = {
-					itemID = 12553,
+					itemID = 22003,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Princess Moira Bronzebeard",
-						Drop = "14%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
 					}
 				},
 				Ring1 = {
@@ -13556,11 +12176,11 @@ BiSData = {
 					}
 				},
 				Ring2 = {
-					itemID = 18500,
+					itemID = 17713,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Maraudon",
 						Type = "By Killing",
-						Method = "Mizzle the Crafty",
+						Method = "Princess Theradras",
 						Drop = "3%",
 					}
 				},
@@ -13600,6 +12220,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 18323,
 					Obtain = {
@@ -13611,7 +12240,163 @@ BiSData = {
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 22005,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
+						Drop = "",
+					}
+				},
+				Neck = {
+					itemID = 18404,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "by Killing",
+						Method = "by Quest: Head of Onyxia",
+						Drop = "100%",
+					}
+				},
+				Shoulder = {
+					itemID = 22008,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
+					}
+				},
+				Chest = {
+					itemID = 22009,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
+						Drop = "",
+					}
+				},
+				Wrist = {
+					itemID = 22004,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "An Earnest Proposition",
+						Drop = "",
+					}
+				},
+				Gloves = {
+					itemID = 22006,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Just Compensation",
+						Drop = "",
+					}
+				},
+				Waist = {
+					itemID = 22002,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Just Compensation",
+						Drop = "",
+					}
+				},
+				Legs = {
+					itemID = 22007,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
+					}
+				},
+				Boots = {
+					itemID = 22003,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Anthion's Parting Words",
+						Drop = "",
+					}
+				},
+				Ring1 = {
+					itemID = 17063,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Ring2 = {
+					itemID = 18500,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Mizzle the Crafty",
+						Drop = "3%",
+					}
+				},
+				Trinket1 = {
+					itemID = 13965,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "by Quest",
+						Method = "General Drakkisath's Demise",
+						Drop = "",
+					}
+				},
+				Trinket2 = {
+					itemID = 11815,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Emperor Dagran Thaurissan",
+						Drop = "4%",
+					}
+				},
+				MainHand = {
+					itemID = 18816,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "16%",
+					}
+				},
+				OffHand = {
+					itemID = 18805,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "10%",
+					}
+				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 17069,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "21%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 16908,
 					Obtain = {
@@ -13756,162 +12541,15 @@ BiSData = {
 						Drop = "10%",
 					}
 				},
-				Ranged = {
-					itemID = 17069,
+				TwoHand = {
+					itemID = 0,
 					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Magmadar",
-						Drop = "21%",
-					}
-				},
-
-			},
-			Phase3 = {
-				Head = {
-					itemID = 16908,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "By Killing",
-						Method = "Onyxia",
-						Drop = "18%",
-					}
-				},
-				Neck = {
-					itemID = 18404,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "by Killing",
-						Method = "by Quest: Head of Onyxia",
-						Drop = "100%",
-					}
-				},
-				Shoulder = {
-					itemID = 16823,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Sulfuron Harbinger",
-						Drop = "35%",
-					}
-				},
-				Cloak = {
-					itemID = 13340,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "7%",
-					}
-				},
-				Chest = {
-					itemID = 16820,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Golemagg the Incinerator",
-						Drop = "24%",
-					}
-				},
-				Wrist = {
-					itemID = 18375,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Prince Tortheldrin",
-						Drop = "10%",
-					}
-				},
-				Gloves = {
-					itemID = 18823,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Several bosses",
-						Drop = "9%",
-					}
-				},
-				Waist = {
-					itemID = 16827,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "2%",
-					}
-				},
-				Legs = {
-					itemID = 16909,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Ragnaros",
-						Drop = "14%",
-					}
-				},
-				Boots = {
-					itemID = 16824,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Shazzrah",
-						Drop = "32%",
-					}
-				},
-				Ring1 = {
-					itemID = 17063,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "13%",
-					}
-				},
-				Ring2 = {
-					itemID = 18500,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Mizzle the Crafty",
-						Drop = "3%",
-					}
-				},
-				Trinket1 = {
-					itemID = 13965,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
+						Zone = "",
+						Type = "",
+						Method = "",
 						Drop = "",
 					}
 				},
-				Trinket2 = {
-					itemID = 11815,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 18816,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "16%",
-					}
-				},
-				OffHand = {
-					itemID = 18805,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Majordomo Executus",
-						Drop = "10%",
-					}
-				},
 				Ranged = {
 					itemID = 17069,
 					Obtain = {
@@ -13923,7 +12561,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 16908,
 					Obtain = {
@@ -14068,6 +12706,15 @@ BiSData = {
 						Drop = "10%",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 17069,
 					Obtain = {
@@ -14079,7 +12726,7 @@ BiSData = {
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 21360,
 					Obtain = {
@@ -14224,6 +12871,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 17069,
 					Obtain = {
@@ -14235,7 +12891,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 21360,
 					Obtain = {
@@ -14380,6 +13036,15 @@ BiSData = {
 						Drop = "2%",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 22812,
 					Obtain = {
@@ -14396,68 +13061,68 @@ BiSData = {
 	},
 	Shaman = {
 		Elemental = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 10504,
-					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 12103,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Grand Crusader Dathrohan",
-						Drop = "18%",
-					}
-				},
-				Shoulder = {
-					itemID = 13013,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
-					}
-				},
-				Cloak = {
-					itemID = 15421,
-					Obtain = {
-						Zone = "Western Plaguelands",
-						Type = "by Quest",
-						Method = "In Dreams",
-						Drop = "",
-					}
-				},
-				Chest = {
-					itemID = 11924,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "16%",
-					}
-				},
-				Wrist = {
-					itemID = 11765,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "13%",
-					}
-				},
-				Gloves = {
-					itemID = 13253,
+					itemID = 22267,
 					Obtain = {
 						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "Quartermaster Zigris",
+						Method = "General Drakkisath",
+						Drop = "20%",
+					}
+				},
+				Neck = {
+					itemID = 22403,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Cannon Master Willey",
+						Drop = "24%",
+					}
+				},
+				Shoulder = {
+					itemID = 20680,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By Killing",
+						Method = "Prince Skaldrenox",
+						Drop = "32%",
+					}
+				},
+				Cloak = {
+					itemID = 18496,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "by Killing",
+						Method = "Guard Slip'kik",
 						Drop = "7%",
+					}
+				},
+				Chest = {
+					itemID = 19682,
+					Obtain = {
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Wrist = {
+					itemID = 20684,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By Killing",
+						Method = "Lord Skwol",
+						Drop = "35%",
+					}
+				},
+				Gloves = {
+					itemID = 21178,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By Quest",
+						Method = "Volunteer's Battlegear",
+						Drop = "",
 					}
 				},
 				Waist = {
@@ -14470,21 +13135,21 @@ BiSData = {
 					}
 				},
 				Legs = {
-					itemID = 13170,
+					itemID = 19683,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Boots = {
-					itemID = 13954,
+					itemID = 19684,
 					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Stonespine",
-						Drop = "29%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ring1 = {
@@ -14529,193 +13194,46 @@ BiSData = {
 						Zone = "Scholomance",
 						Type = "By Killing",
 						Method = "Darkmaster Gandling",
-						Drop = "9%",
+						Drop = "12%",
 					}
 				},
 				OffHand = {
-					itemID = 11904,
-					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Quest",
-						Method = "It's Dangerous to Go Alone",
-						Drop = "",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 10504,
-					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 12103,
+					itemID = 22329,
 					Obtain = {
 						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Grand Crusader Dathrohan",
-						Drop = "18%",
+						Method = "Sothos and Jarien's Heirlooms",
+						Drop = "32%",
 					}
 				},
-				Shoulder = {
-					itemID = 13013,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
-					}
-				},
-				Cloak = {
-					itemID = 18496,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "by Killing",
-						Method = "Guard Slip'kik",
-						Drop = "7%",
-					}
-				},
-				Chest = {
-					itemID = 18385,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Immol'thar",
-						Drop = "21%",
-					}
-				},
-				Wrist = {
-					itemID = 11765,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "13%",
-					}
-				},
-				Gloves = {
-					itemID = 13253,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Quartermaster Zigris",
-						Drop = "7%",
-					}
-				},
-				Waist = {
-					itemID = 11662,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Ok'thor the Breaker",
-						Drop = "27%",
-					}
-				},
-				Legs = {
-					itemID = 13170,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
-					}
-				},
-				Boots = {
-					itemID = 18322,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "Hydrospawn",
-						Drop = "20%",
-					}
-				},
-				Ring1 = {
-					itemID = 12545,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "by Quest",
-						Method = "The Princess's Surprise",
-						Drop = "",
-					}
-				},
-				Ring2 = {
-					itemID = 13001,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "The Razza",
-						Drop = "9%",
-					}
-				},
-				Trinket1 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				Trinket2 = {
-					itemID = 13968,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				MainHand = {
+				TwoHand = {
 					itemID = 18534,
 					Obtain = {
 						Zone = "Dire Maul",
 						Type = "By Killing",
 						Method = "Mizzle the Crafty",
-						Drop = "1.6%",
-					}
-				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Drop = "1,6%%",
 					}
 				},
 				Ranged = {
-					itemID = 0,
+					itemID = 23199,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Silithus",
+						Type = "By Killing",
+						Method = "Qiraji Brigadier General Pax-lish",
+						Drop = "32%",
 					}
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
 				Head = {
-					itemID = 10504,
+					itemID = 22267,
 					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "General Drakkisath",
+						Drop = "20%",
 					}
 				},
 				Neck = {
@@ -14836,6 +13354,24 @@ BiSData = {
 					}
 				},
 				MainHand = {
+					itemID = 18878,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Gehennas, Sulfuronherold, Shazzrah",
+						Drop = "4-7%",
+					}
+				},
+				OffHand = {
+					itemID = 17106,
+					Obtain = {
+						Zone = "Molten",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "18%",
+					}
+				},
+				TwoHand = {
 					itemID = 18842,
 					Obtain = {
 						Zone = "Molten Core",
@@ -14844,27 +13380,18 @@ BiSData = {
 						Drop = "23%",
 					}
 				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
 				Ranged = {
-					itemID = 0,
+					itemID = 23199,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Silithus",
+						Type = "By Killing",
+						Method = "Qiraji Brigadier General Pax-lish",
+						Drop = "32%",
 					}
 				},
 
 			},
-			Phase3 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -15009,18 +13536,27 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 19356,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9,08%"
+					}
+				},
+				Ranged = {
+					itemID = 23199,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By Killing",
+						Method = "Qiraji Brigadier General Pax-lish",
+						Drop = "32%",
 					}
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -15165,18 +13701,27 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 19356,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9,08%"
+					}
+				},
+				Ranged = {
+					itemID = 23199,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By Killing",
+						Method = "Qiraji Brigadier General Pax-lish",
+						Drop = "32%",
 					}
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -15313,12 +13858,21 @@ BiSData = {
 					}
 				},
 				OffHand = {
-					itemID = 19366,
+					itemID = 21597,
 					Obtain = {
-						Zone = "BWL",
-						Type = "Quest",
-						Method = "The Lord of Blackrock",
-						Drop = "100%",
+						Zone = "Ahn'Qiraji",
+						Type = "By Killing",
+						Method = "Emperor Vek'lor",
+						Drop = "18%",
+					}
+				},
+				TwoHand = {
+					itemID = 21273,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By Quest",
+						Method = "Imperial Qiraji Regalia",
+						Drop = "",
 					}
 				},
 				Ranged = {
@@ -15332,7 +13886,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -15477,6 +14031,15 @@ BiSData = {
 						Drop = "7%",
 					}
 				},
+				TwoHand = {
+					itemID = 21273,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By Quest",
+						Method = "Imperial Qiraji Regalia",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 23199,
 					Obtain = {
@@ -15490,14 +14053,14 @@ BiSData = {
 			}
 		},
 		Enhancement = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 12587,
+					itemID = 13359,
 					Obtain = {
-						Zone = "Blackrock Spire",
+						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "14%",
+						Method = "Balnazzar",
+						Drop = "18%",
 					}
 				},
 				Neck = {
@@ -15546,12 +14109,12 @@ BiSData = {
 					}
 				},
 				Gloves = {
-					itemID = 13957,
+					itemID = 15063,
 					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Kirtonos the Herald",
-						Drop = "14%",
+						Zone = "Un'Goro Crater",
+						Type = "by Profession (Leatherworking)",
+						Method = "Nergal",
+						Drop = "",
 					}
 				},
 				Waist = {
@@ -15582,168 +14145,12 @@ BiSData = {
 					}
 				},
 				Ring1 = {
-					itemID = 13098,
+					itemID = 21182,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "15%",
-					}
-				},
-				Ring2 = {
-					itemID = 17713,
-					Obtain = {
-						Zone = "Maraudon",
-						Type = "By Killing",
-						Method = "Princess Theradras",
-						Drop = "5%",
-					}
-				},
-				Trinket1 = {
-					itemID = 13965,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
+						Zone = "Silithus",
+						Type = "By Quest",
+						Method = "Veteran's Battlegear",
 						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 11815,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 12784,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Profession (Blacksmithing)",
-						Method = "Kill: Bannok Grimaxe",
-						Drop = "5%",
-					}
-				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 12587,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "14%",
-					}
-				},
-				Neck = {
-					itemID = 15411,
-					Obtain = {
-						Zone = "Western Plaguelands",
-						Type = "by Quest",
-						Method = "In Dreams",
-						Drop = "",
-					}
-				},
-				Shoulder = {
-					itemID = 12927,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Pyroguard Emberseer",
-						Drop = "11%",
-					}
-				},
-				Cloak = {
-					itemID = 13340,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "7%",
-					}
-				},
-				Chest = {
-					itemID = 11726,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Gorosh the Dervish",
-						Drop = "11%",
-					}
-				},
-				Wrist = {
-					itemID = 13211,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Crimson Defender",
-						Drop = "2%",
-					}
-				},
-				Gloves = {
-					itemID = 13957,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Kirtonos the Herald",
-						Drop = "14%",
-					}
-				},
-				Waist = {
-					itemID = 13252,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Quartermaster Zigris",
-						Drop = "11%",
-					}
-				},
-				Legs = {
-					itemID = 15062,
-					Obtain = {
-						Zone = "Un'Goro Crater",
-						Type = "by Profession (Leatherworking)",
-						Method = "Glutinous Ooze",
-						Drop = "1.08%",
-					}
-				},
-				Boots = {
-					itemID = 14616,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
-					}
-				},
-				Ring1 = {
-					itemID = 13098,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "15%",
 					}
 				},
 				Ring2 = {
@@ -15774,35 +14181,44 @@ BiSData = {
 					}
 				},
 				MainHand = {
-					itemID = 12784,
+					itemID = 12798,
 					Obtain = {
-						Zone = "Blackrock Spire",
+						Zone = "Un'Goro Crater",
 						Type = "by Profession (Blacksmithing)",
-						Method = "Kill: Bannok Grimaxe",
-						Drop = "5%",
+						Method = "Quartermaster Zigris",
+						Drop = "14%",
 					}
 				},
 				OffHand = {
-					itemID = 0,
+					itemID = 19103,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
+						Zone = "Alterac Valley",
+						Type = "PVP",
+						Method = "Reputation Revered",
+						Drop = "",
+					}
+				},
+				TwoHand = {
+					itemID = 20696,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By Quest",
+						Method = "Contained in Sack of Spoils -> Signet of the Dukes / Abyssal Signets",
 						Drop = "",
 					}
 				},
 				Ranged = {
-					itemID = 0,
+					itemID = 22395,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Magmus",
+						Drop = "12%",
 					}
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
 				Head = {
 					itemID = 18817,
 					Obtain = {
@@ -15930,35 +14346,44 @@ BiSData = {
 					}
 				},
 				MainHand = {
+					itemID = 17068,
+					Obtain = {
+						Zone = "Onyxias Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "8%",
+					}
+				},
+				OffHand = {
+					itemID = 17106,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "18%",
+					}
+				},
+				TwoHand = {
 					itemID = 17104,
 					Obtain = {
 						Zone = "Molten Core",
-						Type = "by Killing",
+						Type = "By Killing",
 						Method = "Ragnaros",
 						Drop = "5%",
 					}
 				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
 				Ranged = {
-					itemID = 0,
+					itemID = 22395,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Magmus",
+						Drop = "12%",
 					}
 				},
 
 			},
-			Phase3 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 18817,
 					Obtain = {
@@ -16103,18 +14528,27 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 943,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
+					}
+				},
+				Ranged = {
+					itemID = 22395,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Magmus",
+						Drop = "12%",
 					}
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 18817,
 					Obtain = {
@@ -16242,6 +14676,24 @@ BiSData = {
 					}
 				},
 				MainHand = {
+					itemID = 19363,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "14%",
+					}
+				},
+				OffHand = {
+					itemID = 17106,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "18%",
+					}
+				},
+				TwoHand = {
 					itemID = 17104,
 					Obtain = {
 						Zone = "Molten Core",
@@ -16250,27 +14702,18 @@ BiSData = {
 						Drop = "5%",
 					}
 				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
 				Ranged = {
-					itemID = 0,
+					itemID = 22395,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Magmus",
+						Drop = "12%",
 					}
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 18817,
 					Obtain = {
@@ -16398,21 +14841,30 @@ BiSData = {
 					}
 				},
 				MainHand = {
+					itemID = 19363,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "14%",
+					}
+				},
+				OffHand = {
+					itemID = 17106,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "18%",
+					}
+				},
+				TwoHand = {
 					itemID = 21134,
 					Obtain = {
 						Zone = "Ahn'Qiraj",
 						Type = "By Killing",
 						Method = "C'Thun",
 						Drop = "6%",
-					}
-				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
 					}
 				},
 				Ranged = {
@@ -16426,7 +14878,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 18817,
 					Obtain = {
@@ -16554,20 +15006,29 @@ BiSData = {
 					}
 				},
 				MainHand = {
+					itemID = 19363,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "14%",
+					}
+				},
+				OffHand = {
+					itemID = 17106,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "18%",
+					}
+				},
+				TwoHand = {
 					itemID = 22798,
 					Obtain = {
 						Zone = "Naxxramas",
 						Type = "By Killing",
 						Method = "Kel'Thuzad",
-						Drop = "",
-					}
-				},
-				OffHand = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
 						Drop = "",
 					}
 				},
@@ -16584,188 +15045,32 @@ BiSData = {
 			}
 		},
 		Restoration = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 13216,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "by Quest",
-						Method = "Houses of the Holy",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 18723,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Ramstein the Gorger",
-						Drop = "7%",
-					}
-				},
-				Shoulder = {
-					itemID = 15061,
-					Obtain = {
-						Zone = "Feralas",
-						Type = "by Profession (Leatherworking)",
-						Method = "Vendor: Pratt McGrubben",
-						Drop = "",
-					}
-				},
-				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 13346,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Baron Rivendare",
-						Drop = "10%",
-					}
-				},
-				Wrist = {
-					itemID = 13969,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Kirtonos the Herald",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 10787,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Gasher, Hukku, Loro",
-						Drop = "5%",
-					}
-				},
-				Waist = {
-					itemID = 14553,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
-					}
-				},
-				Legs = {
-					itemID = 11841,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Fineous Darkvire",
-						Drop = "26%",
-					}
-				},
-				Boots = {
-					itemID = 13954,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Stonespine",
-						Drop = "29%",
-					}
-				},
-				Ring1 = {
-					itemID = 16058,
-					Obtain = {
-						Zone = "Western Plaguelands",
-						Type = "by Quest",
-						Method = "In Dreams",
-						Drop = "",
-					}
-				},
-				Ring2 = {
-					itemID = 13178,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Urok Doomhowl",
-						Drop = "9%",
-					}
-				},
-				Trinket1 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				Trinket2 = {
-					itemID = 11819,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "6%",
-					}
-				},
-				MainHand = {
-					itemID = 11923,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Dope'rel",
-						Drop = "33%",
-					}
-				},
-				OffHand = {
-					itemID = 11928,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "14%",
-					}
-				},
-				Ranged = {
-					itemID = 0,
-					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 13216,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "by Quest",
-						Method = "Houses of the Holy",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 18723,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Ramstein the Gorger",
-						Drop = "7%",
-					}
-				},
-				Shoulder = {
-					itemID = 18757,
+					itemID = 18490,
 					Obtain = {
 						Zone = "Dire Maul",
-						Type = "by Killing",
-						Method = "Lord Hel'nurath",
-						Drop = "23%",
+						Type = "By Killing",
+						Method = "Cho'Rush the Observer",
+						Drop = "43%",
+					}
+				},
+				Neck = {
+					itemID = 18723,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Ramstein the Gorger",
+						Drop = "7%",
+					}
+				},
+				Shoulder = {
+					itemID = 22234,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Lord Roccor",
+						Drop = "24%",
 					}
 				},
 				Cloak = {
@@ -16805,29 +15110,29 @@ BiSData = {
 					}
 				},
 				Waist = {
-					itemID = 14553,
+					itemID = 18327,
 					Obtain = {
-						Zone = "Silithus",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
+						Method = "Alzzin the Wildshaper",
+						Drop = "19%",
 					}
 				},
 				Legs = {
-					itemID = 11841,
+					itemID = 18386,
 					Obtain = {
 						Zone = "Dire Maul",
 						Type = "By Killing",
 						Method = "Illyanna Ravenoak",
-						Drop = "24%",
+						Drop = "19%",
 					}
 				},
 				Boots = {
-					itemID = 13954,
+					itemID = 22247,
 					Obtain = {
-						Zone = "Stratholme",
+						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "Stonespine",
+						Method = "Warchief Rend Blackhand",
 						Drop = "29%",
 					}
 				},
@@ -16850,20 +15155,20 @@ BiSData = {
 					}
 				},
 				Trinket1 = {
-					itemID = 18371,
+					itemID = 22268,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "Magister Kalendris",
-						Drop = "9%",
+						Method = "General Drakkisath",
+						Drop = "29%",
 					}
 				},
 				Trinket2 = {
-					itemID = 18371,
+					itemID = 11819,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Magister Kalendris",
+						Method = "Golem Lord Argelmach",
 						Drop = "9%",
 					}
 				},
@@ -16885,18 +15190,27 @@ BiSData = {
 						Drop = "24%",
 					}
 				},
-				Ranged = {
-					itemID = 0,
+				TwoHand = {
+					itemID = 22406,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Cannon Master Willey",
+						Drop = "6%",
+					}
+				},
+				Ranged = {
+					itemID = 23200,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "~0,5%",
 					}
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
 				Head = {
 					itemID = 16842,
 					Obtain = {
@@ -17024,35 +15338,44 @@ BiSData = {
 					}
 				},
 				MainHand = {
-					itemID = 17070,
+					itemID = 17105,
 					Obtain = {
-						Zone = "Azshara",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Azuregos",
-						Drop = "1.7%",
+						Method = "Garr",
+						Drop = "27%",
 					}
 				},
 				OffHand = {
-					itemID = 18523,
+					itemID = 17106,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "King Gordok",
-						Drop = "24%",
+						Method = "Ragnaros",
+						Drop = "18%",
+					}
+				},
+				TwoHand = {
+					itemID = 18842,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Golemagg",
+						Drop = "37%",
 					}
 				},
 				Ranged = {
-					itemID = 0,
+					itemID = 23200,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "~0,5%",
 					}
 				},
 
 			},
-			Phase3 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 16947,
 					Obtain = {
@@ -17197,6 +15520,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
+					}
+				},
 				Ranged = {
 					itemID = 0,
 					Obtain = {
@@ -17208,7 +15540,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 16947,
 					Obtain = {
@@ -17338,33 +15670,42 @@ BiSData = {
 				MainHand = {
 					itemID = 19360,
 					Obtain = {
-						Zone = "BWL",
+						Zone = "Blackwing Lair",
 						Type = "By Killing",
 						Method = "Nefarian",
 						Drop = "8,70%",
 					}
 				},
 				OffHand = {
-					itemID = 19312,
+					itemID = 19348,
 					Obtain = {
-						Zone = "Alterac Valley",
+						Zone = "Blackwing Lair",
 						Type = "By Killing",
-						Method = "Frostwolf Exalted",
-						Drop = "",
+						Method = "Vaelastrasz",
+						Drop = "8,70%",
+					}
+				},
+				TwoHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9,08%"
 					}
 				},
 				Ranged = {
-					itemID = 0,
+					itemID = 23200,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "~0,5%",
 					}
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 21372,
 					Obtain = {
@@ -17509,6 +15850,15 @@ BiSData = {
 						Drop = "3%",
 					}
 				},
+				TwoHand = {
+					itemID = 21275,
+					Obtain = {
+						Zone = "Ahn'Qiraji",
+						Type = "By Quest",
+						Method = "Imperial Qiraji Regalia",
+						Drop = "%",
+					}
+				},
 				Ranged = {
 					itemID = 22396,
 					Obtain = {
@@ -17520,7 +15870,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 22466,
 					Obtain = {
@@ -17665,6 +16015,15 @@ BiSData = {
 						Drop = "4%",
 					}
 				},
+				TwoHand = {
+					itemID = 22801,
+					Obtain = {
+						Zone = "Naxxramas",
+						Type = "By Killing",
+						Method = "Thaddius",
+						Drop = "16%",
+					}
+				},
 				Ranged = {
 					itemID = 22396,
 					Obtain = {
@@ -17681,23 +16040,23 @@ BiSData = {
 	},
 	Warlock = {
 		All = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 10504,
+					itemID = 22074,
 					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
 						Drop = "",
 					}
 				},
 				Neck = {
-					itemID = 18691,
+					itemID = 22403,
 					Obtain = {
-						Zone = "Scholomance",
+						Zone = "Stratholme",
 						Type = "By Killing",
-						Method = "Vectus",
-						Drop = "4%",
+						Method = "Cannon Master Willey",
+						Drop = "24%",
 					}
 				},
 				Shoulder = {
@@ -17710,39 +16069,39 @@ BiSData = {
 					}
 				},
 				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 14153,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "by Profession (Tailoring)",
-						Method = "Kill: Darkmaster Gandling",
-						Drop = "5%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
+					itemID = 11623,
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
+						Method = "High Interrogator Gerstahn",
+						Drop = "42,64%",
+					}
+				},
+				Chest = {
+					itemID = 19682,
+					Obtain = {
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Wrist = {
+					itemID = 18497,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Guard Mol'dar or Guard Slip'kik",
+						Drop = "6%",
 					}
 				},
 				Gloves = {
-					itemID = 13253,
+					itemID = 22077,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Quartermaster Zigris",
-						Drop = "7%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "Just Compensation",
+						Drop = "",
 					}
 				},
 				Waist = {
@@ -17755,21 +16114,21 @@ BiSData = {
 					}
 				},
 				Legs = {
-					itemID = 13170,
+					itemID = 19683,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Boots = {
-					itemID = 18735,
+					itemID = 19684,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "25%",
+						Zone = "",
+						Type = "By Profession (Tailoring)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ring1 = {
@@ -17803,164 +16162,8 @@ BiSData = {
 					itemID = 13968,
 					Obtain = {
 						Zone = "Blackrock Spire",
-						Type = "by Quest",
+						Type = "By Quest",
 						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				MainHand = {
-					itemID = 13964,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Darkmaster Gandling",
-						Drop = "9%",
-					}
-				},
-				OffHand = {
-					itemID = 10796,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Dreamscythe",
-						Drop = "5%",
-					}
-				},
-				Ranged = {
-					itemID = 13396,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Skul",
-						Drop = "21%",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 10504,
-					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 18691,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Vectus",
-						Drop = "4%",
-					}
-				},
-				Shoulder = {
-					itemID = 14112,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "3%",
-					}
-				},
-				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 14153,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "by Profession (Tailoring)",
-						Method = "Kill: Darkmaster Gandling",
-						Drop = "5%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 18407,
-					Obtain = {
-						Zone = "",
-						Type = "By Profession (Tailoring)",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Waist = {
-					itemID = 11662,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Ok'thor the Breaker",
-						Drop = "27%",
-					}
-				},
-				Legs = {
-					itemID = 13170,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
-					}
-				},
-				Boots = {
-					itemID = 18735,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "25%",
-					}
-				},
-				Ring1 = {
-					itemID = 12543,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "by Quest",
-						Method = "The Princess's Surprise",
-						Drop = "",
-					}
-				},
-				Ring2 = {
-					itemID = 13001,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "By Killing",
-						Method = "The Razza",
-						Drop = "9%",
-					}
-				},
-				Trinket1 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				Trinket2 = {
-					itemID = 18467,
-					Obtain = {
-						Zone = "Dire Maul",
-						Type = "by Quest",
-						Method = "Harnessing Shadows",
 						Drop = "",
 					}
 				},
@@ -17982,6 +16185,15 @@ BiSData = {
 						Drop = "5%",
 					}
 				},
+				TwoHand = {
+					itemID = 18534,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Mizzle the Crafty",
+						Drop = "1,6%%",
+					}
+				},
 				Ranged = {
 					itemID = 13396,
 					Obtain = {
@@ -17993,7 +16205,172 @@ BiSData = {
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 22074,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Saving the Best for Last",
+						Drop = "",
+					}
+				},
+				Neck = {
+					itemID = 22403,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Cannon Master Willey",
+						Drop = "24%",
+					}
+				},
+				Shoulder = {
+					itemID = 14112,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "3%",
+					}
+				},
+				Cloak = {
+					itemID = 17078,
+					Obtain = {
+						Zone = "Onyxias Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "20,59%",
+					}
+				},
+				Chest = {
+					itemID = 19145,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "5%",
+					}
+				},
+				Wrist = {
+					itemID = 18497,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Guard Mol'dar or Guard Slip'kik",
+						Drop = "6%",
+					}
+				},
+				Gloves = {
+					itemID = 22077,
+					Obtain = {
+						Zone = "",
+						Type = "By Quest",
+						Method = "Just Compensation",
+						Drop = "",
+					}
+				},
+				Waist = {
+					itemID = 18809,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "5%",
+					}
+				},
+				Legs = {
+					itemID = 13170,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Highlord Omokk",
+						Drop = "8%",
+					}
+				},
+				Boots = {
+					itemID = 19131,
+					Obtain = {
+						Zone = "Azshara",
+						Type = "By Killing",
+						Method = "Azuregos",
+						Drop = "9%",
+					}
+				},
+				Ring1 = {
+					itemID = 19147,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "5%",
+					}
+				},
+				Ring2 = {
+					itemID = 19147,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "5%",
+					}
+				},
+				Trinket1 = {
+					itemID = 12930,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Jed Runewatcher",
+						Drop = "20%",
+					}
+				},
+				Trinket2 = {
+					itemID = 18829,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "8%",
+					}
+				},
+				MainHand = {
+					itemID = 17103,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Golemagg the Incinerator",
+						Drop = "25%",
+					}
+				},
+				OffHand = {
+					itemID = 22329,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Sothos and Jarien's Heirlooms",
+						Drop = "19%",
+					}
+				},
+				TwoHand = {
+					itemID = 18842,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Golemagg the Incinerator",
+						Drop = "37%",
+					}
+				},
+				Ranged = {
+					itemID = 13396,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Skul",
+						Drop = "21%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 10504,
 					Obtain = {
@@ -18138,160 +16515,13 @@ BiSData = {
 						Drop = "5%",
 					}
 				},
-				Ranged = {
-					itemID = 13396,
+				TwoHand = {
+					itemID = 943,
 					Obtain = {
-						Zone = "Stratholme",
+						Zone = "Zul'Farrak",
 						Type = "By Killing",
-						Method = "Skul",
-						Drop = "21%",
-					}
-				},
-
-			},
-			Phase3 = {
-				Head = {
-					itemID = 10504,
-					Obtain = {
-						Zone = "Tanaris",
-						Type = "by Profession (Engineering)",
-						Method = "Vendor: Buzzek Bracketswing",
-						Drop = "",
-					}
-				},
-				Neck = {
-					itemID = 18814,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "1%",
-					}
-				},
-				Shoulder = {
-					itemID = 14112,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "3%",
-					}
-				},
-				Cloak = {
-					itemID = 13386,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Archivist Galford",
-						Drop = "19%",
-					}
-				},
-				Chest = {
-					itemID = 19145,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Several bosses",
-						Drop = "5%",
-					}
-				},
-				Wrist = {
-					itemID = 11766,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Lord Incendius",
-						Drop = "14%",
-					}
-				},
-				Gloves = {
-					itemID = 18407,
-					Obtain = {
-						Zone = "",
-						Type = "By Profession (Tailoring)",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Waist = {
-					itemID = 18809,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Majordomo Executus",
-						Drop = "5%",
-					}
-				},
-				Legs = {
-					itemID = 13170,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Highlord Omokk",
-						Drop = "8%",
-					}
-				},
-				Boots = {
-					itemID = 19131,
-					Obtain = {
-						Zone = "Azshara",
-						Type = "By Killing",
-						Method = "Azuregos",
-						Drop = "9%",
-					}
-				},
-				Ring1 = {
-					itemID = 19147,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Several bosses",
-						Drop = "5%",
-					}
-				},
-				Ring2 = {
-					itemID = 19147,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Several bosses",
-						Drop = "5%",
-					}
-				},
-				Trinket1 = {
-					itemID = 12930,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Jed Runewatcher",
-						Drop = "20%",
-					}
-				},
-				Trinket2 = {
-					itemID = 18829,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Several bosses",
-						Drop = "8%",
-					}
-				},
-				MainHand = {
-					itemID = 17103,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Golemagg the Incinerator",
-						Drop = "25%",
-					}
-				},
-				OffHand = {
-					itemID = 10796,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Dreamscythe",
-						Drop = "5%",
+						Method = "Trash",
+						Drop = "~0.1%",
 					}
 				},
 				Ranged = {
@@ -18305,7 +16535,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 19375,
 					Obtain = {
@@ -18370,12 +16600,12 @@ BiSData = {
 					}
 				},
 				Waist = {
-					itemID = 16933,
+					itemID = 19388,
 					Obtain = {
 						Zone = "BWL",
 						Type = "By Killing",
-						Method = "Vaelastrasz the Corrupt",
-						Drop = "21,05%",
+						Method = "Chromaggus",
+						Drop = "37%",
 					}
 				},
 				Legs = {
@@ -18450,6 +16680,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9,08%"
+					}
+				},
 				Ranged = {
 					itemID = 19861,
 					Obtain = {
@@ -18461,14 +16700,14 @@ BiSData = {
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
-					itemID = 19375,
+					itemID = 21337,
 					Obtain = {
-						Zone = "BWL",
-						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "17.86%",
+						Zone = "Ahn'Qiraj",
+						Type = "Quest",
+						Method = "Doomcaller's Circlet",
+						Drop = "",
 					}
 				},
 				Neck = {
@@ -18517,7 +16756,7 @@ BiSData = {
 					}
 				},
 				Gloves = {
-					itemID = 19407,
+					itemID = 21585,
 					Obtain = {
 						Zone = "Ahn'Qiraj",
 						Type = "By Killing",
@@ -18606,18 +16845,27 @@ BiSData = {
 						Drop = "",
 					}
 				},
-				Ranged = {
-					itemID = 19861,
+				TwoHand = {
+					itemID = 21273,
 					Obtain = {
-						Zone = "Zul'Gurub",
+						Zone = "",
+						Type = "Quest",
+						Method = "Imperial Qiraji Regalia",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 21603,
+					Obtain = {
+						Zone = "Ahn'Qiraj",
 						Type = "By Killing",
-						Method = "Hakkar",
+						Method = "Lord Kri",
 						Drop = "",
 					}
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 22506,
 					Obtain = {
@@ -18736,16 +16984,16 @@ BiSData = {
 					}
 				},
 				Trinket2 = {
-					itemID = 18820,
+					itemID = 19379,
 					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Several Bosses",
-						Drop = "4-11%",
+						Zone = "BWL",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "18,39%",
 					}
 				},
 				MainHand = {
-					itemID = 21622,
+					itemID = 22807,
 					Obtain = {
 						Zone = "Naxxramas",
 						Type = "by Killing",
@@ -18762,13 +17010,22 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 21273,
+					Obtain = {
+						Zone = "",
+						Type = "Quest",
+						Method = "Imperial Qiraji Regalia",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 22821,
 					Obtain = {
 						Zone = "Naxxramas",
 						Type = "By Killing",
 						Method = "Kel'Thuzad",
-						Drop = "",
+						Drop = "13%",
 					}
 				},
 
@@ -18778,170 +17035,14 @@ BiSData = {
 	},
 	Warrior = {
 		Fury = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 13404,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
-					}
-				},
-				Neck = {
-					itemID = 18404,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "by Killing",
-						Method = "by Quest: Head of Onyxia",
-						Drop = "100%",
-					}
-				},
-				Shoulder = {
-					itemID = 12927,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Pyroguard Emberseer",
-						Drop = "11%",
-					}
-				},
-				Cloak = {
-					itemID = 18541,
-					Obtain = {
-						Zone = "Azshara",
-						Type = "By Killing",
-						Method = "Azuregos",
-						Drop = "13%",
-					}
-				},
-				Chest = {
-					itemID = 11726,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Gorosh the Dervish",
-						Drop = "11%",
-					}
-				},
-				Wrist = {
-					itemID = 19146,
+					itemID = 12640,
 					Obtain = {
 						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several bosses",
-						Drop = "4%",
-					}
-				},
-				Gloves = {
-					itemID = 14551,
-					Obtain = {
-						Zone = "Random World Drop",
-						Type = "",
+						Type = "By Profession (Blacksmithing)",
 						Method = "",
 						Drop = "",
-					}
-				},
-				Waist = {
-					itemID = 19137,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Ragnaros",
-						Drop = "11%",
-					}
-				},
-				Legs = {
-					itemID = 14554,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "1.%",
-					}
-				},
-				Boots = {
-					itemID = 12555,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "~0.1%",
-					}
-				},
-				Ring1 = {
-					itemID = 17063,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "13%",
-					}
-				},
-				Ring2 = {
-					itemID = 18821,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several bosses",
-						Drop = "8%",
-					}
-				},
-				Trinket1 = {
-					itemID = 13965,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 11815,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 17075,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "By Killing",
-						Method = "Onyxia",
-						Drop = "5%",
-					}
-				},
-				OffHand = {
-					itemID = 18832,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Garr",
-						Drop = "20%",
-					}
-				},
-				Ranged = {
-					itemID = 17069,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Magmadar",
-						Drop = "22%",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 13404,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
 					}
 				},
 				Neck = {
@@ -18999,12 +17100,12 @@ BiSData = {
 					}
 				},
 				Waist = {
-					itemID = 13959,
+					itemID = 13142,
 					Obtain = {
 						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "Maxwell's Mission",
-						Drop = "",
+						Type = "By Killing",
+						Method = "General Drakkisath",
+						Drop = "24%",
 					}
 				},
 				Legs = {
@@ -19017,12 +17118,12 @@ BiSData = {
 					}
 				},
 				Boots = {
-					itemID = 12555,
+					itemID = 14616,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "Scholomance",
 						Type = "By Killing",
-						Method = "Trash",
-						Drop = "~0.1%",
+						Method = "Several Bosses",
+						Drop = "~5%",
 					}
 				},
 				Ring1 = {
@@ -19079,6 +17180,15 @@ BiSData = {
 						Drop = "8%",
 					}
 				},
+				TwoHand = {
+					itemID = 12784,
+					Obtain = {
+						Zone = "",
+						Type = "By Profession (Blacksmithing)",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 18323,
 					Obtain = {
@@ -19090,7 +17200,7 @@ BiSData = {
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -19137,12 +17247,12 @@ BiSData = {
 					}
 				},
 				Wrist = {
-					itemID = 12936,
+					itemID = 19146,
 					Obtain = {
-						Zone = "Blackrock Spire",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "11%",
+						Method = "Ragnaros",
+						Drop = "26%",
 					}
 				},
 				Gloves = {
@@ -19155,12 +17265,12 @@ BiSData = {
 					}
 				},
 				Waist = {
-					itemID = 13959,
+					itemID = 19137,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "Maxwell's Mission",
-						Drop = "",
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "~5%",
 					}
 				},
 				Legs = {
@@ -19182,21 +17292,21 @@ BiSData = {
 					}
 				},
 				Ring1 = {
-					itemID = 17713,
+					itemID = 18821,
 					Obtain = {
-						Zone = "Maraudon",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Princess Theradras",
-						Drop = "5%",
+						Method = "Several Bosses",
+						Drop = "~12%",
 					}
 				},
 				Ring2 = {
-					itemID = 13098,
+					itemID = 17063,
 					Obtain = {
-						Zone = "Blackrock Spire",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "15%",
+						Method = "Ragnaros",
+						Drop = "29%",
 					}
 				},
 				Trinket1 = {
@@ -19235,18 +17345,27 @@ BiSData = {
 						Drop = "8%",
 					}
 				},
-				Ranged = {
-					itemID = 18323,
+				TwoHand = {
+					itemID = 17076,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Zevrim Thornhoof",
-						Drop = "19%",
+						Method = "Ragnaros",
+						Drop = "9%",
+					}
+				},
+				Ranged = {
+					itemID = 17069,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "33%",
 					}
 				},
 
 			},
-			Phase3 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -19391,6 +17510,15 @@ BiSData = {
 						Drop = "10,18%",
 					}
 				},
+				TwoHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
+					}
+				},
 				Ranged = {
 					itemID = 17069,
 					Obtain = {
@@ -19402,7 +17530,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -19530,12 +17658,12 @@ BiSData = {
 					}
 				},
 				MainHand = {
-					itemID = 19352,
+					itemID = 19363,
 					Obtain = {
 						Zone = "BWL",
 						Type = "By Killing",
-						Method = "Chromaggus",
-						Drop = "9,50%",
+						Method = "Nefarian",
+						Drop = "14%",
 					}
 				},
 				OffHand = {
@@ -19544,7 +17672,16 @@ BiSData = {
 						Zone = "BWL",
 						Type = "By Killing",
 						Method = "Broodlord Lashlayer",
-						Drop = "10,18%",
+						Drop = "16%",
+					}
+				},
+				TwoHand = {
+					itemID = 17076,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "9%",
 					}
 				},
 				Ranged = {
@@ -19558,7 +17695,7 @@ BiSData = {
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -19578,7 +17715,7 @@ BiSData = {
 					}
 				},
 				Shoulder = {
-					itemID = 19394,
+					itemID = 21330,
 					Obtain = {
 						Zone = "Ahn'Qiraj",
 						Type = "Quest",
@@ -19686,21 +17823,30 @@ BiSData = {
 					}
 				},
 				MainHand = {
-					itemID = 21650,
+					itemID = 21242,
 					Obtain = {
 						Zone = "Ahn'Qiraj",
-						Type = "By Killing",
-						Method = "Fankriss the Unyielding",
-						Drop = "2%",
+						Type = "By Quest",
+						Method = "Imperial Qiraji Armaments",
+						Drop = "",
 					}
 				},
 				OffHand = {
-					itemID = 21650,
+					itemID = 19363,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "14%",
+					}
+				},
+				TwoHand = {
+					itemID = 21134,
 					Obtain = {
 						Zone = "Ahn'Qiraj",
 						Type = "By Killing",
-						Method = "Fankriss the Unyielding",
-						Drop = "2%",
+						Method = "C'Thun",
+						Drop = "30%",
 					}
 				},
 				Ranged = {
@@ -19714,7 +17860,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -19859,6 +18005,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 22798,
+					Obtain = {
+						Zone = "Naxxramas",
+						Type = "By Killing",
+						Method = "Kel'Thuzad",
+						Drop = "35%",
+					}
+				},
 				Ranged = {
 					itemID = 22811,
 					Obtain = {
@@ -19872,14 +18027,14 @@ BiSData = {
 			}
 		},
 		Protection = {
-			Phase1 = {
+			Phase1_PreRaid = {
 				Head = {
-					itemID = 12952,
+					itemID = 12640,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Gyth",
-						Drop = "13%",
+						Zone = "Molten Core",
+						Type = "By Profession (Blacksmithing)",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Neck = {
@@ -19892,168 +18047,12 @@ BiSData = {
 					}
 				},
 				Shoulder = {
-					itemID = 14552,
-					Obtain = {
-						Zone = "",
-						Type = "By Killing",
-						Method = "random 48-58 mob",
-						Drop = "~0.1%",
-					}
-				},
-				Cloak = {
-					itemID = 13397,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "Stonespine",
-						Drop = "20%",
-					}
-				},
-				Chest = {
-					itemID = 14624,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "4%",
-					}
-				},
-				Wrist = {
-					itemID = 12550,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "~0.1%",
-					}
-				},
-				Gloves = {
-					itemID = 13072,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Colossus of Ashi, Regal, Zora",
-						Drop = "10%",
-					}
-				},
-				Waist = {
-					itemID = 14620,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Doctor Theolen Krastinov",
-						Drop = "3%",
-					}
-				},
-				Legs = {
-					itemID = 11927,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "by Treasure",
-						Method = "Chest of The Seven",
-						Drop = "25%",
-					}
-				},
-				Boots = {
-					itemID = 14621,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "4%",
-					}
-				},
-				Ring1 = {
-					itemID = 11669,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "27%",
-					}
-				},
-				Ring2 = {
-					itemID = 10795,
-					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
-						Type = "By Killing",
-						Method = "Morphaz",
-						Drop = "5%",
-					}
-				},
-				Trinket1 = {
-					itemID = 11810,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "General Angerforge",
-						Drop = "8%",
-					}
-				},
-				Trinket2 = {
-					itemID = 10779,
-					Obtain = {
-						Zone = "Blasted Lands",
-						Type = "by Quest",
-						Method = "You Are Rakh'likh, Demon",
-						Drop = "",
-					}
-				},
-				MainHand = {
-					itemID = 15806,
-					Obtain = {
-						Zone = "Scholomance",
-						Type = "by Quest",
-						Method = "Kirtonos the Herald",
-						Drop = "",
-					}
-				},
-				OffHand = {
-					itemID = 12602,
+					itemID = 16733,
 					Obtain = {
 						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "General Drakkisath",
-						Drop = "12%",
-					}
-				},
-				Ranged = {
-					itemID = 12651,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Shadow Hunter Vosh'gajin",
-						Drop = "6%",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
-				Head = {
-					itemID = 12952,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Gyth",
-						Drop = "13%",
-					}
-				},
-				Neck = {
-					itemID = 13091,
-					Obtain = {
-						Zone = "Silithus",
-						Type = "By Killing",
-						Method = "Qiraji Brigadier General Pax-lish",
-						Drop = "8%",
-					}
-				},
-				Shoulder = {
-					itemID = 14552,
-					Obtain = {
-						Zone = "",
-						Type = "By Killing",
-						Method = "random 48-58 mob",
-						Drop = "~0.1%",
+						Method = "Warchief Rend Blackhand",
+						Drop = "18%",
 					}
 				},
 				Cloak = {
@@ -20066,21 +18065,21 @@ BiSData = {
 					}
 				},
 				Chest = {
-					itemID = 14624,
+					itemID = 15413,
 					Obtain = {
-						Zone = "Scholomance",
-						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "4%",
+						Zone = "",
+						Type = "By Quest",
+						Method = "In Dreams",
+						Drop = "",
 					}
 				},
 				Wrist = {
-					itemID = 18754,
+					itemID = 16735,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "Blackrock Spire",
 						Type = "By Killing",
-						Method = "Lord Hel'nurath",
-						Drop = "19%",
+						Method = "Trash",
+						Drop = "~6%",
 					}
 				},
 				Gloves = {
@@ -20102,39 +18101,39 @@ BiSData = {
 					}
 				},
 				Legs = {
-					itemID = 11927,
+					itemID = 12935,
 					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "by Treasure",
-						Method = "Chest of The Seven",
-						Drop = "25%",
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Warchief Rend Blackhand",
+						Drop = "23%",
 					}
 				},
 				Boots = {
-					itemID = 14621,
+					itemID = 14616,
 					Obtain = {
 						Zone = "Scholomance",
 						Type = "By Killing",
-						Method = "Lord Alexei Barov",
-						Drop = "4%",
+						Method = "Several Bosses",
+						Drop = "~5%",
 					}
 				},
 				Ring1 = {
-					itemID = 11669,
+					itemID = 18500,
 					Obtain = {
-						Zone = "Blackrock Depths",
+						Zone = "Dire Maul",
 						Type = "By Killing",
-						Method = "Golem Lord Argelmach",
-						Drop = "27%",
+						Method = "Mizzle the Crafty",
+						Drop = "3%",
 					}
 				},
 				Ring2 = {
-					itemID = 10795,
+					itemID = 17713,
 					Obtain = {
-						Zone = "The Temple of Atal'Hakkar",
+						Zone = "Maraudon",
 						Type = "By Killing",
-						Method = "Morphaz",
-						Drop = "5%",
+						Method = "Princess Theradras",
+						Drop = "25%",
 					}
 				},
 				Trinket1 = {
@@ -20147,12 +18146,12 @@ BiSData = {
 					}
 				},
 				Trinket2 = {
-					itemID = 10779,
+					itemID = 17774,
 					Obtain = {
-						Zone = "Blasted Lands",
-						Type = "by Quest",
-						Method = "You Are Rakh'likh, Demon",
-						Drop = "",
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "General Angerforge",
+						Drop = "5%",
 					}
 				},
 				MainHand = {
@@ -20171,6 +18170,15 @@ BiSData = {
 						Type = "By Killing",
 						Method = "General Drakkisath",
 						Drop = "12%",
+					}
+				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
 					}
 				},
 				Ranged = {
@@ -20184,7 +18192,7 @@ BiSData = {
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
 				Head = {
 					itemID = 16963,
 					Obtain = {
@@ -20208,7 +18216,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Sulfuron Harbinger",
+						Method = " Sulfuron Harbinger",
 						Drop = "31",
 					}
 				},
@@ -20329,18 +18337,27 @@ BiSData = {
 						Drop = "19%",
 					}
 				},
-				Ranged = {
-					itemID = 18323,
+				TwoHand = {
+					itemID = 0,
 					Obtain = {
-						Zone = "Dire Maul",
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 17072,
+					Obtain = {
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Zevrim Thornhoof",
+						Method = "Golemagg",
 						Drop = "19%",
 					}
 				},
 
 			},
-			Phase3 = {
+			Phase3_BWL = {
 				Head = {
 					itemID = 16963,
 					Obtain = {
@@ -20485,6 +18502,15 @@ BiSData = {
 						Drop = "9,15%",
 					}
 				},
+				TwoHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
+					}
+				},
 				Ranged = {
 					itemID = 19368,
 					Obtain = {
@@ -20496,7 +18522,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 16963,
 					Obtain = {
@@ -20641,6 +18667,15 @@ BiSData = {
 						Drop = "9,15%",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 19368,
 					Obtain = {
@@ -20652,7 +18687,7 @@ BiSData = {
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 21329,
 					Obtain = {
@@ -20797,6 +18832,15 @@ BiSData = {
 						Drop = "",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 21459,
 					Obtain = {
@@ -20808,7 +18852,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 22418,
 					Obtain = {
@@ -20953,6 +18997,15 @@ BiSData = {
 						Drop = "18%",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 22811,
 					Obtain = {
@@ -20966,163 +19019,7 @@ BiSData = {
 			}
 		},
 		FuryProt = {
-			Phase1 = {
-				Head = {
-					itemID = 12185,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
-					}
-				},
-				Neck = {
-					itemID = 9333,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "by Killing",
-						Method = "by Quest: Head of Onyxia",
-						Drop = "100%",
-					}
-				},
-				Shoulder = {
-					itemID = 21579,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Sulfuron Harbinger",
-						Drop = "11%",
-					}
-				},
-				Cloak = {
-					itemID = 13382,
-					Obtain = {
-						Zone = "Azshara",
-						Type = "By Killing",
-						Method = "Azuregos",
-						Drop = "13%",
-					}
-				},
-				Chest = {
-					itemID = 18231,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Gorosh the Dervish",
-						Drop = "11%",
-					}
-				},
-				Wrist = {
-					itemID = 1973,
-					Obtain = {
-						Zone = "LBRS",
-						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "9%",
-					}
-				},
-				Gloves = {
-					itemID = 17117,
-					Obtain = {
-						Zone = "Random World Drop",
-						Type = "",
-						Method = "",
-						Drop = "",
-					}
-				},
-				Waist = {
-					itemID = 4941,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Ragnaros",
-						Drop = "11%",
-					}
-				},
-				Legs = {
-					itemID = 18233,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "1.%",
-					}
-				},
-				Boots = {
-					itemID = 19141,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "~0.1%",
-					}
-				},
-				Ring1 = {
-					itemID = 18230,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "13%",
-					}
-				},
-				Ring2 = {
-					itemID = 1191,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several bosses",
-						Drop = "8%",
-					}
-				},
-				Trinket1 = {
-					itemID = 11122,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 18233,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 1195,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "By Killing",
-						Method = "Onyxia",
-						Drop = "5%",
-					}
-				},
-				OffHand = {
-					itemID = 19808,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Garr",
-						Drop = "20%",
-					}
-				},
-				Ranged = {
-					itemID = 18640,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Magmadar",
-						Drop = "22%",
-					}
-				},
-
-			},
-			Phase2PreRaid = {
+			Phase1_PreRaid = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -21144,7 +19041,7 @@ BiSData = {
 				Shoulder = {
 					itemID = 16733,
 					Obtain = {
-						Zone = "UBRS",
+						Zone = "Blackrock Spire",
 						Type = "By Killing",
 						Method = "Warchief Rend Blackhand",
 						Drop = "19,30%",
@@ -21267,6 +19164,15 @@ BiSData = {
 						Drop = "15,95%",
 					}
 				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 				Ranged = {
 					itemID = 18323,
 					Obtain = {
@@ -21278,7 +19184,172 @@ BiSData = {
 				},
 
 			},
-			Phase2 = {
+			Phase2_MC_Ony = {
+				Head = {
+					itemID = 12640,
+					Obtain = {
+						Zone = "",
+						Type = "By Profession (Blacksmithing)",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Neck = {
+					itemID = 15411,
+					Obtain = {
+						Zone = "",
+						Type = "Quest",
+						Method = "In Dreams",
+						Drop = "",
+					}
+				},
+				Shoulder = {
+					itemID = 16733,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Warchief Rend Blackhand",
+						Drop = "19,30%",
+					}
+				},
+				Cloak = {
+					itemID = 13340,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Baron Rivendare",
+						Drop = "13,76%",
+					}
+				},
+				Chest = {
+					itemID = 11726,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Gorosh the Dervish",
+						Drop = "6,73%",
+					}
+				},
+				Wrist = {
+					itemID = 12936,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Warchief Rend Blackhand",
+						Drop = "9,47%",
+					}
+				},
+				Gloves = {
+					itemID = 16737,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Ramstein the Gorger",
+						Drop = "17,97%",
+					}
+				},
+				Waist = {
+					itemID = 13142,
+					Obtain = {
+						Zone = "LBRS",
+						Type = "By Killing",
+						Method = "General Drakkisath",
+						Drop = "22,70%",
+					}
+				},
+				Legs = {
+					itemID = 18380,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Prince Tortheldrin",
+						Drop = "22,79%",
+					}
+				},
+				Boots = {
+					itemID = 13967,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Kirtonos the Herald",
+						Drop = "18,47%",
+					}
+				},
+				Ring1 = {
+					itemID = 18500,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Mizzle the Crafty",
+						Drop = "3%",
+					}
+				},
+				Ring2 = {
+					itemID = 18500,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Mizzle the Crafty",
+						Drop = "3%",
+					}
+				},
+				Trinket1 = {
+					itemID = 11815,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Emperor Dagran Thaurissan",
+						Drop = "4%",
+					}
+				},
+				Trinket2 = {
+					itemID = 17774,
+					Obtain = {
+						Zone = "",
+						Type = "Quest",
+						Method = "Die Anweisungen des Pariahs",
+						Drop = "",
+					}
+				},
+				MainHand = {
+					itemID = 12940,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Warchief Rend Blackhand",
+						Drop = "4,61%",
+					}
+				},
+				OffHand = {
+					itemID = 12939,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Warchief Rend Blackhand",
+						Drop = "15,95%",
+					}
+				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 18323,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Zevrim Thornhoof",
+						Drop = "19,19%",
+					}
+				},
+
+			},
+			Phase3_BWL = {
 				Head = {
 					itemID = 12185,
 					Obtain = {
@@ -21423,162 +19494,15 @@ BiSData = {
 						Drop = "20%",
 					}
 				},
-				Ranged = {
-					itemID = 18640,
+				TwoHand = {
+					itemID = 0,
 					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Magmadar",
-						Drop = "22%",
-					}
-				},
-
-			},
-			Phase3 = {
-				Head = {
-					itemID = 12185,
-					Obtain = {
-						Zone = "Stratholme",
-						Type = "By Killing",
-						Method = "The Unforgiven",
-						Drop = "18%",
-					}
-				},
-				Neck = {
-					itemID = 9333,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "by Killing",
-						Method = "by Quest: Head of Onyxia",
-						Drop = "100%",
-					}
-				},
-				Shoulder = {
-					itemID = 21579,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Killing",
-						Method = "Sulfuron Harbinger",
-						Drop = "11%",
-					}
-				},
-				Cloak = {
-					itemID = 13382,
-					Obtain = {
-						Zone = "Azshara",
-						Type = "By Killing",
-						Method = "Azuregos",
-						Drop = "13%",
-					}
-				},
-				Chest = {
-					itemID = 18231,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Gorosh the Dervish",
-						Drop = "11%",
-					}
-				},
-				Wrist = {
-					itemID = 1973,
-					Obtain = {
-						Zone = "LBRS",
-						Type = "By Killing",
-						Method = "Warchief Rend Blackhand",
-						Drop = "9%",
-					}
-				},
-				Gloves = {
-					itemID = 17117,
-					Obtain = {
-						Zone = "Random World Drop",
+						Zone = "",
 						Type = "",
 						Method = "",
 						Drop = "",
 					}
 				},
-				Waist = {
-					itemID = 4941,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "by Killing",
-						Method = "Ragnaros",
-						Drop = "11%",
-					}
-				},
-				Legs = {
-					itemID = 18233,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "1.%",
-					}
-				},
-				Boots = {
-					itemID = 19141,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Trash",
-						Drop = "~0.1%",
-					}
-				},
-				Ring1 = {
-					itemID = 18230,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Ragnaros",
-						Drop = "13%",
-					}
-				},
-				Ring2 = {
-					itemID = 1191,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Several bosses",
-						Drop = "8%",
-					}
-				},
-				Trinket1 = {
-					itemID = 11122,
-					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "by Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
-					}
-				},
-				Trinket2 = {
-					itemID = 18233,
-					Obtain = {
-						Zone = "Blackrock Depths",
-						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "4%",
-					}
-				},
-				MainHand = {
-					itemID = 1195,
-					Obtain = {
-						Zone = "Onyxia's Lair",
-						Type = "By Killing",
-						Method = "Onyxia",
-						Drop = "5%",
-					}
-				},
-				OffHand = {
-					itemID = 19808,
-					Obtain = {
-						Zone = "Molten Core",
-						Type = "By Killing",
-						Method = "Garr",
-						Drop = "20%",
-					}
-				},
 				Ranged = {
 					itemID = 18640,
 					Obtain = {
@@ -21590,7 +19514,7 @@ BiSData = {
 				},
 
 			},
-			Phase4 = {
+			Phase4_BWL_ZG = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -21733,6 +19657,15 @@ BiSData = {
 						Type = "By Killing",
 						Method = "Broodlord Lashlayer",
 						Drop = "10,18%",
+					}
+				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ranged = {
@@ -21746,7 +19679,7 @@ BiSData = {
 				},
 
 			},
-			Phase5 = {
+			Phase5_AhnQiraj = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -21889,6 +19822,15 @@ BiSData = {
 						Type = "By Killing",
 						Method = "Broodlord Lashlayer",
 						Drop = "10,18%",
+					}
+				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ranged = {
@@ -21902,7 +19844,7 @@ BiSData = {
 				},
 
 			},
-			Phase6 = {
+			Phase6_Naxx = {
 				Head = {
 					itemID = 12640,
 					Obtain = {
@@ -22045,6 +19987,15 @@ BiSData = {
 						Type = "By Killing",
 						Method = "Broodlord Lashlayer",
 						Drop = "10,18%",
+					}
+				},
+				TwoHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ranged = {
