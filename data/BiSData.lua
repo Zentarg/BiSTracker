@@ -5710,11 +5710,11 @@ BiSData = {
 					}
 				},
 				Boots = {
-					itemID = 19684,
+					itemID = 21344,
 					Obtain = {
-						Zone = "",
-						Type = "by Profession (Tailoring)",
-						Method = "",
+						Zone = "Ahn'Qiraj",
+						Type = "By Quest",
+						Method = "Enigma Boots",
 						Drop = "",
 					}
 				},
@@ -17002,7 +17002,7 @@ BiSData = {
 					}
 				},
 				OffHand = {
-					itemID = 21597,
+					itemID = 23049,
 					Obtain = {
 						Zone = "Naxxramas",
 						Type = "By Killing",
