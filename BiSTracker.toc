@@ -3,7 +3,7 @@
 ## Title: BiS Tracker
 ## Notes: Shows BiS items for every class, and where to get them.
 ## Author: Zentarg - Maintained and updated by Braatak_twitch
-## Version: 2.5.3
+## Version: 2.5.5
 ## SavedVariablesPerCharacter: BiS_Settings
 
 Templates.xml
