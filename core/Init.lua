@@ -1,5 +1,6 @@
-BiSTracker = {}
-BiSTracker.Name = "BiSTracker"
+BiSTracker = LibStub("AceAddon-3.0"):NewAddon("BiSTracker", "AceConsole-3.0")
+BiSTracker.AceGUI = LibStub("AceGUI-3.0")
+
 BiSTracker.Version = 2.0
 
 BiSTracker.Item = {
@@ -15,7 +16,6 @@ BiSTracker.Item = {
     }
 }
 BiSTracker.Item.__index = BiSTracker.Item
-
 function BiSTracker.Item:New(id, npcID, npcName, kill, quest, recipe, dropchance, zone)
     local self = setmetatable({}, BiSTracker.Item)
     self.ID = id
@@ -37,13 +37,13 @@ BiSTracker.Set = {
         },
         Neck = {
         },
-        Shoulders = {
+        Shoulder = {
         },
         Back = {
         },
         Chest = {
         },
-        Wrist = {
+        Wrists = {
         },
         Hands = {
         },
@@ -53,59 +53,54 @@ BiSTracker.Set = {
         },
         Feet = {
         },
-        Finger1 = {
+        Finger = {
         },
-        Finger2 = {
+        RFinger = {
         },
-        Trinket1 = {
+        Trinket = {
         },
-        Trinket2 = {
+        RTrinket = {
         },
         MainHand = {
         },
-        OffHand = {
+        SecondaryHand = {
         },
         Relic = {
         }
     }
 }
-
 BiSTracker.Set.__index = BiSTracker.Set
-
-function BiSTracker.Set:New (name, head, neck, shoulders, back, chest, wrist, hands, waist, legs, feet, finger1, finger2, trinket1, trinket2, mainhand, offhand, relic)
+function BiSTracker.Set:New (name, head, neck, shoulder, back, chest, wrists, hands, waist, legs, feet, finger, rfinger, trinket, rtrinket, mainhand, secondaryhand, relic)
     local self = setmetatable({}, BiSTracker.Set)
     self.Name = name
     self.Slots = {}
     self.Slots.Head = head
     self.Slots.Neck = neck
-    self.Slots.Shoulders = shoulders
+    self.Slots.Shoulder = shoulder
     self.Slots.Back = back
     self.Slots.Chest = chest
-    self.Slots.Wrist = wrist
+    self.Slots.Wrists = wrists
     self.Slots.Hands = hands
     self.Slots.Waist = waist
     self.Slots.Legs = legs
     self.Slots.Feet = feet
-    self.Slots.Finger1 = finger1
-    self.Slots.Finger2 = finger2
-    self.Slots.Trinket1 = trinket1
-    self.Slots.Trinket2 = trinket2
+    self.Slots.Finger = finger
+    self.Slots.RFinger = rfinger
+    self.Slots.Trinket = trinket
+    self.Slots.RTrinket = rtrinket
     self.Slots.MainHand = mainhand
-    self.Slots.OffHand = offhand
+    self.Slots.SecondaryHand = secondaryhand
     self.Slots.Relic = relic
     return self
 end
 
-BiSTracker.EventListener = CreateFrame("Frame")
-
-
 function ItemIsObtainType(val, type)
     return val.Obtain.Type and type or false
 end
-
 function GetItemFromOldDataSlot(slot)
     return BiSTracker.Item:New(slot.itemID, 0, slot.Obtain.Method, ItemIsObtainType(slot, "By Killing"), ItemIsObtainType(slot, "By Quest"), ItemIsObtainType(slot, "By Profession"), slot.Obtain.Drop, slot.Obtain.Zone)
 end
+
 
 function BiSTracker:Init()
     BiSTracker.Settings = BiS_Settings
@@ -147,16 +142,8 @@ function BiSTracker:Init()
         end
         BiS_Settings.Version = BiSTracker.Version
     end
-    if (BiSTracker.Settings.AttachedToCharacterFrame) then
-        BiSTracker.MainFrame = CreateFrame("Frame", "BiSMainFrame", CharacterFrame, "BiSFrameTemplate");
-    else
-        BiSTracker.MainFrame = CreateFrame("Frame", "BiSMainFrame", UIParent, "BiSFrameTemplate");
-    end
 end
 
-BiSTracker.EventListener:RegisterEvent("ADDON_LOADED")
-BiSTracker.EventListener:SetScript("OnEvent", function(self, event, arg1, ...)
-    if (event == "ADDON_LOADED" and BiSTracker.Name == arg1) then
-        BiSTracker:Init()
-    end
-end)
+function BiSTracker:OnInitialize()
+    BiSTracker:Init()
+end

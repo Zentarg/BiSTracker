@@ -1,4 +1,4 @@
-## Interface: 11302
+## Interface: 11304
 
 ## Title: BiS Tracker
 ## Notes: Shows BiS items for every class, and where to get them.
@@ -6,7 +6,11 @@
 ## Version: 3.0
 ## SavedVariablesPerCharacter: BiS_Settings
 
+embeds.xml
+
 core\Init.lua
+core\ChatCommands.lua
+core\SheetFrame.lua
 
 Templates.xml
 data\BiSData.lua
