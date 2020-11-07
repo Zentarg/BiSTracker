@@ -3,6 +3,9 @@ BiSTracker.AceGUI = LibStub("AceGUI-3.0")
 
 BiSTracker.Version = 2.0
 
+BiSTracker.SelectedClass = ""
+BiSTracker.SelectedSetName = ""
+
 BiSTracker.Item = {
     ID = 0,
     Obtain = {
@@ -142,6 +145,7 @@ function BiSTracker:Init()
         end
         BiS_Settings.Version = BiSTracker.Version
     end
+    BiSTracker:InitUI()
 end
 
 function BiSTracker:OnInitialize()

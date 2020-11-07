@@ -8,11 +8,11 @@
 
 embeds.xml
 
+data\BiSData.lua
 core\Init.lua
 core\ChatCommands.lua
 core\SheetFrame.lua
 
 Templates.xml
-data\BiSData.lua
 #core.lua
 core\BiSTracker.lua
