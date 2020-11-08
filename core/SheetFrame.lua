@@ -16,14 +16,18 @@ BiSTracker.AceGUI:RegisterLayout("BiSTrackerSheet",
             frame:Show()
             
             if i == 1 then
-                frame:SetPoint("TOP", content)
+                frame:SetPoint("TOPLEFT", content, 0, 10)
             elseif i == 2 then
-                frame:SetPoint("TOPLEFT", content, 0, -10)
+                frame:SetPoint("TOPRIGHT", content, 0, 10)
             elseif i == 3 then
-                frame:SetPoint("BOTTOM", content, 0, 45)
+                frame:SetPoint("TOP", content)
             elseif i == 4 then
-                frame:SetPoint("TOPRIGHT", content, 0, -10)
+                frame:SetPoint("TOPLEFT", content, 0, -30)
             elseif i == 5 then
+                frame:SetPoint("BOTTOM", content, 0, 45)
+            elseif i == 6 then
+                frame:SetPoint("TOPRIGHT", content, 0, -30)
+            elseif i == 7 then
                 frame:SetPoint("BOTTOM", content, 0, -10)
             end
 
@@ -192,7 +196,7 @@ end
 function BiSTracker:InitUI()
     BiSTracker.MainFrame:EnableResize(false)
     BiSTracker.MainFrame:SetTitle("BiS Tracker")
-    BiSTracker.MainFrame:SetHeight(490)
+    BiSTracker.MainFrame:SetHeight(520)
     BiSTracker.MainFrame:SetLayout("BiSTrackerSheet")
     BiSTracker.MainFrame:SetWidth(250)
     
@@ -213,7 +217,26 @@ function BiSTracker:InitUI()
 
 
 
+    BiSTracker.MainFrame.TopLeftButtonGroup = CreateSimpleGroup("flow", 20, 20)
+    BiSTracker.MainFrame.TopRightButtonGroup = CreateSimpleGroup("flow", 45, 45)
     
+    BiSTracker.MainFrame.TopLeftButtonGroup.Reload = BiSTracker.AceGUI:Create("Icon")
+    BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetImageSize(20, 20)
+    BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetHeight(25)
+    BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetWidth(25)
+    BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetImage("Interface\\AddOns\\BiSTracker\\assets\\reload")
+    BiSTracker.MainFrame.TopLeftButtonGroup:AddChild(BiSTracker.MainFrame.TopLeftButtonGroup.Reload)
+    BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnEnter", function()
+        GameTooltip:SetOwner(BiSTracker.MainFrame.TopLeftButtonGroup.Reload.frame, "ANCHOR_RIGHT")
+        GameTooltip:SetText("Reload")
+    end)
+    BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnLeave", function()
+        GameTooltip:SetText("")
+    end)
+    BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnClick", function()
+        BiSTracker.MainFrame:UpdateSetDisplay()
+    end)
+
     BiSTracker.MainFrame.SetName = CreateEditBox("Set Name", nil, true, true, 15, 100)
     BiSTracker.MainFrame.LeftSlots = CreateSimpleGroup("list", 45, 0)
     BiSTracker.MainFrame.BottomSlots = CreateSimpleGroup("flow", 136, 45)
@@ -222,7 +245,7 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.ActionsGroup = CreateSimpleGroup("flow", 0, 46)
     BiSTracker.MainFrame.ActionsGroup:SetFullWidth(true)
 
-    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu("Class", ClassList[BiSTracker.CurrentClass], ClassList, 80)
+    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu("Class", ClassList[BiSTracker.CurrentClass], ClassList, 95)
     BiSTracker.SelectedClass = BiSTracker.CurrentClass
     BiSTracker.MainFrame.ActionsGroup.ClassDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedClass = self.list[self.value]
@@ -232,7 +255,7 @@ function BiSTracker:InitUI()
     
     local firstSetInClass, _ = next(BiSTracker.ClassSetList[BiSTracker.CurrentClass])
     BiSTracker.SelectedSetName = firstSetInClass
-    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu("Set", firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 100)
+    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu("Set", firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 130)
     BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedSetName = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDisplay()
@@ -243,6 +266,8 @@ function BiSTracker:InitUI()
     
     
     
+    BiSTracker.MainFrame:AddChild(BiSTracker.MainFrame.TopLeftButtonGroup)
+    BiSTracker.MainFrame:AddChild(BiSTracker.MainFrame.TopRightButtonGroup)
     BiSTracker.MainFrame:AddChild(BiSTracker.MainFrame.SetName)
     BiSTracker.MainFrame:AddChild(BiSTracker.MainFrame.LeftSlots)
     BiSTracker.MainFrame:AddChild(BiSTracker.MainFrame.BottomSlots)
