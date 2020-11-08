@@ -106,13 +106,14 @@ end
 
 
 function BiSTracker:Init()
-    BiSTracker.Settings = BiS_Settings
     if type(BiSTracker.Settings) ~= "table" then
         BiS_Settings = {}
         BiS_Settings.CustomSpecs = {}
         BiS_Settings.Version = BiSTracker.Version
         BiS_Settings.AttachedToCharacterFrame = true
+        BiSTracker.Settings = BiS_Settings
     else
+        BiSTracker.Settings = BiS_Settings
         print(BiSTracker.Settings.Version)
         if BiSTracker.Settings.Version == nil then --Migrate custom specs from 1.0 to 2.0
             BiSTracker.Settings.CustomSpecs = {}

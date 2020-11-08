@@ -46,9 +46,80 @@ BiSTracker.AceGUI:RegisterLayout("BiSTrackerSheet",
 		end
 	end)
 
+local inventorySlotName = {
+    Head = "HEADSLOT",
+    Neck = "NECKSLOT",
+    Shoulder = "SHOULDERSLOT",
+    Back = "BACKSLOT",
+    Chest = "CHESTSLOT",
+    Shirt = "SHIRTSLOT",
+    Tabard = "TABARDSLOT",
+    Wrists = "WRISTSLOT",
+    Hands = "HANDSSLOT",
+    Waist = "WAISTSLOT",
+    Legs = "LEGSSLOT",
+    Feet = "FEETSLOT",
+    Finger = "FINGER0SLOT",
+    RFinger = "FINGER1SLOT",
+    Trinket = "TRINKET0SLOT",
+    RTrinket = "TRINKET1SLOT",
+    MainHand = "MAINHANDSLOT",
+    SecondaryHand = "SECONDARYHANDSLOT",
+    Relic = "RANGEDSLOT"
+}
+
+local function UpdateModelFrame()
+	BiSTracker.MainFrame.Model:SetAllPoints(BiSTracker.MainFrame.frame)
+	BiSTracker.MainFrame.Model:SetModelScale(0.75)
+	BiSTracker.MainFrame.Model:SetUnit("PLAYER")
+	BiSTracker.MainFrame.Model:SetCustomCamera(1)
+	BiSTracker.MainFrame.Model:SetPosition(0,0,0)
+	BiSTracker.MainFrame.Model:SetLight(true, false, 0, 0.8, -1, 1, 1, 1, 1, 0.3, 1, 1, 1)
+end
+
 function BiSTracker.MainFrame:UpdateSetDisplay()
-    print("Update Set Display")
+    UpdateModelFrame()
     BiSTracker.MainFrame.SetName:SetText(BiSTracker.SelectedSetName)
+
+    local SelectedSetSlots = None
+
+    if (BiSTracker.SelectedClass ~= "Custom") then
+        SelectedSetSlots = BiSData[BiSTracker.SelectedClass][BiSTracker.SelectedSetName]
+    else
+        SelectedSetSlots = BiSTracker.Settings.CustomSpecs[BiSTracker.SelectedSetName].Slots
+    end
+    local errorOccured = false
+    for key, value in pairs(SelectedSetSlots) do
+        if (value.ID == 0) then
+            BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
+            BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
+            end)
+        else
+            local _,itemLink,_,_,_,_,_,_,_,itemTexture,_,_,_,_,_,_,_ = GetItemInfo(value.ID)
+            if (itemLink == nil) then
+                errorOccured = true
+                print(key)
+                print(inventorySlotName[key])
+                BiSTracker.MainFrame.Model:UndressSlot(GetInventorySlotInfo(inventorySlotName[key]))
+                BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
+                BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
+                    GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
+                    GameTooltip:SetText("|cffff0000An error occured while loading this item.\nPlease try reloading the set.")
+                end)
+            else
+                BiSTracker.MainFrame.Model:TryOn(itemLink)
+                BiSTracker.MainFrame.Slots[key]:SetImage(itemTexture)
+                BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
+                    GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
+                    GameTooltip:SetHyperlink(itemLink)
+                end)
+
+            end
+        end
+    end
+    if (errorOccured == true) then
+        BiSTracker:Print("|cffff0000An error occured while loading an item in the |cffffff00" .. BiSTracker.SelectedClass .. "|cffff0000 set |cffffff00" .. BiSTracker.SelectedSetName .. "|cffff0000. Please try reloading the set.")
+    end
 end
 
 local function CreateEditBox(text, label, disabled, disableButton, maxLetters, width)
@@ -160,7 +231,7 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame:AddChild(BiSTracker.MainFrame.RightSlots)
     BiSTracker.MainFrame:AddChild(BiSTracker.MainFrame.ActionsGroup)
     
-    local SlotIcons = {
+    BiSTracker.MainFrame.DefaultSlotIcons = {
         Head = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Head",
         Neck = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Neck",
         Shoulder = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Shoulder",
@@ -226,16 +297,53 @@ function BiSTracker:InitUI()
         "Relic"
     }
 
-    for key, value in pairs(BiSTracker.MainFrame.Slots) do
-        print(key)
-        BiSTracker.MainFrame.Slots[key] = CreateSlotIcon(SlotIcons[value], 40, 40, 45, 45)
-        if (key <= 8) then
-            BiSTracker.MainFrame.LeftSlots:AddChild(BiSTracker.MainFrame.Slots[key])
-        elseif (key <= 16) then
-            BiSTracker.MainFrame.RightSlots:AddChild(BiSTracker.MainFrame.Slots[key])
-        else
-            BiSTracker.MainFrame.BottomSlots:AddChild(BiSTracker.MainFrame.Slots[key])
+    local slots = BiSTracker.MainFrame.Slots
+
+    for key, value in pairs(slots) do
+        if (type(key) == "number") then
+            BiSTracker.MainFrame.Slots[value] = CreateSlotIcon(BiSTracker.MainFrame.DefaultSlotIcons[value], 40, 40, 45, 45)
+            if (key <= 8) then
+                BiSTracker.MainFrame.LeftSlots:AddChild(BiSTracker.MainFrame.Slots[value])
+            elseif (key <= 16) then
+                BiSTracker.MainFrame.RightSlots:AddChild(BiSTracker.MainFrame.Slots[value])
+            else
+                BiSTracker.MainFrame.BottomSlots:AddChild(BiSTracker.MainFrame.Slots[value])
+            end
         end
     end
+
+    BiSTracker.MainFrame.Model = CreateFrame("DressUpModel",nil,BiSTracker.MainFrame.frame)
+    
+    BiSTracker.MainFrame.Model:SetScript("OnMousewheel", function(self, offset)
+        self:SetCameraDistance(self:GetCameraDistance()-offset/10)
+    end)
+    BiSTracker.MainFrame.Model:SetScript("OnMouseDown", function(self, button)
+        BiSTracker.MainFrame.Model.IsDragging = true
+        BiSTracker.MainFrame.Model.LastMousePos = GetCursorPosition()
+    end)
+    BiSTracker.MainFrame.Model:SetScript("OnMouseUp", function(self, button)
+        BiSTracker.MainFrame.Model.IsDragging = false
+    end)
+    BiSTracker.MainFrame.Model:SetScript("OnUpdate", function(self, timeLapsed)
+        if (BiSTracker.MainFrame.Model.IsDragging and BiSTracker.MainFrame.Model.LastMousePos ~= nil) then
+            local currentCursor = GetCursorPosition()
+            local currentRotationInDegrees = (180/math.pi)*BiSTracker.MainFrame.Model:GetFacing()
+            local newRotationInDegrees = 0
+
+
+
+            newRotationInDegrees = currentRotationInDegrees + (currentCursor - BiSTracker.MainFrame.Model.LastMousePos)
+
+            if (newRotationInDegrees > 360) then
+                newRotationInDegrees = newRotationInDegrees - 360
+            elseif (newRotationInDegrees < 0) then
+                newRotationInDegrees = 360 - newRotationInDegrees
+            end
+            local newRotationInRadiens = (math.pi/180)*newRotationInDegrees
+
+            BiSTracker.MainFrame.Model:SetFacing(newRotationInRadiens)
+            BiSTracker.MainFrame.Model.LastMousePos = GetCursorPosition()
+        end
+    end)
 
 end

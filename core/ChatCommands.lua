@@ -25,6 +25,7 @@ function BiSTracker:ChatCommand(msg)
             BiSTracker.MainFrame:Hide()
         else
             BiSTracker.MainFrame:Show()
+            BiSTracker.MainFrame:UpdateSetDisplay()
         end
     end
     local args = {}

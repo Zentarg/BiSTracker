@@ -2,7 +2,7 @@ BiSData = {
 	Druid = {
 	  ["FeralTank-P5"] = {
 		Head = {
-		  id = 21693,
+		  ID = 21693,
 		  Obtain = {
 			NpcID = "15544",
 			NpcName = "Vem",
@@ -16,7 +16,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 22732,
+		  ID = 22732,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -30,7 +30,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 19389,
+		  ID = 19389,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -44,7 +44,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 19386,
+		  ID = 19386,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -58,7 +58,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 19405,
+		  ID = 19405,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -71,8 +71,36 @@ BiSData = {
 			Zone = "Blackwing Lair"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21602,
+		  ID = 21602,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -86,7 +114,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21672,
+		  ID = 21672,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -100,7 +128,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21675,
+		  ID = 21675,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -114,7 +142,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22740,
+		  ID = 22740,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -127,8 +155,8 @@ BiSData = {
 			Zone = ""
 		  }
 		},
-		Boots = {
-		  id = 19381,
+		Feet = {
+		  ID = 19381,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -142,7 +170,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21601,
+		  ID = 21601,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -156,7 +184,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21205,
+		  ID = 21205,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -170,7 +198,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -184,7 +212,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 13966,
+		  ID = 13966,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -198,7 +226,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21268,
+		  ID = 21268,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -212,7 +240,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 13385,
+		  ID = 13385,
 		  Obtain = {
 			NpcID = "10811",
 			NpcName = "Archivist Galford",
@@ -226,7 +254,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23198,
+		  ID = 23198,
 		  Obtain = {
 			NpcID = "10435",
 			NpcName = "Magistrate Barthilas",
@@ -242,7 +270,7 @@ BiSData = {
 	  },
 	  ["FeralTank-P6"] = {
 		Head = {
-		  id = 21693,
+		  ID = 21693,
 		  Obtain = {
 			NpcID = "15544",
 			NpcName = "Vem",
@@ -256,7 +284,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 22732,
+		  ID = 22732,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -270,7 +298,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 19389,
+		  ID = 19389,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -284,7 +312,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22938,
+		  ID = 22938,
 		  Obtain = {
 			NpcID = "15956",
 			NpcName = "Anub'Rekhan",
@@ -298,7 +326,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 23226,
+		  ID = 23226,
 		  Obtain = {
 			NpcID = "16446",
 			NpcName = "Plagued Gargoyle",
@@ -311,8 +339,36 @@ BiSData = {
 			Zone = ""
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 22663,
+		  ID = 22663,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -326,7 +382,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21672,
+		  ID = 21672,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -340,7 +396,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21675,
+		  ID = 21675,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -354,7 +410,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22740,
+		  ID = 22740,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -367,8 +423,8 @@ BiSData = {
 			Zone = ""
 		  }
 		},
-		Boots = {
-		  id = 19381,
+		Feet = {
+		  ID = 19381,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -382,7 +438,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23018,
+		  ID = 23018,
 		  Obtain = {
 			NpcID = "16061",
 			NpcName = "Instructor Razuvious",
@@ -396,7 +452,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21601,
+		  ID = 21601,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -410,7 +466,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 22954,
+		  ID = 22954,
 		  Obtain = {
 			NpcID = "15952",
 			NpcName = "Maexxna",
@@ -424,7 +480,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -438,7 +494,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21268,
+		  ID = 21268,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -452,7 +508,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 13385,
+		  ID = 13385,
 		  Obtain = {
 			NpcID = "10811",
 			NpcName = "Archivist Galford",
@@ -466,7 +522,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23198,
+		  ID = 23198,
 		  Obtain = {
 			NpcID = "10435",
 			NpcName = "Magistrate Barthilas",
@@ -482,7 +538,7 @@ BiSData = {
 	  },
 	  ["FeralDps-P5"] = {
 		Head = {
-		  id = 8345,
+		  ID = 8345,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -496,7 +552,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 19377,
+		  ID = 19377,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -510,7 +566,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21665,
+		  ID = 21665,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -524,7 +580,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21710,
+		  ID = 21710,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -538,7 +594,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21680,
+		  ID = 21680,
 		  Obtain = {
 			NpcID = "15511",
 			NpcName = "Lord Kri",
@@ -551,8 +607,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21602,
+		  ID = 21602,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -566,7 +650,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21672,
+		  ID = 21672,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -580,7 +664,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21586,
+		  ID = 21586,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -594,7 +678,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 16450,
+		  ID = 16450,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -607,8 +691,8 @@ BiSData = {
 			Zone = ""
 		  }
 		},
-		Boots = {
-		  id = 21493,
+		Feet = {
+		  ID = 21493,
 		  Obtain = {
 			NpcID = "15341",
 			NpcName = "General Rajaxx",
@@ -622,7 +706,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21205,
+		  ID = 21205,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -636,7 +720,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19432,
+		  ID = 19432,
 		  Obtain = {
 			NpcID = "11981",
 			NpcName = "Flamegor",
@@ -650,7 +734,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -664,7 +748,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 21670,
+		  ID = 21670,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -678,7 +762,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21268,
+		  ID = 21268,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -692,7 +776,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 13385,
+		  ID = 13385,
 		  Obtain = {
 			NpcID = "10811",
 			NpcName = "Archivist Galford",
@@ -706,7 +790,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23198,
+		  ID = 23198,
 		  Obtain = {
 			NpcID = "10435",
 			NpcName = "Magistrate Barthilas",
@@ -722,7 +806,7 @@ BiSData = {
 	  },
 	  ["FeralDps-P6"] = {
 		Head = {
-		  id = 8345,
+		  ID = 8345,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -736,7 +820,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 19377,
+		  ID = 19377,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -750,7 +834,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21665,
+		  ID = 21665,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -764,7 +848,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21710,
+		  ID = 21710,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -778,7 +862,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 23226,
+		  ID = 23226,
 		  Obtain = {
 			NpcID = "16446",
 			NpcName = "Plagued Gargoyle",
@@ -791,8 +875,36 @@ BiSData = {
 			Zone = ""
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21602,
+		  ID = 21602,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -806,7 +918,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21672,
+		  ID = 21672,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -820,7 +932,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21586,
+		  ID = 21586,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -834,7 +946,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 23071,
+		  ID = 23071,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -847,8 +959,8 @@ BiSData = {
 			Zone = ""
 		  }
 		},
-		Boots = {
-		  id = 21493,
+		Feet = {
+		  ID = 21493,
 		  Obtain = {
 			NpcID = "15341",
 			NpcName = "General Rajaxx",
@@ -862,7 +974,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23038,
+		  ID = 23038,
 		  Obtain = {
 			NpcID = "16011",
 			NpcName = "Loatheb",
@@ -876,7 +988,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19432,
+		  ID = 19432,
 		  Obtain = {
 			NpcID = "11981",
 			NpcName = "Flamegor",
@@ -890,7 +1002,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23041,
+		  ID = 23041,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -904,7 +1016,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 22954,
+		  ID = 22954,
 		  Obtain = {
 			NpcID = "15952",
 			NpcName = "Maexxna",
@@ -918,7 +1030,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 22988,
+		  ID = 22988,
 		  Obtain = {
 			NpcID = "15931",
 			NpcName = "Grobbulus",
@@ -932,7 +1044,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 13385,
+		  ID = 13385,
 		  Obtain = {
 			NpcID = "10811",
 			NpcName = "Archivist Galford",
@@ -946,7 +1058,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23198,
+		  ID = 23198,
 		  Obtain = {
 			NpcID = "10435",
 			NpcName = "Magistrate Barthilas",
@@ -962,7 +1074,7 @@ BiSData = {
 	  },
 	  ["Restoration-P5"] = {
 		Head = {
-		  id = 20628,
+		  ID = 20628,
 		  Obtain = {
 			NpcID = "14888",
 			NpcName = "Lethon",
@@ -976,7 +1088,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21712,
+		  ID = 21712,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -990,7 +1102,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 18810,
+		  ID = 18810,
 		  Obtain = {
 			NpcID = "12018",
 			NpcName = "Majordomo Executus",
@@ -1004,7 +1116,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21583,
+		  ID = 21583,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -1018,7 +1130,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21663,
+		  ID = 21663,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -1031,8 +1143,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21604,
+		  ID = 21604,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -1046,7 +1186,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21617,
+		  ID = 21617,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -1060,7 +1200,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21582,
+		  ID = 21582,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -1074,7 +1214,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 19385,
+		  ID = 19385,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -1087,8 +1227,8 @@ BiSData = {
 			Zone = "Blackwing Lair"
 		  }
 		},
-		Boots = {
-		  id = 19437,
+		Feet = {
+		  ID = 19437,
 		  Obtain = {
 			NpcID = "12467",
 			NpcName = "Death Talon Captain",
@@ -1102,7 +1242,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21620,
+		  ID = 21620,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -1116,7 +1256,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19382,
+		  ID = 19382,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -1130,7 +1270,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19395,
+		  ID = 19395,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -1144,7 +1284,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19955,
+		  ID = 19955,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1158,7 +1298,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21839,
+		  ID = 21839,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -1172,7 +1312,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21666,
+		  ID = 21666,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -1186,10 +1326,10 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22399,
+		  ID = 22399,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -1202,7 +1342,7 @@ BiSData = {
 	  },
 	  ["Restoration-P6"] = {
 		Head = {
-		  id = 20628,
+		  ID = 20628,
 		  Obtain = {
 			NpcID = "14888",
 			NpcName = "Lethon",
@@ -1216,7 +1356,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21712,
+		  ID = 21712,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1230,7 +1370,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22491,
+		  ID = 22491,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1244,7 +1384,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22960,
+		  ID = 22960,
 		  Obtain = {
 			NpcID = "16028",
 			NpcName = "Patchwerk",
@@ -1258,7 +1398,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 22488,
+		  ID = 22488,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1271,8 +1411,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21604,
+		  ID = 21604,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -1286,7 +1454,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21617,
+		  ID = 21617,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -1300,7 +1468,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21582,
+		  ID = 21582,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -1314,7 +1482,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22489,
+		  ID = 22489,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1327,8 +1495,8 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
-		Boots = {
-		  id = 22492,
+		Feet = {
+		  ID = 22492,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1342,7 +1510,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 22939,
+		  ID = 22939,
 		  Obtain = {
 			NpcID = "15956",
 			NpcName = "Anub'Rekhan",
@@ -1356,7 +1524,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21620,
+		  ID = 21620,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -1370,7 +1538,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19395,
+		  ID = 19395,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -1384,7 +1552,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 23047,
+		  ID = 23047,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -1398,7 +1566,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 23056,
+		  ID = 23056,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -1412,7 +1580,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23048,
+		  ID = 23048,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -1426,10 +1594,10 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22399,
+		  ID = 22399,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -1442,7 +1610,7 @@ BiSData = {
 	  },
 	  ["Balance-P5"] = {
 		Head = {
-		  id = 19375,
+		  ID = 19375,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -1456,7 +1624,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21608,
+		  ID = 21608,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -1470,7 +1638,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 19370,
+		  ID = 19370,
 		  Obtain = {
 			NpcID = "12435",
 			NpcName = "Razorgore the Untamed",
@@ -1484,7 +1652,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22731,
+		  ID = 22731,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -1498,7 +1666,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 19682,
+		  ID = 19682,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1511,8 +1679,36 @@ BiSData = {
 			Zone = ""
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 19374,
+		  ID = 19374,
 		  Obtain = {
 			NpcID = "12017",
 			NpcName = "Broodlord Lashlayer",
@@ -1526,7 +1722,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -1540,7 +1736,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22730,
+		  ID = 22730,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -1554,7 +1750,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 19683,
+		  ID = 19683,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1567,8 +1763,8 @@ BiSData = {
 			Zone = ""
 		  }
 		},
-		Boots = {
-		  id = 19684,
+		Feet = {
+		  ID = 19684,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1582,7 +1778,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 19403,
+		  ID = 19403,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -1596,7 +1792,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21709,
+		  ID = 21709,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1610,7 +1806,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -1624,7 +1820,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 18820,
+		  ID = 18820,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -1638,7 +1834,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 19360,
+		  ID = 19360,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -1652,7 +1848,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21597,
+		  ID = 21597,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -1666,7 +1862,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23197,
+		  ID = 23197,
 		  Obtain = {
 			NpcID = "15817",
 			NpcName = "Qiraji Brigadier General Pax-lish",
@@ -1682,7 +1878,7 @@ BiSData = {
 	  },
 	  ["Balance-P6"] = {
 		Head = {
-		  id = 19375,
+		  ID = 19375,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -1696,7 +1892,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 23057,
+		  ID = 23057,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -1710,7 +1906,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22983,
+		  ID = 22983,
 		  Obtain = {
 			NpcID = "15932",
 			NpcName = "Gluth",
@@ -1724,7 +1920,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23050,
+		  ID = 23050,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -1738,7 +1934,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 19682,
+		  ID = 19682,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1751,8 +1947,36 @@ BiSData = {
 			Zone = ""
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 23021,
+		  ID = 23021,
 		  Obtain = {
 			NpcID = "16060",
 			NpcName = "Gothik the Harvester",
@@ -1766,7 +1990,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -1780,7 +2004,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22730,
+		  ID = 22730,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -1794,7 +2018,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 19683,
+		  ID = 19683,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1807,8 +2031,8 @@ BiSData = {
 			Zone = ""
 		  }
 		},
-		Boots = {
-		  id = 19684,
+		Feet = {
+		  ID = 19684,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1822,7 +2046,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23025,
+		  ID = 23025,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1836,7 +2060,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21709,
+		  ID = 21709,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1850,7 +2074,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -1864,7 +2088,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 23046,
+		  ID = 23046,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -1878,7 +2102,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 22988,
+		  ID = 22988,
 		  Obtain = {
 			NpcID = "15931",
 			NpcName = "Grobbulus",
@@ -1892,7 +2116,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23049,
+		  ID = 23049,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -1906,7 +2130,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23197,
+		  ID = 23197,
 		  Obtain = {
 			NpcID = "15817",
 			NpcName = "Qiraji Brigadier General Pax-lish",
@@ -1924,7 +2148,7 @@ BiSData = {
 	Hunter = {
 	  ["All-P5"] = {
 		Head = {
-		  id = 16939,
+		  ID = 16939,
 		  Obtain = {
 			NpcID = "10184",
 			NpcName = "Onyxia",
@@ -1938,7 +2162,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 19377,
+		  ID = 19377,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -1952,7 +2176,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 16937,
+		  ID = 16937,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -1966,7 +2190,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21710,
+		  ID = 21710,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -1980,7 +2204,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 16942,
+		  ID = 16942,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -1993,8 +2217,64 @@ BiSData = {
 			Zone = "Blackwing Lair"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 16935,
+		  ID = 16935,
 		  Obtain = {
 			NpcID = "12435",
 			NpcName = "Razorgore the Untamed",
@@ -2008,7 +2288,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 16940,
+		  ID = 16940,
 		  Obtain = {
 			NpcID = "11983",
 			NpcName = "Firemaw",
@@ -2022,7 +2302,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 16936,
+		  ID = 16936,
 		  Obtain = {
 			NpcID = "13020",
 			NpcName = "Vaelastrasz the Corrupt",
@@ -2036,7 +2316,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 16938,
+		  ID = 16938,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -2049,8 +2329,8 @@ BiSData = {
 			Zone = "Molten Core"
 		  }
 		},
-		Boots = {
-		  id = 16941,
+		Feet = {
+		  ID = 16941,
 		  Obtain = {
 			NpcID = "12017",
 			NpcName = "Broodlord Lashlayer",
@@ -2064,7 +2344,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -2078,7 +2358,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19384,
+		  ID = 19384,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2092,7 +2372,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -2106,7 +2386,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 18473,
+		  ID = 18473,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2120,7 +2400,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21673,
+		  ID = 21673,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -2134,7 +2414,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 19859,
+		  ID = 19859,
 		  Obtain = {
 			NpcID = "14834",
 			NpcName = "Hakkar",
@@ -2148,7 +2428,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 19361,
+		  ID = 19361,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -2164,7 +2444,7 @@ BiSData = {
 	  },
 	  ["All-P6"] = {
 		Head = {
-		  id = 22438,
+		  ID = 22438,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2178,7 +2458,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 23053,
+		  ID = 23053,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -2192,7 +2472,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22439,
+		  ID = 22439,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2206,7 +2486,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23045,
+		  ID = 23045,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -2220,7 +2500,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 22436,
+		  ID = 22436,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2233,8 +2513,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 22443,
+		  ID = 22443,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2248,7 +2556,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 16571,
+		  ID = 16571,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2262,7 +2570,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22442,
+		  ID = 22442,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2276,7 +2584,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22437,
+		  ID = 22437,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2289,8 +2597,8 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
-		Boots = {
-		  id = 22440,
+		Feet = {
+		  ID = 22440,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2304,7 +2612,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23067,
+		  ID = 23067,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -2318,7 +2626,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 22961,
+		  ID = 22961,
 		  Obtain = {
 			NpcID = "16028",
 			NpcName = "Patchwerk",
@@ -2332,7 +2640,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23041,
+		  ID = 23041,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -2346,7 +2654,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -2360,7 +2668,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 22816,
+		  ID = 22816,
 		  Obtain = {
 			NpcID = "15954",
 			NpcName = "Noth the Plaguebringer",
@@ -2374,7 +2682,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 22802,
+		  ID = 22802,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -2388,7 +2696,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22812,
+		  ID = 22812,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2406,7 +2714,7 @@ BiSData = {
 	Mage = {
 	  ["All-P5"] = {
 		Head = {
-		  id = 19375,
+		  ID = 19375,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -2420,7 +2728,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21608,
+		  ID = 21608,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -2434,7 +2742,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 19370,
+		  ID = 19370,
 		  Obtain = {
 			NpcID = "12435",
 			NpcName = "Razorgore the Untamed",
@@ -2448,7 +2756,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22731,
+		  ID = 22731,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -2462,7 +2770,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21343,
+		  ID = 21343,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2475,8 +2783,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21186,
+		  ID = 21186,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2490,7 +2826,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -2504,7 +2840,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22730,
+		  ID = 22730,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -2518,7 +2854,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21461,
+		  ID = 21461,
 		  Obtain = {
 			NpcID = "15339",
 			NpcName = "Ossirian the Unscarred",
@@ -2531,8 +2867,8 @@ BiSData = {
 			Zone = "Ruins of Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21344,
+		Feet = {
+		  ID = 21344,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2546,7 +2882,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21709,
+		  ID = 21709,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2560,7 +2896,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21836,
+		  ID = 21836,
 		  Obtain = {
 			NpcID = "15249",
 			NpcName = "Qiraji Lasher",
@@ -2574,7 +2910,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19950,
+		  ID = 19950,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2588,7 +2924,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -2602,10 +2938,10 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21622,
+		  ID = 21622,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -2616,7 +2952,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21597,
+		  ID = 21597,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -2630,7 +2966,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 21603,
+		  ID = 21603,
 		  Obtain = {
 			NpcID = "15511",
 			NpcName = "Lord Kri",
@@ -2646,7 +2982,7 @@ BiSData = {
 	  },
 	  ["All-P6"] = {
 		Head = {
-		  id = 22498,
+		  ID = 22498,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2660,7 +2996,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 23057,
+		  ID = 23057,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -2674,7 +3010,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22983,
+		  ID = 22983,
 		  Obtain = {
 			NpcID = "15932",
 			NpcName = "Gluth",
@@ -2688,7 +3024,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23050,
+		  ID = 23050,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -2702,7 +3038,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 22496,
+		  ID = 22496,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2715,8 +3051,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 23021,
+		  ID = 23021,
 		  Obtain = {
 			NpcID = "16060",
 			NpcName = "Gothik the Harvester",
@@ -2730,7 +3094,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -2744,7 +3108,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22730,
+		  ID = 22730,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -2758,7 +3122,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 23070,
+		  ID = 23070,
 		  Obtain = {
 			NpcID = "15928",
 			NpcName = "Thaddius",
@@ -2771,8 +3135,8 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
-		Boots = {
-		  id = 22500,
+		Feet = {
+		  ID = 22500,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2786,7 +3150,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23062,
+		  ID = 23062,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -2800,7 +3164,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 23237,
+		  ID = 23237,
 		  Obtain = {
 			NpcID = "15980",
 			NpcName = "Naxxramas Cultist",
@@ -2814,7 +3178,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23046,
+		  ID = 23046,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -2828,7 +3192,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -2842,7 +3206,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 22807,
+		  ID = 22807,
 		  Obtain = {
 			NpcID = "15952",
 			NpcName = "Maexxna",
@@ -2856,7 +3220,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23049,
+		  ID = 23049,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -2870,7 +3234,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22821,
+		  ID = 22821,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -2888,7 +3252,7 @@ BiSData = {
 	Paladin = {
 	  ["Holy-P5"] = {
 		Head = {
-		  id = 19375,
+		  ID = 19375,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -2902,7 +3266,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21712,
+		  ID = 21712,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -2916,7 +3280,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 18810,
+		  ID = 18810,
 		  Obtain = {
 			NpcID = "12018",
 			NpcName = "Majordomo Executus",
@@ -2930,7 +3294,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21583,
+		  ID = 21583,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -2944,7 +3308,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21663,
+		  ID = 21663,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -2957,8 +3321,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21604,
+		  ID = 21604,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -2972,7 +3364,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 20264,
+		  ID = 20264,
 		  Obtain = {
 			NpcID = "14834",
 			NpcName = "Hakkar",
@@ -2986,7 +3378,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21582,
+		  ID = 21582,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -3000,7 +3392,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21667,
+		  ID = 21667,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -3013,8 +3405,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 19437,
+		Feet = {
+		  ID = 19437,
 		  Obtain = {
 			NpcID = "12467",
 			NpcName = "Death Talon Captain",
@@ -3028,7 +3420,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21620,
+		  ID = 21620,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -3042,7 +3434,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19382,
+		  ID = 19382,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -3056,7 +3448,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19395,
+		  ID = 19395,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -3070,7 +3462,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 17064,
+		  ID = 17064,
 		  Obtain = {
 			NpcID = "10184",
 			NpcName = "Onyxia",
@@ -3084,7 +3476,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21839,
+		  ID = 21839,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -3098,7 +3490,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21666,
+		  ID = 21666,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -3112,7 +3504,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22402,
+		  ID = 22402,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -3128,7 +3520,7 @@ BiSData = {
 	  },
 	  ["Holy-P6"] = {
 		Head = {
-		  id = 19375,
+		  ID = 19375,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -3142,7 +3534,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 23057,
+		  ID = 23057,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -3156,7 +3548,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22429,
+		  ID = 22429,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3170,7 +3562,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23050,
+		  ID = 23050,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -3184,7 +3576,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 22425,
+		  ID = 22425,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3197,8 +3589,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21604,
+		  ID = 21604,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -3212,7 +3632,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 20264,
+		  ID = 20264,
 		  Obtain = {
 			NpcID = "14834",
 			NpcName = "Hakkar",
@@ -3226,7 +3646,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21582,
+		  ID = 21582,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -3240,7 +3660,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22427,
+		  ID = 22427,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3253,8 +3673,8 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
-		Boots = {
-		  id = 22430,
+		Feet = {
+		  ID = 22430,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3268,7 +3688,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23066,
+		  ID = 23066,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -3282,7 +3702,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19382,
+		  ID = 19382,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -3296,7 +3716,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19395,
+		  ID = 19395,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -3310,7 +3730,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 23047,
+		  ID = 23047,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -3324,7 +3744,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 23056,
+		  ID = 23056,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -3338,7 +3758,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23075,
+		  ID = 23075,
 		  Obtain = {
 			NpcID = "15932",
 			NpcName = "Gluth",
@@ -3352,7 +3772,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23006,
+		  ID = 23006,
 		  Obtain = {
 			NpcID = "15954",
 			NpcName = "Noth the Plaguebringer",
@@ -3368,7 +3788,7 @@ BiSData = {
 	  },
 	  ["Retribution-P5"] = {
 		Head = {
-		  id = 21387,
+		  ID = 21387,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3382,7 +3802,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 18404,
+		  ID = 18404,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3396,7 +3816,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21391,
+		  ID = 21391,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3410,7 +3830,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21701,
+		  ID = 21701,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -3424,7 +3844,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21389,
+		  ID = 21389,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3437,8 +3857,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21618,
+		  ID = 21618,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -3452,10 +3900,10 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21623,
+		  ID = 21623,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -3466,7 +3914,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21463,
+		  ID = 21463,
 		  Obtain = {
 			NpcID = "15339",
 			NpcName = "Ossirian the Unscarred",
@@ -3480,7 +3928,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21390,
+		  ID = 21390,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3493,8 +3941,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21388,
+		Feet = {
+		  ID = 21388,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3508,7 +3956,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -3522,7 +3970,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21203,
+		  ID = 21203,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3536,7 +3984,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 22321,
+		  ID = 22321,
 		  Obtain = {
 			NpcID = "9568",
 			NpcName = "Overlord Wyrmthalak",
@@ -3550,7 +3998,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19289,
+		  ID = 19289,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3564,7 +4012,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21134,
+		  ID = 21134,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -3578,7 +4026,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 0,
+		  ID = 0,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3592,7 +4040,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23203,
+		  ID = 23203,
 		  Obtain = {
 			NpcID = "15817",
 			NpcName = "Qiraji Brigadier General Pax-lish",
@@ -3608,7 +4056,7 @@ BiSData = {
 	  },
 	  ["Retribution-P6"] = {
 		Head = {
-		  id = 21387,
+		  ID = 21387,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3622,7 +4070,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 18404,
+		  ID = 18404,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3636,7 +4084,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21391,
+		  ID = 21391,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3650,7 +4098,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23045,
+		  ID = 23045,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -3664,7 +4112,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21389,
+		  ID = 21389,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3677,8 +4125,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 22936,
+		  ID = 22936,
 		  Obtain = {
 			NpcID = "15956",
 			NpcName = "Anub'Rekhan",
@@ -3692,10 +4168,10 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21623,
+		  ID = 21623,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -3706,7 +4182,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 23219,
+		  ID = 23219,
 		  Obtain = {
 			NpcID = "16061",
 			NpcName = "Instructor Razuvious",
@@ -3720,7 +4196,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21390,
+		  ID = 21390,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3733,8 +4209,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21388,
+		Feet = {
+		  ID = 21388,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3748,7 +4224,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23038,
+		  ID = 23038,
 		  Obtain = {
 			NpcID = "16011",
 			NpcName = "Loatheb",
@@ -3762,7 +4238,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21203,
+		  ID = 21203,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3776,7 +4252,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 22321,
+		  ID = 22321,
 		  Obtain = {
 			NpcID = "9568",
 			NpcName = "Overlord Wyrmthalak",
@@ -3790,7 +4266,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19289,
+		  ID = 19289,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3804,7 +4280,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 22691,
+		  ID = 22691,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3818,7 +4294,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 0,
+		  ID = 0,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3832,7 +4308,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23203,
+		  ID = 23203,
 		  Obtain = {
 			NpcID = "15817",
 			NpcName = "Qiraji Brigadier General Pax-lish",
@@ -3848,7 +4324,7 @@ BiSData = {
 	  },
 	  ["Protection-P5"] = {
 		Head = {
-		  id = 21387,
+		  ID = 21387,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3862,7 +4338,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 22732,
+		  ID = 22732,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -3876,7 +4352,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21639,
+		  ID = 21639,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -3890,7 +4366,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 19888,
+		  ID = 19888,
 		  Obtain = {
 			NpcID = "11380",
 			NpcName = "Jin'do the Hexxer",
@@ -3904,7 +4380,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21389,
+		  ID = 21389,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -3917,8 +4393,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 16951,
+		  ID = 16951,
 		  Obtain = {
 			NpcID = "12435",
 			NpcName = "Razorgore the Untamed",
@@ -3932,7 +4436,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21674,
+		  ID = 21674,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -3946,7 +4450,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21598,
+		  ID = 21598,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -3960,7 +4464,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 19855,
+		  ID = 19855,
 		  Obtain = {
 			NpcID = "14834",
 			NpcName = "Hakkar",
@@ -3973,8 +4477,8 @@ BiSData = {
 			Zone = "Zul'Gurub"
 		  }
 		},
-		Boots = {
-		  id = 21706,
+		Feet = {
+		  ID = 21706,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -3988,7 +4492,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21200,
+		  ID = 21200,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4002,7 +4506,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21601,
+		  ID = 21601,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -4016,7 +4520,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19431,
+		  ID = 19431,
 		  Obtain = {
 			NpcID = "11981",
 			NpcName = "Flamegor",
@@ -4030,7 +4534,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 18406,
+		  ID = 18406,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4044,7 +4548,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 19335,
+		  ID = 19335,
 		  Obtain = {
 			NpcID = "12435",
 			NpcName = "Razorgore the Untamed",
@@ -4058,7 +4562,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21269,
+		  ID = 21269,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4072,7 +4576,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22401,
+		  ID = 22401,
 		  Obtain = {
 			NpcID = "16097",
 			NpcName = "Isalien",
@@ -4088,7 +4592,7 @@ BiSData = {
 	  },
 	  ["Protection-P6"] = {
 		Head = {
-		  id = 21387,
+		  ID = 21387,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4102,7 +4606,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 22732,
+		  ID = 22732,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -4116,7 +4620,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21639,
+		  ID = 21639,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -4130,7 +4634,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22938,
+		  ID = 22938,
 		  Obtain = {
 			NpcID = "15956",
 			NpcName = "Anub'Rekhan",
@@ -4144,7 +4648,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21389,
+		  ID = 21389,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4157,8 +4661,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 18754,
+		  ID = 18754,
 		  Obtain = {
 			NpcID = "14506",
 			NpcName = "Lord Hel'nurath",
@@ -4172,7 +4704,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21674,
+		  ID = 21674,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -4186,7 +4718,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21598,
+		  ID = 21598,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -4200,7 +4732,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 19855,
+		  ID = 19855,
 		  Obtain = {
 			NpcID = "14834",
 			NpcName = "Hakkar",
@@ -4213,8 +4745,8 @@ BiSData = {
 			Zone = "Zul'Gurub"
 		  }
 		},
-		Boots = {
-		  id = 21706,
+		Feet = {
+		  ID = 21706,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -4228,7 +4760,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21200,
+		  ID = 21200,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4242,7 +4774,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21601,
+		  ID = 21601,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -4256,7 +4788,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19431,
+		  ID = 19431,
 		  Obtain = {
 			NpcID = "11981",
 			NpcName = "Flamegor",
@@ -4270,7 +4802,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 18406,
+		  ID = 18406,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4284,7 +4816,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 23577,
+		  ID = 23577,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4298,7 +4830,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 22818,
+		  ID = 22818,
 		  Obtain = {
 			NpcID = "16028",
 			NpcName = "Patchwerk",
@@ -4312,7 +4844,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22401,
+		  ID = 22401,
 		  Obtain = {
 			NpcID = "16097",
 			NpcName = "Isalien",
@@ -4330,7 +4862,7 @@ BiSData = {
 	Priest = {
 	  ["Holy-P5"] = {
 		Head = {
-		  id = 21615,
+		  ID = 21615,
 		  Obtain = {
 			NpcID = "15517",
 			NpcName = "Ouro",
@@ -4344,7 +4876,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21712,
+		  ID = 21712,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4358,7 +4890,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21694,
+		  ID = 21694,
 		  Obtain = {
 			NpcID = "15544",
 			NpcName = "Vem",
@@ -4372,7 +4904,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21583,
+		  ID = 21583,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -4386,7 +4918,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21663,
+		  ID = 21663,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -4399,8 +4931,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21604,
+		  ID = 21604,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -4414,7 +4974,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21619,
+		  ID = 21619,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -4428,7 +4988,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21582,
+		  ID = 21582,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -4442,7 +5002,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 19385,
+		  ID = 19385,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -4455,8 +5015,8 @@ BiSData = {
 			Zone = "Blackwing Lair"
 		  }
 		},
-		Boots = {
-		  id = 16919,
+		Feet = {
+		  ID = 16919,
 		  Obtain = {
 			NpcID = "12017",
 			NpcName = "Broodlord Lashlayer",
@@ -4470,7 +5030,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 19382,
+		  ID = 19382,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -4484,7 +5044,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21620,
+		  ID = 21620,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -4498,7 +5058,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19395,
+		  ID = 19395,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -4512,7 +5072,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 20636,
+		  ID = 20636,
 		  Obtain = {
 			NpcID = "14887",
 			NpcName = "Ysondre",
@@ -4526,7 +5086,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21839,
+		  ID = 21839,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -4540,7 +5100,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 19366,
+		  ID = 19366,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4554,7 +5114,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 19367,
+		  ID = 19367,
 		  Obtain = {
 			NpcID = "11981",
 			NpcName = "Flamegor",
@@ -4570,7 +5130,7 @@ BiSData = {
 	  },
 	  ["Holy-P6"] = {
 		Head = {
-		  id = 22514,
+		  ID = 22514,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4584,7 +5144,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21712,
+		  ID = 21712,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4598,7 +5158,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22515,
+		  ID = 22515,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4612,7 +5172,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22960,
+		  ID = 22960,
 		  Obtain = {
 			NpcID = "16028",
 			NpcName = "Patchwerk",
@@ -4626,7 +5186,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 22512,
+		  ID = 22512,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4639,8 +5199,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21604,
+		  ID = 21604,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -4654,7 +5242,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 22517,
+		  ID = 22517,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4668,7 +5256,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21582,
+		  ID = 21582,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -4682,7 +5270,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22513,
+		  ID = 22513,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4695,8 +5283,8 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
-		Boots = {
-		  id = 22516,
+		Feet = {
+		  ID = 22516,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4710,7 +5298,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23061,
+		  ID = 23061,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -4724,7 +5312,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 22939,
+		  ID = 22939,
 		  Obtain = {
 			NpcID = "15956",
 			NpcName = "Anub'Rekhan",
@@ -4738,7 +5326,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23027,
+		  ID = 23027,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4752,7 +5340,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 23047,
+		  ID = 23047,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -4766,7 +5354,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 23056,
+		  ID = 23056,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -4780,7 +5368,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23048,
+		  ID = 23048,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -4794,7 +5382,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23009,
+		  ID = 23009,
 		  Obtain = {
 			NpcID = "16061",
 			NpcName = "Instructor Razuvious",
@@ -4808,9 +5396,9 @@ BiSData = {
 		  }
 		}
 	  },
-	  ["Hybrid-P5"] = {
+	  ["HybrID-P5"] = {
 		Head = {
-		  id = 21348,
+		  ID = 21348,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4824,7 +5412,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 18814,
+		  ID = 18814,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -4838,7 +5426,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 19370,
+		  ID = 19370,
 		  Obtain = {
 			NpcID = "12435",
 			NpcName = "Razorgore the Untamed",
@@ -4852,7 +5440,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22731,
+		  ID = 22731,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -4866,7 +5454,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21351,
+		  ID = 21351,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4879,8 +5467,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21611,
+		  ID = 21611,
 		  Obtain = {
 			NpcID = "15517",
 			NpcName = "Ouro",
@@ -4894,7 +5510,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -4908,7 +5524,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 19400,
+		  ID = 19400,
 		  Obtain = {
 			NpcID = "11983",
 			NpcName = "Firemaw",
@@ -4922,7 +5538,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 19133,
+		  ID = 19133,
 		  Obtain = {
 			NpcID = "12397",
 			NpcName = "Lord Kazzak",
@@ -4935,8 +5551,8 @@ BiSData = {
 			Zone = "Blasted Lands"
 		  }
 		},
-		Boots = {
-		  id = 19131,
+		Feet = {
+		  ID = 19131,
 		  Obtain = {
 			NpcID = "6109",
 			NpcName = "Azuregos",
@@ -4950,7 +5566,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21709,
+		  ID = 21709,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4964,7 +5580,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21210,
+		  ID = 21210,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -4978,7 +5594,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -4992,7 +5608,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 18820,
+		  ID = 18820,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -5006,7 +5622,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 19360,
+		  ID = 19360,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -5020,7 +5636,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 19366,
+		  ID = 19366,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5034,7 +5650,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 13396,
+		  ID = 13396,
 		  Obtain = {
 			NpcID = "10393",
 			NpcName = "Skul",
@@ -5048,9 +5664,9 @@ BiSData = {
 		  }
 		}
 	  },
-	  ["Hybrid-P6"] = {
+	  ["HybrID-P6"] = {
 		Head = {
-		  id = 23035,
+		  ID = 23035,
 		  Obtain = {
 			NpcID = "15936",
 			NpcName = "Heigan the Unclean",
@@ -5064,7 +5680,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 18814,
+		  ID = 18814,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -5078,7 +5694,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22983,
+		  ID = 22983,
 		  Obtain = {
 			NpcID = "15932",
 			NpcName = "Gluth",
@@ -5092,7 +5708,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22731,
+		  ID = 22731,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -5106,7 +5722,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 23220,
+		  ID = 23220,
 		  Obtain = {
 			NpcID = "15952",
 			NpcName = "Maexxna",
@@ -5119,8 +5735,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21611,
+		  ID = 21611,
 		  Obtain = {
 			NpcID = "15517",
 			NpcName = "Ouro",
@@ -5134,7 +5778,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -5148,7 +5792,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 19400,
+		  ID = 19400,
 		  Obtain = {
 			NpcID = "11983",
 			NpcName = "Firemaw",
@@ -5162,7 +5806,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 19133,
+		  ID = 19133,
 		  Obtain = {
 			NpcID = "12397",
 			NpcName = "Lord Kazzak",
@@ -5175,8 +5819,8 @@ BiSData = {
 			Zone = "Blasted Lands"
 		  }
 		},
-		Boots = {
-		  id = 19131,
+		Feet = {
+		  ID = 19131,
 		  Obtain = {
 			NpcID = "6109",
 			NpcName = "Azuregos",
@@ -5190,7 +5834,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21709,
+		  ID = 21709,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5204,7 +5848,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21210,
+		  ID = 21210,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5218,7 +5862,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -5232,7 +5876,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 23046,
+		  ID = 23046,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -5246,7 +5890,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 22988,
+		  ID = 22988,
 		  Obtain = {
 			NpcID = "15931",
 			NpcName = "Grobbulus",
@@ -5260,7 +5904,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23049,
+		  ID = 23049,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -5274,7 +5918,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 13396,
+		  ID = 13396,
 		  Obtain = {
 			NpcID = "10393",
 			NpcName = "Skul",
@@ -5292,7 +5936,7 @@ BiSData = {
 	Rogue = {
 	  ["Swords-P5"] = {
 		Head = {
-		  id = 21360,
+		  ID = 21360,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5306,7 +5950,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 19377,
+		  ID = 19377,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -5320,7 +5964,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21361,
+		  ID = 21361,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5334,7 +5978,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21701,
+		  ID = 21701,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -5348,7 +5992,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21364,
+		  ID = 21364,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5361,8 +6005,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21602,
+		  ID = 21602,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -5376,7 +6048,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21672,
+		  ID = 21672,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -5390,7 +6062,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21586,
+		  ID = 21586,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -5404,7 +6076,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21362,
+		  ID = 21362,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5417,8 +6089,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21359,
+		Feet = {
+		  ID = 21359,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5432,7 +6104,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -5446,7 +6118,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19384,
+		  ID = 19384,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5460,7 +6132,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23570,
+		  ID = 23570,
 		  Obtain = {
 			NpcID = "15517",
 			NpcName = "Ouro",
@@ -5474,7 +6146,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -5488,7 +6160,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21650,
+		  ID = 21650,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -5502,7 +6174,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 19351,
+		  ID = 19351,
 		  Obtain = {
 			NpcID = "12017",
 			NpcName = "Broodlord Lashlayer",
@@ -5516,7 +6188,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 17069,
+		  ID = 17069,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -5532,7 +6204,7 @@ BiSData = {
 	  },
 	  ["Swords-P6"] = {
 		Head = {
-		  id = 21360,
+		  ID = 21360,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5546,7 +6218,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 19377,
+		  ID = 19377,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -5560,7 +6232,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22479,
+		  ID = 22479,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5574,7 +6246,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23045,
+		  ID = 23045,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -5588,7 +6260,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 22476,
+		  ID = 22476,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5601,8 +6273,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 22483,
+		  ID = 22483,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5616,7 +6316,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 22481,
+		  ID = 22481,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5630,7 +6330,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22482,
+		  ID = 22482,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5644,7 +6344,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22477,
+		  ID = 22477,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5657,8 +6357,8 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
-		Boots = {
-		  id = 22480,
+		Feet = {
+		  ID = 22480,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5672,7 +6372,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23060,
+		  ID = 23060,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -5686,7 +6386,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 23038,
+		  ID = 23038,
 		  Obtain = {
 			NpcID = "16011",
 			NpcName = "Loatheb",
@@ -5700,7 +6400,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23041,
+		  ID = 23041,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -5714,7 +6414,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 22954,
+		  ID = 22954,
 		  Obtain = {
 			NpcID = "15952",
 			NpcName = "Maexxna",
@@ -5728,7 +6428,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 23054,
+		  ID = 23054,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -5742,7 +6442,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23577,
+		  ID = 23577,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5756,7 +6456,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22812,
+		  ID = 22812,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5772,7 +6472,7 @@ BiSData = {
 	  },
 	  ["Daggers-P5"] = {
 		Head = {
-		  id = 21360,
+		  ID = 21360,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5786,7 +6486,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 19377,
+		  ID = 19377,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -5800,7 +6500,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21361,
+		  ID = 21361,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5814,7 +6514,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21701,
+		  ID = 21701,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -5828,7 +6528,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21364,
+		  ID = 21364,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5841,8 +6541,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21602,
+		  ID = 21602,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -5856,7 +6584,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 18823,
+		  ID = 18823,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -5870,7 +6598,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21586,
+		  ID = 21586,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -5884,7 +6612,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21362,
+		  ID = 21362,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5897,8 +6625,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21359,
+		Feet = {
+		  ID = 21359,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5912,7 +6640,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -5926,7 +6654,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19384,
+		  ID = 19384,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5940,7 +6668,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23570,
+		  ID = 23570,
 		  Obtain = {
 			NpcID = "15517",
 			NpcName = "Ouro",
@@ -5954,7 +6682,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -5968,7 +6696,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21126,
+		  ID = 21126,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -5982,7 +6710,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21244,
+		  ID = 21244,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -5996,7 +6724,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 17069,
+		  ID = 17069,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -6012,7 +6740,7 @@ BiSData = {
 	  },
 	  ["Daggers-P6"] = {
 		Head = {
-		  id = 21360,
+		  ID = 21360,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6026,7 +6754,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 19377,
+		  ID = 19377,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -6040,7 +6768,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22479,
+		  ID = 22479,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6054,7 +6782,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23045,
+		  ID = 23045,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -6068,7 +6796,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 22476,
+		  ID = 22476,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6081,8 +6809,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 22483,
+		  ID = 22483,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6096,7 +6852,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 18823,
+		  ID = 18823,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -6110,7 +6866,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21586,
+		  ID = 21586,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -6124,7 +6880,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22477,
+		  ID = 22477,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6137,8 +6893,8 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
-		Boots = {
-		  id = 22480,
+		Feet = {
+		  ID = 22480,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6152,7 +6908,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23060,
+		  ID = 23060,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -6166,7 +6922,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 23038,
+		  ID = 23038,
 		  Obtain = {
 			NpcID = "16011",
 			NpcName = "Loatheb",
@@ -6180,7 +6936,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23041,
+		  ID = 23041,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -6194,7 +6950,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 22954,
+		  ID = 22954,
 		  Obtain = {
 			NpcID = "15952",
 			NpcName = "Maexxna",
@@ -6208,7 +6964,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 22802,
+		  ID = 22802,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -6222,7 +6978,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21126,
+		  ID = 21126,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -6236,7 +6992,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22812,
+		  ID = 22812,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6254,7 +7010,7 @@ BiSData = {
 	Shaman = {
 	  ["Elemental-P5"] = {
 		Head = {
-		  id = 19375,
+		  ID = 19375,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -6268,7 +7024,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21608,
+		  ID = 21608,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -6282,7 +7038,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21376,
+		  ID = 21376,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6296,7 +7052,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22731,
+		  ID = 22731,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -6310,7 +7066,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21671,
+		  ID = 21671,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -6323,8 +7079,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21464,
+		  ID = 21464,
 		  Obtain = {
 			NpcID = "15339",
 			NpcName = "Ossirian the Unscarred",
@@ -6338,7 +7122,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -6352,7 +7136,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22730,
+		  ID = 22730,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -6366,7 +7150,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21375,
+		  ID = 21375,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6379,8 +7163,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21373,
+		Feet = {
+		  ID = 21373,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6394,7 +7178,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21707,
+		  ID = 21707,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -6408,7 +7192,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21709,
+		  ID = 21709,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6422,7 +7206,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -6436,7 +7220,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19344,
+		  ID = 19344,
 		  Obtain = {
 			NpcID = "11983",
 			NpcName = "Firemaw",
@@ -6450,7 +7234,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 19360,
+		  ID = 19360,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -6464,7 +7248,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21597,
+		  ID = 21597,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -6478,7 +7262,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23199,
+		  ID = 23199,
 		  Obtain = {
 			NpcID = "15817",
 			NpcName = "Qiraji Brigadier General Pax-lish",
@@ -6494,7 +7278,7 @@ BiSData = {
 	  },
 	  ["Elemental-P6"] = {
 		Head = {
-		  id = 19375,
+		  ID = 19375,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -6508,10 +7292,10 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 22943,
+		  ID = 22943,
 		  Obtain = {
 			NpcID = "15953",
-			NpcName = "Grand Widow Faerlina",
+			NpcName = "Grand WIDow Faerlina",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -6522,7 +7306,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21376,
+		  ID = 21376,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6536,7 +7320,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23050,
+		  ID = 23050,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -6550,7 +7334,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21671,
+		  ID = 21671,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -6563,8 +7347,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21464,
+		  ID = 21464,
 		  Obtain = {
 			NpcID = "15339",
 			NpcName = "Ossirian the Unscarred",
@@ -6578,7 +7390,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -6592,7 +7404,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22730,
+		  ID = 22730,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -6606,7 +7418,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21375,
+		  ID = 21375,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6619,8 +7431,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21373,
+		Feet = {
+		  ID = 21373,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6634,7 +7446,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21707,
+		  ID = 21707,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -6648,7 +7460,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21709,
+		  ID = 21709,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6662,7 +7474,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -6676,7 +7488,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 23046,
+		  ID = 23046,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -6690,7 +7502,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 22988,
+		  ID = 22988,
 		  Obtain = {
 			NpcID = "15931",
 			NpcName = "Grobbulus",
@@ -6704,7 +7516,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23049,
+		  ID = 23049,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -6718,7 +7530,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 23199,
+		  ID = 23199,
 		  Obtain = {
 			NpcID = "15817",
 			NpcName = "Qiraji Brigadier General Pax-lish",
@@ -6734,7 +7546,7 @@ BiSData = {
 	  },
 	  ["Enhancement-P5"] = {
 		Head = {
-		  id = 18817,
+		  ID = 18817,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -6748,7 +7560,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 18404,
+		  ID = 18404,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6762,7 +7574,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21684,
+		  ID = 21684,
 		  Obtain = {
 			NpcID = "15543",
 			NpcName = "Princess Yauj",
@@ -6776,7 +7588,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21701,
+		  ID = 21701,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -6790,7 +7602,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21374,
+		  ID = 21374,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6803,8 +7615,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21602,
+		  ID = 21602,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -6818,10 +7658,10 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21624,
+		  ID = 21624,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -6832,7 +7672,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21586,
+		  ID = 21586,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -6846,7 +7686,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21651,
+		  ID = 21651,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -6859,8 +7699,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21705,
+		Feet = {
+		  ID = 21705,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -6874,7 +7714,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -6888,7 +7728,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 18821,
+		  ID = 18821,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -6902,7 +7742,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 22321,
+		  ID = 22321,
 		  Obtain = {
 			NpcID = "9568",
 			NpcName = "Overlord Wyrmthalak",
@@ -6916,7 +7756,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19289,
+		  ID = 19289,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -6930,7 +7770,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 19363,
+		  ID = 19363,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -6944,7 +7784,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 17106,
+		  ID = 17106,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -6958,7 +7798,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22395,
+		  ID = 22395,
 		  Obtain = {
 			NpcID = "9938",
 			NpcName = "Magmus",
@@ -6974,7 +7814,7 @@ BiSData = {
 	  },
 	  ["Enhancement-P6"] = {
 		Head = {
-		  id = 18817,
+		  ID = 18817,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -6988,7 +7828,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 18404,
+		  ID = 18404,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7002,7 +7842,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21684,
+		  ID = 21684,
 		  Obtain = {
 			NpcID = "15543",
 			NpcName = "Princess Yauj",
@@ -7016,7 +7856,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23045,
+		  ID = 23045,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -7030,7 +7870,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21374,
+		  ID = 21374,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7043,8 +7883,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21602,
+		  ID = 21602,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -7058,10 +7926,10 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21624,
+		  ID = 21624,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -7072,7 +7940,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21586,
+		  ID = 21586,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -7086,7 +7954,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21651,
+		  ID = 21651,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -7099,8 +7967,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21705,
+		Feet = {
+		  ID = 21705,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -7114,7 +7982,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -7128,7 +7996,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 23038,
+		  ID = 23038,
 		  Obtain = {
 			NpcID = "16011",
 			NpcName = "Loatheb",
@@ -7142,7 +8010,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 22321,
+		  ID = 22321,
 		  Obtain = {
 			NpcID = "9568",
 			NpcName = "Overlord Wyrmthalak",
@@ -7156,7 +8024,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19289,
+		  ID = 19289,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7170,7 +8038,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 19363,
+		  ID = 19363,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -7184,7 +8052,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 17106,
+		  ID = 17106,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -7198,7 +8066,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22395,
+		  ID = 22395,
 		  Obtain = {
 			NpcID = "9938",
 			NpcName = "Magmus",
@@ -7214,7 +8082,7 @@ BiSData = {
 	  },
 	  ["Restoration-P5"] = {
 		Head = {
-		  id = 21372,
+		  ID = 21372,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7228,7 +8096,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21712,
+		  ID = 21712,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7242,7 +8110,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21376,
+		  ID = 21376,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7256,7 +8124,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21583,
+		  ID = 21583,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -7270,7 +8138,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21374,
+		  ID = 21374,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7283,8 +8151,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 16943,
+		  ID = 16943,
 		  Obtain = {
 			NpcID = "12435",
 			NpcName = "Razorgore the Untamed",
@@ -7298,7 +8194,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 16948,
+		  ID = 16948,
 		  Obtain = {
 			NpcID = "11981",
 			NpcName = "Flamegor",
@@ -7312,7 +8208,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 19162,
+		  ID = 19162,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7326,7 +8222,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21375,
+		  ID = 21375,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7339,8 +8235,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 21373,
+		Feet = {
+		  ID = 21373,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7354,7 +8250,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21620,
+		  ID = 21620,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -7368,7 +8264,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19382,
+		  ID = 19382,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -7382,7 +8278,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 17064,
+		  ID = 17064,
 		  Obtain = {
 			NpcID = "10184",
 			NpcName = "Onyxia",
@@ -7396,7 +8292,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19395,
+		  ID = 19395,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -7410,7 +8306,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21839,
+		  ID = 21839,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -7424,7 +8320,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21666,
+		  ID = 21666,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -7438,7 +8334,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22396,
+		  ID = 22396,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -7454,7 +8350,7 @@ BiSData = {
 	  },
 	  ["Restoration-P6"] = {
 		Head = {
-		  id = 22466,
+		  ID = 22466,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7468,7 +8364,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21712,
+		  ID = 21712,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7482,7 +8378,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22467,
+		  ID = 22467,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7496,7 +8392,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21583,
+		  ID = 21583,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -7510,7 +8406,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 22464,
+		  ID = 22464,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7523,8 +8419,36 @@ BiSData = {
 			Zone = ""
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 22471,
+		  ID = 22471,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7538,7 +8462,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 22469,
+		  ID = 22469,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7552,7 +8476,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22470,
+		  ID = 22470,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7566,7 +8490,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22465,
+		  ID = 22465,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7579,8 +8503,8 @@ BiSData = {
 			Zone = ""
 		  }
 		},
-		Boots = {
-		  id = 22468,
+		Feet = {
+		  ID = 22468,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7594,7 +8518,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23065,
+		  ID = 23065,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -7608,7 +8532,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19382,
+		  ID = 19382,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -7622,7 +8546,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23047,
+		  ID = 23047,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -7636,7 +8560,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19395,
+		  ID = 19395,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -7650,7 +8574,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 23056,
+		  ID = 23056,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -7664,7 +8588,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 22819,
+		  ID = 22819,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -7678,7 +8602,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22396,
+		  ID = 22396,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -7696,7 +8620,7 @@ BiSData = {
 	Warlock = {
 	  ["All-P5"] = {
 		Head = {
-		  id = 21337,
+		  ID = 21337,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7710,7 +8634,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21608,
+		  ID = 21608,
 		  Obtain = {
 			NpcID = "15275",
 			NpcName = "Emperor Vek'nilash",
@@ -7724,7 +8648,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21335,
+		  ID = 21335,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7738,7 +8662,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 22731,
+		  ID = 22731,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -7752,7 +8676,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 19682,
+		  ID = 19682,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7765,8 +8689,36 @@ BiSData = {
 			Zone = ""
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21186,
+		  ID = 21186,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7780,7 +8732,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -7794,7 +8746,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22730,
+		  ID = 22730,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -7808,7 +8760,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 19683,
+		  ID = 19683,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7821,8 +8773,8 @@ BiSData = {
 			Zone = ""
 		  }
 		},
-		Boots = {
-		  id = 19684,
+		Feet = {
+		  ID = 19684,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7836,7 +8788,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21709,
+		  ID = 21709,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7850,7 +8802,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21417,
+		  ID = 21417,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7864,7 +8816,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -7878,7 +8830,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 18820,
+		  ID = 18820,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -7892,10 +8844,10 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21622,
+		  ID = 21622,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -7906,7 +8858,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21597,
+		  ID = 21597,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -7920,7 +8872,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 21603,
+		  ID = 21603,
 		  Obtain = {
 			NpcID = "15511",
 			NpcName = "Lord Kri",
@@ -7936,7 +8888,7 @@ BiSData = {
 	  },
 	  ["All-P6"] = {
 		Head = {
-		  id = 22506,
+		  ID = 22506,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7950,7 +8902,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 23057,
+		  ID = 23057,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -7964,7 +8916,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 22507,
+		  ID = 22507,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -7978,7 +8930,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23050,
+		  ID = 23050,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -7992,7 +8944,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 22504,
+		  ID = 22504,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8005,8 +8957,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21186,
+		  ID = 21186,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8020,7 +9000,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21585,
+		  ID = 21585,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -8034,7 +9014,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 22730,
+		  ID = 22730,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -8048,7 +9028,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 23070,
+		  ID = 23070,
 		  Obtain = {
 			NpcID = "15928",
 			NpcName = "Thaddius",
@@ -8061,8 +9041,8 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
-		Boots = {
-		  id = 22508,
+		Feet = {
+		  ID = 22508,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8076,7 +9056,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21709,
+		  ID = 21709,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8090,7 +9070,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 23025,
+		  ID = 23025,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8104,7 +9084,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 23046,
+		  ID = 23046,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -8118,7 +9098,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19379,
+		  ID = 19379,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -8132,7 +9112,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 22807,
+		  ID = 22807,
 		  Obtain = {
 			NpcID = "15952",
 			NpcName = "Maexxna",
@@ -8146,7 +9126,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23049,
+		  ID = 23049,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -8160,7 +9140,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22821,
+		  ID = 22821,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -8178,7 +9158,7 @@ BiSData = {
 	Warrior = {
 	  ["Fury-P5"] = {
 		Head = {
-		  id = 12640,
+		  ID = 12640,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8192,7 +9172,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 21664,
+		  ID = 21664,
 		  Obtain = {
 			NpcID = "15510",
 			NpcName = "Fankriss the Unyielding",
@@ -8206,7 +9186,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21330,
+		  ID = 21330,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8220,7 +9200,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21701,
+		  ID = 21701,
 		  Obtain = {
 			NpcID = "15263",
 			NpcName = "The Prophet Skeram",
@@ -8234,7 +9214,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21331,
+		  ID = 21331,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8247,8 +9227,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21618,
+		  ID = 21618,
 		  Obtain = {
 			NpcID = "15509",
 			NpcName = "Princess Huhuran",
@@ -8262,7 +9270,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21581,
+		  ID = 21581,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -8276,7 +9284,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 19137,
+		  ID = 19137,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -8290,7 +9298,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 22385,
+		  ID = 22385,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8303,8 +9311,8 @@ BiSData = {
 			Zone = ""
 		  }
 		},
-		Boots = {
-		  id = 19387,
+		Feet = {
+		  ID = 19387,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -8318,10 +9326,10 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21677,
+		  ID = 21677,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -8332,7 +9340,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19384,
+		  ID = 19384,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8346,7 +9354,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -8360,7 +9368,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 21670,
+		  ID = 21670,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -8374,7 +9382,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21242,
+		  ID = 21242,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8388,7 +9396,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 19363,
+		  ID = 19363,
 		  Obtain = {
 			NpcID = "11583",
 			NpcName = "Nefarian",
@@ -8402,7 +9410,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 17069,
+		  ID = 17069,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -8418,7 +9426,7 @@ BiSData = {
 	  },
 	  ["Fury-P6"] = {
 		Head = {
-		  id = 12640,
+		  ID = 12640,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8432,7 +9440,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 23053,
+		  ID = 23053,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -8446,7 +9454,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21330,
+		  ID = 21330,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8460,7 +9468,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 23045,
+		  ID = 23045,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -8474,7 +9482,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 23000,
+		  ID = 23000,
 		  Obtain = {
 			NpcID = "15928",
 			NpcName = "Thaddius",
@@ -8487,8 +9495,36 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 22936,
+		  ID = 22936,
 		  Obtain = {
 			NpcID = "15956",
 			NpcName = "Anub'Rekhan",
@@ -8502,7 +9538,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21581,
+		  ID = 21581,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -8516,7 +9552,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 23219,
+		  ID = 23219,
 		  Obtain = {
 			NpcID = "16061",
 			NpcName = "Instructor Razuvious",
@@ -8530,7 +9566,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 23068,
+		  ID = 23068,
 		  Obtain = {
 			NpcID = "15936",
 			NpcName = "Heigan the Unclean",
@@ -8543,8 +9579,8 @@ BiSData = {
 			Zone = "Naxxramas"
 		  }
 		},
-		Boots = {
-		  id = 19387,
+		Feet = {
+		  ID = 19387,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -8558,7 +9594,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 23038,
+		  ID = 23038,
 		  Obtain = {
 			NpcID = "16011",
 			NpcName = "Loatheb",
@@ -8572,10 +9608,10 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 21677,
+		  ID = 21677,
 		  Obtain = {
 			NpcID = "15299",
-			NpcName = "Viscidus",
+			NpcName = "ViscIDus",
 			Kill = true,
 			Quest = false,
 			QuestID = 0,
@@ -8586,7 +9622,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -8600,7 +9636,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 22954,
+		  ID = 22954,
 		  Obtain = {
 			NpcID = "15952",
 			NpcName = "Maexxna",
@@ -8614,7 +9650,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 23054,
+		  ID = 23054,
 		  Obtain = {
 			NpcID = "15990",
 			NpcName = "Kel'Thuzad",
@@ -8628,7 +9664,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23577,
+		  ID = 23577,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8642,7 +9678,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22811,
+		  ID = 22811,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8658,7 +9694,7 @@ BiSData = {
 	  },
 	  ["Protection-P5"] = {
 		Head = {
-		  id = 21329,
+		  ID = 21329,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8672,7 +9708,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 22732,
+		  ID = 22732,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -8686,7 +9722,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21330,
+		  ID = 21330,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8700,7 +9736,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21710,
+		  ID = 21710,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8714,7 +9750,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21331,
+		  ID = 21331,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8727,8 +9763,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21457,
+		  ID = 21457,
 		  Obtain = {
 			NpcID = "15339",
 			NpcName = "Ossirian the Unscarred",
@@ -8742,7 +9806,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21674,
+		  ID = 21674,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -8756,7 +9820,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21598,
+		  ID = 21598,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -8770,7 +9834,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21332,
+		  ID = 21332,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8783,8 +9847,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 19387,
+		Feet = {
+		  ID = 19387,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -8798,7 +9862,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21205,
+		  ID = 21205,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8812,7 +9876,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -8826,7 +9890,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19341,
+		  ID = 19341,
 		  Obtain = {
 			NpcID = "12017",
 			NpcName = "Broodlord Lashlayer",
@@ -8840,7 +9904,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 19431,
+		  ID = 19431,
 		  Obtain = {
 			NpcID = "11981",
 			NpcName = "Flamegor",
@@ -8854,7 +9918,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 21126,
+		  ID = 21126,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -8868,7 +9932,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 21269,
+		  ID = 21269,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8882,7 +9946,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 21459,
+		  ID = 21459,
 		  Obtain = {
 			NpcID = "15339",
 			NpcName = "Ossirian the Unscarred",
@@ -8898,7 +9962,7 @@ BiSData = {
 	  },
 	  ["Protection-P6"] = {
 		Head = {
-		  id = 22418,
+		  ID = 22418,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8912,7 +9976,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 22732,
+		  ID = 22732,
 		  Obtain = {
 			NpcID = "15727",
 			NpcName = "C'Thun",
@@ -8926,7 +9990,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 21330,
+		  ID = 21330,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8940,7 +10004,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 21710,
+		  ID = 21710,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8954,7 +10018,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 21331,
+		  ID = 21331,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -8967,8 +10031,36 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 21457,
+		  ID = 21457,
 		  Obtain = {
 			NpcID = "15339",
 			NpcName = "Ossirian the Unscarred",
@@ -8982,7 +10074,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 21674,
+		  ID = 21674,
 		  Obtain = {
 			NpcID = "15516",
 			NpcName = "Battleguard Sartura",
@@ -8996,7 +10088,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 21598,
+		  ID = 21598,
 		  Obtain = {
 			NpcID = "15276",
 			NpcName = "Emperor Vek'lor",
@@ -9010,7 +10102,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 21332,
+		  ID = 21332,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9023,8 +10115,8 @@ BiSData = {
 			Zone = "Ahn'Qiraj"
 		  }
 		},
-		Boots = {
-		  id = 19387,
+		Feet = {
+		  ID = 19387,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -9038,7 +10130,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 21205,
+		  ID = 21205,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9052,7 +10144,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -9066,7 +10158,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19341,
+		  ID = 19341,
 		  Obtain = {
 			NpcID = "12017",
 			NpcName = "Broodlord Lashlayer",
@@ -9080,7 +10172,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 22954,
+		  ID = 22954,
 		  Obtain = {
 			NpcID = "15952",
 			NpcName = "Maexxna",
@@ -9094,7 +10186,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 23577,
+		  ID = 23577,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9108,7 +10200,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 23043,
+		  ID = 23043,
 		  Obtain = {
 			NpcID = "15989",
 			NpcName = "Sapphiron",
@@ -9122,7 +10214,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 22811,
+		  ID = 22811,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9138,7 +10230,7 @@ BiSData = {
 	  },
 	  ["FuryProt-P5"] = {
 		Head = {
-		  id = 12640,
+		  ID = 12640,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9152,7 +10244,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 18404,
+		  ID = 18404,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9166,7 +10258,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 19394,
+		  ID = 19394,
 		  Obtain = {
 			NpcID = "11983",
 			NpcName = "Firemaw",
@@ -9180,7 +10272,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 17102,
+		  ID = 17102,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -9194,7 +10286,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 11726,
+		  ID = 11726,
 		  Obtain = {
 			NpcID = "9027",
 			NpcName = "Gorosh the Dervish",
@@ -9207,8 +10299,36 @@ BiSData = {
 			Zone = "Blackrock Depths"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 19578,
+		  ID = 19578,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9222,7 +10342,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 19143,
+		  ID = 19143,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -9236,7 +10356,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 19137,
+		  ID = 19137,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -9250,7 +10370,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 16962,
+		  ID = 16962,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -9263,8 +10383,8 @@ BiSData = {
 			Zone = "Molten Core"
 		  }
 		},
-		Boots = {
-		  id = 19387,
+		Feet = {
+		  ID = 19387,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -9278,7 +10398,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -9292,7 +10412,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19384,
+		  ID = 19384,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9306,7 +10426,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -9320,7 +10440,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 11815,
+		  ID = 11815,
 		  Obtain = {
 			NpcID = "9019",
 			NpcName = "Emperor Dagran Thaurissan",
@@ -9334,7 +10454,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 19352,
+		  ID = 19352,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -9348,7 +10468,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 19351,
+		  ID = 19351,
 		  Obtain = {
 			NpcID = "12017",
 			NpcName = "Broodlord Lashlayer",
@@ -9362,7 +10482,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 17072,
+		  ID = 17072,
 		  Obtain = {
 			NpcID = "11988",
 			NpcName = "Golemagg the Incinerator",
@@ -9378,7 +10498,7 @@ BiSData = {
 	  },
 	  ["FuryProt-P6"] = {
 		Head = {
-		  id = 12640,
+		  ID = 12640,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9392,7 +10512,7 @@ BiSData = {
 		  }
 		},
 		Neck = {
-		  id = 18404,
+		  ID = 18404,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9406,7 +10526,7 @@ BiSData = {
 		  }
 		},
 		Shoulder = {
-		  id = 19394,
+		  ID = 19394,
 		  Obtain = {
 			NpcID = "11983",
 			NpcName = "Firemaw",
@@ -9420,7 +10540,7 @@ BiSData = {
 		  }
 		},
 		Back = {
-		  id = 17102,
+		  ID = 17102,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -9434,7 +10554,7 @@ BiSData = {
 		  }
 		},
 		Chest = {
-		  id = 11726,
+		  ID = 11726,
 		  Obtain = {
 			NpcID = "9027",
 			NpcName = "Gorosh the Dervish",
@@ -9447,8 +10567,36 @@ BiSData = {
 			Zone = "Blackrock Depths"
 		  }
 		},
+		Tabard = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
+		Shirt = {
+			ID = 0,
+			Obtain = {
+			  NpcID = 0,
+			  NpcName = "",
+			  Kill = false,
+			  Quest = false,
+			  QuestID = 0,
+			  Recipe = false,
+			  RecipeID = 0,
+			  DropChance = "",
+			  Zone = ""
+			}
+		},
 		Wrists = {
-		  id = 19578,
+		  ID = 19578,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9462,7 +10610,7 @@ BiSData = {
 		  }
 		},
 		Hands = {
-		  id = 19143,
+		  ID = 19143,
 		  Obtain = {
 			NpcID = "11982",
 			NpcName = "Magmadar",
@@ -9476,7 +10624,7 @@ BiSData = {
 		  }
 		},
 		Waist = {
-		  id = 19137,
+		  ID = 19137,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -9490,7 +10638,7 @@ BiSData = {
 		  }
 		},
 		Legs = {
-		  id = 16962,
+		  ID = 16962,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -9503,8 +10651,8 @@ BiSData = {
 			Zone = "Molten Core"
 		  }
 		},
-		Boots = {
-		  id = 19387,
+		Feet = {
+		  ID = 19387,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -9518,7 +10666,7 @@ BiSData = {
 		  }
 		},
 		Finger = {
-		  id = 17063,
+		  ID = 17063,
 		  Obtain = {
 			NpcID = "11502",
 			NpcName = "Ragnaros",
@@ -9532,7 +10680,7 @@ BiSData = {
 		  }
 		},
 		RFinger = {
-		  id = 19384,
+		  ID = 19384,
 		  Obtain = {
 			NpcID = 0,
 			NpcName = "",
@@ -9546,7 +10694,7 @@ BiSData = {
 		  }
 		},
 		Trinket = {
-		  id = 19406,
+		  ID = 19406,
 		  Obtain = {
 			NpcID = "14601",
 			NpcName = "Ebonroc",
@@ -9560,7 +10708,7 @@ BiSData = {
 		  }
 		},
 		RTrinket = {
-		  id = 11815,
+		  ID = 11815,
 		  Obtain = {
 			NpcID = "9019",
 			NpcName = "Emperor Dagran Thaurissan",
@@ -9574,7 +10722,7 @@ BiSData = {
 		  }
 		},
 		MainHand = {
-		  id = 19352,
+		  ID = 19352,
 		  Obtain = {
 			NpcID = "14020",
 			NpcName = "Chromaggus",
@@ -9588,7 +10736,7 @@ BiSData = {
 		  }
 		},
 		SecondaryHand = {
-		  id = 19351,
+		  ID = 19351,
 		  Obtain = {
 			NpcID = "12017",
 			NpcName = "Broodlord Lashlayer",
@@ -9602,7 +10750,7 @@ BiSData = {
 		  }
 		},
 		Relic = {
-		  id = 17072,
+		  ID = 17072,
 		  Obtain = {
 			NpcID = "11988",
 			NpcName = "Golemagg the Incinerator",
