@@ -24,7 +24,7 @@ BiSTracker.AceGUI:RegisterLayout("BiSTrackerSheet",
             elseif i == 4 then
                 frame:SetPoint("TOPLEFT", content, 0, -30)
             elseif i == 5 then
-                frame:SetPoint("BOTTOM", content, 0, 45)
+                frame:SetPoint("BOTTOM", content, 0, 40)
             elseif i == 6 then
                 frame:SetPoint("TOPRIGHT", content, 0, -30)
             elseif i == 7 then
@@ -114,8 +114,6 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                 local _,itemLink,_,_,_,_,_,_,_,itemTexture,_,_,_,_,_,_,_ = GetItemInfo(value.ID)
                 if (itemLink == nil) then
                     errorOccured = true
-                    print(key)
-                    print(inventorySlotName[key])
                     BiSTracker.MainFrame.Model:UndressSlot(GetInventorySlotInfo(inventorySlotName[key]))
                     BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
                     BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
@@ -123,7 +121,7 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                         GameTooltip:SetText("|cffff0000An error occured while loading this item.\nPlease try reloading the set.")
                     end)
                 else
-                    if (key ~= "Relic") then
+                    if (key ~= "Relic" or BiSTracker.SelectedClass == "Hunter") then
                         BiSTracker.MainFrame.Model:TryOn(itemLink)
                     end
                     BiSTracker.MainFrame.Slots[key]:SetImage(itemTexture)
@@ -216,6 +214,20 @@ local function CreateSlotIcon(image, imagex, imagey, width, height)
     return o
 end
 
+local function ToggleIcon(icon)
+    if (icon.Height == nil) then
+        icon.height = icon:GetHeight()
+        icon.width = icon:GetWidth()
+    end
+    if (icon:GetHeight() == 0) then
+        icon:SetHeight(icon.height)
+        icon:SetWidth(icon.width)
+    else
+        icon:SetHeight(0)
+        icon:SetWidth(0)
+    end
+end
+
 function BiSTracker:InitUI()
     BiSTracker.MainFrame:EnableResize(false)
     BiSTracker.MainFrame:SetTitle("BiS Tracker")
@@ -241,7 +253,7 @@ function BiSTracker:InitUI()
 
 
     BiSTracker.MainFrame.TopLeftButtonGroup = CreateSimpleGroup("flow", 20, 20)
-    BiSTracker.MainFrame.TopRightButtonGroup = CreateSimpleGroup("flow", 45, 45)
+    BiSTracker.MainFrame.TopRightButtonGroup = CreateSimpleGroup("flow", 50, 20)
     
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload = BiSTracker.AceGUI:Create("Icon")
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetImageSize(20, 20)
@@ -261,9 +273,49 @@ function BiSTracker:InitUI()
     end)
 
 
-    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet = BiSTracker.AceGUI:Create("Icon")
 
-    BiSTracker.MainFrame.SetName = CreateEditBox("Set Name", nil, true, true, 15, 100)
+
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet = BiSTracker.AceGUI:Create("Icon")
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetImageSize(20, 20)
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetHeight(25)
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetWidth(25)
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetImage("Interface\\AddOns\\BiSTracker\\assets\\pen50")
+
+    BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet = BiSTracker.AceGUI:Create("Icon")
+    BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetImageSize(20, 20)
+    BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetHeight(25)
+    BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetWidth(25)
+    BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetImage("Interface\\AddOns\\BiSTracker\\assets\\delete")
+    
+
+    BiSTracker.MainFrame.TopRightButtonGroup:AddChild(BiSTracker.MainFrame.TopRightButtonGroup.CreateSet)
+    BiSTracker.MainFrame.TopRightButtonGroup:AddChild(BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet)
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetCallback("OnClick", function()
+        print("Clicked Create Set")
+    end)
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetCallback("OnEnter", function()
+        GameTooltip:SetOwner(BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet.frame, "ANCHOR_RIGHT")
+        GameTooltip:SetText("Create Custom Set")
+    end)
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetCallback("OnLeave", function()
+        GameTooltip:SetText("")
+    end)
+
+    BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetCallback("OnClick", function()
+        print("Clicked Remove Set")
+    end)
+    BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetCallback("OnEnter", function()
+        GameTooltip:SetOwner(BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet.frame, "ANCHOR_RIGHT")
+        GameTooltip:SetText("Delete Custom Set")
+    end)
+    BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetCallback("OnLeave", function()
+        GameTooltip:SetText("")
+    end)
+
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetDisabled(true)
+    BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetDisabled(true)
+
+    BiSTracker.MainFrame.SetName = CreateEditBox("Set Name", nil, true, false, 15, 100)
     BiSTracker.MainFrame.LeftSlots = CreateSimpleGroup("list", 45, 0)
     BiSTracker.MainFrame.BottomSlots = CreateSimpleGroup("flow", 136, 45)
     BiSTracker.MainFrame.BottomSlots:SetAutoAdjustHeight(false)
@@ -277,6 +329,17 @@ function BiSTracker:InitUI()
         BiSTracker.SelectedClass = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDropdown()
         BiSTracker.MainFrame:UpdateSetDisplay()
+        if (BiSTracker.SelectedClass == "Custom") then
+            BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetDisabled(false)
+            BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetDisabled(false)
+            if (BiSTracker.SelectedSetName ~= nil) then
+                BiSTracker.MainFrame.SetName:SetDisabled(false)
+            end
+        else
+            BiSTracker.MainFrame.SetName:SetDisabled(true)
+            BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetDisabled(true)
+            BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetDisabled(true)
+        end
     end)
     
     local firstSetInClass, _ = next(BiSTracker.ClassSetList[BiSTracker.CurrentClass])
@@ -285,6 +348,11 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedSetName = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDisplay()
+        if (BiSTracker.SelectedSetName ~= nil and BiSTracker.SelectedClass == "Custom") then
+            BiSTracker.MainFrame.SetName:SetDisabled(false)
+        else
+            BiSTracker.MainFrame.SetName:SetDisabled(true)
+        end
     end)
     
     BiSTracker.MainFrame.ActionsGroup:AddChild(BiSTracker.MainFrame.ActionsGroup.ClassDropdown)
@@ -376,14 +444,14 @@ function BiSTracker:InitUI()
             elseif (key <= 16) then
                 BiSTracker.MainFrame.RightSlots:AddChild(BiSTracker.MainFrame.Slots[value])
             else
+                BiSTracker.MainFrame.Slots[value].image:SetPoint("TOP", 0, 0)
                 BiSTracker.MainFrame.BottomSlots:AddChild(BiSTracker.MainFrame.Slots[value])
             end
         end
     end
 
 
-    BiSTracker.MainFrame.Model = CreateFrame("DressUpModel",nil,BiSTracker.MainFrame.frame)
-    
+    BiSTracker.MainFrame.Model = CreateFrame("DressUpModel",nil,BiSTracker.MainFrame.frame)    
     BiSTracker.MainFrame.Model:SetScript("OnMousewheel", function(self, offset)
         if ((self:GetCameraDistance() - offset/10) > 0.35 and (self:GetCameraDistance() - offset/10) < 4) then
             self:SetCameraDistance(self:GetCameraDistance()-offset/10)
@@ -391,7 +459,6 @@ function BiSTracker:InitUI()
     end)
     BiSTracker.MainFrame.Model:SetScript("OnMouseDown", function(self, button)
         self.DragButton = button
-        print(button)
         self.IsDragging = true
         self.LastMousePosX, self.LastMousePosY = GetCursorPosition()
     end)
