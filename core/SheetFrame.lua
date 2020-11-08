@@ -123,11 +123,34 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                         GameTooltip:SetText("|cffff0000An error occured while loading this item.\nPlease try reloading the set.")
                     end)
                 else
-                    BiSTracker.MainFrame.Model:TryOn(itemLink)
+                    if (key ~= "Relic") then
+                        BiSTracker.MainFrame.Model:TryOn(itemLink)
+                    end
                     BiSTracker.MainFrame.Slots[key]:SetImage(itemTexture)
                     BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
                         GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
                         GameTooltip:SetHyperlink(itemLink)
+                        GameTooltip:AddDoubleLine("---------::","::---------")
+                        if (value.Obtain.Kill) then
+                            GameTooltip:AddDoubleLine("Kill npc:", value.Obtain.NpcName .. " |cffffffff(ID: " .. value.Obtain.NpcID ..")")
+                            GameTooltip:AddDoubleLine("Acquired in: ", value.Obtain.Zone)
+                            GameTooltip:AddDoubleLine("Drop chance: ", value.Obtain.DropChance .. "%")
+                        elseif(value.Obtain.Quest) then
+                            local questTitle = C_QuestLog.GetQuestInfo(value.Obtain.QuestID)
+                            if (questTitle == nil) then
+                                questTitle = "QuestName Not Found"
+                            end
+                            GameTooltip:AddDoubleLine("Quest:", questTitle .. " |cffffffff(ID: " .. value.Obtain.QuestID .. ")")
+                            GameTooltip:AddDoubleLine("Quest Location: ", value.Obtain.Zone)
+                        elseif(value.Obtain.Recipe) then
+                            GameTooltip:SetHyperlink("Spell: |Hspell:" .. value.Obtain.RecipeID .."|h|r|cff71d5ff[" .. GetSpellLink(value.Obtain.RecipeID) .. "]|r|h")
+                        else
+                            GameTooltip:AddDoubleLine("Acquired in:", "PVP")
+                        end
+                        if (value.Obtain.Recipe ~= true) then
+                            GameTooltip:AddDoubleLine("---------::","::---------")
+                        end
+                        GameTooltip:Show()
                     end)
 
                 end
@@ -236,6 +259,9 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnClick", function()
         BiSTracker.MainFrame:UpdateSetDisplay()
     end)
+
+
+    BiSTracker.MainFrame.TopRightButtonGroup.CreateSet = BiSTracker.AceGUI:Create("Icon")
 
     BiSTracker.MainFrame.SetName = CreateEditBox("Set Name", nil, true, true, 15, 100)
     BiSTracker.MainFrame.LeftSlots = CreateSimpleGroup("list", 45, 0)

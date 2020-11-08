@@ -189,10 +189,10 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25931",
+			Quest = true,
+			QuestID = 8752,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
 			Zone = ""
 		  }
@@ -711,10 +711,10 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25931",
+			Quest = true,
+			QuestID = 8752,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
 			Zone = ""
 		  }
@@ -3975,12 +3975,12 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25929",
+			Quest = true,
+			QuestID = 8754,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
-			Zone = ""
+			Zone = "Tanaris"
 		  }
 		},
 		Trinket = {
@@ -4243,12 +4243,12 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25929",
+			Quest = true,
+			QuestID = 8754,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
-			Zone = ""
+			Zone = "Tanaris"
 		  }
 		},
 		Trinket = {
@@ -4497,12 +4497,12 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25936",
+			Quest = true,
+			QuestID = 8751,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
-			Zone = ""
+			Zone = "Tanaris"
 		  }
 		},
 		RFinger = {
@@ -4765,12 +4765,12 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25936",
+			Quest = true,
+			QuestID = 8751,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
-			Zone = ""
+			Zone = "Tanaris"
 		  }
 		},
 		RFinger = {
@@ -5585,12 +5585,12 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25925",
+			Quest = true,
+			QuestID = 8761,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
-			Zone = ""
+			Zone = "Tanaris"
 		  }
 		},
 		Trinket = {
@@ -5853,12 +5853,12 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25925",
+			Quest = true,
+			QuestID = 8761,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
-			Zone = ""
+			Zone = "Tanaris"
 		  }
 		},
 		Trinket = {
@@ -9867,10 +9867,10 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25931",
+			Quest = true,
+			QuestID = 8752,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
 			Zone = ""
 		  }
@@ -10135,10 +10135,10 @@ BiSData = {
 			NpcID = 0,
 			NpcName = "",
 			Kill = false,
-			Quest = false,
-			QuestID = 0,
-			Recipe = true,
-			RecipeID = "25931",
+			Quest = true,
+			QuestID = 8752,
+			Recipe = false,
+			RecipeID = 0,
 			DropChance = 0,
 			Zone = ""
 		  }
