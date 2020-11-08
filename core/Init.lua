@@ -5,6 +5,7 @@ BiSTracker.Version = 2.0
 
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
+BiSTracker.CurrentClass = ""
 
 BiSTracker.Item = {
     ID = 0,
@@ -146,6 +147,11 @@ function BiSTracker:Init()
         end
         BiS_Settings.Version = BiSTracker.Version
     end
+
+    local _,englishClass,_ = UnitClass("player")
+
+    BiSTracker.CurrentClass = englishClass:lower():gsub("^%l", string.upper)
+
     BiSTracker:InitUI()
 end
 

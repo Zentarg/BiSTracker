@@ -2,7 +2,7 @@ BiSTracker.MainFrame = BiSTracker.AceGUI:Create("Window")
 BiSTracker.MainFrame:Hide()
 
 local ClassList = {}
-local ClassSetList = {}
+BiSTracker.ClassSetList = {}
 
 BiSTracker.AceGUI:RegisterLayout("BiSTrackerSheet",
 	function(content, children)
@@ -81,44 +81,57 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
     UpdateModelFrame()
     BiSTracker.MainFrame.SetName:SetText(BiSTracker.SelectedSetName)
 
-    local SelectedSetSlots = None
 
-    if (BiSTracker.SelectedClass ~= "Custom") then
-        SelectedSetSlots = BiSData[BiSTracker.SelectedClass][BiSTracker.SelectedSetName]
-    else
-        SelectedSetSlots = BiSTracker.Settings.CustomSpecs[BiSTracker.SelectedSetName].Slots
-    end
-    local errorOccured = false
-    for key, value in pairs(SelectedSetSlots) do
-        if (value.ID == 0) then
-            BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
-            BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
-            end)
-        else
-            local _,itemLink,_,_,_,_,_,_,_,itemTexture,_,_,_,_,_,_,_ = GetItemInfo(value.ID)
-            if (itemLink == nil) then
-                errorOccured = true
-                print(key)
-                print(inventorySlotName[key])
-                BiSTracker.MainFrame.Model:UndressSlot(GetInventorySlotInfo(inventorySlotName[key]))
-                BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
-                BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
-                    GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
-                    GameTooltip:SetText("|cffff0000An error occured while loading this item.\nPlease try reloading the set.")
+    if (BiSTracker.SelectedSetName == nil) then
+        for k, v in pairs(BiSTracker.MainFrame.Slots) do
+            if (type(k) == "number") then
+                BiSTracker.MainFrame.Slots[v]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[v])
+                BiSTracker.MainFrame.Model:UndressSlot(GetInventorySlotInfo(inventorySlotName[v]))
+                BiSTracker.MainFrame.Slots[v]:SetCallback("OnEnter", function()
+                    GameTooltip:SetText("")
                 end)
-            else
-                BiSTracker.MainFrame.Model:TryOn(itemLink)
-                BiSTracker.MainFrame.Slots[key]:SetImage(itemTexture)
-                BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
-                    GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
-                    GameTooltip:SetHyperlink(itemLink)
-                end)
-
             end
         end
-    end
-    if (errorOccured == true) then
-        BiSTracker:Print("|cffff0000An error occured while loading an item in the |cffffff00" .. BiSTracker.SelectedClass .. "|cffff0000 set |cffffff00" .. BiSTracker.SelectedSetName .. "|cffff0000. Please try reloading the set.")
+    else
+        local SelectedSetSlots = None
+
+        if (BiSTracker.SelectedClass ~= "Custom") then
+            SelectedSetSlots = BiSData[BiSTracker.SelectedClass][BiSTracker.SelectedSetName]
+        else
+            SelectedSetSlots = BiSTracker.Settings.CustomSpecs[BiSTracker.SelectedSetName].Slots
+        end
+        local errorOccured = false
+        for key, value in pairs(SelectedSetSlots) do
+            if (value.ID == 0) then
+                BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
+                BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
+                end)
+            else
+                local _,itemLink,_,_,_,_,_,_,_,itemTexture,_,_,_,_,_,_,_ = GetItemInfo(value.ID)
+                if (itemLink == nil) then
+                    errorOccured = true
+                    print(key)
+                    print(inventorySlotName[key])
+                    BiSTracker.MainFrame.Model:UndressSlot(GetInventorySlotInfo(inventorySlotName[key]))
+                    BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
+                    BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
+                        GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
+                        GameTooltip:SetText("|cffff0000An error occured while loading this item.\nPlease try reloading the set.")
+                    end)
+                else
+                    BiSTracker.MainFrame.Model:TryOn(itemLink)
+                    BiSTracker.MainFrame.Slots[key]:SetImage(itemTexture)
+                    BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
+                        GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
+                        GameTooltip:SetHyperlink(itemLink)
+                    end)
+
+                end
+            end
+        end
+        if (errorOccured == true) then
+            BiSTracker:Print("|cffff0000An error occured while loading an item in the |cffffff00" .. BiSTracker.SelectedClass .. "|cffff0000 set |cffffff00" .. BiSTracker.SelectedSetName .. "|cffff0000. Please try reloading the set.")
+        end
     end
 end
 
@@ -151,9 +164,10 @@ local function CreateDropdownMenu(label, defaultValue, children, width)
 end
 
 function BiSTracker.MainFrame:UpdateSetDropdown()
-    BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetList(ClassSetList[BiSTracker.SelectedClass])
-    BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetValue(1)
-    BiSTracker.SelectedSetName = BiSTracker.MainFrame.ActionsGroup.SetDropdown.list[1]
+    BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetList(BiSTracker.ClassSetList[BiSTracker.SelectedClass])
+    local firstSetInClass, _ = next(BiSTracker.ClassSetList[BiSTracker.SelectedClass])
+    BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetValue(firstSetInClass)
+    BiSTracker.SelectedSetName = firstSetInClass
 end
 
 local function CreateSlotIcon(image, imagex, imagey, width, height)
@@ -184,17 +198,17 @@ function BiSTracker:InitUI()
     
     
     for key, value in pairs(BiSData) do
-        table.insert(ClassList, key)
-        ClassSetList[key] = {}
+        ClassList[key] = key
+        BiSTracker.ClassSetList[key] = {}
         for k, v in pairs(value) do
-            ClassSetList[key][k] = k
+            BiSTracker.ClassSetList[key][k] = k
         end
     end
     
-    table.insert(ClassList, "Custom")
-    ClassSetList["Custom"] = {}
+    ClassList["Custom"] = "Custom"
+    BiSTracker.ClassSetList["Custom"] = {}
     for key, value in pairs(BiSTracker.Settings.CustomSpecs) do
-        ClassSetList["Custom"][key] = key
+        BiSTracker.ClassSetList["Custom"][key] = key
     end
 
 
@@ -208,13 +222,17 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.ActionsGroup = CreateSimpleGroup("flow", 0, 46)
     BiSTracker.MainFrame.ActionsGroup:SetFullWidth(true)
 
-    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu("Class", 1, ClassList, 80)
+    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu("Class", ClassList[BiSTracker.CurrentClass], ClassList, 80)
+    BiSTracker.SelectedClass = BiSTracker.CurrentClass
     BiSTracker.MainFrame.ActionsGroup.ClassDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedClass = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDropdown()
         BiSTracker.MainFrame:UpdateSetDisplay()
     end)
-    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu("Set", 1, ClassSetList[0], 100)
+    
+    local firstSetInClass, _ = next(BiSTracker.ClassSetList[BiSTracker.CurrentClass])
+    BiSTracker.SelectedSetName = firstSetInClass
+    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu("Set", firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 100)
     BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedSetName = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDisplay()
