@@ -381,37 +381,67 @@ function BiSTracker:InitUI()
         end
     end
 
+
     BiSTracker.MainFrame.Model = CreateFrame("DressUpModel",nil,BiSTracker.MainFrame.frame)
     
     BiSTracker.MainFrame.Model:SetScript("OnMousewheel", function(self, offset)
-        self:SetCameraDistance(self:GetCameraDistance()-offset/10)
+        if ((self:GetCameraDistance() - offset/10) > 0.35 and (self:GetCameraDistance() - offset/10) < 4) then
+            self:SetCameraDistance(self:GetCameraDistance()-offset/10)
+        end
     end)
     BiSTracker.MainFrame.Model:SetScript("OnMouseDown", function(self, button)
-        BiSTracker.MainFrame.Model.IsDragging = true
-        BiSTracker.MainFrame.Model.LastMousePos = GetCursorPosition()
+        self.DragButton = button
+        print(button)
+        self.IsDragging = true
+        self.LastMousePosX, self.LastMousePosY = GetCursorPosition()
     end)
     BiSTracker.MainFrame.Model:SetScript("OnMouseUp", function(self, button)
-        BiSTracker.MainFrame.Model.IsDragging = false
+        self.IsDragging = false
     end)
     BiSTracker.MainFrame.Model:SetScript("OnUpdate", function(self, timeLapsed)
-        if (BiSTracker.MainFrame.Model.IsDragging and BiSTracker.MainFrame.Model.LastMousePos ~= nil) then
-            local currentCursor = GetCursorPosition()
-            local currentRotationInDegrees = (180/math.pi)*BiSTracker.MainFrame.Model:GetFacing()
-            local newRotationInDegrees = 0
+        if (BiSTracker.MainFrame.Model.IsDragging and BiSTracker.MainFrame.Model.LastMousePosX ~= nil) then
+            if (BiSTracker.MainFrame.Model.DragButton == "LeftButton") then
+                local currentCursor = GetCursorPosition()
+                local currentRotationInDegrees = (180/math.pi)*self:GetFacing()
+                local newRotationInDegrees = 0
+                newRotationInDegrees = currentRotationInDegrees + (currentCursor - self.LastMousePosX)
 
+                if (newRotationInDegrees > 360) then
+                    newRotationInDegrees = newRotationInDegrees - 360
+                elseif (newRotationInDegrees < 0) then
+                    newRotationInDegrees = 360 - newRotationInDegrees
+                end
+                local newRotationInRadiens = (math.pi/180)*newRotationInDegrees
 
+                self:SetFacing(newRotationInRadiens)
+                self.LastMousePosX, self.LastMousePosY = GetCursorPosition()
+            elseif (self.DragButton == "RightButton") then
+                local currentCursorX, currentCursorY = GetCursorPosition()
+                local currentZ, currentX, currentY = self:GetPosition()
+                local newX, newY = 0
+                newX = currentX + ((currentCursorX - self.LastMousePosX) / 150 * self:GetCameraDistance())
+                newY = currentY + ((currentCursorY - self.LastMousePosY) / 150 * self:GetCameraDistance())
+                local maxX = 0.4
+                local maxY = 0.6
+                if (newX < -maxX * self:GetCameraDistance() or newX > maxX * self:GetCameraDistance()) then
+                    if (newX > 0) then
+                        newX = maxX * self:GetCameraDistance()
+                    else
+                        newX = -maxX * self:GetCameraDistance()
+                    end
+                end
+                
+                if (newY < -maxY * self:GetCameraDistance() or newY > maxY * self:GetCameraDistance()) then
+                    if (newY > 0) then
+                        newY = maxY * self:GetCameraDistance()
+                    else
+                        newY = -maxY * self:GetCameraDistance()
+                    end
+                end
 
-            newRotationInDegrees = currentRotationInDegrees + (currentCursor - BiSTracker.MainFrame.Model.LastMousePos)
-
-            if (newRotationInDegrees > 360) then
-                newRotationInDegrees = newRotationInDegrees - 360
-            elseif (newRotationInDegrees < 0) then
-                newRotationInDegrees = 360 - newRotationInDegrees
+                self:SetPosition(0, newX, newY)
+                self.LastMousePosX, self.LastMousePosY = GetCursorPosition()
             end
-            local newRotationInRadiens = (math.pi/180)*newRotationInDegrees
-
-            BiSTracker.MainFrame.Model:SetFacing(newRotationInRadiens)
-            BiSTracker.MainFrame.Model.LastMousePos = GetCursorPosition()
         end
     end)
 
