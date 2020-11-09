@@ -142,7 +142,7 @@ end
 
 
 function BiSTracker:Init()
-    if type(BiS_Settings) ~= "table" then
+    if type(BiS_Settings) ~= "table" or BiS_Settings.CustomSpecsData == nil then
         BiS_Settings = {}
         BiS_Settings.CustomSets = {}
         BiS_Settings.Version = BiSTracker.Version

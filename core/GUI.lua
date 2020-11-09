@@ -50,7 +50,7 @@ end
 function BiSTracker.MainFrame:UpdateSetDisplay()
     UpdateModelFrame()
     BiSTracker.MainFrame.SetName:SetText(BiSTracker.SelectedSetName)
-
+    BiSTracker.MainFrame.Model:Undress()
     if (BiSTracker.SelectedSetName == nil) then
         for k, v in pairs(BiSTracker.MainFrame.Slots) do
             if (type(k) == "number") then
