@@ -1,5 +1,30 @@
 BiSTracker = LibStub("AceAddon-3.0"):NewAddon("BiSTracker", "AceConsole-3.0")
 BiSTracker.AceGUI = LibStub("AceGUI-3.0")
+local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
+    type = "data source",
+    text = "BiSTracker",
+    icon = "Interface\\Addons\\BiSTracker\\Assets\\icon",
+    OnClick = function()
+        BiSTracker:ToggleMainFrame()
+    end,
+    OnTooltipShow = function(Tip)
+        if not Tip or not Tip.AddLine then
+            return
+        end
+        Tip:AddLine("BiSTracker")
+        Tip:AddLine("Click to open BiSTrackers main window", 1, 1, 1)
+    end,
+})
+local icon = LibStub("LibDBIcon-1.0")
+
+function BiSTracker:ToggleMainFrame()
+    if (BiSTracker.MainFrame:IsVisible()) then
+        BiSTracker.MainFrame:Hide()
+    else
+        BiSTracker.MainFrame:Show()
+        BiSTracker.MainFrame:UpdateSetDisplay()
+    end
+end
 
 BiSTracker.Version = 2.0
 
@@ -11,16 +36,18 @@ BiSTracker.Item = {
     ID = 0,
     Obtain = {
         NpcID = 0,
-        NpcName = "", -- LEGACY
+        NpcName = "",
         Kill = false,
         Quest = false,
+        QuestID = 0,
         Recipe = false,
+        RecipeID = 0,
         DropChance = 0,
         Zone = ""
     }
 }
 BiSTracker.Item.__index = BiSTracker.Item
-function BiSTracker.Item:New(id, npcID, npcName, kill, quest, recipe, dropchance, zone)
+function BiSTracker.Item:New(id, npcID, npcName, kill, quest, questID, recipe, recipeID, dropchance, zone)
     local self = setmetatable({}, BiSTracker.Item)
     self.ID = id
     self.Obtain = {}
@@ -28,7 +55,9 @@ function BiSTracker.Item:New(id, npcID, npcName, kill, quest, recipe, dropchance
     self.Obtain.NpcName = npcName -- LEGACY
     self.Obtain.Kill = kill
     self.Obtain.Quest = quest
+    self.Obtain.QuestID = questID
     self.Obtain.Recipe = recipe
+    self.Obtain.RecipeID = recipeID
     self.Obtain.DropChance = dropchance
     self.Obtain.Zone = zone
     return self;
@@ -46,6 +75,10 @@ BiSTracker.Set = {
         Back = {
         },
         Chest = {
+        },
+        Shirt = {
+        },
+        Tabard = {
         },
         Wrists = {
         },
@@ -74,7 +107,7 @@ BiSTracker.Set = {
     }
 }
 BiSTracker.Set.__index = BiSTracker.Set
-function BiSTracker.Set:New (name, head, neck, shoulder, back, chest, wrists, hands, waist, legs, feet, finger, rfinger, trinket, rtrinket, mainhand, secondaryhand, relic)
+function BiSTracker.Set:New (name, head, neck, shoulder, back, chest, shirt, tabard, wrists, hands, waist, legs, feet, finger, rfinger, trinket, rtrinket, mainhand, secondaryhand, relic)
     local self = setmetatable({}, BiSTracker.Set)
     self.Name = name
     self.Slots = {}
@@ -83,6 +116,8 @@ function BiSTracker.Set:New (name, head, neck, shoulder, back, chest, wrists, ha
     self.Slots.Shoulder = shoulder
     self.Slots.Back = back
     self.Slots.Chest = chest
+    self.Slots.Shirt = shirt
+    self.Slots.Tabard = tabard
     self.Slots.Wrists = wrists
     self.Slots.Hands = hands
     self.Slots.Waist = waist
@@ -102,24 +137,24 @@ function ItemIsObtainType(val, type)
     return val.Obtain.Type and type or false
 end
 function GetItemFromOldDataSlot(slot)
-    return BiSTracker.Item:New(slot.itemID, 0, slot.Obtain.Method, ItemIsObtainType(slot, "By Killing"), ItemIsObtainType(slot, "By Quest"), ItemIsObtainType(slot, "By Profession"), slot.Obtain.Drop, slot.Obtain.Zone)
+    return BiSTracker.Item:New(slot.itemID, 0, slot.Obtain.Method, ItemIsObtainType(slot, "By Killing"), ItemIsObtainType(slot, "By Quest"), 0, ItemIsObtainType(slot, "By Profession"), 0, slot.Obtain.Drop, slot.Obtain.Zone)
 end
 
 
 function BiSTracker:Init()
     if type(BiS_Settings) ~= "table" then
         BiS_Settings = {}
-        BiS_Settings.CustomSpecs = {}
+        BiS_Settings.CustomSets = {}
         BiS_Settings.Version = BiSTracker.Version
         BiSTracker.Settings = BiS_Settings
     else
         BiSTracker.Settings = BiS_Settings
         if BiSTracker.Settings.Version == nil then --Migrate custom specs from 1.0 to 2.0
-            BiSTracker.Settings.CustomSpecs = {}
+            BiSTracker.Settings.CustomSets = {}
             for key, value in pairs(BiSTracker.Settings.CustomSpecsData) do
                 print(key)
                 for _, item in pairs(value) do
-                    BiSTracker.Settings.CustomSpecs[key] = BiSTracker.Set:New(
+                    BiSTracker.Settings.CustomSets[key] = BiSTracker.Set:New(
                     key, 
                     GetItemFromOldDataSlot(item.Head), 
                     GetItemFromOldDataSlot(item.Neck), 
@@ -140,7 +175,7 @@ function BiSTracker:Init()
                     GetItemFromOldDataSlot(item.Ranged))
                 end
             end
-            BiSTracker.Settings.CustomSpecsData = "Deprecated";
+            BiSTracker.Settings.CustomSpecsData = nil;
             BiS_Settings = BiSTracker.Settings
         end
         BiS_Settings.Version = BiSTracker.Version
@@ -155,4 +190,12 @@ end
 
 function BiSTracker:OnInitialize()
     BiSTracker:Init()
+    self.db = LibStub("AceDB-3.0"):New("BiSTrackerDB", {
+        profile = {
+            minimap = {
+                hide = false,
+            },
+        },
+    })
+    icon:Register("BiSTracker", ldb, self.db.profile.minimap)
 end

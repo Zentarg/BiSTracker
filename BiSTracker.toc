@@ -5,14 +5,15 @@
 ## Author: Zentarg
 ## Version: 3.0
 ## SavedVariablesPerCharacter: BiS_Settings
+## SavedVariables: BiSTrackerLDBIconDB
 
 embeds.xml
 
 data\BiSData.lua
+
 core\Init.lua
 core\ChatCommands.lua
-core\SheetFrame.lua
-
-Templates.xml
-#core.lua
-core\BiSTracker.lua
+core\AceGUILayouts.lua
+core\Error.lua
+core\Item.lua
+core\GUI.lua

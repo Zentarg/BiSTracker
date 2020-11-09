@@ -21,17 +21,11 @@ end
 
 function BiSTracker:ChatCommand(msg)
     if (msg == nil or msg == "") then
-        if (BiSTracker.MainFrame:IsVisible()) then
-            BiSTracker.MainFrame:Hide()
-        else
-            BiSTracker.MainFrame:Show()
-            BiSTracker.MainFrame:UpdateSetDisplay()
-        end
+        BiSTracker:ToggleMainFrame()
     end
     local args = {}
     for token in string.gmatch(msg, "[^%s]+") do
         table.insert(args, token)
-        print(token)
     end
     if (args[1] == "help") then
         BiSTracker.ChatCommands:Help()
