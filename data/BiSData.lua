@@ -5318,17 +5318,17 @@ BiSData = {
         }
       },
       MainHand = {
-        ID = 0,
+        ID = 18842,
         Obtain = {
-          NpcID = 0,
-          NpcName = "",
-          Kill = false,
+          NpcID = 11988,
+          NpcName = "Golemagg the Incinerator",
+          Kill = true,
           Quest = false,
           QuestID = 0,
           Recipe = false,
           RecipeID = 0,
-          DropChance = 0,
-          Zone = ""
+          DropChance = 36,
+          Zone = "Molten Core"
         }
       },
       SecondaryHand = {
