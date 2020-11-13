@@ -55,7 +55,6 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
         for k, v in pairs(BiSTracker.MainFrame.Slots) do
             if (type(k) == "number") then
                 BiSTracker.MainFrame.Slots[v]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[v])
-                BiSTracker.MainFrame.Model:UndressSlot(GetInventorySlotInfo(inventorySlotName[v]))
                 BiSTracker.MainFrame.Slots[v]:SetCallback("OnEnter", function()
                     GameTooltip:SetText("")
                 end)
@@ -63,7 +62,6 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
         end
     else
         local SelectedSetSlots = None
-
         if (BiSTracker.SelectedClass ~= "Custom") then
             SelectedSetSlots = BiSData[BiSTracker.SelectedClass][BiSTracker.SelectedSetName]
         else
@@ -71,6 +69,7 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
         end
         local errorOccured = false
         for key, value in pairs(SelectedSetSlots) do
+            print(key)
             if (value.ID == 0 or value.ID == nil) then
                 BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
                 BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
