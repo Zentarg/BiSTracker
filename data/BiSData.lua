@@ -31373,273 +31373,273 @@ BiSData = {
       }
     },
     ["FuryProt-P3"] = {
-      Head = {
-        ID = 12185,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "",
-          Kill = false,
-          Quest = true,
-          QuestID = 4621,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = "Stranglethorn Vale"
+        Head = {
+          ID = 12640,
+          Obtain = {
+            NpcID = 0,
+            NpcName = "",
+            Kill = false,
+            Quest = false,
+            QuestID = 0,
+            Recipe = true,
+            RecipeID = 16729,
+            DropChance = 0,
+            Zone = ""
+          }
+        },
+        Neck = {
+          ID = 18404,
+          Obtain = {
+            NpcID = 0,
+            NpcName = "",
+            Kill = false,
+            Quest = true,
+            QuestID = 7491,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = 0,
+            Zone = "Orgrimmar"
+          }
+        },
+        Shoulder = {
+          ID = 19394,
+          Obtain = {
+            NpcID = 11983,
+            NpcName = "Firemaw",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "13.5",
+            Zone = "Blackwing Lair"
+          }
+        },
+        Back = {
+          ID = 19436,
+          Obtain = {
+            NpcID = 12467,
+            NpcName = "Death Talon Captain",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "15.7",
+            Zone = "Blackwing Lair"
+          }
+        },
+        Chest = {
+          ID = 11726,
+          Obtain = {
+            NpcID = 9027,
+            NpcName = "Gorosh the Dervish",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "12.4",
+            Zone = "Blackrock Depths"
+          }
+        },
+        Shirt = {
+          ID = 0,
+          Obtain = {
+            NpcID = 0,
+            NpcName = "",
+            Kill = false,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = 0,
+            Zone = ""
+          }
+        },
+        Tabard = {
+          ID = 0,
+          Obtain = {
+            NpcID = 0,
+            NpcName = "",
+            Kill = false,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = 0,
+            Zone = ""
+          }
+        },
+        Wrists = {
+          ID = 16959,
+          Obtain = {
+            NpcID = 12435,
+            NpcName = "Razorgore the Untamed",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "23.9",
+            Zone = "Blackwing Lair"
+          }
+        },
+        Hands = {
+          ID = 19143,
+          Obtain = {
+            NpcID = 11982,
+            NpcName = "Magmadar",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "11.2",
+            Zone = "Molten Core"
+          }
+        },
+        Waist = {
+          ID = 19137,
+          Obtain = {
+            NpcID = 11502,
+            NpcName = "Ragnaros",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "23.9",
+            Zone = "Molten Core"
+          }
+        },
+        Legs = {
+          ID = 18380,
+          Obtain = {
+            NpcID = 11486,
+            NpcName = "Prince Tortheldrin",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "23.2",
+            Zone = "Dire Maul"
+          }
+        },
+        Feet = {
+          ID = 19387,
+          Obtain = {
+            NpcID = 14020,
+            NpcName = "Chromaggus",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "35.6",
+            Zone = "Blackwing Lair"
+          }
+        },
+        Finger = {
+          ID = 19432,
+          Obtain = {
+            NpcID = 11981,
+            NpcName = "Flamegor",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "38.2",
+            Zone = "Blackwing Lair"
+          }
+        },
+        RFinger = {
+          ID = 18821,
+          Obtain = {
+            NpcID = 11982,
+            NpcName = "Magmadar",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "12.1",
+            Zone = "Molten Core"
+          }
+        },
+        Trinket = {
+          ID = 13965,
+          Obtain = {
+            NpcID = 0,
+            NpcName = "",
+            Kill = false,
+            Quest = true,
+            QuestID = 4974,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = 0,
+            Zone = "Blackrock Spire"
+          }
+        },
+        RTrinket = {
+          ID = 11815,
+          Obtain = {
+            NpcID = 9019,
+            NpcName = "Emperor Dagran Thaurissan",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "16.4",
+            Zone = "Blackrock Depths"
+          }
+        },
+        MainHand = {
+          ID = 19352,
+          Obtain = {
+            NpcID = 14020,
+            NpcName = "Chromaggus",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "17.2",
+            Zone = "Blackwing Lair"
+          }
+        },
+        SecondaryHand = {
+          ID = 19351,
+          Obtain = {
+            NpcID = 12017,
+            NpcName = "Broodlord Lashlayer",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "15.5",
+            Zone = "Blackwing Lair"
+          }
+        },
+        Relic = {
+          ID = 17069,
+          Obtain = {
+            NpcID = 11982,
+            NpcName = "Magmadar",
+            Kill = true,
+            Quest = false,
+            QuestID = 0,
+            Recipe = false,
+            RecipeID = 0,
+            DropChance = "33.4",
+            Zone = "Molten Core"
+          }
         }
       },
-      Neck = {
-        ID = 9333,
-        Obtain = {
-          NpcID = 128403,
-          NpcName = "Shallow Grave (Container)",
-          Kill = true,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = "18.5",
-          Zone = "Alterac Valley"
-        }
-      },
-      Shoulder = {
-        ID = 21579,
-        Obtain = {
-          NpcID = 15727,
-          NpcName = "C'Thun",
-          Kill = true,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = "21.8",
-          Zone = "Ahn'Qiraj"
-        }
-      },
-      Back = {
-        ID = 13382,
-        Obtain = {
-          NpcID = 10997,
-          NpcName = "Cannon Master Willey",
-          Kill = true,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = "17.0",
-          Zone = "Stratholme"
-        }
-      },
-      Chest = {
-        ID = 18231,
-        Obtain = {
-          NpcID = 14948,
-          NpcName = "Vipore's Gryphon",
-          Kill = true,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = "0",
-          Zone = "Alterac Valley"
-        }
-      },
-      Shirt = {
-        ID = 0,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "",
-          Kill = false,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = ""
-        }
-      },
-      Tabard = {
-        ID = 0,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "",
-          Kill = false,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = ""
-        }
-      },
-      Wrists = {
-        ID = 1973,
-        Obtain = {
-          NpcID = 15741,
-          NpcName = "Colossus of Regal",
-          Kill = true,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = "25.0",
-          Zone = "Silithus"
-        }
-      },
-      Hands = {
-        ID = 17117,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "Unknown acquisition method",
-          Kill = false,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = ""
-        }
-      },
-      Waist = {
-        ID = 4941,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "",
-          Kill = false,
-          Quest = true,
-          QuestID = 818,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = "Durotar"
-        }
-      },
-      Legs = {
-        ID = 18233,
-        Obtain = {
-          NpcID = 11946,
-          NpcName = "Drek'Thar",
-          Kill = true,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = "0",
-          Zone = "Alterac Valley"
-        }
-      },
-      Feet = {
-        ID = 19141,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "",
-          Kill = false,
-          Quest = true,
-          QuestID = 7727,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = "Searing Gorge"
-        }
-      },
-      Finger = {
-        ID = 18230,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "Invalid Item",
-          Kill = false,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = ""
-        }
-      },
-      RFinger = {
-        ID = 1191,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "",
-          Kill = false,
-          Quest = true,
-          QuestID = 47,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = "Elwynn Forest"
-        }
-      },
-      Trinket = {
-        ID = 11122,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "",
-          Kill = false,
-          Quest = true,
-          QuestID = 2770,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = "Zul'Farrak"
-        }
-      },
-      RTrinket = {
-        ID = 18233,
-        Obtain = {
-          NpcID = 11946,
-          NpcName = "Drek'Thar",
-          Kill = true,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = "0",
-          Zone = "Alterac Valley"
-        }
-      },
-      MainHand = {
-        ID = 1195,
-        Obtain = {
-          NpcID = 475,
-          NpcName = "Kobold Tunneler",
-          Kill = true,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = "5.0",
-          Zone = "Elwynn Forest"
-        }
-      },
-      SecondaryHand = {
-        ID = 19808,
-        Obtain = {
-          NpcID = 0,
-          NpcName = "Unknown acquisition method",
-          Kill = false,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = 0,
-          Zone = ""
-        }
-      },
-      Relic = {
-        ID = 18640,
-        Obtain = {
-          NpcID = 11443,
-          NpcName = "Gordok Ogre-Mage",
-          Kill = true,
-          Quest = false,
-          QuestID = 0,
-          Recipe = false,
-          RecipeID = 0,
-          DropChance = "3.6",
-          Zone = "Feralas"
-        }
-      }
-    },
     ["FuryProt-P4"] = {
       Head = {
         ID = 12640,

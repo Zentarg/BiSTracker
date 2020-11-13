@@ -6260,55 +6260,55 @@
             },
             "P3": {
                 "Head": {
-                    "itemID": 12185
+                    "itemID": 12640
                 },
                 "Neck": {
-                    "itemID": 9333
+                    "itemID": 18404
                 },
                 "Shoulder": {
-                    "itemID": 21579
+                    "itemID": 19394
                 },
                 "Cloak": {
-                    "itemID": 13382
+                    "itemID": 19436
                 },
                 "Chest": {
-                    "itemID": 18231
+                    "itemID": 11726
                 },
                 "Wrist": {
-                    "itemID": 1973
+                    "itemID": 16959
                 },
                 "Gloves": {
-                    "itemID": 17117
+                    "itemID": 19143
                 },
                 "Waist": {
-                    "itemID": 4941
+                    "itemID": 19137
                 },
                 "Legs": {
-                    "itemID": 18233
+                    "itemID": 18380
                 },
                 "Boots": {
-                    "itemID": 19141
+                    "itemID": 19387
                 },
                 "Ring1": {
-                    "itemID": 18230
+                    "itemID": 19432
                 },
                 "Ring2": {
-                    "itemID": 1191
+                    "itemID": 18821
                 },
                 "Trinket1": {
-                    "itemID": 11122
+                    "itemID": 13965
                 },
                 "Trinket2": {
-                    "itemID": 18233
+                    "itemID": 11815
                 },
                 "MainHand": {
-                    "itemID": 1195
+                    "itemID": 19352
                 },
                 "OffHand": {
-                    "itemID": 19808
+                    "itemID": 19351
                 },
                 "Ranged": {
-                    "itemID": 18640
+                    "itemID": 17069
                 }
             },
             "P4": {

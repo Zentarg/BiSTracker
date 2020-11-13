@@ -92,8 +92,14 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                     end
                     BiSTracker.MainFrame.Slots[key]:SetImage(itemTexture)
                     BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
+                        if (IsControlKeyDown()) then
+                            ShowInspectCursor()
+                        end
+                        BiSTracker.IsHoveringItemSlot = true
+
                         GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
                         GameTooltip:SetHyperlink(itemLink)
+                        
                         GameTooltip:AddDoubleLine("---------::","::---------")
                         if (value.Obtain.Kill) then
                             GameTooltip:AddDoubleLine("Kill npc:", value.Obtain.NpcName .. " |cffffffff(ID: " .. value.Obtain.NpcID ..")")
@@ -248,12 +254,10 @@ local function CreateSlotIcon(slot, image, imagex, imagey, width, height)
             BiSTracker.MainFrame.EditSlot:Show()
         end
     end)
-    o:SetCallback("OnEnter", function()
-        GameTooltip:SetOwner(o.frame, "ANCHOR_RIGHT")
-        GameTooltip:SetHyperlink("|cffa335ee|Hitem:172187::::::::50:72:::::::|h[Devastation's Hour]|h|r")
-    end)
+
     o:SetCallback("OnLeave", function()
-        GameTooltip:Hide()
+        SetCursor(nil)
+        BiSTracker.IsHoveringItemSlot = false
         GameTooltip:SetText("")
     end)
 

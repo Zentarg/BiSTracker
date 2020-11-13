@@ -1,4 +1,4 @@
-BiSTracker = LibStub("AceAddon-3.0"):NewAddon("BiSTracker", "AceConsole-3.0")
+BiSTracker = LibStub("AceAddon-3.0"):NewAddon("BiSTracker", "AceConsole-3.0", "AceEvent-3.0")
 BiSTracker.AceGUI = LibStub("AceGUI-3.0")
 local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
     type = "data source",
@@ -31,6 +31,7 @@ BiSTracker.Version = 2.0
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
 BiSTracker.CurrentClass = ""
+BiSTracker.IsHoveringItemSlot = false
 
 BiSTracker.Item = {
     ID = 0,
@@ -189,6 +190,7 @@ function BiSTracker:Init()
 end
 
 function BiSTracker:OnInitialize()
+    BiSTracker:RegisterEvents()
     BiSTracker:Init()
     self.db = LibStub("AceDB-3.0"):New("BiSTrackerDB", {
         profile = {
