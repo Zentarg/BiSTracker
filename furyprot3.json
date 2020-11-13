@@ -1,0 +1,59 @@
+{
+    "Warrior": {
+        "FuryProt": {
+            "P3": {
+                "Head": {
+                    "itemID": 12640
+                },
+                "Neck": {
+                    "itemID": 18404
+                },
+                "Shoulder": {
+                    "itemID": 19394
+                },
+                "Cloak": {
+                    "itemID": 19436
+                },
+                "Chest": {
+                    "itemID": 11726
+                },
+                "Wrist": {
+                    "itemID": 16959
+                },
+                "Gloves": {
+                    "itemID": 19143
+                },
+                "Waist": {
+                    "itemID": 19137
+                },
+                "Legs": {
+                    "itemID": 18380
+                },
+                "Boots": {
+                    "itemID": 19387
+                },
+                "Ring1": {
+                    "itemID": 19432
+                },
+                "Ring2": {
+                    "itemID": 18821
+                },
+                "Trinket1": {
+                    "itemID": 13965
+                },
+                "Trinket2": {
+                    "itemID": 11815
+                },
+                "MainHand": {
+                    "itemID": 19352
+                },
+                "OffHand": {
+                    "itemID": 19351
+                },
+                "Ranged": {
+                    "itemID": 17069
+                }
+            }
+        }
+    }
+}

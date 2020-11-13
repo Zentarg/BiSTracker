@@ -55,7 +55,6 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
         for k, v in pairs(BiSTracker.MainFrame.Slots) do
             if (type(k) == "number") then
                 BiSTracker.MainFrame.Slots[v]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[v])
-                BiSTracker.MainFrame.Model:UndressSlot(GetInventorySlotInfo(inventorySlotName[v]))
                 BiSTracker.MainFrame.Slots[v]:SetCallback("OnEnter", function()
                     GameTooltip:SetText("")
                 end)
@@ -63,7 +62,6 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
         end
     else
         local SelectedSetSlots = None
-
         if (BiSTracker.SelectedClass ~= "Custom") then
             SelectedSetSlots = BiSData[BiSTracker.SelectedClass][BiSTracker.SelectedSetName]
         else
@@ -71,6 +69,7 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
         end
         local errorOccured = false
         for key, value in pairs(SelectedSetSlots) do
+            print(key)
             if (value.ID == 0 or value.ID == nil) then
                 BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
                 BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
@@ -93,8 +92,14 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                     end
                     BiSTracker.MainFrame.Slots[key]:SetImage(itemTexture)
                     BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
+                        if (IsControlKeyDown()) then
+                            ShowInspectCursor()
+                        end
+                        BiSTracker.IsHoveringItemSlot = true
+
                         GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
                         GameTooltip:SetHyperlink(itemLink)
+                        
                         GameTooltip:AddDoubleLine("---------::","::---------")
                         if (value.Obtain.Kill) then
                             GameTooltip:AddDoubleLine("Kill npc:", value.Obtain.NpcName .. " |cffffffff(ID: " .. value.Obtain.NpcID ..")")
@@ -207,6 +212,26 @@ local function CreateSlotIcon(slot, image, imagex, imagey, width, height)
     local o = CreateIcon(imagex, imagey, width, height, image)
 
     o:SetCallback("OnClick", function()
+        if (IsControlKeyDown()) then
+            local itemLink
+            if (BiSTracker.SelectedClass == "Custom") then
+                _, itemLink = GetItemInfo(BiSTracker.Settings.CustomSets[BiSTracker.SelectedSetName].Slots[slot].ID)
+            else
+                _, itemLink = GetItemInfo(BiSData[BiSTracker.SelectedClass][BiSTracker.SelectedSetName][slot].ID)
+            end
+            DressUpItemLink(itemLink)
+            return
+        end
+        if (IsShiftKeyDown()) then
+            local itemLink
+            if (BiSTracker.SelectedClass == "Custom") then
+                _, itemLink = GetItemInfo(BiSTracker.Settings.CustomSets[BiSTracker.SelectedSetName].Slots[slot].ID)
+            else
+                _, itemLink = GetItemInfo(BiSData[BiSTracker.SelectedClass][BiSTracker.SelectedSetName][slot].ID)
+            end
+            ChatEdit_InsertLink(itemLink)
+            return
+        end
         if (BiSTracker.SelectedClass == "Custom") then
             BiSTracker.MainFrame.EditSlot:ResetWindow()
             BiSTracker.MainFrame.EditSlot:SetTitle("Edit " .. slot)
@@ -229,12 +254,10 @@ local function CreateSlotIcon(slot, image, imagex, imagey, width, height)
             BiSTracker.MainFrame.EditSlot:Show()
         end
     end)
-    o:SetCallback("OnEnter", function()
-        GameTooltip:SetOwner(o.frame, "ANCHOR_RIGHT")
-        GameTooltip:SetHyperlink("|cffa335ee|Hitem:172187::::::::50:72:::::::|h[Devastation's Hour]|h|r")
-    end)
+
     o:SetCallback("OnLeave", function()
-        GameTooltip:Hide()
+        SetCursor(nil)
+        BiSTracker.IsHoveringItemSlot = false
         GameTooltip:SetText("")
     end)
 

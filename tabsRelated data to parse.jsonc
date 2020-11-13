@@ -1,0 +1,147 @@
+[
+    {
+        "classification": 1,
+        "id": 10504,
+        "location": [
+            2057
+        ],
+        "maxlevel": 60,
+        "minlevel": 60,
+        "name": "Lord Alexei Barov",
+        "react": [
+            -1,
+            -1
+        ],
+        "type": 6,
+        "count": 35,
+        "outof": 16080,
+        "personal_loot": 0,
+        "pctstack": "",
+        "popularity": 258
+    },
+    {
+        "boss": 1,
+        "classification": 3,
+        "id": 11988,
+        "location": [
+            2717
+        ],
+        "maxlevel": 9999,
+        "minlevel": 9999,
+        "name": "Golemagg the Incinerator",
+        "react": [
+            -1,
+            -1
+        ],
+        "type": 5,
+        "count": 2115,
+        "outof": 49076,
+        "personal_loot": 0,
+        "pctstack": "",
+        "popularity": 459
+    },
+    {
+        "classification": 1,
+        "id": 15126,
+        "location": [
+            45
+        ],
+        "maxlevel": 55,
+        "minlevel": 55,
+        "name": "Rutherford Twing",
+        "react": [
+            -1,
+            1
+        ],
+        "tag": "Defilers Supply Officer",
+        "type": 7,
+        "stock": -1,
+        "cost": [
+            128493
+        ],
+        "popularity": 155
+    },
+    {
+        "category": 1637,
+        "category2": 1,
+        "id": 7491,
+        "itemchoices": [
+            [
+                18406,
+                1
+            ],
+            [
+                18403,
+                1
+            ],
+            [
+                18404,
+                1
+            ]
+        ],
+        "level": 60,
+        "name": "For All To See",
+        "reprewards": [
+            [
+                76,
+                200
+            ]
+        ],
+        "reqlevel": 60,
+        "side": 2,
+        "xp": 9950,
+        "popularity": 465
+    },
+    {
+        "cat": 11,
+        "colors": [
+            225,
+            245,
+            255,
+            265
+        ],
+        "creates": [
+            8345,
+            1,
+            1
+        ],
+        "id": 10621,
+        "learnedat": 225,
+        "level": 0,
+        "name": "Wolfshead Helm",
+        "nskillup": 1,
+        "quality": 3,
+        "reagents": [
+            [
+                4304,
+                18
+            ],
+            [
+                8368,
+                2
+            ],
+            [
+                8146,
+                8
+            ],
+            [
+                8343,
+                4
+            ],
+            [
+                8172,
+                2
+            ]
+        ],
+        "schools": 1,
+        "skill": [
+            165
+        ],
+        "source": [
+            6
+        ],
+        "specialization": 10660,
+        "trainingcost": 9000,
+        "popularity": 159
+    }
+]
