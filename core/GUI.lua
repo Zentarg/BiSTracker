@@ -69,7 +69,6 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
         end
         local errorOccured = false
         for key, value in pairs(SelectedSetSlots) do
-            print(key)
             if (value.ID == 0 or value.ID == nil) then
                 BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
                 BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
