@@ -216,6 +216,16 @@ local function CreateSlotIcon(slot, image, imagex, imagey, width, height)
             DressUpItemLink(itemLink)
             return
         end
+        if (IsShiftKeyDown()) then
+            local itemLink
+            if (BiSTracker.SelectedClass == "Custom") then
+                _, itemLink = GetItemInfo(BiSTracker.Settings.CustomSets[BiSTracker.SelectedSetName].Slots[slot].ID)
+            else
+                _, itemLink = GetItemInfo(BiSData[BiSTracker.SelectedClass][BiSTracker.SelectedSetName][slot].ID)
+            end
+            ChatEdit_InsertLink(itemLink)
+            return
+        end
         if (BiSTracker.SelectedClass == "Custom") then
             BiSTracker.MainFrame.EditSlot:ResetWindow()
             BiSTracker.MainFrame.EditSlot:SetTitle("Edit " .. slot)
