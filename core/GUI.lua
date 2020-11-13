@@ -206,6 +206,16 @@ local function CreateSlotIcon(slot, image, imagex, imagey, width, height)
     local o = CreateIcon(imagex, imagey, width, height, image)
 
     o:SetCallback("OnClick", function()
+        if (IsControlKeyDown()) then
+            local itemLink
+            if (BiSTracker.SelectedClass == "Custom") then
+                _, itemLink = GetItemInfo(BiSTracker.Settings.CustomSets[BiSTracker.SelectedSetName].Slots[slot].ID)
+            else
+                _, itemLink = GetItemInfo(BiSData[BiSTracker.SelectedClass][BiSTracker.SelectedSetName][slot].ID)
+            end
+            DressUpItemLink(itemLink)
+            return
+        end
         if (BiSTracker.SelectedClass == "Custom") then
             BiSTracker.MainFrame.EditSlot:ResetWindow()
             BiSTracker.MainFrame.EditSlot:SetTitle("Edit " .. slot)
