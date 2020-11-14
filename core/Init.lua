@@ -1,4 +1,4 @@
-BiSTracker = LibStub("AceAddon-3.0"):NewAddon("BiSTracker", "AceConsole-3.0", "AceEvent-3.0")
+BiSTracker = LibStub("AceAddon-3.0"):NewAddon("BiSTracker", "AceConsole-3.0", "AceEvent-3.0", "AceSerializer-3.0")
 BiSTracker.AceGUI = LibStub("AceGUI-3.0")
 local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
     type = "data source",
@@ -153,7 +153,6 @@ function BiSTracker:Init()
         if BiSTracker.Settings.Version == nil then --Migrate custom specs from 1.0 to 2.0
             BiSTracker.Settings.CustomSets = {}
             for key, value in pairs(BiSTracker.Settings.CustomSpecsData) do
-                print(key)
                 for _, item in pairs(value) do
                     BiSTracker.Settings.CustomSets[key] = BiSTracker.Set:New(
                     key, 
@@ -192,6 +191,7 @@ end
 function BiSTracker:OnInitialize()
     BiSTracker:RegisterEvents()
     BiSTracker:Init()
+    BiSTracker:InitImportExport()
     self.db = LibStub("AceDB-3.0"):New("BiSTrackerDB", {
         profile = {
             minimap = {
