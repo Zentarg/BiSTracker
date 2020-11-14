@@ -19,3 +19,5 @@ core\Error.lua
 core\Item.lua
 core\Event.lua
 core\GUI.lua
+
+core\ImportExport.lua

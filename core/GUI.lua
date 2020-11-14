@@ -69,7 +69,6 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
         end
         local errorOccured = false
         for key, value in pairs(SelectedSetSlots) do
-            print(key)
             if (value.ID == 0 or value.ID == nil) then
                 BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
                 BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
@@ -99,7 +98,7 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
 
                         GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
                         GameTooltip:SetHyperlink(itemLink)
-                        
+
                         GameTooltip:AddDoubleLine("---------::","::---------")
                         if (value.Obtain.Kill) then
                             GameTooltip:AddDoubleLine("Kill npc:", value.Obtain.NpcName .. " |cffffffff(ID: " .. value.Obtain.NpcID ..")")
@@ -294,6 +293,7 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.frame:SetMinResize(250,520)
     BiSTracker.MainFrame:SetCallback("OnClose", function()
         BiSTracker.MainFrame.EditSlot:Hide()
+        BiSTracker.Serializer.GUI:Hide()
     end)
 
     InitFrame(BiSTracker.MainFrame.EditSlot, false, "Edit Slot", 335, 250, "BiSTrackerEditSlot")
@@ -373,7 +373,7 @@ function BiSTracker:InitUI()
         zone = values.Zone:GetText() or ""
         if (values.ObtainMethod:GetValue() == 1) then
             npcName = values.NpcName:GetText() or ""
-            dropChance = values.DropChance:GetText() or ""
+            dropChance = tonumber(values.DropChance:GetText()) or 0
             newItem = BiSTracker.Item:New(itemID, obtainID, npcName, true, false, 0, false, 0, dropChance, zone)
         elseif (values.ObtainMethod:GetValue() == 2) then
             newItem = BiSTracker.Item:New(itemID, 0, "", false, true, obtainID, false, 0, 0, zone)
@@ -432,11 +432,10 @@ function BiSTracker:InitUI()
         BiSTracker.ClassSetList["Custom"][key] = key
     end
 
-    BiSTracker.MainFrame.TopLeftButtonGroup = CreateSimpleGroup("flow", 20, 20)
+    BiSTracker.MainFrame.TopLeftButtonGroup = CreateSimpleGroup("flow", 50, 20)
     BiSTracker.MainFrame.TopRightButtonGroup = CreateSimpleGroup("flow", 50, 20)
     
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload = CreateIcon(20, 20, 25, 25, "Interface\\AddOns\\BiSTracker\\assets\\reload")
-    BiSTracker.MainFrame.TopLeftButtonGroup:AddChild(BiSTracker.MainFrame.TopLeftButtonGroup.Reload)
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnEnter", function()
         GameTooltip:SetOwner(BiSTracker.MainFrame.TopLeftButtonGroup.Reload.frame, "ANCHOR_RIGHT")
         GameTooltip:SetText("Reload")
@@ -447,6 +446,24 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnClick", function()
         BiSTracker.MainFrame:UpdateSetDisplay()
     end)
+    BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport = CreateIcon(20, 20, 25, 25, "Interface\\AddOns\\BiSTracker\\assets\\importexport")
+    BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport:SetCallback("OnClick", function()
+        if (BiSTracker.Serializer.GUI:IsVisible()) then
+            BiSTracker.Serializer.GUI:Hide()
+        else
+            BiSTracker.Serializer.GUI:Show()
+        end
+    end)
+    BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport:SetCallback("OnEnter", function()
+        GameTooltip:SetOwner(BiSTracker.MainFrame.TopLeftButtonGroup.Reload.frame, "ANCHOR_RIGHT")
+        GameTooltip:SetText("Open Import/Export window")
+    end)
+    BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport:SetCallback("OnLeave", function()
+        GameTooltip:SetText("")
+    end)
+
+    BiSTracker.MainFrame.TopLeftButtonGroup:AddChild(BiSTracker.MainFrame.TopLeftButtonGroup.Reload)
+    BiSTracker.MainFrame.TopLeftButtonGroup:AddChild(BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport)
 
 
     BiSTracker.MainFrame.TopRightButtonGroup.CreateSet = CreateIcon(20, 20, 25, 25, "Interface\\AddOns\\BiSTracker\\assets\\pen50")
@@ -470,7 +487,7 @@ function BiSTracker:InitUI()
         local tempItem = BiSTracker.Item:New(0, 0, "", false, false, 0, false, 0, 0, "")
         BiSTracker.ClassSetList["Custom"][newSetName] = newSetName
         BiSTracker.Settings.CustomSets[newSetName] = BiSTracker.Set:New(newSetName, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem, tempItem)
-        BiSTracker.MainFrame:UpdateSetDropdown()
+        BiSTracker.MainFrame:UpdateSetDropdown(newSetName)
         BiSTracker.MainFrame:UpdateSetDisplay()
         BiSTracker.MainFrame.SetName:SetDisabled(false)
     end)
@@ -525,8 +542,8 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.ActionsGroup = CreateSimpleGroup("flow", 0, 46)
     BiSTracker.MainFrame.ActionsGroup:SetFullWidth(true)
 
-    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu("Class", ClassList[BiSTracker.CurrentClass], ClassList, 95)
     BiSTracker.SelectedClass = BiSTracker.CurrentClass
+    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu("Class", ClassList[BiSTracker.SelectedClass], ClassList, 95)
     BiSTracker.MainFrame.ActionsGroup.ClassDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedClass = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDropdown()
