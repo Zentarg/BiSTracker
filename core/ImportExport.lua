@@ -29,7 +29,6 @@ end
 function BiSTracker.Serializer:DeserializeData(serializedString)
     serializedString = LibBase64.Decode(serializedString)
     local success, setData = BiSTracker:Deserialize(serializedString)
-    BiSTestset = setData
     if (success) then
         for key, value in pairs(BiSTracker.Set.Slots) do
             if (CheckIfSlotContainsData(setData.Slots[key]) == false) then
@@ -208,7 +207,11 @@ end
 function BiSTracker:InitImportExport()
     LibBase64 =  LibStub("LibBase64-1.0")
     BiSTracker.Serializer.GUI = BiSTracker.AceGUI:Create("Window")
-    BiSTracker.Serializer.GUI:SetPoint("TOPRIGHT", BiSTracker.MainFrame.frame, "TOPLEFT")
+    if (BiSTracker.db.profile.mainframe.connectedToCharacterFrame) then
+        BiSTracker.Serializer.GUI:SetPoint("TOPLEFT", BiSTracker.MainFrame.frame, "TOPRIGHT")
+    else
+        BiSTracker.Serializer.GUI:SetPoint("TOPRIGHT", BiSTracker.MainFrame.frame, "TOPLEFT")
+    end
     BiSTracker.Serializer.GUI.frame:SetParent(BiSTracker.MainFrame.frame)
     BiSTracker.Serializer.GUI:EnableResize(true)
     BiSTracker.Serializer.GUI:SetTitle("Import / Export")

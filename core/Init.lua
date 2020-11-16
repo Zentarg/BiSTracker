@@ -5,8 +5,10 @@ local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
     text = "BiSTracker",
     icon = "Interface\\Addons\\BiSTracker\\Assets\\icon",
     OnClick = function(Tip, button)
-        if button == "LeftButton" or button == "RightButton" then
+        if button == "LeftButton"  then
             BiSTracker:ToggleMainFrame()
+        elseif button == "RightButton" then
+            BiSTracker:ToggleOptions()
         end
     end,
     OnTooltipShow = function(Tip)
@@ -14,7 +16,8 @@ local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
             return
         end
         Tip:AddLine("BiSTracker")
-        Tip:AddLine("Left click to open BiSTrackers main window", 1, 1, 1)
+        Tip:AddLine("|cffffff00Left click:|r Toggle BiSTrackers main window", 1, 1, 1)
+        Tip:AddLine("|cffffff00Right click:|r Toggle BiSTrackers options window", 1, 1, 1)
     end,
 })
 local icon = LibStub("LibDBIcon-1.0")
@@ -199,6 +202,14 @@ function BiSTracker:OnInitialize()
     BiSTracker:InitImportExport()
     BiSTracker:InitOptions()
     icon:Register("BiSTracker", ldb, self.db.profile.minimap)
+end
+
+function BiSTracker:ToggleOptions()
+    if BiSTracker.Options.GUI:IsVisible() then
+        BiSTracker.Options.GUI:Hide()
+    else
+        BiSTracker.Options.GUI:Show()
+    end
 end
 
 function BiSTracker:ToggleMinimapButton()

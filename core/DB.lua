@@ -6,7 +6,9 @@ local defaults = {
             radius = 80
         },
         mainframe = {
-            connectedToCharacterFrame = false
+            connectedToCharacterFrame = false,
+            mainframeToggleButtonXPosition = -50,
+            mainframeToggleButtonYPosition = -42.5
         }
     }
 }

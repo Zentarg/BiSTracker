@@ -14,7 +14,11 @@ BiSTracker.ChatCommands.HelpList = {
     },
     TMB = {
         Command = "/BST TMB",
-        Description = "Toggles the minimap button"
+        Description = "Short for /BST ToggleMinimapButton"
+    },
+    Options = {
+        Command = "/BST Options",
+        Description = "Opens the BiSTracker Options window"
     }
 }
 
@@ -29,6 +33,10 @@ end
 
 function BiSTracker.ChatCommands:ToggleMinimapButton()
     BiSTracker:ToggleMinimapButton()
+end
+
+function BiSTracker.ChatCommands:ToggleOptions()
+    BiSTracker:ToggleOptions()
 end
 
 function BiSTracker:ChatCommand(msg)
@@ -48,4 +56,9 @@ function BiSTracker:ChatCommand(msg)
         BiSTracker.ChatCommands:ToggleMinimapButton()
         return
     end
+    if (string.lower(args[1]) == "options") then
+        BiSTracker.ChatCommands:ToggleOptions()
+        return
+    end
+    BiSTracker.ChatCommands:Help()
 end
