@@ -33,7 +33,7 @@ function BiSTracker:ToggleMainFrame()
     end
 end
 
-BiSTracker.Version = 3.2
+BiSTracker.Version = 3.3
 
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
