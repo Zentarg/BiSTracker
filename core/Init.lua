@@ -17,6 +17,9 @@ local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
 })
 local icon = LibStub("LibDBIcon-1.0")
 
+
+
+
 function BiSTracker:ToggleMainFrame()
     if (BiSTracker.MainFrame:IsVisible()) then
         BiSTracker.MainFrame:Hide()
@@ -189,15 +192,20 @@ function BiSTracker:Init()
 end
 
 function BiSTracker:OnInitialize()
-    BiSTracker:RegisterEvents()
-    BiSTracker:Init()
-    BiSTracker:InitImportExport()
-    self.db = LibStub("AceDB-3.0"):New("BiSTrackerDB", {
+    local defaults = {
         profile = {
             minimap = {
                 hide = false,
-            },
-        },
-    })
+                minimapPos = 220,
+                radius = 80
+            }
+        }
+    }
+
+
+    BiSTracker:RegisterEvents()
+    BiSTracker:Init()
+    BiSTracker:InitImportExport()
+    self.db = LibStub("AceDB-3.0"):New("BiSTrackerDB", defaults, true)
     icon:Register("BiSTracker", ldb, self.db.profile.minimap)
 end

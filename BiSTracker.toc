@@ -5,7 +5,7 @@
 ## Author: Zentarg
 ## Version: 3.0
 ## SavedVariablesPerCharacter: BiS_Settings
-## SavedVariables: BiSTrackerLDBIconDB
+## SavedVariables: BiSTrackerDB
 
 embeds.xml
 
