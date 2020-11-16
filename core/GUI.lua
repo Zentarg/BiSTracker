@@ -294,9 +294,15 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame:SetCallback("OnClose", function()
         BiSTracker.MainFrame.EditSlot:Hide()
         BiSTracker.Serializer.GUI:Hide()
+        if (BiSTracker.MainFrame.characterFrameToggle ~= nil) then
+            BiSTracker.MainFrame.characterFrameToggle:SetImage("Interface\\AddOns\\BiSTracker\\assets\\open")
+        end
     end)
     BiSTracker.MainFrame:SetCallback("OnShow", function()
         BiSTracker.MainFrame:UpdateSetDisplay()
+        if (BiSTracker.MainFrame.characterFrameToggle ~= nil) then
+            BiSTracker.MainFrame.characterFrameToggle:SetImage("Interface\\AddOns\\BiSTracker\\assets\\close")
+        end
     end)
 
     if (self.db.profile.mainframe.connectedToCharacterFrame) then
