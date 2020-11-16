@@ -294,7 +294,43 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame:SetCallback("OnClose", function()
         BiSTracker.MainFrame.EditSlot:Hide()
         BiSTracker.Serializer.GUI:Hide()
+        if (BiSTracker.MainFrame.characterFrameToggle ~= nil) then
+            BiSTracker.MainFrame.characterFrameToggle:SetImage("Interface\\AddOns\\BiSTracker\\assets\\open")
+        end
     end)
+    BiSTracker.MainFrame:SetCallback("OnShow", function()
+        BiSTracker.MainFrame:UpdateSetDisplay()
+        if (BiSTracker.MainFrame.characterFrameToggle ~= nil) then
+            BiSTracker.MainFrame.characterFrameToggle:SetImage("Interface\\AddOns\\BiSTracker\\assets\\close")
+        end
+    end)
+
+    if (self.db.profile.mainframe.connectedToCharacterFrame) then
+        BiSTracker.MainFrame.characterFrameToggle = CreateIcon(25, 25, 25, 25, "Interface\\AddOns\\BiSTracker\\assets\\open")
+        BiSTracker.MainFrame.characterFrameToggle:SetCallback("OnClick", function(self)
+            BiSTracker:ToggleMainFrame()
+            if (BiSTracker.MainFrame:IsVisible()) then
+                self:SetImage("Interface\\AddOns\\BiSTracker\\assets\\close")
+            else
+                self:SetImage("Interface\\AddOns\\BiSTracker\\assets\\open")
+            end
+        end)
+        BiSTracker.MainFrame.characterFrameToggle:SetCallback("OnEnter", function()
+            GameTooltip:SetOwner(BiSTracker.MainFrame.characterFrameToggle.frame, "ANCHOR_RIGHT")
+            GameTooltip:SetText("Toggle BiSTracker window")
+        end)
+        BiSTracker.MainFrame.characterFrameToggle:SetCallback("OnLeave", function()
+            GameTooltip:SetText("")
+        end)
+
+
+        BiSTracker.MainFrame.characterFrameToggle.frame:SetParent(CharacterFrame)
+        BiSTracker.MainFrame.characterFrameToggle:SetPoint("TOPRIGHT", CharacterFrame, "TOPRIGHT", BiSTracker.db.profile.mainframe.mainframeToggleButtonXPosition, BiSTracker.db.profile.mainframe.mainframeToggleButtonYPosition)
+        BiSTracker.MainFrame.characterFrameToggle.frame:Show()
+
+        BiSTracker.MainFrame.frame:SetParent(CharacterFrame)
+        BiSTracker.MainFrame:SetPoint("TOPLEFT", CharacterFrame, "TOPRIGHT", -35, -10)
+    end
 
     InitFrame(BiSTracker.MainFrame.EditSlot, false, "Edit Slot", 335, 250, "BiSTrackerEditSlot")
     BiSTracker.MainFrame.EditSlot:SetPoint("TOPLEFT", BiSTracker.MainFrame.frame, "TOPRIGHT")

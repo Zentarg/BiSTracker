@@ -4,29 +4,36 @@ local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
     type = "data source",
     text = "BiSTracker",
     icon = "Interface\\Addons\\BiSTracker\\Assets\\icon",
-    OnClick = function()
-        BiSTracker:ToggleMainFrame()
+    OnClick = function(Tip, button)
+        if button == "LeftButton"  then
+            BiSTracker:ToggleMainFrame()
+        elseif button == "RightButton" then
+            BiSTracker:ToggleOptions()
+        end
     end,
     OnTooltipShow = function(Tip)
         if not Tip or not Tip.AddLine then
             return
         end
         Tip:AddLine("BiSTracker")
-        Tip:AddLine("Click to open BiSTrackers main window", 1, 1, 1)
+        Tip:AddLine("|cffffff00Left click:|r Toggle BiSTrackers main window", 1, 1, 1)
+        Tip:AddLine("|cffffff00Right click:|r Toggle BiSTrackers options window", 1, 1, 1)
     end,
 })
 local icon = LibStub("LibDBIcon-1.0")
+
+
+
 
 function BiSTracker:ToggleMainFrame()
     if (BiSTracker.MainFrame:IsVisible()) then
         BiSTracker.MainFrame:Hide()
     else
         BiSTracker.MainFrame:Show()
-        BiSTracker.MainFrame:UpdateSetDisplay()
     end
 end
 
-BiSTracker.Version = 3.2
+BiSTracker.Version = 3.3
 
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
@@ -189,15 +196,27 @@ function BiSTracker:Init()
 end
 
 function BiSTracker:OnInitialize()
+    BiSTracker.InitDB()
     BiSTracker:RegisterEvents()
     BiSTracker:Init()
     BiSTracker:InitImportExport()
-    self.db = LibStub("AceDB-3.0"):New("BiSTrackerDB", {
-        profile = {
-            minimap = {
-                hide = false,
-            },
-        },
-    })
+    BiSTracker:InitOptions()
     icon:Register("BiSTracker", ldb, self.db.profile.minimap)
+end
+
+function BiSTracker:ToggleOptions()
+    if BiSTracker.Options.GUI:IsVisible() then
+        BiSTracker.Options.GUI:Hide()
+    else
+        BiSTracker.Options.GUI:Show()
+    end
+end
+
+function BiSTracker:ToggleMinimapButton()
+    self.db.profile.minimap.hide = not self.db.profile.minimap.hide
+    if self.db.profile.minimap.hide then
+        icon:Hide("BiSTracker")
+    else
+        icon:Show("BiSTracker")
+    end
 end

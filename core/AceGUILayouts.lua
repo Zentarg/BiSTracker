@@ -130,4 +130,4 @@ BiSTracker.AceGUI:RegisterLayout("BiSTrackerConfirmDelete",
 
 			height = height + (frame.height or frame:GetHeight() or 0)
 		end
-    end)
+	end)
