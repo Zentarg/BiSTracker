@@ -7,6 +7,14 @@ BiSTracker.ChatCommands.HelpList = {
     Help = {
         Command = "/BST Help",
         Description = "Shows this list"
+    },
+    ToggleMinimapButton = {
+        Command = "/BST ToggleMinimapButton",
+        Description = "Toggles the minimap button"
+    },
+    TMB = {
+        Command = "/BST TMB",
+        Description = "Toggles the minimap button"
     }
 }
 
@@ -19,15 +27,25 @@ function BiSTracker.ChatCommands:Help()
     end
 end
 
+function BiSTracker.ChatCommands:ToggleMinimapButton()
+    BiSTracker:ToggleMinimapButton()
+end
+
 function BiSTracker:ChatCommand(msg)
     if (msg == nil or msg == "") then
         BiSTracker:ToggleMainFrame()
+        return
     end
     local args = {}
     for token in string.gmatch(msg, "[^%s]+") do
         table.insert(args, token)
     end
-    if (args[1] == "help") then
+    if (string.lower(args[1]) == "help") then
         BiSTracker.ChatCommands:Help()
+        return
+    end
+    if (string.lower(args[1]) == "toggleminimapbutton" or string.lower(args[1]) == "tmb") then
+        BiSTracker.ChatCommands:ToggleMinimapButton()
+        return
     end
 end

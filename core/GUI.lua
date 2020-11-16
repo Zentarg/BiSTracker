@@ -295,6 +295,14 @@ function BiSTracker:InitUI()
         BiSTracker.MainFrame.EditSlot:Hide()
         BiSTracker.Serializer.GUI:Hide()
     end)
+    BiSTracker.MainFrame:SetCallback("OnShow", function()
+        BiSTracker.MainFrame:UpdateSetDisplay()
+    end)
+
+    if (self.db.profile.mainframe.connectedToCharacterFrame) then
+        BiSTracker.MainFrame.frame:SetParent(CharacterFrame)
+        BiSTracker.MainFrame:SetPoint("TOPLEFT", CharacterFrame, "TOPRIGHT", -35, -10)
+    end
 
     InitFrame(BiSTracker.MainFrame.EditSlot, false, "Edit Slot", 335, 250, "BiSTrackerEditSlot")
     BiSTracker.MainFrame.EditSlot:SetPoint("TOPLEFT", BiSTracker.MainFrame.frame, "TOPRIGHT")

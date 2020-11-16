@@ -229,8 +229,4 @@ function BiSTracker:InitImportExport()
 
 
     BiSTracker.Serializer.GUI:AddChild(BiSTracker.Serializer.GUI.Tabs)
-
-
-    bisTestVar = BiSTracker:Serialize(BiSTracker.Settings.CustomSets['New Set'])
-
 end

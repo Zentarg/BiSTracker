@@ -4,15 +4,17 @@ local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
     type = "data source",
     text = "BiSTracker",
     icon = "Interface\\Addons\\BiSTracker\\Assets\\icon",
-    OnClick = function()
-        BiSTracker:ToggleMainFrame()
+    OnClick = function(Tip, button)
+        if button == "LeftButton" or button == "RightButton" then
+            BiSTracker:ToggleMainFrame()
+        end
     end,
     OnTooltipShow = function(Tip)
         if not Tip or not Tip.AddLine then
             return
         end
         Tip:AddLine("BiSTracker")
-        Tip:AddLine("Click to open BiSTrackers main window", 1, 1, 1)
+        Tip:AddLine("Left click to open BiSTrackers main window", 1, 1, 1)
     end,
 })
 local icon = LibStub("LibDBIcon-1.0")
@@ -25,7 +27,6 @@ function BiSTracker:ToggleMainFrame()
         BiSTracker.MainFrame:Hide()
     else
         BiSTracker.MainFrame:Show()
-        BiSTracker.MainFrame:UpdateSetDisplay()
     end
 end
 
@@ -192,20 +193,19 @@ function BiSTracker:Init()
 end
 
 function BiSTracker:OnInitialize()
-    local defaults = {
-        profile = {
-            minimap = {
-                hide = false,
-                minimapPos = 220,
-                radius = 80
-            }
-        }
-    }
-
-
+    BiSTracker.InitDB()
     BiSTracker:RegisterEvents()
     BiSTracker:Init()
     BiSTracker:InitImportExport()
-    self.db = LibStub("AceDB-3.0"):New("BiSTrackerDB", defaults, true)
+    BiSTracker:InitOptions()
     icon:Register("BiSTracker", ldb, self.db.profile.minimap)
+end
+
+function BiSTracker:ToggleMinimapButton()
+    self.db.profile.minimap.hide = not self.db.profile.minimap.hide
+    if self.db.profile.minimap.hide then
+        icon:Hide("BiSTracker")
+    else
+        icon:Show("BiSTracker")
+    end
 end

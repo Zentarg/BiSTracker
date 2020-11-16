@@ -11,13 +11,14 @@ embeds.xml
 
 data\BiSData.lua
 
-
 core\Init.lua
+core\DB.lua
 core\ChatCommands.lua
 core\AceGUILayouts.lua
 core\Error.lua
 core\Item.lua
 core\Event.lua
 core\GUI.lua
+core\Options.lua
 
 core\ImportExport.lua
