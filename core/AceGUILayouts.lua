@@ -14,7 +14,7 @@ BiSTracker.AceGUI:RegisterLayout("BiSTrackerSheet",
             elseif i == 2 then
                 frame:SetPoint("TOPRIGHT", content, 0, 10)
             elseif i == 3 then
-                frame:SetPoint("TOP", content)
+                frame:SetPoint("TOP", content, 0, 5)
             elseif i == 4 then
                 frame:SetPoint("TOPLEFT", content, 0, -30)
             elseif i == 5 then

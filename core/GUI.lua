@@ -5,7 +5,7 @@ BiSTracker.MainFrame:Hide()
 BiSTracker.MainFrame.EditSlot:Hide()
 BiSTracker.MainFrame.ConfirmDelete:Hide()
 
-local ClassList = {}
+BiSTracker.ClassList = {}
 BiSTracker.ClassSetList = {}
 
 
@@ -289,8 +289,8 @@ local function InitFrame(frame, enableResize, title, height, width, layout)
 end
 
 function BiSTracker:InitUI()
-    InitFrame(BiSTracker.MainFrame, true, "BiS Tracker", 520, 250, "BiSTrackerSheet")
-    BiSTracker.MainFrame.frame:SetMinResize(250,520)
+    InitFrame(BiSTracker.MainFrame, true, "BiS Tracker", 520, 300, "BiSTrackerSheet")
+    BiSTracker.MainFrame.frame:SetMinResize(300,520)
     BiSTracker.MainFrame:SetCallback("OnClose", function()
         BiSTracker.MainFrame.EditSlot:Hide()
         BiSTracker.Serializer.GUI:Hide()
@@ -455,14 +455,14 @@ function BiSTracker:InitUI()
         BiSTracker.MainFrame.EditSlot:AddChild(BiSTracker.MainFrame.EditSlot.Values[value])
     end
     for key, value in pairs(BiSData) do
-        ClassList[key] = key
+        BiSTracker.ClassList[key] = key
         BiSTracker.ClassSetList[key] = {}
         for k, v in pairs(value) do
             BiSTracker.ClassSetList[key][k] = k
         end
     end
     
-    ClassList["Custom"] = "Custom"
+    BiSTracker.ClassList["Custom"] = "Custom"
     BiSTracker.ClassSetList["Custom"] = {}
     for key, value in pairs(BiSTracker.Settings.CustomSets) do
         BiSTracker.ClassSetList["Custom"][key] = key
@@ -549,7 +549,7 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetDisabled(true)
     BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetDisabled(true)
 
-    BiSTracker.MainFrame.SetName = CreateEditBox("Set Name", nil, true, false, 15, 100)
+    BiSTracker.MainFrame.SetName = CreateEditBox("Set Name", nil, true, false, 25, 160)
     BiSTracker.MainFrame.SetName:SetCallback("OnEnterPressed", function(self)
         local value = self:GetText()
         if (strlen(value) < 1) then
@@ -579,7 +579,7 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.ActionsGroup:SetFullWidth(true)
 
     BiSTracker.SelectedClass = BiSTracker.CurrentClass
-    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu("Class", ClassList[BiSTracker.SelectedClass], ClassList, 95)
+    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu("Class", BiSTracker.ClassList[BiSTracker.SelectedClass], BiSTracker.ClassList, 95)
     BiSTracker.MainFrame.ActionsGroup.ClassDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedClass = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDropdown()
@@ -599,7 +599,7 @@ function BiSTracker:InitUI()
     
     local firstSetInClass, _ = next(BiSTracker.ClassSetList[BiSTracker.CurrentClass])
     BiSTracker.SelectedSetName = firstSetInClass
-    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu("Set", firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 130)
+    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu("Set", firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 170)
     BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedSetName = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDisplay()

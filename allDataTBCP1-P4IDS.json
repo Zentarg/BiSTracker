@@ -1,0 +1,5627 @@
+{
+    "Druid": {
+        "Tank": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32478
+                },
+                "Neck": {
+                    "itemID": 28244
+                },
+                "Shoulder": {
+                    "itemID": 28129
+                },
+                "Cloak": {
+                    "itemID": 24253
+                },
+                "Chest": {
+                    "itemID": 28264
+                },
+                "Wrist": {
+                    "itemID": 28424
+                },
+                "Gloves": {
+                    "itemID": 27531
+                },
+                "Waist": {
+                    "itemID": 28423
+                },
+                "Legs": {
+                    "itemID": 25690
+                },
+                "Boots": {
+                    "itemID": 28422
+                },
+                "Ring1": {
+                    "itemID": 31319
+                },
+                "Ring2": {
+                    "itemID": 29384
+                },
+                "Trinket1": {
+                    "itemID": 31858
+                },
+                "Trinket2": {
+                    "itemID": 27770
+                },
+                "MainHand": {
+                    "itemID": 29171
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27744
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 28127
+                },
+                "Neck": {
+                    "itemID": 28244
+                },
+                "Shoulder": {
+                    "itemID": 28129
+                },
+                "Cloak": {
+                    "itemID": 28660
+                },
+                "Chest": {
+                    "itemID": 28130
+                },
+                "Wrist": {
+                    "itemID": 28424
+                },
+                "Gloves": {
+                    "itemID": 27531
+                },
+                "Waist": {
+                    "itemID": 28750
+                },
+                "Legs": {
+                    "itemID": 28741
+                },
+                "Boots": {
+                    "itemID": 28545
+                },
+                "Ring1": {
+                    "itemID": 28792
+                },
+                "Ring2": {
+                    "itemID": 29279
+                },
+                "Trinket1": {
+                    "itemID": 32658
+                },
+                "Trinket2": {
+                    "itemID": 28528
+                },
+                "MainHand": {
+                    "itemID": 29171
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27744
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30228
+                },
+                "Neck": {
+                    "itemID": 30007
+                },
+                "Shoulder": {
+                    "itemID": 30230
+                },
+                "Cloak": {
+                    "itemID": 28660
+                },
+                "Chest": {
+                    "itemID": 30222
+                },
+                "Wrist": {
+                    "itemID": 29966
+                },
+                "Gloves": {
+                    "itemID": 30223
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 30229
+                },
+                "Boots": {
+                    "itemID": 30060
+                },
+                "Ring1": {
+                    "itemID": 28792
+                },
+                "Ring2": {
+                    "itemID": 30083
+                },
+                "Trinket1": {
+                    "itemID": 32658
+                },
+                "Trinket2": {
+                    "itemID": 30629
+                },
+                "MainHand": {
+                    "itemID": 30021
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27744
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 31039
+                },
+                "Neck": {
+                    "itemID": 32362
+                },
+                "Shoulder": {
+                    "itemID": 31048
+                },
+                "Cloak": {
+                    "itemID": 28660
+                },
+                "Chest": {
+                    "itemID": 31042
+                },
+                "Wrist": {
+                    "itemID": 32324
+                },
+                "Gloves": {
+                    "itemID": 31034
+                },
+                "Waist": {
+                    "itemID": 30879
+                },
+                "Legs": {
+                    "itemID": 31044
+                },
+                "Boots": {
+                    "itemID": 32593
+                },
+                "Ring1": {
+                    "itemID": 28792
+                },
+                "Ring2": {
+                    "itemID": 30083
+                },
+                "Trinket1": {
+                    "itemID": 32658
+                },
+                "Trinket2": {
+                    "itemID": 30629
+                },
+                "MainHand": {
+                    "itemID": 30021
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27744
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34404
+                },
+                "Neck": {
+                    "itemID": 32362
+                },
+                "Shoulder": {
+                    "itemID": 34392
+                },
+                "Cloak": {
+                    "itemID": 33593
+                },
+                "Chest": {
+                    "itemID": 34211
+                },
+                "Wrist": {
+                    "itemID": 34444
+                },
+                "Gloves": {
+                    "itemID": 34408
+                },
+                "Waist": {
+                    "itemID": 34556
+                },
+                "Legs": {
+                    "itemID": 34385
+                },
+                "Boots": {
+                    "itemID": 34573
+                },
+                "Ring1": {
+                    "itemID": 34888
+                },
+                "Ring2": {
+                    "itemID": 34213
+                },
+                "Trinket1": {
+                    "itemID": 32658
+                },
+                "Trinket2": {
+                    "itemID": 34473
+                },
+                "MainHand": {
+                    "itemID": 30021
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27744
+                }
+            }
+        },
+        "Feral": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 8345
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 28129
+                },
+                "Cloak": {
+                    "itemID": 29382
+                },
+                "Chest": {
+                    "itemID": 29525
+                },
+                "Wrist": {
+                    "itemID": 29527
+                },
+                "Gloves": {
+                    "itemID": 28396
+                },
+                "Waist": {
+                    "itemID": 29247
+                },
+                "Legs": {
+                    "itemID": 20538
+                },
+                "Boots": {
+                    "itemID": 29248
+                },
+                "Ring1": {
+                    "itemID": 30860
+                },
+                "Ring2": {
+                    "itemID": 31077
+                },
+                "Trinket1": {
+                    "itemID": 29383
+                },
+                "Trinket2": {
+                    "itemID": 28034
+                },
+                "MainHand": {
+                    "itemID": 28476
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29390
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 8345
+                },
+                "Neck": {
+                    "itemID": 28745
+                },
+                "Shoulder": {
+                    "itemID": 29100
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 29096
+                },
+                "Wrist": {
+                    "itemID": 32647
+                },
+                "Gloves": {
+                    "itemID": 28506
+                },
+                "Waist": {
+                    "itemID": 29247
+                },
+                "Legs": {
+                    "itemID": 30538
+                },
+                "Boots": {
+                    "itemID": 30674
+                },
+                "Ring1": {
+                    "itemID": 28649
+                },
+                "Ring2": {
+                    "itemID": 28791
+                },
+                "Trinket1": {
+                    "itemID": 13503
+                },
+                "Trinket2": {
+                    "itemID": 28830
+                },
+                "MainHand": {
+                    "itemID": 28476
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29390
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 8345
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 30055
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 30222
+                },
+                "Wrist": {
+                    "itemID": 29966
+                },
+                "Gloves": {
+                    "itemID": 30223
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 29995
+                },
+                "Boots": {
+                    "itemID": 30041
+                },
+                "Ring1": {
+                    "itemID": 29997
+                },
+                "Ring2": {
+                    "itemID": 28791
+                },
+                "Trinket1": {
+                    "itemID": 13503
+                },
+                "Trinket2": {
+                    "itemID": 28830
+                },
+                "MainHand": {
+                    "itemID": 32014
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29390
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 8345
+                },
+                "Neck": {
+                    "itemID": 32260
+                },
+                "Shoulder": {
+                    "itemID": 30055
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 32252
+                },
+                "Wrist": {
+                    "itemID": 32324
+                },
+                "Gloves": {
+                    "itemID": 32347
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 31044
+                },
+                "Boots": {
+                    "itemID": 32366
+                },
+                "Ring1": {
+                    "itemID": 32497
+                },
+                "Ring2": {
+                    "itemID": 28791
+                },
+                "Trinket1": {
+                    "itemID": 32505
+                },
+                "Trinket2": {
+                    "itemID": 28830
+                },
+                "MainHand": {
+                    "itemID": 33716
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29390
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 8345
+                },
+                "Neck": {
+                    "itemID": 34177
+                },
+                "Shoulder": {
+                    "itemID": 34392
+                },
+                "Cloak": {
+                    "itemID": 34241
+                },
+                "Chest": {
+                    "itemID": 34397
+                },
+                "Wrist": {
+                    "itemID": 34444
+                },
+                "Gloves": {
+                    "itemID": 34370
+                },
+                "Waist": {
+                    "itemID": 34556
+                },
+                "Legs": {
+                    "itemID": 34188
+                },
+                "Boots": {
+                    "itemID": 34573
+                },
+                "Ring1": {
+                    "itemID": 34361
+                },
+                "Ring2": {
+                    "itemID": 34887
+                },
+                "Trinket1": {
+                    "itemID": 34427
+                },
+                "Trinket2": {
+                    "itemID": 28830
+                },
+                "MainHand": {
+                    "itemID": 34198
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29390
+                }
+            }
+        },
+        "Restoration": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32479
+                },
+                "Neck": {
+                    "itemID": 30377
+                },
+                "Shoulder": {
+                    "itemID": 21874
+                },
+                "Cloak": {
+                    "itemID": 31329
+                },
+                "Chest": {
+                    "itemID": 21875
+                },
+                "Wrist": {
+                    "itemID": 29249
+                },
+                "Gloves": {
+                    "itemID": 29506
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 31343
+                },
+                "Boots": {
+                    "itemID": 29251
+                },
+                "Ring1": {
+                    "itemID": 27780
+                },
+                "Ring2": {
+                    "itemID": 29168
+                },
+                "Trinket1": {
+                    "itemID": 29376
+                },
+                "Trinket2": {
+                    "itemID": 28370
+                },
+                "MainHand": {
+                    "itemID": 32451
+                },
+                "OffHand": {
+                    "itemID": 29170
+                },
+                "Ranged": {
+                    "itemID": 27886
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 24264
+                },
+                "Neck": {
+                    "itemID": 30726
+                },
+                "Shoulder": {
+                    "itemID": 29089
+                },
+                "Cloak": {
+                    "itemID": 31320
+                },
+                "Chest": {
+                    "itemID": 21875
+                },
+                "Wrist": {
+                    "itemID": 29183
+                },
+                "Gloves": {
+                    "itemID": 28521
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 30727
+                },
+                "Boots": {
+                    "itemID": 30737
+                },
+                "Ring1": {
+                    "itemID": 27780
+                },
+                "Ring2": {
+                    "itemID": 29290
+                },
+                "Trinket1": {
+                    "itemID": 28823
+                },
+                "Trinket2": {
+                    "itemID": 28590
+                },
+                "MainHand": {
+                    "itemID": 32451
+                },
+                "OffHand": {
+                    "itemID": 29170
+                },
+                "Ranged": {
+                    "itemID": 27886
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 29990
+                },
+                "Neck": {
+                    "itemID": 30018
+                },
+                "Shoulder": {
+                    "itemID": 29089
+                },
+                "Cloak": {
+                    "itemID": 29989
+                },
+                "Chest": {
+                    "itemID": 21875
+                },
+                "Wrist": {
+                    "itemID": 30062
+                },
+                "Gloves": {
+                    "itemID": 28521
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 30727
+                },
+                "Boots": {
+                    "itemID": 30737
+                },
+                "Ring1": {
+                    "itemID": 30110
+                },
+                "Ring2": {
+                    "itemID": 29920
+                },
+                "Trinket1": {
+                    "itemID": 28823
+                },
+                "Trinket2": {
+                    "itemID": 28590
+                },
+                "MainHand": {
+                    "itemID": 30108
+                },
+                "OffHand": {
+                    "itemID": 29923
+                },
+                "Ranged": {
+                    "itemID": 27886
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 31037
+                },
+                "Neck": {
+                    "itemID": 30018
+                },
+                "Shoulder": {
+                    "itemID": 31047
+                },
+                "Cloak": {
+                    "itemID": 29989
+                },
+                "Chest": {
+                    "itemID": 31041
+                },
+                "Wrist": {
+                    "itemID": 30868
+                },
+                "Gloves": {
+                    "itemID": 31032
+                },
+                "Waist": {
+                    "itemID": 32519
+                },
+                "Legs": {
+                    "itemID": 30912
+                },
+                "Boots": {
+                    "itemID": 32609
+                },
+                "Ring1": {
+                    "itemID": 30110
+                },
+                "Ring2": {
+                    "itemID": 32528
+                },
+                "Trinket1": {
+                    "itemID": 32496
+                },
+                "Trinket2": {
+                    "itemID": 28823
+                },
+                "MainHand": {
+                    "itemID": 32500
+                },
+                "OffHand": {
+                    "itemID": 30911
+                },
+                "Ranged": {
+                    "itemID": 27886
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34245
+                },
+                "Neck": {
+                    "itemID": 34360
+                },
+                "Shoulder": {
+                    "itemID": 34209
+                },
+                "Cloak": {
+                    "itemID": 34205
+                },
+                "Chest": {
+                    "itemID": 34371
+                },
+                "Wrist": {
+                    "itemID": 34445
+                },
+                "Gloves": {
+                    "itemID": 34351
+                },
+                "Waist": {
+                    "itemID": 34554
+                },
+                "Legs": {
+                    "itemID": 34384
+                },
+                "Boots": {
+                    "itemID": 34571
+                },
+                "Ring1": {
+                    "itemID": 35733
+                },
+                "Ring2": {
+                    "itemID": 34166
+                },
+                "Trinket1": {
+                    "itemID": 35750
+                },
+                "Trinket2": {
+                    "itemID": 32496
+                },
+                "MainHand": {
+                    "itemID": 34335
+                },
+                "OffHand": {
+                    "itemID": 30911
+                },
+                "Ranged": {
+                    "itemID": 27886
+                }
+            }
+        }
+    },
+    "Hunter": {
+        "Beast Mastery": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 28331
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 27801
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 29515
+                },
+                "Wrist": {
+                    "itemID": 29259
+                },
+                "Gloves": {
+                    "itemID": 32076
+                },
+                "Waist": {
+                    "itemID": 29516
+                },
+                "Legs": {
+                    "itemID": 30534
+                },
+                "Boots": {
+                    "itemID": 29262
+                },
+                "Ring1": {
+                    "itemID": 31326
+                },
+                "Ring2": {
+                    "itemID": 31920
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29383
+                },
+                "MainHand": {
+                    "itemID": 27903
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 28294
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 28331
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 27801
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 29515
+                },
+                "Wrist": {
+                    "itemID": 29259
+                },
+                "Gloves": {
+                    "itemID": 29085
+                },
+                "Waist": {
+                    "itemID": 28656
+                },
+                "Legs": {
+                    "itemID": 30534
+                },
+                "Boots": {
+                    "itemID": 28746
+                },
+                "Ring1": {
+                    "itemID": 31326
+                },
+                "Ring2": {
+                    "itemID": 28649
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 28579
+                },
+                "MainHand": {
+                    "itemID": 29121
+                },
+                "OffHand": {
+                    "itemID": 28572
+                },
+                "Ranged": {
+                    "itemID": 28294
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30141
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 30085
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 30139
+                },
+                "Wrist": {
+                    "itemID": 30026
+                },
+                "Gloves": {
+                    "itemID": 29085
+                },
+                "Waist": {
+                    "itemID": 28656
+                },
+                "Legs": {
+                    "itemID": 29995
+                },
+                "Boots": {
+                    "itemID": 30104
+                },
+                "Ring1": {
+                    "itemID": 29997
+                },
+                "Ring2": {
+                    "itemID": 30052
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 28579
+                },
+                "MainHand": {
+                    "itemID": 29993
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 30105
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32235
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 31006
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 31004
+                },
+                "Wrist": {
+                    "itemID": 32324
+                },
+                "Gloves": {
+                    "itemID": 31001
+                },
+                "Waist": {
+                    "itemID": 32265
+                },
+                "Legs": {
+                    "itemID": 30900
+                },
+                "Boots": {
+                    "itemID": 32366
+                },
+                "Ring1": {
+                    "itemID": 32526
+                },
+                "Ring2": {
+                    "itemID": 29997
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 32505
+                },
+                "MainHand": {
+                    "itemID": 29993
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 30906
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34333
+                },
+                "Neck": {
+                    "itemID": 34358
+                },
+                "Shoulder": {
+                    "itemID": 34194
+                },
+                "Cloak": {
+                    "itemID": 34241
+                },
+                "Chest": {
+                    "itemID": 34397
+                },
+                "Wrist": {
+                    "itemID": 34443
+                },
+                "Gloves": {
+                    "itemID": 34343
+                },
+                "Waist": {
+                    "itemID": 34549
+                },
+                "Legs": {
+                    "itemID": 34188
+                },
+                "Boots": {
+                    "itemID": 34570
+                },
+                "Ring1": {
+                    "itemID": 34361
+                },
+                "Ring2": {
+                    "itemID": 34189
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 34427
+                },
+                "MainHand": {
+                    "itemID": 34183
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 34334
+                }
+            }
+        },
+        "Survival": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 28331
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 27801
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 29515
+                },
+                "Wrist": {
+                    "itemID": 29259
+                },
+                "Gloves": {
+                    "itemID": 32076
+                },
+                "Waist": {
+                    "itemID": 29516
+                },
+                "Legs": {
+                    "itemID": 30534
+                },
+                "Boots": {
+                    "itemID": 29262
+                },
+                "Ring1": {
+                    "itemID": 31326
+                },
+                "Ring2": {
+                    "itemID": 31920
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29383
+                },
+                "MainHand": {
+                    "itemID": 27903
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 28294
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 28331
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 27801
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 29515
+                },
+                "Wrist": {
+                    "itemID": 29259
+                },
+                "Gloves": {
+                    "itemID": 29085
+                },
+                "Waist": {
+                    "itemID": 28656
+                },
+                "Legs": {
+                    "itemID": 30534
+                },
+                "Boots": {
+                    "itemID": 28746
+                },
+                "Ring1": {
+                    "itemID": 31326
+                },
+                "Ring2": {
+                    "itemID": 28649
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 28579
+                },
+                "MainHand": {
+                    "itemID": 29121
+                },
+                "OffHand": {
+                    "itemID": 28572
+                },
+                "Ranged": {
+                    "itemID": 28294
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30141
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 30085
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 30139
+                },
+                "Wrist": {
+                    "itemID": 30026
+                },
+                "Gloves": {
+                    "itemID": 29085
+                },
+                "Waist": {
+                    "itemID": 28656
+                },
+                "Legs": {
+                    "itemID": 29995
+                },
+                "Boots": {
+                    "itemID": 30104
+                },
+                "Ring1": {
+                    "itemID": 29997
+                },
+                "Ring2": {
+                    "itemID": 30052
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 28579
+                },
+                "MainHand": {
+                    "itemID": 29993
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 30105
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32235
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 31006
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 31004
+                },
+                "Wrist": {
+                    "itemID": 32324
+                },
+                "Gloves": {
+                    "itemID": 31001
+                },
+                "Waist": {
+                    "itemID": 32265
+                },
+                "Legs": {
+                    "itemID": 30900
+                },
+                "Boots": {
+                    "itemID": 32366
+                },
+                "Ring1": {
+                    "itemID": 32526
+                },
+                "Ring2": {
+                    "itemID": 29997
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 32505
+                },
+                "MainHand": {
+                    "itemID": 29993
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 30906
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34333
+                },
+                "Neck": {
+                    "itemID": 34358
+                },
+                "Shoulder": {
+                    "itemID": 34194
+                },
+                "Cloak": {
+                    "itemID": 34241
+                },
+                "Chest": {
+                    "itemID": 34397
+                },
+                "Wrist": {
+                    "itemID": 34443
+                },
+                "Gloves": {
+                    "itemID": 34343
+                },
+                "Waist": {
+                    "itemID": 34549
+                },
+                "Legs": {
+                    "itemID": 34188
+                },
+                "Boots": {
+                    "itemID": 34570
+                },
+                "Ring1": {
+                    "itemID": 34361
+                },
+                "Ring2": {
+                    "itemID": 34189
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 34427
+                },
+                "MainHand": {
+                    "itemID": 34183
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 34334
+                }
+            }
+        }
+    },
+    "Mage": {
+        "Arcane": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 28245
+                },
+                "Shoulder": {
+                    "itemID": 27994
+                },
+                "Cloak": {
+                    "itemID": 27981
+                },
+                "Chest": {
+                    "itemID": 21848
+                },
+                "Wrist": {
+                    "itemID": 27462
+                },
+                "Gloves": {
+                    "itemID": 21847
+                },
+                "Waist": {
+                    "itemID": 21846
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 29258
+                },
+                "Ring1": {
+                    "itemID": 31921
+                },
+                "Ring2": {
+                    "itemID": 28227
+                },
+                "Trinket1": {
+                    "itemID": 27683
+                },
+                "Trinket2": {
+                    "itemID": 31856
+                },
+                "MainHand": {
+                    "itemID": 28297
+                },
+                "OffHand": {
+                    "itemID": 29271
+                },
+                "Ranged": {
+                    "itemID": 28386
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 29076
+                },
+                "Neck": {
+                    "itemID": 28530
+                },
+                "Shoulder": {
+                    "itemID": 29079
+                },
+                "Cloak": {
+                    "itemID": 28766
+                },
+                "Chest": {
+                    "itemID": 21848
+                },
+                "Wrist": {
+                    "itemID": 27462
+                },
+                "Gloves": {
+                    "itemID": 21847
+                },
+                "Waist": {
+                    "itemID": 21846
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 28585
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 28227
+                },
+                "Trinket1": {
+                    "itemID": 28785
+                },
+                "Trinket2": {
+                    "itemID": 31856
+                },
+                "MainHand": {
+                    "itemID": 28297
+                },
+                "OffHand": {
+                    "itemID": 28734
+                },
+                "Ranged": {
+                    "itemID": 28783
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30206
+                },
+                "Neck": {
+                    "itemID": 30015
+                },
+                "Shoulder": {
+                    "itemID": 30210
+                },
+                "Cloak": {
+                    "itemID": 28766
+                },
+                "Chest": {
+                    "itemID": 30107
+                },
+                "Wrist": {
+                    "itemID": 29918
+                },
+                "Gloves": {
+                    "itemID": 21847
+                },
+                "Waist": {
+                    "itemID": 30038
+                },
+                "Legs": {
+                    "itemID": 29972
+                },
+                "Boots": {
+                    "itemID": 30037
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 28227
+                },
+                "Trinket1": {
+                    "itemID": 28785
+                },
+                "Trinket2": {
+                    "itemID": 30720
+                },
+                "MainHand": {
+                    "itemID": 29988
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 28783
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32525
+                },
+                "Neck": {
+                    "itemID": 30015
+                },
+                "Shoulder": {
+                    "itemID": 30884
+                },
+                "Cloak": {
+                    "itemID": 32331
+                },
+                "Chest": {
+                    "itemID": 31057
+                },
+                "Wrist": {
+                    "itemID": 29918
+                },
+                "Gloves": {
+                    "itemID": 21847
+                },
+                "Waist": {
+                    "itemID": 30888
+                },
+                "Legs": {
+                    "itemID": 31058
+                },
+                "Boots": {
+                    "itemID": 32239
+                },
+                "Ring1": {
+                    "itemID": 32527
+                },
+                "Ring2": {
+                    "itemID": 32528
+                },
+                "Trinket1": {
+                    "itemID": 28785
+                },
+                "Trinket2": {
+                    "itemID": 30720
+                },
+                "MainHand": {
+                    "itemID": 30910
+                },
+                "OffHand": {
+                    "itemID": 30872
+                },
+                "Ranged": {
+                    "itemID": 28783
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34340
+                },
+                "Neck": {
+                    "itemID": 34359
+                },
+                "Shoulder": {
+                    "itemID": 34210
+                },
+                "Cloak": {
+                    "itemID": 34242
+                },
+                "Chest": {
+                    "itemID": 34364
+                },
+                "Wrist": {
+                    "itemID": 34447
+                },
+                "Gloves": {
+                    "itemID": 34406
+                },
+                "Waist": {
+                    "itemID": 34557
+                },
+                "Legs": {
+                    "itemID": 34181
+                },
+                "Boots": {
+                    "itemID": 34574
+                },
+                "Ring1": {
+                    "itemID": 34230
+                },
+                "Ring2": {
+                    "itemID": 32527
+                },
+                "Trinket1": {
+                    "itemID": 32483
+                },
+                "Trinket2": {
+                    "itemID": 33829
+                },
+                "MainHand": {
+                    "itemID": 34336
+                },
+                "OffHand": {
+                    "itemID": 34179
+                },
+                "Ranged": {
+                    "itemID": 34347
+                }
+            }
+        },
+        "Fire": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 28134
+                },
+                "Shoulder": {
+                    "itemID": 25854
+                },
+                "Cloak": {
+                    "itemID": 27981
+                },
+                "Chest": {
+                    "itemID": 21848
+                },
+                "Wrist": {
+                    "itemID": 24250
+                },
+                "Gloves": {
+                    "itemID": 21847
+                },
+                "Waist": {
+                    "itemID": 21846
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 27821
+                },
+                "Ring1": {
+                    "itemID": 28227
+                },
+                "Ring2": {
+                    "itemID": 29172
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29132
+                },
+                "MainHand": {
+                    "itemID": 28297
+                },
+                "OffHand": {
+                    "itemID": 29270
+                },
+                "Ranged": {
+                    "itemID": 29350
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 28134
+                },
+                "Shoulder": {
+                    "itemID": 25854
+                },
+                "Cloak": {
+                    "itemID": 28797
+                },
+                "Chest": {
+                    "itemID": 21848
+                },
+                "Wrist": {
+                    "itemID": 32655
+                },
+                "Gloves": {
+                    "itemID": 21847
+                },
+                "Waist": {
+                    "itemID": 21846
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 28585
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 29172
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29132
+                },
+                "MainHand": {
+                    "itemID": 30723
+                },
+                "OffHand": {
+                    "itemID": 29270
+                },
+                "Ranged": {
+                    "itemID": 28673
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30206
+                },
+                "Neck": {
+                    "itemID": 30015
+                },
+                "Shoulder": {
+                    "itemID": 30210
+                },
+                "Cloak": {
+                    "itemID": 28797
+                },
+                "Chest": {
+                    "itemID": 30056
+                },
+                "Wrist": {
+                    "itemID": 29918
+                },
+                "Gloves": {
+                    "itemID": 21847
+                },
+                "Waist": {
+                    "itemID": 30038
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 30037
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 29172
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29132
+                },
+                "MainHand": {
+                    "itemID": 29988
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29982
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32525
+                },
+                "Neck": {
+                    "itemID": 32589
+                },
+                "Shoulder": {
+                    "itemID": 30884
+                },
+                "Cloak": {
+                    "itemID": 32331
+                },
+                "Chest": {
+                    "itemID": 30056
+                },
+                "Wrist": {
+                    "itemID": 29918
+                },
+                "Gloves": {
+                    "itemID": 21847
+                },
+                "Waist": {
+                    "itemID": 30888
+                },
+                "Legs": {
+                    "itemID": 30916
+                },
+                "Boots": {
+                    "itemID": 32239
+                },
+                "Ring1": {
+                    "itemID": 32527
+                },
+                "Ring2": {
+                    "itemID": 32247
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29132
+                },
+                "MainHand": {
+                    "itemID": 30910
+                },
+                "OffHand": {
+                    "itemID": 30872
+                },
+                "Ranged": {
+                    "itemID": 29982
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34340
+                },
+                "Neck": {
+                    "itemID": 34359
+                },
+                "Shoulder": {
+                    "itemID": 34210
+                },
+                "Cloak": {
+                    "itemID": 34242
+                },
+                "Chest": {
+                    "itemID": 34364
+                },
+                "Wrist": {
+                    "itemID": 34447
+                },
+                "Gloves": {
+                    "itemID": 34366
+                },
+                "Waist": {
+                    "itemID": 34557
+                },
+                "Legs": {
+                    "itemID": 34181
+                },
+                "Boots": {
+                    "itemID": 34574
+                },
+                "Ring1": {
+                    "itemID": 34230
+                },
+                "Ring2": {
+                    "itemID": 32527
+                },
+                "Trinket1": {
+                    "itemID": 32483
+                },
+                "Trinket2": {
+                    "itemID": 33829
+                },
+                "MainHand": {
+                    "itemID": 34336
+                },
+                "OffHand": {
+                    "itemID": 34179
+                },
+                "Ranged": {
+                    "itemID": 34347
+                }
+            }
+        },
+        "Frost": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 28134
+                },
+                "Shoulder": {
+                    "itemID": 21869
+                },
+                "Cloak": {
+                    "itemID": 23050
+                },
+                "Chest": {
+                    "itemID": 21871
+                },
+                "Wrist": {
+                    "itemID": 24250
+                },
+                "Gloves": {
+                    "itemID": 21847
+                },
+                "Waist": {
+                    "itemID": 24256
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 21870
+                },
+                "Ring1": {
+                    "itemID": 28227
+                },
+                "Ring2": {
+                    "itemID": 29172
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29370
+                },
+                "MainHand": {
+                    "itemID": 28297
+                },
+                "OffHand": {
+                    "itemID": 29269
+                },
+                "Ranged": {
+                    "itemID": 29350
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 28134
+                },
+                "Shoulder": {
+                    "itemID": 21869
+                },
+                "Cloak": {
+                    "itemID": 28766
+                },
+                "Chest": {
+                    "itemID": 31297
+                },
+                "Wrist": {
+                    "itemID": 32655
+                },
+                "Gloves": {
+                    "itemID": 30725
+                },
+                "Waist": {
+                    "itemID": 24256
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 21870
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 29172
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29370
+                },
+                "MainHand": {
+                    "itemID": 30723
+                },
+                "OffHand": {
+                    "itemID": 29269
+                },
+                "Ranged": {
+                    "itemID": 28673
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 30015
+                },
+                "Shoulder": {
+                    "itemID": 30210
+                },
+                "Cloak": {
+                    "itemID": 28766
+                },
+                "Chest": {
+                    "itemID": 30107
+                },
+                "Wrist": {
+                    "itemID": 29918
+                },
+                "Gloves": {
+                    "itemID": 30725
+                },
+                "Waist": {
+                    "itemID": 30038
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 21870
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 30109
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29370
+                },
+                "MainHand": {
+                    "itemID": 29988
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29982
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32525
+                },
+                "Neck": {
+                    "itemID": 32349
+                },
+                "Shoulder": {
+                    "itemID": 30884
+                },
+                "Cloak": {
+                    "itemID": 32331
+                },
+                "Chest": {
+                    "itemID": 30107
+                },
+                "Wrist": {
+                    "itemID": 30870
+                },
+                "Gloves": {
+                    "itemID": 31055
+                },
+                "Waist": {
+                    "itemID": 30888
+                },
+                "Legs": {
+                    "itemID": 30916
+                },
+                "Boots": {
+                    "itemID": 32239
+                },
+                "Ring1": {
+                    "itemID": 32527
+                },
+                "Ring2": {
+                    "itemID": 32247
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29370
+                },
+                "MainHand": {
+                    "itemID": 30910
+                },
+                "OffHand": {
+                    "itemID": 30872
+                },
+                "Ranged": {
+                    "itemID": 29982
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34340
+                },
+                "Neck": {
+                    "itemID": 34359
+                },
+                "Shoulder": {
+                    "itemID": 34210
+                },
+                "Cloak": {
+                    "itemID": 34242
+                },
+                "Chest": {
+                    "itemID": 34364
+                },
+                "Wrist": {
+                    "itemID": 34447
+                },
+                "Gloves": {
+                    "itemID": 34344
+                },
+                "Waist": {
+                    "itemID": 34557
+                },
+                "Legs": {
+                    "itemID": 34181
+                },
+                "Boots": {
+                    "itemID": 34574
+                },
+                "Ring1": {
+                    "itemID": 34230
+                },
+                "Ring2": {
+                    "itemID": 34362
+                },
+                "Trinket1": {
+                    "itemID": 32483
+                },
+                "Trinket2": {
+                    "itemID": 33829
+                },
+                "MainHand": {
+                    "itemID": 34336
+                },
+                "OffHand": {
+                    "itemID": 30872
+                },
+                "Ranged": {
+                    "itemID": 34347
+                }
+            }
+        }
+    },
+    "Paladin": {
+        "Holy": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32472
+                },
+                "Neck": {
+                    "itemID": 29374
+                },
+                "Shoulder": {
+                    "itemID": 31619
+                },
+                "Cloak": {
+                    "itemID": 31329
+                },
+                "Chest": {
+                    "itemID": 21875
+                },
+                "Wrist": {
+                    "itemID": 23539
+                },
+                "Gloves": {
+                    "itemID": 24393
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 30543
+                },
+                "Boots": {
+                    "itemID": 27411
+                },
+                "Ring1": {
+                    "itemID": 31923
+                },
+                "Ring2": {
+                    "itemID": 29373
+                },
+                "Trinket1": {
+                    "itemID": 29376
+                },
+                "Trinket2": {
+                    "itemID": 28190
+                },
+                "MainHand": {
+                    "itemID": 32451
+                },
+                "OffHand": {
+                    "itemID": 29170
+                },
+                "Ranged": {
+                    "itemID": 25644
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 29061
+                },
+                "Neck": {
+                    "itemID": 30726
+                },
+                "Shoulder": {
+                    "itemID": 31619
+                },
+                "Cloak": {
+                    "itemID": 28765
+                },
+                "Chest": {
+                    "itemID": 29062
+                },
+                "Wrist": {
+                    "itemID": 23539
+                },
+                "Gloves": {
+                    "itemID": 28505
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 30727
+                },
+                "Boots": {
+                    "itemID": 30737
+                },
+                "Ring1": {
+                    "itemID": 28790
+                },
+                "Ring2": {
+                    "itemID": 29373
+                },
+                "Trinket1": {
+                    "itemID": 28823
+                },
+                "Trinket2": {
+                    "itemID": 28590
+                },
+                "MainHand": {
+                    "itemID": 32451
+                },
+                "OffHand": {
+                    "itemID": 29458
+                },
+                "Ranged": {
+                    "itemID": 28592
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30136
+                },
+                "Neck": {
+                    "itemID": 30018
+                },
+                "Shoulder": {
+                    "itemID": 30097
+                },
+                "Cloak": {
+                    "itemID": 29989
+                },
+                "Chest": {
+                    "itemID": 29062
+                },
+                "Wrist": {
+                    "itemID": 30047
+                },
+                "Gloves": {
+                    "itemID": 30112
+                },
+                "Waist": {
+                    "itemID": 30030
+                },
+                "Legs": {
+                    "itemID": 29991
+                },
+                "Boots": {
+                    "itemID": 30092
+                },
+                "Ring1": {
+                    "itemID": 29920
+                },
+                "Ring2": {
+                    "itemID": 30110
+                },
+                "Trinket1": {
+                    "itemID": 28823
+                },
+                "Trinket2": {
+                    "itemID": 28590
+                },
+                "MainHand": {
+                    "itemID": 30108
+                },
+                "OffHand": {
+                    "itemID": 29923
+                },
+                "Ranged": {
+                    "itemID": 28592
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 30988
+                },
+                "Neck": {
+                    "itemID": 32370
+                },
+                "Shoulder": {
+                    "itemID": 30996
+                },
+                "Cloak": {
+                    "itemID": 32524
+                },
+                "Chest": {
+                    "itemID": 30992
+                },
+                "Wrist": {
+                    "itemID": 30862
+                },
+                "Gloves": {
+                    "itemID": 32353
+                },
+                "Waist": {
+                    "itemID": 30897
+                },
+                "Legs": {
+                    "itemID": 30912
+                },
+                "Boots": {
+                    "itemID": 32243
+                },
+                "Ring1": {
+                    "itemID": 32528
+                },
+                "Ring2": {
+                    "itemID": 32238
+                },
+                "Trinket1": {
+                    "itemID": 32496
+                },
+                "Trinket2": {
+                    "itemID": 28823
+                },
+                "MainHand": {
+                    "itemID": 32500
+                },
+                "OffHand": {
+                    "itemID": 32350
+                },
+                "Ranged": {
+                    "itemID": 28592
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34243
+                },
+                "Neck": {
+                    "itemID": 34360
+                },
+                "Shoulder": {
+                    "itemID": 34193
+                },
+                "Cloak": {
+                    "itemID": 34205
+                },
+                "Chest": {
+                    "itemID": 34229
+                },
+                "Wrist": {
+                    "itemID": 34432
+                },
+                "Gloves": {
+                    "itemID": 34240
+                },
+                "Waist": {
+                    "itemID": 34487
+                },
+                "Legs": {
+                    "itemID": 34383
+                },
+                "Boots": {
+                    "itemID": 34559
+                },
+                "Ring1": {
+                    "itemID": 34363
+                },
+                "Ring2": {
+                    "itemID": 34166
+                },
+                "Trinket1": {
+                    "itemID": 32496
+                },
+                "Trinket2": {
+                    "itemID": 34430
+                },
+                "MainHand": {
+                    "itemID": 34335
+                },
+                "OffHand": {
+                    "itemID": 34206
+                },
+                "Ranged": {
+                    "itemID": 28592
+                }
+            }
+        },
+        "Retribution": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32461
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 33173
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 27879
+                },
+                "Wrist": {
+                    "itemID": 23537
+                },
+                "Gloves": {
+                    "itemID": 27497
+                },
+                "Waist": {
+                    "itemID": 29247
+                },
+                "Legs": {
+                    "itemID": 30538
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 31920
+                },
+                "Ring2": {
+                    "itemID": 29177
+                },
+                "Trinket1": {
+                    "itemID": 28034
+                },
+                "Trinket2": {
+                    "itemID": 29383
+                },
+                "MainHand": {
+                    "itemID": 28441
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27484
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 27881
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 28755
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 27879
+                },
+                "Wrist": {
+                    "itemID": 28795
+                },
+                "Gloves": {
+                    "itemID": 28824
+                },
+                "Waist": {
+                    "itemID": 28779
+                },
+                "Legs": {
+                    "itemID": 30538
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 28757
+                },
+                "Ring2": {
+                    "itemID": 30738
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 29383
+                },
+                "MainHand": {
+                    "itemID": 28441
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27484
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 27881
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 29075
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 30102
+                },
+                "Wrist": {
+                    "itemID": 30057
+                },
+                "Gloves": {
+                    "itemID": 28824
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 29995
+                },
+                "Boots": {
+                    "itemID": 30104
+                },
+                "Ring1": {
+                    "itemID": 29997
+                },
+                "Ring2": {
+                    "itemID": 30052
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 29383
+                },
+                "MainHand": {
+                    "itemID": 29993
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27484
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32235
+                },
+                "Neck": {
+                    "itemID": 32260
+                },
+                "Shoulder": {
+                    "itemID": 30866
+                },
+                "Cloak": {
+                    "itemID": 32323
+                },
+                "Chest": {
+                    "itemID": 30905
+                },
+                "Wrist": {
+                    "itemID": 30057
+                },
+                "Gloves": {
+                    "itemID": 32278
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 32341
+                },
+                "Boots": {
+                    "itemID": 32345
+                },
+                "Ring1": {
+                    "itemID": 32497
+                },
+                "Ring2": {
+                    "itemID": 29997
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 29383
+                },
+                "MainHand": {
+                    "itemID": 32332
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27484
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34333
+                },
+                "Neck": {
+                    "itemID": 34358
+                },
+                "Shoulder": {
+                    "itemID": 34392
+                },
+                "Cloak": {
+                    "itemID": 34241
+                },
+                "Chest": {
+                    "itemID": 34397
+                },
+                "Wrist": {
+                    "itemID": 34431
+                },
+                "Gloves": {
+                    "itemID": 34343
+                },
+                "Waist": {
+                    "itemID": 34485
+                },
+                "Legs": {
+                    "itemID": 34188
+                },
+                "Boots": {
+                    "itemID": 34561
+                },
+                "Ring1": {
+                    "itemID": 34189
+                },
+                "Ring2": {
+                    "itemID": 32497
+                },
+                "Trinket1": {
+                    "itemID": 34427
+                },
+                "Trinket2": {
+                    "itemID": 34472
+                },
+                "MainHand": {
+                    "itemID": 34247
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 27484
+                }
+            }
+        },
+        "Protection": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32473
+                },
+                "Neck": {
+                    "itemID": 29386
+                },
+                "Shoulder": {
+                    "itemID": 27706
+                },
+                "Cloak": {
+                    "itemID": 27804
+                },
+                "Chest": {
+                    "itemID": 28203
+                },
+                "Wrist": {
+                    "itemID": 29252
+                },
+                "Gloves": {
+                    "itemID": 25788
+                },
+                "Waist": {
+                    "itemID": 29253
+                },
+                "Legs": {
+                    "itemID": 29184
+                },
+                "Boots": {
+                    "itemID": 29254
+                },
+                "Ring1": {
+                    "itemID": 31319
+                },
+                "Ring2": {
+                    "itemID": 28407
+                },
+                "Trinket1": {
+                    "itemID": 29387
+                },
+                "Trinket2": {
+                    "itemID": 31858
+                },
+                "MainHand": {
+                    "itemID": 32450
+                },
+                "OffHand": {
+                    "itemID": 29266
+                },
+                "Ranged": {
+                    "itemID": 29388
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 27704
+                },
+                "Neck": {
+                    "itemID": 28516
+                },
+                "Shoulder": {
+                    "itemID": 29070
+                },
+                "Cloak": {
+                    "itemID": 27804
+                },
+                "Chest": {
+                    "itemID": 28597
+                },
+                "Wrist": {
+                    "itemID": 23538
+                },
+                "Gloves": {
+                    "itemID": 30741
+                },
+                "Waist": {
+                    "itemID": 28566
+                },
+                "Legs": {
+                    "itemID": 28621
+                },
+                "Boots": {
+                    "itemID": 28747
+                },
+                "Ring1": {
+                    "itemID": 31319
+                },
+                "Ring2": {
+                    "itemID": 28407
+                },
+                "Trinket1": {
+                    "itemID": 28528
+                },
+                "Trinket2": {
+                    "itemID": 31858
+                },
+                "MainHand": {
+                    "itemID": 28749
+                },
+                "OffHand": {
+                    "itemID": 28825
+                },
+                "Ranged": {
+                    "itemID": 29388
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30125
+                },
+                "Neck": {
+                    "itemID": 30007
+                },
+                "Shoulder": {
+                    "itemID": 30127
+                },
+                "Cloak": {
+                    "itemID": 29925
+                },
+                "Chest": {
+                    "itemID": 30123
+                },
+                "Wrist": {
+                    "itemID": 32515
+                },
+                "Gloves": {
+                    "itemID": 29998
+                },
+                "Waist": {
+                    "itemID": 30034
+                },
+                "Legs": {
+                    "itemID": 30126
+                },
+                "Boots": {
+                    "itemID": 32267
+                },
+                "Ring1": {
+                    "itemID": 30109
+                },
+                "Ring2": {
+                    "itemID": 30028
+                },
+                "Trinket1": {
+                    "itemID": 28528
+                },
+                "Trinket2": {
+                    "itemID": 30629
+                },
+                "MainHand": {
+                    "itemID": 30058
+                },
+                "OffHand": {
+                    "itemID": 28825
+                },
+                "Ranged": {
+                    "itemID": 29388
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32521
+                },
+                "Neck": {
+                    "itemID": 30007
+                },
+                "Shoulder": {
+                    "itemID": 30998
+                },
+                "Cloak": {
+                    "itemID": 32331
+                },
+                "Chest": {
+                    "itemID": 30991
+                },
+                "Wrist": {
+                    "itemID": 32279
+                },
+                "Gloves": {
+                    "itemID": 30985
+                },
+                "Waist": {
+                    "itemID": 32342
+                },
+                "Legs": {
+                    "itemID": 30126
+                },
+                "Boots": {
+                    "itemID": 32245
+                },
+                "Ring1": {
+                    "itemID": 32527
+                },
+                "Ring2": {
+                    "itemID": 30109
+                },
+                "Trinket1": {
+                    "itemID": 28528
+                },
+                "Trinket2": {
+                    "itemID": 30629
+                },
+                "MainHand": {
+                    "itemID": 30910
+                },
+                "OffHand": {
+                    "itemID": 30909
+                },
+                "Ranged": {
+                    "itemID": 29388
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34401
+                },
+                "Neck": {
+                    "itemID": 35133
+                },
+                "Shoulder": {
+                    "itemID": 34389
+                },
+                "Cloak": {
+                    "itemID": 34242
+                },
+                "Chest": {
+                    "itemID": 34216
+                },
+                "Wrist": {
+                    "itemID": 34433
+                },
+                "Gloves": {
+                    "itemID": 30985
+                },
+                "Waist": {
+                    "itemID": 34488
+                },
+                "Legs": {
+                    "itemID": 34382
+                },
+                "Boots": {
+                    "itemID": 32245
+                },
+                "Ring1": {
+                    "itemID": 34889
+                },
+                "Ring2": {
+                    "itemID": 34362
+                },
+                "Trinket1": {
+                    "itemID": 28528
+                },
+                "Trinket2": {
+                    "itemID": 30629
+                },
+                "MainHand": {
+                    "itemID": 30910
+                },
+                "OffHand": {
+                    "itemID": 34185
+                },
+                "Ranged": {
+                    "itemID": 29388
+                }
+            }
+        }
+    },
+    "Priest": {
+        "Holy": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 24264
+                },
+                "Neck": {
+                    "itemID": 30377
+                },
+                "Shoulder": {
+                    "itemID": 21874
+                },
+                "Cloak": {
+                    "itemID": 31329
+                },
+                "Chest": {
+                    "itemID": 21875
+                },
+                "Wrist": {
+                    "itemID": 29249
+                },
+                "Gloves": {
+                    "itemID": 27536
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 31343
+                },
+                "Boots": {
+                    "itemID": 29251
+                },
+                "Ring1": {
+                    "itemID": 29373
+                },
+                "Ring2": {
+                    "itemID": 27780
+                },
+                "Trinket1": {
+                    "itemID": 29376
+                },
+                "Trinket2": {
+                    "itemID": 28370
+                },
+                "MainHand": {
+                    "itemID": 32451
+                },
+                "OffHand": {
+                    "itemID": 29170
+                },
+                "Ranged": {
+                    "itemID": 27885
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 29049
+                },
+                "Neck": {
+                    "itemID": 28822
+                },
+                "Shoulder": {
+                    "itemID": 21874
+                },
+                "Cloak": {
+                    "itemID": 31329
+                },
+                "Chest": {
+                    "itemID": 21875
+                },
+                "Wrist": {
+                    "itemID": 29249
+                },
+                "Gloves": {
+                    "itemID": 28508
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 30727
+                },
+                "Boots": {
+                    "itemID": 28663
+                },
+                "Ring1": {
+                    "itemID": 29290
+                },
+                "Ring2": {
+                    "itemID": 27780
+                },
+                "Trinket1": {
+                    "itemID": 28823
+                },
+                "Trinket2": {
+                    "itemID": 28590
+                },
+                "MainHand": {
+                    "itemID": 32451
+                },
+                "OffHand": {
+                    "itemID": 29170
+                },
+                "Ranged": {
+                    "itemID": 28588
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 29990
+                },
+                "Neck": {
+                    "itemID": 30018
+                },
+                "Shoulder": {
+                    "itemID": 21874
+                },
+                "Cloak": {
+                    "itemID": 29989
+                },
+                "Chest": {
+                    "itemID": 30150
+                },
+                "Wrist": {
+                    "itemID": 29249
+                },
+                "Gloves": {
+                    "itemID": 30151
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 30727
+                },
+                "Boots": {
+                    "itemID": 30035
+                },
+                "Ring1": {
+                    "itemID": 30110
+                },
+                "Ring2": {
+                    "itemID": 29920
+                },
+                "Trinket1": {
+                    "itemID": 28823
+                },
+                "Trinket2": {
+                    "itemID": 28590
+                },
+                "MainHand": {
+                    "itemID": 30108
+                },
+                "OffHand": {
+                    "itemID": 29923
+                },
+                "Ranged": {
+                    "itemID": 30080
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 31063
+                },
+                "Neck": {
+                    "itemID": 32370
+                },
+                "Shoulder": {
+                    "itemID": 31069
+                },
+                "Cloak": {
+                    "itemID": 32524
+                },
+                "Chest": {
+                    "itemID": 31066
+                },
+                "Wrist": {
+                    "itemID": 30871
+                },
+                "Gloves": {
+                    "itemID": 31060
+                },
+                "Waist": {
+                    "itemID": 32519
+                },
+                "Legs": {
+                    "itemID": 30912
+                },
+                "Boots": {
+                    "itemID": 32609
+                },
+                "Ring1": {
+                    "itemID": 32528
+                },
+                "Ring2": {
+                    "itemID": 32238
+                },
+                "Trinket1": {
+                    "itemID": 32496
+                },
+                "Trinket2": {
+                    "itemID": 28823
+                },
+                "MainHand": {
+                    "itemID": 32500
+                },
+                "OffHand": {
+                    "itemID": 30911
+                },
+                "Ranged": {
+                    "itemID": 32363
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34339
+                },
+                "Neck": {
+                    "itemID": 33281
+                },
+                "Shoulder": {
+                    "itemID": 34202
+                },
+                "Cloak": {
+                    "itemID": 32524
+                },
+                "Chest": {
+                    "itemID": 34233
+                },
+                "Wrist": {
+                    "itemID": 34435
+                },
+                "Gloves": {
+                    "itemID": 34342
+                },
+                "Waist": {
+                    "itemID": 34527
+                },
+                "Legs": {
+                    "itemID": 34170
+                },
+                "Boots": {
+                    "itemID": 34562
+                },
+                "Ring1": {
+                    "itemID": 34363
+                },
+                "Ring2": {
+                    "itemID": 32528
+                },
+                "Trinket1": {
+                    "itemID": 35750
+                },
+                "Trinket2": {
+                    "itemID": 34430
+                },
+                "MainHand": {
+                    "itemID": 34335
+                },
+                "OffHand": {
+                    "itemID": 34206
+                },
+                "Ranged": {
+                    "itemID": 34348
+                }
+            }
+        },
+        "Shadow": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 28245
+                },
+                "Shoulder": {
+                    "itemID": 21869
+                },
+                "Cloak": {
+                    "itemID": 31201
+                },
+                "Chest": {
+                    "itemID": 21871
+                },
+                "Wrist": {
+                    "itemID": 24692
+                },
+                "Gloves": {
+                    "itemID": 29317
+                },
+                "Waist": {
+                    "itemID": 24256
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 21870
+                },
+                "Ring1": {
+                    "itemID": 28555
+                },
+                "Ring2": {
+                    "itemID": 29172
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29370
+                },
+                "MainHand": {
+                    "itemID": 28297
+                },
+                "OffHand": {
+                    "itemID": 29272
+                },
+                "Ranged": {
+                    "itemID": 25295
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 30666
+                },
+                "Shoulder": {
+                    "itemID": 21869
+                },
+                "Cloak": {
+                    "itemID": 31201
+                },
+                "Chest": {
+                    "itemID": 21871
+                },
+                "Wrist": {
+                    "itemID": 30684
+                },
+                "Gloves": {
+                    "itemID": 28507
+                },
+                "Waist": {
+                    "itemID": 30675
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 21870
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 29172
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29370
+                },
+                "MainHand": {
+                    "itemID": 28297
+                },
+                "OffHand": {
+                    "itemID": 29272
+                },
+                "Ranged": {
+                    "itemID": 25295
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 30666
+                },
+                "Shoulder": {
+                    "itemID": 30163
+                },
+                "Cloak": {
+                    "itemID": 31201
+                },
+                "Chest": {
+                    "itemID": 30107
+                },
+                "Wrist": {
+                    "itemID": 30684
+                },
+                "Gloves": {
+                    "itemID": 28507
+                },
+                "Waist": {
+                    "itemID": 30038
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 21870
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 30109
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29370
+                },
+                "MainHand": {
+                    "itemID": 32053
+                },
+                "OffHand": {
+                    "itemID": 29272
+                },
+                "Ranged": {
+                    "itemID": 25295
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32525
+                },
+                "Neck": {
+                    "itemID": 34678
+                },
+                "Shoulder": {
+                    "itemID": 30884
+                },
+                "Cloak": {
+                    "itemID": 32590
+                },
+                "Chest": {
+                    "itemID": 31065
+                },
+                "Wrist": {
+                    "itemID": 30684
+                },
+                "Gloves": {
+                    "itemID": 33586
+                },
+                "Waist": {
+                    "itemID": 30888
+                },
+                "Legs": {
+                    "itemID": 30916
+                },
+                "Boots": {
+                    "itemID": 21870
+                },
+                "Ring1": {
+                    "itemID": 32527
+                },
+                "Ring2": {
+                    "itemID": 34362
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 32483
+                },
+                "MainHand": {
+                    "itemID": 33687
+                },
+                "OffHand": {
+                    "itemID": 29272
+                },
+                "Ranged": {
+                    "itemID": 33192
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34340
+                },
+                "Neck": {
+                    "itemID": 34359
+                },
+                "Shoulder": {
+                    "itemID": 34210
+                },
+                "Cloak": {
+                    "itemID": 34242
+                },
+                "Chest": {
+                    "itemID": 34364
+                },
+                "Wrist": {
+                    "itemID": 34434
+                },
+                "Gloves": {
+                    "itemID": 34406
+                },
+                "Waist": {
+                    "itemID": 34528
+                },
+                "Legs": {
+                    "itemID": 34386
+                },
+                "Boots": {
+                    "itemID": 34563
+                },
+                "Ring1": {
+                    "itemID": 34230
+                },
+                "Ring2": {
+                    "itemID": 32527
+                },
+                "Trinket1": {
+                    "itemID": 34429
+                },
+                "Trinket2": {
+                    "itemID": 33829
+                },
+                "MainHand": {
+                    "itemID": 34336
+                },
+                "OffHand": {
+                    "itemID": 34179
+                },
+                "Ranged": {
+                    "itemID": 34347
+                }
+            }
+        }
+    },
+    "Rogue": {
+        "All": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32478
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 27797
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 29525
+                },
+                "Wrist": {
+                    "itemID": 29246
+                },
+                "Gloves": {
+                    "itemID": 25685
+                },
+                "Waist": {
+                    "itemID": 29247
+                },
+                "Legs": {
+                    "itemID": 25687
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 31920
+                },
+                "Ring2": {
+                    "itemID": 30860
+                },
+                "Trinket1": {
+                    "itemID": 29383
+                },
+                "Trinket2": {
+                    "itemID": 28034
+                },
+                "MainHand": {
+                    "itemID": 28295
+                },
+                "OffHand": {
+                    "itemID": 28426
+                },
+                "Ranged": {
+                    "itemID": 29151
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 28182
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 27797
+                },
+                "Cloak": {
+                    "itemID": 28672
+                },
+                "Chest": {
+                    "itemID": 29045
+                },
+                "Wrist": {
+                    "itemID": 32647
+                },
+                "Gloves": {
+                    "itemID": 25685
+                },
+                "Waist": {
+                    "itemID": 29247
+                },
+                "Legs": {
+                    "itemID": 29046
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 28649
+                },
+                "Ring2": {
+                    "itemID": 28757
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 28579
+                },
+                "MainHand": {
+                    "itemID": 28295
+                },
+                "OffHand": {
+                    "itemID": 28426
+                },
+                "Ranged": {
+                    "itemID": 29151
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30146
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 27797
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 30101
+                },
+                "Wrist": {
+                    "itemID": 29966
+                },
+                "Gloves": {
+                    "itemID": 30145
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 29995
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 29997
+                },
+                "Ring2": {
+                    "itemID": 30052
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 30450
+                },
+                "MainHand": {
+                    "itemID": 29996
+                },
+                "OffHand": {
+                    "itemID": 29948
+                },
+                "Ranged": {
+                    "itemID": 29949
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32235
+                },
+                "Neck": {
+                    "itemID": 32260
+                },
+                "Shoulder": {
+                    "itemID": 31030
+                },
+                "Cloak": {
+                    "itemID": 32323
+                },
+                "Chest": {
+                    "itemID": 31028
+                },
+                "Wrist": {
+                    "itemID": 32324
+                },
+                "Gloves": {
+                    "itemID": 31026
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 31029
+                },
+                "Boots": {
+                    "itemID": 32366
+                },
+                "Ring1": {
+                    "itemID": 32497
+                },
+                "Ring2": {
+                    "itemID": 29997
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 30450
+                },
+                "MainHand": {
+                    "itemID": 32837
+                },
+                "OffHand": {
+                    "itemID": 32838
+                },
+                "Ranged": {
+                    "itemID": 29949
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34244
+                },
+                "Neck": {
+                    "itemID": 34358
+                },
+                "Shoulder": {
+                    "itemID": 34195
+                },
+                "Cloak": {
+                    "itemID": 34241
+                },
+                "Chest": {
+                    "itemID": 34369
+                },
+                "Wrist": {
+                    "itemID": 34448
+                },
+                "Gloves": {
+                    "itemID": 34370
+                },
+                "Waist": {
+                    "itemID": 34558
+                },
+                "Legs": {
+                    "itemID": 34188
+                },
+                "Boots": {
+                    "itemID": 34575
+                },
+                "Ring1": {
+                    "itemID": 32497
+                },
+                "Ring2": {
+                    "itemID": 34361
+                },
+                "Trinket1": {
+                    "itemID": 34427
+                },
+                "Trinket2": {
+                    "itemID": 28830
+                },
+                "MainHand": {
+                    "itemID": 34331
+                },
+                "OffHand": {
+                    "itemID": 34329
+                },
+                "Ranged": {
+                    "itemID": 34334
+                }
+            }
+        }
+    },
+    "Shaman": {
+        "Elemental": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32476
+                },
+                "Neck": {
+                    "itemID": 28245
+                },
+                "Shoulder": {
+                    "itemID": 27473
+                },
+                "Cloak": {
+                    "itemID": 29369
+                },
+                "Chest": {
+                    "itemID": 29519
+                },
+                "Wrist": {
+                    "itemID": 29521
+                },
+                "Gloves": {
+                    "itemID": 27465
+                },
+                "Waist": {
+                    "itemID": 24256
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 28406
+                },
+                "Ring1": {
+                    "itemID": 28227
+                },
+                "Ring2": {
+                    "itemID": 29367
+                },
+                "Trinket1": {
+                    "itemID": 29132
+                },
+                "Trinket2": {
+                    "itemID": 31856
+                },
+                "MainHand": {
+                    "itemID": 24557
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 28248
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 29035
+                },
+                "Neck": {
+                    "itemID": 28762
+                },
+                "Shoulder": {
+                    "itemID": 27473
+                },
+                "Cloak": {
+                    "itemID": 30735
+                },
+                "Chest": {
+                    "itemID": 29519
+                },
+                "Wrist": {
+                    "itemID": 29521
+                },
+                "Gloves": {
+                    "itemID": 30725
+                },
+                "Waist": {
+                    "itemID": 24256
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 28406
+                },
+                "Ring1": {
+                    "itemID": 30667
+                },
+                "Ring2": {
+                    "itemID": 32664
+                },
+                "Trinket1": {
+                    "itemID": 28785
+                },
+                "Trinket2": {
+                    "itemID": 31856
+                },
+                "MainHand": {
+                    "itemID": 30723
+                },
+                "OffHand": {
+                    "itemID": 28412
+                },
+                "Ranged": {
+                    "itemID": 28248
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 29035
+                },
+                "Neck": {
+                    "itemID": 30015
+                },
+                "Shoulder": {
+                    "itemID": 30079
+                },
+                "Cloak": {
+                    "itemID": 30735
+                },
+                "Chest": {
+                    "itemID": 30107
+                },
+                "Wrist": {
+                    "itemID": 29918
+                },
+                "Gloves": {
+                    "itemID": 29987
+                },
+                "Waist": {
+                    "itemID": 30038
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 30037
+                },
+                "Ring1": {
+                    "itemID": 30109
+                },
+                "Ring2": {
+                    "itemID": 30667
+                },
+                "Trinket1": {
+                    "itemID": 28785
+                },
+                "Trinket2": {
+                    "itemID": 31856
+                },
+                "MainHand": {
+                    "itemID": 29988
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 28248
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32525
+                },
+                "Neck": {
+                    "itemID": 32349
+                },
+                "Shoulder": {
+                    "itemID": 30884
+                },
+                "Cloak": {
+                    "itemID": 32331
+                },
+                "Chest": {
+                    "itemID": 32592
+                },
+                "Wrist": {
+                    "itemID": 30870
+                },
+                "Gloves": {
+                    "itemID": 31008
+                },
+                "Waist": {
+                    "itemID": 30888
+                },
+                "Legs": {
+                    "itemID": 30916
+                },
+                "Boots": {
+                    "itemID": 32239
+                },
+                "Ring1": {
+                    "itemID": 32527
+                },
+                "Ring2": {
+                    "itemID": 32247
+                },
+                "Trinket1": {
+                    "itemID": 32483
+                },
+                "Trinket2": {
+                    "itemID": 31856
+                },
+                "MainHand": {
+                    "itemID": 32237
+                },
+                "OffHand": {
+                    "itemID": 30872
+                },
+                "Ranged": {
+                    "itemID": 28248
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34340
+                },
+                "Neck": {
+                    "itemID": 34359
+                },
+                "Shoulder": {
+                    "itemID": 34390
+                },
+                "Cloak": {
+                    "itemID": 34242
+                },
+                "Chest": {
+                    "itemID": 34364
+                },
+                "Wrist": {
+                    "itemID": 34437
+                },
+                "Gloves": {
+                    "itemID": 34350
+                },
+                "Waist": {
+                    "itemID": 34542
+                },
+                "Legs": {
+                    "itemID": 34186
+                },
+                "Boots": {
+                    "itemID": 34566
+                },
+                "Ring1": {
+                    "itemID": 34230
+                },
+                "Ring2": {
+                    "itemID": 32527
+                },
+                "Trinket1": {
+                    "itemID": 33829
+                },
+                "Trinket2": {
+                    "itemID": 31856
+                },
+                "MainHand": {
+                    "itemID": 34336
+                },
+                "OffHand": {
+                    "itemID": 34179
+                },
+                "Ranged": {
+                    "itemID": 28248
+                }
+            }
+        },
+        "Enhancement": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32474
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 27797
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 29515
+                },
+                "Wrist": {
+                    "itemID": 29527
+                },
+                "Gloves": {
+                    "itemID": 25685
+                },
+                "Waist": {
+                    "itemID": 29516
+                },
+                "Legs": {
+                    "itemID": 30538
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 31920
+                },
+                "Ring2": {
+                    "itemID": 30834
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29383
+                },
+                "MainHand": {
+                    "itemID": 28438
+                },
+                "OffHand": {
+                    "itemID": 28308
+                },
+                "Ranged": {
+                    "itemID": 27815
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 28732
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 28755
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 29515
+                },
+                "Wrist": {
+                    "itemID": 25697
+                },
+                "Gloves": {
+                    "itemID": 25685
+                },
+                "Waist": {
+                    "itemID": 29516
+                },
+                "Legs": {
+                    "itemID": 30739
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 30738
+                },
+                "Ring2": {
+                    "itemID": 28757
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 28579
+                },
+                "MainHand": {
+                    "itemID": 28438
+                },
+                "OffHand": {
+                    "itemID": 28308
+                },
+                "Ranged": {
+                    "itemID": 27815
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 28732
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 30055
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 30101
+                },
+                "Wrist": {
+                    "itemID": 29966
+                },
+                "Gloves": {
+                    "itemID": 29947
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 29995
+                },
+                "Boots": {
+                    "itemID": 30104
+                },
+                "Ring1": {
+                    "itemID": 29997
+                },
+                "Ring2": {
+                    "itemID": 30052
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 28579
+                },
+                "MainHand": {
+                    "itemID": 29996
+                },
+                "OffHand": {
+                    "itemID": 29924
+                },
+                "Ranged": {
+                    "itemID": 27815
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32235
+                },
+                "Neck": {
+                    "itemID": 32260
+                },
+                "Shoulder": {
+                    "itemID": 30055
+                },
+                "Cloak": {
+                    "itemID": 32323
+                },
+                "Chest": {
+                    "itemID": 30905
+                },
+                "Wrist": {
+                    "itemID": 32324
+                },
+                "Gloves": {
+                    "itemID": 32347
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 30900
+                },
+                "Boots": {
+                    "itemID": 32366
+                },
+                "Ring1": {
+                    "itemID": 32497
+                },
+                "Ring2": {
+                    "itemID": 29997
+                },
+                "Trinket1": {
+                    "itemID": 28830
+                },
+                "Trinket2": {
+                    "itemID": 32505
+                },
+                "MainHand": {
+                    "itemID": 32269
+                },
+                "OffHand": {
+                    "itemID": 32269
+                },
+                "Ranged": {
+                    "itemID": 27815
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34333
+                },
+                "Neck": {
+                    "itemID": 34358
+                },
+                "Shoulder": {
+                    "itemID": 34392
+                },
+                "Cloak": {
+                    "itemID": 34241
+                },
+                "Chest": {
+                    "itemID": 34397
+                },
+                "Wrist": {
+                    "itemID": 30863
+                },
+                "Gloves": {
+                    "itemID": 34343
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 34188
+                },
+                "Boots": {
+                    "itemID": 32366
+                },
+                "Ring1": {
+                    "itemID": 34189
+                },
+                "Ring2": {
+                    "itemID": 32497
+                },
+                "Trinket1": {
+                    "itemID": 34472
+                },
+                "Trinket2": {
+                    "itemID": 34427
+                },
+                "MainHand": {
+                    "itemID": 34331
+                },
+                "OffHand": {
+                    "itemID": 34346
+                },
+                "Ranged": {
+                    "itemID": 27815
+                }
+            }
+        },
+        "Restoration": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32475
+                },
+                "Neck": {
+                    "itemID": 28233
+                },
+                "Shoulder": {
+                    "itemID": 21874
+                },
+                "Cloak": {
+                    "itemID": 31329
+                },
+                "Chest": {
+                    "itemID": 21875
+                },
+                "Wrist": {
+                    "itemID": 28194
+                },
+                "Gloves": {
+                    "itemID": 28304
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 24261
+                },
+                "Boots": {
+                    "itemID": 27549
+                },
+                "Ring1": {
+                    "itemID": 31923
+                },
+                "Ring2": {
+                    "itemID": 29373
+                },
+                "Trinket1": {
+                    "itemID": 29376
+                },
+                "Trinket2": {
+                    "itemID": 28370
+                },
+                "MainHand": {
+                    "itemID": 32451
+                },
+                "OffHand": {
+                    "itemID": 29274
+                },
+                "Ranged": {
+                    "itemID": 27544
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 29028
+                },
+                "Neck": {
+                    "itemID": 28609
+                },
+                "Shoulder": {
+                    "itemID": 21874
+                },
+                "Cloak": {
+                    "itemID": 31329
+                },
+                "Chest": {
+                    "itemID": 21875
+                },
+                "Wrist": {
+                    "itemID": 28503
+                },
+                "Gloves": {
+                    "itemID": 28520
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 30727
+                },
+                "Boots": {
+                    "itemID": 30737
+                },
+                "Ring1": {
+                    "itemID": 28763
+                },
+                "Ring2": {
+                    "itemID": 28790
+                },
+                "Trinket1": {
+                    "itemID": 28823
+                },
+                "Trinket2": {
+                    "itemID": 28590
+                },
+                "MainHand": {
+                    "itemID": 32451
+                },
+                "OffHand": {
+                    "itemID": 29458
+                },
+                "Ranged": {
+                    "itemID": 28523
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30166
+                },
+                "Neck": {
+                    "itemID": 30018
+                },
+                "Shoulder": {
+                    "itemID": 30168
+                },
+                "Cloak": {
+                    "itemID": 29989
+                },
+                "Chest": {
+                    "itemID": 21875
+                },
+                "Wrist": {
+                    "itemID": 30047
+                },
+                "Gloves": {
+                    "itemID": 29976
+                },
+                "Waist": {
+                    "itemID": 21873
+                },
+                "Legs": {
+                    "itemID": 29991
+                },
+                "Boots": {
+                    "itemID": 30737
+                },
+                "Ring1": {
+                    "itemID": 29920
+                },
+                "Ring2": {
+                    "itemID": 28763
+                },
+                "Trinket1": {
+                    "itemID": 28823
+                },
+                "Trinket2": {
+                    "itemID": 28590
+                },
+                "MainHand": {
+                    "itemID": 30108
+                },
+                "OffHand": {
+                    "itemID": 29458
+                },
+                "Ranged": {
+                    "itemID": 28523
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 31012
+                },
+                "Neck": {
+                    "itemID": 32370
+                },
+                "Shoulder": {
+                    "itemID": 31022
+                },
+                "Cloak": {
+                    "itemID": 32524
+                },
+                "Chest": {
+                    "itemID": 31016
+                },
+                "Wrist": {
+                    "itemID": 30869
+                },
+                "Gloves": {
+                    "itemID": 32328
+                },
+                "Waist": {
+                    "itemID": 30895
+                },
+                "Legs": {
+                    "itemID": 30912
+                },
+                "Boots": {
+                    "itemID": 30737
+                },
+                "Ring1": {
+                    "itemID": 32528
+                },
+                "Ring2": {
+                    "itemID": 32527
+                },
+                "Trinket1": {
+                    "itemID": 32496
+                },
+                "Trinket2": {
+                    "itemID": 28823
+                },
+                "MainHand": {
+                    "itemID": 32500
+                },
+                "OffHand": {
+                    "itemID": 30882
+                },
+                "Ranged": {
+                    "itemID": 28523
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34402
+                },
+                "Neck": {
+                    "itemID": 33281
+                },
+                "Shoulder": {
+                    "itemID": 34202
+                },
+                "Cloak": {
+                    "itemID": 32524
+                },
+                "Chest": {
+                    "itemID": 34375
+                },
+                "Wrist": {
+                    "itemID": 34438
+                },
+                "Gloves": {
+                    "itemID": 34372
+                },
+                "Waist": {
+                    "itemID": 34543
+                },
+                "Legs": {
+                    "itemID": 34383
+                },
+                "Boots": {
+                    "itemID": 34565
+                },
+                "Ring1": {
+                    "itemID": 34363
+                },
+                "Ring2": {
+                    "itemID": 32528
+                },
+                "Trinket1": {
+                    "itemID": 35750
+                },
+                "Trinket2": {
+                    "itemID": 34430
+                },
+                "MainHand": {
+                    "itemID": 34335
+                },
+                "OffHand": {
+                    "itemID": 34206
+                },
+                "Ranged": {
+                    "itemID": 28523
+                }
+            }
+        }
+    },
+    "Warlock": {
+        "All": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 28245
+                },
+                "Shoulder": {
+                    "itemID": 21869
+                },
+                "Cloak": {
+                    "itemID": 31201
+                },
+                "Chest": {
+                    "itemID": 21871
+                },
+                "Wrist": {
+                    "itemID": 24692
+                },
+                "Gloves": {
+                    "itemID": 27493
+                },
+                "Waist": {
+                    "itemID": 24256
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 21870
+                },
+                "Ring1": {
+                    "itemID": 29172
+                },
+                "Ring2": {
+                    "itemID": 28227
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 29370
+                },
+                "MainHand": {
+                    "itemID": 28297
+                },
+                "OffHand": {
+                    "itemID": 29272
+                },
+                "Ranged": {
+                    "itemID": 25295
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 24266
+                },
+                "Neck": {
+                    "itemID": 28134
+                },
+                "Shoulder": {
+                    "itemID": 24554
+                },
+                "Cloak": {
+                    "itemID": 28766
+                },
+                "Chest": {
+                    "itemID": 31297
+                },
+                "Wrist": {
+                    "itemID": 27462
+                },
+                "Gloves": {
+                    "itemID": 30725
+                },
+                "Waist": {
+                    "itemID": 24256
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 21870
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 28227
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 28789
+                },
+                "MainHand": {
+                    "itemID": 30723
+                },
+                "OffHand": {
+                    "itemID": 28734
+                },
+                "Ranged": {
+                    "itemID": 28673
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30212
+                },
+                "Neck": {
+                    "itemID": 30015
+                },
+                "Shoulder": {
+                    "itemID": 30079
+                },
+                "Cloak": {
+                    "itemID": 28766
+                },
+                "Chest": {
+                    "itemID": 30107
+                },
+                "Wrist": {
+                    "itemID": 29918
+                },
+                "Gloves": {
+                    "itemID": 30725
+                },
+                "Waist": {
+                    "itemID": 30038
+                },
+                "Legs": {
+                    "itemID": 24262
+                },
+                "Boots": {
+                    "itemID": 30037
+                },
+                "Ring1": {
+                    "itemID": 28793
+                },
+                "Ring2": {
+                    "itemID": 30109
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 28789
+                },
+                "MainHand": {
+                    "itemID": 29988
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29982
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32525
+                },
+                "Neck": {
+                    "itemID": 30015
+                },
+                "Shoulder": {
+                    "itemID": 30884
+                },
+                "Cloak": {
+                    "itemID": 32524
+                },
+                "Chest": {
+                    "itemID": 30107
+                },
+                "Wrist": {
+                    "itemID": 30870
+                },
+                "Gloves": {
+                    "itemID": 30725
+                },
+                "Waist": {
+                    "itemID": 30888
+                },
+                "Legs": {
+                    "itemID": 30916
+                },
+                "Boots": {
+                    "itemID": 32239
+                },
+                "Ring1": {
+                    "itemID": 32527
+                },
+                "Ring2": {
+                    "itemID": 32528
+                },
+                "Trinket1": {
+                    "itemID": 31856
+                },
+                "Trinket2": {
+                    "itemID": 28789
+                },
+                "MainHand": {
+                    "itemID": 30910
+                },
+                "OffHand": {
+                    "itemID": 30872
+                },
+                "Ranged": {
+                    "itemID": 29982
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34340
+                },
+                "Neck": {
+                    "itemID": 34359
+                },
+                "Shoulder": {
+                    "itemID": 34210
+                },
+                "Cloak": {
+                    "itemID": 34242
+                },
+                "Chest": {
+                    "itemID": 34364
+                },
+                "Wrist": {
+                    "itemID": 34436
+                },
+                "Gloves": {
+                    "itemID": 34344
+                },
+                "Waist": {
+                    "itemID": 34541
+                },
+                "Legs": {
+                    "itemID": 34181
+                },
+                "Boots": {
+                    "itemID": 34564
+                },
+                "Ring1": {
+                    "itemID": 34230
+                },
+                "Ring2": {
+                    "itemID": 32527
+                },
+                "Trinket1": {
+                    "itemID": 32483
+                },
+                "Trinket2": {
+                    "itemID": 33829
+                },
+                "MainHand": {
+                    "itemID": 34336
+                },
+                "OffHand": {
+                    "itemID": 34179
+                },
+                "Ranged": {
+                    "itemID": 34347
+                }
+            }
+        }
+    },
+    "Warrior": {
+        "Fury": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32461
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 33173
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 24544
+                },
+                "Wrist": {
+                    "itemID": 23537
+                },
+                "Gloves": {
+                    "itemID": 29503
+                },
+                "Waist": {
+                    "itemID": 29247
+                },
+                "Legs": {
+                    "itemID": 25687
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 31920
+                },
+                "Ring2": {
+                    "itemID": 28323
+                },
+                "Trinket1": {
+                    "itemID": 29383
+                },
+                "Trinket2": {
+                    "itemID": 28034
+                },
+                "MainHand": {
+                    "itemID": 28295
+                },
+                "OffHand": {
+                    "itemID": 23542
+                },
+                "Ranged": {
+                    "itemID": 29151
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 29021
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 30740
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 30730
+                },
+                "Wrist": {
+                    "itemID": 28795
+                },
+                "Gloves": {
+                    "itemID": 29503
+                },
+                "Waist": {
+                    "itemID": 28779
+                },
+                "Legs": {
+                    "itemID": 25687
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 28757
+                },
+                "Ring2": {
+                    "itemID": 30738
+                },
+                "Trinket1": {
+                    "itemID": 29383
+                },
+                "Trinket2": {
+                    "itemID": 28034
+                },
+                "MainHand": {
+                    "itemID": 28295
+                },
+                "OffHand": {
+                    "itemID": 23542
+                },
+                "Ranged": {
+                    "itemID": 29151
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30120
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 30122
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 30102
+                },
+                "Wrist": {
+                    "itemID": 30057
+                },
+                "Gloves": {
+                    "itemID": 29503
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 29995
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 29997
+                },
+                "Ring2": {
+                    "itemID": 30052
+                },
+                "Trinket1": {
+                    "itemID": 30446
+                },
+                "Trinket2": {
+                    "itemID": 29383
+                },
+                "MainHand": {
+                    "itemID": 29996
+                },
+                "OffHand": {
+                    "itemID": 29924
+                },
+                "Ranged": {
+                    "itemID": 30105
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32235
+                },
+                "Neck": {
+                    "itemID": 32260
+                },
+                "Shoulder": {
+                    "itemID": 30979
+                },
+                "Cloak": {
+                    "itemID": 32323
+                },
+                "Chest": {
+                    "itemID": 30975
+                },
+                "Wrist": {
+                    "itemID": 30863
+                },
+                "Gloves": {
+                    "itemID": 32278
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 32341
+                },
+                "Boots": {
+                    "itemID": 32345
+                },
+                "Ring1": {
+                    "itemID": 32497
+                },
+                "Ring2": {
+                    "itemID": 32335
+                },
+                "Trinket1": {
+                    "itemID": 32505
+                },
+                "Trinket2": {
+                    "itemID": 30446
+                },
+                "MainHand": {
+                    "itemID": 32837
+                },
+                "OffHand": {
+                    "itemID": 32838
+                },
+                "Ranged": {
+                    "itemID": 30105
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34333
+                },
+                "Neck": {
+                    "itemID": 34358
+                },
+                "Shoulder": {
+                    "itemID": 34392
+                },
+                "Cloak": {
+                    "itemID": 34241
+                },
+                "Chest": {
+                    "itemID": 34397
+                },
+                "Wrist": {
+                    "itemID": 34441
+                },
+                "Gloves": {
+                    "itemID": 34343
+                },
+                "Waist": {
+                    "itemID": 34546
+                },
+                "Legs": {
+                    "itemID": 34188
+                },
+                "Boots": {
+                    "itemID": 34569
+                },
+                "Ring1": {
+                    "itemID": 34189
+                },
+                "Ring2": {
+                    "itemID": 34361
+                },
+                "Trinket1": {
+                    "itemID": 34472
+                },
+                "Trinket2": {
+                    "itemID": 34427
+                },
+                "MainHand": {
+                    "itemID": 34331
+                },
+                "OffHand": {
+                    "itemID": 34346
+                },
+                "Ranged": {
+                    "itemID": 34334
+                }
+            }
+        },
+        "Protection": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32473
+                },
+                "Neck": {
+                    "itemID": 29386
+                },
+                "Shoulder": {
+                    "itemID": 27847
+                },
+                "Cloak": {
+                    "itemID": 27804
+                },
+                "Chest": {
+                    "itemID": 28205
+                },
+                "Wrist": {
+                    "itemID": 23538
+                },
+                "Gloves": {
+                    "itemID": 27475
+                },
+                "Waist": {
+                    "itemID": 27672
+                },
+                "Legs": {
+                    "itemID": 29184
+                },
+                "Boots": {
+                    "itemID": 29239
+                },
+                "Ring1": {
+                    "itemID": 31319
+                },
+                "Ring2": {
+                    "itemID": 27822
+                },
+                "Trinket1": {
+                    "itemID": 29387
+                },
+                "Trinket2": {
+                    "itemID": 31858
+                },
+                "MainHand": {
+                    "itemID": 29362
+                },
+                "OffHand": {
+                    "itemID": 28358
+                },
+                "Ranged": {
+                    "itemID": 32756
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 29011
+                },
+                "Neck": {
+                    "itemID": 28516
+                },
+                "Shoulder": {
+                    "itemID": 29016
+                },
+                "Cloak": {
+                    "itemID": 27804
+                },
+                "Chest": {
+                    "itemID": 29012
+                },
+                "Wrist": {
+                    "itemID": 28502
+                },
+                "Gloves": {
+                    "itemID": 28518
+                },
+                "Waist": {
+                    "itemID": 28566
+                },
+                "Legs": {
+                    "itemID": 28621
+                },
+                "Boots": {
+                    "itemID": 28747
+                },
+                "Ring1": {
+                    "itemID": 31319
+                },
+                "Ring2": {
+                    "itemID": 27822
+                },
+                "Trinket1": {
+                    "itemID": 28528
+                },
+                "Trinket2": {
+                    "itemID": 31858
+                },
+                "MainHand": {
+                    "itemID": 28749
+                },
+                "OffHand": {
+                    "itemID": 28825
+                },
+                "Ranged": {
+                    "itemID": 30724
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 29011
+                },
+                "Neck": {
+                    "itemID": 30007
+                },
+                "Shoulder": {
+                    "itemID": 30117
+                },
+                "Cloak": {
+                    "itemID": 29925
+                },
+                "Chest": {
+                    "itemID": 30113
+                },
+                "Wrist": {
+                    "itemID": 32515
+                },
+                "Gloves": {
+                    "itemID": 29998
+                },
+                "Waist": {
+                    "itemID": 30096
+                },
+                "Legs": {
+                    "itemID": 30116
+                },
+                "Boots": {
+                    "itemID": 32267
+                },
+                "Ring1": {
+                    "itemID": 30083
+                },
+                "Ring2": {
+                    "itemID": 31319
+                },
+                "Trinket1": {
+                    "itemID": 28528
+                },
+                "Trinket2": {
+                    "itemID": 30629
+                },
+                "MainHand": {
+                    "itemID": 30058
+                },
+                "OffHand": {
+                    "itemID": 28825
+                },
+                "Ranged": {
+                    "itemID": 30724
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32521
+                },
+                "Neck": {
+                    "itemID": 32362
+                },
+                "Shoulder": {
+                    "itemID": 30980
+                },
+                "Cloak": {
+                    "itemID": 34010
+                },
+                "Chest": {
+                    "itemID": 30976
+                },
+                "Wrist": {
+                    "itemID": 34442
+                },
+                "Gloves": {
+                    "itemID": 32280
+                },
+                "Waist": {
+                    "itemID": 34547
+                },
+                "Legs": {
+                    "itemID": 32263
+                },
+                "Boots": {
+                    "itemID": 32268
+                },
+                "Ring1": {
+                    "itemID": 32261
+                },
+                "Ring2": {
+                    "itemID": 30083
+                },
+                "Trinket1": {
+                    "itemID": 32501
+                },
+                "Trinket2": {
+                    "itemID": 30629
+                },
+                "MainHand": {
+                    "itemID": 33669
+                },
+                "OffHand": {
+                    "itemID": 32375
+                },
+                "Ranged": {
+                    "itemID": 32325
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34400
+                },
+                "Neck": {
+                    "itemID": 34178
+                },
+                "Shoulder": {
+                    "itemID": 34192
+                },
+                "Cloak": {
+                    "itemID": 34190
+                },
+                "Chest": {
+                    "itemID": 34394
+                },
+                "Wrist": {
+                    "itemID": 34442
+                },
+                "Gloves": {
+                    "itemID": 34352
+                },
+                "Waist": {
+                    "itemID": 34547
+                },
+                "Legs": {
+                    "itemID": 34381
+                },
+                "Boots": {
+                    "itemID": 34568
+                },
+                "Ring1": {
+                    "itemID": 34213
+                },
+                "Ring2": {
+                    "itemID": 29296
+                },
+                "Trinket1": {
+                    "itemID": 34473
+                },
+                "Trinket2": {
+                    "itemID": 32501
+                },
+                "MainHand": {
+                    "itemID": 34329
+                },
+                "OffHand": {
+                    "itemID": 34185
+                },
+                "Ranged": {
+                    "itemID": 32325
+                }
+            }
+        },
+        "Arms": {
+            "Pre-Raid": {
+                "Head": {
+                    "itemID": 32461
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 33173
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 24544
+                },
+                "Wrist": {
+                    "itemID": 23537
+                },
+                "Gloves": {
+                    "itemID": 29503
+                },
+                "Waist": {
+                    "itemID": 29247
+                },
+                "Legs": {
+                    "itemID": 25687
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 31920
+                },
+                "Ring2": {
+                    "itemID": 28323
+                },
+                "Trinket1": {
+                    "itemID": 29383
+                },
+                "Trinket2": {
+                    "itemID": 28034
+                },
+                "MainHand": {
+                    "itemID": 28441
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29151
+                }
+            },
+            "P1": {
+                "Head": {
+                    "itemID": 29021
+                },
+                "Neck": {
+                    "itemID": 29381
+                },
+                "Shoulder": {
+                    "itemID": 30740
+                },
+                "Cloak": {
+                    "itemID": 24259
+                },
+                "Chest": {
+                    "itemID": 30730
+                },
+                "Wrist": {
+                    "itemID": 28795
+                },
+                "Gloves": {
+                    "itemID": 29503
+                },
+                "Waist": {
+                    "itemID": 28779
+                },
+                "Legs": {
+                    "itemID": 25687
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 28757
+                },
+                "Ring2": {
+                    "itemID": 30738
+                },
+                "Trinket1": {
+                    "itemID": 29383
+                },
+                "Trinket2": {
+                    "itemID": 28034
+                },
+                "MainHand": {
+                    "itemID": 28441
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 29151
+                }
+            },
+            "P2": {
+                "Head": {
+                    "itemID": 30120
+                },
+                "Neck": {
+                    "itemID": 30017
+                },
+                "Shoulder": {
+                    "itemID": 30122
+                },
+                "Cloak": {
+                    "itemID": 29994
+                },
+                "Chest": {
+                    "itemID": 30102
+                },
+                "Wrist": {
+                    "itemID": 30057
+                },
+                "Gloves": {
+                    "itemID": 29503
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 29995
+                },
+                "Boots": {
+                    "itemID": 25686
+                },
+                "Ring1": {
+                    "itemID": 29997
+                },
+                "Ring2": {
+                    "itemID": 30052
+                },
+                "Trinket1": {
+                    "itemID": 30446
+                },
+                "Trinket2": {
+                    "itemID": 29383
+                },
+                "MainHand": {
+                    "itemID": 29993
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 30105
+                }
+            },
+            "P3": {
+                "Head": {
+                    "itemID": 32235
+                },
+                "Neck": {
+                    "itemID": 32260
+                },
+                "Shoulder": {
+                    "itemID": 30979
+                },
+                "Cloak": {
+                    "itemID": 32323
+                },
+                "Chest": {
+                    "itemID": 30975
+                },
+                "Wrist": {
+                    "itemID": 30863
+                },
+                "Gloves": {
+                    "itemID": 32278
+                },
+                "Waist": {
+                    "itemID": 30106
+                },
+                "Legs": {
+                    "itemID": 32341
+                },
+                "Boots": {
+                    "itemID": 32345
+                },
+                "Ring1": {
+                    "itemID": 32497
+                },
+                "Ring2": {
+                    "itemID": 32335
+                },
+                "Trinket1": {
+                    "itemID": 32505
+                },
+                "Trinket2": {
+                    "itemID": 30446
+                },
+                "MainHand": {
+                    "itemID": 33663
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 30105
+                }
+            },
+            "P4": {
+                "Head": {
+                    "itemID": 34333
+                },
+                "Neck": {
+                    "itemID": 34358
+                },
+                "Shoulder": {
+                    "itemID": 34392
+                },
+                "Cloak": {
+                    "itemID": 34241
+                },
+                "Chest": {
+                    "itemID": 34397
+                },
+                "Wrist": {
+                    "itemID": 34441
+                },
+                "Gloves": {
+                    "itemID": 34343
+                },
+                "Waist": {
+                    "itemID": 34546
+                },
+                "Legs": {
+                    "itemID": 34188
+                },
+                "Boots": {
+                    "itemID": 34569
+                },
+                "Ring1": {
+                    "itemID": 34189
+                },
+                "Ring2": {
+                    "itemID": 32497
+                },
+                "Trinket1": {
+                    "itemID": 34472
+                },
+                "Trinket2": {
+                    "itemID": 34427
+                },
+                "MainHand": {
+                    "itemID": 34247
+                },
+                "OffHand": {
+                    "itemID": 0
+                },
+                "Ranged": {
+                    "itemID": 34334
+                }
+            }
+        }
+    }
+}
