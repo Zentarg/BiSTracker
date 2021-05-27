@@ -33,7 +33,7 @@ function BiSTracker:ToggleMainFrame()
     end
 end
 
-BiSTracker.Version = 4.2
+BiSTracker.Version = 4.3
 
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
@@ -150,7 +150,7 @@ end
 
 
 function BiSTracker:Init()
-    if type(BiS_Settings) ~= "table" or BiS_Settings.CustomSpecsData == nil then
+    if type(BiS_Settings) ~= "table" then
         BiS_Settings = {}
         BiS_Settings.CustomSets = {}
         BiS_Settings.Version = BiSTracker.Version

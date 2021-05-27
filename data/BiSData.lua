@@ -26,7 +26,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Stormwind City"
         }
       },
       Shoulder = {
@@ -194,7 +194,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Trinket = {
@@ -236,7 +236,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       SecondaryHand = {
@@ -294,7 +294,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Stormwind City"
         }
       },
       Shoulder = {
@@ -504,7 +504,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       SecondaryHand = {
@@ -1366,7 +1366,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -1394,7 +1394,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Chest = {
@@ -1548,7 +1548,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -1604,7 +1604,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     },
@@ -1718,7 +1718,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Blade's Edge Mountains"
         }
       },
       Hands = {
@@ -1872,7 +1872,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     },
@@ -2140,7 +2140,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     },
@@ -2408,7 +2408,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     },
@@ -2676,7 +2676,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     },
@@ -2874,7 +2874,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Hellfire Peninsula"
         }
       },
       Trinket = {
@@ -2888,7 +2888,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -2930,7 +2930,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Relic = {
@@ -3058,7 +3058,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Tanaris"
         }
       },
       Hands = {
@@ -3198,7 +3198,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Relic = {
@@ -4048,7 +4048,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -4244,7 +4244,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -4316,7 +4316,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -4414,7 +4414,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Waist = {
@@ -4526,7 +4526,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Netherstorm"
         }
       },
       SecondaryHand = {
@@ -4682,7 +4682,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Waist = {
@@ -5388,7 +5388,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -5584,7 +5584,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -5656,7 +5656,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -5754,7 +5754,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Waist = {
@@ -5866,7 +5866,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Netherstorm"
         }
       },
       SecondaryHand = {
@@ -6022,7 +6022,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Waist = {
@@ -6730,7 +6730,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Stormwind City"
         }
       },
       Shoulder = {
@@ -6954,7 +6954,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -8077,7 +8077,7 @@ BiSData = {
         ID = 25854,
         Obtain = {
           NpcID = 0,
-          NpcName = "",
+          NpcName = "Unknown acquisition method",
           Kill = false,
           Quest = false,
           QuestID = 0,
@@ -8238,7 +8238,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Trinket = {
@@ -8266,7 +8266,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -8294,7 +8294,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -8345,7 +8345,7 @@ BiSData = {
         ID = 25854,
         Obtain = {
           NpcID = 0,
-          NpcName = "",
+          NpcName = "Unknown acquisition method",
           Kill = false,
           Quest = false,
           QuestID = 0,
@@ -8506,7 +8506,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Trinket = {
@@ -8534,7 +8534,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -8562,7 +8562,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -8774,7 +8774,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Trinket = {
@@ -8802,7 +8802,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -9070,7 +9070,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -9578,7 +9578,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Trinket = {
@@ -9606,7 +9606,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -9634,7 +9634,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -9846,7 +9846,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Trinket = {
@@ -9874,7 +9874,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -9902,7 +9902,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -10142,7 +10142,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -10410,7 +10410,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -10752,7 +10752,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -10766,7 +10766,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Back = {
@@ -10920,7 +10920,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Trinket = {
@@ -10934,7 +10934,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -10976,7 +10976,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Relic = {
@@ -11034,7 +11034,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Back = {
@@ -11188,7 +11188,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Trinket = {
@@ -12092,7 +12092,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -12260,7 +12260,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Trinket = {
@@ -12288,7 +12288,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -12360,7 +12360,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -12556,7 +12556,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -12824,7 +12824,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -13092,7 +13092,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -13432,7 +13432,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -13446,7 +13446,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Back = {
@@ -13558,7 +13558,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Tanaris"
         }
       },
       Feet = {
@@ -13614,7 +13614,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -13656,7 +13656,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -13670,7 +13670,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     },
@@ -13938,7 +13938,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     },
@@ -14206,7 +14206,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     },
@@ -14474,7 +14474,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     },
@@ -14742,7 +14742,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       }
     }
@@ -14928,7 +14928,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RFinger = {
@@ -14956,7 +14956,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -14998,7 +14998,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Relic = {
@@ -15028,7 +15028,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Neck = {
@@ -15266,7 +15266,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Relic = {
@@ -16114,7 +16114,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Stormwind City"
         }
       },
       Shoulder = {
@@ -16268,7 +16268,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Terokkar Forest"
         }
       },
       RFinger = {
@@ -16282,7 +16282,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Trinket = {
@@ -16310,7 +16310,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -16338,7 +16338,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -16550,7 +16550,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       Trinket = {
@@ -16578,7 +16578,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -16606,7 +16606,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -16846,7 +16846,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -16874,7 +16874,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -17142,7 +17142,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -17456,7 +17456,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -17638,7 +17638,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -17694,7 +17694,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Hellfire Peninsula"
         }
       }
     },
@@ -17724,7 +17724,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -17808,7 +17808,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Blade's Edge Mountains"
         }
       },
       Hands = {
@@ -17962,7 +17962,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Hellfire Peninsula"
         }
       }
     },
@@ -18798,7 +18798,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Stormwind City"
         }
       },
       Shoulder = {
@@ -18826,7 +18826,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Chest = {
@@ -18966,7 +18966,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Trinket = {
@@ -18980,7 +18980,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -20138,7 +20138,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -20306,7 +20306,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Trinket = {
@@ -20334,7 +20334,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -20406,7 +20406,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -21646,7 +21646,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Trinket = {
@@ -21660,7 +21660,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -21702,7 +21702,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -22820,7 +22820,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Stormwind City"
         }
       },
       Shoulder = {
@@ -22974,7 +22974,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Zangarmarsh"
         }
       },
       RFinger = {
@@ -23016,7 +23016,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -23044,7 +23044,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Relic = {
@@ -23102,7 +23102,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Back = {
@@ -24162,7 +24162,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -24344,7 +24344,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -24400,7 +24400,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Hellfire Peninsula"
         }
       }
     },
@@ -24430,7 +24430,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -24612,7 +24612,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -24668,7 +24668,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Hellfire Peninsula"
         }
       }
     },
@@ -24894,7 +24894,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {
@@ -25502,7 +25502,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -25628,7 +25628,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Tanaris"
         }
       },
       Feet = {
@@ -25684,7 +25684,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -26842,7 +26842,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -27024,7 +27024,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -27080,7 +27080,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Hellfire Peninsula"
         }
       }
     },
@@ -27110,7 +27110,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       Shoulder = {
@@ -27292,7 +27292,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       RTrinket = {
@@ -27348,7 +27348,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Hellfire Peninsula"
         }
       }
     },
@@ -27574,7 +27574,7 @@ BiSData = {
           Recipe = false,
           RecipeID = 0,
           DropChance = "100",
-          Zone = "Unknown"
+          Zone = "Shattrath City"
         }
       },
       MainHand = {

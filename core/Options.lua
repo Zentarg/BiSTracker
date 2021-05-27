@@ -53,7 +53,6 @@ local function DrawGeneralTab(container)
     end)
 
     container:AddChild(mb)
-
 end
 
 local function DrawMainFrameTab(container)
@@ -63,6 +62,12 @@ local function DrawMainFrameTab(container)
         BiSTracker.db.profile.mainframe.connectedToCharacterFrame = value
     end)
     mf:SetFullWidth(true)
+
+    --Compact UI
+    local compact = CreateCheckbox("Use Compact View", "*Requires Reload", nil, BiSTracker.db.profile.mainframe.compact, "checkbox", false)
+    compact:SetCallback("OnValueChanged", function(self, event, value)
+        BiSTracker.db.profile.mainframe.compact = value;
+    end)
 
     --MainFrame Toggle Button X value (CharacterFrame)
     local mftx = CreateSlider("CharacterFrame toggle button X Pos", BiSTracker.db.profile.mainframe.mainframeToggleButtonXPosition, -290, -30, 5, false, not BiSTracker.db.profile.mainframe.connectedToCharacterFrame)
@@ -90,6 +95,7 @@ local function DrawMainFrameTab(container)
     end)
 
     container:AddChild(mf)
+    container:AddChild(compact)
     container:AddChild(mftx)
     container:AddChild(mfty)
     container:AddChild(reloadBtn)
@@ -107,12 +113,10 @@ end
 
 function BiSTracker:InitOptions()
     BiSTracker.Options.GUI = BiSTracker.AceGUI:Create("Window")
-    BiSTracker.Options.GUI:EnableResize(true)
+    BiSTracker.Options.GUI:EnableResize(false)
     BiSTracker.Options.GUI:SetTitle("BiSTracker Options")
-    BiSTracker.Options.GUI:SetHeight(280)
+    BiSTracker.Options.GUI:SetHeight(320)
     BiSTracker.Options.GUI:SetWidth(300)
-    BiSTracker.Options.GUI.frame:SetMinResize(300, 280)
-    BiSTracker.Options.GUI.frame:SetMaxResize(500, 350)
     BiSTracker.Options.GUI:SetFullHeight(true)
     
     BiSTracker.Options.GUI.Tabs = BiSTracker.AceGUI:Create("TabGroup")
