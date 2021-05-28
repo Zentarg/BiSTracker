@@ -1,0 +1,1776 @@
+{
+    "29203": {
+        "name_enus": "Enchanted Thorium Blades",
+        "quality": 2,
+        "icon": "inv_weapon_shortblade_26",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 6,
+            "appearances": {
+                "0": [40411, ""]
+            },
+            "displayid": 40411,
+            "dmgmax1": 92,
+            "dmgmin1": 49,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 32.05,
+            "dura": 200,
+            "mleatkpwr": 10,
+            "reqlevel": 55,
+            "rgdatkpwr": 10,
+            "sellprice": 10000,
+            "slotbak": 25,
+            "speed": 2.2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28826": {
+        "name_enus": "Shuriken of Negation",
+        "quality": 4,
+        "icon": "inv_misc_ahnqirajtrinket_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43543, ""]
+            },
+            "displayid": 43543,
+            "dmgmax1": 120,
+            "dmgmin1": 79,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 82.92,
+            "dura": 285,
+            "mleatkpwr": 42,
+            "reqlevel": 70,
+            "rgdatkpwr": 42,
+            "sellprice": 36689,
+            "slotbak": 25,
+            "speed": 1.2,
+            "sta": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29584": {
+        "name_enus": "Throat Piercers",
+        "quality": 2,
+        "icon": "inv_throwingknife_03",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 2,
+            "appearances": {
+                "0": [16753, "inv_weapon_shortblade_14"]
+            },
+            "avgbuyout": 1500,
+            "buyprice": 600,
+            "displayid": 16753,
+            "dmgmax1": 19,
+            "dmgmin1": 12,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 8.61,
+            "dura": 200,
+            "reqlevel": 14,
+            "sellprice": 150,
+            "slotbak": 25,
+            "speed": 1.8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28659": {
+        "name_enus": "Xavian Stiletto",
+        "quality": 4,
+        "icon": "inv_weapon_shortblade_35",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [45738, ""]
+            },
+            "displayid": 45738,
+            "dmgmax1": 133,
+            "dmgmin1": 88,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 78.93,
+            "dura": 285,
+            "mlecritstrkrtng": 20,
+            "mlehitrtng": 12,
+            "reqlevel": 70,
+            "rgdcritstrkrtng": 20,
+            "rgdhitrtng": 12,
+            "sellprice": 36689,
+            "slotbak": 25,
+            "speed": 1.4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29204": {
+        "name_enus": "Felsteel Whisper Knives",
+        "quality": 3,
+        "icon": "inv_weapon_shortblade_26",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40412, ""]
+            },
+            "displayid": 40412,
+            "dmgmax1": 135,
+            "dmgmin1": 134,
+            "dmgtype1": 0,
+            "dps": 61.14,
+            "dura": 240,
+            "mleatkpwr": 20,
+            "mlecritstrkrtng": 10,
+            "mlehitrtng": 10,
+            "reqlevel": 70,
+            "rgdatkpwr": 20,
+            "rgdcritstrkrtng": 10,
+            "rgdhitrtng": 10,
+            "sellprice": 20000,
+            "slotbak": 25,
+            "speed": 2.2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34622": {
+        "name_enus": "Spinesever",
+        "quality": 4,
+        "icon": "inv_weapon_shortblade_24",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 11,
+            "appearances": {
+                "0": [47933, ""]
+            },
+            "displayid": 47933,
+            "dmgmax1": 193,
+            "dmgmin1": 128,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 72.95,
+            "dura": 285,
+            "mleatkpwr": 20,
+            "mlehitrtng": 10,
+            "reqlevel": 70,
+            "rgdatkpwr": 20,
+            "rgdhitrtng": 10,
+            "sellprice": 20000,
+            "slotbak": 25,
+            "speed": 2.2,
+            "sta": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27916": {
+        "name_enus": "Sethekk Feather-Darts",
+        "quality": 3,
+        "icon": "inv_throwingknife_06",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 15,
+            "appearances": {
+                "0": [38370, ""]
+            },
+            "displayid": 38370,
+            "dmgmax1": 120,
+            "dmgmin1": 80,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 62.5,
+            "dura": 240,
+            "mleatkpwr": 22,
+            "reqlevel": 68,
+            "rgdatkpwr": 22,
+            "sellprice": 43988,
+            "slotbak": 25,
+            "speed": 1.6
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28972": {
+        "name_enus": "Flightblade Throwing Axe",
+        "quality": 3,
+        "icon": "inv_throwingaxe_06",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 6,
+            "appearances": {
+                "0": [23723, ""]
+            },
+            "displayid": 23723,
+            "dmgmax1": 102,
+            "dmgmin1": 54,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 35.45,
+            "dura": 240,
+            "mleatkpwr": 12,
+            "reqlevel": 55,
+            "rgdatkpwr": 12,
+            "sellprice": 2350,
+            "slotbak": 25,
+            "speed": 2.2,
+            "sta": 5
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30227": {
+        "name_enus": "Mark V's Throwing Star",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 7,
+            "appearances": {
+                "0": [39999, ""]
+            },
+            "displayid": 39999,
+            "dmgmax1": 115,
+            "dmgmin1": 61,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 51.76,
+            "dura": 200,
+            "mleatkpwr": 14,
+            "mlehitrtng": 7,
+            "rgdatkpwr": 14,
+            "rgdhitrtng": 7,
+            "sellprice": 34629,
+            "slotbak": 25,
+            "speed": 1.7,
+            "sta": 10
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28319": {
+        "name_enus": "Gladiator's War Edge",
+        "quality": 4,
+        "icon": "inv_axe_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20782, ""]
+            },
+            "displayid": 20782,
+            "dmgmax1": 172,
+            "dmgmin1": 140,
+            "dmgrange": 0.2,
+            "dmgtype1": 0,
+            "dps": 82.11,
+            "dura": 285,
+            "mleatkpwr": 24,
+            "mlecritstrkrtng": 11,
+            "reqlevel": 70,
+            "resirtng": 12,
+            "rgdatkpwr": 24,
+            "rgdcritstrkrtng": 11,
+            "slotbak": 25,
+            "speed": 1.9,
+            "sta": 15
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29211": {
+        "name_enus": "Fitz's Throwing Axe",
+        "quality": 3,
+        "icon": "inv_throwingaxe_06",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 12,
+            "appearances": {
+                "0": [23723, ""]
+            },
+            "displayid": 23723,
+            "dmgmax1": 149,
+            "dmgmin1": 99,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 56.36,
+            "dura": 240,
+            "mlehitrtng": 12,
+            "rgdhitrtng": 12,
+            "sellprice": 9954,
+            "slotbak": 25,
+            "speed": 2.2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29201": {
+        "name_enus": "Thick Bronze Darts",
+        "quality": 2,
+        "icon": "inv_spear_05",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40409, ""]
+            },
+            "avgbuyout": 7500,
+            "displayid": 40409,
+            "dmgmax1": 24,
+            "dmgmin1": 16,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 9.09,
+            "dura": 200,
+            "reqlevel": 15,
+            "sellprice": 150,
+            "slotbak": 25,
+            "speed": 2.2,
+            "str": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30025": {
+        "name_enus": "Serpentshrine Shuriken",
+        "quality": 4,
+        "icon": "inv_throwingknife_06",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [38370, ""]
+            },
+            "displayid": 38370,
+            "dmgmax1": 146,
+            "dmgmin1": 97,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 86.79,
+            "dura": 285,
+            "mlecritstrkrtng": 20,
+            "mlehitrtng": 12,
+            "reqlevel": 70,
+            "rgdcritstrkrtng": 20,
+            "rgdhitrtng": 12,
+            "sellprice": 36368,
+            "slotbak": 25,
+            "speed": 1.4,
+            "sta": 14
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29210": {
+        "name_enus": "Assassin's Throwing Axe",
+        "quality": 3,
+        "icon": "inv_throwingaxe_06",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 11,
+            "appearances": {
+                "0": [26358, ""]
+            },
+            "displayid": 26358,
+            "dmgmax1": 112,
+            "dmgmin1": 112,
+            "dmgtype1": 0,
+            "dps": 37.33,
+            "dura": 240,
+            "reqlevel": 58,
+            "sellprice": 25914,
+            "slotbak": 25,
+            "speed": 3
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32326": {
+        "name_enus": "Twisted Blades of Zarak",
+        "quality": 4,
+        "icon": "inv_throwingknife_04",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 23,
+            "appearances": {
+                "0": [45738, "inv_weapon_shortblade_35"]
+            },
+            "displayid": 45738,
+            "dmgmax1": 152,
+            "dmgmin1": 101,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 90.36,
+            "dura": 285,
+            "mlecritstrkrtng": 16,
+            "reqlevel": 70,
+            "rgdcritstrkrtng": 16,
+            "sellprice": 36368,
+            "slotbak": 25,
+            "speed": 1.4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32378": {
+        "name_enus": "Silver Star",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20772, ""]
+            },
+            "displayid": 20772,
+            "dmgmax1": 53,
+            "dmgmin1": 28,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 17.61,
+            "dura": 200,
+            "sellprice": 9,
+            "slotbak": 25,
+            "speed": 2.3
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34349": {
+        "name_enus": "Blade of Life's Inevitability",
+        "quality": 4,
+        "icon": "inv_throwingknife_07",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [48035, ""]
+            },
+            "displayid": 48035,
+            "dmgmax1": 233,
+            "dmgmin1": 155,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 97,
+            "dura": 285,
+            "mleatkpwr": 36,
+            "mlehastertng": 16,
+            "nsockets": 1,
+            "reqlevel": 70,
+            "rgdatkpwr": 36,
+            "rgdhastertng": 16,
+            "sellprice": 36368,
+            "slotbak": 25,
+            "socket1": 3,
+            "socketbonus": 3114,
+            "speed": 2,
+            "sta": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25873": {
+        "name_enus": "Keen Throwing Knife",
+        "quality": 1,
+        "icon": "inv_throwingknife_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20779, ""]
+            },
+            "buyprice": 75,
+            "displayid": 20779,
+            "dmgmax1": 16,
+            "dmgmin1": 8,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 6.32,
+            "dura": 200,
+            "reqlevel": 11,
+            "sellprice": 18,
+            "slotbak": 25,
+            "speed": 1.9
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27928": {
+        "name_enus": "Terminal Edge",
+        "quality": 3,
+        "icon": "inv_axe_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20782, ""]
+            },
+            "displayid": 20782,
+            "dmgmax1": 96,
+            "dmgmin1": 63,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 49.69,
+            "dura": 240,
+            "mleatkpwr": 16,
+            "mlecritstrkrtng": 12,
+            "reqlevel": 62,
+            "rgdatkpwr": 16,
+            "rgdcritstrkrtng": 12,
+            "slotbak": 25,
+            "speed": 1.6,
+            "sta": 7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25871": {
+        "name_enus": "Standard Thrown Weapon",
+        "quality": 3,
+        "icon": "inv_throwingknife_05",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [37935, ""]
+            },
+            "displayid": 37935,
+            "dmgmax1": 119,
+            "dmgmin1": 64,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 45.75,
+            "dura": 240,
+            "sheathtype": 7,
+            "slotbak": 25,
+            "speed": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32832": {
+        "name_enus": "Scout's Throwing Knives",
+        "quality": 3,
+        "icon": "inv_throwingknife_02",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [45474, ""]
+            },
+            "displayid": 45474,
+            "dmgmax1": 160,
+            "dmgmin1": 106,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 60.45,
+            "dura": 240,
+            "mlecritstrkrtng": 13,
+            "rgdcritstrkrtng": 13,
+            "sellprice": 9954,
+            "slotbak": 25,
+            "speed": 2.2,
+            "sta": 18
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35108": {
+        "name_enus": "Brutal Gladiator's War Edge",
+        "quality": 4,
+        "icon": "inv_axe_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20782, ""]
+            },
+            "displayid": 20782,
+            "dmgmax1": 222,
+            "dmgmin1": 147,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 97.11,
+            "dura": 285,
+            "mleatkpwr": 34,
+            "mlecritstrkrtng": 18,
+            "reqlevel": 70,
+            "resirtng": 12,
+            "rgdatkpwr": 34,
+            "rgdcritstrkrtng": 18,
+            "slotbak": 25,
+            "speed": 1.9,
+            "sta": 27
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25877": {
+        "name_enus": "Master's Throwing Dagger",
+        "quality": 1,
+        "icon": "inv_throwingknife_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [26361, ""]
+            },
+            "displayid": 26361,
+            "dmgmax1": 95,
+            "dmgmin1": 51,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 33.18,
+            "dura": 200,
+            "reqlevel": 60,
+            "sellprice": 625,
+            "slotbak": 25,
+            "speed": 2.2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25878": {
+        "name_enus": "Dusksteel Throwing Knife",
+        "quality": 2,
+        "icon": "inv_throwingknife_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20773, ""]
+            },
+            "displayid": 20773,
+            "dmgmax1": 65,
+            "dmgmin1": 35,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 27.78,
+            "dura": 200,
+            "maxcount": 1,
+            "sellprice": 13253,
+            "slotbak": 25,
+            "speed": 1.8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32054": {
+        "name_enus": "Merciless Gladiator's War Edge",
+        "quality": 4,
+        "icon": "inv_axe_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20782, ""]
+            },
+            "displayid": 20782,
+            "dmgmax1": 137,
+            "dmgmin1": 91,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 87.69,
+            "dura": 285,
+            "mleatkpwr": 28,
+            "mlecritstrkrtng": 16,
+            "reqlevel": 70,
+            "resirtng": 12,
+            "rgdatkpwr": 28,
+            "rgdcritstrkrtng": 16,
+            "slotbak": 25,
+            "speed": 1.3,
+            "sta": 21
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30568": {
+        "name_enus": "The Sharp Cookie",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40002, ""]
+            },
+            "displayid": 40002,
+            "dmgmax1": 95,
+            "dmgmin1": 51,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 52.14,
+            "dura": 200,
+            "maxcount": 1,
+            "mleatkpwr": 22,
+            "mlecritstrkrtng": 10,
+            "reqlevel": 66,
+            "rgdatkpwr": 22,
+            "rgdcritstrkrtng": 10,
+            "sellprice": 5535,
+            "slotbak": 25,
+            "speed": 1.4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27929": {
+        "name_enus": "Terminal Edge",
+        "quality": 3,
+        "icon": "inv_axe_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20782, ""]
+            },
+            "displayid": 20782,
+            "dmgmax1": 96,
+            "dmgmin1": 63,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 49.69,
+            "dura": 240,
+            "mleatkpwr": 16,
+            "mlecritstrkrtng": 12,
+            "reqlevel": 62,
+            "rgdatkpwr": 16,
+            "rgdcritstrkrtng": 12,
+            "slotbak": 25,
+            "speed": 1.6,
+            "sta": 7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186069": {
+        "name_enus": "Communal Knives",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40002, ""]
+            },
+            "displayid": 40002,
+            "dmgmax1": 95,
+            "dmgmin1": 51,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 40.56,
+            "dura": 200,
+            "mleatkpwr": 10,
+            "reqlevel": 58,
+            "rgdatkpwr": 22,
+            "sellprice": 1,
+            "slotbak": 25,
+            "speed": 1.8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25875": {
+        "name_enus": "Deadly Throwing Axe",
+        "quality": 1,
+        "icon": "inv_throwingaxe_05",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20783, ""]
+            },
+            "buyprice": 200,
+            "displayid": 20783,
+            "dmgmax1": 30,
+            "dmgmin1": 16,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 11.5,
+            "dura": 200,
+            "reqlevel": 22,
+            "sellprice": 50,
+            "slotbak": 25,
+            "speed": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28533": {
+        "name_enus": "Wooden Boomerang",
+        "quality": 2,
+        "icon": "inv_weapon_shortblade_10",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [41459, ""]
+            },
+            "displayid": 41459,
+            "dmgmax1": 93,
+            "dmgmin1": 50,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 42.06,
+            "dura": 200,
+            "reqlevel": 59,
+            "sellprice": 28546,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28979": {
+        "name_enus": "Light Throwing Knife",
+        "quality": 1,
+        "icon": "inv_weapon_shortblade_20",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [16754, ""]
+            },
+            "buyprice": 15,
+            "displayid": 16754,
+            "dmgmax1": 2,
+            "dmgmin1": 1,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 0.94,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 3,
+            "slotbak": 25,
+            "speed": 1.6
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28544": {
+        "name_enus": "Assassin's Shuriken",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40005, ""]
+            },
+            "displayid": 40005,
+            "dmgmax1": 130,
+            "dmgmin1": 69,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 58.53,
+            "dura": 200,
+            "reqlevel": 70,
+            "sellprice": 38105,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29010": {
+        "name_enus": "Wicked Throwing Dagger",
+        "quality": 1,
+        "icon": "inv_weapon_shortblade_15",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40193, ""]
+            },
+            "buyprice": 800,
+            "displayid": 40193,
+            "dmgmax1": 43,
+            "dmgmin1": 23,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 18.33,
+            "dura": 200,
+            "reqlevel": 35,
+            "sellprice": 200,
+            "slotbak": 25,
+            "speed": 1.8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33765": {
+        "name_enus": "Vengeful Gladiator's War Edge",
+        "quality": 4,
+        "icon": "inv_axe_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20782, ""]
+            },
+            "displayid": 20782,
+            "dmgmax1": 212,
+            "dmgmin1": 141,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 92.89,
+            "dura": 285,
+            "mleatkpwr": 30,
+            "mlecritstrkrtng": 17,
+            "reqlevel": 70,
+            "resirtng": 12,
+            "rgdatkpwr": 30,
+            "rgdcritstrkrtng": 17,
+            "slotbak": 25,
+            "speed": 1.9,
+            "sta": 24
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28258": {
+        "name_enus": "Nethershrike",
+        "quality": 3,
+        "icon": "inv_misc_coin_10",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43111, ""]
+            },
+            "displayid": 43111,
+            "dmgmax1": 124,
+            "dmgmin1": 82,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 64.38,
+            "dura": 240,
+            "mlecritstrkrtng": 16,
+            "reqlevel": 70,
+            "rgdcritstrkrtng": 16,
+            "sellprice": 43988,
+            "slotbak": 25,
+            "speed": 1.6,
+            "sta": 15
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29202": {
+        "name_enus": "Whirling Steel Axes",
+        "quality": 2,
+        "icon": "inv_axe_05",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40191, "inv_axe_01"]
+            },
+            "displayid": 40191,
+            "dmgmax1": 57,
+            "dmgmin1": 30,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 19.77,
+            "dura": 200,
+            "reqlevel": 35,
+            "sellprice": 600,
+            "slotbak": 25,
+            "speed": 2.2,
+            "sta": 3,
+            "str": 4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28541": {
+        "name_enus": "Sawshrike",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40002, ""]
+            },
+            "displayid": 40002,
+            "dmgmax1": 119,
+            "dmgmin1": 64,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 53.82,
+            "dura": 200,
+            "reqlevel": 67,
+            "sellprice": 35498,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25872": {
+        "name_enus": "Balanced Throwing Dagger",
+        "quality": 1,
+        "icon": "inv_weapon_shortblade_05",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [16752, ""]
+            },
+            "buyprice": 30,
+            "displayid": 16752,
+            "dmgmax1": 7,
+            "dmgmin1": 3,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 2.94,
+            "dura": 200,
+            "reqlevel": 3,
+            "sellprice": 7,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28543": {
+        "name_enus": "Dreghood Throwing Axe",
+        "quality": 2,
+        "icon": "inv_axe_11",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [16758, ""]
+            },
+            "displayid": 16758,
+            "dmgmax1": 127,
+            "dmgmin1": 68,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 57.35,
+            "dura": 200,
+            "reqlevel": 69,
+            "sellprice": 37236,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28540": {
+        "name_enus": "Arakkoa Talon-Axe",
+        "quality": 2,
+        "icon": "inv_axe_09",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [26358, "inv_throwingaxe_06"]
+            },
+            "displayid": 26358,
+            "dmgmax1": 115,
+            "dmgmin1": 61,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 51.76,
+            "dura": 200,
+            "reqlevel": 66,
+            "sellprice": 34629,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28537": {
+        "name_enus": "Wildhammer Throwing Axe",
+        "quality": 2,
+        "icon": "inv_axe_19",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [39998, ""]
+            },
+            "displayid": 39998,
+            "dmgmax1": 103,
+            "dmgmin1": 55,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 46.47,
+            "dura": 200,
+            "reqlevel": 63,
+            "sellprice": 32023,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28534": {
+        "name_enus": "Fel Tipped Dart",
+        "quality": 2,
+        "icon": "inv_weapon_shortblade_15",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [26361, "inv_throwingknife_03"]
+            },
+            "displayid": 26361,
+            "dmgmax1": 95,
+            "dmgmin1": 51,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 42.94,
+            "dura": 200,
+            "reqlevel": 60,
+            "sellprice": 29415,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25876": {
+        "name_enus": "Gleaming Throwing Axe",
+        "quality": 1,
+        "icon": "inv_throwingaxe_06",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [26358, ""]
+            },
+            "buyprice": 800,
+            "displayid": 26358,
+            "dmgmax1": 43,
+            "dmgmin1": 23,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 18.33,
+            "dura": 200,
+            "reqlevel": 35,
+            "sellprice": 200,
+            "slotbak": 25,
+            "speed": 1.8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25874": {
+        "name_enus": "Large Throwing Knife",
+        "quality": 1,
+        "icon": "inv_throwingknife_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [39740, ""]
+            },
+            "displayid": 39740,
+            "dmgmax1": 32,
+            "dmgmin1": 17,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 8.17,
+            "dura": 200,
+            "reqlevel": 15,
+            "slotbak": 25,
+            "speed": 3
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "5856": {
+        "name_enus": "Monster - Throwing Axe",
+        "quality": 0,
+        "icon": "inv_axe_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [16751, ""]
+            },
+            "displayid": 16751,
+            "dmgmax1": 1,
+            "dmgmin1": 1,
+            "dmgtype1": 4,
+            "dps": 0.5,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 3,
+            "slotbak": 25,
+            "speed": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "5870": {
+        "name_enus": "Monster - Throwing Spear",
+        "quality": 0,
+        "icon": "inv_spear_05",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [22671, ""]
+            },
+            "displayid": 22671,
+            "dmgmax1": 1,
+            "dmgmin1": 1,
+            "dmgtype1": 4,
+            "dps": 0.5,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 3,
+            "slotbak": 25,
+            "speed": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "6088": {
+        "name_enus": "Monster - Torch, Ranged",
+        "quality": 0,
+        "icon": "inv_sword_09",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [19805, ""]
+            },
+            "displayid": 19805,
+            "dmgmax1": 1,
+            "dmgmin1": 1,
+            "dmgtype1": 0,
+            "dps": 0.5,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 2,
+            "sheathtype": 7,
+            "slotbak": 25,
+            "speed": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "6886": {
+        "name_enus": "Monster - Throwing Knife",
+        "quality": 0,
+        "icon": "inv_weapon_shortblade_05",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [16752, ""]
+            },
+            "displayid": 16752,
+            "dmgmax1": 1,
+            "dmgmin1": 1,
+            "dmgtype1": 4,
+            "dps": 0.5,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 18,
+            "slotbak": 25,
+            "speed": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34783": {
+        "name_enus": "Nightstrike",
+        "quality": 3,
+        "icon": "inv_weapon_shortblade_14",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40003, "inv_weapon_shortblade_18"]
+            },
+            "displayid": 40003,
+            "dmgmax1": 171,
+            "dmgmin1": 113,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 64.55,
+            "dura": 240,
+            "exprtng": 10,
+            "mlehitrtng": 10,
+            "reqlevel": 70,
+            "rgdhitrtng": 10,
+            "sellprice": 43988,
+            "slotbak": 25,
+            "speed": 2.2,
+            "sta": 16
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28542": {
+        "name_enus": "Heartseeker Knives",
+        "quality": 2,
+        "icon": "inv_weapon_shortblade_18",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40003, ""]
+            },
+            "displayid": 40003,
+            "dmgmax1": 123,
+            "dmgmin1": 66,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 55.59,
+            "dura": 200,
+            "reqlevel": 68,
+            "sellprice": 36368,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30599": {
+        "name_enus": "Avenging Blades",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40002, ""]
+            },
+            "displayid": 40002,
+            "dmgmax1": 95,
+            "dmgmin1": 51,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 52.14,
+            "dura": 200,
+            "maxcount": 1,
+            "mleatkpwr": 22,
+            "mlecritstrkrtng": 10,
+            "reqlevel": 66,
+            "rgdatkpwr": 22,
+            "rgdcritstrkrtng": 10,
+            "sellprice": 5535,
+            "slotbak": 25,
+            "speed": 1.4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28538": {
+        "name_enus": "Forked Shuriken",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [39999, ""]
+            },
+            "displayid": 39999,
+            "dmgmax1": 107,
+            "dmgmin1": 57,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 48.24,
+            "dura": 200,
+            "reqlevel": 64,
+            "sellprice": 32891,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28536": {
+        "name_enus": "Jagged Guillotine",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [39997, ""]
+            },
+            "displayid": 39997,
+            "dmgmax1": 99,
+            "dmgmin1": 53,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 44.71,
+            "dura": 200,
+            "reqlevel": 62,
+            "sellprice": 31154,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28535": {
+        "name_enus": "Amani Throwing Axe",
+        "quality": 2,
+        "icon": "inv_axe_19",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20782, "inv_axe_03"]
+            },
+            "displayid": 20782,
+            "dmgmax1": 97,
+            "dmgmin1": 52,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 43.82,
+            "dura": 200,
+            "reqlevel": 61,
+            "sellprice": 30284,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28532": {
+        "name_enus": "Silver Throwing Knifes",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [39992, ""]
+            },
+            "displayid": 39992,
+            "dmgmax1": 91,
+            "dmgmin1": 49,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 41.18,
+            "dura": 200,
+            "reqlevel": 58,
+            "sellprice": 27678,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29014": {
+        "name_enus": "Blacksteel Throwing Dagger",
+        "quality": 1,
+        "icon": "inv_weapon_shortblade_24",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [20779, "inv_throwingknife_01"]
+            },
+            "buyprice": 800,
+            "displayid": 20779,
+            "dmgmax1": 67,
+            "dmgmin1": 35,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 28.33,
+            "dura": 200,
+            "reqlevel": 50,
+            "sellprice": 200,
+            "slotbak": 25,
+            "speed": 1.8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25861": {
+        "name_enus": "Crude Throwing Axe",
+        "quality": 1,
+        "icon": "inv_axe_19",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [16751, "inv_axe_01"]
+            },
+            "buyprice": 15,
+            "displayid": 16751,
+            "dmgmax1": 3,
+            "dmgmin1": 1,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 1.11,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 3,
+            "slotbak": 25,
+            "speed": 1.8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27631": {
+        "name_enus": "Needle Shrike",
+        "quality": 3,
+        "icon": "inv_throwingknife_06",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [38370, ""]
+            },
+            "displayid": 38370,
+            "dmgmax1": 86,
+            "dmgmin1": 57,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 51.07,
+            "dura": 240,
+            "mleatkpwr": 24,
+            "mlehitrtng": 11,
+            "reqlevel": 63,
+            "rgdatkpwr": 24,
+            "rgdhitrtng": 11,
+            "sellprice": 36689,
+            "slotbak": 25,
+            "speed": 1.4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29009": {
+        "name_enus": "Heavy Throwing Dagger",
+        "quality": 1,
+        "icon": "inv_weapon_shortblade_14",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [16753, ""]
+            },
+            "buyprice": 200,
+            "displayid": 16753,
+            "dmgmax1": 27,
+            "dmgmin1": 14,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 11.39,
+            "dura": 200,
+            "reqlevel": 22,
+            "sellprice": 50,
+            "slotbak": 25,
+            "speed": 1.8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28023": {
+        "name_enus": "Monster - Throwing Axe (Poison)",
+        "quality": 0,
+        "icon": "inv_axe_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [38576, ""]
+            },
+            "displayid": 38576,
+            "dmgmax1": 1,
+            "dmgmin1": 1,
+            "dmgtype1": 4,
+            "dps": 0.5,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 3,
+            "slotbak": 25,
+            "speed": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29007": {
+        "name_enus": "Weighted Throwing Axe",
+        "quality": 1,
+        "icon": "inv_axe_20",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [16760, ""]
+            },
+            "buyprice": 30,
+            "displayid": 16760,
+            "dmgmax1": 8,
+            "dmgmin1": 4,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 3.16,
+            "dura": 200,
+            "reqlevel": 3,
+            "sellprice": 7,
+            "slotbak": 25,
+            "speed": 1.9
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31497": {
+        "name_enus": "Monster - Throwing Trident, Wicked",
+        "quality": 0,
+        "icon": "inv_spear_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44046, ""]
+            },
+            "displayid": 44046,
+            "dmgmax1": 1,
+            "dmgmin1": 1,
+            "dmgtype1": 4,
+            "dps": 1,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 3,
+            "slotbak": 25,
+            "speed": 1
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31499": {
+        "name_enus": "Monster - Throwing Trident, Wicked Blue Glow",
+        "quality": 0,
+        "icon": "inv_spear_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44047, ""]
+            },
+            "displayid": 44047,
+            "dmgmax1": 1,
+            "dmgmin1": 1,
+            "dmgtype1": 4,
+            "dps": 1,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 3,
+            "slotbak": 25,
+            "speed": 1
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33338": {
+        "name_enus": "Monster - Throwing Knife (Fire Trail)",
+        "quality": 0,
+        "icon": "inv_weapon_shortblade_05",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [46602, ""]
+            },
+            "displayid": 46602,
+            "dmgmax1": 1,
+            "dmgmin1": 1,
+            "dmgtype1": 4,
+            "dps": 0.5,
+            "dura": 200,
+            "reqlevel": 1,
+            "sellprice": 18,
+            "slotbak": 25,
+            "speed": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29008": {
+        "name_enus": "Sharp Throwing Axe",
+        "quality": 1,
+        "icon": "inv_axe_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [40191, ""]
+            },
+            "buyprice": 75,
+            "displayid": 40191,
+            "dmgmax1": 16,
+            "dmgmin1": 8,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 6.32,
+            "dura": 200,
+            "reqlevel": 11,
+            "sellprice": 18,
+            "slotbak": 25,
+            "speed": 1.9
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34603": {
+        "name_enus": "Distracting Blades",
+        "quality": 4,
+        "icon": "inv_throwingknife_01",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 14,
+            "appearances": {
+                "0": [40003, "inv_weapon_shortblade_18"]
+            },
+            "displayid": 40003,
+            "dmgmax1": 189,
+            "dmgmin1": 126,
+            "dmgrange": 0.4,
+            "dmgtype1": 0,
+            "dps": 78.75,
+            "dura": 285,
+            "mleatkpwr": 26,
+            "mlehastertng": 10,
+            "reqlevel": 70,
+            "rgdatkpwr": 26,
+            "rgdhastertng": 10,
+            "sellprice": 36689,
+            "slotbak": 25,
+            "speed": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28531": {
+        "name_enus": "Barbed Shrike",
+        "quality": 2,
+        "icon": "ability_upgrademoonglaive",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [39991, ""]
+            },
+            "displayid": 39991,
+            "dmgmax1": 89,
+            "dmgmin1": 47,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 40,
+            "dura": 200,
+            "reqlevel": 57,
+            "sellprice": 26809,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29013": {
+        "name_enus": "Jagged Throwing Axe",
+        "quality": 1,
+        "icon": "inv_throwingaxe_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [16758, "inv_axe_11"]
+            },
+            "buyprice": 800,
+            "displayid": 16758,
+            "dmgmax1": 67,
+            "dmgmin1": 35,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 28.33,
+            "dura": 200,
+            "reqlevel": 50,
+            "sellprice": 200,
+            "slotbak": 25,
+            "speed": 1.8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28539": {
+        "name_enus": "Razor-Edged Boomerang",
+        "quality": 2,
+        "icon": "inv_weapon_shortblade_10",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44586, ""]
+            },
+            "displayid": 44586,
+            "dmgmax1": 111,
+            "dmgmin1": 59,
+            "dmgrange": 0.6,
+            "dmgtype1": 0,
+            "dps": 50,
+            "dura": 200,
+            "reqlevel": 65,
+            "sellprice": 33760,
+            "slotbak": 25,
+            "speed": 1.7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    }
+}

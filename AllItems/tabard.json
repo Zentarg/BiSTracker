@@ -1,0 +1,791 @@
+{
+    "28788": {
+        "name_enus": "Tabard of the Protector",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {
+            "id": 32245,
+            "imageType": 2
+        },
+        "jsonequip": {
+            "appearances": {
+                "0": [13909, ""]
+            },
+            "cooldown": 300000,
+            "displayid": 13909,
+            "maxcount": 1,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23388": {
+        "name_enus": "Tranquillien Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [35929, ""]
+            },
+            "displayid": 35929,
+            "maxcount": 1,
+            "reqfaction": 922,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19506": {
+        "name_enus": "Silverwing Battle Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [32026, ""]
+            },
+            "displayid": 32026,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23192": {
+        "name_enus": "Tabard of the Scarlet Crusade",
+        "quality": 2,
+        "icon": "inv_misc_cape_18",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [3865, "inv_banner_02"]
+            },
+            "displayid": 3865,
+            "maxcount": 1,
+            "sellprice": 7143,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31779": {
+        "name_enus": "Aldor Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43121, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 43121,
+            "maxcount": 1,
+            "reqfaction": 932,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31780": {
+        "name_enus": "Scryers Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43123, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 43123,
+            "maxcount": 1,
+            "reqfaction": 934,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31405": {
+        "name_enus": "Purple Trophy Tabard of the Illidari",
+        "quality": 2,
+        "icon": "inv_shirt_15",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43391, ""]
+            },
+            "displayid": 43391,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19505": {
+        "name_enus": "Warsong Battle Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [32031, ""]
+            },
+            "displayid": 32031,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19031": {
+        "name_enus": "Frostwolf Battle Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [31527, ""]
+            },
+            "displayid": 31527,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23999": {
+        "name_enus": "Honor Hold Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [35934, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 35934,
+            "maxcount": 1,
+            "reqfaction": 946,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24004": {
+        "name_enus": "Thrallmar Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [35933, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 35933,
+            "maxcount": 1,
+            "reqfaction": 947,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38314": {
+        "name_enus": "Tabard of the Defender",
+        "quality": 4,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [50691, ""]
+            },
+            "displayid": 50691,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19032": {
+        "name_enus": "Stormpike Battle Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [31528, ""]
+            },
+            "displayid": 31528,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31404": {
+        "name_enus": "Green Trophy Tabard of the Illidari",
+        "quality": 2,
+        "icon": "inv_shirt_15",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43390, ""]
+            },
+            "displayid": 43390,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31778": {
+        "name_enus": "Lower City Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44438, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 44438,
+            "maxcount": 1,
+            "reqfaction": 1011,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31781": {
+        "name_enus": "Sha'tar Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44038, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 44038,
+            "maxcount": 1,
+            "reqfaction": 935,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23705": {
+        "name_enus": "Tabard of Flame",
+        "quality": 4,
+        "icon": "inv_misc_tabardpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [37058, "inv_shirt_guildtabard_01"]
+            },
+            "displayid": 37058,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31777": {
+        "name_enus": "Keepers of Time Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43126, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 43126,
+            "maxcount": 1,
+            "reqfaction": 989,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38311": {
+        "name_enus": "Tabard of the Void",
+        "quality": 4,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [50692, ""]
+            },
+            "displayid": 50692,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31775": {
+        "name_enus": "Sporeggar Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44435, ""]
+            },
+            "displayid": 44435,
+            "maxcount": 1,
+            "reqfaction": 970,
+            "reqrep": 7,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "5976": {
+        "name_enus": "Guild Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [9627, ""]
+            },
+            "avgbuyout": 100,
+            "buyprice": 10000,
+            "displayid": 9627,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "15197": {
+        "name_enus": "Scout's Tabard",
+        "quality": 1,
+        "icon": "inv_misc_tabardpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [25983, ""]
+            },
+            "displayid": 25983,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31773": {
+        "name_enus": "Mag'har Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44433, ""]
+            },
+            "displayid": 44433,
+            "maxcount": 1,
+            "reqfaction": 941,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35221": {
+        "name_enus": "Tabard of the Shattered Sun",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [47815, ""]
+            },
+            "displayid": 47815,
+            "maxcount": 1,
+            "reqfaction": 1077,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "36941": {
+        "name_enus": "Competitor's Tabard",
+        "quality": 3,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [49624, ""]
+            },
+            "displayid": 49624,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31776": {
+        "name_enus": "Consortium Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44436, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 44436,
+            "maxcount": 1,
+            "reqfaction": 933,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31804": {
+        "name_enus": "Cenarion Expedition Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43127, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 43127,
+            "maxcount": 1,
+            "reqfaction": 942,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23709": {
+        "name_enus": "Tabard of Frost",
+        "quality": 4,
+        "icon": "inv_misc_tabardpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [37059, "inv_shirt_guildtabard_01"]
+            },
+            "displayid": 37059,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31774": {
+        "name_enus": "Kurenai Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44434, ""]
+            },
+            "displayid": 44434,
+            "maxcount": 1,
+            "reqfaction": 978,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32828": {
+        "name_enus": "Ogri'la Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [45495, ""]
+            },
+            "displayid": 45495,
+            "maxcount": 1,
+            "reqfaction": 1038,
+            "reqrep": 7,
+            "sellprice": 2300,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38310": {
+        "name_enus": "Tabard of the Arcane",
+        "quality": 4,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [50690, ""]
+            },
+            "displayid": 50690,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32445": {
+        "name_enus": "Skyguard Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [44852, ""]
+            },
+            "buyprice": 10000,
+            "displayid": 44852,
+            "maxcount": 1,
+            "reqfaction": 1031,
+            "reqlevel": 70,
+            "reqrep": 7,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "15196": {
+        "name_enus": "Private's Tabard",
+        "quality": 1,
+        "icon": "inv_misc_tabardpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [25982, ""]
+            },
+            "displayid": 25982,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "11364": {
+        "name_enus": "Tabard of Stormwind",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "15198": {
+        "name_enus": "Knight's Colors",
+        "quality": 1,
+        "icon": "inv_misc_tabardpvp_03",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [25990, ""]
+            },
+            "displayid": 25990,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38313": {
+        "name_enus": "Tabard of Fury",
+        "quality": 4,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [50687, ""]
+            },
+            "displayid": 50687,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "15199": {
+        "name_enus": "Stone Guard's Herald",
+        "quality": 1,
+        "icon": "inv_misc_tabardpvp_04",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [25992, ""]
+            },
+            "displayid": 25992,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31279": {
+        "name_enus": "Enchanted Illidari Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_15",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43390, ""]
+            },
+            "displayid": 43390,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38312": {
+        "name_enus": "Tabard of Brilliance",
+        "quality": 4,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [50686, ""]
+            },
+            "displayid": 50686,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38309": {
+        "name_enus": "Tabard of Nature",
+        "quality": 4,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [50689, ""]
+            },
+            "displayid": 50689,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34159": {
+        "name_enus": "Team B Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43123, ""]
+            },
+            "displayid": 43123,
+            "maxcount": 1,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23710": {
+        "name_enus": "Upperdeck Tabard #3",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [31738, ""]
+            },
+            "displayid": 31738,
+            "sellprice": 12500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19160": {
+        "name_enus": "Contest Winner's Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [31676, ""]
+            },
+            "displayid": 31676,
+            "maxcount": 1,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35279": {
+        "name_enus": "Tabard of Summer Skies",
+        "quality": 3,
+        "icon": "inv_misc_tabardsummer02",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [48709, ""]
+            },
+            "displayid": 48709,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35280": {
+        "name_enus": "Tabard of Summer Flames",
+        "quality": 3,
+        "icon": "inv_misc_tabardsummer01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [48710, ""]
+            },
+            "displayid": 48710,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34158": {
+        "name_enus": "Team A Tabard",
+        "quality": 1,
+        "icon": "inv_shirt_guildtabard_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [43121, ""]
+            },
+            "displayid": 43121,
+            "maxcount": 1,
+            "sellprice": 2500,
+            "slotbak": 19
+        },
+        "attainable": 0,
+        "flags2": 24580
+    }
+}

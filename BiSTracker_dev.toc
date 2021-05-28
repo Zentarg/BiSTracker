@@ -3,9 +3,10 @@
 ## Title: BiS Tracker Dev
 ## Notes: Shows BiS items for every class, and where to get them.
 ## Author: Zentarg
-## Version: 4.3
+## Version: 4.4
 ## SavedVariablesPerCharacter: BiS_Settings
 ## SavedVariables: BiSTrackerDB
+## OptionalDeps: Questie
 
 embeds.xml
 

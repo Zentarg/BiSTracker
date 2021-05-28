@@ -1,0 +1,5730 @@
+{
+    "34424": {
+        "name_enus": "Power of the High Chief",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_10",
+        "screenshot": {},
+        "jsonequip": {
+            "sellprice": 10000,
+            "slotbak": 12,
+            "spldmg": 29,
+            "splheal": 29
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34423": {
+        "name_enus": "Strength of the High Chief",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_09",
+        "screenshot": {},
+        "jsonequip": {
+            "mleatkpwr": 50,
+            "rgdatkpwr": 50,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28830": {
+        "name_enus": "Dragonspine Trophy",
+        "quality": 4,
+        "icon": "inv_misc_bone_03",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "mleatkpwr": 40,
+            "reqlevel": 70,
+            "rgdatkpwr": 40,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29383": {
+        "name_enus": "Bloodlust Brooch",
+        "quality": 4,
+        "icon": "inv_misc_monsterscales_15",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "mleatkpwr": 72,
+            "reqlevel": 70,
+            "rgdatkpwr": 72,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23836": {
+        "name_enus": "Goblin Rocket Launcher",
+        "quality": 3,
+        "icon": "inv_gizmo_rocketlauncher",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqskill": 202,
+            "reqskillrank": 350,
+            "reqspell": 20222,
+            "sellprice": 22500,
+            "slotbak": 12,
+            "sta": 45
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27529": {
+        "name_enus": "Figurine of the Colossus",
+        "quality": 3,
+        "icon": "inv_qirajidol_rebirth",
+        "screenshot": {},
+        "jsonequip": {
+            "blockrtng": 32,
+            "cooldown": 120000,
+            "reqlevel": 70,
+            "sellprice": 66290,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29370": {
+        "name_enus": "Icon of the Silver Crescent",
+        "quality": 4,
+        "icon": "inv_weapon_shortblade_23",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "spldmg": 43,
+            "splheal": 43
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28785": {
+        "name_enus": "The Lightning Capacitor",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas06",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28789": {
+        "name_enus": "Eye of Magtheridon",
+        "quality": 4,
+        "icon": "inv_elemental_mote_life01",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "spldmg": 54,
+            "splheal": 54
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28034": {
+        "name_enus": "Hourglass of the Unraveller",
+        "quality": 3,
+        "icon": "inv_gizmo_khoriumpowercore",
+        "screenshot": {},
+        "jsonequip": {
+            "mlecritstrkrtng": 32,
+            "reqlevel": 68,
+            "rgdcritstrkrtng": 32,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24128": {
+        "name_enus": "Figurine - Nightseye Panther",
+        "quality": 3,
+        "icon": "inv_jewelcrafting_blackpearlpanther",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "mleatkpwr": 54,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 350,
+            "rgdatkpwr": 54,
+            "sellprice": 15000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31858": {
+        "name_enus": "Darkmoon Card: Vengeance",
+        "quality": 4,
+        "icon": "inv_misc_ticket_tarot_vengeance",
+        "screenshot": {},
+        "jsonequip": {
+            "buyprice": 400000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 100000,
+            "slotbak": 12,
+            "sta": 51
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28288": {
+        "name_enus": "Abacus of Violent Odds",
+        "quality": 3,
+        "icon": "inv_misc_enggizmos_18",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "mleatkpwr": 64,
+            "reqlevel": 70,
+            "rgdatkpwr": 64,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27683": {
+        "name_enus": "Quagmirran's Eye",
+        "quality": 3,
+        "icon": "inv_misc_gem_pearl_01",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 70,
+            "sellprice": 10000,
+            "slotbak": 12,
+            "spldmg": 37,
+            "splheal": 37
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31856": {
+        "name_enus": "Darkmoon Card: Crusade",
+        "quality": 4,
+        "icon": "inv_misc_ticket_tarot_crusade",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 100000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35702": {
+        "name_enus": "Figurine - Shadowsong Panther",
+        "quality": 4,
+        "icon": "inv_jewelcrafting_blackpearlpanther",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "maxcount": 1,
+            "mleatkpwr": 80,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 375,
+            "rgdatkpwr": 80,
+            "sellprice": 15000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "11122": {
+        "name_enus": "Carrot on a Stick",
+        "quality": 2,
+        "icon": "inv_misc_food_54",
+        "screenshot": {},
+        "jsonequip": {
+            "sellprice": 7162,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18665": {
+        "name_enus": "The Eye of Shadow",
+        "quality": 4,
+        "icon": "spell_shadow_unholyfrenzy",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 2839999,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28823": {
+        "name_enus": "Eye of Gruul",
+        "quality": 4,
+        "icon": "spell_shadow_unholyfrenzy",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "spldmg": 15,
+            "splheal": 44
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19337": {
+        "name_enus": "The Black Book",
+        "quality": 4,
+        "icon": "inv_misc_book_06",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 256,
+            "cooldown": 300000,
+            "reqlevel": 60,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29376": {
+        "name_enus": "Essence of the Martyr",
+        "quality": 4,
+        "icon": "inv_valentineperfumebottle",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "spldmg": 28,
+            "splheal": 84
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19288": {
+        "name_enus": "Darkmoon Card: Blue Dragon",
+        "quality": 4,
+        "icon": "inv_misc_ticket_tarot_bluedragon_01",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 100000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28370": {
+        "name_enus": "Bangle of Endless Blessings",
+        "quality": 3,
+        "icon": "inv_jewelry_necklace_27",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 70,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25653": {
+        "name_enus": "Riding Crop",
+        "quality": 3,
+        "icon": "inv_misc_crop_02",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 69,
+            "sellprice": 17500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29132": {
+        "name_enus": "Scryer's Bloodgem",
+        "quality": 3,
+        "icon": "inv_misc_gem_bloodstone_02",
+        "screenshot": {},
+        "jsonequip": {
+            "buyprice": 175952,
+            "cooldown": 90000,
+            "maxcount": 1,
+            "reqfaction": 934,
+            "reqlevel": 70,
+            "reqrep": 6,
+            "sellprice": 43988,
+            "slotbak": 12,
+            "splhitrtng": 32
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "185987": {
+        "name_enus": "Communal Stone of Wisdom",
+        "quality": 2,
+        "icon": "inv_misc_stonetablet_04",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [23323, "inv_misc_book_09"]
+            },
+            "displayid": 23323,
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 12,
+            "spldmg": 20,
+            "splheal": 32,
+            "sta": 6
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32658": {
+        "name_enus": "Badge of Tenacity",
+        "quality": 3,
+        "icon": "inv_misc_armorkit_12",
+        "screenshot": {},
+        "jsonequip": {
+            "armor": 308,
+            "cooldown": 120000,
+            "reqlevel": 70,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "11815": {
+        "name_enus": "Hand of Justice",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_01",
+        "screenshot": {},
+        "jsonequip": {
+            "mleatkpwr": 20,
+            "reqlevel": 53,
+            "rgdatkpwr": 20,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23207": {
+        "name_enus": "Mark of the Champion",
+        "quality": 4,
+        "icon": "inv_misc_token_argentdawn3",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28579": {
+        "name_enus": "Romulo's Poison Vial",
+        "quality": 4,
+        "icon": "inv_poison_mindnumbing",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "mlehitrtng": 35,
+            "reqlevel": 70,
+            "rgdhitrtng": 35,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31859": {
+        "name_enus": "Darkmoon Card: Madness",
+        "quality": 4,
+        "icon": "inv_misc_ticket_tarot_madness",
+        "screenshot": {},
+        "jsonequip": {
+            "buyprice": 400000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 100000,
+            "slotbak": 12,
+            "sta": 51
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28727": {
+        "name_enus": "Pendant of the Violet Eye",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "int": 40,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "9149": {
+        "name_enus": "Philosopher's Stone",
+        "quality": 2,
+        "icon": "inv_misc_orb_01",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 5,
+            "int": 5,
+            "reqlevel": 35,
+            "reqskill": 171,
+            "reqskillrank": 200,
+            "sellprice": 250,
+            "slotbak": 12,
+            "spi": 5,
+            "sta": 5,
+            "str": 5
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29387": {
+        "name_enus": "Gnomeregan Auto-Blocker 600",
+        "quality": 4,
+        "icon": "inv_battery_02",
+        "screenshot": {},
+        "jsonequip": {
+            "blockamount": 59,
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30627": {
+        "name_enus": "Tsunami Talisman",
+        "quality": 4,
+        "icon": "spell_nature_unrelentingstorm",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "mlecritstrkrtng": 38,
+            "mlehitrtng": 10,
+            "reqlevel": 70,
+            "rgdcritstrkrtng": 38,
+            "rgdhitrtng": 10,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28590": {
+        "name_enus": "Ribbon of Sacrifice",
+        "quality": 4,
+        "icon": "inv_misc_bandage_16",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "spldmg": 25,
+            "splheal": 73
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35750": {
+        "name_enus": "Redeemer's Alchemist Stone",
+        "quality": 4,
+        "icon": "classic_spell_nature_healingway",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqskill": 171,
+            "reqskillrank": 350,
+            "sellprice": 25000,
+            "slotbak": 12,
+            "spldmg": 40,
+            "splheal": 119
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28528": {
+        "name_enus": "Moroes' Lucky Pocket Watch",
+        "quality": 4,
+        "icon": "inv_misc_pocketwatch_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "dodgertng": 38,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28190": {
+        "name_enus": "Scarab of the Infinite Cycle",
+        "quality": 3,
+        "icon": "inv_misc_ahnqirajtrinket_06",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 70,
+            "sellprice": 10000,
+            "slotbak": 12,
+            "spldmg": 24,
+            "splheal": 70
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23206": {
+        "name_enus": "Mark of the Champion",
+        "quality": 4,
+        "icon": "inv_misc_token_argentdawn2",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23835": {
+        "name_enus": "Gnomish Poultryizer",
+        "quality": 3,
+        "icon": "inv_misc_enggizmos_06",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "reqskill": 202,
+            "reqskillrank": 340,
+            "reqspell": 20219,
+            "sellprice": 22500,
+            "slotbak": 12,
+            "sta": 45
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19339": {
+        "name_enus": "Mind Quickening Gem",
+        "quality": 4,
+        "icon": "spell_nature_wispheal",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 128,
+            "cooldown": 300000,
+            "reqlevel": 60,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19379": {
+        "name_enus": "Neltharion's Tear",
+        "quality": 4,
+        "icon": "inv_stone_15",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 60,
+            "sellprice": 205863,
+            "slotbak": 12,
+            "spldmg": 44,
+            "splheal": 44,
+            "splhitrtng": 16
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "1404": {
+        "name_enus": "Tidal Charm",
+        "quality": 2,
+        "icon": "inv_misc_rune_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 900000,
+            "reqlevel": 36,
+            "sellprice": 10306,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24126": {
+        "name_enus": "Figurine - Living Ruby Serpent",
+        "quality": 3,
+        "icon": "inv_jewelcrafting_rubyserpent",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "int": 23,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 350,
+            "sellprice": 15000,
+            "slotbak": 12,
+            "sta": 33
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19431": {
+        "name_enus": "Styleen's Impeding Scarab",
+        "quality": 4,
+        "icon": "inv_misc_armorkit_10",
+        "screenshot": {},
+        "jsonequip": {
+            "blockamount": 24,
+            "blockrtng": 24,
+            "defrtng": 20,
+            "reqlevel": 60,
+            "sellprice": 103117,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10725": {
+        "name_enus": "Gnomish Battle Chicken",
+        "quality": 1,
+        "icon": "spell_magic_polymorphchicken",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1200000,
+            "reqskill": 202,
+            "reqskillrank": 230,
+            "sellprice": 1500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19289": {
+        "name_enus": "Darkmoon Card: Maelstrom",
+        "quality": 4,
+        "icon": "inv_misc_ticket_tarot_maelstrom_01",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 100000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27921": {
+        "name_enus": "Mark of Conquest",
+        "quality": 3,
+        "icon": "inv_misc_armorkit_12",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1037,
+            "maxcount": 1,
+            "mleatkpwr": 54,
+            "reqlevel": 62,
+            "rgdatkpwr": 54,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32483": {
+        "name_enus": "The Skull of Gul'dan",
+        "quality": 4,
+        "icon": "inv_misc_bone_elfskull_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "spldmg": 55,
+            "splheal": 55,
+            "splhitrtng": 25
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "17774": {
+        "name_enus": "Mark of the Chosen",
+        "quality": 2,
+        "icon": "inv_jewelry_talisman_08",
+        "screenshot": {},
+        "jsonequip": {
+            "sellprice": 6133,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30841": {
+        "name_enus": "Lower City Prayerbook",
+        "quality": 3,
+        "icon": "inv_misc_book_11",
+        "screenshot": {},
+        "jsonequip": {
+            "buyprice": 175952,
+            "cooldown": 60000,
+            "reqfaction": 1011,
+            "reqlevel": 70,
+            "reqrep": 6,
+            "sellprice": 43988,
+            "slotbak": 12,
+            "spldmg": 24,
+            "splheal": 70
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21756": {
+        "name_enus": "Figurine - Golden Hare",
+        "quality": 2,
+        "icon": "inv_jewelcrafting_goldenhare",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1200000,
+            "maxcount": 1,
+            "reqlevel": 35,
+            "reqskill": 755,
+            "reqskillrank": 200,
+            "sellprice": 1500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "185985": {
+        "name_enus": "Communal Stone of Onslaught",
+        "quality": 2,
+        "icon": "inv_misc_stonetablet_06",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [23323, "inv_misc_book_09"]
+            },
+            "displayid": 23323,
+            "mleatkpwr": 20,
+            "reqlevel": 58,
+            "rgdatkpwr": 32,
+            "sellprice": 1,
+            "slotbak": 12,
+            "sta": 6
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28121": {
+        "name_enus": "Icon of Unyielding Courage",
+        "quality": 3,
+        "icon": "inv_brd_banner",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "mlehitrtng": 30,
+            "reqlevel": 70,
+            "rgdhitrtng": 30,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30300": {
+        "name_enus": "Dabiri's Enigma",
+        "quality": 3,
+        "icon": "ability_warrior_shieldmastery",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "defrtng": 30,
+            "maxcount": 1,
+            "sellprice": 41903,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18852": {
+        "name_enus": "Insignia of the Horde",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 256,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21769": {
+        "name_enus": "Figurine - Ruby Serpent",
+        "quality": 2,
+        "icon": "inv_jewelcrafting_rubyserpent",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "int": 4,
+            "maxcount": 1,
+            "reqlevel": 47,
+            "reqskill": 755,
+            "reqskillrank": 260,
+            "sellprice": 1500,
+            "slotbak": 12,
+            "sta": 4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "12930": {
+        "name_enus": "Briarwood Reed",
+        "quality": 3,
+        "icon": "inv_misc_root_02",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 55,
+            "sellprice": 10000,
+            "slotbak": 12,
+            "spldmg": 29,
+            "splheal": 29
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19992": {
+        "name_enus": "Devilsaur Tooth",
+        "quality": 3,
+        "icon": "inv_misc_bone_07",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22954": {
+        "name_enus": "Kiss of the Spider",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas04",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "mlecritstrkrtng": 14,
+            "mlehitrtng": 10,
+            "reqlevel": 60,
+            "rgdcritstrkrtng": 14,
+            "rgdhitrtng": 10,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21748": {
+        "name_enus": "Figurine - Jade Owl",
+        "quality": 2,
+        "icon": "inv_jewelcrafting_jadeowl",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "int": 3,
+            "maxcount": 1,
+            "reqlevel": 35,
+            "reqskill": 755,
+            "reqskillrank": 285,
+            "sellprice": 1500,
+            "slotbak": 12,
+            "spi": 2
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "2820": {
+        "name_enus": "Nifty Stopwatch",
+        "quality": 2,
+        "icon": "inv_misc_pocketwatch_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1800000,
+            "dmgrange": 0.2,
+            "sellprice": 4662,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19406": {
+        "name_enus": "Drake Fang Talisman",
+        "quality": 4,
+        "icon": "inv_misc_bone_06",
+        "screenshot": {},
+        "jsonequip": {
+            "dodgertng": 12,
+            "mleatkpwr": 56,
+            "mlehitrtng": 20,
+            "reqlevel": 60,
+            "rgdatkpwr": 56,
+            "rgdhitrtng": 20,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21180": {
+        "name_enus": "Earthstrike",
+        "quality": 4,
+        "icon": "spell_nature_abolishmagic",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "sellprice": 21612,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "20130": {
+        "name_enus": "Diamond Flask",
+        "quality": 3,
+        "icon": "inv_drink_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 360000,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23047": {
+        "name_enus": "Eye of the Dead",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 60,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "spldmg": 24,
+            "splheal": 70
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34472": {
+        "name_enus": "Shard of Contempt",
+        "quality": 4,
+        "icon": "inv_misc_rune_04",
+        "screenshot": {},
+        "jsonequip": {
+            "exprtng": 44,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25829": {
+        "name_enus": "Talisman of the Alliance",
+        "quality": 4,
+        "icon": "inv_jewelry_talisman_10",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "resirtng": 34,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21758": {
+        "name_enus": "Figurine - Black Pearl Panther",
+        "quality": 2,
+        "icon": "inv_jewelcrafting_blackpearlpanther",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "maxcount": 1,
+            "reqlevel": 38,
+            "reqskill": 755,
+            "reqskillrank": 215,
+            "sellprice": 1500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35749": {
+        "name_enus": "Sorcerer's Alchemist Stone",
+        "quality": 4,
+        "icon": "classic_spell_nature_healingway",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqskill": 171,
+            "reqskillrank": 350,
+            "sellprice": 25000,
+            "slotbak": 12,
+            "spldmg": 63,
+            "splheal": 63
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13544": {
+        "name_enus": "Spectral Essence",
+        "quality": 2,
+        "icon": "inv_misc_orb_05",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "11302": {
+        "name_enus": "Uther's Strength",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_06",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 218000,
+            "reqlevel": 47,
+            "sellprice": 7130,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "12846": {
+        "name_enus": "Argent Dawn Commission",
+        "quality": 1,
+        "icon": "inv_jewelry_talisman_07",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34427": {
+        "name_enus": "Blackened Naaru Sliver",
+        "quality": 4,
+        "icon": "inv_jewelry_talisman_16",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "mlehastertng": 54,
+            "reqlevel": 70,
+            "rgdhastertng": 54,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19395": {
+        "name_enus": "Rejuvenating Gem",
+        "quality": 4,
+        "icon": "inv_misc_gem_topaz_02",
+        "screenshot": {},
+        "jsonequip": {
+            "manargn": 9,
+            "reqlevel": 60,
+            "sellprice": 103103,
+            "slotbak": 12,
+            "spldmg": 22,
+            "splheal": 66
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21670": {
+        "name_enus": "Badge of the Swarmguard",
+        "quality": 4,
+        "icon": "inv_misc_ahnqirajtrinket_04",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 80303,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27922": {
+        "name_enus": "Mark of Defiance",
+        "quality": 3,
+        "icon": "inv_jewelry_necklace_16",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 400,
+            "maxcount": 1,
+            "reqlevel": 62,
+            "slotbak": 12,
+            "spldmg": 32,
+            "splheal": 32
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19950": {
+        "name_enus": "Zandalarian Hero Charm",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_13",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "sellprice": 111303,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "4130": {
+        "name_enus": "Smotts' Compass",
+        "quality": 2,
+        "icon": "inv_misc_pocketwatch_02",
+        "screenshot": {},
+        "jsonequip": {
+            "dodgertng": 12,
+            "sellprice": 2171,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23046": {
+        "name_enus": "The Restrained Essence of Sapphiron",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas06",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 60,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "spldmg": 40,
+            "splheal": 40
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32505": {
+        "name_enus": "Madness of the Betrayer",
+        "quality": 4,
+        "icon": "spell_shadow_charm",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "mleatkpwr": 84,
+            "mlehitrtng": 20,
+            "reqlevel": 70,
+            "rgdatkpwr": 84,
+            "rgdhitrtng": 20,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13209": {
+        "name_enus": "Seal of the Dawn",
+        "quality": 3,
+        "icon": "inv_misc_armorkit_18",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27891": {
+        "name_enus": "Adamantine Figurine",
+        "quality": 3,
+        "icon": "inv_qirajidol_sage",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "defrtng": 32,
+            "reqlevel": 68,
+            "sellprice": 66290,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29776": {
+        "name_enus": "Core of Ar'kelos",
+        "quality": 2,
+        "icon": "spell_nature_abolishmagic",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "mleatkpwr": 52,
+            "rgdatkpwr": 52,
+            "sellprice": 34629,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19024": {
+        "name_enus": "Arena Grand Master",
+        "quality": 3,
+        "icon": "inv_misc_armorkit_04",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 900000,
+            "dodgertng": 12,
+            "sellprice": 10031,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24125": {
+        "name_enus": "Figurine - Dawnstone Crab",
+        "quality": 3,
+        "icon": "inv_jewelcrafting_truesilvercrab",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "defrtng": 32,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 350,
+            "sellprice": 15000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33831": {
+        "name_enus": "Berserker's Call",
+        "quality": 4,
+        "icon": "racial_troll_berserk",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "mleatkpwr": 90,
+            "reqlevel": 70,
+            "rgdatkpwr": 90,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27770": {
+        "name_enus": "Argussian Compass",
+        "quality": 3,
+        "icon": "inv_misc_armorkit_22",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 70,
+            "sellprice": 21612,
+            "slotbak": 12,
+            "sta": 36
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "11810": {
+        "name_enus": "Force of Will",
+        "quality": 3,
+        "icon": "inv_jewelry_amulet_01",
+        "screenshot": {},
+        "jsonequip": {
+            "defrtng": 10,
+            "reqlevel": 55,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33829": {
+        "name_enus": "Hex Shrunken Head",
+        "quality": 4,
+        "icon": "inv_misc_head_troll_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "spldmg": 53,
+            "splheal": 53
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10455": {
+        "name_enus": "Chained Essence of Eranikus",
+        "quality": 2,
+        "icon": "inv_stone_03",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 900000,
+            "sellprice": 6464,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30340": {
+        "name_enus": "Starkiller's Bauble",
+        "quality": 2,
+        "icon": "spell_arcane_arcaneresilience",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "maxcount": 1,
+            "sellprice": 36368,
+            "slotbak": 12,
+            "splhitrtng": 26
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21625": {
+        "name_enus": "Scarab Brooch",
+        "quality": 4,
+        "icon": "inv_misc_ahnqirajtrinket_06",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 60,
+            "sellprice": 83030,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35700": {
+        "name_enus": "Figurine - Crimson Serpent",
+        "quality": 4,
+        "icon": "inv_jewelcrafting_rubyserpent",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "int": 33,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 375,
+            "sellprice": 15000,
+            "slotbak": 12,
+            "sta": 49
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30664": {
+        "name_enus": "Living Root of the Wildheart",
+        "quality": 4,
+        "icon": "inv_misc_herb_nightmarevine",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29181": {
+        "name_enus": "Timelapse Shard",
+        "quality": 4,
+        "icon": "inv_datacrystal02",
+        "screenshot": {},
+        "jsonequip": {
+            "buyprice": 790112,
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqfaction": 989,
+            "reqlevel": 70,
+            "reqrep": 7,
+            "resirtng": 24,
+            "sellprice": 197528,
+            "slotbak": 12,
+            "sta": 27
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23040": {
+        "name_enus": "Glyph of Deflection",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas05",
+        "screenshot": {},
+        "jsonequip": {
+            "blockamount": 23,
+            "blockrtng": 12,
+            "cooldown": 120000,
+            "reqlevel": 60,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23041": {
+        "name_enus": "Slayer's Crest",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas03",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "mleatkpwr": 64,
+            "reqlevel": 60,
+            "rgdatkpwr": 64,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18467": {
+        "name_enus": "Royal Seal of Eldre'Thalas",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_10",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 256,
+            "firres": 10,
+            "maxcount": 1,
+            "slotbak": 12,
+            "spldmg": 23,
+            "splheal": 23
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19991": {
+        "name_enus": "Devilsaur Eye",
+        "quality": 3,
+        "icon": "inv_misc_eye_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28418": {
+        "name_enus": "Shiffar's Nexus-Horn",
+        "quality": 3,
+        "icon": "inv_gizmo_elementalblastingpowder",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 70,
+            "sellprice": 10000,
+            "slotbak": 12,
+            "splcritstrkrtng": 30
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24390": {
+        "name_enus": "Auslese's Light Channeler",
+        "quality": 3,
+        "icon": "inv_qiraj_jewelencased",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 61,
+            "sellprice": 20737,
+            "slotbak": 12,
+            "spldmg": 20,
+            "splheal": 59
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "1973": {
+        "name_enus": "Orb of Deception",
+        "quality": 3,
+        "icon": "inv_misc_orb_02",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 470075,
+            "cooldown": 1800000,
+            "reqlevel": 54,
+            "sellprice": 4618,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18854": {
+        "name_enus": "Insignia of the Alliance",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "16022": {
+        "name_enus": "Arcanite Dragonling",
+        "quality": 3,
+        "icon": "inv_misc_head_dragon_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1200000,
+            "reqlevel": 50,
+            "reqskill": 202,
+            "reqskillrank": 300,
+            "sellprice": 40000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25634": {
+        "name_enus": "Oshu'gun Relic",
+        "quality": 2,
+        "icon": "inv_jewelry_talisman_06",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "sellprice": 7000,
+            "slotbak": 12,
+            "spldmg": 18,
+            "splheal": 53
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19287": {
+        "name_enus": "Darkmoon Card: Heroism",
+        "quality": 4,
+        "icon": "inv_misc_ticket_tarot_heroism_01",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 100000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27920": {
+        "name_enus": "Mark of Conquest",
+        "quality": 3,
+        "icon": "inv_misc_armorkit_11",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1037,
+            "maxcount": 1,
+            "mleatkpwr": 54,
+            "reqlevel": 62,
+            "rgdatkpwr": 54,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18858": {
+        "name_enus": "Insignia of the Alliance",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 256,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18470": {
+        "name_enus": "Royal Seal of Eldre'Thalas",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_10",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "firres": 10,
+            "maxcount": 1,
+            "slotbak": 12,
+            "spldmg": 15,
+            "splheal": 44
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18473": {
+        "name_enus": "Royal Seal of Eldre'Thalas",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_10",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 4,
+            "firres": 10,
+            "maxcount": 1,
+            "rgdatkpwr": 48,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27896": {
+        "name_enus": "Alembic of Infernal Power",
+        "quality": 3,
+        "icon": "inv_potion_130",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 70,
+            "resirtng": 33,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22678": {
+        "name_enus": "Talisman of Ascendance",
+        "quality": 4,
+        "icon": "inv_misc_gem_pearl_04",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 60000,
+            "maxcount": 1,
+            "sellprice": 111303,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18646": {
+        "name_enus": "The Eye of Divinity",
+        "quality": 4,
+        "icon": "spell_holy_mindsooth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30720": {
+        "name_enus": "Serpent-Coil Braid",
+        "quality": 4,
+        "icon": "spell_nature_poisoncleansingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 128,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12,
+            "splcritstrkrtng": 30,
+            "splhitrtng": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19141": {
+        "name_enus": "Luffa",
+        "quality": 2,
+        "icon": "inv_fabric_wool_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "sellprice": 16612,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "7734": {
+        "name_enus": "Six Demon Bag",
+        "quality": 3,
+        "icon": "inv_misc_bag_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 130000,
+            "cooldown": 180000,
+            "reqlevel": 46,
+            "sellprice": 15495,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32496": {
+        "name_enus": "Memento of Tyrande",
+        "quality": 4,
+        "icon": "inv_summerfest_fireflower",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "spldmg": 37,
+            "splheal": 118
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31857": {
+        "name_enus": "Darkmoon Card: Wrath",
+        "quality": 4,
+        "icon": "inv_misc_ticket_tarot_wrath",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 100000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24551": {
+        "name_enus": "Talisman of the Horde",
+        "quality": 4,
+        "icon": "inv_jewelry_talisman_09",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "resirtng": 34,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32863": {
+        "name_enus": "Skybreaker Whip",
+        "quality": 3,
+        "icon": "inv_misc_crop_01",
+        "screenshot": {},
+        "jsonequip": {
+            "sellprice": 17500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18465": {
+        "name_enus": "Royal Seal of Eldre'Thalas",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_10",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 8,
+            "firres": 10,
+            "maxcount": 1,
+            "mlehitrtng": 20,
+            "rgdhitrtng": 20,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34470": {
+        "name_enus": "Timbal's Focusing Crystal",
+        "quality": 4,
+        "icon": "inv_misc_gem_lionseye_01",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12,
+            "spldmg": 44,
+            "splheal": 44
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27926": {
+        "name_enus": "Mark of Vindication",
+        "quality": 3,
+        "icon": "inv_qirajidol_sun",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 66,
+            "maxcount": 1,
+            "mleatkpwr": 54,
+            "reqlevel": 62,
+            "rgdatkpwr": 54,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30450": {
+        "name_enus": "Warp-Spring Coil",
+        "quality": 4,
+        "icon": "inv_gizmo_hardenedadamantitetube",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 8,
+            "maxcount": 1,
+            "mlehitrtng": 21,
+            "reqlevel": 70,
+            "rgdhitrtng": 21,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30626": {
+        "name_enus": "Sextant of Unstable Currents",
+        "quality": 4,
+        "icon": "inv_gizmo_09",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "splcritstrkrtng": 40
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19812": {
+        "name_enus": "Rune of the Dawn",
+        "quality": 3,
+        "icon": "inv_misc_rune_06",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34429": {
+        "name_enus": "Shifting Naaru Sliver",
+        "quality": 4,
+        "icon": "inv_jewelry_talisman_15",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12,
+            "splhastertng": 54
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19954": {
+        "name_enus": "Renataki's Charm of Trickery",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_19",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 8,
+            "cooldown": 180000,
+            "itemset": 478,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "11905": {
+        "name_enus": "Linken's Boomerang",
+        "quality": 2,
+        "icon": "inv_weapon_shortblade_10",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "sellprice": 6203,
+            "slotbak": 12,
+            "speed": 0.5
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30449": {
+        "name_enus": "Void Star Talisman",
+        "quality": 4,
+        "icon": "inv_misc_gem_ebondraenite_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 256,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12,
+            "spldmg": 48
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24127": {
+        "name_enus": "Figurine - Talasite Owl",
+        "quality": 3,
+        "icon": "inv_jewelcrafting_jadeowl",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "manargn": 14,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 350,
+            "sellprice": 15000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29179": {
+        "name_enus": "Xi'ri's Gift",
+        "quality": 3,
+        "icon": "inv_misc_elvencoins",
+        "screenshot": {},
+        "jsonequip": {
+            "buyprice": 175952,
+            "cooldown": 90000,
+            "reqfaction": 935,
+            "reqlevel": 70,
+            "reqrep": 6,
+            "sellprice": 43988,
+            "slotbak": 12,
+            "splcritstrkrtng": 32
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31113": {
+        "name_enus": "Violet Badge",
+        "quality": 4,
+        "icon": "spell_holy_mindsooth",
+        "screenshot": {},
+        "jsonequip": {
+            "arcres": 45,
+            "sellprice": 43988,
+            "slotbak": 12,
+            "sta": 36
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24124": {
+        "name_enus": "Figurine - Felsteel Boar",
+        "quality": 3,
+        "icon": "inv_jewelcrafting_truesilverboar",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "maxcount": 1,
+            "mleatkpwr": 68,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 350,
+            "rgdatkpwr": 68,
+            "sellprice": 12000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27924": {
+        "name_enus": "Mark of Defiance",
+        "quality": 3,
+        "icon": "inv_jewelry_necklace_16",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 400,
+            "maxcount": 1,
+            "reqlevel": 62,
+            "slotbak": 12,
+            "spldmg": 32,
+            "splheal": 32
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21784": {
+        "name_enus": "Figurine - Black Diamond Crab",
+        "quality": 3,
+        "icon": "inv_jewelcrafting_truesilvercrab",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "defrtng": 9,
+            "maxcount": 1,
+            "reqlevel": 55,
+            "reqskill": 755,
+            "reqskillrank": 300,
+            "sellprice": 15000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32481": {
+        "name_enus": "Charm of Swift Flight",
+        "quality": 3,
+        "icon": "spell_nature_giftofthewaterspirit",
+        "screenshot": {},
+        "jsonequip": {
+            "dmgrange": 0.2,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28223": {
+        "name_enus": "Arcanist's Stone",
+        "quality": 3,
+        "icon": "inv_jewelcrafting_nightseye_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 70,
+            "sellprice": 10000,
+            "slotbak": 12,
+            "splhitrtng": 25
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18984": {
+        "name_enus": "Dimensional Ripper - Everlook",
+        "quality": 2,
+        "icon": "inv_misc_enggizmos_07",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 399900,
+            "cooldown": 14400000,
+            "reqskill": 202,
+            "reqskillrank": 260,
+            "reqspell": 20222,
+            "sellprice": 5000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10659": {
+        "name_enus": "Shard of Afrasa",
+        "quality": 2,
+        "icon": "inv_misc_gem_diamond_02",
+        "screenshot": {},
+        "jsonequip": {
+            "dmgrange": 0.2,
+            "healthrgn": 5,
+            "manargn": 5,
+            "sellprice": 4662,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21763": {
+        "name_enus": "Figurine - Truesilver Boar",
+        "quality": 2,
+        "icon": "inv_jewelcrafting_truesilverboar",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 900000,
+            "maxcount": 1,
+            "mleatkpwr": 8,
+            "reqlevel": 42,
+            "reqskill": 755,
+            "reqskillrank": 235,
+            "rgdatkpwr": 8,
+            "sellprice": 1500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18469": {
+        "name_enus": "Royal Seal of Eldre'Thalas",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_10",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "firres": 10,
+            "manargn": 4,
+            "maxcount": 1,
+            "slotbak": 12,
+            "spldmg": 11,
+            "splheal": 33
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18815": {
+        "name_enus": "Essence of the Pure Flame",
+        "quality": 4,
+        "icon": "spell_fire_fire",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 60,
+            "sellprice": 64095,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21789": {
+        "name_enus": "Figurine - Dark Iron Scorpid",
+        "quality": 3,
+        "icon": "ability_hunter_pet_crab",
+        "screenshot": {},
+        "jsonequip": {
+            "agi": 9,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "reqlevel": 55,
+            "reqskill": 755,
+            "reqskillrank": 300,
+            "sellprice": 15000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30621": {
+        "name_enus": "Prism of Inner Calm",
+        "quality": 4,
+        "icon": "inv_misc_gem_diamond_07",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32864": {
+        "name_enus": "Commander's Badge",
+        "quality": 3,
+        "icon": "inv_misc_gem_sapphire_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 600000,
+            "reqfaction": 1015,
+            "reqrep": 6,
+            "slotbak": 12,
+            "sta": 45
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19344": {
+        "name_enus": "Natural Alignment Crystal",
+        "quality": 4,
+        "icon": "inv_misc_gem_03",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "cooldown": 300000,
+            "reqlevel": 60,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19290": {
+        "name_enus": "Darkmoon Card: Twisting Nether",
+        "quality": 4,
+        "icon": "inv_misc_ticket_tarot_twistingnether_01",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 100000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21647": {
+        "name_enus": "Fetish of the Sand Reaver",
+        "quality": 4,
+        "icon": "inv_misc_ahnqirajtrinket_03",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 60,
+            "sellprice": 86370,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30446": {
+        "name_enus": "Solarian's Sapphire",
+        "quality": 4,
+        "icon": "inv_misc_gem_sapphire_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12,
+            "sta": 30
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23001": {
+        "name_enus": "Eye of Diminution",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 60,
+            "sellprice": 91160,
+            "slotbak": 12,
+            "splcritstrkrtng": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19953": {
+        "name_enus": "Renataki's Charm of Beasts",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_19",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 4,
+            "cooldown": 180000,
+            "itemset": 477,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "11811": {
+        "name_enus": "Smoking Heart of the Mountain",
+        "quality": 3,
+        "icon": "inv_misc_gem_bloodstone_01",
+        "screenshot": {},
+        "jsonequip": {
+            "armor": 150,
+            "firres": 7,
+            "frores": 7,
+            "maxcount": 1,
+            "natres": 7,
+            "reqlevel": 50,
+            "sellprice": 1500,
+            "shares": 7,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19990": {
+        "name_enus": "Blessed Prayer Beads",
+        "quality": 3,
+        "icon": "inv_jewelry_necklace_11",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "sellprice": 25000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33046": {
+        "name_enus": "Insignia of PvP Pwn",
+        "quality": 4,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30665": {
+        "name_enus": "Earring of Soulful Meditation",
+        "quality": 4,
+        "icon": "inv_jewelry_ring_07",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12,
+            "spldmg": 22,
+            "splheal": 66
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35694": {
+        "name_enus": "Figurine - Khorium Boar",
+        "quality": 4,
+        "icon": "inv_jewelcrafting_truesilverboar",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "maxcount": 1,
+            "mleatkpwr": 84,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 375,
+            "rgdatkpwr": 84,
+            "sellprice": 12000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18849": {
+        "name_enus": "Insignia of the Horde",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 8,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22321": {
+        "name_enus": "Heart of Wyrmthalak",
+        "quality": 3,
+        "icon": "inv_misc_gem_bloodstone_01",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 56,
+            "sellprice": 10539,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10645": {
+        "name_enus": "Gnomish Death Ray",
+        "quality": 1,
+        "icon": "inv_gizmo_08",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "reqskillrank": 240,
+            "sellprice": 750,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19341": {
+        "name_enus": "Lifegiving Gem",
+        "quality": 4,
+        "icon": "inv_misc_gem_pearl_05",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1,
+            "cooldown": 300000,
+            "reqlevel": 60,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18820": {
+        "name_enus": "Talisman of Ephemeral Power",
+        "quality": 4,
+        "icon": "inv_misc_stonetablet_11",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "reqlevel": 60,
+            "sellprice": 66290,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32654": {
+        "name_enus": "Crystalforged Trinket",
+        "quality": 3,
+        "icon": "inv_datacrystal01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 60000,
+            "dmg": 7,
+            "reqfaction": 1038,
+            "reqrep": 6,
+            "sellprice": 19550,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18986": {
+        "name_enus": "Ultrasafe Transporter: Gadgetzan",
+        "quality": 2,
+        "icon": "inv_misc_enggizmos_12",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 369800,
+            "cooldown": 14400000,
+            "reqskill": 202,
+            "reqskillrank": 260,
+            "reqspell": 20219,
+            "sellprice": 5000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32492": {
+        "name_enus": "Ashtongue Talisman of Lethality",
+        "quality": 4,
+        "icon": "inv_misc_coin_10",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 8,
+            "maxcount": 1,
+            "reqfaction": 1012,
+            "reqrep": 7,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32501": {
+        "name_enus": "Shadowmoon Insignia",
+        "quality": 4,
+        "icon": "inv_jewelcrafting_shadowsongamethyst_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "defrtng": 36,
+            "dodgertng": 32,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19959": {
+        "name_enus": "Hazza'rah's Charm of Magic",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_19",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 128,
+            "cooldown": 180000,
+            "itemset": 482,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30619": {
+        "name_enus": "Fel Reaver's Piston",
+        "quality": 4,
+        "icon": "inv_misc_enggizmos_14",
+        "screenshot": {},
+        "jsonequip": {
+            "manargn": 16,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29593": {
+        "name_enus": "Insignia of the Alliance",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34471": {
+        "name_enus": "Vial of the Sunwell",
+        "quality": 4,
+        "icon": "inv_potion_106",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "manargn": 15,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "26055": {
+        "name_enus": "Oculus of the Hidden Eye",
+        "quality": 3,
+        "icon": "inv_jewelry_ring_45",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 65,
+            "sellprice": 92386,
+            "slotbak": 12,
+            "spldmg": 33,
+            "splheal": 33
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21777": {
+        "name_enus": "Figurine - Emerald Owl",
+        "quality": 2,
+        "icon": "inv_jewelcrafting_jadeowl",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "manargn": 2,
+            "maxcount": 1,
+            "reqlevel": 50,
+            "reqskill": 755,
+            "reqskillrank": 285,
+            "sellprice": 3750,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21565": {
+        "name_enus": "Rune of Perfection",
+        "quality": 3,
+        "icon": "inv_misc_rune_05",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1488,
+            "maxcount": 1,
+            "reqlevel": 40,
+            "slotbak": 12,
+            "splpen": 20,
+            "sta": 7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21760": {
+        "name_enus": "Figurine - Truesilver Crab",
+        "quality": 2,
+        "icon": "inv_jewelcrafting_truesilvercrab",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "defrtng": 5,
+            "maxcount": 1,
+            "reqlevel": 40,
+            "reqskill": 755,
+            "reqskillrank": 225,
+            "sellprice": 1500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32534": {
+        "name_enus": "Brooch of the Immortal King",
+        "quality": 3,
+        "icon": "inv_jewelry_necklace_28",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "defrtng": 32,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 66290,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34473": {
+        "name_enus": "Commendation of Kael'thas",
+        "quality": 4,
+        "icon": "inv_misc_idol_05",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12,
+            "sta": 57
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "11832": {
+        "name_enus": "Burst of Knowledge",
+        "quality": 3,
+        "icon": "inv_jewelry_amulet_07",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 900000,
+            "reqlevel": 53,
+            "sellprice": 10000,
+            "slotbak": 12,
+            "spldmg": 12,
+            "splheal": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18857": {
+        "name_enus": "Insignia of the Alliance",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 8,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19343": {
+        "name_enus": "Scrolls of Blinding Light",
+        "quality": 4,
+        "icon": "inv_scroll_08",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "cooldown": 300000,
+            "reqlevel": 60,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18706": {
+        "name_enus": "Arena Master",
+        "quality": 2,
+        "icon": "inv_misc_armorkit_14",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 35,
+            "sellprice": 10031,
+            "slotbak": 12,
+            "sta": 5
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38289": {
+        "name_enus": "Coren's Lucky Coin",
+        "quality": 4,
+        "icon": "inv_misc_elvencoins",
+        "screenshot": {},
+        "jsonequip": {
+            "blockamount": 59,
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "185986": {
+        "name_enus": "Communal Stone of Durability",
+        "quality": 2,
+        "icon": "inv_stone_sharpeningstone_05",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10577": {
+        "name_enus": "Goblin Mortar",
+        "quality": 1,
+        "icon": "inv_musket_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 140000,
+            "cooldown": 600000,
+            "reqskill": 202,
+            "reqskillrank": 205,
+            "sellprice": 2000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30629": {
+        "name_enus": "Scarab of Displacement",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "defrtng": 42,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38290": {
+        "name_enus": "Dark Iron Smoking Pipe",
+        "quality": 4,
+        "icon": "inv_misc_pipe_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "spldmg": 43,
+            "splheal": 43
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18370": {
+        "name_enus": "Vigilance Charm",
+        "quality": 3,
+        "icon": "inv_misc_stonetablet_04",
+        "screenshot": {},
+        "jsonequip": {
+            "dodgertng": 24,
+            "reqlevel": 57,
+            "sellprice": 21612,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18639": {
+        "name_enus": "Ultra-Flash Shadow Reflector",
+        "quality": 3,
+        "icon": "inv_misc_enggizmos_16",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 1500000,
+            "cooldown": 300000,
+            "reqlevel": 55,
+            "reqskill": 202,
+            "reqskillrank": 300,
+            "sellprice": 12500,
+            "shares": 20,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18846": {
+        "name_enus": "Insignia of the Horde",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 4,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28108": {
+        "name_enus": "Power Infused Mushroom",
+        "quality": 3,
+        "icon": "inv_mushroom_11",
+        "screenshot": {},
+        "jsonequip": {
+            "sellprice": 10307,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19947": {
+        "name_enus": "Nat Pagle's Broken Reel",
+        "quality": 3,
+        "icon": "inv_gizmo_09",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 75000,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 86528,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19958": {
+        "name_enus": "Hazza'rah's Charm of Healing",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_19",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "cooldown": 180000,
+            "itemset": 480,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25628": {
+        "name_enus": "Ogre Mauler's Badge",
+        "quality": 2,
+        "icon": "inv_jewelry_talisman_04",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "mleatkpwr": 48,
+            "rgdatkpwr": 48,
+            "sellprice": 7000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "185988": {
+        "name_enus": "Communal Stone of Stoicism",
+        "quality": 2,
+        "icon": "inv_misc_stonetablet_03",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 600000,
+            "healthrgn": 8,
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10720": {
+        "name_enus": "Gnomish Net-o-Matic Projector",
+        "quality": 1,
+        "icon": "inv_misc_net_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 90000,
+            "cooldown": 600000,
+            "reqskill": 202,
+            "reqskillrank": 210,
+            "sellprice": 750,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "20534": {
+        "name_enus": "Abyss Shard",
+        "quality": 3,
+        "icon": "inv_misc_gem_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1800000,
+            "sellprice": 3975,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30448": {
+        "name_enus": "Talon of Al'ar",
+        "quality": 4,
+        "icon": "spell_fire_soulburn",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 4,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30620": {
+        "name_enus": "Spyglass of the Hidden Fleet",
+        "quality": 4,
+        "icon": "inv_misc_spyglass_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12,
+            "sta": 40
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23570": {
+        "name_enus": "Jom Gabbar",
+        "quality": 4,
+        "icon": "inv_misc_enggizmos_19",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 60,
+            "sellprice": 1807,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30447": {
+        "name_enus": "Tome of Fiery Redemption",
+        "quality": 4,
+        "icon": "inv_misc_book_07",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24376": {
+        "name_enus": "Runed Fungalcap",
+        "quality": 3,
+        "icon": "inv_mushroom_06",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 62,
+            "resirtng": 30,
+            "sellprice": 1807,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34428": {
+        "name_enus": "Steely Naaru Sliver",
+        "quality": 4,
+        "icon": "inv_jewelry_talisman_18",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "exprtng": 54,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "1713": {
+        "name_enus": "Ankh of Life",
+        "quality": 3,
+        "icon": "spell_holy_prayerofhealing02",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 47400,
+            "cooldown": 300000,
+            "reqlevel": 40,
+            "sellprice": 5350,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "8703": {
+        "name_enus": "Signet of Expertise",
+        "quality": 2,
+        "icon": "inv_misc_armorkit_08",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 10800000,
+            "maxcount": 1,
+            "reqskill": 164,
+            "reqskillrank": 210,
+            "sellprice": 6492,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "4381": {
+        "name_enus": "Minor Recombobulator",
+        "quality": 2,
+        "icon": "inv_gizmo_07",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 13098,
+            "cooldown": 300000,
+            "reqskill": 202,
+            "reqskillrank": 140,
+            "sellprice": 600,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18834": {
+        "name_enus": "Insignia of the Horde",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23027": {
+        "name_enus": "Warmth of Forgiveness",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "manargn": 10,
+            "reqlevel": 60,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18537": {
+        "name_enus": "Counterattack Lodestone",
+        "quality": 3,
+        "icon": "inv_stone_02",
+        "screenshot": {},
+        "jsonequip": {
+            "mleatkpwr": 22,
+            "parryrtng": 20,
+            "reqlevel": 58,
+            "rgdatkpwr": 22,
+            "sellprice": 6613,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21326": {
+        "name_enus": "Defender of the Timbermaw",
+        "quality": 4,
+        "icon": "inv_misc_horn_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 600000,
+            "maxcount": 1,
+            "reqfaction": 576,
+            "reqrep": 7,
+            "sellprice": 8991,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34430": {
+        "name_enus": "Glimmering Naaru Sliver",
+        "quality": 4,
+        "icon": "inv_jewelry_talisman_17",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12,
+            "spldmg": 40,
+            "splheal": 119
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19955": {
+        "name_enus": "Wushoolay's Charm of Nature",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_19",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "cooldown": 180000,
+            "itemset": 479,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18468": {
+        "name_enus": "Royal Seal of Eldre'Thalas",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_10",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 128,
+            "firres": 10,
+            "manargn": 8,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "20636": {
+        "name_enus": "Hibernation Crystal",
+        "quality": 4,
+        "icon": "inv_misc_gem_stone_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "reqlevel": 60,
+            "sellprice": 89103,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10418": {
+        "name_enus": "Glimmering Mithril Insignia",
+        "quality": 2,
+        "icon": "inv_jewelry_talisman_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1200000,
+            "maxcount": 1,
+            "reqskill": 164,
+            "reqskillrank": 225,
+            "sellprice": 16464,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25633": {
+        "name_enus": "Uniting Charm",
+        "quality": 2,
+        "icon": "inv_jewelry_talisman_04",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "mleatkpwr": 48,
+            "rgdatkpwr": 48,
+            "sellprice": 7000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27927": {
+        "name_enus": "Mark of Vindication",
+        "quality": 3,
+        "icon": "inv_qirajidol_sun",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 66,
+            "maxcount": 1,
+            "mleatkpwr": 54,
+            "reqlevel": 62,
+            "rgdatkpwr": 54,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19336": {
+        "name_enus": "Arcane Infused Gem",
+        "quality": 4,
+        "icon": "spell_nature_wispsplode",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 4,
+            "cooldown": 120000,
+            "reqlevel": 60,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19948": {
+        "name_enus": "Zandalarian Hero Badge",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_13",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "sellprice": 111303,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22268": {
+        "name_enus": "Draconic Infused Emblem",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_09",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 75000,
+            "reqlevel": 58,
+            "sellprice": 66290,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10779": {
+        "name_enus": "Demon's Blood",
+        "quality": 2,
+        "icon": "spell_shadow_lifedrain",
+        "screenshot": {},
+        "jsonequip": {
+            "defrtng": 5,
+            "healthrgn": 3,
+            "sellprice": 8807,
+            "shares": 10,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10727": {
+        "name_enus": "Goblin Dragon Gun",
+        "quality": 1,
+        "icon": "spell_fire_flamebolt",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "reqskillrank": 240,
+            "sellprice": 2000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34050": {
+        "name_enus": "Battlemaster's Perseverance",
+        "quality": 4,
+        "icon": "spell_holy_heroism",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "spldmg": 30,
+            "splheal": 88
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34578": {
+        "name_enus": "Battlemaster's Determination",
+        "quality": 4,
+        "icon": "ability_warrior_endlessrage",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "mleatkpwr": 80,
+            "reqlevel": 70,
+            "rgdatkpwr": 80,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29877": {
+        "name_enus": "Indalamar's Trinket of Pwnage",
+        "quality": 4,
+        "icon": "inv_poison_mindnumbing",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30663": {
+        "name_enus": "Fathom-Brooch of the Tidewalker",
+        "quality": 4,
+        "icon": "inv_misc_qirajicrystal_04",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21473": {
+        "name_enus": "Eye of Moam",
+        "quality": 3,
+        "icon": "inv_misc_eye_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 60,
+            "sellprice": 82878,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19979": {
+        "name_enus": "Hook of the Master Angler",
+        "quality": 3,
+        "icon": "trade_fishing",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 5000,
+            "sellprice": 25000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18634": {
+        "name_enus": "Gyrofreeze Ice Reflector",
+        "quality": 3,
+        "icon": "inv_misc_enggizmos_02",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 1198124,
+            "cooldown": 300000,
+            "frores": 15,
+            "reqlevel": 47,
+            "reqskill": 202,
+            "reqskillrank": 260,
+            "sellprice": 12500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38287": {
+        "name_enus": "Empty Mug of Direbrew",
+        "quality": 4,
+        "icon": "inv_drink_03",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "mleatkpwr": 72,
+            "reqlevel": 70,
+            "rgdatkpwr": 72,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32770": {
+        "name_enus": "Skyguard Silver Cross",
+        "quality": 4,
+        "icon": "inv_jewelry_talisman_06",
+        "screenshot": {},
+        "jsonequip": {
+            "buyprice": 41230,
+            "maxcount": 1,
+            "mlecritstrkrtng": 34,
+            "reqfaction": 1031,
+            "reqlevel": 70,
+            "reqrep": 7,
+            "rgdcritstrkrtng": 34,
+            "sellprice": 10307,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30542": {
+        "name_enus": "Dimensional Ripper - Area 52",
+        "quality": 2,
+        "icon": "inv_misc_enggizmos_07",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 14400000,
+            "reqskill": 202,
+            "reqskillrank": 350,
+            "reqspell": 20222,
+            "sellprice": 5000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18851": {
+        "name_enus": "Insignia of the Horde",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27828": {
+        "name_enus": "Warp-Scarab Brooch",
+        "quality": 3,
+        "icon": "inv_scarab_crystal",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "manargn": 13,
+            "reqlevel": 70,
+            "sellprice": 10000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31617": {
+        "name_enus": "Ancient Draenei War Talisman",
+        "quality": 2,
+        "icon": "inv_jewelry_talisman_14",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "mlecritstrkrtng": 21,
+            "rgdcritstrkrtng": 21,
+            "sellprice": 8222,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25994": {
+        "name_enus": "Rune of Force",
+        "quality": 2,
+        "icon": "inv_stone_weightstone_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "sellprice": 21612,
+            "slotbak": 12,
+            "sta": 30
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25995": {
+        "name_enus": "Star of Sha'naar",
+        "quality": 2,
+        "icon": "spell_arcane_arcane03",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "sellprice": 21612,
+            "slotbak": 12,
+            "sta": 30
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "17064": {
+        "name_enus": "Shard of the Scale",
+        "quality": 4,
+        "icon": "inv_misc_monsterscales_15",
+        "screenshot": {},
+        "jsonequip": {
+            "itemset": 241,
+            "manargn": 16,
+            "reqlevel": 60,
+            "sellprice": 45914,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30544": {
+        "name_enus": "Ultrasafe Transporter: Toshley's Station",
+        "quality": 2,
+        "icon": "inv_misc_enggizmos_12",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 14400000,
+            "reqskill": 202,
+            "reqskillrank": 350,
+            "reqspell": 20219,
+            "sellprice": 5000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18850": {
+        "name_enus": "Insignia of the Horde",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 128,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21685": {
+        "name_enus": "Petrified Scarab",
+        "quality": 4,
+        "icon": "inv_misc_ahnqirajtrinket_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 60,
+            "sellprice": 87120,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21891": {
+        "name_enus": "Shard of the Fallen Star",
+        "quality": 4,
+        "icon": "inv_misc_ahnqirajtrinket_04",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 60,
+            "sellprice": 99378,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "12805": {
+        "name_enus": "Orb of Fire",
+        "quality": 2,
+        "icon": "inv_misc_orb_05",
+        "screenshot": {},
+        "jsonequip": {
+            "dmgrange": 0.2,
+            "sellprice": 3987,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "4397": {
+        "name_enus": "Gnomish Cloaking Device",
+        "quality": 1,
+        "icon": "inv_gizmo_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 144500,
+            "cooldown": 3600000,
+            "reqskill": 202,
+            "reqskillrank": 200,
+            "sellprice": 5000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21566": {
+        "name_enus": "Rune of Perfection",
+        "quality": 3,
+        "icon": "inv_misc_rune_05",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1488,
+            "maxcount": 1,
+            "reqlevel": 20,
+            "slotbak": 12,
+            "splpen": 10,
+            "sta": 4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29592": {
+        "name_enus": "Insignia of the Horde",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32487": {
+        "name_enus": "Ashtongue Talisman of Swiftness",
+        "quality": 4,
+        "icon": "inv_jewelry_talisman_09",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 4,
+            "maxcount": 1,
+            "reqfaction": 1012,
+            "reqrep": 7,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35693": {
+        "name_enus": "Figurine - Empyrean Tortoise",
+        "quality": 4,
+        "icon": "ability_hunter_pet_turtle",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "defrtng": 42,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 375,
+            "sellprice": 15000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35703": {
+        "name_enus": "Figurine - Seaspray Albatross",
+        "quality": 4,
+        "icon": "inv_qirajidol_obsidian",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "manargn": 18,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "reqskill": 755,
+            "reqskillrank": 375,
+            "sellprice": 15000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "38288": {
+        "name_enus": "Direbrew Hops",
+        "quality": 4,
+        "icon": "inv_misc_herb_08",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "spldmg": 28,
+            "splheal": 84
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23558": {
+        "name_enus": "The Burrower's Shell",
+        "quality": 4,
+        "icon": "inv_shield_23",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 60,
+            "sellprice": 1807,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21567": {
+        "name_enus": "Rune of Duty",
+        "quality": 3,
+        "icon": "inv_misc_rune_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 15,
+            "healthrgn": 6,
+            "maxcount": 1,
+            "reqlevel": 40,
+            "slotbak": 12,
+            "sta": 7
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19949": {
+        "name_enus": "Zandalarian Hero Medallion",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_13",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "sellprice": 111303,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18466": {
+        "name_enus": "Royal Seal of Eldre'Thalas",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_10",
+        "screenshot": {},
+        "jsonequip": {
+            "armor": 200,
+            "classes": 1,
+            "firres": 10,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13515": {
+        "name_enus": "Ramstein's Lightning Bolts",
+        "quality": 3,
+        "icon": "inv_misc_gear_06",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "reqlevel": 55,
+            "sellprice": 9600,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18637": {
+        "name_enus": "Major Recombobulator",
+        "quality": 2,
+        "icon": "inv_misc_enggizmos_09",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 100000,
+            "cooldown": 300000,
+            "reqskill": 202,
+            "reqskillrank": 275,
+            "sellprice": 600,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "20036": {
+        "name_enus": "Fire Ruby",
+        "quality": 3,
+        "icon": "inv_misc_gem_bloodstone_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "sellprice": 2750,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32489": {
+        "name_enus": "Ashtongue Talisman of Zeal",
+        "quality": 4,
+        "icon": "inv_qiraj_jewelblessed",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "maxcount": 1,
+            "reqfaction": 1012,
+            "reqrep": 7,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "37127": {
+        "name_enus": "Brightbrew Charm",
+        "quality": 4,
+        "icon": "inv_drink_08",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 600000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "sta": 45
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35751": {
+        "name_enus": "Assassin's Alchemist Stone",
+        "quality": 4,
+        "icon": "classic_spell_nature_healingway",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "mleatkpwr": 108,
+            "reqskill": 171,
+            "reqskillrank": 350,
+            "rgdatkpwr": 108,
+            "sellprice": 25000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31615": {
+        "name_enus": "Ancient Draenei Arcane Relic",
+        "quality": 2,
+        "icon": "inv_jewelry_talisman_13",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "sellprice": 8222,
+            "slotbak": 12,
+            "splcritstrkrtng": 21
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "5079": {
+        "name_enus": "Cold Basilisk Eye",
+        "quality": 2,
+        "icon": "inv_misc_eye_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 25000,
+            "cooldown": 300000,
+            "reqlevel": 35,
+            "sellprice": 4642,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18856": {
+        "name_enus": "Insignia of the Alliance",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 4,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18862": {
+        "name_enus": "Insignia of the Alliance",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34049": {
+        "name_enus": "Battlemaster's Audacity",
+        "quality": 4,
+        "icon": "spell_nature_focusedmind",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "spldmg": 47,
+            "splheal": 47
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "11819": {
+        "name_enus": "Second Wind",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_06",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 900000,
+            "reqlevel": 54,
+            "sellprice": 10000,
+            "slotbak": 12,
+            "spldmg": 8,
+            "splheal": 22
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33828": {
+        "name_enus": "Tome of Diabolic Remedy",
+        "quality": 4,
+        "icon": "inv_offhand_stratholme_a_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "manargn": 18,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10587": {
+        "name_enus": "Goblin Bomb Dispenser",
+        "quality": 1,
+        "icon": "inv_gizmo_06",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1800000,
+            "reqskill": 202,
+            "reqskillrank": 230,
+            "sellprice": 1500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18859": {
+        "name_enus": "Insignia of the Alliance",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 128,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34029": {
+        "name_enus": "Tiny Voodoo Mask",
+        "quality": 4,
+        "icon": "inv_helm_mask_zulgurub_d_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 600000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 8991,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30293": {
+        "name_enus": "Heavenly Inspiration",
+        "quality": 2,
+        "icon": "spell_nature_lightning",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "manargn": 10,
+            "maxcount": 1,
+            "sellprice": 21612,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13164": {
+        "name_enus": "Heart of the Scale",
+        "quality": 3,
+        "icon": "inv_misc_gem_bloodstone_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1800000,
+            "reqlevel": 56,
+            "sellprice": 10539,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18853": {
+        "name_enus": "Insignia of the Horde",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35748": {
+        "name_enus": "Guardian's Alchemist Stone",
+        "quality": 4,
+        "icon": "classic_spell_nature_healingway",
+        "screenshot": {},
+        "jsonequip": {
+            "defrtng": 54,
+            "maxcount": 1,
+            "reqskill": 171,
+            "reqskillrank": 350,
+            "sellprice": 25000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28109": {
+        "name_enus": "Essence Infused Mushroom",
+        "quality": 3,
+        "icon": "inv_mushroom_11",
+        "screenshot": {},
+        "jsonequip": {
+            "sellprice": 10307,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "20072": {
+        "name_enus": "Defiler's Talisman",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 58,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18371": {
+        "name_enus": "Mindtap Talisman",
+        "quality": 3,
+        "icon": "inv_battery_02",
+        "screenshot": {},
+        "jsonequip": {
+            "manargn": 11,
+            "reqlevel": 56,
+            "sellprice": 20737,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18638": {
+        "name_enus": "Hyper-Radiant Flame Reflector",
+        "quality": 3,
+        "icon": "inv_misc_enggizmos_04",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 1487500,
+            "cooldown": 300000,
+            "firres": 18,
+            "reqlevel": 53,
+            "reqskill": 202,
+            "reqskillrank": 290,
+            "sellprice": 12500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10576": {
+        "name_enus": "Mithril Mechanical Dragonling",
+        "quality": 2,
+        "icon": "inv_misc_head_dragon_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 500000,
+            "cooldown": 1200000,
+            "reqlevel": 40,
+            "reqskill": 202,
+            "reqskillrank": 250,
+            "sellprice": 6000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "4396": {
+        "name_enus": "Mechanical Dragonling",
+        "quality": 1,
+        "icon": "inv_misc_head_dragon_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 99000,
+            "cooldown": 1200000,
+            "reqlevel": 30,
+            "reqskill": 202,
+            "reqskillrank": 200,
+            "sellprice": 6000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32490": {
+        "name_enus": "Ashtongue Talisman of Acumen",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_27",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "maxcount": 1,
+            "reqfaction": 1012,
+            "reqrep": 7,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33832": {
+        "name_enus": "Battlemaster's Determination",
+        "quality": 4,
+        "icon": "ability_warrior_endlessrage",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "mleatkpwr": 80,
+            "reqlevel": 70,
+            "rgdatkpwr": 80,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35326": {
+        "name_enus": "Battlemaster's Alacrity",
+        "quality": 4,
+        "icon": "spell_arcane_arcanetorrent",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "splhastertng": 40
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "37128": {
+        "name_enus": "Balebrew Charm",
+        "quality": 4,
+        "icon": "inv_drink_04",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 600000,
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "sta": 45
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13379": {
+        "name_enus": "Piccolo of the Flaming Fire",
+        "quality": 3,
+        "icon": "inv_misc_flute_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 60000,
+            "reqlevel": 53,
+            "sellprice": 10734,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32486": {
+        "name_enus": "Ashtongue Talisman of Equilibrium",
+        "quality": 4,
+        "icon": "inv_qiraj_jewelengraved",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "maxcount": 1,
+            "reqfaction": 1012,
+            "reqrep": 7,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32782": {
+        "name_enus": "Time-Lost Figurine",
+        "quality": 3,
+        "icon": "inv_qirajidol_war",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1800000,
+            "reqlevel": 68,
+            "sellprice": 4618,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13171": {
+        "name_enus": "Smokey's Lighter",
+        "quality": 2,
+        "icon": "spell_fire_searingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "sellprice": 7000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18354": {
+        "name_enus": "Pimgib's Collar",
+        "quality": 3,
+        "icon": "inv_jewelry_amulet_05",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 256,
+            "reqlevel": 55,
+            "sellprice": 17466,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32485": {
+        "name_enus": "Ashtongue Talisman of Valor",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_18",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1,
+            "maxcount": 1,
+            "reqfaction": 1012,
+            "reqrep": 7,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19957": {
+        "name_enus": "Hazza'rah's Charm of Destruction",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_19",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 256,
+            "cooldown": 180000,
+            "itemset": 481,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "20071": {
+        "name_enus": "Talisman of Arathor",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 58,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32488": {
+        "name_enus": "Ashtongue Talisman of Insight",
+        "quality": 4,
+        "icon": "inv_misc_elvencoins",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 128,
+            "maxcount": 1,
+            "reqfaction": 1012,
+            "reqrep": 7,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33830": {
+        "name_enus": "Ancient Aqir Artifact",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "parryrtng": 45,
+            "reqlevel": 70,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25996": {
+        "name_enus": "Emblem of Perseverance",
+        "quality": 2,
+        "icon": "inv_shield_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "maxcount": 1,
+            "sellprice": 21612,
+            "slotbak": 12,
+            "sta": 30
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "833": {
+        "name_enus": "Lifestone",
+        "quality": 4,
+        "icon": "inv_ore_truesilver_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 290000,
+            "cooldown": 1800000,
+            "healthrgn": 10,
+            "reqlevel": 51,
+            "sellprice": 28000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21117": {
+        "name_enus": "Talisman of Arathor",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 48,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21568": {
+        "name_enus": "Rune of Duty",
+        "quality": 3,
+        "icon": "inv_misc_rune_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 15,
+            "healthrgn": 3,
+            "maxcount": 1,
+            "reqlevel": 20,
+            "slotbak": 12,
+            "sta": 4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23716": {
+        "name_enus": "Carved Ogre Idol",
+        "quality": 4,
+        "icon": "inv_misc_idol_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 600000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19956": {
+        "name_enus": "Wushoolay's Charm of Spirits",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_19",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "cooldown": 180000,
+            "itemset": 476,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "15873": {
+        "name_enus": "Ragged John's Neverending Cup",
+        "quality": 3,
+        "icon": "inv_drink_03",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1800000,
+            "dmgrange": 0.2,
+            "sellprice": 8144,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18863": {
+        "name_enus": "Insignia of the Alliance",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23042": {
+        "name_enus": "Loatheb's Reflection",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas05",
+        "screenshot": {},
+        "jsonequip": {
+            "arcres": 13,
+            "cooldown": 120000,
+            "firres": 13,
+            "frores": 13,
+            "natres": 13,
+            "reqlevel": 60,
+            "sellprice": 91160,
+            "shares": 13,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10723": {
+        "name_enus": "Gnomish Ham Radio",
+        "quality": 1,
+        "icon": "spell_holy_dizzy",
+        "screenshot": {},
+        "jsonequip": {
+            "reqskillrank": 220,
+            "sellprice": 750,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27900": {
+        "name_enus": "Jewel of Charismatic Mystique",
+        "quality": 3,
+        "icon": "inv_misc_gem_lionseye_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "reqlevel": 68,
+            "sellprice": 21612,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32771": {
+        "name_enus": "Airman's Ribbon of Gallantry",
+        "quality": 4,
+        "icon": "inv_misc_ribbon_01",
+        "screenshot": {},
+        "jsonequip": {
+            "buyprice": 41230,
+            "maxcount": 1,
+            "reqfaction": 1031,
+            "reqlevel": 70,
+            "reqrep": 7,
+            "sellprice": 10307,
+            "slotbak": 12,
+            "splcritstrkrtng": 34
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25787": {
+        "name_enus": "Charm of Alacrity",
+        "quality": 2,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 90000,
+            "maxcount": 1,
+            "sellprice": 8910,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21579": {
+        "name_enus": "Vanquished Tentacle of C'Thun",
+        "quality": 4,
+        "icon": "inv_misc_ahnqirajtrinket_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 60,
+            "sellprice": 108030,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32695": {
+        "name_enus": "Captain's Badge",
+        "quality": 3,
+        "icon": "inv_misc_gem_sapphire_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 600000,
+            "reqfaction": 1015,
+            "reqrep": 5,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "20525": {
+        "name_enus": "Earthen Sigil",
+        "quality": 3,
+        "icon": "spell_nature_nullward",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18438": {
+        "name_enus": "Sergeant's Mark",
+        "quality": 3,
+        "icon": "inv_shield_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 35,
+            "sellprice": 5000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18845": {
+        "name_enus": "Insignia of the Horde",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19345": {
+        "name_enus": "Aegis of Preservation",
+        "quality": 4,
+        "icon": "classic_spell_holy_blessingofprotection",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "cooldown": 300000,
+            "reqlevel": 60,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21488": {
+        "name_enus": "Fetish of Chitinous Spikes",
+        "quality": 3,
+        "icon": "inv_misc_ahnqirajtrinket_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 60,
+            "sellprice": 67812,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "14557": {
+        "name_enus": "The Lion Horn of Stormwind",
+        "quality": 4,
+        "icon": "inv_misc_horn_03",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 800230,
+            "reqlevel": 58,
+            "sellprice": 17880,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "2802": {
+        "name_enus": "Blazing Emblem",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 272477,
+            "cooldown": 600000,
+            "dmgrange": 0.2,
+            "firres": 15,
+            "reqlevel": 38,
+            "sellprice": 1625,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10716": {
+        "name_enus": "Gnomish Shrink Ray",
+        "quality": 1,
+        "icon": "inv_gizmo_09",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 72200,
+            "cooldown": 300000,
+            "reqskill": 202,
+            "reqskillrank": 205,
+            "sellprice": 750,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "2922": {
+        "name_enus": "Spirit Relic",
+        "quality": 1,
+        "icon": "inv_misc_orb_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 15,
+            "sellprice": 250,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "3005": {
+        "name_enus": "Relic of Truth",
+        "quality": 1,
+        "icon": "inv_jewelry_talisman_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 15,
+            "sellprice": 250,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "2921": {
+        "name_enus": "Blessed Relic",
+        "quality": 1,
+        "icon": "inv_misc_rune_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 10,
+            "sellprice": 125,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "3004": {
+        "name_enus": "Relic of the Dead",
+        "quality": 1,
+        "icon": "inv_misc_urn_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 10,
+            "sellprice": 125,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32493": {
+        "name_enus": "Ashtongue Talisman of Shadows",
+        "quality": 4,
+        "icon": "inv_qirajidol_night",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 256,
+            "maxcount": 1,
+            "reqfaction": 1012,
+            "reqrep": 7,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34576": {
+        "name_enus": "Battlemaster's Cruelty",
+        "quality": 4,
+        "icon": "ability_warrior_focusedrage",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "mlecritstrkrtng": 40,
+            "reqlevel": 70,
+            "rgdcritstrkrtng": 40,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34579": {
+        "name_enus": "Battlemaster's Audacity",
+        "quality": 4,
+        "icon": "spell_nature_focusedmind",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "spldmg": 47,
+            "splheal": 47
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13213": {
+        "name_enus": "Smolderweb's Eye",
+        "quality": 3,
+        "icon": "inv_misc_gem_pearl_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqlevel": 55,
+            "sellprice": 9633,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21115": {
+        "name_enus": "Defiler's Talisman",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 48,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32491": {
+        "name_enus": "Ashtongue Talisman of Vision",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_31",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "maxcount": 1,
+            "reqfaction": 1012,
+            "reqrep": 7,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34163": {
+        "name_enus": "Battlemaster's Cruelty",
+        "quality": 4,
+        "icon": "ability_warrior_focusedrage",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "mlecritstrkrtng": 40,
+            "reqlevel": 70,
+            "rgdcritstrkrtng": 40,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25798": {
+        "name_enus": "130 Epic Warrior Trinket",
+        "quality": 4,
+        "icon": "inv_trinket_naxxramas03",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "mleatkpwr": 80,
+            "reqlevel": 70,
+            "rgdatkpwr": 80,
+            "sellprice": 91160,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25786": {
+        "name_enus": "Hypnotist's Watch",
+        "quality": 2,
+        "icon": "inv_misc_gem_variety_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "dmgrange": 0.2,
+            "sellprice": 7464,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "17082": {
+        "name_enus": "Shard of the Flame",
+        "quality": 4,
+        "icon": "inv_misc_orb_05",
+        "screenshot": {},
+        "jsonequip": {
+            "healthrgn": 16,
+            "itemset": 241,
+            "reqlevel": 60,
+            "sellprice": 46146,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35485": {
+        "name_enus": "Goblin Rocket Launcher [PH]",
+        "quality": 3,
+        "icon": "inv_gizmo_rocketlauncher",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "reqskill": 202,
+            "reqskillrank": 350,
+            "reqspell": 20222,
+            "sellprice": 22500,
+            "slotbak": 12,
+            "sta": 45
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19930": {
+        "name_enus": "Mar'li's Eye",
+        "quality": 3,
+        "icon": "inv_zulgurubtrinket",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 60,
+            "sellprice": 73852,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "2920": {
+        "name_enus": "Sacred Relic",
+        "quality": 1,
+        "icon": "inv_misc_candle_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 5,
+            "sellprice": 50,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "3003": {
+        "name_enus": "Relic of the Eye",
+        "quality": 1,
+        "icon": "inv_misc_eye_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 5,
+            "sellprice": 50,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "18864": {
+        "name_enus": "Insignia of the Alliance",
+        "quality": 3,
+        "icon": "inv_jewelry_trinketpvp_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "cooldown": 300000,
+            "maxcount": 1,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34162": {
+        "name_enus": "Battlemaster's Depravity",
+        "quality": 4,
+        "icon": "ability_rogue_sinistercalling",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "splcritstrkrtng": 40
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27416": {
+        "name_enus": "Fetish of the Fallen",
+        "quality": 3,
+        "icon": "inv_helmet_45",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 120000,
+            "mleatkpwr": 56,
+            "reqlevel": 65,
+            "rgdatkpwr": 56,
+            "sellprice": 10307,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21181": {
+        "name_enus": "Grace of Earth",
+        "quality": 3,
+        "icon": "inv_misc_herb_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "maxcount": 1,
+            "sellprice": 21612,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19952": {
+        "name_enus": "Gri'lek's Charm of Valor",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_19",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "cooldown": 180000,
+            "itemset": 475,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "15867": {
+        "name_enus": "Prismcharm",
+        "quality": 2,
+        "icon": "inv_misc_gem_variety_02",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 1800000,
+            "dmgrange": 0.2,
+            "sellprice": 7464,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "4030": {
+        "name_enus": "Holy Relic Water",
+        "quality": 1,
+        "icon": "inv_potion_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 40,
+            "sellprice": 4000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "10585": {
+        "name_enus": "Goblin Radio",
+        "quality": 1,
+        "icon": "spell_holy_dizzy",
+        "screenshot": {},
+        "jsonequip": {
+            "reqskillrank": 220,
+            "sellprice": 750,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "2923": {
+        "name_enus": "Relic of Righteousness",
+        "quality": 1,
+        "icon": "inv_jewelry_talisman_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 20,
+            "sellprice": 500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "3006": {
+        "name_enus": "Holy Relic Shard",
+        "quality": 1,
+        "icon": "inv_misc_gem_diamond_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 20,
+            "sellprice": 500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19951": {
+        "name_enus": "Gri'lek's Charm of Might",
+        "quality": 4,
+        "icon": "inv_jewelry_necklace_19",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1,
+            "cooldown": 180000,
+            "itemset": 474,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13382": {
+        "name_enus": "Cannonball Runner",
+        "quality": 3,
+        "icon": "inv_misc_bomb_04",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "reqlevel": 56,
+            "sellprice": 10850,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "20084": {
+        "name_enus": "Hunting Net",
+        "quality": 3,
+        "icon": "inv_misc_net_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "4032": {
+        "name_enus": "Radiant Relic Hammer",
+        "quality": 1,
+        "icon": "inv_hammer_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 45,
+            "sellprice": 5000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "4033": {
+        "name_enus": "Dawn's Glow",
+        "quality": 1,
+        "icon": "inv_misc_gem_opal_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 45,
+            "sellprice": 5000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "4031": {
+        "name_enus": "Hallowed Relic Charm",
+        "quality": 1,
+        "icon": "inv_jewelry_talisman_06",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 40,
+            "sellprice": 4000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "3788": {
+        "name_enus": "Soul Crystal Relic",
+        "quality": 1,
+        "icon": "inv_misc_gem_crystal_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 35,
+            "sellprice": 3000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "3791": {
+        "name_enus": "Relic of the Light",
+        "quality": 1,
+        "icon": "inv_misc_lantern_01",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 35,
+            "sellprice": 3000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24420": {
+        "name_enus": "Unique Equippable Test Item",
+        "quality": 0,
+        "icon": "inv_sword_09",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 30000,
+            "reqlevel": 35,
+            "sellprice": 1087,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "3789": {
+        "name_enus": "Relic Stone of Piety",
+        "quality": 1,
+        "icon": "inv_misc_orb_03",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 30,
+            "sellprice": 2000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "3790": {
+        "name_enus": "Consecrated Relic Parchment",
+        "quality": 1,
+        "icon": "inv_scroll_02",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 30,
+            "sellprice": 2000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21120": {
+        "name_enus": "Defiler's Talisman",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 28,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "2919": {
+        "name_enus": "Relic of the Ancients",
+        "quality": 1,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 25,
+            "sellprice": 1000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "3002": {
+        "name_enus": "Relic Horn of Justice",
+        "quality": 1,
+        "icon": "inv_misc_horn_03",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 16,
+            "dmgrange": 0.2,
+            "maxcount": 1,
+            "reqlevel": 25,
+            "sellprice": 1000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34577": {
+        "name_enus": "Battlemaster's Depravity",
+        "quality": 4,
+        "icon": "ability_rogue_sinistercalling",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "splcritstrkrtng": 40
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19340": {
+        "name_enus": "Rune of Metamorphosis",
+        "quality": 4,
+        "icon": "inv_misc_rune_06",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "cooldown": 300000,
+            "reqlevel": 60,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28798": {
+        "name_enus": "Badge of the Protector",
+        "quality": 1,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "maxcount": 1,
+            "sellprice": 2500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "17744": {
+        "name_enus": "Heart of Noxxion",
+        "quality": 3,
+        "icon": "inv_misc_gem_pearl_06",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 300000,
+            "natres": 10,
+            "reqlevel": 46,
+            "sellprice": 9031,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "8663": {
+        "name_enus": "Mithril Insignia",
+        "quality": 2,
+        "icon": "inv_misc_armorkit_03",
+        "screenshot": {},
+        "jsonequip": {
+            "armor": 50,
+            "maxcount": 1,
+            "reqskill": 164,
+            "reqskillrank": 210,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "7506": {
+        "name_enus": "Gnomish Universal Remote",
+        "quality": 2,
+        "icon": "inv_misc_pocketwatch_01",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 10000,
+            "cooldown": 180000,
+            "reqskill": 202,
+            "reqskillrank": 125,
+            "sellprice": 500,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "31360": {
+        "name_enus": "Unfinished Headpiece",
+        "quality": 1,
+        "icon": "inv_staff_23",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 67,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "19342": {
+        "name_enus": "Venomous Totem",
+        "quality": 4,
+        "icon": "inv_misc_idol_03",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 8,
+            "cooldown": 300000,
+            "reqlevel": 60,
+            "sellprice": 72039,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34626": {
+        "name_enus": "Prototype Tonk Controller",
+        "quality": 1,
+        "icon": "inv_gizmo_goblingtonkcontroller",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 30000,
+            "nsockets": 3,
+            "sellprice": 33796,
+            "slotbak": 12,
+            "socket1": 2,
+            "socket2": 3,
+            "socket3": 4
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21116": {
+        "name_enus": "Defiler's Talisman",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 38,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23714": {
+        "name_enus": "Perpetual Purple Firework",
+        "quality": 4,
+        "icon": "inv_misc_missilesmall_purple",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 30000,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35327": {
+        "name_enus": "Battlemaster's Alacrity",
+        "quality": 4,
+        "icon": "spell_arcane_arcanetorrent",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "splhastertng": 40
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32694": {
+        "name_enus": "Overseer's Badge",
+        "quality": 2,
+        "icon": "inv_misc_gem_sapphire_01",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 600000,
+            "reqfaction": 1015,
+            "reqrep": 4,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "34580": {
+        "name_enus": "Battlemaster's Perseverance",
+        "quality": 4,
+        "icon": "spell_holy_heroism",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "reqlevel": 70,
+            "slotbak": 12,
+            "spldmg": 30,
+            "splheal": 88
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21119": {
+        "name_enus": "Talisman of Arathor",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 28,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "21118": {
+        "name_enus": "Talisman of Arathor",
+        "quality": 3,
+        "icon": "inv_jewelry_talisman_05",
+        "screenshot": {},
+        "jsonequip": {
+            "cooldown": 180000,
+            "maxcount": 1,
+            "reqlevel": 38,
+            "slotbak": 12
+        },
+        "attainable": 0,
+        "flags2": 24580
+    }
+}

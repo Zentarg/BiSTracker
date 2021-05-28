@@ -33,7 +33,7 @@ function BiSTracker:ToggleMainFrame()
     end
 end
 
-BiSTracker.Version = 4.3
+BiSTracker.Version = 4.4
 
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
@@ -195,12 +195,20 @@ function BiSTracker:Init()
     BiSTracker:InitUI()
 end
 
+function BiSTracker:InitQuestieDB()
+    if (not IsAddOnLoaded("Questie")) then
+		return
+	end
+    BiSTracker.QuestieDB = QuestieLoader:ImportModule("QuestieDB")
+end
+
 function BiSTracker:OnInitialize()
     BiSTracker.InitDB()
     BiSTracker:RegisterEvents()
     BiSTracker:Init()
     BiSTracker:InitImportExport()
     BiSTracker:InitOptions()
+    BiSTracker:InitQuestieDB()
     icon:Register("BiSTracker", ldb, self.db.profile.minimap)
 end
 
