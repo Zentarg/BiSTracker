@@ -14,23 +14,3 @@ function BiSTracker:CharacterHasItem(itemId)
 	end
 	return hasItem;
 end
-
-function BiSTracker:GetItemData(itemId)
-	if (BiSTracker.QuestieDB == nil) then
-		return
-	end
-
-	local item = BiSTracker.QuestieDB:GetItem(itemId)
-	print(itemId.." sources:")
-	for k,v in pairs(item) do
-		print(k)
-	end
-	
-	for k,v in pairs(item.Sources) do
-		print(k)
-		print(v)
-		print("------")
-	end
-	
-
-end

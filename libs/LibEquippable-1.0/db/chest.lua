@@ -10,1357 +10,1357 @@ local names = {}
 
 
 -- Item Data
-items[29525] = {id=29525,name="Primalstrike Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35589,DropChance=0,Zone=""}}
-items[21871] = {id=21871,name="Frozen Shadoweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26758,DropChance=0,Zone=""}}
-items[21848] = {id=21848,name="Spellfire Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26754,DropChance=0,Zone=""}}
-items[21875] = {id=21875,name="Primal Mooncloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26762,DropChance=0,Zone=""}}
-items[29515] = {id=29515,name="Ebon Netherscale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35575,DropChance=0,Zone=""}}
-items[12628] = {id=12628,name="Demon Forged Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16667,DropChance=0,Zone=""}}
-items[29522] = {id=29522,name="Windhawk Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35585,DropChance=0,Zone=""}}
-items[29519] = {id=29519,name="Netherstrike Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35580,DropChance=0,Zone=""}}
-items[28699] = {id=28699,name="Grand Marshal's Plate Chestpiece",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28228] = {id=28228,name="Beast Lord Cuirass",obtain={NpcID=17977,NpcName="Warp Splinter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Botanica"}}
-items[29341] = {id=29341,name="Auchenai Anchorite's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10164,Recipe=false,RecipeID=0,DropChance=0,Zone="Auchenai Crypts"}}
-items[10021] = {id=10021,name="Dreamweave Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12070,DropChance=0,Zone=""}}
-items[16473] = {id=16473,name="Field Marshal's Lamellar Chestplate",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16565] = {id=16565,name="Warlord's Chain Chestpiece",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28264] = {id=28264,name="Wastewalker Tunic",obtain={NpcID=17377,NpcName="Keli'dan the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.7,Zone="The Blood Furnace"}}
-items[25689] = {id=25689,name="Heavy Clefthoof Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32495,DropChance=0,Zone=""}}
-items[16549] = {id=16549,name="Warlord's Dragonhide Hauberk",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[24544] = {id=24544,name="Gladiator's Plate Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19682] = {id=19682,name="Bloodvine Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24091,DropChance=0,Zone=""}}
-items[28851] = {id=28851,name="High Warlord's Plate Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16452] = {id=16452,name="Field Marshal's Dragonhide Breastplate",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[31717] = {id=31717,name="Shadowcast Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10876,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[28964] = {id=28964,name="Voidheart Robe",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[28628] = {id=28628,name="Grand Marshal's Dreadweave Robe",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[24396] = {id=24396,name="Vest of Vengeance",obtain={NpcID=17377,NpcName="Keli'dan the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.0,Zone="The Blood Furnace"}}
-items[28262] = {id=28262,name="Jade-Skull Breastplate",obtain={NpcID=19221,NpcName="Nethermancer Sepethrea",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.8,Zone="The Mechanar"}}
-items[16577] = {id=16577,name="Warlord's Mail Armor",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28484] = {id=28484,name="Bulwark of Kings",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34534,DropChance=0,Zone=""}}
-items[30730] = {id=30730,name="Terrorweave Tunic",obtain={NpcID=17711,NpcName="Doomwalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.1,Zone="Unknown"}}
-items[186020] = {id=186020,name="Communal Armor",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34369] = {id=34369,name="Carapace of Sun and Shadow",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46138,DropChance=0,Zone=""}}
-items[23272] = {id=23272,name="Knight-Captain's Lamellar Breastplate",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28613] = {id=28613,name="Grand Marshal's Chain Armor",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28230] = {id=28230,name="Hallowed Garments",obtain={NpcID=18708,NpcName="Murmur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Shadow Labyrinth"}}
-items[28485] = {id=28485,name="Bulwark of the Ancient Kings",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36257,DropChance=0,Zone=""}}
-items[17592] = {id=17592,name="Warlord's Dreadweave Robe",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[34364] = {id=34364,name="Sunfire Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46130,DropChance=0,Zone=""}}
-items[16477] = {id=16477,name="Field Marshal's Plate Armor",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28204] = {id=28204,name="Tunic of Assassination",obtain={NpcID=19220,NpcName="Pathaleon the Calculator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Mechanar"}}
-items[30933] = {id=30933,name="Hauberk of Karabor",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10651,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[16453] = {id=16453,name="Field Marshal's Leather Chestpiece",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29096] = {id=29096,name="Breastplate of Malorne",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28203] = {id=28203,name="Breastplate of the Righteous",obtain={NpcID=17798,NpcName="Warlord Kalithresh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.4,Zone="The Steamvault"}}
-items[28601] = {id=28601,name="Chestguard of the Conniver",obtain={NpcID=17225,NpcName="Nightbane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.5,Zone="Karazhan"}}
-items[16466] = {id=16466,name="Field Marshal's Chain Breastplate",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[7939] = {id=7939,name="Truesilver Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9974,DropChance=0,Zone=""}}
-items[28205] = {id=28205,name="Breastplate of the Bold",obtain={NpcID=21466,NpcName="Harbinger Skyriss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.0,Zone="The Arcatraz"}}
-items[29615] = {id=29615,name="Warlord's Lamellar Chestplate",obtain={NpcID=12795,NpcName="First Sergeant Hola'mahi (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[28597] = {id=28597,name="Panzar'Thar Breastplate",obtain={NpcID=17225,NpcName="Nightbane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.5,Zone="Karazhan"}}
-items[11726] = {id=11726,name="Savage Gladiator Chain",obtain={NpcID=9027,NpcName="Gorosh the Dervish",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.6,Zone="Blackrock Depths"}}
-items[28483] = {id=28483,name="Breastplate of Kings",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34533,DropChance=0,Zone=""}}
-items[16443] = {id=16443,name="Field Marshal's Silk Vestments",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28602] = {id=28602,name="Robe of the Elder Scribes",obtain={NpcID=17225,NpcName="Nightbane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Karazhan"}}
-items[31297] = {id=31297,name="Robe of the Crimson Order",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28805] = {id=28805,name="High Warlord's Chain Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28578] = {id=28578,name="Masquerade Gown",obtain={NpcID=17534,NpcName="Julianne",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.0,Zone="Karazhan"}}
-items[24397] = {id=24397,name="Raiments of Divine Authority",obtain={NpcID=17377,NpcName="Keli'dan the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.3,Zone="The Blood Furnace"}}
-items[29045] = {id=29045,name="Netherblade Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28717] = {id=28717,name="Grand Marshal's Silk Raiment",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[19685] = {id=19685,name="Primal Batskin Jerkin",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24121,DropChance=0,Zone=""}}
-items[28688] = {id=28688,name="Grand Marshal's Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34375] = {id=34375,name="Sun-Drenched Scale Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46139,DropChance=0,Zone=""}}
-items[16541] = {id=16541,name="Warlord's Plate Armor",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28623] = {id=28623,name="Grand Marshal's Dragonhide Tunic",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[22436] = {id=22436,name="Cryptstalker Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9054,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[8211] = {id=8211,name="Wild Leather Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10544,DropChance=0,Zone=""}}
-items[22669] = {id=22669,name="Icebane Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28242,DropChance=0,Zone=""}}
-items[23294] = {id=23294,name="Knight-Captain's Dragonhide Chestpiece",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[22416] = {id=22416,name="Dreadnaught Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9034,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[17605] = {id=17605,name="Field Marshal's Satin Vestments",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28403] = {id=28403,name="Doomplate Chestguard",obtain={NpcID=20912,NpcName="Harbinger Skyriss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.2,Zone="The Arcatraz"}}
-items[31625] = {id=31625,name="Grand Marshal's Mooncloth Vestments",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[23297] = {id=23297,name="Knight-Captain's Dreadweave Tunic",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28709] = {id=28709,name="Grand Marshal's Scaled Chestpiece",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[31593] = {id=31593,name="Grand Marshal's Kodohide Tunic",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29066] = {id=29066,name="Justicar Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28662] = {id=28662,name="Breastplate of the Lightbinder",obtain={NpcID=15688,NpcName="Terestian Illhoof",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Karazhan"}}
-items[15047] = {id=15047,name="Red Dragonscale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19054,DropChance=0,Zone=""}}
-items[20407] = {id=20407,name="Twilight Cultist Robe",obtain={NpcID=15542,NpcName="Twilight Marauder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.8,Zone="Silithus"}}
-items[21389] = {id=21389,name="Avenger's Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8627,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[25819] = {id=25819,name="Breastplate of the Warbringer",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10011,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[23522] = {id=23522,name="Ragesteel Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29645,DropChance=0,Zone=""}}
-items[29337] = {id=29337,name="The Exarch's Protector",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10164,Recipe=false,RecipeID=0,DropChance=0,Zone="Auchenai Crypts"}}
-items[29050] = {id=29050,name="Robes of the Incarnate",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[29077] = {id=29077,name="Vestments of the Aldor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28600] = {id=28600,name="Stonebough Jerkin",obtain={NpcID=17225,NpcName="Nightbane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Karazhan"}}
-items[29012] = {id=29012,name="Warbringer Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14624] = {id=14624,name="Deathbone Chestplate",obtain={NpcID=10504,NpcName="Lord Alexei Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.4,Zone="Scholomance"}}
-items[29340] = {id=29340,name="Auchenai Monk's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10164,Recipe=false,RecipeID=0,DropChance=0,Zone="Auchenai Crypts"}}
-items[19825] = {id=19825,name="Zandalar Freethinker's Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8055,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[15413] = {id=15413,name="Ornate Adamantium Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5944,Recipe=false,RecipeID=0,DropChance=0,Zone="Western Plaguelands"}}
-items[29056] = {id=29056,name="Shroud of the Incarnate",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[31718] = {id=31718,name="Darkstorm Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10876,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[17581] = {id=17581,name="Field Marshal's Dreadweave Robe",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[23527] = {id=23527,name="Earthpeace Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29649,DropChance=0,Zone=""}}
-items[35407] = {id=35407,name="Savage Plate Chestpiece",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[28599] = {id=28599,name="Scaled Breastplate of Carnage",obtain={NpcID=17225,NpcName="Nightbane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Karazhan"}}
-items[28821] = {id=28821,name="High Warlord's Dreadweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14136] = {id=14136,name="Robe of Winter Night",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18436,DropChance=0,Zone=""}}
-items[30258] = {id=30258,name="Chestplate of A'dal",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10280,Recipe=false,RecipeID=0,DropChance=0,Zone="Shattrath City"}}
-items[22191] = {id=22191,name="Obsidian Mail Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=27590,DropChance=0,Zone=""}}
-items[28334] = {id=28334,name="Gladiator's Chain Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34373] = {id=34373,name="Embrace of the Phoenix",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46137,DropChance=0,Zone=""}}
-items[25831] = {id=25831,name="Gladiator's Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28735] = {id=28735,name="Earthblood Chestguard",obtain={NpcID=15689,NpcName="Netherspite",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Karazhan"}}
-items[28840] = {id=28840,name="High Warlord's Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33204] = {id=33204,name="Shadowprowler's Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=42731,DropChance=0,Zone=""}}
-items[28130] = {id=28130,name="Gladiator's Dragonhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29071] = {id=29071,name="Justicar Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22464] = {id=22464,name="Earthshatter Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9068,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[16563] = {id=16563,name="Warlord's Leather Breastplate",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29019] = {id=29019,name="Warbringer Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22425] = {id=22425,name="Redemption Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9043,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[30298] = {id=30298,name="Void Slayer's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10439,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[22652] = {id=22652,name="Glacial Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28207,DropChance=0,Zone=""}}
-items[29038] = {id=29038,name="Cyclone Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31629] = {id=31629,name="High Warlord's Mooncloth Vestments",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22504] = {id=22504,name="Plagueheart Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9103,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[29062] = {id=29062,name="Justicar Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24021] = {id=24021,name="Light-Touched Breastplate",obtain={NpcID=17306,NpcName="Watchkeeper Gargolmar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Hellfire Ramparts"}}
-items[34377] = {id=34377,name="Hard Khorium Battleplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46144,DropChance=0,Zone=""}}
-items[34397] = {id=34397,name="Bladed Chaos Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14106] = {id=14106,name="Felcloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18451,DropChance=0,Zone=""}}
-items[12422] = {id=12422,name="Imperial Plate Chest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16663,DropChance=0,Zone=""}}
-items[22274] = {id=22274,name="Grizzled Pelt",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9053,Recipe=false,RecipeID=0,DropChance=0,Zone="Druid"}}
-items[28191] = {id=28191,name="Mana-Etched Vestments",obtain={NpcID=18096,NpcName="Epoch Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.1,Zone="Old Hillsbrad Foothills"}}
-items[29602] = {id=29602,name="Legionnaire's Lamellar Breastplate",obtain={NpcID=12795,NpcName="First Sergeant Hola'mahi (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[13346] = {id=13346,name="Robes of the Exalted",obtain={NpcID=10440,NpcName="Baron Rivendare",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.4,Zone="Stratholme"}}
-items[14154] = {id=14154,name="Truefaith Vestments",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18456,DropChance=0,Zone=""}}
-items[10775] = {id=10775,name="Carapace of Tuten'kash",obtain={NpcID=7355,NpcName="Tuten'kash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.5,Zone="Razorfen Downs"}}
-items[25696] = {id=25696,name="Felstalker Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32500,DropChance=0,Zone=""}}
-items[22876] = {id=22876,name="Legionnaire's Mail Hauberk",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29609] = {id=29609,name="Field Marshal's Mail Armor",obtain={NpcID=12785,NpcName="Sergeant Major Clate (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[28708] = {id=28708,name="Grand Marshal's Satin Robe",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[23226] = {id=23226,name="Ghoul Skin Tunic",obtain={NpcID=16156,NpcName="Dark Touched Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Naxxramas"}}
-items[15050] = {id=15050,name="Black Dragonscale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19085,DropChance=0,Zone=""}}
-items[12462] = {id=12462,name="Embrace of the Wind Serpent",obtain={NpcID=8440,NpcName="Shade of Hakkar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="The Temple of Atal'Hakkar"}}
-items[28232] = {id=28232,name="Robe of Oblivion",obtain={NpcID=18708,NpcName="Murmur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Shadow Labyrinth"}}
-items[28841] = {id=28841,name="High Warlord's Linked Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35370] = {id=35370,name="Opportunist's Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21854] = {id=21854,name="Netherweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26773,DropChance=0,Zone=""}}
-items[31127] = {id=31127,name="Hauberk of Totemic Rage",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25997] = {id=25997,name="Gladiator's Linked Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23298] = {id=23298,name="Knight-Captain's Leather Chestpiece",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29780] = {id=29780,name="Kirin Tor Apprentice's Robes",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10320,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[21343] = {id=21343,name="Enigma Robes",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8633,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[19828] = {id=19828,name="Zandalar Augur's Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8075,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[29082] = {id=29082,name="Demon Stalker Harness",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[29087] = {id=29087,name="Chestguard of Malorne",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35376] = {id=35376,name="Stalker's Chain Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13168] = {id=13168,name="Plate of the Shaman King",obtain={NpcID=9196,NpcName="Highlord Omokk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.8,Zone="Blackrock Spire"}}
-items[23565] = {id=23565,name="Embrace of the Twisting Nether",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36256,DropChance=0,Zone=""}}
-items[30107] = {id=30107,name="Vestments of the Sea-Witch",obtain={NpcID=21212,NpcName="Lady Vashj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.6,Zone="Serpentshrine Cavern"}}
-items[29091] = {id=29091,name="Chestpiece of Malorne",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28869] = {id=28869,name="High Warlord's Silk Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35365] = {id=35365,name="Kodohide Robe",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[186036] = {id=186036,name="Communal Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28679] = {id=28679,name="Grand Marshal's Lamellar Chestpiece",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[31340] = {id=31340,name="Will of Edward the Odd",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21663] = {id=21663,name="Robes of the Guardian Saint",obtain={NpcID=15510,NpcName="Fankriss the Unyielding",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.2,Zone="Ahn'Qiraj"}}
-items[23305] = {id=23305,name="Knight-Captain's Silk Tunic",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29129] = {id=29129,name="Anchorite's Robes",obtain={NpcID=19321,NpcName="Quartermaster Endarin (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[22496] = {id=22496,name="Frostfire Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9095,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[24363] = {id=24363,name="Unscarred Breastplate",obtain={NpcID=17942,NpcName="Quagmirran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Slave Pens"}}
-items[21855] = {id=21855,name="Netherweave Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26774,DropChance=0,Zone=""}}
-items[22476] = {id=22476,name="Bonescythe Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9077,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[18530] = {id=18530,name="Ogre Forged Hauberk",obtain={NpcID=14353,NpcName="Mizzle the Crafty",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Dire Maul"}}
-items[20530] = {id=20530,name="Robes of Servitude",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8422,Recipe=false,RecipeID=0,DropChance=0,Zone="Warlock"}}
-items[22272] = {id=22272,name="Forest's Embrace",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9053,Recipe=false,RecipeID=0,DropChance=0,Zone="Druid"}}
-items[34371] = {id=34371,name="Leather Chestguard of the Sun",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46136,DropChance=0,Zone=""}}
-items[22664] = {id=22664,name="Icy Scale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28222,DropChance=0,Zone=""}}
-items[34211] = {id=34211,name="Harness of Carnal Instinct",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.2,Zone="Sunwell Plateau"}}
-items[23564] = {id=23564,name="Twisting Nether Chain Shirt",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34530,DropChance=0,Zone=""}}
-items[21861] = {id=21861,name="Imbued Netherweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26777,DropChance=0,Zone=""}}
-items[22877] = {id=22877,name="Legionnaire's Dragonhide Chestpiece",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[12618] = {id=12618,name="Enchanted Thorium Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16745,DropChance=0,Zone=""}}
-items[940] = {id=940,name="Robes of Insight",obtain={NpcID=4469,NpcName="Emerald Ooze",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="The Hinterlands"}}
-items[25856] = {id=25856,name="Gladiator's Silk Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29033] = {id=29033,name="Cyclone Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28202] = {id=28202,name="Moonglade Robe",obtain={NpcID=19220,NpcName="Pathaleon the Calculator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Mechanar"}}
-items[28689] = {id=28689,name="Grand Marshal's Linked Armor",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16674] = {id=16674,name="Beaststalker's Tunic",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Blackrock Spire"}}
-items[12757] = {id=12757,name="Breastplate of Bloodthirst",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5068,Recipe=false,RecipeID=0,DropChance=0,Zone="Winterspring"}}
-items[28342] = {id=28342,name="Warp Infused Drape",obtain={NpcID=17977,NpcName="Warp Splinter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Botanica"}}
-items[22512] = {id=22512,name="Robe of Faith",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9111,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[22884] = {id=22884,name="Legionnaire's Dreadweave Tunic",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[14152] = {id=14152,name="Robe of the Archmage",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18457,DropChance=0,Zone=""}}
-items[31379] = {id=31379,name="Gladiator's Kodohide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31413] = {id=31413,name="Gladiator's Mooncloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[17624] = {id=17624,name="Warlord's Satin Robes",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[30054] = {id=30054,name="Ranger-General's Chestguard",obtain={NpcID=21216,NpcName="Hydross the Unstable",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.7,Zone="Serpentshrine Cavern"}}
-items[29127] = {id=29127,name="Vindicator's Hauberk",obtain={NpcID=19321,NpcName="Quartermaster Endarin (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[17742] = {id=17742,name="Fungus Shroud Armor",obtain={NpcID=12237,NpcName="Meshlok the Harvester",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=27.9,Zone="Maraudon"}}
-items[24552] = {id=24552,name="Gladiator's Dreadweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35346] = {id=35346,name="Evoker's Silk Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25838] = {id=25838,name="Warden's Hauberk",obtain={NpcID=17904,NpcName="Fedryen Swiftspear (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[31168] = {id=31168,name="Demon-Forged Chestguard",obtain={NpcID=18677,NpcName="Mekthorg the Wild",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.2,Zone="Unknown"}}
-items[34379] = {id=34379,name="Sunblessed Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46142,DropChance=0,Zone=""}}
-items[28846] = {id=28846,name="High Warlord's Mail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28860] = {id=28860,name="High Warlord's Satin Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35360] = {id=35360,name="Dragonhide Robe",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[23000] = {id=23000,name="Plated Abomination Ribcage",obtain={NpcID=15928,NpcName="Thaddius",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.3,Zone="Naxxramas"}}
-items[13314] = {id=13314,name="Alanna's Embrace",obtain={NpcID=10508,NpcName="Ras Frostwhisper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Scholomance"}}
-items[14128] = {id=14128,name="Wizardweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18446,DropChance=0,Zone=""}}
-items[21862] = {id=21862,name="Imbued Netherweave Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26778,DropChance=0,Zone=""}}
-items[31285] = {id=31285,name="Chestguard of the Talon",obtain={NpcID=7370,NpcName="Restless Shade",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Deadwind Pass"}}
-items[21331] = {id=21331,name="Conqueror's Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8562,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[31719] = {id=31719,name="Stormstrike Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10876,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[15056] = {id=15056,name="Stormshroud Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19079,DropChance=0,Zone=""}}
-items[34365] = {id=34365,name="Robe of Eternal Light",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46131,DropChance=0,Zone=""}}
-items[34399] = {id=34399,name="Robes of Ghostly Hatred",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28723] = {id=28723,name="Grand Marshal's Wyrmhide Tunic",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[27897] = {id=27897,name="Breastplate of Many Graces",obtain={NpcID=18732,NpcName="Grandmaster Vorpil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.5,Zone="Shadow Labyrinth"}}
-items[23300] = {id=23300,name="Knight-Captain's Plate Hauberk",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[19693] = {id=19693,name="Darksoul Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24139,DropChance=0,Zone=""}}
-items[14153] = {id=14153,name="Robe of the Void",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18458,DropChance=0,Zone=""}}
-items[14637] = {id=14637,name="Cadaverous Armor",obtain={NpcID=10504,NpcName="Lord Alexei Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.9,Zone="Scholomance"}}
-items[21374] = {id=21374,name="Stormcaller's Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8622,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[29029] = {id=29029,name="Cyclone Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31630] = {id=31630,name="Grand Marshal's Ornamented Chestplate",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[35412] = {id=35412,name="Crusader's Scaled Chestpiece",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[21680] = {id=21680,name="Vest of Swift Execution",obtain={NpcID=15511,NpcName="Lord Kri",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Ahn'Qiraj"}}
-items[21183] = {id=21183,name="Earthpower Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8572,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[30139] = {id=30139,name="Rift Stalker Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30101] = {id=30101,name="Bloodsea Brigand's Vest",obtain={NpcID=21214,NpcName="Fathom-Lord Karathress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.3,Zone="Serpentshrine Cavern"}}
-items[22879] = {id=22879,name="Legionnaire's Leather Chestpiece",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[19838] = {id=19838,name="Zandalar Haruspex's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8065,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[21370] = {id=21370,name="Striker's Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8656,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[31720] = {id=31720,name="Battlemaster's Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10876,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[16726] = {id=16726,name="Lightforge Breastplate",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.0,Zone="Blackrock Spire"}}
-items[11633] = {id=11633,name="Spiderfang Carapace",obtain={NpcID=9032,NpcName="Hedrum the Creeper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.8,Zone="Blackrock Depths"}}
-items[30196] = {id=30196,name="Robes of Tirisfal",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28815] = {id=28815,name="High Warlord's Dragonhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21334] = {id=21334,name="Doomcaller's Robes",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8661,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[16535] = {id=16535,name="Warlord's Silk Raiment",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[31588] = {id=31588,name="High Warlord's Kodohide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35381] = {id=35381,name="Seer's Linked Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23220] = {id=23220,name="Crystal Webbed Robe",obtain={NpcID=15952,NpcName="Maexxna",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.4,Zone="Naxxramas"}}
-items[30214] = {id=30214,name="Robe of the Corruptor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[17741] = {id=17741,name="Nature's Embrace",obtain={NpcID=12237,NpcName="Meshlok the Harvester",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.6,Zone="Maraudon"}}
-items[30102] = {id=30102,name="Krakken-Heart Breastplate",obtain={NpcID=21212,NpcName="Lady Vashj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.7,Zone="Serpentshrine Cavern"}}
-items[27879] = {id=27879,name="Gladiator's Scaled Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28694] = {id=28694,name="Grand Marshal's Mail Armor",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[31640] = {id=31640,name="Grand Marshal's Ringmail Chestguard",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[21364] = {id=21364,name="Deathdealer's Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8638,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[22661] = {id=22661,name="Polar Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28219,DropChance=0,Zone=""}}
-items[16897] = {id=16897,name="Stormrage Chestguard",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.0,Zone="Blackwing Lair"}}
-items[9415] = {id=9415,name="Grimlok's Tribal Vestments",obtain={NpcID=4854,NpcName="Grimlok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.4,Zone="Uldaman"}}
-items[32002] = {id=32002,name="Merciless Gladiator's Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23292] = {id=23292,name="Knight-Captain's Chain Hauberk",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[17600] = {id=17600,name="Knight-Captain's Satin Robes",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31004] = {id=31004,name="Gronnstalker's Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31977] = {id=31977,name="Merciless Gladiator's Dreadweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28229] = {id=28229,name="Incanter's Robe",obtain={NpcID=17977,NpcName="Warp Splinter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Botanica"}}
-items[30270] = {id=30270,name="Scavenged Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10309,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[23490] = {id=23490,name="Fel Iron Chain Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29556,DropChance=0,Zone=""}}
-items[31136] = {id=31136,name="Breastplate of Blade Turning",obtain={NpcID=17259,NpcName="Bonechewer Hungerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Hellfire Ramparts"}}
-items[22885] = {id=22885,name="Legionnaire's Satin Tunic",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[21499] = {id=21499,name="Vestments of the Shifting Sands",obtain={NpcID=15348,NpcName="Kurinnaxx",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.5,Zone="Ruins of Ahn'Qiraj"}}
-items[20033] = {id=20033,name="Zandalar Demoniac's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8077,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[12793] = {id=12793,name="Mixologist's Tunic",obtain={NpcID=9499,NpcName="Plugger Spazzring",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.5,Zone="Blackrock Depths"}}
-items[9943] = {id=9943,name="Abjurer's Robe",obtain={NpcID=8301,NpcName="Clack the Reaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.9,Zone="Blasted Lands"}}
-items[34228] = {id=34228,name="Vicious Hawkstrider Hauberk",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.7,Zone="Sunwell Plateau"}}
-items[30144] = {id=30144,name="Deathmantle Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31613] = {id=31613,name="Gladiator's Ornamented Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28231] = {id=28231,name="Tidefury Chestpiece",obtain={NpcID=20912,NpcName="Harbinger Skyriss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.3,Zone="The Arcatraz"}}
-items[31369] = {id=31369,name="Iceguard Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=38477,DropChance=0,Zone=""}}
-items[27427] = {id=27427,name="Durotan's Battle Harness",obtain={NpcID=17862,NpcName="Captain Skarloc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.6,Zone="Old Hillsbrad Foothills"}}
-items[19156] = {id=19156,name="Flarecore Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23666,DropChance=0,Zone=""}}
-items[16700] = {id=16700,name="Dreadmist Robe",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.3,Zone="Blackrock Spire"}}
-items[10784] = {id=10784,name="Atal'ai Breastplate",obtain={NpcID=5714,NpcName="Loro",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="The Temple of Atal'Hakkar"}}
-items[31057] = {id=31057,name="Robes of the Tempest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30056] = {id=30056,name="Robe of Hateful Echoes",obtain={NpcID=21216,NpcName="Hydross the Unstable",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.2,Zone="Serpentshrine Cavern"}}
-items[34610] = {id=34610,name="Scarlet Sin'dorei Robes",obtain={NpcID=24664,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Magisters' Terrace"}}
-items[27461] = {id=27461,name="Chestguard of the Prowler",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Ramparts"}}
-items[20034] = {id=20034,name="Zandalar Illusionist's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8069,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[16721] = {id=16721,name="Shadowcraft Tunic",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="Blackrock Spire"}}
-items[15059] = {id=15059,name="Living Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19095,DropChance=0,Zone=""}}
-items[12624] = {id=12624,name="Wildthorn Mail",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16650,DropChance=0,Zone=""}}
-items[8113] = {id=8113,name="Hibernal Robe",obtain={NpcID=9319,NpcName="Houndmaster Grebmar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Blackrock Depths"}}
-items[34232] = {id=34232,name="Fel Conquerer Raiments",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.5,Zone="Sunwell Plateau"}}
-items[31028] = {id=31028,name="Slayer's Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31052] = {id=31052,name="Robe of the Malefic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27702] = {id=27702,name="Gladiator's Lamellar Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35467] = {id=35467,name="Mooncloth Vestments",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16958] = {id=16958,name="Judgement Breastplate",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.5,Zone="Blackwing Lair"}}
-items[20380] = {id=20380,name="Dreamscale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24703,DropChance=0,Zone=""}}
-items[14445] = {id=14445,name="Venomshroud Silk Robes",obtain={NpcID=6503,NpcName="Spiked Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Un'Goro Crater"}}
-items[185998] = {id=185998,name="Communal Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34924] = {id=34924,name="Gown of Spiritual Wonder",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24465] = {id=24465,name="Shamblehide Chestguard",obtain={NpcID=17882,NpcName="The Black Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="The Underbog"}}
-items[22488] = {id=22488,name="Dreamwalker Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9086,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[21357] = {id=21357,name="Genesis Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8666,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[22196] = {id=22196,name="Thick Obsidian Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=27587,DropChance=0,Zone=""}}
-items[19822] = {id=19822,name="Zandalar Vindicator's Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8079,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[12641] = {id=12641,name="Invulnerable Mail",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16746,DropChance=0,Zone=""}}
-items[12603] = {id=12603,name="Nightbrace Tunic",obtain={NpcID=10264,NpcName="Solakar Flamewreath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.9,Zone="Blackrock Spire"}}
-items[15066] = {id=15066,name="Ironfeather Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19086,DropChance=0,Zone=""}}
-items[14789] = {id=14789,name="Protector Breastplate",obtain={NpcID=6129,NpcName="Draconic Magelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[13858] = {id=13858,name="Runecloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18406,DropChance=0,Zone=""}}
-items[17050] = {id=17050,name="Chan's Imperial Robes",obtain={NpcID=8217,NpcName="Mith'rethis the Enchanter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.9,Zone="The Hinterlands"}}
-items[31018] = {id=31018,name="Skyshatter Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33203] = {id=33203,name="Robes of Heavenly Purpose",obtain={NpcID=23576,NpcName="Nalorakk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.6,Zone="Unknown"}}
-items[31396] = {id=31396,name="Gladiator's Ringmail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31635] = {id=31635,name="High Warlord's Ornamented Chestplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35337] = {id=35337,name="Mooncloth Vestments",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29781] = {id=29781,name="Lifewarden's Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10320,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[10254] = {id=10254,name="Master's Robe",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Blackwing Lair"}}
-items[19904] = {id=19904,name="Runed Bloodstained Hauberk",obtain={NpcID=14507,NpcName="High Priest Venoxis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.8,Zone="Zul'Gurub"}}
-items[35059] = {id=35059,name="Brutal Gladiator's Ornamented Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31065] = {id=31065,name="Shroud of Absolution",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30134] = {id=30134,name="Crystalforge Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27711] = {id=27711,name="Gladiator's Satin Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27506] = {id=27506,name="Robe of Effervescent Light",obtain={NpcID=17377,NpcName="Keli'dan the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Blood Furnace"}}
-items[28861] = {id=28861,name="High Warlord's Scaled Chestpiece",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31646] = {id=31646,name="High Warlord's Ringmail Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35332] = {id=35332,name="Dreadweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35464] = {id=35464,name="Dreadweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23089] = {id=23089,name="Tunic of Undead Slaying",obtain={NpcID=16143,NpcName="Shadow of Doom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.0,Zone="Blasted Lands"}}
-items[18312] = {id=18312,name="Energized Chestplate",obtain={NpcID=11492,NpcName="Alzzin the Wildshaper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Dire Maul"}}
-items[15048] = {id=15048,name="Blue Dragonscale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19077,DropChance=0,Zone=""}}
-items[30913] = {id=30913,name="Robes of Rhonin",obtain={NpcID=17968,NpcName="Archimonde",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.7,Zone="Hyjal Summit"}}
-items[31017] = {id=31017,name="Skyshatter Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30899] = {id=30899,name="Don Rodrigo's Poncho",obtain={NpcID=17842,NpcName="Azgalor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.1,Zone="Hyjal Summit"}}
-items[30164] = {id=30164,name="Cataclysm Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30200] = {id=30200,name="Gladiator's Felweave Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27456] = {id=27456,name="Raiments of Nature's Breath",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Ramparts"}}
-items[30762] = {id=30762,name="Infernoweave Robe",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[23563] = {id=23563,name="Nether Chain Shirt",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34529,DropChance=0,Zone=""}}
-items[25671] = {id=25671,name="Thick Draenic Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32473,DropChance=0,Zone=""}}
-items[29514] = {id=29514,name="Thick Netherscale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35574,DropChance=0,Zone=""}}
-items[21865] = {id=21865,name="Soulcloth Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26781,DropChance=0,Zone=""}}
-items[24481] = {id=24481,name="Robes of the Augurer",obtain={NpcID=17882,NpcName="The Black Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="The Underbog"}}
-items[10845] = {id=10845,name="Warrior's Embrace",obtain={NpcID=8440,NpcName="Shade of Hakkar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.8,Zone="The Temple of Atal'Hakkar"}}
-items[14915] = {id=14915,name="Jade Breastplate",obtain={NpcID=6144,NpcName="Son of Arkkoroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[30113] = {id=30113,name="Destroyer Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33215] = {id=33215,name="Bloodstained Elven Battlevest",obtain={NpcID=23574,NpcName="Akil'zon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.0,Zone="Unknown"}}
-items[33579] = {id=33579,name="Vestments of Hibernation",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28831] = {id=28831,name="High Warlord's Lamellar Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28875] = {id=28875,name="High Warlord's Wyrmhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30835] = {id=30835,name="Salvager's Hauberk",obtain={NpcID=21655,NpcName="Nakodu (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[35342] = {id=35342,name="Satin Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35472] = {id=35472,name="Seer's Mail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30459] = {id=30459,name="Netherflame Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36665,DropChance=0,Zone=""}}
-items[23489] = {id=23489,name="Fel Iron Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29550,DropChance=0,Zone=""}}
-items[31320] = {id=31320,name="Chestguard of Exile",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22872] = {id=22872,name="Legionnaire's Plate Hauberk",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[18486] = {id=18486,name="Mooncloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=22902,DropChance=0,Zone=""}}
-items[15787] = {id=15787,name="Willow Band Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5121,Recipe=false,RecipeID=0,DropChance=0,Zone="Winterspring"}}
-items[15064] = {id=15064,name="Warbear Harness",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19068,DropChance=0,Zone=""}}
-items[3999] = {id=3999,name="Laminated Scale Armor",obtain={NpcID=15162,NpcName="Scarlet Inquisitor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Eastern Plaguelands"}}
-items[9469] = {id=9469,name="Gahz'rilla Scale Armor",obtain={NpcID=7273,NpcName="Gahz'rilla",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=44.5,Zone="Zul'Farrak"}}
-items[34212] = {id=34212,name="Sunglow Vest",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.4,Zone="Sunwell Plateau"}}
-items[33664] = {id=33664,name="Vengeful Gladiator's Chain Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34912] = {id=34912,name="Scaled Drakeskin Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30150] = {id=30150,name="Vestments of the Avatar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33328] = {id=33328,name="Arrow-fall Chestguard",obtain={NpcID=23578,NpcName="Jan'alai",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Unknown"}}
-items[28140] = {id=28140,name="Gladiator's Wyrmhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27799] = {id=27799,name="Vermillion Robes of the Dominant",obtain={NpcID=17798,NpcName="Warlord Kalithresh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="The Steamvault"}}
-items[24992] = {id=24992,name="Warmaul Breastplate",obtain={NpcID=18327,NpcName="Time-Lost Controller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Sethekk Halls"}}
-items[23507] = {id=23507,name="Adamantite Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29606,DropChance=0,Zone=""}}
-items[22874] = {id=22874,name="Legionnaire's Chain Hauberk",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[8349] = {id=8349,name="Feathered Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10647,DropChance=0,Zone=""}}
-items[8138] = {id=8138,name="Chromite Chestplate",obtain={NpcID=5235,NpcName="Fungal Ooze",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Unknown"}}
-items[30905] = {id=30905,name="Midnight Chestguard",obtain={NpcID=17968,NpcName="Archimonde",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.2,Zone="Hyjal Summit"}}
-items[30992] = {id=30992,name="Lightbringer Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34927] = {id=34927,name="Tunic of the Dark Hour",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31960] = {id=31960,name="Merciless Gladiator's Chain Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31982] = {id=31982,name="Merciless Gladiator's Felweave Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33329] = {id=33329,name="Shadowtooth Trollskin Cuirass",obtain={NpcID=23578,NpcName="Jan'alai",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.1,Zone="Unknown"}}
-items[27912] = {id=27912,name="Harness of the Deep Currents",obtain={NpcID=18708,NpcName="Murmur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Shadow Labyrinth"}}
-items[29978] = {id=29978,name="Consortium Combatant's Robes",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10310,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[27787] = {id=27787,name="Chestguard of No Remorse",obtain={NpcID=17797,NpcName="Hydromancer Thespia",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="The Steamvault"}}
-items[16942] = {id=16942,name="Dragonstalker's Breastplate",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.9,Zone="Blackwing Lair"}}
-items[16820] = {id=16820,name="Nightslayer Chestpiece",obtain={NpcID=11988,NpcName="Golemagg the Incinerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.1,Zone="Molten Core"}}
-items[10264] = {id=10264,name="Adventurer's Tunic",obtain={NpcID=12397,NpcName="Lord Kazzak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.4,Zone="Blasted Lands"}}
-items[19834] = {id=19834,name="Zandalar Madcap's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8073,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[16730] = {id=16730,name="Breastplate of Valor",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.1,Zone="Blackrock Spire"}}
-items[12895] = {id=12895,name="Breastplate of the Chromatic Flight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5166,Recipe=false,RecipeID=0,DropChance=0,Zone="Western Plaguelands"}}
-items[10178] = {id=10178,name="Mystical Robe",obtain={NpcID=7046,NpcName="Searscale Drake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Burning Steppes"}}
-items[34216] = {id=34216,name="Heroic Judicator's Chestguard",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.2,Zone="Sunwell Plateau"}}
-items[34396] = {id=34396,name="Garments of Crashing Shores",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35027] = {id=35027,name="Brutal Gladiator's Lamellar Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30975] = {id=30975,name="Onslaught Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33675] = {id=33675,name="Vengeful Gladiator's Dragonhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33728] = {id=33728,name="Vengeful Gladiator's Plate Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32340] = {id=32340,name="Garments of Temperance",obtain={NpcID=22948,NpcName="Gurtogg Bloodboil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.6,Zone="Black Temple"}}
-items[29921] = {id=29921,name="Fire Crest Breastplate",obtain={NpcID=19514,NpcName="Al'ar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.2,Zone="Tempest Keep"}}
-items[33965] = {id=33965,name="Hauberk of the Furious Elements",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34615] = {id=34615,name="Netherforce Chestplate",obtain={NpcID=24664,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Magisters' Terrace"}}
-items[27906] = {id=27906,name="Crimsonforge Breastplate",obtain={NpcID=17308,NpcName="Omor the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=66.6,Zone="Hellfire Ramparts"}}
-items[28391] = {id=28391,name="Worldfire Chestguard",obtain={NpcID=20885,NpcName="Dalliah the Doomsayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=197.0,Zone="The Arcatraz"}}
-items[29117] = {id=29117,name="Stormspire Vest",obtain={NpcID=20242,NpcName="Karaaz (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Netherstorm"}}
-items[16931] = {id=16931,name="Nemesis Robes",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.6,Zone="Blackwing Lair"}}
-items[19690] = {id=19690,name="Bloodsoul Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24136,DropChance=0,Zone=""}}
-items[16491] = {id=16491,name="Legionnaire's Silk Robes",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16504] = {id=16504,name="Legionnaire's Dragonhide Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14303] = {id=14303,name="Bonecaster's Shroud",obtain={NpcID=10663,NpcName="Manaclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Winterspring"}}
-items[13378] = {id=13378,name="Songbird Blouse",obtain={NpcID=10558,NpcName="Hearthsinger Forresten",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.1,Zone="Stratholme"}}
-items[35087] = {id=35087,name="Brutal Gladiator's Satin Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31042] = {id=31042,name="Thunderheart Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32252] = {id=32252,name="Nether Shadow Tunic",obtain={NpcID=22898,NpcName="Supremus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.2,Zone="Black Temple"}}
-items[32327] = {id=32327,name="Robe of the Shadow Council",obtain={NpcID=21867,NpcName="Teron Gorefiend",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.2,Zone="Unknown"}}
-items[30159] = {id=30159,name="Shroud of the Avatar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27469] = {id=27469,name="Gladiator's Mail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25024] = {id=25024,name="Warlord's Iron-Breastplate",obtain={NpcID=17671,NpcName="Shattered Hand Champion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Shattered Halls"}}
-items[23513] = {id=23513,name="Flamebane Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29617,DropChance=0,Zone=""}}
-items[28401] = {id=28401,name="Hauberk of Desolation",obtain={NpcID=18096,NpcName="Epoch Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.8,Zone="Old Hillsbrad Foothills"}}
-items[31554] = {id=31554,name="Windchanneller's Tunic",obtain={NpcID=22930,NpcName="Yor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.1,Zone="Mana-Tombs"}}
-items[35386] = {id=35386,name="Seer's Mail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34799] = {id=34799,name="Hauberk of the War Bringer",obtain={NpcID=24664,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.1,Zone="Magisters' Terrace"}}
-items[24455] = {id=24455,name="Tunic of the Nightwatcher",obtain={NpcID=17826,NpcName="Swamplord Musel'ek",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Underbog"}}
-items[24357] = {id=24357,name="Vest of Living Lightning",obtain={NpcID=17941,NpcName="Mennu the Betrayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Slave Pens"}}
-items[16923] = {id=16923,name="Robes of Transcendence",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.1,Zone="Blackwing Lair"}}
-items[21467] = {id=21467,name="Thick Silithid Chestguard",obtain={NpcID=15340,NpcName="Moam",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.4,Zone="Ruins of Ahn'Qiraj"}}
-items[19145] = {id=19145,name="Robe of Volatile Power",obtain={NpcID=12259,NpcName="Gehennas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.7,Zone="Molten Core"}}
-items[10135] = {id=10135,name="High Councillor's Tunic",obtain={NpcID=15818,NpcName="Lieutenant General Nokhor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Silithus"}}
-items[13090] = {id=13090,name="Breastplate of the Chosen",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10215] = {id=10215,name="Elegant Robes",obtain={NpcID=13959,NpcName="Alterac Yeti",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Alterac Valley"}}
-items[10218] = {id=10218,name="Elegant Tunic",obtain={NpcID=5718,NpcName="Rothos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="The Hinterlands"}}
-items[10102] = {id=10102,name="Councillor's Robes",obtain={NpcID=10258,NpcName="Rookery Guardian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Blackrock Spire"}}
-items[8252] = {id=8252,name="Imperial Red Robe",obtain={NpcID=7045,NpcName="Scalding Drake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Burning Steppes"}}
-items[11606] = {id=11606,name="Dark Iron Mail",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=15293,DropChance=0,Zone=""}}
-items[15164] = {id=15164,name="Imposing Vest",obtain={NpcID=5350,NpcName="Qirot",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Feralas"}}
-items[1677] = {id=1677,name="Drake-scale Vest",obtain={NpcID=680,NpcName="Mosh'Ogg Lord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.5,Zone="Stranglethorn Vale"}}
-items[4007] = {id=4007,name="Overlinked Chain Armor",obtain={NpcID=13742,NpcName="Kolk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Unknown"}}
-items[34233] = {id=34233,name="Robes of Faltered Light",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.7,Zone="Sunwell Plateau"}}
-items[33685] = {id=33685,name="Vengeful Gladiator's Felweave Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32039] = {id=32039,name="Merciless Gladiator's Scaled Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30231] = {id=30231,name="Nordrassil Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33216] = {id=33216,name="Chestguard of Hidden Purpose",obtain={NpcID=23574,NpcName="Akil'zon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.1,Zone="Unknown"}}
-items[21868] = {id=21868,name="Arcanoweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26784,DropChance=0,Zone=""}}
-items[28337] = {id=28337,name="Breastplate of Righteous Fury",obtain={NpcID=17942,NpcName="Quagmirran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.1,Zone="The Slave Pens"}}
-items[35402] = {id=35402,name="Crusader's Ornamented Chestplate",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[29975] = {id=29975,name="Golden Dragonstrike Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36079,DropChance=0,Zone=""}}
-items[21351] = {id=21351,name="Vestments of the Oracle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8603,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[21652] = {id=21652,name="Silithid Carapace Chestguard",obtain={NpcID=15510,NpcName="Fankriss the Unyielding",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.3,Zone="Ahn'Qiraj"}}
-items[16916] = {id=16916,name="Netherwind Robes",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.4,Zone="Blackwing Lair"}}
-items[19399] = {id=19399,name="Black Ash Robe",obtain={NpcID=11983,NpcName="Firemaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.6,Zone="Blackwing Lair"}}
-items[21696] = {id=21696,name="Robes of the Triumvirate",obtain={NpcID=15511,NpcName="Lord Kri",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.5,Zone="Ahn'Qiraj"}}
-items[19439] = {id=19439,name="Interlaced Shadow Jerkin",obtain={NpcID=12460,NpcName="Death Talon Wyrmguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.6,Zone="Blackwing Lair"}}
-items[10246] = {id=10246,name="Master's Vest",obtain={NpcID=1839,NpcName="Scarlet High Clerist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Western Plaguelands"}}
-items[15442] = {id=15442,name="Supreme Breastplate",obtain={NpcID=6109,NpcName="Azuregos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.7,Zone="Azshara"}}
-items[16413] = {id=16413,name="Knight-Captain's Silk Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16522] = {id=16522,name="Legionnaire's Mail Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16666] = {id=16666,name="Vest of Elements",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.4,Zone="Blackrock Spire"}}
-items[13123] = {id=13123,name="Dreamwalker Armor",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[18385] = {id=18385,name="Robe of Everlasting Night",obtain={NpcID=11496,NpcName="Immol'thar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.0,Zone="Dire Maul"}}
-items[10230] = {id=10230,name="Engraved Breastplate",obtain={NpcID=15817,NpcName="Qiraji Brigadier General Pax-lish",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Silithus"}}
-items[11604] = {id=11604,name="Dark Iron Plate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=15296,DropChance=0,Zone=""}}
-items[21320] = {id=21320,name="Vest of the Den Watcher",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8464,Recipe=false,RecipeID=0,DropChance=0,Zone="Timbermaw Hold"}}
-items[21322] = {id=21322,name="Ursa's Embrace",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8464,Recipe=false,RecipeID=0,DropChance=0,Zone="Timbermaw Hold"}}
-items[14297] = {id=14297,name="Arachnidian Robes",obtain={NpcID=6502,NpcName="Plated Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Un'Goro Crater"}}
-items[15053] = {id=15053,name="Volcanic Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19076,DropChance=0,Zone=""}}
-items[9957] = {id=9957,name="Warmonger's Chestpiece",obtain={NpcID=15816,NpcName="Qiraji Major He'al-ie",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Thousand Needles"}}
-items[14434] = {id=14434,name="Windchaser Robes",obtain={NpcID=5241,NpcName="Gordunni Warlord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Feralas"}}
-items[9913] = {id=9913,name="Royal Gown",obtain={NpcID=5347,NpcName="Antilus the Soarer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.9,Zone="Feralas"}}
-items[34215] = {id=34215,name="Warharness of Reckless Fury",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.0,Zone="Sunwell Plateau"}}
-items[35088] = {id=35088,name="Brutal Gladiator's Scaled Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30907] = {id=30907,name="Mail of Fevered Pursuit",obtain={NpcID=17968,NpcName="Archimonde",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.6,Zone="Hyjal Summit"}}
-items[33695] = {id=33695,name="Vengeful Gladiator's Lamellar Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32334] = {id=32334,name="Vest of Mounting Assault",obtain={NpcID=22948,NpcName="Gurtogg Bloodboil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.3,Zone="Black Temple"}}
-items[32365] = {id=32365,name="Heartshatter Breastplate",obtain={NpcID=22947,NpcName="Mother Shahraz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.6,Zone="Black Temple"}}
-items[34900] = {id=34900,name="Shroud of Nature's Harmony",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34906] = {id=34906,name="Embrace of Everlasting Prowess",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30123] = {id=30123,name="Crystalforge Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30185] = {id=30185,name="Cataclysm Chestplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30839] = {id=30839,name="Flameheart Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=37884,DropChance=0,Zone=""}}
-items[31364] = {id=31364,name="Wildguard Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=38473,DropChance=0,Zone=""}}
-items[31578] = {id=31578,name="Slatesteel Breastplate",obtain={NpcID=22930,NpcName="Yor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.2,Zone="Mana-Tombs"}}
-items[25595] = {id=25595,name="Windroc Shroud",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9856,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[23363] = {id=23363,name="Titanic Breastplate",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23069] = {id=23069,name="Necro-Knight's Garb",obtain={NpcID=16156,NpcName="Dark Touched Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Naxxramas"}}
-items[16841] = {id=16841,name="Earthfury Vestments",obtain={NpcID=11988,NpcName="Golemagg the Incinerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.7,Zone="Molten Core"}}
-items[16865] = {id=16865,name="Breastplate of Might",obtain={NpcID=11988,NpcName="Golemagg the Incinerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Molten Core"}}
-items[10266] = {id=10266,name="Masterwork Breastplate",obtain={NpcID=15818,NpcName="Lieutenant General Nokhor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.9,Zone="Silithus"}}
-items[10151] = {id=10151,name="Mighty Tunic",obtain={NpcID=15818,NpcName="Lieutenant General Nokhor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Silithus"}}
-items[14456] = {id=14456,name="Elunarian Vest",obtain={NpcID=12474,NpcName="Emeraldon Boughguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Ashenvale"}}
-items[20550] = {id=20550,name="Darkrune Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24914,DropChance=0,Zone=""}}
-items[4015] = {id=4015,name="Sterling Chain Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[12613] = {id=12613,name="Runic Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16731,DropChance=0,Zone=""}}
-items[15068] = {id=15068,name="Frostsaber Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19104,DropChance=0,Zone=""}}
-items[18373] = {id=18373,name="Chestplate of Tranquility",obtain={NpcID=11486,NpcName="Prince Tortheldrin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Dire Maul"}}
-items[18532] = {id=18532,name="Mindsurge Robe",obtain={NpcID=14353,NpcName="Mizzle the Crafty",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Dire Maul"}}
-items[14308] = {id=14308,name="Celestial Tunic",obtain={NpcID=5312,NpcName="Lethlas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Feralas"}}
-items[15433] = {id=15433,name="Peerless Armor",obtain={NpcID=15336,NpcName="Hive'Zara Tail Lasher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Ruins of Ahn'Qiraj"}}
-items[11924] = {id=11924,name="Robes of the Royal Crown",obtain={NpcID=9019,NpcName="Emperor Dagran Thaurissan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.5,Zone="Blackrock Depths"}}
-items[18478] = {id=18478,name="Hyena Hide Jerkin",obtain={NpcID=14353,NpcName="Mizzle the Crafty",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Dire Maul"}}
-items[10104] = {id=10104,name="Councillor's Tunic",obtain={NpcID=15753,NpcName="Qiraji Brigadier General",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.9,Zone="Tanaris"}}
-items[14798] = {id=14798,name="Bloodlust Breastplate",obtain={NpcID=9516,NpcName="Lord Banehollow",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.8,Zone="Felwood"}}
-items[10118] = {id=10118,name="Ornate Breastplate",obtain={NpcID=10199,NpcName="Grizzle Snowpaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.9,Zone="Winterspring"}}
-items[3951] = {id=3951,name="Twill Vest",obtain={NpcID=11142,NpcName="Undead Postman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.1,Zone="Stratholme"}}
-items[14288] = {id=14288,name="Arachnidian Armor",obtain={NpcID=10662,NpcName="Spellmaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Winterspring"}}
-items[8258] = {id=8258,name="Serpentskin Armor",obtain={NpcID=10825,NpcName="Gish the Unmoving",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Eastern Plaguelands"}}
-items[14287] = {id=14287,name="Opulent Tunic",obtain={NpcID=6646,NpcName="Monnos the Elder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Azshara"}}
-items[14958] = {id=14958,name="High Chief's Armor",obtain={NpcID=7104,NpcName="Dessecus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Felwood"}}
-items[14437] = {id=14437,name="Venomshroud Vest",obtain={NpcID=6503,NpcName="Spiked Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Un'Goro Crater"}}
-items[13009] = {id=13009,name="Cow King's Hide",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[15622] = {id=15622,name="Gryphon Mail Breastplate",obtain={NpcID=193,NpcName="Blue Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[15609] = {id=15609,name="Bonelink Armor",obtain={NpcID=5881,NpcName="Cursed Sycamore",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Feralas"}}
-items[6427] = {id=6427,name="Mistscape Robe",obtain={NpcID=679,NpcName="Mosh'Ogg Shaman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[14939] = {id=14939,name="Warbringer's Chestguard",obtain={NpcID=5452,NpcName="Hazzali Worker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Tanaris"}}
-items[3968] = {id=3968,name="Thick Leather Tunic",obtain={NpcID=4394,NpcName="Bubbling Swamp Ooze",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Dustwallow Marsh"}}
-items[9966] = {id=9966,name="Embossed Plate Armor",obtain={NpcID=14445,NpcName="Lord Captain Wyrmak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.6,Zone="Swamp of Sorrows"}}
-items[34990] = {id=34990,name="Brutal Gladiator's Chain Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35007] = {id=35007,name="Brutal Gladiator's Dreadweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35048] = {id=35048,name="Brutal Gladiator's Mail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30904] = {id=30904,name="Savior's Grasp",obtain={NpcID=17968,NpcName="Archimonde",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Hyjal Summit"}}
-items[30991] = {id=30991,name="Lightbringer Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33711] = {id=33711,name="Vengeful Gladiator's Mail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32592] = {id=32592,name="Chestguard of Relentless Storms",obtain={NpcID=17905,NpcName="Banshee",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Unknown"}}
-items[34936] = {id=34936,name="Tormented Demonsoul Robes",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32009] = {id=32009,name="Merciless Gladiator's Mail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30169] = {id=30169,name="Cataclysm Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33322] = {id=33322,name="Shimmer-pelt Vest",obtain={NpcID=23577,NpcName="Halazzi",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.3,Zone="Unknown"}}
-items[30928] = {id=30928,name="Sketh'lon Survivor's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10808,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[30074] = {id=30074,name="Heavy Earthforged Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36129,DropChance=0,Zone=""}}
-items[24615] = {id=24615,name="Vindicator Tunic",obtain={NpcID=18283,NpcName="Blacksting",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Zangarmarsh"}}
-items[24719] = {id=24719,name="Dreghood Chestpiece",obtain={NpcID=18450,NpcName="Shienor Sorcerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.9,Zone="Terokkar Forest"}}
-items[30765] = {id=30765,name="Heavy Draenic Breastplate",obtain={NpcID=18010,NpcName="Maktu (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[31657] = {id=31657,name="Chemise of Rebirth",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10096,Recipe=false,RecipeID=0,DropChance=0,Zone="Zangarmarsh"}}
-items[21671] = {id=21671,name="Robes of the Battleguard",obtain={NpcID=15516,NpcName="Battleguard Sartura",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.8,Zone="Ahn'Qiraj"}}
-items[16809] = {id=16809,name="Felheart Robes",obtain={NpcID=11988,NpcName="Golemagg the Incinerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.3,Zone="Molten Core"}}
-items[14975] = {id=14975,name="Exalted Harness",obtain={NpcID=6109,NpcName="Azuregos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.1,Zone="Azshara"}}
-items[16525] = {id=16525,name="Legionnaire's Chain Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16688] = {id=16688,name="Magister's Robes",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.0,Zone="Blackrock Spire"}}
-items[8303] = {id=8303,name="Hero's Breastplate",obtain={NpcID=5718,NpcName="Rothos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="The Hinterlands"}}
-items[8296] = {id=8296,name="Traveler's Jerkin",obtain={NpcID=10439,NpcName="Ramstein the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Stratholme"}}
-items[12609] = {id=12609,name="Polychromatic Visionwrap",obtain={NpcID=10264,NpcName="Solakar Flamewreath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.0,Zone="Blackrock Spire"}}
-items[14317] = {id=14317,name="Celestial Silk Robes",obtain={NpcID=12476,NpcName="Emeraldon Oracle",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Ashenvale"}}
-items[14611] = {id=14611,name="Bloodmail Hauberk",obtain={NpcID=10504,NpcName="Lord Alexei Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Scholomance"}}
-items[15085] = {id=15085,name="Wicked Leather Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19098,DropChance=0,Zone=""}}
-items[14455] = {id=14455,name="Highborne Padded Armor",obtain={NpcID=14464,NpcName="Avalanchion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Azshara"}}
-items[14854] = {id=14854,name="Vanguard Breastplate",obtain={NpcID=14398,NpcName="Eldreth Darter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Dire Maul"}}
-items[10182] = {id=10182,name="Swashbuckler's Breastplate",obtain={NpcID=11383,NpcName="High Priestess Hai'watna",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.4,Zone="Stranglethorn Vale"}}
-items[15075] = {id=15075,name="Chimeric Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19081,DropChance=0,Zone=""}}
-items[8312] = {id=8312,name="Alabaster Breastplate",obtain={NpcID=9437,NpcName="Dark Keeper Vorfalk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Blackrock Depths"}}
-items[15650] = {id=15650,name="Merciless Surcoat",obtain={NpcID=10196,NpcName="General Colbatann",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Winterspring"}}
-items[8265] = {id=8265,name="Ebonhold Armor",obtain={NpcID=10608,NpcName="Scarlet Priest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Western Plaguelands"}}
-items[10065] = {id=10065,name="Duskwoven Robe",obtain={NpcID=7728,NpcName="Kirith the Damned",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Blasted Lands"}}
-items[10070] = {id=10070,name="Righteous Armor",obtain={NpcID=10817,NpcName="Duggan Wildhammer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Eastern Plaguelands"}}
-items[10193] = {id=10193,name="Crusader's Armor",obtain={NpcID=9604,NpcName="Gorgon'och",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Burning Steppes"}}
-items[15045] = {id=15045,name="Green Dragonscale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19050,DropChance=0,Zone=""}}
-items[8106] = {id=8106,name="Hibernal Armor",obtain={NpcID=5277,NpcName="Nightmare Scalebane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="The Temple of Atal'Hakkar"}}
-items[8126] = {id=8126,name="Myrmidon's Breastplate",obtain={NpcID=8497,NpcName="Nightmare Suppressor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="The Temple of Atal'Hakkar"}}
-items[14265] = {id=14265,name="Bloodwoven Wraps",obtain={NpcID=193,NpcName="Blue Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[14267] = {id=14267,name="Bloodwoven Jerkin",obtain={NpcID=8198,NpcName="Tick",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Tanaris"}}
-items[7527] = {id=7527,name="Cabalist Chestpiece",obtain={NpcID=6648,NpcName="Antilos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.0,Zone="Azshara"}}
-items[14779] = {id=14779,name="Khan's Chestpiece",obtain={NpcID=5276,NpcName="Sprite Dragon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Feralas"}}
-items[7538] = {id=7538,name="Champion's Armor",obtain={NpcID=8277,NpcName="Rekk'tilac",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.8,Zone="Searing Gorge"}}
-items[9924] = {id=9924,name="Tracker's Tunic",obtain={NpcID=8296,NpcName="Mojo the Twisted",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.9,Zone="Blasted Lands"}}
-items[6430] = {id=6430,name="Imperial Leather Breastplate",obtain={NpcID=14446,NpcName="Fingat",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Swamp of Sorrows"}}
-items[7930] = {id=7930,name="Heavy Mithril Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9959,DropChance=0,Zone=""}}
-items[7332] = {id=7332,name="Regal Armor",obtain={NpcID=5345,NpcName="Diamond Head",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Feralas"}}
-items[7477] = {id=7477,name="Ranger Tunic",obtain={NpcID=5345,NpcName="Diamond Head",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Feralas"}}
-items[14821] = {id=14821,name="Symbolic Breastplate",obtain={NpcID=7606,NpcName="Oro Eyegouge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Zul'Farrak"}}
-items[14895] = {id=14895,name="Saltstone Surcoat",obtain={NpcID=4329,NpcName="Firemane Scout",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dustwallow Marsh"}}
-items[34398] = {id=34398,name="Utopian Tunic of Elune",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31066] = {id=31066,name="Vestments of Absolution",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33694] = {id=33694,name="Vengeful Gladiator's Kodohide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33748] = {id=33748,name="Vengeful Gladiator's Satin Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32020] = {id=32020,name="Merciless Gladiator's Ornamented Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30075] = {id=30075,name="Gnarled Chestpiece of the Ancients",obtain={NpcID=21213,NpcName="Morogrim Tidewalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Serpentshrine Cavern"}}
-items[27823] = {id=27823,name="Shard Encrusted Breastplate",obtain={NpcID=18343,NpcName="Tavarok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Mana-Tombs"}}
-items[30255] = {id=30255,name="Chestguard of the Stormspire",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10335,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30328] = {id=30328,name="Protectorate Assassin's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10353,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30363] = {id=30363,name="Warp-Shielded Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10313,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31511] = {id=31511,name="Chest of the Wyrmcult",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10748,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[31514] = {id=31514,name="Dragonkin Shirt",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10748,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[31798] = {id=31798,name="Death-Speaker's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10915,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[31170] = {id=31170,name="Demon-Forged Hauberk",obtain={NpcID=18677,NpcName="Mekthorg the Wild",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.4,Zone="Unknown"}}
-items[22886] = {id=22886,name="Legionnaire's Silk Tunic",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[23303] = {id=23303,name="Knight-Captain's Satin Tunic",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[14336] = {id=14336,name="Eternal Wraps",obtain={NpcID=6109,NpcName="Azuregos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.0,Zone="Azshara"}}
-items[15680] = {id=15680,name="Triumphant Chestpiece",obtain={NpcID=14890,NpcName="Taerar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Duskwood"}}
-items[19688] = {id=19688,name="Blood Tiger Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24124,DropChance=0,Zone=""}}
-items[10143] = {id=10143,name="High Councillor's Robe",obtain={NpcID=5718,NpcName="Rothos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="The Hinterlands"}}
-items[14464] = {id=14464,name="Elunarian Silk Robes",obtain={NpcID=12129,NpcName="Onyxian Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Unknown"}}
-items[14811] = {id=14811,name="Warstrike Chestguard",obtain={NpcID=12129,NpcName="Onyxian Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Unknown"}}
-items[10220] = {id=10220,name="Nightshade Tunic",obtain={NpcID=15818,NpcName="Lieutenant General Nokhor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Silithus"}}
-items[13080] = {id=13080,name="Widow's Clutch",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[17612] = {id=17612,name="Legionnaire's Satin Vestments",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22409] = {id=22409,name="Tunic of the Crescent Moon",obtain={NpcID=10440,NpcName="Baron Rivendare",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.3,Zone="Stratholme"}}
-items[13944] = {id=13944,name="Tombstone Breastplate",obtain={NpcID=1853,NpcName="Darkmaster Gandling",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.9,Zone="Scholomance"}}
-items[15195] = {id=15195,name="Grand Breastplate",obtain={NpcID=12129,NpcName="Onyxian Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Unknown"}}
-items[20479] = {id=20479,name="Spitfire Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24848,DropChance=0,Zone=""}}
-items[10105] = {id=10105,name="Wanderer's Armor",obtain={NpcID=10198,NpcName="Kashoch the Reaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.0,Zone="Winterspring"}}
-items[14306] = {id=14306,name="Bonecaster's Vest",obtain={NpcID=14473,NpcName="Lapress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Silithus"}}
-items[14453] = {id=14453,name="Highborne Robes",obtain={NpcID=10263,NpcName="Burning Felguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Blackrock Spire"}}
-items[8080] = {id=8080,name="Light Plate Chestpiece",obtain={NpcID=11058,NpcName="Fras Siabi",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.4,Zone="Stratholme"}}
-items[3976] = {id=3976,name="Smooth Leather Armor",obtain={NpcID=7851,NpcName="Nethergarde Elite",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Blasted Lands"}}
-items[15179] = {id=15179,name="Praetorian Padded Armor",obtain={NpcID=7104,NpcName="Dessecus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Felwood"}}
-items[10806] = {id=10806,name="Vestments of the Atal'ai Prophet",obtain={NpcID=5710,NpcName="Jammal'an the Prophet",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=27.0,Zone="The Temple of Atal'Hakkar"}}
-items[12415] = {id=12415,name="Radiant Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16648,DropChance=0,Zone=""}}
-items[14664] = {id=14664,name="Keeper's Armor",obtain={NpcID=6129,NpcName="Draconic Magelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[14844] = {id=14844,name="Sunscale Chestguard",obtain={NpcID=8408,NpcName="Warlord Krellian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Azshara"}}
-items[14277] = {id=14277,name="Gaea's Tunic",obtain={NpcID=6187,NpcName="Timbermaw Den Watcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Azshara"}}
-items[15170] = {id=15170,name="Potent Armor",obtain={NpcID=8196,NpcName="Occulus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Tanaris"}}
-items[186028] = {id=186028,name="Communal Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[12542] = {id=12542,name="Funeral Pyre Vestment",obtain={NpcID=9681,NpcName="Jaz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Blackrock Depths"}}
-items[13869] = {id=13869,name="Frostweave Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18403,DropChance=0,Zone=""}}
-items[15381] = {id=15381,name="Rageclaw Chestguard",obtain={NpcID=193,NpcName="Blue Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[7517] = {id=7517,name="Gossamer Tunic",obtain={NpcID=8303,NpcName="Grunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.2,Zone="Blasted Lands"}}
-items[14427] = {id=14427,name="Windchaser Wraps",obtain={NpcID=14339,NpcName="Death Howl",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Felwood"}}
-items[14655] = {id=14655,name="Scorpashi Breastplate",obtain={NpcID=193,NpcName="Blue Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Azshara"}}
-items[10827] = {id=10827,name="Surveyor's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=3161,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[14835] = {id=14835,name="Tyrant's Chestpiece",obtain={NpcID=7901,NpcName="Treasure Hunting Swashbuckler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Tanaris"}}
-items[14249] = {id=14249,name="Lunar Vest",obtain={NpcID=5276,NpcName="Sprite Dragon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Feralas"}}
-items[14254] = {id=14254,name="Lunar Raiment",obtain={NpcID=6184,NpcName="Timbermaw Pathfinder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[7113] = {id=7113,name="Mistscape Armor",obtain={NpcID=2447,NpcName="Narillasanz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Alterac Mountains"}}
-items[14237] = {id=14237,name="Darkmist Armor",obtain={NpcID=10081,NpcName="Dustwraith",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Zul'Farrak"}}
-items[15376] = {id=15376,name="Wolf Rider's Padded Armor",obtain={NpcID=7796,NpcName="Nekrum Gutchewer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Zul'Farrak"}}
-items[34229] = {id=34229,name="Garments of Serene Shores",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.2,Zone="Sunwell Plateau"}}
-items[35026] = {id=35026,name="Brutal Gladiator's Kodohide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30976] = {id=30976,name="Onslaught Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31041] = {id=31041,name="Thunderheart Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33722] = {id=33722,name="Vengeful Gladiator's Ornamented Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33749] = {id=33749,name="Vengeful Gladiator's Scaled Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34921] = {id=34921,name="Ecclesiastical Cuirass",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34939] = {id=34939,name="Chestplate of Stoicism",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31991] = {id=31991,name="Merciless Gladiator's Kodohide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31992] = {id=31992,name="Merciless Gladiator's Lamellar Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32004] = {id=32004,name="Merciless Gladiator's Linked Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32029] = {id=32029,name="Merciless Gladiator's Ringmail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27824] = {id=27824,name="Robe of the Great Dark Beyond",obtain={NpcID=18343,NpcName="Tavarok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Mana-Tombs"}}
-items[30773] = {id=30773,name="Inferno Forged Hauberk",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[24784] = {id=24784,name="Murkblood Chestpiece",obtain={NpcID=20988,NpcName="Sunseeker Engineer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Mechanar"}}
-items[30518] = {id=30518,name="Warpthread Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10406,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31156] = {id=31156,name="Drakescale Hauberk",obtain={NpcID=18692,NpcName="Hemathion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.9,Zone="Unknown"}}
-items[31286] = {id=31286,name="Breastplate of Rapid Striking",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24984] = {id=24984,name="Boulderfist Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25822] = {id=25822,name="Watcher's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10011,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[24968] = {id=24968,name="Talonguard Armor",obtain={NpcID=17128,NpcName="Windroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Nagrand"}}
-items[24727] = {id=24727,name="Dementia Vest",obtain={NpcID=17308,NpcName="Omor the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.9,Zone="Hellfire Ramparts"}}
-items[24703] = {id=24703,name="Haal'eshi Jerkin",obtain={NpcID=19424,NpcName="Bleeding Hollow Tormentor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Hellfire Peninsula"}}
-items[31172] = {id=31172,name="Demon-Cured Tunic",obtain={NpcID=18677,NpcName="Mekthorg the Wild",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.0,Zone="Unknown"}}
-items[25559] = {id=25559,name="Lo'ap's Tunic of Muck Diving",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9815,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[21814] = {id=21814,name="Breastplate of Annihilation",obtain={NpcID=15263,NpcName="The Prophet Skeram",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.7,Zone="Ahn'Qiraj"}}
-items[25392] = {id=25392,name="Deteriorating Plate Chestpiece",obtain={NpcID=18632,NpcName="Cabal Executioner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Shadow Labyrinth"}}
-items[22756] = {id=22756,name="Sylvan Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28480,DropChance=0,Zone=""}}
-items[29596] = {id=29596,name="Knight-Captain's Mail Hauberk",obtain={NpcID=12785,NpcName="Sergeant Major Clate (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[14328] = {id=14328,name="Eternal Chestguard",obtain={NpcID=14890,NpcName="Taerar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.9,Zone="Duskwood"}}
-items[10157] = {id=10157,name="Mercurial Breastplate",obtain={NpcID=15818,NpcName="Lieutenant General Nokhor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Silithus"}}
-items[14326] = {id=14326,name="Resplendent Robes",obtain={NpcID=14471,NpcName="Setis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Silithus"}}
-items[16421] = {id=16421,name="Knight-Captain's Dragonhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16513] = {id=16513,name="Legionnaire's Plate Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16706] = {id=16706,name="Wildheart Vest",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.8,Zone="Blackrock Spire"}}
-items[14931] = {id=14931,name="Heroic Armor",obtain={NpcID=5314,NpcName="Phantim",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Ashenvale"}}
-items[15669] = {id=15669,name="Magnificent Breastplate",obtain={NpcID=5312,NpcName="Lethlas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Feralas"}}
-items[20478] = {id=20478,name="Sandstalker Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24851,DropChance=0,Zone=""}}
-items[15660] = {id=15660,name="Impenetrable Breastplate",obtain={NpcID=12497,NpcName="Dreamroarer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Feralas"}}
-items[18450] = {id=18450,name="Robe of Combustion",obtain={NpcID=14321,NpcName="Guard Fengus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Dire Maul"}}
-items[15786] = {id=15786,name="Fernpulse Jerkin",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5121,Recipe=false,RecipeID=0,DropChance=0,Zone="Winterspring"}}
-items[10181] = {id=10181,name="Mystical Armor",obtain={NpcID=15754,NpcName="Greater Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.4,Zone="Tanaris"}}
-items[14924] = {id=14924,name="Lofty Breastplate",obtain={NpcID=7137,NpcName="Immolatus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Felwood"}}
-items[8245] = {id=8245,name="Imperial Red Tunic",obtain={NpcID=7728,NpcName="Kirith the Damned",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Blasted Lands"}}
-items[14284] = {id=14284,name="Opulent Robes",obtain={NpcID=14303,NpcName="Petrified Guardian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dire Maul"}}
-items[15640] = {id=15640,name="Ironhide Breastplate",obtain={NpcID=7137,NpcName="Immolatus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Felwood"}}
-items[10057] = {id=10057,name="Duskwoven Tunic",obtain={NpcID=10817,NpcName="Duggan Wildhammer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Eastern Plaguelands"}}
-items[10240] = {id=10240,name="Heavy Lamellar Chestpiece",obtain={NpcID=10197,NpcName="Mezzir the Howler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.5,Zone="Winterspring"}}
-items[14141] = {id=14141,name="Ghostweave Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18416,DropChance=0,Zone=""}}
-items[9946] = {id=9946,name="Abjurer's Tunic",obtain={NpcID=9681,NpcName="Jaz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Blackrock Depths"}}
-items[9950] = {id=9950,name="Chieftain's Breastplate",obtain={NpcID=15816,NpcName="Qiraji Major He'al-ie",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Thousand Needles"}}
-items[10077] = {id=10077,name="Lord's Breastplate",obtain={NpcID=14345,NpcName="The Ongar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.5,Zone="Felwood"}}
-items[15076] = {id=15076,name="Heavy Scorpid Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19051,DropChance=0,Zone=""}}
-items[10203] = {id=10203,name="Overlord's Chestplate",obtain={NpcID=8303,NpcName="Grunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.2,Zone="Blasted Lands"}}
-items[14042] = {id=14042,name="Cindercloth Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18408,DropChance=0,Zone=""}}
-items[14275] = {id=14275,name="Gaea's Raiment",obtain={NpcID=6187,NpcName="Timbermaw Den Watcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Azshara"}}
-items[15631] = {id=15631,name="Formidable Chestpiece",obtain={NpcID=6502,NpcName="Plated Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Un'Goro Crater"}}
-items[8119] = {id=8119,name="Heraldic Breastplate",obtain={NpcID=8282,NpcName="Highlord Mastrogonde",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Searing Gorge"}}
-items[8274] = {id=8274,name="Valorous Chestguard",obtain={NpcID=5280,NpcName="Nightmare Wyrmkin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="The Temple of Atal'Hakkar"}}
-items[14948] = {id=14948,name="Bloodforged Chestpiece",obtain={NpcID=6130,NpcName="Blue Scalebane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[2423] = {id=2423,name="Brigandine Vest",obtain={NpcID=980,NpcName="Grimnal (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Swamp of Sorrows"}}
-items[2470] = {id=2470,name="Reinforced Leather Vest",obtain={NpcID=984,NpcName="Thralosh (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Swamp of Sorrows"}}
-items[7518] = {id=7518,name="Gossamer Robe",obtain={NpcID=6002,NpcName="Nethergarde Riftwatcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Blasted Lands"}}
-items[7935] = {id=7935,name="Ornate Mithril Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9972,DropChance=0,Zone=""}}
-items[9905] = {id=9905,name="Royal Blouse",obtain={NpcID=8200,NpcName="Jin'Zallah the Sandbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.7,Zone="Tanaris"}}
-items[4082] = {id=4082,name="Blackforge Breastplate",obtain={NpcID=5224,NpcName="Murk Slitherer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Swamp of Sorrows"}}
-items[17777] = {id=17777,name="Relentless Chain",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7028,Recipe=false,RecipeID=0,DropChance=0,Zone="Maraudon"}}
-items[14244] = {id=14244,name="Darkmist Wraps",obtain={NpcID=10081,NpcName="Dustwraith",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Zul'Farrak"}}
-items[7468] = {id=7468,name="Regal Robe",obtain={NpcID=5345,NpcName="Diamond Head",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Feralas"}}
-items[9928] = {id=9928,name="Brigade Breastplate",obtain={NpcID=8199,NpcName="Warleader Krazzilak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Tanaris"}}
-items[8157] = {id=8157,name="Jouster's Chestplate",obtain={NpcID=4849,NpcName="Shadowforge Archaeologist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Uldaman"}}
-items[35012] = {id=35012,name="Brutal Gladiator's Felweave Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35057] = {id=35057,name="Brutal Gladiator's Mooncloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34930] = {id=34930,name="Wave of Life Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34942] = {id=34942,name="Breastplate of Ire",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31972] = {id=31972,name="Merciless Gladiator's Dragonhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32060] = {id=32060,name="Merciless Gladiator's Wyrmhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30118] = {id=30118,name="Destroyer Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24792] = {id=24792,name="Expedition Tunic",obtain={NpcID=17800,NpcName="Coilfang Myrmidon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Steamvault"}}
-items[35375] = {id=35375,name="Wyrmhide Robe",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[35469] = {id=35469,name="Dragonhide Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30959] = {id=30959,name="Torn-heart Family Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10541,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[25000] = {id=25000,name="Bloodfist Breastplate",obtain={NpcID=18796,NpcName="Fel Overseer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Shadow Labyrinth"}}
-items[29789] = {id=29789,name="Andrethan's Masterwork",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10332,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31157] = {id=31157,name="Drakehide Tunic",obtain={NpcID=18692,NpcName="Hemathion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.2,Zone="Unknown"}}
-items[24864] = {id=24864,name="Blood Knight Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29339] = {id=29339,name="Auchenai Tracker's Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10164,Recipe=false,RecipeID=0,DropChance=0,Zone="Auchenai Crypts"}}
-items[29973] = {id=29973,name="Primalstorm Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36077,DropChance=0,Zone=""}}
-items[30076] = {id=30076,name="Stormforged Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36130,DropChance=0,Zone=""}}
-items[24832] = {id=24832,name="Nexus-Strider Breastplate",obtain={NpcID=17264,NpcName="Bonechewer Ravener",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Hellfire Ramparts"}}
-items[24944] = {id=24944,name="Bloodscale Breastplate",obtain={NpcID=17958,NpcName="Coilfang Defender",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="The Slave Pens"}}
-items[24808] = {id=24808,name="Unyielding Chain Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16966] = {id=16966,name="Breastplate of Wrath",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.0,Zone="Blackwing Lair"}}
-items[25357] = {id=25357,name="Decaying Leather Armor",obtain={NpcID=17670,NpcName="Shattered Hand Houndmaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.0,Zone="The Shattered Halls"}}
-items[3959] = {id=3959,name="Mesh Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25349] = {id=25349,name="Moldy Leather Armor",obtain={NpcID=17517,NpcName="Hellfire Sentry",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Hellfire Ramparts"}}
-items[20032] = {id=20032,name="Flowing Ritual Robes",obtain={NpcID=14510,NpcName="High Priestess Mar'li",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.6,Zone="Zul'Gurub"}}
-items[3984] = {id=3984,name="Strapped Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23088] = {id=23088,name="Chestguard of Undead Slaying",obtain={NpcID=16143,NpcName="Shadow of Doom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.0,Zone="Blasted Lands"}}
-items[12615] = {id=12615,name="Savage Mail Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18503] = {id=18503,name="Kromcrush's Chestplate",obtain={NpcID=14325,NpcName="Captain Kromcrush",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.8,Zone="Dire Maul"}}
-items[8290] = {id=8290,name="Arcane Robe",obtain={NpcID=12496,NpcName="Dreamtracker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="The Hinterlands"}}
-items[10164] = {id=10164,name="Templar Chestplate",obtain={NpcID=10823,NpcName="Zul'Brin Warpbranch",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.2,Zone="Eastern Plaguelands"}}
-items[13067] = {id=13067,name="Hydralick Armor",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[12049] = {id=12049,name="Splintsteel Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4136,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackrock Depths"}}
-items[2435] = {id=2435,name="Embroidered Armor",obtain={NpcID=984,NpcName="Thralosh (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Swamp of Sorrows"}}
-items[34395] = {id=34395,name="Noble Judicator's Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35036] = {id=35036,name="Brutal Gladiator's Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35066] = {id=35066,name="Brutal Gladiator's Plate Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31016] = {id=31016,name="Skyshatter Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33706] = {id=33706,name="Vengeful Gladiator's Linked Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33771] = {id=33771,name="Vengeful Gladiator's Wyrmhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34903] = {id=34903,name="Embrace of Starlight",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32019] = {id=32019,name="Merciless Gladiator's Mooncloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33473] = {id=33473,name="Chestguard of the Warlord",obtain={NpcID=23863,NpcName="Zul'jin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.5,Zone="Unknown"}}
-items[24527] = {id=24527,name="130 Epic Warrior Breastplate",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30065] = {id=30065,name="Glowing Breastplate of Truth",obtain={NpcID=21217,NpcName="The Lurker Below",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.1,Zone="Serpentshrine Cavern"}}
-items[33317] = {id=33317,name="Robe of Departed Spirits",obtain={NpcID=23577,NpcName="Halazzi",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.3,Zone="Unknown"}}
-items[24904] = {id=24904,name="Talhide Chestpiece",obtain={NpcID=17728,NpcName="Murkblood Tribesman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="The Underbog"}}
-items[25016] = {id=25016,name="Shattered Hand Breastplate",obtain={NpcID=16807,NpcName="Grand Warlock Nethekurse",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="The Shattered Halls"}}
-items[27818] = {id=27818,name="Starry Robes of the Crescent",obtain={NpcID=18341,NpcName="Pandemonius",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Mana-Tombs"}}
-items[24671] = {id=24671,name="Eldr'naan Jerkin",obtain={NpcID=18794,NpcName="Cabal Ritualist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Shadow Labyrinth"}}
-items[24655] = {id=24655,name="Consortium Robe",obtain={NpcID=16948,NpcName="Gan'arg Engineer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Netherstorm"}}
-items[24767] = {id=24767,name="Clefthoof Hidemantle",obtain={NpcID=20634,NpcName="Scythetooth Raptor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Netherstorm"}}
-items[24880] = {id=24880,name="Der'izu Chestpiece",obtain={NpcID=18635,NpcName="Cabal Deathsworn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="Shadow Labyrinth"}}
-items[29967] = {id=29967,name="Nether Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10221,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[24759] = {id=24759,name="Umbrafen Tunic",obtain={NpcID=20135,NpcName="Sunfury Arch Mage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Netherstorm"}}
-items[24872] = {id=24872,name="Ironspine Chain Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25569] = {id=25569,name="Murkblood Avenger's Chestplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9863,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[25676] = {id=25676,name="Wild Draenish Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32481,DropChance=0,Zone=""}}
-items[25556] = {id=25556,name="Oversized Ogre Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9810,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[24631] = {id=24631,name="Feralfen Jerkin",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24623] = {id=24623,name="Slavehandler Jerkin",obtain={NpcID=18455,NpcName="Shalassi Oracle",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Terokkar Forest"}}
-items[24848] = {id=24848,name="Fenclaw Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31152] = {id=31152,name="Chestguard of Illumination",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24840] = {id=24840,name="Wrathfin Armor",obtain={NpcID=16967,NpcName="Haal'eshi Talonguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Hellfire Peninsula"}}
-items[24952] = {id=24952,name="Bogslayer Breastplate",obtain={NpcID=18309,NpcName="Ethereal Scavenger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Mana-Tombs"}}
-items[24607] = {id=24607,name="Laughing Skull Tunic",obtain={NpcID=17397,NpcName="Shadowmoon Adept",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="The Blood Furnace"}}
-items[24599] = {id=24599,name="Starfire Vest",obtain={NpcID=17400,NpcName="Felguard Annihilator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.4,Zone="The Blood Furnace"}}
-items[24711] = {id=24711,name="Vengeance Chestpiece",obtain={NpcID=17259,NpcName="Bonechewer Hungerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Hellfire Ramparts"}}
-items[24824] = {id=24824,name="Netherstalker Armor",obtain={NpcID=17478,NpcName="Bleeding Hollow Scryer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.8,Zone="Hellfire Ramparts"}}
-items[24816] = {id=24816,name="Felstone Chain Vest",obtain={NpcID=17478,NpcName="Bleeding Hollow Scryer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.8,Zone="Hellfire Ramparts"}}
-items[24928] = {id=24928,name="Ango'rosh Breastplate",obtain={NpcID=19424,NpcName="Bleeding Hollow Tormentor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Hellfire Peninsula"}}
-items[24583] = {id=24583,name="Outlander's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24695] = {id=24695,name="Bonechewer Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24920] = {id=24920,name="Grimscale Armor",obtain={NpcID=16847,NpcName="Debilitated Mag'har Grunt",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Hellfire Peninsula"}}
-items[25348] = {id=25348,name="Dilapidated Cloth Vest",obtain={NpcID=16481,NpcName="Ghastly Haunt",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Karazhan"}}
-items[30760] = {id=30760,name="Formal Draenic Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[12970] = {id=12970,name="General's Ceremonial Plate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14318] = {id=14318,name="Resplendent Tunic",obtain={NpcID=12498,NpcName="Dreamstalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Ashenvale"}}
-items[16690] = {id=16690,name="Devout Robe",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.8,Zone="Blackrock Spire"}}
-items[21054] = {id=21054,name="63 Blue Fire Robes",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14138] = {id=14138,name="Mooncloth Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18447,DropChance=0,Zone=""}}
-items[11820] = {id=11820,name="Royal Decorated Armor",obtain={NpcID=9033,NpcName="General Angerforge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.9,Zone="Blackrock Depths"}}
-items[11926] = {id=11926,name="Deathdealer Breastplate",obtain={NpcID=9039,NpcName="Doom'rel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.7,Zone="Blackrock Depths"}}
-items[19127] = {id=19127,name="Charred Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7701,Recipe=false,RecipeID=0,DropChance=0,Zone="Searing Gorge"}}
-items[19128] = {id=19128,name="Seared Mail Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7701,Recipe=false,RecipeID=0,DropChance=0,Zone="Searing Gorge"}}
-items[35115] = {id=35115,name="Brutal Gladiator's Wyrmhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33721] = {id=33721,name="Vengeful Gladiator's Mooncloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33738] = {id=33738,name="Vengeful Gladiator's Ringmail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30896] = {id=30896,name="Glory of the Defender",obtain={NpcID=17842,NpcName="Azgalor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.7,Zone="Hyjal Summit"}}
-items[30129] = {id=30129,name="Crystalforge Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33469] = {id=33469,name="Hauberk of the Empire's Champion",obtain={NpcID=23863,NpcName="Zul'jin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.1,Zone="Unknown"}}
-items[33522] = {id=33522,name="Chestguard of the Stoic Guardian",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33566] = {id=33566,name="Blessed Elunite Coverings",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24800] = {id=24800,name="Dragonhawk Tunic",obtain={NpcID=22281,NpcName="Galvanoth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Unknown"}}
-items[31562] = {id=31562,name="Skystalker's Tunic",obtain={NpcID=22930,NpcName="Yor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.8,Zone="Mana-Tombs"}}
-items[31570] = {id=31570,name="Mistshroud Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24896] = {id=24896,name="Sundered Chestpiece",obtain={NpcID=20865,NpcName="Protean Horror",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="The Arcatraz"}}
-items[25008] = {id=25008,name="Conqueror's Breastplate",obtain={NpcID=16406,NpcName="Phantom Attendant",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.8,Zone="Karazhan"}}
-items[30379] = {id=30379,name="Vindicator's Light Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10381,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30945] = {id=30945,name="Grom'tor's Friend's Cousin's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10523,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[24663] = {id=24663,name="Shadow Council Tunic",obtain={NpcID=17695,NpcName="Shattered Hand Assassin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Shattered Halls"}}
-items[24888] = {id=24888,name="Skettis Chestpiece",obtain={NpcID=17259,NpcName="Bonechewer Hungerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Hellfire Ramparts"}}
-items[24639] = {id=24639,name="Mistyreed Tunic",obtain={NpcID=21405,NpcName="Ethereal Arcanist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Terokkar Forest"}}
-items[24751] = {id=24751,name="Daggerfen Battlevest",obtain={NpcID=18093,NpcName="Tarren Mill Protector",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.0,Zone="Unknown"}}
-items[24743] = {id=24743,name="Ranger Jerkin",obtain={NpcID=18313,NpcName="Ethereal Sorcerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Mana-Tombs"}}
-items[24856] = {id=24856,name="Marshcreeper Fen-Vest",obtain={NpcID=18331,NpcName="Ethereal Darkcaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Mana-Tombs"}}
-items[24735] = {id=24735,name="Sunroc Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24960] = {id=24960,name="Khan'aish Breastplate",obtain={NpcID=18317,NpcName="Ethereal Priest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Mana-Tombs"}}
-items[30781] = {id=30781,name="Mag'hari Chain Vest",obtain={NpcID=18010,NpcName="Maktu (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[24936] = {id=24936,name="Darkcrest Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25980] = {id=25980,name="Aerodynamic Scaled Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10161,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[16905] = {id=16905,name="Bloodfang Chestpiece",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.1,Zone="Blackwing Lair"}}
-items[25373] = {id=25373,name="Corroded Mail Armor",obtain={NpcID=18848,NpcName="Malicious Instructor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Shadow Labyrinth"}}
-items[21838] = {id=21838,name="Garb of Royal Ascension",obtain={NpcID=15229,NpcName="Vekniss Soldier",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Ahn'Qiraj"}}
-items[21067] = {id=21067,name="66 Epic Fire Robes",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21095] = {id=21095,name="66 Epic Shadow Robes",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25340] = {id=25340,name="Loosely Threaded Vest",obtain={NpcID=20295,NpcName="Bogstrok Crusher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Zangarmarsh"}}
-items[25365] = {id=25365,name="Eroded Mail Armor",obtain={NpcID=17957,NpcName="Coilfang Champion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="The Slave Pens"}}
-items[14680] = {id=14680,name="Indomitable Vest",obtain={NpcID=12129,NpcName="Onyxian Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Unknown"}}
-items[23085] = {id=23085,name="Robe of Undead Cleansing",obtain={NpcID=16143,NpcName="Shadow of Doom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Blasted Lands"}}
-items[14340] = {id=14340,name="Freezing Lich Robes",obtain={NpcID=10508,NpcName="Ras Frostwhisper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.4,Zone="Scholomance"}}
-items[15090] = {id=15090,name="Runic Leather Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19102,DropChance=0,Zone=""}}
-items[11678] = {id=11678,name="Carapace of Anub'shiah",obtain={NpcID=9031,NpcName="Anub'shiah",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.9,Zone="Blackrock Depths"}}
-items[11747] = {id=11747,name="Flamestrider Robes",obtain={NpcID=9024,NpcName="Pyromancer Loregrain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.2,Zone="Blackrock Depths"}}
-items[2618] = {id=2618,name="Silver Dress Robes",obtain={NpcID=1309,NpcName="Wynne Larson (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[21311] = {id=21311,name="Earth Warder's Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8460,Recipe=false,RecipeID=0,DropChance=0,Zone="Felwood"}}
-items[17775] = {id=17775,name="Acumen Robes",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7028,Recipe=false,RecipeID=0,DropChance=0,Zone="Maraudon"}}
-items[10020] = {id=10020,name="Stormcloth Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12068,DropChance=0,Zone=""}}
-items[10042] = {id=10042,name="Cindercloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12069,DropChance=0,Zone=""}}
-items[35099] = {id=35099,name="Brutal Gladiator's Silk Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33680] = {id=33680,name="Vengeful Gladiator's Dreadweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33760] = {id=33760,name="Vengeful Gladiator's Silk Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34917] = {id=34917,name="Shroud of the Lore`nial",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34933] = {id=34933,name="Hauberk of Whirling Fury",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32038] = {id=32038,name="Merciless Gladiator's Satin Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32050] = {id=32050,name="Merciless Gladiator's Silk Raiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31158] = {id=31158,name="Drakeweave Raiment",obtain={NpcID=18692,NpcName="Hemathion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.5,Zone="Unknown"}}
-items[29974] = {id=29974,name="Living Crystal Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36078,DropChance=0,Zone=""}}
-items[10384] = {id=10384,name="Hyperion Armor",obtain={NpcID=15818,NpcName="Lieutenant General Nokhor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Silithus"}}
-items[16430] = {id=16430,name="Knight-Captain's Plate Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14626] = {id=14626,name="Necropile Robe",obtain={NpcID=10504,NpcName="Lord Alexei Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.1,Zone="Scholomance"}}
-items[14966] = {id=14966,name="Glorious Breastplate",obtain={NpcID=12497,NpcName="Dreamroarer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Feralas"}}
-items[13535] = {id=13535,name="Coldtouch Phantom Wraps",obtain={NpcID=10436,NpcName="Baroness Anastari",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.8,Zone="Stratholme"}}
-items[35002] = {id=35002,name="Brutal Gladiator's Dragonhide Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31043] = {id=31043,name="Thunderheart Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33704] = {id=33704,name="Vengeful Gladiator's Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30887] = {id=30887,name="Golden Links of Restoration",obtain={NpcID=17808,NpcName="Anetheron",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.7,Zone="Hyjal Summit"}}
-items[30486] = {id=30486,name="Merciless Gladiator's Plate Chestpiece",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30222] = {id=30222,name="Nordrassil Chestplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28252] = {id=28252,name="Bloodfyre Robes of Annihilation",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30769] = {id=30769,name="Inferno Tempered Chestguard",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[35391] = {id=35391,name="Seer's Ringmail Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24775] = {id=24775,name="Boneshredder Jerkin",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31282] = {id=31282,name="Shroud of Spiritual Purity",obtain={NpcID=184937,NpcName="Solid Adamantite Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Auchenai Crypts"}}
-items[31765] = {id=31765,name="Redeemer's Plate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10898,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[19405] = {id=19405,name="Malfurion's Blessed Bulwark",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.6,Zone="Blackwing Lair"}}
-items[20635] = {id=20635,name="Jade Inlaid Vestments",obtain={NpcID=14887,NpcName="Ysondre",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.3,Zone="Duskwood"}}
-items[16425] = {id=16425,name="Knight-Captain's Chain Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16433] = {id=16433,name="Knight-Captain's Lamellar Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21082] = {id=21082,name="63 Blue Shadow Robes",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23087] = {id=23087,name="Breastplate of Undead Slaying",obtain={NpcID=16143,NpcName="Shadow of Doom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Blasted Lands"}}
-items[12405] = {id=12405,name="Thorium Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16642,DropChance=0,Zone=""}}
-items[10086] = {id=10086,name="Gothic Plate Armor",obtain={NpcID=14344,NpcName="Mongress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.2,Zone="Felwood"}}
-items[34394] = {id=34394,name="Breastplate of Agony's Aversion",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35077] = {id=35077,name="Brutal Gladiator's Ringmail Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24912] = {id=24912,name="Netherstorm Chestpiece",obtain={NpcID=22275,NpcName="Apexis Guardian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Unknown"}}
-items[34605] = {id=34605,name="Breastplate of Fierce Survival",obtain={NpcID=24744,NpcName="Vexallus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.4,Zone="Magisters' Terrace"}}
-items[23509] = {id=23509,name="Enchanted Adamantite Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29610,DropChance=0,Zone=""}}
-items[31174] = {id=31174,name="Demonweave Raiment",obtain={NpcID=18677,NpcName="Mekthorg the Wild",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.0,Zone="Unknown"}}
-items[16833] = {id=16833,name="Cenarion Vestments",obtain={NpcID=11988,NpcName="Golemagg the Incinerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.0,Zone="Molten Core"}}
-items[16417] = {id=16417,name="Knight-Captain's Leather Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22301] = {id=22301,name="Ironweave Robe",obtain={NpcID=181083,NpcName="Sothos and Jarien's Heirlooms (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.4,Zone="Stratholme"}}
-items[8283] = {id=8283,name="Arcane Armor",obtain={NpcID=10439,NpcName="Ramstein the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Stratholme"}}
-items[13394] = {id=13394,name="Skul's Cold Embrace",obtain={NpcID=10393,NpcName="Skul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.6,Zone="Stratholme"}}
-items[15390] = {id=15390,name="Jadefire Chestguard",obtain={NpcID=7104,NpcName="Dessecus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Felwood"}}
-items[10128] = {id=10128,name="Revenant Chestplate",obtain={NpcID=9602,NpcName="Hahk'Zor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Burning Steppes"}}
-items[13857] = {id=13857,name="Runecloth Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18407,DropChance=0,Zone=""}}
-items[13868] = {id=13868,name="Frostweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18404,DropChance=0,Zone=""}}
-items[8094] = {id=8094,name="Platemail Armor",obtain={NpcID=980,NpcName="Grimnal (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Swamp of Sorrows"}}
-items[9473] = {id=9473,name="Jinxed Hoodoo Skin",obtain={NpcID=7275,NpcName="Shadowpriest Sezz'ziz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.8,Zone="Zul'Farrak"}}
-items[30990] = {id=30990,name="Lightbringer Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30216] = {id=30216,name="Nordrassil Chestguard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30776] = {id=30776,name="Inferno Hardened Chestguard",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[24976] = {id=24976,name="Reaver Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21527] = {id=21527,name="Darkwater Robes",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8729,Recipe=false,RecipeID=0,DropChance=0,Zone="Azshara"}}
-items[22762] = {id=22762,name="Ironvine Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28461,DropChance=0,Zone=""}}
-items[16798] = {id=16798,name="Arcanist Robes",obtain={NpcID=11988,NpcName="Golemagg the Incinerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.5,Zone="Molten Core"}}
-items[16815] = {id=16815,name="Robes of Prophecy",obtain={NpcID=11988,NpcName="Golemagg the Incinerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.6,Zone="Molten Core"}}
-items[10378] = {id=10378,name="Commander's Armor",obtain={NpcID=15818,NpcName="Lieutenant General Nokhor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Silithus"}}
-items[16505] = {id=16505,name="Legionnaire's Leather Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[17572] = {id=17572,name="Legionnaire's Dreadweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13388] = {id=13388,name="The Postmaster's Tunic",obtain={NpcID=11143,NpcName="Postmaster Malown",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.6,Zone="Stratholme"}}
-items[14100] = {id=14100,name="Brightcloth Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18414,DropChance=0,Zone=""}}
-items[8367] = {id=8367,name="Dragonscale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10650,DropChance=0,Zone=""}}
-items[35042] = {id=35042,name="Brutal Gladiator's Linked Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34614] = {id=34614,name="Tunic of the Ranger Lord",obtain={NpcID=24664,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.8,Zone="Magisters' Terrace"}}
-items[24679] = {id=24679,name="Archmage Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28186] = {id=28186,name="Laughing Skull Battle-Harness",obtain={NpcID=17880,NpcName="Temporus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.0,Zone="The Black Morass"}}
-items[31155] = {id=31155,name="Drakescale Breastplate",obtain={NpcID=18692,NpcName="Hemathion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.0,Zone="Unknown"}}
-items[25660] = {id=25660,name="Scaled Draenic Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32468,DropChance=0,Zone=""}}
-items[16950] = {id=16950,name="Breastplate of Ten Storms",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.9,Zone="Blackwing Lair"}}
-items[16853] = {id=16853,name="Lawbringer Chestguard",obtain={NpcID=11988,NpcName="Golemagg the Incinerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.7,Zone="Molten Core"}}
-items[25384] = {id=25384,name="Tarnished Plate Chestpiece",obtain={NpcID=22044,NpcName="Cavern Crawler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Blade's Edge Mountains"}}
-items[14862] = {id=14862,name="Warleader's Breastplate",obtain={NpcID=11447,NpcName="Mushgog",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Unknown"}}
-items[10368] = {id=10368,name="Imbued Plate Armor",obtain={NpcID=12496,NpcName="Dreamtracker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.5,Zone="The Hinterlands"}}
-items[14536] = {id=14536,name="Bonebrace Hauberk",obtain={NpcID=10470,NpcName="Scholomance Neophyte",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Scholomance"}}
-items[14670] = {id=14670,name="Pridelord Armor",obtain={NpcID=14398,NpcName="Eldreth Darter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Dire Maul"}}
-items[9286] = {id=9286,name="Field Plate Armor",obtain={NpcID=8210,NpcName="Razortalon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.8,Zone="The Hinterlands"}}
-items[24687] = {id=24687,name="Elementalist Tunic",obtain={NpcID=16481,NpcName="Ghastly Haunt",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Karazhan"}}
-items[34796] = {id=34796,name="Robes of Summer Flame",obtain={NpcID=24664,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.0,Zone="Magisters' Terrace"}}
-items[31295] = {id=31295,name="Chestguard of the Dark Stalker",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24591] = {id=24591,name="Fireheart Chestpiece",obtain={NpcID=19946,NpcName="Darkcrest Slaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Zangarmarsh"}}
-items[16845] = {id=16845,name="Giantstalker's Breastplate",obtain={NpcID=11988,NpcName="Golemagg the Incinerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.3,Zone="Molten Core"}}
-items[17568] = {id=17568,name="Knight-Captain's Dreadweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10275] = {id=10275,name="Emerald Breastplate",obtain={NpcID=1841,NpcName="Scarlet Executioner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.1,Zone="Western Plaguelands"}}
-items[34945] = {id=34945,name="Shattrath Protectorate's Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25657] = {id=25657,name="Felscale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32465,DropChance=0,Zone=""}}
-items[24647] = {id=24647,name="Astralaan Robe",obtain={NpcID=22045,NpcName="Vengeful Husk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Terokkar Forest"}}
-items[27716] = {id=27716,name="Refuge Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9788,Recipe=false,RecipeID=0,DropChance=0,Zone="Zangarmarsh"}}
-items[11876] = {id=11876,name="Plainstalker Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4292,Recipe=false,RecipeID=0,DropChance=0,Zone="Un'Goro Crater"}}
-items[14904] = {id=14904,name="Brutish Breastplate",obtain={NpcID=8196,NpcName="Occulus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Tanaris"}}
-items[15601] = {id=15601,name="Ancient Chestpiece",obtain={NpcID=7606,NpcName="Oro Eyegouge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Zul'Farrak"}}
-items[10328] = {id=10328,name="Scarlet Chestpiece",obtain={NpcID=4302,NpcName="Scarlet Champion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Scarlet Monastery"}}
-items[8203] = {id=8203,name="Tough Scorpid Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10525,DropChance=0,Zone=""}}
-items[6473] = {id=6473,name="Armor of the Fang",obtain={NpcID=3670,NpcName="Lord Pythas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=54.8,Zone="Wailing Caverns"}}
-items[5770] = {id=5770,name="Robes of Arcana",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=6692,DropChance=0,Zone=""}}
-items[5781] = {id=5781,name="Murloc Scale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=6703,DropChance=0,Zone=""}}
-items[6900] = {id=6900,name="Enchanted Gold Bloodrobe",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4786,Recipe=false,RecipeID=0,DropChance=0,Zone="Warlock"}}
-items[6324] = {id=6324,name="Robes of Arugal",obtain={NpcID=4275,NpcName="Archmage Arugal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.3,Zone="Shadowfang Keep"}}
-items[7054] = {id=7054,name="Robe of Power",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8770,DropChance=0,Zone=""}}
-items[2870] = {id=2870,name="Shining Silver Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2675,DropChance=0,Zone=""}}
-items[7711] = {id=7711,name="Robe of Doan",obtain={NpcID=6487,NpcName="Arcanist Doan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=46.4,Zone="Scarlet Monastery"}}
-items[10399] = {id=10399,name="Blackened Defias Armor",obtain={NpcID=639,NpcName="Edwin VanCleef",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.2,Zone="The Deadmines"}}
-items[1486] = {id=1486,name="Tree Bark Jacket",obtain={NpcID=4815,NpcName="Murkshallow Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackfathom Deeps"}}
-items[1716] = {id=1716,name="Robe of the Magi",obtain={NpcID=15815,NpcName="Qiraji Captain Ka'ark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Thousand Needles"}}
-items[14150] = {id=14150,name="Robe of Evocation",obtain={NpcID=11518,NpcName="Jergosh the Invoker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.5,Zone="Ragefire Chasm"}}
-items[10004] = {id=10004,name="Shadoweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12055,DropChance=0,Zone=""}}
-items[4255] = {id=4255,name="Green Leather Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3772,DropChance=0,Zone=""}}
-items[6773] = {id=6773,name="Gelkis Marauder Chain",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1380,Recipe=false,RecipeID=0,DropChance=0,Zone="Desolace"}}
-items[7759] = {id=7759,name="Archon Chestpiece",obtain={NpcID=4289,NpcName="Scarlet Evoker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Scarlet Monastery"}}
-items[3844] = {id=3844,name="Green Iron Hauberk",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3508,DropChance=0,Zone=""}}
-items[38277] = {id=38277,name="Haliscan Jacket",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=50644,DropChance=0,Zone=""}}
-items[8189] = {id=8189,name="Turtle Scale Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10511,DropChance=0,Zone=""}}
-items[1717] = {id=1717,name="Double Link Tunic",obtain={NpcID=15814,NpcName="Qiraji Lieutenant Jo-rel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.5,Zone="The Barrens"}}
-items[6465] = {id=6465,name="Robe of the Moccasin",obtain={NpcID=3669,NpcName="Lord Cobrahn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=54.5,Zone="Wailing Caverns"}}
-items[13895] = {id=13895,name="Formal Dangui",obtain={NpcID=4184,NpcName="Geenia Sunshadow (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Moonglade"}}
-items[10583] = {id=10583,name="Quillward Harness",obtain={NpcID=7345,NpcName="Splinterbone Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Razorfen Downs"}}
-items[6627] = {id=6627,name="Mutant Scale Breastplate",obtain={NpcID=3654,NpcName="Mutanus the Devourer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.8,Zone="Wailing Caverns"}}
-items[31256] = {id=31256,name="Silvermoon Armor",obtain={NpcID=22060,NpcName="Fenissa the Assassin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=42.8,Zone="Bloodmyst Isle"}}
-items[31264] = {id=31264,name="Silvermoon Robes",obtain={NpcID=22060,NpcName="Fenissa the Assassin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.1,Zone="Bloodmyst Isle"}}
-items[31263] = {id=31263,name="Silvermoon Tunic",obtain={NpcID=22060,NpcName="Fenissa the Assassin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.4,Zone="Bloodmyst Isle"}}
-items[10036] = {id=10036,name="Tuxedo Jacket",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12093,DropChance=0,Zone=""}}
-items[7688] = {id=7688,name="Ironspine's Ribcage",obtain={NpcID=6489,NpcName="Ironspine",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.3,Zone="Scarlet Monastery"}}
-items[1488] = {id=1488,name="Avenger's Armor",obtain={NpcID=4427,NpcName="Ward Guardian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Razorfen Kraul"}}
-items[7058] = {id=7058,name="Crimson Silk Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8791,DropChance=0,Zone=""}}
-items[4119] = {id=4119,name="Raptor Hunter Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=197,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[6642] = {id=6642,name="Phantom Armor",obtain={NpcID=3872,NpcName="Deathsworn Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.0,Zone="Shadowfang Keep"}}
-items[8175] = {id=8175,name="Nightscape Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10499,DropChance=0,Zone=""}}
-items[6226] = {id=6226,name="Bloody Apron",obtain={NpcID=3886,NpcName="Razorclaw the Butcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=42.6,Zone="Shadowfang Keep"}}
-items[10762] = {id=10762,name="Robes of the Lich",obtain={NpcID=7358,NpcName="Amnennar the Coldbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.0,Zone="Razorfen Downs"}}
-items[13110] = {id=13110,name="Wolffear Harness",obtain={NpcID=15815,NpcName="Qiraji Captain Ka'ark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Thousand Needles"}}
-items[5766] = {id=5766,name="Lesser Wizard's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=6690,DropChance=0,Zone=""}}
-items[32869] = {id=32869,name="Illidari Lord's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4324] = {id=4324,name="Azure Silk Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3859,DropChance=0,Zone=""}}
-items[6907] = {id=6907,name="Tortoise Armor",obtain={NpcID=4887,NpcName="Ghamoo-ra",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.5,Zone="Blackfathom Deeps"}}
-items[9434] = {id=9434,name="Elemental Raiment",obtain={NpcID=669,NpcName="Skullsplitter Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[6263] = {id=6263,name="Blue Overalls",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7639,DropChance=0,Zone=""}}
-items[2582] = {id=2582,name="Green Woolen Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2399,DropChance=0,Zone=""}}
-items[10053] = {id=10053,name="Simple Black Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12077,DropChance=0,Zone=""}}
-items[10764] = {id=10764,name="Deathchill Armor",obtain={NpcID=7358,NpcName="Amnennar the Coldbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.5,Zone="Razorfen Downs"}}
-items[6396] = {id=6396,name="Emblazoned Chestpiece",obtain={NpcID=6230,NpcName="Peacekeeper Security Suit",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Gnomeregan"}}
-items[6682] = {id=6682,name="Death Speaker Robes",obtain={NpcID=4428,NpcName="Death Speaker Jargba",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=42.6,Zone="Razorfen Kraul"}}
-items[28172] = {id=28172,name="Mag'hari Scout's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3416] = {id=3416,name="Martyr's Chain",obtain={NpcID=4799,NpcName="Fallenroot Hellcaller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackfathom Deeps"}}
-items[22985] = {id=22985,name="Suncrown Hauberk",obtain={NpcID=16528,NpcName="Provisioner Vredigar (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ghostlands"}}
-items[9998] = {id=9998,name="Black Mageweave Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12048,DropChance=0,Zone=""}}
-items[9854] = {id=9854,name="Archer's Jerkin",obtain={NpcID=14232,NpcName="Dart",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Dustwallow Marsh"}}
-items[4476] = {id=4476,name="Beastwalker Robe",obtain={NpcID=534,NpcName="Nefaru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.0,Zone="Duskwood"}}
-items[12988] = {id=12988,name="Starsight Tunic",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Barrens"}}
-items[20575] = {id=20575,name="Black Whelp Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24940,DropChance=0,Zone=""}}
-items[847] = {id=847,name="Chainmail Armor",obtain={NpcID=167,NpcName="Morhan Coppertongue (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Loch Modan"}}
-items[2613] = {id=2613,name="Double-stitched Robes",obtain={NpcID=1309,NpcName="Wynne Larson (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[2370] = {id=2370,name="Battered Leather Harness",obtain={NpcID=2137,NpcName="Eliza Callen (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[28054] = {id=28054,name="Fleshripper's Bladed Chestplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[2800] = {id=2800,name="Black Velvet Robes",obtain={NpcID=15814,NpcName="Qiraji Lieutenant Jo-rel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.5,Zone="The Barrens"}}
-items[3330] = {id=3330,name="Dargol's Hauberk",obtain={NpcID=1658,NpcName="Captain Dargol",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Tirisfal Glades"}}
-items[9884] = {id=9884,name="Sorcerer Robe",obtain={NpcID=8208,NpcName="Murderous Blisterpaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.7,Zone="Tanaris"}}
-items[7063] = {id=7063,name="Crimson Silk Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8802,DropChance=0,Zone=""}}
-items[5739] = {id=5739,name="Barbaric Harness",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=6661,DropChance=0,Zone=""}}
-items[5108] = {id=5108,name="Dark Iron Leather",obtain={NpcID=2577,NpcName="Dark Iron Shadowcaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.6,Zone="Arathi Highlands"}}
-items[5202] = {id=5202,name="Corsair's Overshirt",obtain={NpcID=639,NpcName="Edwin VanCleef",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.6,Zone="The Deadmines"}}
-items[1380] = {id=1380,name="Frayed Robe",obtain={NpcID=1916,NpcName="Stephen Bhartec",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.9,Zone="Tirisfal Glades"}}
-items[21542] = {id=21542,name="Festival Suit",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26407,DropChance=0,Zone=""}}
-items[9866] = {id=9866,name="Renegade Chestguard",obtain={NpcID=2753,NpcName="Barnabus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Badlands"}}
-items[2585] = {id=2585,name="Gray Woolen Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2403,DropChance=0,Zone=""}}
-items[2398] = {id=2398,name="Light Chain Armor",obtain={NpcID=2135,NpcName="Abe Winters (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[1981] = {id=1981,name="Icemail Jerkin",obtain={NpcID=672,NpcName="Skullsplitter Spiritchaser",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[3943] = {id=3943,name="Crochet Vest",obtain={NpcID=2781,NpcName="Caretaker Weston",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Arathi Highlands"}}
-items[7111] = {id=7111,name="Nightsky Armor",obtain={NpcID=2431,NpcName="Jailor Borhuin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Alterac Mountains"}}
-items[2864] = {id=2864,name="Runed Copper Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2667,DropChance=0,Zone=""}}
-items[9749] = {id=9749,name="Simple Blouse",obtain={NpcID=12433,NpcName="Krethis Shadowspinner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.3,Zone="Silverpine Forest"}}
-items[795] = {id=795,name="Knitted Tunic",obtain={NpcID=74,NpcName="Kurran Steele (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[33863] = {id=33863,name="Brewfest Dress",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[7407] = {id=7407,name="Infiltrator Armor",obtain={NpcID=15748,NpcName="Lesser Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.2,Zone="Thousand Needles"}}
-items[7728] = {id=7728,name="Beguiler Robes",obtain={NpcID=3974,NpcName="Houndmaster Loksey",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Scarlet Monastery"}}
-items[9819] = {id=9819,name="Durable Tunic",obtain={NpcID=15747,NpcName="Qiraji Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.5,Zone="Thousand Needles"}}
-items[6609] = {id=6609,name="Sage's Cloth",obtain={NpcID=14223,NpcName="Cranky Benj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.5,Zone="Alterac Mountains"}}
-items[1297] = {id=1297,name="Robes of the Shadowcaster",obtain={NpcID=2553,NpcName="Witherbark Shadowcaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Arathi Highlands"}}
-items[9782] = {id=9782,name="Bandit Jerkin",obtain={NpcID=5828,NpcName="Humar the Pridelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.6,Zone="The Barrens"}}
-items[6731] = {id=6731,name="Ironforge Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8367,DropChance=0,Zone=""}}
-items[6536] = {id=6536,name="Willow Vest",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Barrens"}}
-items[1211] = {id=1211,name="Gnoll War Harness",obtain={NpcID=423,NpcName="Redridge Mongrel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Redridge Mountains"}}
-items[22986] = {id=22986,name="Apothecary's Robe",obtain={NpcID=12203,NpcName="Landslide",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.9,Zone="Maraudon"}}
-items[2961] = {id=2961,name="Burnt Leather Vest",obtain={NpcID=16854,NpcName="Eldinarcus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Eversong Woods"}}
-items[17922] = {id=17922,name="Lionfur Armor",obtain={NpcID=5807,NpcName="The Rake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=93.3,Zone="Mulgore"}}
-items[1433] = {id=1433,name="Patchwork Armor",obtain={NpcID=15635,NpcName="Eversong Tender",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.2,Zone="Eversong Woods"}}
-items[4138] = {id=4138,name="Blackwater Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=608,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[15578] = {id=15578,name="Sparkleshell Breastplate",obtain={NpcID=11781,NpcName="Ambershard Crusher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Desolace"}}
-items[7429] = {id=7429,name="Twilight Armor",obtain={NpcID=2744,NpcName="Shadowforge Commander",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Badlands"}}
-items[14760] = {id=14760,name="Enduring Breastplate",obtain={NpcID=23595,NpcName="Grimtotem Earthbinder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Dustwallow Marsh"}}
-items[14204] = {id=14204,name="Thistlefur Robe",obtain={NpcID=4386,NpcName="Withervine Bark Ripper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dustwallow Marsh"}}
-items[7375] = {id=7375,name="Green Whelp Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9197,DropChance=0,Zone=""}}
-items[7418] = {id=7418,name="Phalanx Breastplate",obtain={NpcID=14229,NpcName="Accursed Slitherblade",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.4,Zone="Desolace"}}
-items[7051] = {id=7051,name="Earthen Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8764,DropChance=0,Zone=""}}
-items[9835] = {id=9835,name="Scaled Leather Tunic",obtain={NpcID=14277,NpcName="Lady Zephris",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Hillsbrad Foothills"}}
-items[14405] = {id=14405,name="Resilient Robe",obtain={NpcID=4842,NpcName="Earthcaller Halmgar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Razorfen Kraul"}}
-items[14190] = {id=14190,name="Raincaller Vest",obtain={NpcID=8518,NpcName="Rynthariel the Keymaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Stonetalon Mountains"}}
-items[7809] = {id=7809,name="Easter Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[9798] = {id=9798,name="Ivycloth Robe",obtain={NpcID=14276,NpcName="Scargil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Hillsbrad Foothills"}}
-items[3053] = {id=3053,name="Humbert's Chestpiece",obtain={NpcID=2344,NpcName="Dun Garok Mountaineer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Hillsbrad Foothills"}}
-items[2153] = {id=2153,name="Polished Scale Vest",obtain={NpcID=226,NpcName="Morg Gnarltree (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[4448] = {id=4448,name="Husk of Naraxis",obtain={NpcID=574,NpcName="Naraxis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=48.4,Zone="Duskwood"}}
-items[14172] = {id=14172,name="Buccaneer's Robes",obtain={NpcID=2403,NpcName="Farmer Getz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Hillsbrad Foothills"}}
-items[14175] = {id=14175,name="Buccaneer's Vest",obtain={NpcID=1948,NpcName="Snarlmane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Silverpine Forest"}}
-items[15311] = {id=15311,name="Feral Harness",obtain={NpcID=5932,NpcName="Taskmaster Whipfang",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Stonetalon Mountains"}}
-items[3288] = {id=3288,name="Tribal Vest",obtain={NpcID=12319,NpcName="Burning Blade Toxicologist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="The Barrens"}}
-items[2110] = {id=2110,name="Light Magesmith Robe",obtain={NpcID=946,NpcName="Frostmane Novice",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Dun Morogh"}}
-items[20904] = {id=20904,name="Recruit's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22282] = {id=22282,name="Purple Dinner Suit",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9029,Recipe=false,RecipeID=0,DropChance=0,Zone="Uncategorized"}}
-items[14592] = {id=14592,name="Hawkeye's Tunic",obtain={NpcID=6070,NpcName="Maraudine Khan Advisor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Desolace"}}
-items[9836] = {id=9836,name="Banded Armor",obtain={NpcID=14277,NpcName="Lady Zephris",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.7,Zone="Hillsbrad Foothills"}}
-items[13896] = {id=13896,name="Dark Green Wedding Hanbok",obtain={NpcID=1299,NpcName="Lisbeth Schneider (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[15337] = {id=15337,name="Wrangler's Wraps",obtain={NpcID=4522,NpcName="Razorfen Dustweaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Razorfen Kraul"}}
-items[1810] = {id=1810,name="Tough Leather Armor",obtain={NpcID=14433,NpcName="Sludginn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Wetlands"}}
-items[2141] = {id=2141,name="Cuirboulli Vest",obtain={NpcID=1314,NpcName="Duncan Cullen (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[2566] = {id=2566,name="Sacrificial Robes",obtain={NpcID=397,NpcName="Morganth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Redridge Mountains"}}
-items[2869] = {id=2869,name="Silvered Bronze Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2673,DropChance=0,Zone=""}}
-items[2034] = {id=2034,name="Scholarly Robes",obtain={NpcID=4814,NpcName="Twilight Elementalist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Blackfathom Deeps"}}
-items[9818] = {id=9818,name="Fortified Chain",obtain={NpcID=15807,NpcName="Minor Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.5,Zone="The Barrens"}}
-items[236] = {id=236,name="Cured Leather Armor",obtain={NpcID=1295,NpcName="Lara Moore (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[6561] = {id=6561,name="Seer's Padded Armor",obtain={NpcID=573,NpcName="Foe Reaper 4000",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Westfall"}}
-items[2317] = {id=2317,name="Dark Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2169,DropChance=0,Zone=""}}
-items[6528] = {id=6528,name="Spellbinder Robe",obtain={NpcID=17609,NpcName="Sunhawk Saboteur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Bloodmyst Isle"}}
-items[9765] = {id=9765,name="Cadet Vest",obtain={NpcID=2186,NpcName="Carnivous the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Darkshore"}}
-items[6266] = {id=6266,name="Disciple's Vest",obtain={NpcID=2175,NpcName="Shadowclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Darkshore"}}
-items[2572] = {id=2572,name="Red Linen Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2389,DropChance=0,Zone=""}}
-items[4861] = {id=4861,name="Sleek Feathered Tunic",obtain={NpcID=3068,NpcName="Mazzranache",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=51.6,Zone="Mulgore"}}
-items[21014] = {id=21014,name="Scraggy Leather Vest",obtain={NpcID=15366,NpcName="Springpaw Cub",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Eversong Woods"}}
-items[3260] = {id=3260,name="Scarlet Initiate Robes",obtain={NpcID=1507,NpcName="Scarlet Initiate",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Tirisfal Glades"}}
-items[57] = {id=57,name="Acolyte's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23322] = {id=23322,name="Acolyte's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[7486] = {id=7486,name="Captain's Breastplate",obtain={NpcID=8199,NpcName="Warleader Krazzilak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Tanaris"}}
-items[15591] = {id=15591,name="Steadfast Breastplate",obtain={NpcID=7997,NpcName="Captured Sprite Darter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Feralas"}}
-items[15159] = {id=15159,name="Nocturnal Tunic",obtain={NpcID=4705,NpcName="Burning Blade Invoker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Desolace"}}
-items[4057] = {id=4057,name="Insignia Chestguard",obtain={NpcID=3985,NpcName="Grandpa Vishas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Alterac Mountains"}}
-items[4256] = {id=4256,name="Guardian Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3773,DropChance=0,Zone=""}}
-items[9826] = {id=9826,name="Durable Robe",obtain={NpcID=14228,NpcName="Giggler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Desolace"}}
-items[15130] = {id=15130,name="Cutthroat's Vest",obtain={NpcID=4382,NpcName="Withervine Creeper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Dustwallow Marsh"}}
-items[3807] = {id=3807,name="Hardened Leather Tunic",obtain={NpcID=1200,NpcName="Morbent Fel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Duskwood"}}
-items[9508] = {id=9508,name="Mechbuilder's Overalls",obtain={NpcID=6232,NpcName="Arcane Nullifier X-21",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Gnomeregan"}}
-items[15128] = {id=15128,name="Robust Tunic",obtain={NpcID=15749,NpcName="Lesser Silithid Flayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Thousand Needles"}}
-items[6603] = {id=6603,name="Dervish Tunic",obtain={NpcID=4066,NpcName="Nal'taszar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Stonetalon Mountains"}}
-items[14180] = {id=14180,name="Watcher's Jerkin",obtain={NpcID=4532,NpcName="Razorfen Beastmaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Kraul"}}
-items[6592] = {id=6592,name="Battleforge Armor",obtain={NpcID=5915,NpcName="Brother Ravenoak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.7,Zone="Stonetalon Mountains"}}
-items[14744] = {id=14744,name="Hulking Chestguard",obtain={NpcID=14427,NpcName="Gibblesnik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Thousand Needles"}}
-items[3049] = {id=3049,name="Lambent Scale Breastplate",obtain={NpcID=584,NpcName="Kazon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Redridge Mountains"}}
-items[2292] = {id=2292,name="Necrology Robes",obtain={NpcID=3877,NpcName="Wailing Guardsman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Shadowfang Keep"}}
-items[14127] = {id=14127,name="Ritual Shroud",obtain={NpcID=4409,NpcName="Gatekeeper Kordurus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Stonetalon Mountains"}}
-items[14369] = {id=14369,name="Mystic's Wrap",obtain={NpcID=4815,NpcName="Murkshallow Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Blackfathom Deeps"}}
-items[200] = {id=200,name="Thick Cloth Vest",obtain={NpcID=1291,NpcName="Carla Granger (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[2989] = {id=2989,name="Burnished Tunic",obtain={NpcID=16246,NpcName="Knucklerot",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.9,Zone="Ghostlands"}}
-items[9783] = {id=9783,name="Raider's Chestpiece",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="The Barrens"}}
-items[846] = {id=846,name="Tanned Leather Jerkin",obtain={NpcID=896,NpcName="Veldan Lightfoot (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[15487] = {id=15487,name="War Torn Tunic",obtain={NpcID=11714,NpcName="Marosh the Devious",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Darkshore"}}
-items[2311] = {id=2311,name="White Leather Jerkin",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2163,DropChance=0,Zone=""}}
-items[2069] = {id=2069,name="Black Bear Hide Vest",obtain={NpcID=1130,NpcName="Bjarn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.2,Zone="Dun Morogh"}}
-items[10553] = {id=10553,name="Foreman Vest",obtain={NpcID=8503,NpcName="Gibblewilt",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.9,Zone="Dun Morogh"}}
-items[799] = {id=799,name="Rough Leather Vest",obtain={NpcID=74,NpcName="Kurran Steele (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[6786] = {id=6786,name="Simple Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8465,DropChance=0,Zone=""}}
-items[5957] = {id=5957,name="Handstitched Leather Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7126,DropChance=0,Zone=""}}
-items[2127] = {id=2127,name="Cracked Leather Vest",obtain={NpcID=190,NpcName="Dermot Johns (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[1715] = {id=1715,name="Polished Jazeraint Armor",obtain={NpcID=7605,NpcName="Raven",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Zul'Farrak"}}
-items[9897] = {id=9897,name="Jazeraint Chestguard",obtain={NpcID=15815,NpcName="Qiraji Captain Ka'ark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Thousand Needles"}}
-items[14234] = {id=14234,name="Embersilk Robes",obtain={NpcID=7345,NpcName="Splinterbone Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Razorfen Downs"}}
-items[6415] = {id=6415,name="Aurora Robe",obtain={NpcID=2763,NpcName="Thenan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Arathi Highlands"}}
-items[7430] = {id=7430,name="Twilight Robe",obtain={NpcID=14488,NpcName="Roloch",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.5,Zone="Stranglethorn Vale"}}
-items[15567] = {id=15567,name="Marauder's Tunic",obtain={NpcID=7353,NpcName="Freezing Spirit",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Downs"}}
-items[15557] = {id=15557,name="Pillager's Chestguard",obtain={NpcID=4386,NpcName="Withervine Bark Ripper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Dustwallow Marsh"}}
-items[4074] = {id=4074,name="Mail Combat Armor",obtain={NpcID=24830,NpcName="Stonevault Pillager",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Uldaman"}}
-items[15356] = {id=15356,name="Headhunter's Armor",obtain={NpcID=23592,NpcName="Grimtotem Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Dustwallow Marsh"}}
-items[15536] = {id=15536,name="Wicked Chain Chestpiece",obtain={NpcID=23554,NpcName="Risen Spirit",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Dustwallow Marsh"}}
-items[14398] = {id=14398,name="Resilient Tunic",obtain={NpcID=3414,NpcName="General Twinbraid",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="The Barrens"}}
-items[14192] = {id=14192,name="Raincaller Robes",obtain={NpcID=4539,NpcName="Greater Kraul Bat",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Kraul"}}
-items[9809] = {id=9809,name="Superior Tunic",obtain={NpcID=5930,NpcName="Sister Riven",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.8,Zone="Stonetalon Mountains"}}
-items[14372] = {id=14372,name="Sanguine Armor",obtain={NpcID=5928,NpcName="Sorrow Wing",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Stonetalon Mountains"}}
-items[14380] = {id=14380,name="Sanguine Robe",obtain={NpcID=5930,NpcName="Sister Riven",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Stonetalon Mountains"}}
-items[3069] = {id=3069,name="Bright Robe",obtain={NpcID=1014,NpcName="Mosshide Alpha",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Wetlands"}}
-items[6525] = {id=6525,name="Grunt's Harness",obtain={NpcID=3023,NpcName="Sura Wildmane (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Thunder Bluff"}}
-items[6569] = {id=6569,name="Shimmering Robe",obtain={NpcID=10641,NpcName="Branch Snapper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Ashenvale"}}
-items[14133] = {id=14133,name="Ritual Tunic",obtain={NpcID=3898,NpcName="Aligar the Tormentor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Darkshore"}}
-items[4781] = {id=4781,name="Whispering Vest",obtain={NpcID=1214,NpcName="Aldren Cordon (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Loch Modan"}}
-items[15018] = {id=15018,name="Lupine Vest",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="The Barrens"}}
-items[6552] = {id=6552,name="Bard's Tunic",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="The Barrens"}}
-items[3310] = {id=3310,name="Barbaric Cloth Vest",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="The Barrens"}}
-items[5110] = {id=5110,name="Dalaran Wizard's Robe",obtain={NpcID=3577,NpcName="Dalaran Brewmaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.1,Zone="Silverpine Forest"}}
-items[6545] = {id=6545,name="Soldier's Armor",obtain={NpcID=15810,NpcName="Eroded Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.4,Zone="The Barrens"}}
-items[2973] = {id=2973,name="Hunting Tunic",obtain={NpcID=2149,NpcName="Dark Iron Raider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Loch Modan"}}
-items[6523] = {id=6523,name="Buckled Harness",obtain={NpcID=3023,NpcName="Sura Wildmane (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Thunder Bluff"}}
-items[2977] = {id=2977,name="Veteran Armor",obtain={NpcID=17550,NpcName="Void Anomaly",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Bloodmyst Isle"}}
-items[5341] = {id=5341,name="Spore-covered Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=866,Recipe=false,RecipeID=0,DropChance=0,Zone="Herbalism"}}
-items[821] = {id=821,name="Riverpaw Leather Vest",obtain={NpcID=123,NpcName="Riverpaw Mongrel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Westfall"}}
-items[6336] = {id=6336,name="Infantry Tunic",obtain={NpcID=5865,NpcName="Dishu",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="The Barrens"}}
-items[6511] = {id=6511,name="Journeyman's Robe",obtain={NpcID=16854,NpcName="Eldinarcus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Eversong Woods"}}
-items[2364] = {id=2364,name="Woven Vest",obtain={NpcID=3166,NpcName="Cutac (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Durotar"}}
-items[2392] = {id=2392,name="Light Mail Armor",obtain={NpcID=1240,NpcName="Boran Ironclink (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Dun Morogh"}}
-items[6238] = {id=6238,name="Brown Linen Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7623,DropChance=0,Zone=""}}
-items[1364] = {id=1364,name="Ragged Leather Vest",obtain={NpcID=3101,NpcName="Vile Familiar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Durotar"}}
-items[21154] = {id=21154,name="Festival Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26403,DropChance=0,Zone=""}}
-items[21539] = {id=21539,name="Festive Purple Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8864,Recipe=false,RecipeID=0,DropChance=0,Zone="Lunar Festival"}}
-items[34085] = {id=34085,name="Red Winter Clothes",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=44958,DropChance=0,Zone=""}}
-items[16036] = {id=16036,name="PVP Cloth Robe Horde",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6411] = {id=6411,name="Chief Brigadier Armor",obtain={NpcID=2782,NpcName="Caretaker Alaric",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Arathi Highlands"}}
-items[7112] = {id=7112,name="Aurora Armor",obtain={NpcID=2780,NpcName="Caretaker Nevlin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Arathi Highlands"}}
-items[14225] = {id=14225,name="Geomancer's Wraps",obtain={NpcID=7345,NpcName="Splinterbone Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Razorfen Downs"}}
-items[7439] = {id=7439,name="Sentinel Breastplate",obtain={NpcID=15815,NpcName="Qiraji Captain Ka'ark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Thousand Needles"}}
-items[9844] = {id=9844,name="Conjurer's Vest",obtain={NpcID=14227,NpcName="Hissperak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.8,Zone="Desolace"}}
-items[9852] = {id=9852,name="Conjurer's Robe",obtain={NpcID=2753,NpcName="Barnabus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Badlands"}}
-items[2417] = {id=2417,name="Augmented Chain Vest",obtain={NpcID=1322,NpcName="Maxton Strang (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Desolace"}}
-items[3799] = {id=3799,name="Interlaced Vest",obtain={NpcID=12836,NpcName="Wandering Protector",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Ashenvale"}}
-items[14213] = {id=14213,name="Vital Raiment",obtain={NpcID=4386,NpcName="Withervine Bark Ripper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dustwallow Marsh"}}
-items[15144] = {id=15144,name="Ghostwalker Rags",obtain={NpcID=6070,NpcName="Maraudine Khan Advisor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Desolace"}}
-items[14202] = {id=14202,name="Thistlefur Jerkin",obtain={NpcID=4386,NpcName="Withervine Bark Ripper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Dustwallow Marsh"}}
-items[5755] = {id=5755,name="Onyx Shredder Plate",obtain={NpcID=4260,NpcName="Venture Co. Shredder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Stranglethorn Vale"}}
-items[7353] = {id=7353,name="Elder's Padded Armor",obtain={NpcID=14222,NpcName="Araga",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.8,Zone="Alterac Mountains"}}
-items[1997] = {id=1997,name="Pressed Felt Robe",obtain={NpcID=701,NpcName="Bloodscalp Mystic",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Stranglethorn Vale"}}
-items[3815] = {id=3815,name="Double Mail Vest",obtain={NpcID=2636,NpcName="Blackwater Deckhand",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Arathi Highlands"}}
-items[14751] = {id=14751,name="Slayer's Surcoat",obtain={NpcID=7874,NpcName="Razorfen Thornweaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="The Barrens"}}
-items[15346] = {id=15346,name="Pathfinder Vest",obtain={NpcID=3942,NpcName="Mavoris Cloudsbreak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Ashenvale"}}
-items[914] = {id=914,name="Large Ogre Chain Armor",obtain={NpcID=1487,NpcName="Splinter Fist Enslaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Duskwood"}}
-items[2234] = {id=2234,name="Nightwalker Armor",obtain={NpcID=920,NpcName="Nightbane Tainted One",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Duskwood"}}
-items[1786] = {id=1786,name="Cross-stitched Vest",obtain={NpcID=6392,NpcName="Holdout Medic",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Gnomeregan"}}
-items[9791] = {id=9791,name="Ivycloth Tunic",obtain={NpcID=5915,NpcName="Brother Ravenoak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.4,Zone="Stonetalon Mountains"}}
-items[1761] = {id=1761,name="Reinforced Chain Vest",obtain={NpcID=17108,NpcName="Forsaken Raider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Hillsbrad Foothills"}}
-items[6608] = {id=6608,name="Bright Armor",obtain={NpcID=335,NpcName="Singe",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Redridge Mountains"}}
-items[3055] = {id=3055,name="Forest Leather Chestpiece",obtain={NpcID=7843,NpcName="Gnomeregan Evacuee",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Dun Morogh"}}
-items[3569] = {id=3569,name="Vicar's Robe",obtain={NpcID=4517,NpcName="Death's Head Priest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.0,Zone="Razorfen Kraul"}}
-items[15118] = {id=15118,name="Rigid Tunic",obtain={NpcID=3815,NpcName="Blink Dragon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Ashenvale"}}
-items[15514] = {id=15514,name="Grunt's Chestpiece",obtain={NpcID=3773,NpcName="Akkrilus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Ashenvale"}}
-items[1489] = {id=1489,name="Gloomshroud Armor",obtain={NpcID=3859,NpcName="Shadowfang Ragetooth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Shadowfang Keep"}}
-items[1753] = {id=1753,name="Linked Chain Vest",obtain={NpcID=4409,NpcName="Gatekeeper Kordurus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Stonetalon Mountains"}}
-items[6787] = {id=6787,name="White Woolen Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8467,DropChance=0,Zone=""}}
-items[1802] = {id=1802,name="Rawhide Tunic",obtain={NpcID=17359,NpcName="Tel'athion the Impure",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Bloodmyst Isle"}}
-items[2985] = {id=2985,name="Inscribed Leather Breastplate",obtain={NpcID=16358,NpcName="Kel'gash the Wicked",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Ghostlands"}}
-items[14121] = {id=14121,name="Aboriginal Vest",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="The Barrens"}}
-items[6538] = {id=6538,name="Willow Robe",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Barrens"}}
-items[4782] = {id=4782,name="Solstice Robe",obtain={NpcID=1214,NpcName="Aldren Cordon (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Loch Modan"}}
-items[1745] = {id=1745,name="Laced Mail Vest",obtain={NpcID=14270,NpcName="Squiddic",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Redridge Mountains"}}
-items[14096] = {id=14096,name="Native Vest",obtain={NpcID=17324,NpcName="Irradiated Wildkin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Bloodmyst Isle"}}
-items[15304] = {id=15304,name="Grizzly Jerkin",obtain={NpcID=11714,NpcName="Marosh the Devious",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Darkshore"}}
-items[1737] = {id=1737,name="Worn Mail Vest",obtain={NpcID=17210,NpcName="Sentinel Leader",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Ghostlands"}}
-items[2578] = {id=2578,name="Barbaric Linen Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2395,DropChance=0,Zone=""}}
-items[6512] = {id=6512,name="Disciple's Robe",obtain={NpcID=5865,NpcName="Dishu",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="The Barrens"}}
-items[2957] = {id=2957,name="Journeyman's Vest",obtain={NpcID=16854,NpcName="Eldinarcus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Eversong Woods"}}
-items[2648] = {id=2648,name="Loose Chain Vest",obtain={NpcID=16855,NpcName="Tregla",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.5,Zone="Eversong Woods"}}
-items[3000] = {id=3000,name="Brood Mother Carapace",obtain={NpcID=471,NpcName="Mother Fang",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="Elwynn Forest"}}
-items[2114] = {id=2114,name="Snowy Robe",obtain={NpcID=1133,NpcName="Starving Winter Wolf",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.2,Zone="Dun Morogh"}}
-items[2898] = {id=2898,name="Mountaineer Chestpiece",obtain={NpcID=1196,NpcName="Ice Claw Bear",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.4,Zone="Dun Morogh"}}
-items[2656] = {id=2656,name="Flimsy Chain Vest",obtain={NpcID=15635,NpcName="Eversong Tender",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.3,Zone="Eversong Woods"}}
-items[20990] = {id=20990,name="Light Cloth Armor",obtain={NpcID=15291,NpcName="Jainthess Thelryn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Eversong Woods"}}
-items[21040] = {id=21040,name="Narain's Robe",obtain={NpcID=15378,NpcName="Merithra of the Dream",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=50.0,Zone="Ahn'Qiraj"}}
-items[21538] = {id=21538,name="Festive Pink Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8864,Recipe=false,RecipeID=0,DropChance=0,Zone="Lunar Festival"}}
-items[21543] = {id=21543,name="Festive Teal Pant Suit",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8865,Recipe=false,RecipeID=0,DropChance=0,Zone="Lunar Festival"}}
-items[21544] = {id=21544,name="Festive Blue Pant Suit",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8865,Recipe=false,RecipeID=0,DropChance=0,Zone="Lunar Festival"}}
-items[22277] = {id=22277,name="Red Dinner Suit",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9029,Recipe=false,RecipeID=0,DropChance=0,Zone="Uncategorized"}}
-items[22279] = {id=22279,name="Lovely Black Dress",obtain={NpcID=22166,NpcName="Gift of Adoration: Undercity (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.4,Zone="Unknown"}}
-items[12106] = {id=12106,name="Boulderskin Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14417] = {id=14417,name="Silksand Tunic",obtain={NpcID=7997,NpcName="Captured Sprite Darter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Feralas"}}
-items[14425] = {id=14425,name="Silksand Wraps",obtain={NpcID=7606,NpcName="Oro Eyegouge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Zul'Farrak"}}
-items[14768] = {id=14768,name="Ravager's Armor",obtain={NpcID=5327,NpcName="Coast Crawl Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Feralas"}}
-items[9874] = {id=9874,name="Sorcerer Drape",obtain={NpcID=14235,NpcName="The Rot",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Dustwallow Marsh"}}
-items[10007] = {id=10007,name="Red Mageweave Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12056,DropChance=0,Zone=""}}
-items[14230] = {id=14230,name="Embersilk Tunic",obtain={NpcID=4658,NpcName="Maraudine Stormer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Desolace"}}
-items[4058] = {id=4058,name="Glyphed Breastplate",obtain={NpcID=6239,NpcName="Cyclonian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Alterac Mountains"}}
-items[14216] = {id=14216,name="Geomancer's Jerkin",obtain={NpcID=5760,NpcName="Lord Azrethoc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Desolace"}}
-items[15359] = {id=15359,name="Trickster's Vest",obtain={NpcID=4387,NpcName="Withervine Mire Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dustwallow Marsh"}}
-items[14407] = {id=14407,name="Stonecloth Vest",obtain={NpcID=4343,NpcName="Drywallow Snapper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[14413] = {id=14413,name="Stonecloth Robe",obtain={NpcID=4658,NpcName="Maraudine Stormer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Desolace"}}
-items[14215] = {id=14215,name="Vital Tunic",obtain={NpcID=5044,NpcName="Theramore Skirmisher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dustwallow Marsh"}}
-items[15546] = {id=15546,name="Thick Scale Breastplate",obtain={NpcID=7895,NpcName="Ambassador Bloodrage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="The Barrens"}}
-items[7914] = {id=7914,name="Barbaric Iron Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9813,DropChance=0,Zone=""}}
-items[7110] = {id=7110,name="Silver-thread Armor",obtain={NpcID=3310,NpcName="Doras",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Orgrimmar"}}
-items[15524] = {id=15524,name="Sentry's Surcoat",obtain={NpcID=4427,NpcName="Ward Guardian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Kraul"}}
-items[15518] = {id=15518,name="Spiked Chain Breastplate",obtain={NpcID=12037,NpcName="Ursol'lok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Ashenvale"}}
-items[2160] = {id=2160,name="Padded Armor",obtain={NpcID=1314,NpcName="Duncan Cullen (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[14158] = {id=14158,name="Pagan Vest",obtain={NpcID=5859,NpcName="Hagg Taurenbane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="The Barrens"}}
-items[14163] = {id=14163,name="Pagan Wraps",obtain={NpcID=10642,NpcName="Eck'alom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Ashenvale"}}
-items[6567] = {id=6567,name="Shimmering Armor",obtain={NpcID=5848,NpcName="Malgin Barleybrew",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.6,Zone="The Barrens"}}
-items[1778] = {id=1778,name="Brocade Vest",obtain={NpcID=2529,NpcName="Son of Arugal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Shadowfang Keep"}}
-items[2616] = {id=2616,name="Shimmering Silk Robes",obtain={NpcID=1309,NpcName="Wynne Larson (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[285] = {id=285,name="Scalemail Vest",obtain={NpcID=956,NpcName="Dorin Songblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Redridge Mountains"}}
-items[6197] = {id=6197,name="Loch Croc Hide Vest",obtain={NpcID=2476,NpcName="Large Loch Crocolisk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.4,Zone="Loch Modan"}}
-items[6524] = {id=6524,name="Studded Leather Harness",obtain={NpcID=3023,NpcName="Sura Wildmane (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Thunder Bluff"}}
-items[2981] = {id=2981,name="Seer's Robe",obtain={NpcID=16245,NpcName="Luzran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Ghostlands"}}
-items[1794] = {id=1794,name="Patched Leather Jerkin",obtain={NpcID=16318,NpcName="Deatholme Darkmage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Ghostlands"}}
-items[14120] = {id=14120,name="Aboriginal Robe",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="The Barrens"}}
-items[3306] = {id=3306,name="Brackwater Vest",obtain={NpcID=2184,NpcName="Lady Moongazer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Darkshore"}}
-items[6531] = {id=6531,name="Barbaric Cloth Robe",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="The Barrens"}}
-items[837] = {id=837,name="Heavy Weave Armor",obtain={NpcID=1214,NpcName="Aldren Cordon (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Loch Modan"}}
-items[1770] = {id=1770,name="Canvas Vest",obtain={NpcID=17678,NpcName="Sironas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.2,Zone="Bloodmyst Isle"}}
-items[6730] = {id=6730,name="Ironforge Chain",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8366,DropChance=0,Zone=""}}
-items[6180] = {id=6180,name="Slarkskin",obtain={NpcID=519,NpcName="Slark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=57.1,Zone="Westfall"}}
-items[23433] = {id=23433,name="Blood Robes",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[2087] = {id=2087,name="Hard Crawler Carapace",obtain={NpcID=830,NpcName="Sand Crawler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Westfall"}}
-items[3292] = {id=3292,name="Ancestral Tunic",obtain={NpcID=17673,NpcName="Stinkhorn Striker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Bloodmyst Isle"}}
-items[6527] = {id=6527,name="Ancestral Robe",obtain={NpcID=17702,NpcName="High Chief Bristlelimb",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Bloodmyst Isle"}}
-items[6240] = {id=6240,name="Blue Linen Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7630,DropChance=0,Zone=""}}
-items[1509] = {id=1509,name="Warped Leather Vest",obtain={NpcID=3533,NpcName="Moonrage Leatherworker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.5,Zone="Silverpine Forest"}}
-items[14091] = {id=14091,name="Beaded Robe",obtain={NpcID=15811,NpcName="Faltering Silithid Flayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="The Barrens"}}
-items[14094] = {id=14094,name="Beaded Wraps",obtain={NpcID=17448,NpcName="Chieftain Oomooroo",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Azuremyst Isle"}}
-items[15479] = {id=15479,name="Charger's Armor",obtain={NpcID=17331,NpcName="Wrathscale Shorestalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Bloodmyst Isle"}}
-items[1425] = {id=1425,name="Worn Leather Vest",obtain={NpcID=6911,NpcName="Minion of Sethir",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Teldrassil"}}
-items[2112] = {id=2112,name="Lumberjack Jerkin",obtain={NpcID=1689,NpcName="Scarred Crag Boar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.6,Zone="Dun Morogh"}}
-items[2612] = {id=2612,name="Plain Robe",obtain={NpcID=1309,NpcName="Wynne Larson (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[85] = {id=85,name="Dirty Leather Vest",obtain={NpcID=2113,NpcName="Archibald Kava (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[2121] = {id=2121,name="Thin Cloth Armor",obtain={NpcID=190,NpcName="Dermot Johns (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[21016] = {id=21016,name="Shoddy Chain Vest",obtain={NpcID=15367,NpcName="Felendren the Banished",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Eversong Woods"}}
-items[21007] = {id=21007,name="Unkempt Robe",obtain={NpcID=15372,NpcName="Springpaw Lynx",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Eversong Woods"}}
-items[6129] = {id=6129,name="Acolyte's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21157] = {id=21157,name="Festive Green Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8864,Recipe=false,RecipeID=0,DropChance=0,Zone="Lunar Festival"}}
-items[21541] = {id=21541,name="Festive Black Pant Suit",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8865,Recipe=false,RecipeID=0,DropChance=0,Zone="Lunar Festival"}}
-items[22281] = {id=22281,name="Blue Dinner Suit",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9029,Recipe=false,RecipeID=0,DropChance=0,Zone="Uncategorized"}}
-items[20795] = {id=20795,name="90 green shaman vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10581] = {id=10581,name="Death's Head Vestment",obtain={NpcID=7342,NpcName="Skeletal Summoner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Razorfen Downs"}}
-items[33239] = {id=33239,name="Marshwarden's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11174,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[33240] = {id=33240,name="Grimtotem Earthbinder's Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11156,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[2463] = {id=2463,name="Studded Doublet",obtain={NpcID=1147,NpcName="Hragran (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[2016] = {id=2016,name="Dusty Chain Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6243] = {id=6243,name="Green Woolen Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7636,DropChance=0,Zone=""}}
-items[9757] = {id=9757,name="Gypsy Tunic",obtain={NpcID=14268,NpcName="Lord Condar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.3,Zone="Loch Modan"}}
-items[22987] = {id=22987,name="Deathstalker's Vest",obtain={NpcID=12203,NpcName="Landslide",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Maraudon"}}
-items[6239] = {id=6239,name="Red Linen Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7629,DropChance=0,Zone=""}}
-items[6241] = {id=6241,name="White Linen Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7624,DropChance=0,Zone=""}}
-items[5767] = {id=5767,name="Violet Robes",obtain={NpcID=1397,NpcName="Frostmane Seer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Dun Morogh"}}
-items[2108] = {id=2108,name="Frostmane Leather Vest",obtain={NpcID=706,NpcName="Frostmane Troll Whelp",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Dun Morogh"}}
-items[6139] = {id=6139,name="Novice's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20891] = {id=20891,name="Neophyte's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34685] = {id=34685,name="Vestment of Summer",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20775] = {id=20775,name="63 green shaman vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4989] = {id=4989,name="Mage Dragon Robe",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13900] = {id=13900,name="Green Wedding Hanbok",obtain={NpcID=4184,NpcName="Geenia Sunshadow (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Moonglade"}}
-items[14570] = {id=14570,name="Bristlebark Blouse",obtain={NpcID=8518,NpcName="Rynthariel the Keymaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Stonetalon Mountains"}}
-items[5109] = {id=5109,name="Stonesplinter Rags",obtain={NpcID=1206,NpcName="Gnasher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.3,Zone="Loch Modan"}}
-items[2273] = {id=2273,name="Guerrilla Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[193] = {id=193,name="Tattered Cloth Vest",obtain={NpcID=2113,NpcName="Archibald Kava (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[6116] = {id=6116,name="Apprentice's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20892] = {id=20892,name="Acolyte's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20893] = {id=20893,name="Apprentice's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23321] = {id=23321,name="Recruit's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23479] = {id=23479,name="Recruit's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28546] = {id=28546,name="TEST Tabard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34087] = {id=34087,name="Green Winter Clothes",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=44950,DropChance=0,Zone=""}}
-items[30920] = {id=30920,name="QR 10574 Cloth Mage Chest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10781] = {id=10781,name="Hakkari Breastplate",obtain={NpcID=10773,NpcName="Hakkari Urn (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=99.4,Zone="Unknown"}}
-items[13898] = {id=13898,name="Royal Dangui",obtain={NpcID=1299,NpcName="Lisbeth Schneider (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[14601] = {id=14601,name="Warden's Wraps",obtain={NpcID=7608,NpcName="Murta Grimgut",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Zul'Farrak"}}
-items[7963] = {id=7963,name="Steel Breastplate",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9916,DropChance=0,Zone=""}}
-items[33237] = {id=33237,name="Brogg's Battle Harness",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11162,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[4038] = {id=4038,name="Nightsky Robe",obtain={NpcID=2258,NpcName="Stone Fury",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Alterac Mountains"}}
-items[14184] = {id=14184,name="Watcher's Robes",obtain={NpcID=4525,NpcName="Razorfen Earthbreaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Kraul"}}
-items[2615] = {id=2615,name="Chromatic Robe",obtain={NpcID=1309,NpcName="Wynne Larson (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[14562] = {id=14562,name="Prospector's Chestpiece",obtain={NpcID=6132,NpcName="Razorfen Servitor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="The Barrens"}}
-items[3313] = {id=3313,name="Ceremonial Leather Harness",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="The Barrens"}}
-items[14109] = {id=14109,name="Native Robe",obtain={NpcID=11714,NpcName="Marosh the Devious",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Darkshore"}}
-items[23434] = {id=23434,name="Robes of the Shard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3471] = {id=3471,name="Copper Chain Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3321,DropChance=0,Zone=""}}
-items[2568] = {id=2568,name="Brown Linen Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2385,DropChance=0,Zone=""}}
-items[56] = {id=56,name="Apprentice's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6098] = {id=6098,name="Neophyte's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6119] = {id=6119,name="Neophyte's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6123] = {id=6123,name="Novice's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6140] = {id=6140,name="Apprentice's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6144] = {id=6144,name="Neophyte's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6837] = {id=6837,name="Wedding Dress",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33862] = {id=33862,name="Brewfest Regalia",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24329] = {id=24329,name="Test Robe",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27720] = {id=27720,name="Robes of the Aldor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10001] = {id=10001,name="Black Mageweave Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12050,DropChance=0,Zone=""}}
-items[7454] = {id=7454,name="Knight's Breastplate",obtain={NpcID=2602,NpcName="Ruul Onestone",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Arathi Highlands"}}
-items[2429] = {id=2429,name="Russet Vest",obtain={NpcID=1147,NpcName="Hragran (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[2617] = {id=2617,name="Burning Robes",obtain={NpcID=1309,NpcName="Wynne Larson (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[6526] = {id=6526,name="Battle Harness",obtain={NpcID=3023,NpcName="Sura Wildmane (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Thunder Bluff"}}
-items[9406] = {id=9406,name="Spirewind Fetter",obtain={NpcID=4847,NpcName="Shadowforge Relic Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Uldaman"}}
-items[6264] = {id=6264,name="Greater Adept's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7643,DropChance=0,Zone=""}}
-items[2614] = {id=2614,name="Robe of Apprenticeship",obtain={NpcID=1309,NpcName="Wynne Larson (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[13897] = {id=13897,name="White Traditional Hanbok",obtain={NpcID=1299,NpcName="Lisbeth Schneider (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[2109] = {id=2109,name="Frostmane Chain Vest",obtain={NpcID=808,NpcName="Grik'nir the Cold",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Dun Morogh"}}
-items[30718] = {id=30718,name="[UNUSED] Metzen and Carnes' Test Robe of Asskicking",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25546] = {id=25546,name="QR XXXX Paladin Chest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25573] = {id=25573,name="QR 9863 Warrior Chest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3845] = {id=3845,name="Golden Scale Cuirass",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3511,DropChance=0,Zone=""}}
-items[7374] = {id=7374,name="Dusky Leather Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9196,DropChance=0,Zone=""}}
-items[5782] = {id=5782,name="Thick Murloc Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=6704,DropChance=0,Zone=""}}
-items[4455] = {id=4455,name="Raptor Hide Harness",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=4096,DropChance=0,Zone=""}}
-items[7065] = {id=7065,name="Green Silk Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8784,DropChance=0,Zone=""}}
-items[6610] = {id=6610,name="Sage's Robe",obtain={NpcID=7361,NpcName="Grubbis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.4,Zone="Gnomeregan"}}
-items[4071] = {id=4071,name="Glimmering Mail Breastplate",obtain={NpcID=14275,NpcName="Tamra Stormpike",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Hillsbrad Foothills"}}
-items[19028] = {id=19028,name="Elegant Dress",obtain={NpcID=113770,NpcName="Brightly Colored Egg (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Mulgore"}}
-items[9773] = {id=9773,name="Greenweave Robe",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Barrens"}}
-items[2314] = {id=2314,name="Toughened Leather Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2166,DropChance=0,Zone=""}}
-items[13899] = {id=13899,name="Red Traditional Hanbok",obtain={NpcID=4184,NpcName="Geenia Sunshadow (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Moonglade"}}
-items[4243] = {id=4243,name="Fine Leather Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3761,DropChance=0,Zone=""}}
-items[2965] = {id=2965,name="Warrior's Tunic",obtain={NpcID=16855,NpcName="Tregla",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.1,Zone="Eversong Woods"}}
-items[2586] = {id=2586,name="Gamemaster's Robe",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[38160] = {id=38160,name="Soul-Trader's Bindings",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4746] = {id=4746,name="Doomsayer's Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=709,Recipe=false,RecipeID=0,DropChance=0,Zone="Uldaman"}}
-items[33229] = {id=33229,name="Mordant's Travel Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11183,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[4190] = {id=4190,name="Feathered Armor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14371] = {id=14371,name="Mystic's Robe",obtain={NpcID=4815,NpcName="Murkshallow Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Blackfathom Deeps"}}
-items[14730] = {id=14730,name="War Paint Chestpiece",obtain={NpcID=3619,NpcName="Ghost Saber",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Darkshore"}}
-items[6195] = {id=6195,name="Wax-polished Armor",obtain={NpcID=1425,NpcName="Grizlak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.4,Zone="Loch Modan"}}
-items[9748] = {id=9748,name="Simple Robe",obtain={NpcID=12433,NpcName="Krethis Shadowspinner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Silverpine Forest"}}
-items[1501] = {id=1501,name="Calico Tunic",obtain={NpcID=3529,NpcName="Moonrage Armorer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.1,Zone="Silverpine Forest"}}
-items[6268] = {id=6268,name="Pioneer Tunic",obtain={NpcID=10359,NpcName="Sri'skulk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.8,Zone="Tirisfal Glades"}}
-items[3328] = {id=3328,name="Spider Web Robe",obtain={NpcID=1555,NpcName="Vicious Night Web Spider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Tirisfal Glades"}}
-items[2386] = {id=2386,name="Rusted Chain Vest",obtain={NpcID=2116,NpcName="Blacksmith Rand (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[22276] = {id=22276,name="Lovely Red Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9029,Recipe=false,RecipeID=0,DropChance=0,Zone="Uncategorized"}}
-items[22742] = {id=22742,name="Bloodsail Shirt",obtain={NpcID=22746,NpcName="Buccaneer's Uniform (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100.0,Zone="Unknown"}}
-items[12104] = {id=12104,name="Brindlethorn Tunic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4035] = {id=4035,name="Silver-thread Robe",obtain={NpcID=2553,NpcName="Witherbark Shadowcaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Arathi Highlands"}}
-items[9774] = {id=9774,name="Greenweave Vest",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Barrens"}}
-items[3072] = {id=3072,name="Smoldering Robe",obtain={NpcID=1044,NpcName="Flamesnorting Whelp",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Wetlands"}}
-items[15500] = {id=15500,name="Outrunner's Chestguard",obtain={NpcID=4409,NpcName="Gatekeeper Kordurus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Stonetalon Mountains"}}
-items[6580] = {id=6580,name="Defender Tunic",obtain={NpcID=1948,NpcName="Snarlmane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.7,Zone="Silverpine Forest"}}
-items[4244] = {id=4244,name="Hillman's Leather Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3762,DropChance=0,Zone=""}}
-items[6242] = {id=6242,name="Blue Linen Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7633,DropChance=0,Zone=""}}
-items[2300] = {id=2300,name="Embossed Leather Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2160,DropChance=0,Zone=""}}
-items[15010] = {id=15010,name="Primal Wraps",obtain={NpcID=15636,NpcName="Eversong Green Keeper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Eversong Woods"}}
-items[10421] = {id=10421,name="Rough Copper Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12260,DropChance=0,Zone=""}}
-items[2379] = {id=2379,name="Tarnished Chain Vest",obtain={NpcID=1104,NpcName="Grundel Harkin (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Dun Morogh"}}
-items[6834] = {id=6834,name="Black Tuxedo",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6584] = {id=6584,name="Scouting Tunic",obtain={NpcID=5848,NpcName="Malgin Barleybrew",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.8,Zone="The Barrens"}}
-items[3019] = {id=3019,name="Noble's Robe",obtain={NpcID=599,NpcName="Marisa du'Paige",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.0,Zone="Unknown"}}
-items[6709] = {id=6709,name="Moonglow Vest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8322,DropChance=0,Zone=""}}
-items[2969] = {id=2969,name="Spellbinder Vest",obtain={NpcID=17609,NpcName="Sunhawk Saboteur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Bloodmyst Isle"}}
-items[3283] = {id=3283,name="Battle Chain Tunic",obtain={NpcID=17701,NpcName="Lord Xiz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Bloodmyst Isle"}}
-items[20919] = {id=20919,name="Unadorned Chain Vest",obtain={NpcID=15292,NpcName="Faraden Thelryn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Eversong Woods"}}
-items[20925] = {id=20925,name="Sun Cured Vest",obtain={NpcID=15291,NpcName="Jainthess Thelryn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Eversong Woods"}}
-items[33005] = {id=33005,name="TEST CHEST MAIL HUNTER",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[8200] = {id=8200,name="Big Voodoo Robe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10520,DropChance=0,Zone=""}}
-items[9887] = {id=9887,name="Huntsman's Armor",obtain={NpcID=5352,NpcName="Old Grizzlegut",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.7,Zone="Feralas"}}
-items[10040] = {id=10040,name="White Wedding Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12091,DropChance=0,Zone=""}}
-items[2866] = {id=2866,name="Rough Bronze Cuirass",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2670,DropChance=0,Zone=""}}
-items[15488] = {id=15488,name="Bloodspattered Surcoat",obtain={NpcID=4788,NpcName="Fallenroot Satyr",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Unknown"}}
-items[7369] = {id=7369,name="Elder's Robe",obtain={NpcID=15747,NpcName="Qiraji Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.5,Zone="Thousand Needles"}}
-items[14581] = {id=14581,name="Dokebi Chestguard",obtain={NpcID=6238,NpcName="Big Will",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="The Barrens"}}
-items[22278] = {id=22278,name="Lovely Blue Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9029,Recipe=false,RecipeID=0,DropChance=0,Zone="Uncategorized"}}
-items[22280] = {id=22280,name="Lovely Purple Dress",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9029,Recipe=false,RecipeID=0,DropChance=0,Zone="Uncategorized"}}
+items[29525] = {id=29525,name="Primalstrike Vest",source={ID=35589,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21871] = {id=21871,name="Frozen Shadoweave Robe",source={ID=26758,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21848] = {id=21848,name="Spellfire Robe",source={ID=26754,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21875] = {id=21875,name="Primal Mooncloth Robe",source={ID=26762,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29515] = {id=29515,name="Ebon Netherscale Breastplate",source={ID=35575,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12628] = {id=12628,name="Demon Forged Breastplate",source={ID=16667,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29522] = {id=29522,name="Windhawk Hauberk",source={ID=35585,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29519] = {id=29519,name="Netherstrike Breastplate",source={ID=35580,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28699] = {id=28699,name="Grand Marshal's Plate Chestpiece",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28228] = {id=28228,name="Beast Lord Cuirass",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
+items[29341] = {id=29341,name="Auchenai Anchorite's Robe",source={ID=10164,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchenai Crypts"}}
+items[10021] = {id=10021,name="Dreamweave Vest",source={ID=12070,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16473] = {id=16473,name="Field Marshal's Lamellar Chestplate",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16565] = {id=16565,name="Warlord's Chain Chestpiece",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28264] = {id=28264,name="Wastewalker Tunic",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="40.7",Zone="The Blood Furnace"}}
+items[25689] = {id=25689,name="Heavy Clefthoof Vest",source={ID=32495,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16549] = {id=16549,name="Warlord's Dragonhide Hauberk",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[24544] = {id=24544,name="Gladiator's Plate Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19682] = {id=19682,name="Bloodvine Vest",source={ID=24091,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28851] = {id=28851,name="High Warlord's Plate Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16452] = {id=16452,name="Field Marshal's Dragonhide Breastplate",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[31717] = {id=31717,name="Shadowcast Tunic",source={ID=10876,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[28964] = {id=28964,name="Voidheart Robe",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28628] = {id=28628,name="Grand Marshal's Dreadweave Robe",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[24396] = {id=24396,name="Vest of Vengeance",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="23.0",Zone="The Blood Furnace"}}
+items[28262] = {id=28262,name="Jade-Skull Breastplate",source={ID=19221,SourceName="Nethermancer Sepethrea",SourceType="Kill",DropChance="17.8",Zone="The Mechanar"}}
+items[16577] = {id=16577,name="Warlord's Mail Armor",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28484] = {id=28484,name="Bulwark of Kings",source={ID=34534,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30730] = {id=30730,name="Terrorweave Tunic",source={ID=17711,SourceName="Doomwalker",SourceType="Kill",DropChance="19.1",Zone="Unknown"}}
+items[186020] = {id=186020,name="Communal Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34369] = {id=34369,name="Carapace of Sun and Shadow",source={ID=46138,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23272] = {id=23272,name="Knight-Captain's Lamellar Breastplate",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28613] = {id=28613,name="Grand Marshal's Chain Armor",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28230] = {id=28230,name="Hallowed Garments",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
+items[28485] = {id=28485,name="Bulwark of the Ancient Kings",source={ID=36257,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[17592] = {id=17592,name="Warlord's Dreadweave Robe",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[34364] = {id=34364,name="Sunfire Robe",source={ID=46130,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16477] = {id=16477,name="Field Marshal's Plate Armor",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28204] = {id=28204,name="Tunic of Assassination",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
+items[30933] = {id=30933,name="Hauberk of Karabor",source={ID=10651,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[16453] = {id=16453,name="Field Marshal's Leather Chestpiece",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29096] = {id=29096,name="Breastplate of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28203] = {id=28203,name="Breastplate of the Righteous",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="6.4",Zone="The Steamvault"}}
+items[28601] = {id=28601,name="Chestguard of the Conniver",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="28.5",Zone="Karazhan"}}
+items[16466] = {id=16466,name="Field Marshal's Chain Breastplate",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[7939] = {id=7939,name="Truesilver Breastplate",source={ID=9974,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28205] = {id=28205,name="Breastplate of the Bold",source={ID=21466,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="19.0",Zone="The Arcatraz"}}
+items[29615] = {id=29615,name="Warlord's Lamellar Chestplate",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[28597] = {id=28597,name="Panzar'Thar Breastplate",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="28.5",Zone="Karazhan"}}
+items[11726] = {id=11726,name="Savage Gladiator Chain",source={ID=9027,SourceName="Gorosh the Dervish",SourceType="Kill",DropChance="14.6",Zone="Blackrock Depths"}}
+items[28483] = {id=28483,name="Breastplate of Kings",source={ID=34533,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16443] = {id=16443,name="Field Marshal's Silk Vestments",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28602] = {id=28602,name="Robe of the Elder Scribes",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
+items[31297] = {id=31297,name="Robe of the Crimson Order",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28805] = {id=28805,name="High Warlord's Chain Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28578] = {id=28578,name="Masquerade Gown",source={ID=17534,SourceName="Julianne",SourceType="Kill",DropChance="40.0",Zone="Karazhan"}}
+items[24397] = {id=24397,name="Raiments of Divine Authority",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="15.3",Zone="The Blood Furnace"}}
+items[29045] = {id=29045,name="Netherblade Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28717] = {id=28717,name="Grand Marshal's Silk Raiment",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[19685] = {id=19685,name="Primal Batskin Jerkin",source={ID=24121,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28688] = {id=28688,name="Grand Marshal's Leather Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34375] = {id=34375,name="Sun-Drenched Scale Chestguard",source={ID=46139,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16541] = {id=16541,name="Warlord's Plate Armor",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28623] = {id=28623,name="Grand Marshal's Dragonhide Tunic",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[22436] = {id=22436,name="Cryptstalker Tunic",source={ID=9054,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[8211] = {id=8211,name="Wild Leather Vest",source={ID=10544,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22669] = {id=22669,name="Icebane Breastplate",source={ID=28242,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23294] = {id=23294,name="Knight-Captain's Dragonhide Chestpiece",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[22416] = {id=22416,name="Dreadnaught Breastplate",source={ID=9034,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[17605] = {id=17605,name="Field Marshal's Satin Vestments",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28403] = {id=28403,name="Doomplate Chestguard",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="19.2",Zone="The Arcatraz"}}
+items[31625] = {id=31625,name="Grand Marshal's Mooncloth Vestments",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[23297] = {id=23297,name="Knight-Captain's Dreadweave Tunic",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28709] = {id=28709,name="Grand Marshal's Scaled Chestpiece",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[31593] = {id=31593,name="Grand Marshal's Kodohide Tunic",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29066] = {id=29066,name="Justicar Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28662] = {id=28662,name="Breastplate of the Lightbinder",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="25.0",Zone="Karazhan"}}
+items[15047] = {id=15047,name="Red Dragonscale Breastplate",source={ID=19054,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20407] = {id=20407,name="Twilight Cultist Robe",source={ID=15542,SourceName="Twilight Marauder",SourceType="Kill",DropChance="7.8",Zone="Silithus"}}
+items[21389] = {id=21389,name="Avenger's Breastplate",source={ID=8627,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[25819] = {id=25819,name="Breastplate of the Warbringer",source={ID=10011,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[23522] = {id=23522,name="Ragesteel Breastplate",source={ID=29645,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29337] = {id=29337,name="The Exarch's Protector",source={ID=10164,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchenai Crypts"}}
+items[29050] = {id=29050,name="Robes of the Incarnate",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29077] = {id=29077,name="Vestments of the Aldor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28600] = {id=28600,name="Stonebough Jerkin",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
+items[29012] = {id=29012,name="Warbringer Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14624] = {id=14624,name="Deathbone Chestplate",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="7.4",Zone="Scholomance"}}
+items[29340] = {id=29340,name="Auchenai Monk's Tunic",source={ID=10164,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchenai Crypts"}}
+items[19825] = {id=19825,name="Zandalar Freethinker's Breastplate",source={ID=8055,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[15413] = {id=15413,name="Ornate Adamantium Breastplate",source={ID=5944,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[29056] = {id=29056,name="Shroud of the Incarnate",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31718] = {id=31718,name="Darkstorm Tunic",source={ID=10876,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[17581] = {id=17581,name="Field Marshal's Dreadweave Robe",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[23527] = {id=23527,name="Earthpeace Breastplate",source={ID=29649,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35407] = {id=35407,name="Savage Plate Chestpiece",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[28599] = {id=28599,name="Scaled Breastplate of Carnage",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
+items[28821] = {id=28821,name="High Warlord's Dreadweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14136] = {id=14136,name="Robe of Winter Night",source={ID=18436,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30258] = {id=30258,name="Chestplate of A'dal",source={ID=10280,SourceName="",SourceType="Quest",DropChance="0",Zone="Shattrath City"}}
+items[22191] = {id=22191,name="Obsidian Mail Tunic",source={ID=27590,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28334] = {id=28334,name="Gladiator's Chain Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34373] = {id=34373,name="Embrace of the Phoenix",source={ID=46137,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25831] = {id=25831,name="Gladiator's Leather Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28735] = {id=28735,name="Earthblood Chestguard",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
+items[28840] = {id=28840,name="High Warlord's Leather Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33204] = {id=33204,name="Shadowprowler's Chestguard",source={ID=42731,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28130] = {id=28130,name="Gladiator's Dragonhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29071] = {id=29071,name="Justicar Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22464] = {id=22464,name="Earthshatter Tunic",source={ID=9068,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[16563] = {id=16563,name="Warlord's Leather Breastplate",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29019] = {id=29019,name="Warbringer Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22425] = {id=22425,name="Redemption Tunic",source={ID=9043,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[30298] = {id=30298,name="Void Slayer's Tunic",source={ID=10439,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[22652] = {id=22652,name="Glacial Vest",source={ID=28207,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29038] = {id=29038,name="Cyclone Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31629] = {id=31629,name="High Warlord's Mooncloth Vestments",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22504] = {id=22504,name="Plagueheart Robe",source={ID=9103,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[29062] = {id=29062,name="Justicar Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24021] = {id=24021,name="Light-Touched Breastplate",source={ID=17306,SourceName="Watchkeeper Gargolmar",SourceType="Kill",DropChance="18.7",Zone="Hellfire Ramparts"}}
+items[34377] = {id=34377,name="Hard Khorium Battleplate",source={ID=46144,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34397] = {id=34397,name="Bladed Chaos Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14106] = {id=14106,name="Felcloth Robe",source={ID=18451,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12422] = {id=12422,name="Imperial Plate Chest",source={ID=16663,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22274] = {id=22274,name="Grizzled Pelt",source={ID=9053,SourceName="",SourceType="Quest",DropChance="0",Zone="Druid"}}
+items[28191] = {id=28191,name="Mana-Etched Vestments",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="24.1",Zone="Old Hillsbrad Foothills"}}
+items[29602] = {id=29602,name="Legionnaire's Lamellar Breastplate",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[13346] = {id=13346,name="Robes of the Exalted",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="14.4",Zone="Stratholme"}}
+items[14154] = {id=14154,name="Truefaith Vestments",source={ID=18456,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10775] = {id=10775,name="Carapace of Tuten'kash",source={ID=7355,SourceName="Tuten'kash",SourceType="Kill",DropChance="32.5",Zone="Razorfen Downs"}}
+items[25696] = {id=25696,name="Felstalker Breastplate",source={ID=32500,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22876] = {id=22876,name="Legionnaire's Mail Hauberk",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29609] = {id=29609,name="Field Marshal's Mail Armor",source={ID=12785,SourceName="Sergeant Major Clate",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[28708] = {id=28708,name="Grand Marshal's Satin Robe",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[23226] = {id=23226,name="Ghoul Skin Tunic",source={ID=16156,SourceName="Dark Touched Warrior",SourceType="Kill",DropChance="1.0",Zone="Naxxramas"}}
+items[15050] = {id=15050,name="Black Dragonscale Breastplate",source={ID=19085,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12462] = {id=12462,name="Embrace of the Wind Serpent",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
+items[28232] = {id=28232,name="Robe of Oblivion",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
+items[28841] = {id=28841,name="High Warlord's Linked Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35370] = {id=35370,name="Opportunist's Leather Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21854] = {id=21854,name="Netherweave Robe",source={ID=26773,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31127] = {id=31127,name="Hauberk of Totemic Rage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25997] = {id=25997,name="Gladiator's Linked Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23298] = {id=23298,name="Knight-Captain's Leather Chestpiece",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29780] = {id=29780,name="Kirin Tor Apprentice's Robes",source={ID=10320,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[21343] = {id=21343,name="Enigma Robes",source={ID=8633,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[19828] = {id=19828,name="Zandalar Augur's Hauberk",source={ID=8075,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[29082] = {id=29082,name="Demon Stalker Harness",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29087] = {id=29087,name="Chestguard of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35376] = {id=35376,name="Stalker's Chain Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13168] = {id=13168,name="Plate of the Shaman King",source={ID=9196,SourceName="Highlord Omokk",SourceType="Kill",DropChance="12.8",Zone="Blackrock Spire"}}
+items[23565] = {id=23565,name="Embrace of the Twisting Nether",source={ID=36256,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30107] = {id=30107,name="Vestments of the Sea-Witch",source={ID=21212,SourceName="Lady Vashj",SourceType="Kill",DropChance="15.6",Zone="Serpentshrine Cavern"}}
+items[29091] = {id=29091,name="Chestpiece of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28869] = {id=28869,name="High Warlord's Silk Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35365] = {id=35365,name="Kodohide Robe",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[186036] = {id=186036,name="Communal Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28679] = {id=28679,name="Grand Marshal's Lamellar Chestpiece",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[31340] = {id=31340,name="Will of Edward the Odd",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21663] = {id=21663,name="Robes of the Guardian Saint",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="24.2",Zone="Ahn'Qiraj"}}
+items[23305] = {id=23305,name="Knight-Captain's Silk Tunic",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29129] = {id=29129,name="Anchorite's Robes",source={ID=19321,SourceName="Quartermaster Endarin",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[22496] = {id=22496,name="Frostfire Robe",source={ID=9095,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[24363] = {id=24363,name="Unscarred Breastplate",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="25.0",Zone="The Slave Pens"}}
+items[21855] = {id=21855,name="Netherweave Tunic",source={ID=26774,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22476] = {id=22476,name="Bonescythe Breastplate",source={ID=9077,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[18530] = {id=18530,name="Ogre Forged Hauberk",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="1.2",Zone="Dire Maul"}}
+items[20530] = {id=20530,name="Robes of Servitude",source={ID=8422,SourceName="",SourceType="Quest",DropChance="0",Zone="Warlock"}}
+items[22272] = {id=22272,name="Forest's Embrace",source={ID=9053,SourceName="",SourceType="Quest",DropChance="0",Zone="Druid"}}
+items[34371] = {id=34371,name="Leather Chestguard of the Sun",source={ID=46136,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22664] = {id=22664,name="Icy Scale Breastplate",source={ID=28222,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34211] = {id=34211,name="Harness of Carnal Instinct",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="32.2",Zone="Sunwell Plateau"}}
+items[23564] = {id=23564,name="Twisting Nether Chain Shirt",source={ID=34530,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21861] = {id=21861,name="Imbued Netherweave Robe",source={ID=26777,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22877] = {id=22877,name="Legionnaire's Dragonhide Chestpiece",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[12618] = {id=12618,name="Enchanted Thorium Breastplate",source={ID=16745,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[940] = {id=940,name="Robes of Insight",source={ID=4469,SourceName="Emerald Ooze",SourceType="Kill",DropChance="0.1",Zone="The Hinterlands"}}
+items[25856] = {id=25856,name="Gladiator's Silk Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29033] = {id=29033,name="Cyclone Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28202] = {id=28202,name="Moonglade Robe",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
+items[28689] = {id=28689,name="Grand Marshal's Linked Armor",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16674] = {id=16674,name="Beaststalker's Tunic",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="11.1",Zone="Blackrock Spire"}}
+items[12757] = {id=12757,name="Breastplate of Bloodthirst",source={ID=5068,SourceName="",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
+items[28342] = {id=28342,name="Warp Infused Drape",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
+items[22512] = {id=22512,name="Robe of Faith",source={ID=9111,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22884] = {id=22884,name="Legionnaire's Dreadweave Tunic",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[14152] = {id=14152,name="Robe of the Archmage",source={ID=18457,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31379] = {id=31379,name="Gladiator's Kodohide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31413] = {id=31413,name="Gladiator's Mooncloth Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17624] = {id=17624,name="Warlord's Satin Robes",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[30054] = {id=30054,name="Ranger-General's Chestguard",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="22.7",Zone="Serpentshrine Cavern"}}
+items[29127] = {id=29127,name="Vindicator's Hauberk",source={ID=19321,SourceName="Quartermaster Endarin",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[17742] = {id=17742,name="Fungus Shroud Armor",source={ID=12237,SourceName="Meshlok the Harvester",SourceType="Kill",DropChance="27.9",Zone="Maraudon"}}
+items[24552] = {id=24552,name="Gladiator's Dreadweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35346] = {id=35346,name="Evoker's Silk Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25838] = {id=25838,name="Warden's Hauberk",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[31168] = {id=31168,name="Demon-Forged Chestguard",source={ID=18677,SourceName="Mekthorg the Wild",SourceType="Kill",DropChance="43.2",Zone="Unknown"}}
+items[34379] = {id=34379,name="Sunblessed Breastplate",source={ID=46142,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28846] = {id=28846,name="High Warlord's Mail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28860] = {id=28860,name="High Warlord's Satin Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35360] = {id=35360,name="Dragonhide Robe",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[23000] = {id=23000,name="Plated Abomination Ribcage",source={ID=15928,SourceName="Thaddius",SourceType="Kill",DropChance="28.3",Zone="Naxxramas"}}
+items[13314] = {id=13314,name="Alanna's Embrace",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="0.6",Zone="Scholomance"}}
+items[14128] = {id=14128,name="Wizardweave Robe",source={ID=18446,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21862] = {id=21862,name="Imbued Netherweave Tunic",source={ID=26778,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31285] = {id=31285,name="Chestguard of the Talon",source={ID=7370,SourceName="Restless Shade",SourceType="Kill",DropChance="0",Zone="Deadwind Pass"}}
+items[21331] = {id=21331,name="Conqueror's Breastplate",source={ID=8562,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[31719] = {id=31719,name="Stormstrike Vest",source={ID=10876,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[15056] = {id=15056,name="Stormshroud Armor",source={ID=19079,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34365] = {id=34365,name="Robe of Eternal Light",source={ID=46131,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34399] = {id=34399,name="Robes of Ghostly Hatred",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28723] = {id=28723,name="Grand Marshal's Wyrmhide Tunic",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[27897] = {id=27897,name="Breastplate of Many Graces",source={ID=18732,SourceName="Grandmaster Vorpil",SourceType="Kill",DropChance="28.5",Zone="Shadow Labyrinth"}}
+items[23300] = {id=23300,name="Knight-Captain's Plate Hauberk",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[19693] = {id=19693,name="Darksoul Breastplate",source={ID=24139,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14153] = {id=14153,name="Robe of the Void",source={ID=18458,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14637] = {id=14637,name="Cadaverous Armor",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="7.9",Zone="Scholomance"}}
+items[21374] = {id=21374,name="Stormcaller's Hauberk",source={ID=8622,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[29029] = {id=29029,name="Cyclone Hauberk",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31630] = {id=31630,name="Grand Marshal's Ornamented Chestplate",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[35412] = {id=35412,name="Crusader's Scaled Chestpiece",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[21680] = {id=21680,name="Vest of Swift Execution",source={ID=15511,SourceName="Lord Kri",SourceType="Kill",DropChance="25.0",Zone="Ahn'Qiraj"}}
+items[21183] = {id=21183,name="Earthpower Vest",source={ID=8572,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[30139] = {id=30139,name="Rift Stalker Hauberk",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30101] = {id=30101,name="Bloodsea Brigand's Vest",source={ID=21214,SourceName="Fathom-Lord Karathress",SourceType="Kill",DropChance="18.3",Zone="Serpentshrine Cavern"}}
+items[22879] = {id=22879,name="Legionnaire's Leather Chestpiece",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[19838] = {id=19838,name="Zandalar Haruspex's Tunic",source={ID=8065,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[21370] = {id=21370,name="Striker's Hauberk",source={ID=8656,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[31720] = {id=31720,name="Battlemaster's Breastplate",source={ID=10876,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[16726] = {id=16726,name="Lightforge Breastplate",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="7.0",Zone="Blackrock Spire"}}
+items[11633] = {id=11633,name="Spiderfang Carapace",source={ID=9032,SourceName="Hedrum the Creeper",SourceType="Kill",DropChance="30.8",Zone="Blackrock Depths"}}
+items[30196] = {id=30196,name="Robes of Tirisfal",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28815] = {id=28815,name="High Warlord's Dragonhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21334] = {id=21334,name="Doomcaller's Robes",source={ID=8661,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[16535] = {id=16535,name="Warlord's Silk Raiment",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[31588] = {id=31588,name="High Warlord's Kodohide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35381] = {id=35381,name="Seer's Linked Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23220] = {id=23220,name="Crystal Webbed Robe",source={ID=15952,SourceName="Maexxna",SourceType="Kill",DropChance="17.4",Zone="Naxxramas"}}
+items[30214] = {id=30214,name="Robe of the Corruptor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17741] = {id=17741,name="Nature's Embrace",source={ID=12237,SourceName="Meshlok the Harvester",SourceType="Kill",DropChance="28.6",Zone="Maraudon"}}
+items[30102] = {id=30102,name="Krakken-Heart Breastplate",source={ID=21212,SourceName="Lady Vashj",SourceType="Kill",DropChance="16.7",Zone="Serpentshrine Cavern"}}
+items[27879] = {id=27879,name="Gladiator's Scaled Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28694] = {id=28694,name="Grand Marshal's Mail Armor",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[31640] = {id=31640,name="Grand Marshal's Ringmail Chestguard",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[21364] = {id=21364,name="Deathdealer's Vest",source={ID=8638,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[22661] = {id=22661,name="Polar Tunic",source={ID=28219,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16897] = {id=16897,name="Stormrage Chestguard",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="31.0",Zone="Blackwing Lair"}}
+items[9415] = {id=9415,name="Grimlok's Tribal Vestments",source={ID=4854,SourceName="Grimlok",SourceType="Kill",DropChance="39.4",Zone="Uldaman"}}
+items[32002] = {id=32002,name="Merciless Gladiator's Leather Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23292] = {id=23292,name="Knight-Captain's Chain Hauberk",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[17600] = {id=17600,name="Knight-Captain's Satin Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31004] = {id=31004,name="Gronnstalker's Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31977] = {id=31977,name="Merciless Gladiator's Dreadweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28229] = {id=28229,name="Incanter's Robe",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
+items[30270] = {id=30270,name="Scavenged Breastplate",source={ID=10309,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[23490] = {id=23490,name="Fel Iron Chain Tunic",source={ID=29556,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31136] = {id=31136,name="Breastplate of Blade Turning",source={ID=17259,SourceName="Bonechewer Hungerer",SourceType="Kill",DropChance="0.7",Zone="Hellfire Ramparts"}}
+items[22885] = {id=22885,name="Legionnaire's Satin Tunic",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[21499] = {id=21499,name="Vestments of the Shifting Sands",source={ID=15348,SourceName="Kurinnaxx",SourceType="Kill",DropChance="14.5",Zone="Ruins of Ahn'Qiraj"}}
+items[20033] = {id=20033,name="Zandalar Demoniac's Robe",source={ID=8077,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[12793] = {id=12793,name="Mixologist's Tunic",source={ID=9499,SourceName="Plugger Spazzring",SourceType="Kill",DropChance="29.5",Zone="Blackrock Depths"}}
+items[9943] = {id=9943,name="Abjurer's Robe",source={ID=8301,SourceName="Clack the Reaver",SourceType="Kill",DropChance="2.9",Zone="Blasted Lands"}}
+items[34228] = {id=34228,name="Vicious Hawkstrider Hauberk",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="37.7",Zone="Sunwell Plateau"}}
+items[30144] = {id=30144,name="Deathmantle Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31613] = {id=31613,name="Gladiator's Ornamented Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28231] = {id=28231,name="Tidefury Chestpiece",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="18.3",Zone="The Arcatraz"}}
+items[31369] = {id=31369,name="Iceguard Breastplate",source={ID=38477,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27427] = {id=27427,name="Durotan's Battle Harness",source={ID=17862,SourceName="Captain Skarloc",SourceType="Kill",DropChance="7.6",Zone="Old Hillsbrad Foothills"}}
+items[19156] = {id=19156,name="Flarecore Robe",source={ID=23666,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16700] = {id=16700,name="Dreadmist Robe",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="12.3",Zone="Blackrock Spire"}}
+items[10784] = {id=10784,name="Atal'ai Breastplate",source={ID=5714,SourceName="Loro",SourceType="Kill",DropChance="3.2",Zone="The Temple of Atal'Hakkar"}}
+items[31057] = {id=31057,name="Robes of the Tempest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30056] = {id=30056,name="Robe of Hateful Echoes",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="21.2",Zone="Serpentshrine Cavern"}}
+items[34610] = {id=34610,name="Scarlet Sin'dorei Robes",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="5.6",Zone="Magisters' Terrace"}}
+items[27461] = {id=27461,name="Chestguard of the Prowler",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
+items[20034] = {id=20034,name="Zandalar Illusionist's Robe",source={ID=8069,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[16721] = {id=16721,name="Shadowcraft Tunic",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="10.0",Zone="Blackrock Spire"}}
+items[15059] = {id=15059,name="Living Breastplate",source={ID=19095,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12624] = {id=12624,name="Wildthorn Mail",source={ID=16650,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8113] = {id=8113,name="Hibernal Robe",source={ID=9319,SourceName="Houndmaster Grebmar",SourceType="Kill",DropChance="0.1",Zone="Blackrock Depths"}}
+items[34232] = {id=34232,name="Fel Conquerer Raiments",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="31.5",Zone="Sunwell Plateau"}}
+items[31028] = {id=31028,name="Slayer's Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31052] = {id=31052,name="Robe of the Malefic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27702] = {id=27702,name="Gladiator's Lamellar Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35467] = {id=35467,name="Mooncloth Vestments",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16958] = {id=16958,name="Judgement Breastplate",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="19.5",Zone="Blackwing Lair"}}
+items[20380] = {id=20380,name="Dreamscale Breastplate",source={ID=24703,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14445] = {id=14445,name="Venomshroud Silk Robes",source={ID=6503,SourceName="Spiked Stegodon",SourceType="Kill",DropChance="0.2",Zone="Un'Goro Crater"}}
+items[185998] = {id=185998,name="Communal Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34924] = {id=34924,name="Gown of Spiritual Wonder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24465] = {id=24465,name="Shamblehide Chestguard",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="20.0",Zone="The Underbog"}}
+items[22488] = {id=22488,name="Dreamwalker Tunic",source={ID=9086,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[21357] = {id=21357,name="Genesis Vest",source={ID=8666,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[22196] = {id=22196,name="Thick Obsidian Breastplate",source={ID=27587,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19822] = {id=19822,name="Zandalar Vindicator's Breastplate",source={ID=8079,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[12641] = {id=12641,name="Invulnerable Mail",source={ID=16746,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12603] = {id=12603,name="Nightbrace Tunic",source={ID=10264,SourceName="Solakar Flamewreath",SourceType="Kill",DropChance="17.9",Zone="Blackrock Spire"}}
+items[15066] = {id=15066,name="Ironfeather Breastplate",source={ID=19086,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14789] = {id=14789,name="Protector Breastplate",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[13858] = {id=13858,name="Runecloth Robe",source={ID=18406,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[17050] = {id=17050,name="Chan's Imperial Robes",source={ID=8217,SourceName="Mith'rethis the Enchanter",SourceType="Kill",DropChance="6.9",Zone="The Hinterlands"}}
+items[31018] = {id=31018,name="Skyshatter Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33203] = {id=33203,name="Robes of Heavenly Purpose",source={ID=23576,SourceName="Nalorakk",SourceType="Kill",DropChance="12.6",Zone="Unknown"}}
+items[31396] = {id=31396,name="Gladiator's Ringmail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31635] = {id=31635,name="High Warlord's Ornamented Chestplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35337] = {id=35337,name="Mooncloth Vestments",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29781] = {id=29781,name="Lifewarden's Breastplate",source={ID=10320,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[10254] = {id=10254,name="Master's Robe",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="3.6",Zone="Blackwing Lair"}}
+items[19904] = {id=19904,name="Runed Bloodstained Hauberk",source={ID=14507,SourceName="High Priest Venoxis",SourceType="Kill",DropChance="8.8",Zone="Zul'Gurub"}}
+items[35059] = {id=35059,name="Brutal Gladiator's Ornamented Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31065] = {id=31065,name="Shroud of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30134] = {id=30134,name="Crystalforge Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27711] = {id=27711,name="Gladiator's Satin Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27506] = {id=27506,name="Robe of Effervescent Light",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="33.3",Zone="The Blood Furnace"}}
+items[28861] = {id=28861,name="High Warlord's Scaled Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31646] = {id=31646,name="High Warlord's Ringmail Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35332] = {id=35332,name="Dreadweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35464] = {id=35464,name="Dreadweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23089] = {id=23089,name="Tunic of Undead Slaying",source={ID=16143,SourceName="Shadow of Doom",SourceType="Kill",DropChance="8.0",Zone="Blasted Lands"}}
+items[18312] = {id=18312,name="Energized Chestplate",source={ID=11492,SourceName="Alzzin the Wildshaper",SourceType="Kill",DropChance="18.7",Zone="Dire Maul"}}
+items[15048] = {id=15048,name="Blue Dragonscale Breastplate",source={ID=19077,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30913] = {id=30913,name="Robes of Rhonin",source={ID=17968,SourceName="Archimonde",SourceType="Kill",DropChance="19.7",Zone="Hyjal Summit"}}
+items[31017] = {id=31017,name="Skyshatter Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30899] = {id=30899,name="Don Rodrigo's Poncho",source={ID=17842,SourceName="Azgalor",SourceType="Kill",DropChance="17.1",Zone="Hyjal Summit"}}
+items[30164] = {id=30164,name="Cataclysm Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30200] = {id=30200,name="Gladiator's Felweave Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27456] = {id=27456,name="Raiments of Nature's Breath",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
+items[30762] = {id=30762,name="Infernoweave Robe",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[23563] = {id=23563,name="Nether Chain Shirt",source={ID=34529,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25671] = {id=25671,name="Thick Draenic Vest",source={ID=32473,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29514] = {id=29514,name="Thick Netherscale Breastplate",source={ID=35574,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21865] = {id=21865,name="Soulcloth Vest",source={ID=26781,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24481] = {id=24481,name="Robes of the Augurer",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="20.0",Zone="The Underbog"}}
+items[10845] = {id=10845,name="Warrior's Embrace",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="34.8",Zone="The Temple of Atal'Hakkar"}}
+items[14915] = {id=14915,name="Jade Breastplate",source={ID=6144,SourceName="Son of Arkkoroc",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[30113] = {id=30113,name="Destroyer Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33215] = {id=33215,name="Bloodstained Elven Battlevest",source={ID=23574,SourceName="Akil'zon",SourceType="Kill",DropChance="12.0",Zone="Unknown"}}
+items[33579] = {id=33579,name="Vestments of Hibernation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28831] = {id=28831,name="High Warlord's Lamellar Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28875] = {id=28875,name="High Warlord's Wyrmhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30835] = {id=30835,name="Salvager's Hauberk",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35342] = {id=35342,name="Satin Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35472] = {id=35472,name="Seer's Mail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30459] = {id=30459,name="Netherflame Robe",source={ID=36665,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23489] = {id=23489,name="Fel Iron Breastplate",source={ID=29550,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31320] = {id=31320,name="Chestguard of Exile",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22872] = {id=22872,name="Legionnaire's Plate Hauberk",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[18486] = {id=18486,name="Mooncloth Robe",source={ID=22902,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15787] = {id=15787,name="Willow Band Hauberk",source={ID=5121,SourceName="",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
+items[15064] = {id=15064,name="Warbear Harness",source={ID=19068,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[3999] = {id=3999,name="Laminated Scale Armor",source={ID=15162,SourceName="Scarlet Inquisitor",SourceType="Kill",DropChance="1.6",Zone="Eastern Plaguelands"}}
+items[9469] = {id=9469,name="Gahz'rilla Scale Armor",source={ID=7273,SourceName="Gahz'rilla",SourceType="Kill",DropChance="44.5",Zone="Zul'Farrak"}}
+items[34212] = {id=34212,name="Sunglow Vest",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="39.4",Zone="Sunwell Plateau"}}
+items[33664] = {id=33664,name="Vengeful Gladiator's Chain Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34912] = {id=34912,name="Scaled Drakeskin Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30150] = {id=30150,name="Vestments of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33328] = {id=33328,name="Arrow-fall Chestguard",source={ID=23578,SourceName="Jan'alai",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
+items[28140] = {id=28140,name="Gladiator's Wyrmhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27799] = {id=27799,name="Vermillion Robes of the Dominant",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="4.5",Zone="The Steamvault"}}
+items[24992] = {id=24992,name="Warmaul Breastplate",source={ID=18327,SourceName="Time-Lost Controller",SourceType="Kill",DropChance="25.0",Zone="Sethekk Halls"}}
+items[23507] = {id=23507,name="Adamantite Breastplate",source={ID=29606,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22874] = {id=22874,name="Legionnaire's Chain Hauberk",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[8349] = {id=8349,name="Feathered Breastplate",source={ID=10647,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8138] = {id=8138,name="Chromite Chestplate",source={ID=5235,SourceName="Fungal Ooze",SourceType="Kill",DropChance="0.1",Zone="Unknown"}}
+items[30905] = {id=30905,name="Midnight Chestguard",source={ID=17968,SourceName="Archimonde",SourceType="Kill",DropChance="19.2",Zone="Hyjal Summit"}}
+items[30992] = {id=30992,name="Lightbringer Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34927] = {id=34927,name="Tunic of the Dark Hour",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31960] = {id=31960,name="Merciless Gladiator's Chain Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31982] = {id=31982,name="Merciless Gladiator's Felweave Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33329] = {id=33329,name="Shadowtooth Trollskin Cuirass",source={ID=23578,SourceName="Jan'alai",SourceType="Kill",DropChance="9.1",Zone="Unknown"}}
+items[27912] = {id=27912,name="Harness of the Deep Currents",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
+items[29978] = {id=29978,name="Consortium Combatant's Robes",source={ID=10310,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[27787] = {id=27787,name="Chestguard of No Remorse",source={ID=17797,SourceName="Hydromancer Thespia",SourceType="Kill",DropChance="0",Zone="The Steamvault"}}
+items[16942] = {id=16942,name="Dragonstalker's Breastplate",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="35.9",Zone="Blackwing Lair"}}
+items[16820] = {id=16820,name="Nightslayer Chestpiece",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="35.1",Zone="Molten Core"}}
+items[10264] = {id=10264,name="Adventurer's Tunic",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="4.4",Zone="Blasted Lands"}}
+items[19834] = {id=19834,name="Zandalar Madcap's Tunic",source={ID=8073,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[16730] = {id=16730,name="Breastplate of Valor",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="12.1",Zone="Blackrock Spire"}}
+items[12895] = {id=12895,name="Breastplate of the Chromatic Flight",source={ID=5166,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[10178] = {id=10178,name="Mystical Robe",source={ID=7046,SourceName="Searscale Drake",SourceType="Kill",DropChance="0.2",Zone="Burning Steppes"}}
+items[34216] = {id=34216,name="Heroic Judicator's Chestguard",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="36.2",Zone="Sunwell Plateau"}}
+items[34396] = {id=34396,name="Garments of Crashing Shores",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35027] = {id=35027,name="Brutal Gladiator's Lamellar Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30975] = {id=30975,name="Onslaught Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33675] = {id=33675,name="Vengeful Gladiator's Dragonhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33728] = {id=33728,name="Vengeful Gladiator's Plate Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32340] = {id=32340,name="Garments of Temperance",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="18.6",Zone="Black Temple"}}
+items[29921] = {id=29921,name="Fire Crest Breastplate",source={ID=19514,SourceName="Al'ar",SourceType="Kill",DropChance="31.2",Zone="Tempest Keep"}}
+items[33965] = {id=33965,name="Hauberk of the Furious Elements",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34615] = {id=34615,name="Netherforce Chestplate",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="5.6",Zone="Magisters' Terrace"}}
+items[27906] = {id=27906,name="Crimsonforge Breastplate",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="66.6",Zone="Hellfire Ramparts"}}
+items[28391] = {id=28391,name="Worldfire Chestguard",source={ID=20885,SourceName="Dalliah the Doomsayer",SourceType="Kill",DropChance="197.0",Zone="The Arcatraz"}}
+items[29117] = {id=29117,name="Stormspire Vest",source={ID=20242,SourceName="Karaaz",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[16931] = {id=16931,name="Nemesis Robes",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="31.6",Zone="Blackwing Lair"}}
+items[19690] = {id=19690,name="Bloodsoul Breastplate",source={ID=24136,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16491] = {id=16491,name="Legionnaire's Silk Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16504] = {id=16504,name="Legionnaire's Dragonhide Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14303] = {id=14303,name="Bonecaster's Shroud",source={ID=10663,SourceName="Manaclaw",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
+items[13378] = {id=13378,name="Songbird Blouse",source={ID=10558,SourceName="Hearthsinger Forresten",SourceType="Kill",DropChance="22.0",Zone="Stratholme"}}
+items[35087] = {id=35087,name="Brutal Gladiator's Satin Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31042] = {id=31042,name="Thunderheart Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32252] = {id=32252,name="Nether Shadow Tunic",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="19.2",Zone="Black Temple"}}
+items[32327] = {id=32327,name="Robe of the Shadow Council",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="39.2",Zone="Unknown"}}
+items[30159] = {id=30159,name="Shroud of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27469] = {id=27469,name="Gladiator's Mail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25024] = {id=25024,name="Warlord's Iron-Breastplate",source={ID=17671,SourceName="Shattered Hand Champion",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
+items[23513] = {id=23513,name="Flamebane Breastplate",source={ID=29617,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28401] = {id=28401,name="Hauberk of Desolation",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="20.8",Zone="Old Hillsbrad Foothills"}}
+items[31554] = {id=31554,name="Windchanneller's Tunic",source={ID=22930,SourceName="Yor",SourceType="Kill",DropChance="14.1",Zone="Mana-Tombs"}}
+items[35386] = {id=35386,name="Seer's Mail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34799] = {id=34799,name="Hauberk of the War Bringer",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="14.1",Zone="Magisters' Terrace"}}
+items[24455] = {id=24455,name="Tunic of the Nightwatcher",source={ID=17826,SourceName="Swamplord Musel'ek",SourceType="Kill",DropChance="33.3",Zone="The Underbog"}}
+items[24357] = {id=24357,name="Vest of Living Lightning",source={ID=17941,SourceName="Mennu the Betrayer",SourceType="Kill",DropChance="33.3",Zone="The Slave Pens"}}
+items[16923] = {id=16923,name="Robes of Transcendence",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="34.1",Zone="Blackwing Lair"}}
+items[21467] = {id=21467,name="Thick Silithid Chestguard",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="14.4",Zone="Ruins of Ahn'Qiraj"}}
+items[19145] = {id=19145,name="Robe of Volatile Power",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="6.7",Zone="Molten Core"}}
+items[10135] = {id=10135,name="High Councillor's Tunic",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="3.6",Zone="Silithus"}}
+items[13090] = {id=13090,name="Breastplate of the Chosen",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10215] = {id=10215,name="Elegant Robes",source={ID=13959,SourceName="Alterac Yeti",SourceType="Kill",DropChance="8.3",Zone="Alterac Valley"}}
+items[10218] = {id=10218,name="Elegant Tunic",source={ID=5718,SourceName="Rothos",SourceType="Kill",DropChance="0.6",Zone="The Hinterlands"}}
+items[10102] = {id=10102,name="Councillor's Robes",source={ID=10258,SourceName="Rookery Guardian",SourceType="Kill",DropChance="0.6",Zone="Blackrock Spire"}}
+items[8252] = {id=8252,name="Imperial Red Robe",source={ID=7045,SourceName="Scalding Drake",SourceType="Kill",DropChance="0.6",Zone="Burning Steppes"}}
+items[11606] = {id=11606,name="Dark Iron Mail",source={ID=15293,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15164] = {id=15164,name="Imposing Vest",source={ID=5350,SourceName="Qirot",SourceType="Kill",DropChance="0.4",Zone="Feralas"}}
+items[1677] = {id=1677,name="Drake-scale Vest",source={ID=680,SourceName="Mosh'Ogg Lord",SourceType="Kill",DropChance="2.5",Zone="Stranglethorn Vale"}}
+items[4007] = {id=4007,name="Overlinked Chain Armor",source={ID=13742,SourceName="Kolk",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
+items[34233] = {id=34233,name="Robes of Faltered Light",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="37.7",Zone="Sunwell Plateau"}}
+items[33685] = {id=33685,name="Vengeful Gladiator's Felweave Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32039] = {id=32039,name="Merciless Gladiator's Scaled Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30231] = {id=30231,name="Nordrassil Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33216] = {id=33216,name="Chestguard of Hidden Purpose",source={ID=23574,SourceName="Akil'zon",SourceType="Kill",DropChance="12.1",Zone="Unknown"}}
+items[21868] = {id=21868,name="Arcanoweave Robe",source={ID=26784,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28337] = {id=28337,name="Breastplate of Righteous Fury",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="12.1",Zone="The Slave Pens"}}
+items[35402] = {id=35402,name="Crusader's Ornamented Chestplate",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[29975] = {id=29975,name="Golden Dragonstrike Breastplate",source={ID=36079,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21351] = {id=21351,name="Vestments of the Oracle",source={ID=8603,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21652] = {id=21652,name="Silithid Carapace Chestguard",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="23.3",Zone="Ahn'Qiraj"}}
+items[16916] = {id=16916,name="Netherwind Robes",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="36.4",Zone="Blackwing Lair"}}
+items[19399] = {id=19399,name="Black Ash Robe",source={ID=11983,SourceName="Firemaw",SourceType="Kill",DropChance="34.6",Zone="Blackwing Lair"}}
+items[21696] = {id=21696,name="Robes of the Triumvirate",source={ID=15511,SourceName="Lord Kri",SourceType="Kill",DropChance="33.5",Zone="Ahn'Qiraj"}}
+items[19439] = {id=19439,name="Interlaced Shadow Jerkin",source={ID=12460,SourceName="Death Talon Wyrmguard",SourceType="Kill",DropChance="15.6",Zone="Blackwing Lair"}}
+items[10246] = {id=10246,name="Master's Vest",source={ID=1839,SourceName="Scarlet High Clerist",SourceType="Kill",DropChance="5.6",Zone="Western Plaguelands"}}
+items[15442] = {id=15442,name="Supreme Breastplate",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.7",Zone="Azshara"}}
+items[16413] = {id=16413,name="Knight-Captain's Silk Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16522] = {id=16522,name="Legionnaire's Mail Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16666] = {id=16666,name="Vest of Elements",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="5.4",Zone="Blackrock Spire"}}
+items[13123] = {id=13123,name="Dreamwalker Armor",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[18385] = {id=18385,name="Robe of Everlasting Night",source={ID=11496,SourceName="Immol'thar",SourceType="Kill",DropChance="21.0",Zone="Dire Maul"}}
+items[10230] = {id=10230,name="Engraved Breastplate",source={ID=15817,SourceName="Qiraji Brigadier General Pax-lish",SourceType="Kill",DropChance="9.3",Zone="Silithus"}}
+items[11604] = {id=11604,name="Dark Iron Plate",source={ID=15296,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21320] = {id=21320,name="Vest of the Den Watcher",source={ID=8464,SourceName="",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
+items[21322] = {id=21322,name="Ursa's Embrace",source={ID=8464,SourceName="",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
+items[14297] = {id=14297,name="Arachnidian Robes",source={ID=6502,SourceName="Plated Stegodon",SourceType="Kill",DropChance="0.2",Zone="Un'Goro Crater"}}
+items[15053] = {id=15053,name="Volcanic Breastplate",source={ID=19076,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9957] = {id=9957,name="Warmonger's Chestpiece",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
+items[14434] = {id=14434,name="Windchaser Robes",source={ID=5241,SourceName="Gordunni Warlord",SourceType="Kill",DropChance="0",Zone="Feralas"}}
+items[9913] = {id=9913,name="Royal Gown",source={ID=5347,SourceName="Antilus the Soarer",SourceType="Kill",DropChance="5.9",Zone="Feralas"}}
+items[34215] = {id=34215,name="Warharness of Reckless Fury",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="33.0",Zone="Sunwell Plateau"}}
+items[35088] = {id=35088,name="Brutal Gladiator's Scaled Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30907] = {id=30907,name="Mail of Fevered Pursuit",source={ID=17968,SourceName="Archimonde",SourceType="Kill",DropChance="20.6",Zone="Hyjal Summit"}}
+items[33695] = {id=33695,name="Vengeful Gladiator's Lamellar Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32334] = {id=32334,name="Vest of Mounting Assault",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="22.3",Zone="Black Temple"}}
+items[32365] = {id=32365,name="Heartshatter Breastplate",source={ID=22947,SourceName="Mother Shahraz",SourceType="Kill",DropChance="15.6",Zone="Black Temple"}}
+items[34900] = {id=34900,name="Shroud of Nature's Harmony",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34906] = {id=34906,name="Embrace of Everlasting Prowess",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30123] = {id=30123,name="Crystalforge Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30185] = {id=30185,name="Cataclysm Chestplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30839] = {id=30839,name="Flameheart Vest",source={ID=37884,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31364] = {id=31364,name="Wildguard Breastplate",source={ID=38473,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31578] = {id=31578,name="Slatesteel Breastplate",source={ID=22930,SourceName="Yor",SourceType="Kill",DropChance="19.2",Zone="Mana-Tombs"}}
+items[25595] = {id=25595,name="Windroc Shroud",source={ID=9856,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[23363] = {id=23363,name="Titanic Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23069] = {id=23069,name="Necro-Knight's Garb",source={ID=16156,SourceName="Dark Touched Warrior",SourceType="Kill",DropChance="1.0",Zone="Naxxramas"}}
+items[16841] = {id=16841,name="Earthfury Vestments",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="15.7",Zone="Molten Core"}}
+items[16865] = {id=16865,name="Breastplate of Might",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="33.3",Zone="Molten Core"}}
+items[10266] = {id=10266,name="Masterwork Breastplate",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="8.9",Zone="Silithus"}}
+items[10151] = {id=10151,name="Mighty Tunic",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="4.1",Zone="Silithus"}}
+items[14456] = {id=14456,name="Elunarian Vest",source={ID=12474,SourceName="Emeraldon Boughguard",SourceType="Kill",DropChance="0.5",Zone="Ashenvale"}}
+items[20550] = {id=20550,name="Darkrune Breastplate",source={ID=24914,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4015] = {id=4015,name="Sterling Chain Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12613] = {id=12613,name="Runic Breastplate",source={ID=16731,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15068] = {id=15068,name="Frostsaber Tunic",source={ID=19104,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18373] = {id=18373,name="Chestplate of Tranquility",source={ID=11486,SourceName="Prince Tortheldrin",SourceType="Kill",DropChance="9.3",Zone="Dire Maul"}}
+items[18532] = {id=18532,name="Mindsurge Robe",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="2.0",Zone="Dire Maul"}}
+items[14308] = {id=14308,name="Celestial Tunic",source={ID=5312,SourceName="Lethlas",SourceType="Kill",DropChance="1.4",Zone="Feralas"}}
+items[15433] = {id=15433,name="Peerless Armor",source={ID=15336,SourceName="Hive'Zara Tail Lasher",SourceType="Kill",DropChance="0.4",Zone="Ruins of Ahn'Qiraj"}}
+items[11924] = {id=11924,name="Robes of the Royal Crown",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="19.5",Zone="Blackrock Depths"}}
+items[18478] = {id=18478,name="Hyena Hide Jerkin",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="3.2",Zone="Dire Maul"}}
+items[10104] = {id=10104,name="Councillor's Tunic",source={ID=15753,SourceName="Qiraji Brigadier General",SourceType="Kill",DropChance="5.9",Zone="Tanaris"}}
+items[14798] = {id=14798,name="Bloodlust Breastplate",source={ID=9516,SourceName="Lord Banehollow",SourceType="Kill",DropChance="3.8",Zone="Felwood"}}
+items[10118] = {id=10118,name="Ornate Breastplate",source={ID=10199,SourceName="Grizzle Snowpaw",SourceType="Kill",DropChance="3.9",Zone="Winterspring"}}
+items[3951] = {id=3951,name="Twill Vest",source={ID=11142,SourceName="Undead Postman",SourceType="Kill",DropChance="9.1",Zone="Stratholme"}}
+items[14288] = {id=14288,name="Arachnidian Armor",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.1",Zone="Winterspring"}}
+items[8258] = {id=8258,name="Serpentskin Armor",source={ID=10825,SourceName="Gish the Unmoving",SourceType="Kill",DropChance="0.8",Zone="Eastern Plaguelands"}}
+items[14287] = {id=14287,name="Opulent Tunic",source={ID=6646,SourceName="Monnos the Elder",SourceType="Kill",DropChance="0.6",Zone="Azshara"}}
+items[14958] = {id=14958,name="High Chief's Armor",source={ID=7104,SourceName="Dessecus",SourceType="Kill",DropChance="0.3",Zone="Felwood"}}
+items[14437] = {id=14437,name="Venomshroud Vest",source={ID=6503,SourceName="Spiked Stegodon",SourceType="Kill",DropChance="0.8",Zone="Un'Goro Crater"}}
+items[13009] = {id=13009,name="Cow King's Hide",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[15622] = {id=15622,name="Gryphon Mail Breastplate",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[15609] = {id=15609,name="Bonelink Armor",source={ID=5881,SourceName="Cursed Sycamore",SourceType="Kill",DropChance="0.1",Zone="Feralas"}}
+items[6427] = {id=6427,name="Mistscape Robe",source={ID=679,SourceName="Mosh'Ogg Shaman",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
+items[14939] = {id=14939,name="Warbringer's Chestguard",source={ID=5452,SourceName="Hazzali Worker",SourceType="Kill",DropChance="0.2",Zone="Tanaris"}}
+items[3968] = {id=3968,name="Thick Leather Tunic",source={ID=11793,SourceName="Celebrian Dryad",SourceType="Kill",DropChance="1.3",Zone="Maraudon"}}
+items[9966] = {id=9966,name="Embossed Plate Armor",source={ID=14445,SourceName="Lord Captain Wyrmak",SourceType="Kill",DropChance="4.6",Zone="Swamp of Sorrows"}}
+items[34990] = {id=34990,name="Brutal Gladiator's Chain Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35007] = {id=35007,name="Brutal Gladiator's Dreadweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35048] = {id=35048,name="Brutal Gladiator's Mail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30904] = {id=30904,name="Savior's Grasp",source={ID=17968,SourceName="Archimonde",SourceType="Kill",DropChance="20.0",Zone="Hyjal Summit"}}
+items[30991] = {id=30991,name="Lightbringer Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33711] = {id=33711,name="Vengeful Gladiator's Mail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32592] = {id=32592,name="Chestguard of Relentless Storms",source={ID=17905,SourceName="Banshee",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
+items[34936] = {id=34936,name="Tormented Demonsoul Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32009] = {id=32009,name="Merciless Gladiator's Mail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30169] = {id=30169,name="Cataclysm Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33322] = {id=33322,name="Shimmer-pelt Vest",source={ID=23577,SourceName="Halazzi",SourceType="Kill",DropChance="13.3",Zone="Unknown"}}
+items[30928] = {id=30928,name="Sketh'lon Survivor's Tunic",source={ID=10808,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30074] = {id=30074,name="Heavy Earthforged Breastplate",source={ID=36129,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24615] = {id=24615,name="Vindicator Tunic",source={ID=18283,SourceName="Blacksting",SourceType="Kill",DropChance="12.5",Zone="Zangarmarsh"}}
+items[24719] = {id=24719,name="Dreghood Chestpiece",source={ID=18450,SourceName="Shienor Sorcerer",SourceType="Kill",DropChance="1.9",Zone="Terokkar Forest"}}
+items[30765] = {id=30765,name="Heavy Draenic Breastplate",source={ID=18010,SourceName="Maktu",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[31657] = {id=31657,name="Chemise of Rebirth",source={ID=10096,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[21671] = {id=21671,name="Robes of the Battleguard",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="22.8",Zone="Ahn'Qiraj"}}
+items[16809] = {id=16809,name="Felheart Robes",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="34.3",Zone="Molten Core"}}
+items[14975] = {id=14975,name="Exalted Harness",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="6.1",Zone="Azshara"}}
+items[16525] = {id=16525,name="Legionnaire's Chain Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16688] = {id=16688,name="Magister's Robes",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="11.0",Zone="Blackrock Spire"}}
+items[8303] = {id=8303,name="Hero's Breastplate",source={ID=5718,SourceName="Rothos",SourceType="Kill",DropChance="0.6",Zone="The Hinterlands"}}
+items[8296] = {id=8296,name="Traveler's Jerkin",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="1.2",Zone="Stratholme"}}
+items[12609] = {id=12609,name="Polychromatic Visionwrap",source={ID=10264,SourceName="Solakar Flamewreath",SourceType="Kill",DropChance="18.0",Zone="Blackrock Spire"}}
+items[14317] = {id=14317,name="Celestial Silk Robes",source={ID=12476,SourceName="Emeraldon Oracle",SourceType="Kill",DropChance="0.2",Zone="Ashenvale"}}
+items[14611] = {id=14611,name="Bloodmail Hauberk",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="7.1",Zone="Scholomance"}}
+items[15085] = {id=15085,name="Wicked Leather Armor",source={ID=19098,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14455] = {id=14455,name="Highborne Padded Armor",source={ID=14464,SourceName="Avalanchion",SourceType="Kill",DropChance="1.1",Zone="Azshara"}}
+items[14854] = {id=14854,name="Vanguard Breastplate",source={ID=14398,SourceName="Eldreth Darter",SourceType="Kill",DropChance="0.4",Zone="Dire Maul"}}
+items[10182] = {id=10182,name="Swashbuckler's Breastplate",source={ID=11383,SourceName="High Priestess Hai'watna",SourceType="Kill",DropChance="6.4",Zone="Stranglethorn Vale"}}
+items[15075] = {id=15075,name="Chimeric Vest",source={ID=19081,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8312] = {id=8312,name="Alabaster Breastplate",source={ID=9437,SourceName="Dark Keeper Vorfalk",SourceType="Kill",DropChance="0.4",Zone="Blackrock Depths"}}
+items[15650] = {id=15650,name="Merciless Surcoat",source={ID=10196,SourceName="General Colbatann",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
+items[8265] = {id=8265,name="Ebonhold Armor",source={ID=10608,SourceName="Scarlet Priest",SourceType="Kill",DropChance="0.4",Zone="Western Plaguelands"}}
+items[10065] = {id=10065,name="Duskwoven Robe",source={ID=7728,SourceName="Kirith the Damned",SourceType="Kill",DropChance="0.6",Zone="Blasted Lands"}}
+items[10070] = {id=10070,name="Righteous Armor",source={ID=10817,SourceName="Duggan Wildhammer",SourceType="Kill",DropChance="3.6",Zone="Eastern Plaguelands"}}
+items[10193] = {id=10193,name="Crusader's Armor",source={ID=9604,SourceName="Gorgon'och",SourceType="Kill",DropChance="5.0",Zone="Burning Steppes"}}
+items[15045] = {id=15045,name="Green Dragonscale Breastplate",source={ID=19050,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8106] = {id=8106,name="Hibernal Armor",source={ID=5277,SourceName="Nightmare Scalebane",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
+items[8126] = {id=8126,name="Myrmidon's Breastplate",source={ID=8497,SourceName="Nightmare Suppressor",SourceType="Kill",DropChance="0.3",Zone="The Temple of Atal'Hakkar"}}
+items[14265] = {id=14265,name="Bloodwoven Wraps",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[14267] = {id=14267,name="Bloodwoven Jerkin",source={ID=8198,SourceName="Tick",SourceType="Kill",DropChance="0.6",Zone="Tanaris"}}
+items[7527] = {id=7527,name="Cabalist Chestpiece",source={ID=6648,SourceName="Antilos",SourceType="Kill",DropChance="3.0",Zone="Azshara"}}
+items[14779] = {id=14779,name="Khan's Chestpiece",source={ID=5276,SourceName="Sprite Dragon",SourceType="Kill",DropChance="0.1",Zone="Feralas"}}
+items[7538] = {id=7538,name="Champion's Armor",source={ID=8277,SourceName="Rekk'tilac",SourceType="Kill",DropChance="4.8",Zone="Searing Gorge"}}
+items[9924] = {id=9924,name="Tracker's Tunic",source={ID=8296,SourceName="Mojo the Twisted",SourceType="Kill",DropChance="3.9",Zone="Blasted Lands"}}
+items[6430] = {id=6430,name="Imperial Leather Breastplate",source={ID=14446,SourceName="Fingat",SourceType="Kill",DropChance="0.4",Zone="Swamp of Sorrows"}}
+items[7930] = {id=7930,name="Heavy Mithril Breastplate",source={ID=9959,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7332] = {id=7332,name="Regal Armor",source={ID=5345,SourceName="Diamond Head",SourceType="Kill",DropChance="14.2",Zone="Feralas"}}
+items[7477] = {id=7477,name="Ranger Tunic",source={ID=5345,SourceName="Diamond Head",SourceType="Kill",DropChance="7.1",Zone="Feralas"}}
+items[14821] = {id=14821,name="Symbolic Breastplate",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.3",Zone="Zul'Farrak"}}
+items[14895] = {id=14895,name="Saltstone Surcoat",source={ID=4329,SourceName="Firemane Scout",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[34398] = {id=34398,name="Utopian Tunic of Elune",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31066] = {id=31066,name="Vestments of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33694] = {id=33694,name="Vengeful Gladiator's Kodohide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33748] = {id=33748,name="Vengeful Gladiator's Satin Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32020] = {id=32020,name="Merciless Gladiator's Ornamented Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30075] = {id=30075,name="Gnarled Chestpiece of the Ancients",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="18.7",Zone="Serpentshrine Cavern"}}
+items[27823] = {id=27823,name="Shard Encrusted Breastplate",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="14.2",Zone="Mana-Tombs"}}
+items[30255] = {id=30255,name="Chestguard of the Stormspire",source={ID=10335,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30328] = {id=30328,name="Protectorate Assassin's Tunic",source={ID=10353,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30363] = {id=30363,name="Warp-Shielded Hauberk",source={ID=10313,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31511] = {id=31511,name="Chest of the Wyrmcult",source={ID=10748,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31514] = {id=31514,name="Dragonkin Shirt",source={ID=10748,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31798] = {id=31798,name="Death-Speaker's Tunic",source={ID=10915,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[31170] = {id=31170,name="Demon-Forged Hauberk",source={ID=18677,SourceName="Mekthorg the Wild",SourceType="Kill",DropChance="41.4",Zone="Unknown"}}
+items[22886] = {id=22886,name="Legionnaire's Silk Tunic",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[23303] = {id=23303,name="Knight-Captain's Satin Tunic",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[14336] = {id=14336,name="Eternal Wraps",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="6.9",Zone="Azshara"}}
+items[15680] = {id=15680,name="Triumphant Chestpiece",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="4.1",Zone="Duskwood"}}
+items[19688] = {id=19688,name="Blood Tiger Breastplate",source={ID=24124,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10143] = {id=10143,name="High Councillor's Robe",source={ID=5718,SourceName="Rothos",SourceType="Kill",DropChance="1.2",Zone="The Hinterlands"}}
+items[14464] = {id=14464,name="Elunarian Silk Robes",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.2",Zone="Unknown"}}
+items[14811] = {id=14811,name="Warstrike Chestguard",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.5",Zone="Unknown"}}
+items[10220] = {id=10220,name="Nightshade Tunic",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="12.5",Zone="Silithus"}}
+items[13080] = {id=13080,name="Widow's Clutch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17612] = {id=17612,name="Legionnaire's Satin Vestments",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22409] = {id=22409,name="Tunic of the Crescent Moon",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="17.3",Zone="Stratholme"}}
+items[13944] = {id=13944,name="Tombstone Breastplate",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="12.9",Zone="Scholomance"}}
+items[15195] = {id=15195,name="Grand Breastplate",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.4",Zone="Unknown"}}
+items[20479] = {id=20479,name="Spitfire Breastplate",source={ID=24848,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10105] = {id=10105,name="Wanderer's Armor",source={ID=10198,SourceName="Kashoch the Reaver",SourceType="Kill",DropChance="7.0",Zone="Winterspring"}}
+items[14306] = {id=14306,name="Bonecaster's Vest",source={ID=14473,SourceName="Lapress",SourceType="Kill",DropChance="0.7",Zone="Silithus"}}
+items[14453] = {id=14453,name="Highborne Robes",source={ID=10263,SourceName="Burning Felguard",SourceType="Kill",DropChance="0.1",Zone="Blackrock Spire"}}
+items[8080] = {id=8080,name="Light Plate Chestpiece",source={ID=11058,SourceName="Fras Siabi",SourceType="Kill",DropChance="4.4",Zone="Stratholme"}}
+items[3976] = {id=3976,name="Smooth Leather Armor",source={ID=7851,SourceName="Nethergarde Elite",SourceType="Kill",DropChance="11.1",Zone="Blasted Lands"}}
+items[15179] = {id=15179,name="Praetorian Padded Armor",source={ID=7104,SourceName="Dessecus",SourceType="Kill",DropChance="0.3",Zone="Felwood"}}
+items[10806] = {id=10806,name="Vestments of the Atal'ai Prophet",source={ID=5710,SourceName="Jammal'an the Prophet",SourceType="Kill",DropChance="27.0",Zone="The Temple of Atal'Hakkar"}}
+items[12415] = {id=12415,name="Radiant Breastplate",source={ID=16648,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14664] = {id=14664,name="Keeper's Armor",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[14844] = {id=14844,name="Sunscale Chestguard",source={ID=8408,SourceName="Warlord Krellian",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
+items[14277] = {id=14277,name="Gaea's Tunic",source={ID=6187,SourceName="Timbermaw Den Watcher",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
+items[15170] = {id=15170,name="Potent Armor",source={ID=8196,SourceName="Occulus",SourceType="Kill",DropChance="0.4",Zone="Tanaris"}}
+items[186028] = {id=186028,name="Communal Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12542] = {id=12542,name="Funeral Pyre Vestment",source={ID=9681,SourceName="Jaz",SourceType="Kill",DropChance="0.2",Zone="Blackrock Depths"}}
+items[13869] = {id=13869,name="Frostweave Tunic",source={ID=18403,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15381] = {id=15381,name="Rageclaw Chestguard",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[7517] = {id=7517,name="Gossamer Tunic",source={ID=8303,SourceName="Grunter",SourceType="Kill",DropChance="5.2",Zone="Blasted Lands"}}
+items[14427] = {id=14427,name="Windchaser Wraps",source={ID=14339,SourceName="Death Howl",SourceType="Kill",DropChance="1.6",Zone="Felwood"}}
+items[14655] = {id=14655,name="Scorpashi Breastplate",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
+items[10827] = {id=10827,name="Surveyor's Tunic",source={ID=3161,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[14835] = {id=14835,name="Tyrant's Chestpiece",source={ID=7901,SourceName="Treasure Hunting Swashbuckler",SourceType="Kill",DropChance="0.2",Zone="Tanaris"}}
+items[14249] = {id=14249,name="Lunar Vest",source={ID=5276,SourceName="Sprite Dragon",SourceType="Kill",DropChance="0.1",Zone="Feralas"}}
+items[14254] = {id=14254,name="Lunar Raiment",source={ID=6184,SourceName="Timbermaw Pathfinder",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[7113] = {id=7113,name="Mistscape Armor",source={ID=2447,SourceName="Narillasanz",SourceType="Kill",DropChance="0.2",Zone="Alterac Mountains"}}
+items[14237] = {id=14237,name="Darkmist Armor",source={ID=10081,SourceName="Dustwraith",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
+items[15376] = {id=15376,name="Wolf Rider's Padded Armor",source={ID=7796,SourceName="Nekrum Gutchewer",SourceType="Kill",DropChance="0.4",Zone="Zul'Farrak"}}
+items[34229] = {id=34229,name="Garments of Serene Shores",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="36.2",Zone="Sunwell Plateau"}}
+items[35026] = {id=35026,name="Brutal Gladiator's Kodohide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30976] = {id=30976,name="Onslaught Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31041] = {id=31041,name="Thunderheart Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33722] = {id=33722,name="Vengeful Gladiator's Ornamented Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33749] = {id=33749,name="Vengeful Gladiator's Scaled Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34921] = {id=34921,name="Ecclesiastical Cuirass",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34939] = {id=34939,name="Chestplate of Stoicism",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31991] = {id=31991,name="Merciless Gladiator's Kodohide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31992] = {id=31992,name="Merciless Gladiator's Lamellar Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32004] = {id=32004,name="Merciless Gladiator's Linked Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32029] = {id=32029,name="Merciless Gladiator's Ringmail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27824] = {id=27824,name="Robe of the Great Dark Beyond",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="14.2",Zone="Mana-Tombs"}}
+items[30773] = {id=30773,name="Inferno Forged Hauberk",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[24784] = {id=24784,name="Murkblood Chestpiece",source={ID=20988,SourceName="Sunseeker Engineer",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
+items[30518] = {id=30518,name="Warpthread Vest",source={ID=10406,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31156] = {id=31156,name="Drakescale Hauberk",source={ID=18692,SourceName="Hemathion",SourceType="Kill",DropChance="37.9",Zone="Unknown"}}
+items[31286] = {id=31286,name="Breastplate of Rapid Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24984] = {id=24984,name="Boulderfist Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25822] = {id=25822,name="Watcher's Tunic",source={ID=10011,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[24968] = {id=24968,name="Talonguard Armor",source={ID=17128,SourceName="Windroc",SourceType="Kill",DropChance="1.5",Zone="Nagrand"}}
+items[24727] = {id=24727,name="Dementia Vest",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="2.9",Zone="Hellfire Ramparts"}}
+items[24703] = {id=24703,name="Haal'eshi Jerkin",source={ID=19424,SourceName="Bleeding Hollow Tormentor",SourceType="Kill",DropChance="2.0",Zone="Hellfire Peninsula"}}
+items[31172] = {id=31172,name="Demon-Cured Tunic",source={ID=18677,SourceName="Mekthorg the Wild",SourceType="Kill",DropChance="41.0",Zone="Unknown"}}
+items[25559] = {id=25559,name="Lo'ap's Tunic of Muck Diving",source={ID=9815,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[21814] = {id=21814,name="Breastplate of Annihilation",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="22.7",Zone="Ahn'Qiraj"}}
+items[25392] = {id=25392,name="Deteriorating Plate Chestpiece",source={ID=18632,SourceName="Cabal Executioner",SourceType="Kill",DropChance="25.0",Zone="Shadow Labyrinth"}}
+items[22756] = {id=22756,name="Sylvan Vest",source={ID=28480,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29596] = {id=29596,name="Knight-Captain's Mail Hauberk",source={ID=12785,SourceName="Sergeant Major Clate",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[14328] = {id=14328,name="Eternal Chestguard",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="6.9",Zone="Duskwood"}}
+items[10157] = {id=10157,name="Mercurial Breastplate",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="3.6",Zone="Silithus"}}
+items[14326] = {id=14326,name="Resplendent Robes",source={ID=14471,SourceName="Setis",SourceType="Kill",DropChance="1.1",Zone="Silithus"}}
+items[16421] = {id=16421,name="Knight-Captain's Dragonhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16513] = {id=16513,name="Legionnaire's Plate Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16706] = {id=16706,name="Wildheart Vest",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="11.8",Zone="Blackrock Spire"}}
+items[14931] = {id=14931,name="Heroic Armor",source={ID=5314,SourceName="Phantim",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
+items[15669] = {id=15669,name="Magnificent Breastplate",source={ID=5312,SourceName="Lethlas",SourceType="Kill",DropChance="1.4",Zone="Feralas"}}
+items[20478] = {id=20478,name="Sandstalker Breastplate",source={ID=24851,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15660] = {id=15660,name="Impenetrable Breastplate",source={ID=12497,SourceName="Dreamroarer",SourceType="Kill",DropChance="2.1",Zone="Feralas"}}
+items[18450] = {id=18450,name="Robe of Combustion",source={ID=14321,SourceName="Guard Fengus",SourceType="Kill",DropChance="12.5",Zone="Dire Maul"}}
+items[15786] = {id=15786,name="Fernpulse Jerkin",source={ID=5121,SourceName="",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
+items[10181] = {id=10181,name="Mystical Armor",source={ID=15754,SourceName="Greater Anubisath Warbringer",SourceType="Kill",DropChance="4.4",Zone="Tanaris"}}
+items[14924] = {id=14924,name="Lofty Breastplate",source={ID=7137,SourceName="Immolatus",SourceType="Kill",DropChance="0.3",Zone="Felwood"}}
+items[8245] = {id=8245,name="Imperial Red Tunic",source={ID=7728,SourceName="Kirith the Damned",SourceType="Kill",DropChance="0.2",Zone="Blasted Lands"}}
+items[14284] = {id=14284,name="Opulent Robes",source={ID=14303,SourceName="Petrified Guardian",SourceType="Kill",DropChance="0.1",Zone="Dire Maul"}}
+items[15640] = {id=15640,name="Ironhide Breastplate",source={ID=7137,SourceName="Immolatus",SourceType="Kill",DropChance="0.3",Zone="Felwood"}}
+items[10057] = {id=10057,name="Duskwoven Tunic",source={ID=10817,SourceName="Duggan Wildhammer",SourceType="Kill",DropChance="4.5",Zone="Eastern Plaguelands"}}
+items[10240] = {id=10240,name="Heavy Lamellar Chestpiece",source={ID=10197,SourceName="Mezzir the Howler",SourceType="Kill",DropChance="3.5",Zone="Winterspring"}}
+items[14141] = {id=14141,name="Ghostweave Vest",source={ID=18416,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9946] = {id=9946,name="Abjurer's Tunic",source={ID=9681,SourceName="Jaz",SourceType="Kill",DropChance="0.1",Zone="Blackrock Depths"}}
+items[9950] = {id=9950,name="Chieftain's Breastplate",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
+items[10077] = {id=10077,name="Lord's Breastplate",source={ID=14345,SourceName="The Ongar",SourceType="Kill",DropChance="3.5",Zone="Felwood"}}
+items[15076] = {id=15076,name="Heavy Scorpid Vest",source={ID=19051,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10203] = {id=10203,name="Overlord's Chestplate",source={ID=8303,SourceName="Grunter",SourceType="Kill",DropChance="5.2",Zone="Blasted Lands"}}
+items[14042] = {id=14042,name="Cindercloth Vest",source={ID=18408,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14275] = {id=14275,name="Gaea's Raiment",source={ID=6187,SourceName="Timbermaw Den Watcher",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
+items[15631] = {id=15631,name="Formidable Chestpiece",source={ID=6502,SourceName="Plated Stegodon",SourceType="Kill",DropChance="0.2",Zone="Un'Goro Crater"}}
+items[8119] = {id=8119,name="Heraldic Breastplate",source={ID=8282,SourceName="Highlord Mastrogonde",SourceType="Kill",DropChance="0.7",Zone="Searing Gorge"}}
+items[8274] = {id=8274,name="Valorous Chestguard",source={ID=5280,SourceName="Nightmare Wyrmkin",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
+items[14948] = {id=14948,name="Bloodforged Chestpiece",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[2423] = {id=2423,name="Brigandine Vest",source={ID=980,SourceName="Grimnal",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
+items[2470] = {id=2470,name="Reinforced Leather Vest",source={ID=984,SourceName="Thralosh",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
+items[7518] = {id=7518,name="Gossamer Robe",source={ID=6002,SourceName="Nethergarde Riftwatcher",SourceType="Kill",DropChance="4.7",Zone="Blasted Lands"}}
+items[7935] = {id=7935,name="Ornate Mithril Breastplate",source={ID=9972,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9905] = {id=9905,name="Royal Blouse",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="3.7",Zone="Tanaris"}}
+items[4082] = {id=4082,name="Blackforge Breastplate",source={ID=5224,SourceName="Murk Slitherer",SourceType="Kill",DropChance="0.2",Zone="Swamp of Sorrows"}}
+items[17777] = {id=17777,name="Relentless Chain",source={ID=7028,SourceName="",SourceType="Quest",DropChance="0",Zone="Maraudon"}}
+items[14244] = {id=14244,name="Darkmist Wraps",source={ID=10081,SourceName="Dustwraith",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
+items[7468] = {id=7468,name="Regal Robe",source={ID=5345,SourceName="Diamond Head",SourceType="Kill",DropChance="7.1",Zone="Feralas"}}
+items[9928] = {id=9928,name="Brigade Breastplate",source={ID=8199,SourceName="Warleader Krazzilak",SourceType="Kill",DropChance="4.1",Zone="Tanaris"}}
+items[8157] = {id=8157,name="Jouster's Chestplate",source={ID=4849,SourceName="Shadowforge Archaeologist",SourceType="Kill",DropChance="0.2",Zone="Uldaman"}}
+items[35012] = {id=35012,name="Brutal Gladiator's Felweave Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35057] = {id=35057,name="Brutal Gladiator's Mooncloth Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34930] = {id=34930,name="Wave of Life Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34942] = {id=34942,name="Breastplate of Ire",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31972] = {id=31972,name="Merciless Gladiator's Dragonhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32060] = {id=32060,name="Merciless Gladiator's Wyrmhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30118] = {id=30118,name="Destroyer Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24792] = {id=24792,name="Expedition Tunic",source={ID=17800,SourceName="Coilfang Myrmidon",SourceType="Kill",DropChance="25.0",Zone="The Steamvault"}}
+items[35375] = {id=35375,name="Wyrmhide Robe",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[35469] = {id=35469,name="Dragonhide Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30959] = {id=30959,name="Torn-heart Family Tunic",source={ID=10541,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[25000] = {id=25000,name="Bloodfist Breastplate",source={ID=18796,SourceName="Fel Overseer",SourceType="Kill",DropChance="20.0",Zone="Shadow Labyrinth"}}
+items[29789] = {id=29789,name="Andrethan's Masterwork",source={ID=10332,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31157] = {id=31157,name="Drakehide Tunic",source={ID=18692,SourceName="Hemathion",SourceType="Kill",DropChance="34.2",Zone="Unknown"}}
+items[24864] = {id=24864,name="Blood Knight Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29339] = {id=29339,name="Auchenai Tracker's Hauberk",source={ID=10164,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchenai Crypts"}}
+items[29973] = {id=29973,name="Primalstorm Breastplate",source={ID=36077,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30076] = {id=30076,name="Stormforged Hauberk",source={ID=36130,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24832] = {id=24832,name="Nexus-Strider Breastplate",source={ID=17264,SourceName="Bonechewer Ravener",SourceType="Kill",DropChance="2.7",Zone="Hellfire Ramparts"}}
+items[24944] = {id=24944,name="Bloodscale Breastplate",source={ID=17958,SourceName="Coilfang Defender",SourceType="Kill",DropChance="4.0",Zone="The Slave Pens"}}
+items[24808] = {id=24808,name="Unyielding Chain Vest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16966] = {id=16966,name="Breastplate of Wrath",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="34.0",Zone="Blackwing Lair"}}
+items[25357] = {id=25357,name="Decaying Leather Armor",source={ID=17670,SourceName="Shattered Hand Houndmaster",SourceType="Kill",DropChance="39.0",Zone="The Shattered Halls"}}
+items[3959] = {id=3959,name="Mesh Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25349] = {id=25349,name="Moldy Leather Armor",source={ID=17517,SourceName="Hellfire Sentry",SourceType="Kill",DropChance="14.2",Zone="Hellfire Ramparts"}}
+items[20032] = {id=20032,name="Flowing Ritual Robes",source={ID=14510,SourceName="High Priestess Mar'li",SourceType="Kill",DropChance="9.6",Zone="Zul'Gurub"}}
+items[3984] = {id=3984,name="Strapped Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23088] = {id=23088,name="Chestguard of Undead Slaying",source={ID=16143,SourceName="Shadow of Doom",SourceType="Kill",DropChance="7.0",Zone="Blasted Lands"}}
+items[12615] = {id=12615,name="Savage Mail Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18503] = {id=18503,name="Kromcrush's Chestplate",source={ID=14325,SourceName="Captain Kromcrush",SourceType="Kill",DropChance="22.8",Zone="Dire Maul"}}
+items[8290] = {id=8290,name="Arcane Robe",source={ID=12496,SourceName="Dreamtracker",SourceType="Kill",DropChance="1.3",Zone="The Hinterlands"}}
+items[10164] = {id=10164,name="Templar Chestplate",source={ID=10823,SourceName="Zul'Brin Warpbranch",SourceType="Kill",DropChance="4.2",Zone="Eastern Plaguelands"}}
+items[13067] = {id=13067,name="Hydralick Armor",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[12049] = {id=12049,name="Splintsteel Armor",source={ID=4136,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
+items[2435] = {id=2435,name="Embroidered Armor",source={ID=984,SourceName="Thralosh",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
+items[34395] = {id=34395,name="Noble Judicator's Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35036] = {id=35036,name="Brutal Gladiator's Leather Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35066] = {id=35066,name="Brutal Gladiator's Plate Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31016] = {id=31016,name="Skyshatter Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33706] = {id=33706,name="Vengeful Gladiator's Linked Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33771] = {id=33771,name="Vengeful Gladiator's Wyrmhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34903] = {id=34903,name="Embrace of Starlight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32019] = {id=32019,name="Merciless Gladiator's Mooncloth Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33473] = {id=33473,name="Chestguard of the Warlord",source={ID=23863,SourceName="Zul'jin",SourceType="Kill",DropChance="18.5",Zone="Unknown"}}
+items[24527] = {id=24527,name="130 Epic Warrior Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30065] = {id=30065,name="Glowing Breastplate of Truth",source={ID=21217,SourceName="The Lurker Below",SourceType="Kill",DropChance="26.1",Zone="Serpentshrine Cavern"}}
+items[33317] = {id=33317,name="Robe of Departed Spirits",source={ID=23577,SourceName="Halazzi",SourceType="Kill",DropChance="12.3",Zone="Unknown"}}
+items[24904] = {id=24904,name="Talhide Chestpiece",source={ID=17728,SourceName="Murkblood Tribesman",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
+items[25016] = {id=25016,name="Shattered Hand Breastplate",source={ID=16807,SourceName="Grand Warlock Nethekurse",SourceType="Kill",DropChance="20.0",Zone="The Shattered Halls"}}
+items[27818] = {id=27818,name="Starry Robes of the Crescent",source={ID=18341,SourceName="Pandemonius",SourceType="Kill",DropChance="12.5",Zone="Mana-Tombs"}}
+items[24671] = {id=24671,name="Eldr'naan Jerkin",source={ID=18794,SourceName="Cabal Ritualist",SourceType="Kill",DropChance="4.1",Zone="Shadow Labyrinth"}}
+items[24655] = {id=24655,name="Consortium Robe",source={ID=16948,SourceName="Gan'arg Engineer",SourceType="Kill",DropChance="14.2",Zone="Netherstorm"}}
+items[24767] = {id=24767,name="Clefthoof Hidemantle",source={ID=20634,SourceName="Scythetooth Raptor",SourceType="Kill",DropChance="5.0",Zone="Netherstorm"}}
+items[24880] = {id=24880,name="Der'izu Chestpiece",source={ID=18635,SourceName="Cabal Deathsworn",SourceType="Kill",DropChance="10.0",Zone="Shadow Labyrinth"}}
+items[29967] = {id=29967,name="Nether Vest",source={ID=10221,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[24759] = {id=24759,name="Umbrafen Tunic",source={ID=20135,SourceName="Sunfury Arch Mage",SourceType="Kill",DropChance="33.3",Zone="Netherstorm"}}
+items[24872] = {id=24872,name="Ironspine Chain Vest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25569] = {id=25569,name="Murkblood Avenger's Chestplate",source={ID=9863,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25676] = {id=25676,name="Wild Draenish Vest",source={ID=32481,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25556] = {id=25556,name="Oversized Ogre Hauberk",source={ID=9810,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[24631] = {id=24631,name="Feralfen Jerkin",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24623] = {id=24623,name="Slavehandler Jerkin",source={ID=18455,SourceName="Shalassi Oracle",SourceType="Kill",DropChance="6.6",Zone="Terokkar Forest"}}
+items[24848] = {id=24848,name="Fenclaw Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31152] = {id=31152,name="Chestguard of Illumination",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24840] = {id=24840,name="Wrathfin Armor",source={ID=16967,SourceName="Haal'eshi Talonguard",SourceType="Kill",DropChance="2.0",Zone="Hellfire Peninsula"}}
+items[24952] = {id=24952,name="Bogslayer Breastplate",source={ID=18309,SourceName="Ethereal Scavenger",SourceType="Kill",DropChance="8.3",Zone="Mana-Tombs"}}
+items[24607] = {id=24607,name="Laughing Skull Tunic",source={ID=17397,SourceName="Shadowmoon Adept",SourceType="Kill",DropChance="1.8",Zone="The Blood Furnace"}}
+items[24599] = {id=24599,name="Starfire Vest",source={ID=17400,SourceName="Felguard Annihilator",SourceType="Kill",DropChance="3.4",Zone="The Blood Furnace"}}
+items[24711] = {id=24711,name="Vengeance Chestpiece",source={ID=17259,SourceName="Bonechewer Hungerer",SourceType="Kill",DropChance="0.7",Zone="Hellfire Ramparts"}}
+items[24824] = {id=24824,name="Netherstalker Armor",source={ID=17478,SourceName="Bleeding Hollow Scryer",SourceType="Kill",DropChance="13.8",Zone="Hellfire Ramparts"}}
+items[24816] = {id=24816,name="Felstone Chain Vest",source={ID=17478,SourceName="Bleeding Hollow Scryer",SourceType="Kill",DropChance="13.8",Zone="Hellfire Ramparts"}}
+items[24928] = {id=24928,name="Ango'rosh Breastplate",source={ID=19424,SourceName="Bleeding Hollow Tormentor",SourceType="Kill",DropChance="2.0",Zone="Hellfire Peninsula"}}
+items[24583] = {id=24583,name="Outlander's Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24695] = {id=24695,name="Bonechewer Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24920] = {id=24920,name="Grimscale Armor",source={ID=16847,SourceName="Debilitated Mag'har Grunt",SourceType="Kill",DropChance="2.0",Zone="Hellfire Peninsula"}}
+items[25348] = {id=25348,name="Dilapidated Cloth Vest",source={ID=16481,SourceName="Ghastly Haunt",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
+items[30760] = {id=30760,name="Formal Draenic Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12970] = {id=12970,name="General's Ceremonial Plate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14318] = {id=14318,name="Resplendent Tunic",source={ID=12498,SourceName="Dreamstalker",SourceType="Kill",DropChance="1.5",Zone="Ashenvale"}}
+items[16690] = {id=16690,name="Devout Robe",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="10.8",Zone="Blackrock Spire"}}
+items[21054] = {id=21054,name="63 Blue Fire Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14138] = {id=14138,name="Mooncloth Vest",source={ID=18447,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11820] = {id=11820,name="Royal Decorated Armor",source={ID=9033,SourceName="General Angerforge",SourceType="Kill",DropChance="23.8",Zone="Blackrock Depths"}}
+items[11926] = {id=11926,name="Deathdealer Breastplate",source={ID=9039,SourceName="Doom'rel",SourceType="Kill",DropChance="26.7",Zone="Blackrock Depths"}}
+items[19127] = {id=19127,name="Charred Leather Tunic",source={ID=7701,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[19128] = {id=19128,name="Seared Mail Vest",source={ID=7701,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[35115] = {id=35115,name="Brutal Gladiator's Wyrmhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33721] = {id=33721,name="Vengeful Gladiator's Mooncloth Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33738] = {id=33738,name="Vengeful Gladiator's Ringmail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30896] = {id=30896,name="Glory of the Defender",source={ID=17842,SourceName="Azgalor",SourceType="Kill",DropChance="16.7",Zone="Hyjal Summit"}}
+items[30129] = {id=30129,name="Crystalforge Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33469] = {id=33469,name="Hauberk of the Empire's Champion",source={ID=23863,SourceName="Zul'jin",SourceType="Kill",DropChance="14.1",Zone="Unknown"}}
+items[33522] = {id=33522,name="Chestguard of the Stoic Guardian",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33566] = {id=33566,name="Blessed Elunite Coverings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24800] = {id=24800,name="Dragonhawk Tunic",source={ID=22281,SourceName="Galvanoth",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
+items[31562] = {id=31562,name="Skystalker's Tunic",source={ID=22930,SourceName="Yor",SourceType="Kill",DropChance="16.8",Zone="Mana-Tombs"}}
+items[31570] = {id=31570,name="Mistshroud Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24896] = {id=24896,name="Sundered Chestpiece",source={ID=20865,SourceName="Protean Horror",SourceType="Kill",DropChance="12.5",Zone="The Arcatraz"}}
+items[25008] = {id=25008,name="Conqueror's Breastplate",source={ID=16406,SourceName="Phantom Attendant",SourceType="Kill",DropChance="7.8",Zone="Karazhan"}}
+items[30379] = {id=30379,name="Vindicator's Light Vest",source={ID=10381,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30945] = {id=30945,name="Grom'tor's Friend's Cousin's Tunic",source={ID=10523,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[24663] = {id=24663,name="Shadow Council Tunic",source={ID=17695,SourceName="Shattered Hand Assassin",SourceType="Kill",DropChance="25.0",Zone="The Shattered Halls"}}
+items[24888] = {id=24888,name="Skettis Chestpiece",source={ID=17259,SourceName="Bonechewer Hungerer",SourceType="Kill",DropChance="25.0",Zone="Hellfire Ramparts"}}
+items[24639] = {id=24639,name="Mistyreed Tunic",source={ID=21405,SourceName="Ethereal Arcanist",SourceType="Kill",DropChance="14.2",Zone="Terokkar Forest"}}
+items[24751] = {id=24751,name="Daggerfen Battlevest",source={ID=18093,SourceName="Tarren Mill Protector",SourceType="Kill",DropChance="24.0",Zone="Unknown"}}
+items[24743] = {id=24743,name="Ranger Jerkin",source={ID=18313,SourceName="Ethereal Sorcerer",SourceType="Kill",DropChance="2.8",Zone="Mana-Tombs"}}
+items[24856] = {id=24856,name="Marshcreeper Fen-Vest",source={ID=18331,SourceName="Ethereal Darkcaster",SourceType="Kill",DropChance="6.6",Zone="Mana-Tombs"}}
+items[24735] = {id=24735,name="Sunroc Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24960] = {id=24960,name="Khan'aish Breastplate",source={ID=18317,SourceName="Ethereal Priest",SourceType="Kill",DropChance="4.7",Zone="Mana-Tombs"}}
+items[30781] = {id=30781,name="Mag'hari Chain Vest",source={ID=18010,SourceName="Maktu",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[24936] = {id=24936,name="Darkcrest Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25980] = {id=25980,name="Aerodynamic Scaled Vest",source={ID=10161,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[16905] = {id=16905,name="Bloodfang Chestpiece",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="33.1",Zone="Blackwing Lair"}}
+items[25373] = {id=25373,name="Corroded Mail Armor",source={ID=18848,SourceName="Malicious Instructor",SourceType="Kill",DropChance="20.0",Zone="Shadow Labyrinth"}}
+items[21838] = {id=21838,name="Garb of Royal Ascension",source={ID=15229,SourceName="Vekniss Soldier",SourceType="Kill",DropChance="0.3",Zone="Ahn'Qiraj"}}
+items[21067] = {id=21067,name="66 Epic Fire Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21095] = {id=21095,name="66 Epic Shadow Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25340] = {id=25340,name="Loosely Threaded Vest",source={ID=20295,SourceName="Bogstrok Crusher",SourceType="Kill",DropChance="20.0",Zone="Zangarmarsh"}}
+items[25365] = {id=25365,name="Eroded Mail Armor",source={ID=17957,SourceName="Coilfang Champion",SourceType="Kill",DropChance="5.0",Zone="The Slave Pens"}}
+items[14680] = {id=14680,name="Indomitable Vest",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.4",Zone="Unknown"}}
+items[23085] = {id=23085,name="Robe of Undead Cleansing",source={ID=16143,SourceName="Shadow of Doom",SourceType="Kill",DropChance="7.1",Zone="Blasted Lands"}}
+items[14340] = {id=14340,name="Freezing Lich Robes",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="14.4",Zone="Scholomance"}}
+items[15090] = {id=15090,name="Runic Leather Armor",source={ID=19102,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11678] = {id=11678,name="Carapace of Anub'shiah",source={ID=9031,SourceName="Anub'shiah",SourceType="Kill",DropChance="19.9",Zone="Blackrock Depths"}}
+items[11747] = {id=11747,name="Flamestrider Robes",source={ID=9024,SourceName="Pyromancer Loregrain",SourceType="Kill",DropChance="24.2",Zone="Blackrock Depths"}}
+items[2618] = {id=2618,name="Silver Dress Robes",source={ID=1309,SourceName="Wynne Larson",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[21311] = {id=21311,name="Earth Warder's Vest",source={ID=8460,SourceName="",SourceType="Quest",DropChance="0",Zone="Felwood"}}
+items[17775] = {id=17775,name="Acumen Robes",source={ID=7028,SourceName="",SourceType="Quest",DropChance="0",Zone="Maraudon"}}
+items[10020] = {id=10020,name="Stormcloth Vest",source={ID=12068,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10042] = {id=10042,name="Cindercloth Robe",source={ID=12069,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35099] = {id=35099,name="Brutal Gladiator's Silk Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33680] = {id=33680,name="Vengeful Gladiator's Dreadweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33760] = {id=33760,name="Vengeful Gladiator's Silk Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34917] = {id=34917,name="Shroud of the Lore`nial",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34933] = {id=34933,name="Hauberk of Whirling Fury",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32038] = {id=32038,name="Merciless Gladiator's Satin Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32050] = {id=32050,name="Merciless Gladiator's Silk Raiment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31158] = {id=31158,name="Drakeweave Raiment",source={ID=18692,SourceName="Hemathion",SourceType="Kill",DropChance="36.5",Zone="Unknown"}}
+items[29974] = {id=29974,name="Living Crystal Breastplate",source={ID=36078,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10384] = {id=10384,name="Hyperion Armor",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="4.1",Zone="Silithus"}}
+items[16430] = {id=16430,name="Knight-Captain's Plate Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14626] = {id=14626,name="Necropile Robe",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="8.1",Zone="Scholomance"}}
+items[14966] = {id=14966,name="Glorious Breastplate",source={ID=12497,SourceName="Dreamroarer",SourceType="Kill",DropChance="1.0",Zone="Feralas"}}
+items[13535] = {id=13535,name="Coldtouch Phantom Wraps",source={ID=10436,SourceName="Baroness Anastari",SourceType="Kill",DropChance="10.8",Zone="Stratholme"}}
+items[35002] = {id=35002,name="Brutal Gladiator's Dragonhide Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31043] = {id=31043,name="Thunderheart Vest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33704] = {id=33704,name="Vengeful Gladiator's Leather Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30887] = {id=30887,name="Golden Links of Restoration",source={ID=17808,SourceName="Anetheron",SourceType="Kill",DropChance="19.7",Zone="Hyjal Summit"}}
+items[30486] = {id=30486,name="Merciless Gladiator's Plate Chestpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30222] = {id=30222,name="Nordrassil Chestplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28252] = {id=28252,name="Bloodfyre Robes of Annihilation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30769] = {id=30769,name="Inferno Tempered Chestguard",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35391] = {id=35391,name="Seer's Ringmail Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24775] = {id=24775,name="Boneshredder Jerkin",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31282] = {id=31282,name="Shroud of Spiritual Purity",source={ID=184937,SourceName="Solid Adamantite Chest",SourceType="Container",DropChance="14.2",Zone="Auchenai Crypts"}}
+items[31765] = {id=31765,name="Redeemer's Plate",source={ID=10898,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[19405] = {id=19405,name="Malfurion's Blessed Bulwark",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="29.6",Zone="Blackwing Lair"}}
+items[20635] = {id=20635,name="Jade Inlaid Vestments",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="13.3",Zone="Duskwood"}}
+items[16425] = {id=16425,name="Knight-Captain's Chain Hauberk",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16433] = {id=16433,name="Knight-Captain's Lamellar Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21082] = {id=21082,name="63 Blue Shadow Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23087] = {id=23087,name="Breastplate of Undead Slaying",source={ID=16143,SourceName="Shadow of Doom",SourceType="Kill",DropChance="7.1",Zone="Blasted Lands"}}
+items[12405] = {id=12405,name="Thorium Armor",source={ID=16642,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10086] = {id=10086,name="Gothic Plate Armor",source={ID=14344,SourceName="Mongress",SourceType="Kill",DropChance="7.2",Zone="Felwood"}}
+items[34394] = {id=34394,name="Breastplate of Agony's Aversion",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35077] = {id=35077,name="Brutal Gladiator's Ringmail Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24912] = {id=24912,name="Netherstorm Chestpiece",source={ID=22275,SourceName="Apexis Guardian",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
+items[34605] = {id=34605,name="Breastplate of Fierce Survival",source={ID=24744,SourceName="Vexallus",SourceType="Kill",DropChance="7.4",Zone="Magisters' Terrace"}}
+items[23509] = {id=23509,name="Enchanted Adamantite Breastplate",source={ID=29610,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31174] = {id=31174,name="Demonweave Raiment",source={ID=18677,SourceName="Mekthorg the Wild",SourceType="Kill",DropChance="37.0",Zone="Unknown"}}
+items[16833] = {id=16833,name="Cenarion Vestments",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="32.0",Zone="Molten Core"}}
+items[16417] = {id=16417,name="Knight-Captain's Leather Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22301] = {id=22301,name="Ironweave Robe",source={ID=181083,SourceName="Sothos and Jarien's Heirlooms",SourceType="Container",DropChance="8.9",Zone="Stratholme"}}
+items[8283] = {id=8283,name="Arcane Armor",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="0.7",Zone="Stratholme"}}
+items[13394] = {id=13394,name="Skul's Cold Embrace",source={ID=10393,SourceName="Skul",SourceType="Kill",DropChance="30.6",Zone="Stratholme"}}
+items[15390] = {id=15390,name="Jadefire Chestguard",source={ID=7104,SourceName="Dessecus",SourceType="Kill",DropChance="0.3",Zone="Felwood"}}
+items[10128] = {id=10128,name="Revenant Chestplate",source={ID=9602,SourceName="Hahk'Zor",SourceType="Kill",DropChance="5.6",Zone="Burning Steppes"}}
+items[13857] = {id=13857,name="Runecloth Tunic",source={ID=18407,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13868] = {id=13868,name="Frostweave Robe",source={ID=18404,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8094] = {id=8094,name="Platemail Armor",source={ID=980,SourceName="Grimnal",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
+items[9473] = {id=9473,name="Jinxed Hoodoo Skin",source={ID=7275,SourceName="Shadowpriest Sezz'ziz",SourceType="Kill",DropChance="21.9",Zone="Zul'Farrak"}}
+items[30990] = {id=30990,name="Lightbringer Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30216] = {id=30216,name="Nordrassil Chestguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30776] = {id=30776,name="Inferno Hardened Chestguard",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[24976] = {id=24976,name="Reaver Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21527] = {id=21527,name="Darkwater Robes",source={ID=8729,SourceName="",SourceType="Quest",DropChance="0",Zone="Azshara"}}
+items[22762] = {id=22762,name="Ironvine Breastplate",source={ID=28461,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16798] = {id=16798,name="Arcanist Robes",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="35.5",Zone="Molten Core"}}
+items[16815] = {id=16815,name="Robes of Prophecy",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="34.6",Zone="Molten Core"}}
+items[10378] = {id=10378,name="Commander's Armor",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="3.6",Zone="Silithus"}}
+items[16505] = {id=16505,name="Legionnaire's Leather Hauberk",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17572] = {id=17572,name="Legionnaire's Dreadweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13388] = {id=13388,name="The Postmaster's Tunic",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="18.4",Zone="Stratholme"}}
+items[14100] = {id=14100,name="Brightcloth Robe",source={ID=18414,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8367] = {id=8367,name="Dragonscale Breastplate",source={ID=10650,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35042] = {id=35042,name="Brutal Gladiator's Linked Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34614] = {id=34614,name="Tunic of the Ranger Lord",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="5.8",Zone="Magisters' Terrace"}}
+items[24679] = {id=24679,name="Archmage Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28186] = {id=28186,name="Laughing Skull Battle-Harness",source={ID=17880,SourceName="Temporus",SourceType="Kill",DropChance="18.0",Zone="The Black Morass"}}
+items[31155] = {id=31155,name="Drakescale Breastplate",source={ID=18692,SourceName="Hemathion",SourceType="Kill",DropChance="35.0",Zone="Unknown"}}
+items[25660] = {id=25660,name="Scaled Draenic Vest",source={ID=32468,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16950] = {id=16950,name="Breastplate of Ten Storms",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="12.9",Zone="Blackwing Lair"}}
+items[16853] = {id=16853,name="Lawbringer Chestguard",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="20.7",Zone="Molten Core"}}
+items[25384] = {id=25384,name="Tarnished Plate Chestpiece",source={ID=22044,SourceName="Cavern Crawler",SourceType="Kill",DropChance="14.2",Zone="Blade's Edge Mountains"}}
+items[14862] = {id=14862,name="Warleader's Breastplate",source={ID=11447,SourceName="Mushgog",SourceType="Kill",DropChance="1.5",Zone="Unknown"}}
+items[10368] = {id=10368,name="Imbued Plate Armor",source={ID=12496,SourceName="Dreamtracker",SourceType="Kill",DropChance="10.5",Zone="The Hinterlands"}}
+items[14536] = {id=14536,name="Bonebrace Hauberk",source={ID=10470,SourceName="Scholomance Neophyte",SourceType="Kill",DropChance="0",Zone="Scholomance"}}
+items[14670] = {id=14670,name="Pridelord Armor",source={ID=14398,SourceName="Eldreth Darter",SourceType="Kill",DropChance="0.4",Zone="Dire Maul"}}
+items[9286] = {id=9286,name="Field Plate Armor",source={ID=8210,SourceName="Razortalon",SourceType="Kill",DropChance="4.8",Zone="The Hinterlands"}}
+items[24687] = {id=24687,name="Elementalist Tunic",source={ID=16481,SourceName="Ghastly Haunt",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
+items[34796] = {id=34796,name="Robes of Summer Flame",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="16.0",Zone="Magisters' Terrace"}}
+items[31295] = {id=31295,name="Chestguard of the Dark Stalker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24591] = {id=24591,name="Fireheart Chestpiece",source={ID=19946,SourceName="Darkcrest Slaver",SourceType="Kill",DropChance="1.8",Zone="Zangarmarsh"}}
+items[16845] = {id=16845,name="Giantstalker's Breastplate",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="34.3",Zone="Molten Core"}}
+items[17568] = {id=17568,name="Knight-Captain's Dreadweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10275] = {id=10275,name="Emerald Breastplate",source={ID=1841,SourceName="Scarlet Executioner",SourceType="Kill",DropChance="5.1",Zone="Western Plaguelands"}}
+items[34945] = {id=34945,name="Shattrath Protectorate's Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25657] = {id=25657,name="Felscale Breastplate",source={ID=32465,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24647] = {id=24647,name="Astralaan Robe",source={ID=22045,SourceName="Vengeful Husk",SourceType="Kill",DropChance="33.3",Zone="Terokkar Forest"}}
+items[27716] = {id=27716,name="Refuge Armor",source={ID=9788,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[11876] = {id=11876,name="Plainstalker Tunic",source={ID=4292,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[14904] = {id=14904,name="Brutish Breastplate",source={ID=8196,SourceName="Occulus",SourceType="Kill",DropChance="0.4",Zone="Tanaris"}}
+items[15601] = {id=15601,name="Ancient Chestpiece",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
+items[10328] = {id=10328,name="Scarlet Chestpiece",source={ID=4302,SourceName="Scarlet Champion",SourceType="Kill",DropChance="0.2",Zone="Scarlet Monastery"}}
+items[8203] = {id=8203,name="Tough Scorpid Breastplate",source={ID=10525,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6473] = {id=6473,name="Armor of the Fang",source={ID=3670,SourceName="Lord Pythas",SourceType="Kill",DropChance="54.8",Zone="Wailing Caverns"}}
+items[5770] = {id=5770,name="Robes of Arcana",source={ID=6692,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5781] = {id=5781,name="Murloc Scale Breastplate",source={ID=6703,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6900] = {id=6900,name="Enchanted Gold Bloodrobe",source={ID=4786,SourceName="",SourceType="Quest",DropChance="0",Zone="Warlock"}}
+items[6324] = {id=6324,name="Robes of Arugal",source={ID=4275,SourceName="Archmage Arugal",SourceType="Kill",DropChance="35.3",Zone="Shadowfang Keep"}}
+items[7054] = {id=7054,name="Robe of Power",source={ID=8770,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2870] = {id=2870,name="Shining Silver Breastplate",source={ID=2675,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7711] = {id=7711,name="Robe of Doan",source={ID=6487,SourceName="Arcanist Doan",SourceType="Kill",DropChance="46.4",Zone="Scarlet Monastery"}}
+items[10399] = {id=10399,name="Blackened Defias Armor",source={ID=639,SourceName="Edwin VanCleef",SourceType="Kill",DropChance="15.2",Zone="The Deadmines"}}
+items[1486] = {id=1486,name="Tree Bark Jacket",source={ID=4815,SourceName="Murkshallow Snapclaw",SourceType="Kill",DropChance="0",Zone="Blackfathom Deeps"}}
+items[1716] = {id=1716,name="Robe of the Magi",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
+items[14150] = {id=14150,name="Robe of Evocation",source={ID=11518,SourceName="Jergosh the Invoker",SourceType="Kill",DropChance="36.5",Zone="Ragefire Chasm"}}
+items[10004] = {id=10004,name="Shadoweave Robe",source={ID=12055,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4255] = {id=4255,name="Green Leather Armor",source={ID=3772,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6773] = {id=6773,name="Gelkis Marauder Chain",source={ID=1380,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[7759] = {id=7759,name="Archon Chestpiece",source={ID=4289,SourceName="Scarlet Evoker",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
+items[3844] = {id=3844,name="Green Iron Hauberk",source={ID=3508,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38277] = {id=38277,name="Haliscan Jacket",source={ID=50644,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8189] = {id=8189,name="Turtle Scale Breastplate",source={ID=10511,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[1717] = {id=1717,name="Double Link Tunic",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
+items[6465] = {id=6465,name="Robe of the Moccasin",source={ID=3669,SourceName="Lord Cobrahn",SourceType="Kill",DropChance="54.5",Zone="Wailing Caverns"}}
+items[13895] = {id=13895,name="Formal Dangui",source={ID=4184,SourceName="Geenia Sunshadow",SourceType="Purchase",DropChance="100",Zone="Moonglade"}}
+items[10583] = {id=10583,name="Quillward Harness",source={ID=7345,SourceName="Splinterbone Captain",SourceType="Kill",DropChance="0.1",Zone="Razorfen Downs"}}
+items[6627] = {id=6627,name="Mutant Scale Breastplate",source={ID=3654,SourceName="Mutanus the Devourer",SourceType="Kill",DropChance="22.8",Zone="Wailing Caverns"}}
+items[31256] = {id=31256,name="Silvermoon Armor",source={ID=22060,SourceName="Fenissa the Assassin",SourceType="Kill",DropChance="42.8",Zone="Bloodmyst Isle"}}
+items[31264] = {id=31264,name="Silvermoon Robes",source={ID=22060,SourceName="Fenissa the Assassin",SourceType="Kill",DropChance="32.1",Zone="Bloodmyst Isle"}}
+items[31263] = {id=31263,name="Silvermoon Tunic",source={ID=22060,SourceName="Fenissa the Assassin",SourceType="Kill",DropChance="21.4",Zone="Bloodmyst Isle"}}
+items[10036] = {id=10036,name="Tuxedo Jacket",source={ID=12093,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7688] = {id=7688,name="Ironspine's Ribcage",source={ID=6489,SourceName="Ironspine",SourceType="Kill",DropChance="35.3",Zone="Scarlet Monastery"}}
+items[1488] = {id=1488,name="Avenger's Armor",source={ID=4427,SourceName="Ward Guardian",SourceType="Kill",DropChance="0",Zone="Razorfen Kraul"}}
+items[7058] = {id=7058,name="Crimson Silk Vest",source={ID=8791,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4119] = {id=4119,name="Raptor Hunter Tunic",source={ID=197,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[6642] = {id=6642,name="Phantom Armor",source={ID=3872,SourceName="Deathsworn Captain",SourceType="Kill",DropChance="34.0",Zone="Shadowfang Keep"}}
+items[8175] = {id=8175,name="Nightscape Tunic",source={ID=10499,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6226] = {id=6226,name="Bloody Apron",source={ID=3886,SourceName="Razorclaw the Butcher",SourceType="Kill",DropChance="42.6",Zone="Shadowfang Keep"}}
+items[10762] = {id=10762,name="Robes of the Lich",source={ID=7358,SourceName="Amnennar the Coldbringer",SourceType="Kill",DropChance="39.0",Zone="Razorfen Downs"}}
+items[13110] = {id=13110,name="Wolffear Harness",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
+items[5766] = {id=5766,name="Lesser Wizard's Robe",source={ID=6690,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[32869] = {id=32869,name="Illidari Lord's Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4324] = {id=4324,name="Azure Silk Vest",source={ID=3859,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6907] = {id=6907,name="Tortoise Armor",source={ID=4887,SourceName="Ghamoo-ra",SourceType="Kill",DropChance="37.5",Zone="Blackfathom Deeps"}}
+items[9434] = {id=9434,name="Elemental Raiment",source={ID=669,SourceName="Skullsplitter Hunter",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
+items[6263] = {id=6263,name="Blue Overalls",source={ID=7639,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2582] = {id=2582,name="Green Woolen Vest",source={ID=2399,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10053] = {id=10053,name="Simple Black Dress",source={ID=12077,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10764] = {id=10764,name="Deathchill Armor",source={ID=7358,SourceName="Amnennar the Coldbringer",SourceType="Kill",DropChance="28.5",Zone="Razorfen Downs"}}
+items[6396] = {id=6396,name="Emblazoned Chestpiece",source={ID=6230,SourceName="Peacekeeper Security Suit",SourceType="Kill",DropChance="0.2",Zone="Gnomeregan"}}
+items[6682] = {id=6682,name="Death Speaker Robes",source={ID=4428,SourceName="Death Speaker Jargba",SourceType="Kill",DropChance="42.6",Zone="Razorfen Kraul"}}
+items[28172] = {id=28172,name="Mag'hari Scout's Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3416] = {id=3416,name="Martyr's Chain",source={ID=4799,SourceName="Fallenroot Hellcaller",SourceType="Kill",DropChance="0",Zone="Blackfathom Deeps"}}
+items[22985] = {id=22985,name="Suncrown Hauberk",source={ID=16528,SourceName="Provisioner Vredigar",SourceType="Purchase",DropChance="100",Zone="Ghostlands"}}
+items[9998] = {id=9998,name="Black Mageweave Vest",source={ID=12048,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9854] = {id=9854,name="Archer's Jerkin",source={ID=14232,SourceName="Dart",SourceType="Kill",DropChance="4.0",Zone="Dustwallow Marsh"}}
+items[4476] = {id=4476,name="Beastwalker Robe",source={ID=534,SourceName="Nefaru",SourceType="Kill",DropChance="29.0",Zone="Duskwood"}}
+items[12988] = {id=12988,name="Starsight Tunic",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
+items[20575] = {id=20575,name="Black Whelp Tunic",source={ID=24940,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[847] = {id=847,name="Chainmail Armor",source={ID=167,SourceName="Morhan Coppertongue",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
+items[2613] = {id=2613,name="Double-stitched Robes",source={ID=1309,SourceName="Wynne Larson",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[2370] = {id=2370,name="Battered Leather Harness",source={ID=2137,SourceName="Eliza Callen",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[28054] = {id=28054,name="Fleshripper's Bladed Chestplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2800] = {id=2800,name="Black Velvet Robes",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
+items[3330] = {id=3330,name="Dargol's Hauberk",source={ID=1658,SourceName="Captain Dargol",SourceType="Kill",DropChance="2.1",Zone="Tirisfal Glades"}}
+items[9884] = {id=9884,name="Sorcerer Robe",source={ID=8208,SourceName="Murderous Blisterpaw",SourceType="Kill",DropChance="3.7",Zone="Tanaris"}}
+items[7063] = {id=7063,name="Crimson Silk Robe",source={ID=8802,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5739] = {id=5739,name="Barbaric Harness",source={ID=6661,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5108] = {id=5108,name="Dark Iron Leather",source={ID=2577,SourceName="Dark Iron Shadowcaster",SourceType="Kill",DropChance="4.6",Zone="Arathi Highlands"}}
+items[5202] = {id=5202,name="Corsair's Overshirt",source={ID=639,SourceName="Edwin VanCleef",SourceType="Kill",DropChance="23.6",Zone="The Deadmines"}}
+items[1380] = {id=1380,name="Frayed Robe",source={ID=1916,SourceName="Stephen Bhartec",SourceType="Kill",DropChance="8.9",Zone="Tirisfal Glades"}}
+items[21542] = {id=21542,name="Festival Suit",source={ID=26407,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9866] = {id=9866,name="Renegade Chestguard",source={ID=2753,SourceName="Barnabus",SourceType="Kill",DropChance="4.5",Zone="Badlands"}}
+items[2585] = {id=2585,name="Gray Woolen Robe",source={ID=2403,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2398] = {id=2398,name="Light Chain Armor",source={ID=2135,SourceName="Abe Winters",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[1981] = {id=1981,name="Icemail Jerkin",source={ID=672,SourceName="Skullsplitter Spiritchaser",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
+items[3943] = {id=3943,name="Crochet Vest",source={ID=2781,SourceName="Caretaker Weston",SourceType="Kill",DropChance="1.3",Zone="Arathi Highlands"}}
+items[7111] = {id=7111,name="Nightsky Armor",source={ID=2431,SourceName="Jailor Borhuin",SourceType="Kill",DropChance="0.1",Zone="Alterac Mountains"}}
+items[2864] = {id=2864,name="Runed Copper Breastplate",source={ID=2667,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9749] = {id=9749,name="Simple Blouse",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="4.2",Zone="Silverpine Forest"}}
+items[795] = {id=795,name="Knitted Tunic",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[33863] = {id=33863,name="Brewfest Dress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7407] = {id=7407,name="Infiltrator Armor",source={ID=15748,SourceName="Lesser Anubisath Warbringer",SourceType="Kill",DropChance="7.2",Zone="Thousand Needles"}}
+items[7728] = {id=7728,name="Beguiler Robes",source={ID=3974,SourceName="Houndmaster Loksey",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
+items[9819] = {id=9819,name="Durable Tunic",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="9.5",Zone="Thousand Needles"}}
+items[6609] = {id=6609,name="Sage's Cloth",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="8.5",Zone="Alterac Mountains"}}
+items[1297] = {id=1297,name="Robes of the Shadowcaster",source={ID=2553,SourceName="Witherbark Shadowcaster",SourceType="Kill",DropChance="0.8",Zone="Arathi Highlands"}}
+items[9782] = {id=9782,name="Bandit Jerkin",source={ID=5828,SourceName="Humar the Pridelord",SourceType="Kill",DropChance="7.6",Zone="The Barrens"}}
+items[6731] = {id=6731,name="Ironforge Breastplate",source={ID=8367,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6536] = {id=6536,name="Willow Vest",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
+items[1211] = {id=1211,name="Gnoll War Harness",source={ID=423,SourceName="Redridge Mongrel",SourceType="Kill",DropChance="2.1",Zone="Redridge Mountains"}}
+items[22986] = {id=22986,name="Apothecary's Robe",source={ID=12203,SourceName="Landslide",SourceType="Kill",DropChance="2.9",Zone="Maraudon"}}
+items[2961] = {id=2961,name="Burnt Leather Vest",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[17922] = {id=17922,name="Lionfur Armor",source={ID=5807,SourceName="The Rake",SourceType="Kill",DropChance="93.3",Zone="Mulgore"}}
+items[1433] = {id=1433,name="Patchwork Armor",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="3.9",Zone="Eversong Woods"}}
+items[4138] = {id=4138,name="Blackwater Tunic",source={ID=608,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[15578] = {id=15578,name="Sparkleshell Breastplate",source={ID=11781,SourceName="Ambershard Crusher",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
+items[7429] = {id=7429,name="Twilight Armor",source={ID=2744,SourceName="Shadowforge Commander",SourceType="Kill",DropChance="3.2",Zone="Badlands"}}
+items[14760] = {id=14760,name="Enduring Breastplate",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.7",Zone="Dustwallow Marsh"}}
+items[14204] = {id=14204,name="Thistlefur Robe",source={ID=4386,SourceName="Withervine Bark Ripper",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[7375] = {id=7375,name="Green Whelp Armor",source={ID=9197,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7418] = {id=7418,name="Phalanx Breastplate",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="5.4",Zone="Desolace"}}
+items[7051] = {id=7051,name="Earthen Vest",source={ID=8764,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9835] = {id=9835,name="Scaled Leather Tunic",source={ID=14277,SourceName="Lady Zephris",SourceType="Kill",DropChance="3.2",Zone="Hillsbrad Foothills"}}
+items[14405] = {id=14405,name="Resilient Robe",source={ID=4842,SourceName="Earthcaller Halmgar",SourceType="Kill",DropChance="0.1",Zone="Razorfen Kraul"}}
+items[14190] = {id=14190,name="Raincaller Vest",source={ID=8518,SourceName="Rynthariel the Keymaster",SourceType="Kill",DropChance="0.1",Zone="Stonetalon Mountains"}}
+items[7809] = {id=7809,name="Easter Dress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9798] = {id=9798,name="Ivycloth Robe",source={ID=14276,SourceName="Scargil",SourceType="Kill",DropChance="3.2",Zone="Hillsbrad Foothills"}}
+items[3053] = {id=3053,name="Humbert's Chestpiece",source={ID=2344,SourceName="Dun Garok Mountaineer",SourceType="Kill",DropChance="3.6",Zone="Hillsbrad Foothills"}}
+items[2153] = {id=2153,name="Polished Scale Vest",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[4448] = {id=4448,name="Husk of Naraxis",source={ID=574,SourceName="Naraxis",SourceType="Kill",DropChance="48.4",Zone="Duskwood"}}
+items[14172] = {id=14172,name="Buccaneer's Robes",source={ID=2403,SourceName="Farmer Getz",SourceType="Kill",DropChance="0.1",Zone="Hillsbrad Foothills"}}
+items[14175] = {id=14175,name="Buccaneer's Vest",source={ID=1948,SourceName="Snarlmane",SourceType="Kill",DropChance="0.7",Zone="Silverpine Forest"}}
+items[15311] = {id=15311,name="Feral Harness",source={ID=5932,SourceName="Taskmaster Whipfang",SourceType="Kill",DropChance="0.3",Zone="Stonetalon Mountains"}}
+items[3288] = {id=3288,name="Tribal Vest",source={ID=17331,SourceName="Wrathscale Shorestalker",SourceType="Kill",DropChance="1.2",Zone="Bloodmyst Isle"}}
+items[2110] = {id=2110,name="Light Magesmith Robe",source={ID=946,SourceName="Frostmane Novice",SourceType="Kill",DropChance="1.3",Zone="Dun Morogh"}}
+items[20904] = {id=20904,name="Recruit's Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22282] = {id=22282,name="Purple Dinner Suit",source={ID=9029,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[14592] = {id=14592,name="Hawkeye's Tunic",source={ID=6070,SourceName="Maraudine Khan Advisor",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
+items[9836] = {id=9836,name="Banded Armor",source={ID=14277,SourceName="Lady Zephris",SourceType="Kill",DropChance="3.7",Zone="Hillsbrad Foothills"}}
+items[13896] = {id=13896,name="Dark Green Wedding Hanbok",source={ID=1299,SourceName="Lisbeth Schneider",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[15337] = {id=15337,name="Wrangler's Wraps",source={ID=4522,SourceName="Razorfen Dustweaver",SourceType="Kill",DropChance="0.8",Zone="Razorfen Kraul"}}
+items[1810] = {id=1810,name="Tough Leather Armor",source={ID=14433,SourceName="Sludginn",SourceType="Kill",DropChance="1.6",Zone="Wetlands"}}
+items[2141] = {id=2141,name="Cuirboulli Vest",source={ID=1314,SourceName="Duncan Cullen",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[2566] = {id=2566,name="Sacrificial Robes",source={ID=397,SourceName="Morganth",SourceType="Kill",DropChance="0.6",Zone="Redridge Mountains"}}
+items[2869] = {id=2869,name="Silvered Bronze Breastplate",source={ID=2673,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2034] = {id=2034,name="Scholarly Robes",source={ID=4814,SourceName="Twilight Elementalist",SourceType="Kill",DropChance="2.1",Zone="Blackfathom Deeps"}}
+items[9818] = {id=9818,name="Fortified Chain",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="8.5",Zone="The Barrens"}}
+items[236] = {id=236,name="Cured Leather Armor",source={ID=1295,SourceName="Lara Moore",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[6561] = {id=6561,name="Seer's Padded Armor",source={ID=573,SourceName="Foe Reaper 4000",SourceType="Kill",DropChance="0.2",Zone="Westfall"}}
+items[2317] = {id=2317,name="Dark Leather Tunic",source={ID=2169,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6528] = {id=6528,name="Spellbinder Robe",source={ID=17609,SourceName="Sunhawk Saboteur",SourceType="Kill",DropChance="0.3",Zone="Bloodmyst Isle"}}
+items[9765] = {id=9765,name="Cadet Vest",source={ID=2186,SourceName="Carnivous the Breaker",SourceType="Kill",DropChance="4.0",Zone="Darkshore"}}
+items[6266] = {id=6266,name="Disciple's Vest",source={ID=2175,SourceName="Shadowclaw",SourceType="Kill",DropChance="5.6",Zone="Darkshore"}}
+items[2572] = {id=2572,name="Red Linen Robe",source={ID=2389,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4861] = {id=4861,name="Sleek Feathered Tunic",source={ID=3068,SourceName="Mazzranache",SourceType="Kill",DropChance="51.6",Zone="Mulgore"}}
+items[21014] = {id=21014,name="Scraggy Leather Vest",source={ID=15366,SourceName="Springpaw Cub",SourceType="Kill",DropChance="1.5",Zone="Eversong Woods"}}
+items[3260] = {id=3260,name="Scarlet Initiate Robes",source={ID=1507,SourceName="Scarlet Initiate",SourceType="Kill",DropChance="1.2",Zone="Tirisfal Glades"}}
+items[57] = {id=57,name="Acolyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23322] = {id=23322,name="Acolyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7486] = {id=7486,name="Captain's Breastplate",source={ID=8199,SourceName="Warleader Krazzilak",SourceType="Kill",DropChance="4.1",Zone="Tanaris"}}
+items[15591] = {id=15591,name="Steadfast Breastplate",source={ID=7997,SourceName="Captured Sprite Darter",SourceType="Kill",DropChance="0.2",Zone="Feralas"}}
+items[15159] = {id=15159,name="Nocturnal Tunic",source={ID=4705,SourceName="Burning Blade Invoker",SourceType="Kill",DropChance="0.4",Zone="Desolace"}}
+items[4057] = {id=4057,name="Insignia Chestguard",source={ID=3985,SourceName="Grandpa Vishas",SourceType="Kill",DropChance="0.2",Zone="Alterac Mountains"}}
+items[4256] = {id=4256,name="Guardian Armor",source={ID=3773,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9826] = {id=9826,name="Durable Robe",source={ID=14228,SourceName="Giggler",SourceType="Kill",DropChance="5.6",Zone="Desolace"}}
+items[15130] = {id=15130,name="Cutthroat's Vest",source={ID=4382,SourceName="Withervine Creeper",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
+items[3807] = {id=3807,name="Hardened Leather Tunic",source={ID=1200,SourceName="Morbent Fel",SourceType="Kill",DropChance="2.1",Zone="Duskwood"}}
+items[9508] = {id=9508,name="Mechbuilder's Overalls",source={ID=6232,SourceName="Arcane Nullifier X-21",SourceType="Kill",DropChance="0",Zone="Gnomeregan"}}
+items[15128] = {id=15128,name="Robust Tunic",source={ID=15749,SourceName="Lesser Silithid Flayer",SourceType="Kill",DropChance="0.8",Zone="Thousand Needles"}}
+items[6603] = {id=6603,name="Dervish Tunic",source={ID=4066,SourceName="Nal'taszar",SourceType="Kill",DropChance="4.5",Zone="Stonetalon Mountains"}}
+items[14180] = {id=14180,name="Watcher's Jerkin",source={ID=4532,SourceName="Razorfen Beastmaster",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
+items[6592] = {id=6592,name="Battleforge Armor",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="3.7",Zone="Stonetalon Mountains"}}
+items[14744] = {id=14744,name="Hulking Chestguard",source={ID=14427,SourceName="Gibblesnik",SourceType="Kill",DropChance="0.5",Zone="Thousand Needles"}}
+items[3049] = {id=3049,name="Lambent Scale Breastplate",source={ID=584,SourceName="Kazon",SourceType="Kill",DropChance="0.2",Zone="Redridge Mountains"}}
+items[2292] = {id=2292,name="Necrology Robes",source={ID=3877,SourceName="Wailing Guardsman",SourceType="Kill",DropChance="0",Zone="Shadowfang Keep"}}
+items[14127] = {id=14127,name="Ritual Shroud",source={ID=4409,SourceName="Gatekeeper Kordurus",SourceType="Kill",DropChance="0.3",Zone="Stonetalon Mountains"}}
+items[14369] = {id=14369,name="Mystic's Wrap",source={ID=4815,SourceName="Murkshallow Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Blackfathom Deeps"}}
+items[200] = {id=200,name="Thick Cloth Vest",source={ID=1291,SourceName="Carla Granger",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[2989] = {id=2989,name="Burnished Tunic",source={ID=16246,SourceName="Knucklerot",SourceType="Kill",DropChance="1.6",Zone="Ghostlands"}}
+items[9783] = {id=9783,name="Raider's Chestpiece",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="14.2",Zone="The Barrens"}}
+items[846] = {id=846,name="Tanned Leather Jerkin",source={ID=896,SourceName="Veldan Lightfoot",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[15487] = {id=15487,name="War Torn Tunic",source={ID=11714,SourceName="Marosh the Devious",SourceType="Kill",DropChance="0.8",Zone="Darkshore"}}
+items[2311] = {id=2311,name="White Leather Jerkin",source={ID=2163,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2069] = {id=2069,name="Black Bear Hide Vest",source={ID=1130,SourceName="Bjarn",SourceType="Kill",DropChance="22.2",Zone="Dun Morogh"}}
+items[10553] = {id=10553,name="Foreman Vest",source={ID=8503,SourceName="Gibblewilt",SourceType="Kill",DropChance="43.9",Zone="Dun Morogh"}}
+items[799] = {id=799,name="Rough Leather Vest",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[6786] = {id=6786,name="Simple Dress",source={ID=8465,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5957] = {id=5957,name="Handstitched Leather Vest",source={ID=7126,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2127] = {id=2127,name="Cracked Leather Vest",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[1715] = {id=1715,name="Polished Jazeraint Armor",source={ID=7605,SourceName="Raven",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
+items[9897] = {id=9897,name="Jazeraint Chestguard",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
+items[14234] = {id=14234,name="Embersilk Robes",source={ID=7345,SourceName="Splinterbone Captain",SourceType="Kill",DropChance="0.1",Zone="Razorfen Downs"}}
+items[6415] = {id=6415,name="Aurora Robe",source={ID=2763,SourceName="Thenan",SourceType="Kill",DropChance="0.1",Zone="Arathi Highlands"}}
+items[7430] = {id=7430,name="Twilight Robe",source={ID=14488,SourceName="Roloch",SourceType="Kill",DropChance="3.5",Zone="Stranglethorn Vale"}}
+items[15567] = {id=15567,name="Marauder's Tunic",source={ID=7353,SourceName="Freezing Spirit",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
+items[15557] = {id=15557,name="Pillager's Chestguard",source={ID=4386,SourceName="Withervine Bark Ripper",SourceType="Kill",DropChance="0.4",Zone="Dustwallow Marsh"}}
+items[4074] = {id=4074,name="Mail Combat Armor",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="0.6",Zone="Uldaman"}}
+items[15356] = {id=15356,name="Headhunter's Armor",source={ID=23592,SourceName="Grimtotem Breaker",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[15536] = {id=15536,name="Wicked Chain Chestpiece",source={ID=17300,SourceName="Gorgannon",SourceType="Kill",DropChance="3.2",Zone="Ashenvale"}}
+items[14398] = {id=14398,name="Resilient Tunic",source={ID=3414,SourceName="General Twinbraid",SourceType="Kill",DropChance="0.1",Zone="The Barrens"}}
+items[14192] = {id=14192,name="Raincaller Robes",source={ID=4539,SourceName="Greater Kraul Bat",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
+items[9809] = {id=9809,name="Superior Tunic",source={ID=5930,SourceName="Sister Riven",SourceType="Kill",DropChance="4.8",Zone="Stonetalon Mountains"}}
+items[14372] = {id=14372,name="Sanguine Armor",source={ID=5928,SourceName="Sorrow Wing",SourceType="Kill",DropChance="0.7",Zone="Stonetalon Mountains"}}
+items[14380] = {id=14380,name="Sanguine Robe",source={ID=5930,SourceName="Sister Riven",SourceType="Kill",DropChance="0.2",Zone="Stonetalon Mountains"}}
+items[3069] = {id=3069,name="Bright Robe",source={ID=1014,SourceName="Mosshide Alpha",SourceType="Kill",DropChance="0.1",Zone="Wetlands"}}
+items[6525] = {id=6525,name="Grunt's Harness",source={ID=3023,SourceName="Sura Wildmane",SourceType="Purchase",DropChance="100",Zone="Thunder Bluff"}}
+items[6569] = {id=6569,name="Shimmering Robe",source={ID=10641,SourceName="Branch Snapper",SourceType="Kill",DropChance="6.6",Zone="Ashenvale"}}
+items[14133] = {id=14133,name="Ritual Tunic",source={ID=3898,SourceName="Aligar the Tormentor",SourceType="Kill",DropChance="0.2",Zone="Darkshore"}}
+items[4781] = {id=4781,name="Whispering Vest",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
+items[15018] = {id=15018,name="Lupine Vest",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
+items[6552] = {id=6552,name="Bard's Tunic",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="14.2",Zone="The Barrens"}}
+items[3310] = {id=3310,name="Barbaric Cloth Vest",source={ID=17494,SourceName="Zevrax",SourceType="Kill",DropChance="1.7",Zone="Bloodmyst Isle"}}
+items[5110] = {id=5110,name="Dalaran Wizard's Robe",source={ID=3577,SourceName="Dalaran Brewmaster",SourceType="Kill",DropChance="5.0",Zone="Silverpine Forest"}}
+items[6545] = {id=6545,name="Soldier's Armor",source={ID=15810,SourceName="Eroded Anubisath Warbringer",SourceType="Kill",DropChance="9.4",Zone="The Barrens"}}
+items[2973] = {id=2973,name="Hunting Tunic",source={ID=16355,SourceName="Lesser Scourgebat",SourceType="Kill",DropChance="0.4",Zone="Ghostlands"}}
+items[6523] = {id=6523,name="Buckled Harness",source={ID=3023,SourceName="Sura Wildmane",SourceType="Purchase",DropChance="100",Zone="Thunder Bluff"}}
+items[2977] = {id=2977,name="Veteran Armor",source={ID=17550,SourceName="Void Anomaly",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
+items[5341] = {id=5341,name="Spore-covered Tunic",source={ID=866,SourceName="",SourceType="Quest",DropChance="0",Zone="Herbalism"}}
+items[821] = {id=821,name="Riverpaw Leather Vest",source={ID=123,SourceName="Riverpaw Mongrel",SourceType="Kill",DropChance="3.2",Zone="Westfall"}}
+items[6336] = {id=6336,name="Infantry Tunic",source={ID=5865,SourceName="Dishu",SourceType="Kill",DropChance="5.6",Zone="The Barrens"}}
+items[6511] = {id=6511,name="Journeyman's Robe",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[2364] = {id=2364,name="Woven Vest",source={ID=3166,SourceName="Cutac",SourceType="Purchase",DropChance="100",Zone="Durotar"}}
+items[2392] = {id=2392,name="Light Mail Armor",source={ID=1240,SourceName="Boran Ironclink",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[6238] = {id=6238,name="Brown Linen Robe",source={ID=7623,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[1364] = {id=1364,name="Ragged Leather Vest",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.1",Zone="Durotar"}}
+items[21154] = {id=21154,name="Festival Dress",source={ID=26403,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21539] = {id=21539,name="Festive Purple Dress",source={ID=8864,SourceName="",SourceType="Quest",DropChance="0",Zone="Lunar Festival"}}
+items[34085] = {id=34085,name="Red Winter Clothes",source={ID=44958,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16036] = {id=16036,name="PVP Cloth Robe Horde",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6411] = {id=6411,name="Chief Brigadier Armor",source={ID=2782,SourceName="Caretaker Alaric",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
+items[7112] = {id=7112,name="Aurora Armor",source={ID=2780,SourceName="Caretaker Nevlin",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
+items[14225] = {id=14225,name="Geomancer's Wraps",source={ID=7345,SourceName="Splinterbone Captain",SourceType="Kill",DropChance="0.1",Zone="Razorfen Downs"}}
+items[7439] = {id=7439,name="Sentinel Breastplate",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
+items[9844] = {id=9844,name="Conjurer's Vest",source={ID=14227,SourceName="Hissperak",SourceType="Kill",DropChance="5.2",Zone="Desolace"}}
+items[9852] = {id=9852,name="Conjurer's Robe",source={ID=2753,SourceName="Barnabus",SourceType="Kill",DropChance="4.5",Zone="Badlands"}}
+items[2417] = {id=2417,name="Augmented Chain Vest",source={ID=1322,SourceName="Maxton Strang",SourceType="Purchase",DropChance="100",Zone="Desolace"}}
+items[3799] = {id=3799,name="Interlaced Vest",source={ID=12836,SourceName="Wandering Protector",SourceType="Kill",DropChance="1.9",Zone="Ashenvale"}}
+items[14213] = {id=14213,name="Vital Raiment",source={ID=4386,SourceName="Withervine Bark Ripper",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[15144] = {id=15144,name="Ghostwalker Rags",source={ID=23592,SourceName="Grimtotem Breaker",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[14202] = {id=14202,name="Thistlefur Jerkin",source={ID=4386,SourceName="Withervine Bark Ripper",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
+items[5755] = {id=5755,name="Onyx Shredder Plate",source={ID=4260,SourceName="Venture Co. Shredder",SourceType="Kill",DropChance="0.9",Zone="Stranglethorn Vale"}}
+items[7353] = {id=7353,name="Elder's Padded Armor",source={ID=14222,SourceName="Araga",SourceType="Kill",DropChance="5.8",Zone="Alterac Mountains"}}
+items[1997] = {id=1997,name="Pressed Felt Robe",source={ID=701,SourceName="Bloodscalp Mystic",SourceType="Kill",DropChance="0.7",Zone="Stranglethorn Vale"}}
+items[3815] = {id=3815,name="Double Mail Vest",source={ID=2636,SourceName="Blackwater Deckhand",SourceType="Kill",DropChance="2.0",Zone="Arathi Highlands"}}
+items[14751] = {id=14751,name="Slayer's Surcoat",source={ID=7874,SourceName="Razorfen Thornweaver",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
+items[15346] = {id=15346,name="Pathfinder Vest",source={ID=3942,SourceName="Mavoris Cloudsbreak",SourceType="Kill",DropChance="0.2",Zone="Ashenvale"}}
+items[914] = {id=914,name="Large Ogre Chain Armor",source={ID=1487,SourceName="Splinter Fist Enslaver",SourceType="Kill",DropChance="0.7",Zone="Duskwood"}}
+items[2234] = {id=2234,name="Nightwalker Armor",source={ID=920,SourceName="Nightbane Tainted One",SourceType="Kill",DropChance="1.8",Zone="Duskwood"}}
+items[1786] = {id=1786,name="Cross-stitched Vest",source={ID=6392,SourceName="Holdout Medic",SourceType="Kill",DropChance="1.1",Zone="Gnomeregan"}}
+items[9791] = {id=9791,name="Ivycloth Tunic",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="9.4",Zone="Stonetalon Mountains"}}
+items[1761] = {id=1761,name="Reinforced Chain Vest",source={ID=17108,SourceName="Forsaken Raider",SourceType="Kill",DropChance="1.5",Zone="Hillsbrad Foothills"}}
+items[6608] = {id=6608,name="Bright Armor",source={ID=335,SourceName="Singe",SourceType="Kill",DropChance="0.1",Zone="Redridge Mountains"}}
+items[3055] = {id=3055,name="Forest Leather Chestpiece",source={ID=7843,SourceName="Gnomeregan Evacuee",SourceType="Kill",DropChance="0.9",Zone="Dun Morogh"}}
+items[3569] = {id=3569,name="Vicar's Robe",source={ID=4517,SourceName="Death's Head Priest",SourceType="Kill",DropChance="3.0",Zone="Razorfen Kraul"}}
+items[15118] = {id=15118,name="Rigid Tunic",source={ID=3815,SourceName="Blink Dragon",SourceType="Kill",DropChance="0.7",Zone="Ashenvale"}}
+items[15514] = {id=15514,name="Grunt's Chestpiece",source={ID=3773,SourceName="Akkrilus",SourceType="Kill",DropChance="2.7",Zone="Ashenvale"}}
+items[1489] = {id=1489,name="Gloomshroud Armor",source={ID=3859,SourceName="Shadowfang Ragetooth",SourceType="Kill",DropChance="0",Zone="Shadowfang Keep"}}
+items[1753] = {id=1753,name="Linked Chain Vest",source={ID=4409,SourceName="Gatekeeper Kordurus",SourceType="Kill",DropChance="1.2",Zone="Stonetalon Mountains"}}
+items[6787] = {id=6787,name="White Woolen Dress",source={ID=8467,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[1802] = {id=1802,name="Rawhide Tunic",source={ID=17359,SourceName="Tel'athion the Impure",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
+items[2985] = {id=2985,name="Inscribed Leather Breastplate",source={ID=16358,SourceName="Kel'gash the Wicked",SourceType="Kill",DropChance="0.9",Zone="Ghostlands"}}
+items[14121] = {id=14121,name="Aboriginal Vest",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
+items[6538] = {id=6538,name="Willow Robe",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
+items[4782] = {id=4782,name="Solstice Robe",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
+items[1745] = {id=1745,name="Laced Mail Vest",source={ID=14270,SourceName="Squiddic",SourceType="Kill",DropChance="0.8",Zone="Redridge Mountains"}}
+items[14096] = {id=14096,name="Native Vest",source={ID=17324,SourceName="Irradiated Wildkin",SourceType="Kill",DropChance="0.3",Zone="Bloodmyst Isle"}}
+items[15304] = {id=15304,name="Grizzly Jerkin",source={ID=11714,SourceName="Marosh the Devious",SourceType="Kill",DropChance="1.4",Zone="Darkshore"}}
+items[1737] = {id=1737,name="Worn Mail Vest",source={ID=17210,SourceName="Sentinel Leader",SourceType="Kill",DropChance="2.5",Zone="Ghostlands"}}
+items[2578] = {id=2578,name="Barbaric Linen Vest",source={ID=2395,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6512] = {id=6512,name="Disciple's Robe",source={ID=5865,SourceName="Dishu",SourceType="Kill",DropChance="6.6",Zone="The Barrens"}}
+items[2957] = {id=2957,name="Journeyman's Vest",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[2648] = {id=2648,name="Loose Chain Vest",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
+items[3000] = {id=3000,name="Brood Mother Carapace",source={ID=471,SourceName="Mother Fang",SourceType="Kill",DropChance="10.0",Zone="Elwynn Forest"}}
+items[2114] = {id=2114,name="Snowy Robe",source={ID=1133,SourceName="Starving Winter Wolf",SourceType="Kill",DropChance="5.2",Zone="Dun Morogh"}}
+items[2898] = {id=2898,name="Mountaineer Chestpiece",source={ID=1196,SourceName="Ice Claw Bear",SourceType="Kill",DropChance="4.4",Zone="Dun Morogh"}}
+items[2656] = {id=2656,name="Flimsy Chain Vest",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="6.3",Zone="Eversong Woods"}}
+items[20990] = {id=20990,name="Light Cloth Armor",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[21040] = {id=21040,name="Narain's Robe",source={ID=15378,SourceName="Merithra of the Dream",SourceType="Kill",DropChance="50.0",Zone="Ahn'Qiraj"}}
+items[21538] = {id=21538,name="Festive Pink Dress",source={ID=8864,SourceName="",SourceType="Quest",DropChance="0",Zone="Lunar Festival"}}
+items[21543] = {id=21543,name="Festive Teal Pant Suit",source={ID=8865,SourceName="",SourceType="Quest",DropChance="0",Zone="Lunar Festival"}}
+items[21544] = {id=21544,name="Festive Blue Pant Suit",source={ID=8865,SourceName="",SourceType="Quest",DropChance="0",Zone="Lunar Festival"}}
+items[22277] = {id=22277,name="Red Dinner Suit",source={ID=9029,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[22279] = {id=22279,name="Lovely Black Dress",source={ID=22166,SourceName="Gift of Adoration: Undercity",SourceType="Container",DropChance="4.4",Zone="Unknown"}}
+items[12106] = {id=12106,name="Boulderskin Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14417] = {id=14417,name="Silksand Tunic",source={ID=7997,SourceName="Captured Sprite Darter",SourceType="Kill",DropChance="0.2",Zone="Feralas"}}
+items[14425] = {id=14425,name="Silksand Wraps",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
+items[14768] = {id=14768,name="Ravager's Armor",source={ID=5327,SourceName="Coast Crawl Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
+items[9874] = {id=9874,name="Sorcerer Drape",source={ID=14235,SourceName="The Rot",SourceType="Kill",DropChance="4.5",Zone="Dustwallow Marsh"}}
+items[10007] = {id=10007,name="Red Mageweave Vest",source={ID=12056,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14230] = {id=14230,name="Embersilk Tunic",source={ID=4658,SourceName="Maraudine Stormer",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
+items[4058] = {id=4058,name="Glyphed Breastplate",source={ID=6239,SourceName="Cyclonian",SourceType="Kill",DropChance="0.1",Zone="Alterac Mountains"}}
+items[14216] = {id=14216,name="Geomancer's Jerkin",source={ID=5760,SourceName="Lord Azrethoc",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[15359] = {id=15359,name="Trickster's Vest",source={ID=4387,SourceName="Withervine Mire Beast",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[14407] = {id=14407,name="Stonecloth Vest",source={ID=4343,SourceName="Drywallow Snapper",SourceType="Kill",DropChance="0",Zone="Dustwallow Marsh"}}
+items[14413] = {id=14413,name="Stonecloth Robe",source={ID=4658,SourceName="Maraudine Stormer",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
+items[14215] = {id=14215,name="Vital Tunic",source={ID=5044,SourceName="Theramore Skirmisher",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[15546] = {id=15546,name="Thick Scale Breastplate",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
+items[7914] = {id=7914,name="Barbaric Iron Breastplate",source={ID=9813,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7110] = {id=7110,name="Silver-thread Armor",source={ID=3310,SourceName="Doras",SourceType="Kill",DropChance="1.2",Zone="Orgrimmar"}}
+items[15524] = {id=15524,name="Sentry's Surcoat",source={ID=4427,SourceName="Ward Guardian",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[15518] = {id=15518,name="Spiked Chain Breastplate",source={ID=12037,SourceName="Ursol'lok",SourceType="Kill",DropChance="0.8",Zone="Ashenvale"}}
+items[2160] = {id=2160,name="Padded Armor",source={ID=1314,SourceName="Duncan Cullen",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[14158] = {id=14158,name="Pagan Vest",source={ID=5859,SourceName="Hagg Taurenbane",SourceType="Kill",DropChance="0.8",Zone="The Barrens"}}
+items[14163] = {id=14163,name="Pagan Wraps",source={ID=10642,SourceName="Eck'alom",SourceType="Kill",DropChance="0.8",Zone="Ashenvale"}}
+items[6567] = {id=6567,name="Shimmering Armor",source={ID=5848,SourceName="Malgin Barleybrew",SourceType="Kill",DropChance="11.6",Zone="The Barrens"}}
+items[1778] = {id=1778,name="Brocade Vest",source={ID=2529,SourceName="Son of Arugal",SourceType="Kill",DropChance="1.1",Zone="Shadowfang Keep"}}
+items[2616] = {id=2616,name="Shimmering Silk Robes",source={ID=1309,SourceName="Wynne Larson",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[285] = {id=285,name="Scalemail Vest",source={ID=956,SourceName="Dorin Songblade",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
+items[6197] = {id=6197,name="Loch Croc Hide Vest",source={ID=2476,SourceName="Large Loch Crocolisk",SourceType="Kill",DropChance="29.4",Zone="Loch Modan"}}
+items[6524] = {id=6524,name="Studded Leather Harness",source={ID=3023,SourceName="Sura Wildmane",SourceType="Purchase",DropChance="100",Zone="Thunder Bluff"}}
+items[2981] = {id=2981,name="Seer's Robe",source={ID=16245,SourceName="Luzran",SourceType="Kill",DropChance="0.8",Zone="Ghostlands"}}
+items[1794] = {id=1794,name="Patched Leather Jerkin",source={ID=2106,SourceName="Apothecary Berard",SourceType="Kill",DropChance="1.2",Zone="Silverpine Forest"}}
+items[14120] = {id=14120,name="Aboriginal Robe",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.1",Zone="The Barrens"}}
+items[3306] = {id=3306,name="Brackwater Vest",source={ID=2184,SourceName="Lady Moongazer",SourceType="Kill",DropChance="1.1",Zone="Darkshore"}}
+items[6531] = {id=6531,name="Barbaric Cloth Robe",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
+items[837] = {id=837,name="Heavy Weave Armor",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
+items[1770] = {id=1770,name="Canvas Vest",source={ID=645,SourceName="Cookie",SourceType="Kill",DropChance="6.1",Zone="The Deadmines"}}
+items[6730] = {id=6730,name="Ironforge Chain",source={ID=8366,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6180] = {id=6180,name="Slarkskin",source={ID=519,SourceName="Slark",SourceType="Kill",DropChance="57.1",Zone="Westfall"}}
+items[23433] = {id=23433,name="Blood Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2087] = {id=2087,name="Hard Crawler Carapace",source={ID=830,SourceName="Sand Crawler",SourceType="Kill",DropChance="2.1",Zone="Westfall"}}
+items[3292] = {id=3292,name="Ancestral Tunic",source={ID=17673,SourceName="Stinkhorn Striker",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
+items[6527] = {id=6527,name="Ancestral Robe",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
+items[6240] = {id=6240,name="Blue Linen Vest",source={ID=7630,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[1509] = {id=1509,name="Warped Leather Vest",source={ID=3533,SourceName="Moonrage Leatherworker",SourceType="Kill",DropChance="2.5",Zone="Silverpine Forest"}}
+items[14091] = {id=14091,name="Beaded Robe",source={ID=15811,SourceName="Faltering Silithid Flayer",SourceType="Kill",DropChance="1.4",Zone="The Barrens"}}
+items[14094] = {id=14094,name="Beaded Wraps",source={ID=17448,SourceName="Chieftain Oomooroo",SourceType="Kill",DropChance="0.8",Zone="Azuremyst Isle"}}
+items[15479] = {id=15479,name="Charger's Armor",source={ID=17331,SourceName="Wrathscale Shorestalker",SourceType="Kill",DropChance="1.2",Zone="Bloodmyst Isle"}}
+items[1425] = {id=1425,name="Worn Leather Vest",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="2.8",Zone="Eversong Woods"}}
+items[2112] = {id=2112,name="Lumberjack Jerkin",source={ID=1689,SourceName="Scarred Crag Boar",SourceType="Kill",DropChance="4.6",Zone="Dun Morogh"}}
+items[2612] = {id=2612,name="Plain Robe",source={ID=1309,SourceName="Wynne Larson",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[85] = {id=85,name="Dirty Leather Vest",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[2121] = {id=2121,name="Thin Cloth Armor",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[21016] = {id=21016,name="Shoddy Chain Vest",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="1.5",Zone="Eversong Woods"}}
+items[21007] = {id=21007,name="Unkempt Robe",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="2.1",Zone="Eversong Woods"}}
+items[6129] = {id=6129,name="Acolyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21157] = {id=21157,name="Festive Green Dress",source={ID=8864,SourceName="",SourceType="Quest",DropChance="0",Zone="Lunar Festival"}}
+items[21541] = {id=21541,name="Festive Black Pant Suit",source={ID=8865,SourceName="",SourceType="Quest",DropChance="0",Zone="Lunar Festival"}}
+items[22281] = {id=22281,name="Blue Dinner Suit",source={ID=9029,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[20795] = {id=20795,name="90 green shaman vest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10581] = {id=10581,name="Death's Head Vestment",source={ID=7342,SourceName="Skeletal Summoner",SourceType="Kill",DropChance="0",Zone="Razorfen Downs"}}
+items[33239] = {id=33239,name="Marshwarden's Tunic",source={ID=11174,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[33240] = {id=33240,name="Grimtotem Earthbinder's Tunic",source={ID=11156,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[2463] = {id=2463,name="Studded Doublet",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[2016] = {id=2016,name="Dusty Chain Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6243] = {id=6243,name="Green Woolen Robe",source={ID=7636,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9757] = {id=9757,name="Gypsy Tunic",source={ID=14268,SourceName="Lord Condar",SourceType="Kill",DropChance="7.3",Zone="Loch Modan"}}
+items[22987] = {id=22987,name="Deathstalker's Vest",source={ID=12203,SourceName="Landslide",SourceType="Kill",DropChance="2.8",Zone="Maraudon"}}
+items[6239] = {id=6239,name="Red Linen Vest",source={ID=7629,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6241] = {id=6241,name="White Linen Robe",source={ID=7624,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5767] = {id=5767,name="Violet Robes",source={ID=1397,SourceName="Frostmane Seer",SourceType="Kill",DropChance="5.6",Zone="Dun Morogh"}}
+items[2108] = {id=2108,name="Frostmane Leather Vest",source={ID=706,SourceName="Frostmane Troll Whelp",SourceType="Kill",DropChance="2.1",Zone="Dun Morogh"}}
+items[6139] = {id=6139,name="Novice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20891] = {id=20891,name="Neophyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34685] = {id=34685,name="Vestment of Summer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20775] = {id=20775,name="63 green shaman vest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4989] = {id=4989,name="Mage Dragon Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13900] = {id=13900,name="Green Wedding Hanbok",source={ID=4184,SourceName="Geenia Sunshadow",SourceType="Purchase",DropChance="100",Zone="Moonglade"}}
+items[14570] = {id=14570,name="Bristlebark Blouse",source={ID=8518,SourceName="Rynthariel the Keymaster",SourceType="Kill",DropChance="0.6",Zone="Stonetalon Mountains"}}
+items[5109] = {id=5109,name="Stonesplinter Rags",source={ID=1206,SourceName="Gnasher",SourceType="Kill",DropChance="4.3",Zone="Loch Modan"}}
+items[2273] = {id=2273,name="Guerrilla Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[193] = {id=193,name="Tattered Cloth Vest",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[6116] = {id=6116,name="Apprentice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20892] = {id=20892,name="Acolyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20893] = {id=20893,name="Apprentice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23321] = {id=23321,name="Recruit's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23479] = {id=23479,name="Recruit's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28546] = {id=28546,name="TEST Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34087] = {id=34087,name="Green Winter Clothes",source={ID=44950,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30920] = {id=30920,name="QR 10574 Cloth Mage Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10781] = {id=10781,name="Hakkari Breastplate",source={ID=10773,SourceName="Hakkari Urn",SourceType="Container",DropChance="99.4",Zone="Unknown"}}
+items[13898] = {id=13898,name="Royal Dangui",source={ID=1299,SourceName="Lisbeth Schneider",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[14601] = {id=14601,name="Warden's Wraps",source={ID=7608,SourceName="Murta Grimgut",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
+items[7963] = {id=7963,name="Steel Breastplate",source={ID=9916,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33237] = {id=33237,name="Brogg's Battle Harness",source={ID=11162,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[4038] = {id=4038,name="Nightsky Robe",source={ID=2258,SourceName="Stone Fury",SourceType="Kill",DropChance="0.1",Zone="Alterac Mountains"}}
+items[14184] = {id=14184,name="Watcher's Robes",source={ID=4525,SourceName="Razorfen Earthbreaker",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
+items[2615] = {id=2615,name="Chromatic Robe",source={ID=1309,SourceName="Wynne Larson",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[14562] = {id=14562,name="Prospector's Chestpiece",source={ID=6132,SourceName="Razorfen Servitor",SourceType="Kill",DropChance="0.6",Zone="The Barrens"}}
+items[3313] = {id=3313,name="Ceremonial Leather Harness",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.3",Zone="The Barrens"}}
+items[14109] = {id=14109,name="Native Robe",source={ID=11714,SourceName="Marosh the Devious",SourceType="Kill",DropChance="0.3",Zone="Darkshore"}}
+items[23434] = {id=23434,name="Robes of the Shard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3471] = {id=3471,name="Copper Chain Vest",source={ID=3321,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2568] = {id=2568,name="Brown Linen Vest",source={ID=2385,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[56] = {id=56,name="Apprentice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6098] = {id=6098,name="Neophyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6119] = {id=6119,name="Neophyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6123] = {id=6123,name="Novice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6140] = {id=6140,name="Apprentice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6144] = {id=6144,name="Neophyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6837] = {id=6837,name="Wedding Dress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33862] = {id=33862,name="Brewfest Regalia",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24329] = {id=24329,name="Test Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27720] = {id=27720,name="Robes of the Aldor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10001] = {id=10001,name="Black Mageweave Robe",source={ID=12050,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7454] = {id=7454,name="Knight's Breastplate",source={ID=2602,SourceName="Ruul Onestone",SourceType="Kill",DropChance="4.5",Zone="Arathi Highlands"}}
+items[2429] = {id=2429,name="Russet Vest",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[2617] = {id=2617,name="Burning Robes",source={ID=1309,SourceName="Wynne Larson",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[6526] = {id=6526,name="Battle Harness",source={ID=3023,SourceName="Sura Wildmane",SourceType="Purchase",DropChance="100",Zone="Thunder Bluff"}}
+items[9406] = {id=9406,name="Spirewind Fetter",source={ID=4847,SourceName="Shadowforge Relic Hunter",SourceType="Kill",DropChance="0",Zone="Uldaman"}}
+items[6264] = {id=6264,name="Greater Adept's Robe",source={ID=7643,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2614] = {id=2614,name="Robe of Apprenticeship",source={ID=1309,SourceName="Wynne Larson",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[13897] = {id=13897,name="White Traditional Hanbok",source={ID=1299,SourceName="Lisbeth Schneider",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[2109] = {id=2109,name="Frostmane Chain Vest",source={ID=808,SourceName="Grik'nir the Cold",SourceType="Kill",DropChance="0.8",Zone="Dun Morogh"}}
+items[30718] = {id=30718,name="[UNUSED] Metzen and Carnes' Test Robe of Asskicking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25546] = {id=25546,name="QR XXXX Paladin Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25573] = {id=25573,name="QR 9863 Warrior Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3845] = {id=3845,name="Golden Scale Cuirass",source={ID=3511,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7374] = {id=7374,name="Dusky Leather Armor",source={ID=9196,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5782] = {id=5782,name="Thick Murloc Armor",source={ID=6704,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4455] = {id=4455,name="Raptor Hide Harness",source={ID=4096,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7065] = {id=7065,name="Green Silk Armor",source={ID=8784,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6610] = {id=6610,name="Sage's Robe",source={ID=7361,SourceName="Grubbis",SourceType="Kill",DropChance="2.4",Zone="Gnomeregan"}}
+items[4071] = {id=4071,name="Glimmering Mail Breastplate",source={ID=14275,SourceName="Tamra Stormpike",SourceType="Kill",DropChance="0.2",Zone="Hillsbrad Foothills"}}
+items[19028] = {id=19028,name="Elegant Dress",source={ID=113770,SourceName="Brightly Colored Egg",SourceType="Container",DropChance="0.8",Zone="Mulgore"}}
+items[9773] = {id=9773,name="Greenweave Robe",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
+items[2314] = {id=2314,name="Toughened Leather Armor",source={ID=2166,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13899] = {id=13899,name="Red Traditional Hanbok",source={ID=4184,SourceName="Geenia Sunshadow",SourceType="Purchase",DropChance="100",Zone="Moonglade"}}
+items[4243] = {id=4243,name="Fine Leather Tunic",source={ID=3761,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2965] = {id=2965,name="Warrior's Tunic",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[2586] = {id=2586,name="Gamemaster's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38160] = {id=38160,name="Soul-Trader's Bindings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4746] = {id=4746,name="Doomsayer's Robe",source={ID=709,SourceName="",SourceType="Quest",DropChance="0",Zone="Uldaman"}}
+items[33229] = {id=33229,name="Mordant's Travel Tunic",source={ID=11183,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[4190] = {id=4190,name="Feathered Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14371] = {id=14371,name="Mystic's Robe",source={ID=4815,SourceName="Murkshallow Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Blackfathom Deeps"}}
+items[14730] = {id=14730,name="War Paint Chestpiece",source={ID=3619,SourceName="Ghost Saber",SourceType="Kill",DropChance="0.3",Zone="Darkshore"}}
+items[6195] = {id=6195,name="Wax-polished Armor",source={ID=1425,SourceName="Grizlak",SourceType="Kill",DropChance="41.4",Zone="Loch Modan"}}
+items[9748] = {id=9748,name="Simple Robe",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="4.0",Zone="Silverpine Forest"}}
+items[1501] = {id=1501,name="Calico Tunic",source={ID=3529,SourceName="Moonrage Armorer",SourceType="Kill",DropChance="3.1",Zone="Silverpine Forest"}}
+items[6268] = {id=6268,name="Pioneer Tunic",source={ID=10359,SourceName="Sri'skulk",SourceType="Kill",DropChance="6.8",Zone="Tirisfal Glades"}}
+items[3328] = {id=3328,name="Spider Web Robe",source={ID=1555,SourceName="Vicious Night Web Spider",SourceType="Kill",DropChance="4.0",Zone="Tirisfal Glades"}}
+items[2386] = {id=2386,name="Rusted Chain Vest",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[22276] = {id=22276,name="Lovely Red Dress",source={ID=9029,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[22742] = {id=22742,name="Bloodsail Shirt",source={ID=22746,SourceName="Buccaneer's Uniform",SourceType="Container",DropChance="100.0",Zone="Unknown"}}
+items[12104] = {id=12104,name="Brindlethorn Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4035] = {id=4035,name="Silver-thread Robe",source={ID=2553,SourceName="Witherbark Shadowcaster",SourceType="Kill",DropChance="0.1",Zone="Arathi Highlands"}}
+items[9774] = {id=9774,name="Greenweave Vest",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
+items[3072] = {id=3072,name="Smoldering Robe",source={ID=1044,SourceName="Flamesnorting Whelp",SourceType="Kill",DropChance="1.2",Zone="Wetlands"}}
+items[15500] = {id=15500,name="Outrunner's Chestguard",source={ID=4409,SourceName="Gatekeeper Kordurus",SourceType="Kill",DropChance="0.3",Zone="Stonetalon Mountains"}}
+items[6580] = {id=6580,name="Defender Tunic",source={ID=1948,SourceName="Snarlmane",SourceType="Kill",DropChance="6.7",Zone="Silverpine Forest"}}
+items[4244] = {id=4244,name="Hillman's Leather Vest",source={ID=3762,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6242] = {id=6242,name="Blue Linen Robe",source={ID=7633,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2300] = {id=2300,name="Embossed Leather Vest",source={ID=2160,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15010] = {id=15010,name="Primal Wraps",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.4",Zone="Eversong Woods"}}
+items[10421] = {id=10421,name="Rough Copper Vest",source={ID=12260,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2379] = {id=2379,name="Tarnished Chain Vest",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[6834] = {id=6834,name="Black Tuxedo",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6584] = {id=6584,name="Scouting Tunic",source={ID=5848,SourceName="Malgin Barleybrew",SourceType="Kill",DropChance="4.8",Zone="The Barrens"}}
+items[3019] = {id=3019,name="Noble's Robe",source={ID=599,SourceName="Marisa du'Paige",SourceType="Kill",DropChance="21.0",Zone="Unknown"}}
+items[6709] = {id=6709,name="Moonglow Vest",source={ID=8322,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2969] = {id=2969,name="Spellbinder Vest",source={ID=17609,SourceName="Sunhawk Saboteur",SourceType="Kill",DropChance="0.5",Zone="Bloodmyst Isle"}}
+items[3283] = {id=3283,name="Battle Chain Tunic",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="1.5",Zone="Bloodmyst Isle"}}
+items[20919] = {id=20919,name="Unadorned Chain Vest",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[20925] = {id=20925,name="Sun Cured Vest",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[33005] = {id=33005,name="TEST CHEST MAIL HUNTER",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[8200] = {id=8200,name="Big Voodoo Robe",source={ID=10520,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9887] = {id=9887,name="Huntsman's Armor",source={ID=5352,SourceName="Old Grizzlegut",SourceType="Kill",DropChance="5.7",Zone="Feralas"}}
+items[10040] = {id=10040,name="White Wedding Dress",source={ID=12091,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2866] = {id=2866,name="Rough Bronze Cuirass",source={ID=2670,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15488] = {id=15488,name="Bloodspattered Surcoat",source={ID=4788,SourceName="Fallenroot Satyr",SourceType="Kill",DropChance="0.3",Zone="Unknown"}}
+items[7369] = {id=7369,name="Elder's Robe",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="9.5",Zone="Thousand Needles"}}
+items[14581] = {id=14581,name="Dokebi Chestguard",source={ID=6238,SourceName="Big Will",SourceType="Kill",DropChance="0.3",Zone="The Barrens"}}
+items[22278] = {id=22278,name="Lovely Blue Dress",source={ID=9029,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[22280] = {id=22280,name="Lovely Purple Dress",source={ID=9029,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
 
 
 -- Name Data

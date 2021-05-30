@@ -10,1097 +10,1097 @@ local names = {}
 
 
 -- Item Data
-items[21847] = {id=21847,name="Spellfire Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26753,DropChance=0,Zone=""}}
-items[16463] = {id=16463,name="Marshal's Chain Grips",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28780] = {id=28780,name="Soul-Eater's Handwraps",obtain={NpcID=17257,NpcName="Magtheridon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.8,Zone="Magtheridon's Lair"}}
-items[30341] = {id=30341,name="Flesh Handler's Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10345,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[27474] = {id=27474,name="Beast Lord Handguards",obtain={NpcID=16808,NpcName="Warchief Kargath Bladefist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Shattered Halls"}}
-items[30644] = {id=30644,name="Grips of Deftness",obtain={NpcID=16411,NpcName="Spectral Chef",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Karazhan"}}
-items[28507] = {id=28507,name="Handwraps of Flowing Thought",obtain={NpcID=15550,NpcName="Attumen the Huntsman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.1,Zone="Karazhan"}}
-items[28776] = {id=28776,name="Liar's Tongue Gloves",obtain={NpcID=17257,NpcName="Magtheridon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.0,Zone="Magtheridon's Lair"}}
-items[28824] = {id=28824,name="Gauntlets of Martial Perfection",obtain={NpcID=19044,NpcName="Gruul the Dragonkiller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.3,Zone="Gruul's Lair"}}
-items[25685] = {id=25685,name="Fel Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32490,DropChance=0,Zone=""}}
-items[28836] = {id=28836,name="High Warlord's Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16471] = {id=16471,name="Marshal's Lamellar Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[10019] = {id=10019,name="Dreamweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12067,DropChance=0,Zone=""}}
-items[28827] = {id=28827,name="Gauntlets of the Dragonslayer",obtain={NpcID=19044,NpcName="Gruul the Dragonkiller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.8,Zone="Gruul's Lair"}}
-items[16571] = {id=16571,name="General's Chain Gloves",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[27531] = {id=27531,name="Wastewalker Gloves",obtain={NpcID=16808,NpcName="Warchief Kargath Bladefist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Shattered Halls"}}
-items[28508] = {id=28508,name="Gloves of Saintly Blessings",obtain={NpcID=16152,NpcName="Attumen the Huntsman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.3,Zone="Karazhan"}}
-items[14551] = {id=14551,name="Edgemaster's Handguards",obtain={NpcID=1784,NpcName="Skeletal Sorcerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Western Plaguelands"}}
-items[28624] = {id=28624,name="Grand Marshal's Dreadweave Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[15063] = {id=15063,name="Devilsaur Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19084,DropChance=0,Zone=""}}
-items[22867] = {id=22867,name="Blood Guard's Mail Vices",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[27465] = {id=27465,name="Mana-Etched Gloves",obtain={NpcID=17308,NpcName="Omor the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=66.6,Zone="Hellfire Ramparts"}}
-items[28684] = {id=28684,name="Grand Marshal's Leather Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16448] = {id=16448,name="Marshal's Dragonhide Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[8204] = {id=8204,name="Tough Scorpid Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10542,DropChance=0,Zone=""}}
-items[16548] = {id=16548,name="General's Plate Gauntlets",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28506] = {id=28506,name="Gloves of Dexterous Manipulation",obtain={NpcID=15550,NpcName="Attumen the Huntsman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.2,Zone="Karazhan"}}
-items[17588] = {id=17588,name="General's Dreadweave Gloves",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28518] = {id=28518,name="Iron Gauntlets of the Maiden",obtain={NpcID=16457,NpcName="Maiden of Virtue",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.3,Zone="Karazhan"}}
-items[24393] = {id=24393,name="Bloody Surgeon's Mitts",obtain={NpcID=17380,NpcName="Broggok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.3,Zone="The Blood Furnace"}}
-items[23282] = {id=23282,name="Knight-Lieutenant's Dreadweave Handwraps",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[23274] = {id=23274,name="Knight-Lieutenant's Lamellar Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28505] = {id=28505,name="Gauntlets of Renewed Hope",obtain={NpcID=15550,NpcName="Attumen the Huntsman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.0,Zone="Karazhan"}}
-items[24450] = {id=24450,name="Manaspark Gloves",obtain={NpcID=17770,NpcName="Hungarfen",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="The Underbog"}}
-items[16574] = {id=16574,name="General's Mail Gauntlets",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[13863] = {id=13863,name="Runecloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18417,DropChance=0,Zone=""}}
-items[30725] = {id=30725,name="Anger-Spark Gloves",obtain={NpcID=17711,NpcName="Doomwalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.5,Zone="Unknown"}}
-items[28520] = {id=28520,name="Gloves of Centering",obtain={NpcID=16457,NpcName="Maiden of Virtue",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.3,Zone="Karazhan"}}
-items[18823] = {id=18823,name="Aged Core Leather Gloves",obtain={NpcID=11982,NpcName="Magmadar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.8,Zone="Molten Core"}}
-items[20264] = {id=20264,name="Peacekeeper Gauntlets",obtain={NpcID=14834,NpcName="Hakkar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.4,Zone="Zul'Gurub"}}
-items[25834] = {id=25834,name="Gladiator's Leather Gloves",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[28700] = {id=28700,name="Grand Marshal's Plate Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[30943] = {id=30943,name="Verdant Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10708,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[29317] = {id=29317,name="Tempest's Touch",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10285,Recipe=false,RecipeID=0,DropChance=0,Zone="Caverns of Time"}}
-items[16440] = {id=16440,name="Marshal's Silk Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16484] = {id=16484,name="Marshal's Plate Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[23517] = {id=23517,name="Felsteel Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29619,DropChance=0,Zone=""}}
-items[27535] = {id=27535,name="Gauntlets of the Righteous",obtain={NpcID=16808,NpcName="Warchief Kargath Bladefist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Shattered Halls"}}
-items[5966] = {id=5966,name="Guardian Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7156,DropChance=0,Zone=""}}
-items[28817] = {id=28817,name="High Warlord's Dreadweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28521] = {id=28521,name="Mitts of the Treemender",obtain={NpcID=16457,NpcName="Maiden of Virtue",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.3,Zone="Karazhan"}}
-items[31589] = {id=31589,name="Grand Marshal's Kodohide Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[27475] = {id=27475,name="Gauntlets of the Bold",obtain={NpcID=17798,NpcName="Warlord Kalithresh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="The Steamvault"}}
-items[10003] = {id=10003,name="Black Mageweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12053,DropChance=0,Zone=""}}
-items[28614] = {id=28614,name="Grand Marshal's Chain Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28618] = {id=28618,name="Grand Marshal's Dragonhide Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[22194] = {id=22194,name="Black Grasp of the Destroyer",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=27589,DropChance=0,Zone=""}}
-items[35366] = {id=35366,name="Opportunist's Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16454] = {id=16454,name="Marshal's Leather Handgrips",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[9390] = {id=9390,name="Revelosh's Gloves",obtain={NpcID=6910,NpcName="Revelosh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.9,Zone="Uldaman"}}
-items[16555] = {id=16555,name="General's Dragonhide Gloves",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[23520] = {id=23520,name="Ragesteel Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29642,DropChance=0,Zone=""}}
-items[30668] = {id=30668,name="Grasp of the Dead",obtain={NpcID=16482,NpcName="Trapped Soul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Karazhan"}}
-items[29506] = {id=29506,name="Gloves of the Living Touch",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35562,DropChance=0,Zone=""}}
-items[29613] = {id=29613,name="General's Lamellar Gloves",obtain={NpcID=12795,NpcName="First Sergeant Hola'mahi (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[29503] = {id=29503,name="Cobrascale Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35559,DropChance=0,Zone=""}}
-items[28519] = {id=28519,name="Gloves of Quickening",obtain={NpcID=16457,NpcName="Maiden of Virtue",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Karazhan"}}
-items[18407] = {id=18407,name="Felcloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=22867,DropChance=0,Zone=""}}
-items[27793] = {id=27793,name="Earth Mantle Handwraps",obtain={NpcID=17796,NpcName="Mekgineer Steamrigger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=66.0,Zone="The Steamvault"}}
-items[29097] = {id=29097,name="Gauntlets of Malorne",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22426] = {id=22426,name="Redemption Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9048,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[28716] = {id=28716,name="Grand Marshal's Silk Handguards",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[32072] = {id=32072,name="Gauntlets of Dissension",obtain={NpcID=17977,NpcName="Warp Splinter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.2,Zone="The Botanica"}}
-items[28856] = {id=28856,name="High Warlord's Satin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24387] = {id=24387,name="Ironblade Gauntlets",obtain={NpcID=17381,NpcName="The Maker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.0,Zone="The Blood Furnace"}}
-items[28968] = {id=28968,name="Voidheart Gloves",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[28704] = {id=28704,name="Grand Marshal's Satin Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[22421] = {id=22421,name="Dreadnaught Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9040,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[27509] = {id=27509,name="Handgrips of Assassination",obtain={NpcID=17881,NpcName="Aeonus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.3,Zone="The Black Morass"}}
-items[27493] = {id=27493,name="Gloves of the Deadwatcher",obtain={NpcID=18371,NpcName="Shirrak the Dead Watcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.1,Zone="Auchenai Crypts"}}
-items[27537] = {id=27537,name="Gloves of Oblivion",obtain={NpcID=16808,NpcName="Warchief Kargath Bladefist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Shattered Halls"}}
-items[29055] = {id=29055,name="Handwraps of the Incarnate",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[31149] = {id=31149,name="Gloves of Pandemonium",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22469] = {id=22469,name="Earthshatter Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9073,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[29507] = {id=29507,name="Windslayer Wraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35563,DropChance=0,Zone=""}}
-items[31620] = {id=31620,name="Grand Marshal's Mooncloth Mitts",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[30951] = {id=30951,name="Ar'tor's Mainstay",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10579,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[22865] = {id=22865,name="Blood Guard's Dreadweave Handwraps",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28690] = {id=28690,name="Grand Marshal's Linked Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[22509] = {id=22509,name="Plagueheart Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9108,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[28852] = {id=28852,name="High Warlord's Plate Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20716] = {id=20716,name="Sandworm Skin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8381,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[17584] = {id=17584,name="Marshal's Dreadweave Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[8187] = {id=8187,name="Turtle Scale Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10509,DropChance=0,Zone=""}}
-items[17608] = {id=17608,name="Marshal's Satin Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[4253] = {id=4253,name="Toughened Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3770,DropChance=0,Zone=""}}
-items[27536] = {id=27536,name="Hallowed Handwraps",obtain={NpcID=16808,NpcName="Warchief Kargath Bladefist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Shattered Halls"}}
-items[28304] = {id=28304,name="Prismatic Mittens of Mending",obtain={NpcID=17976,NpcName="Commander Sarannis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.5,Zone="The Botanica"}}
-items[23290] = {id=23290,name="Knight-Lieutenant's Silk Handwraps",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29039] = {id=29039,name="Cyclone Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34370] = {id=34370,name="Gloves of Immortal Dusk",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46134,DropChance=0,Zone=""}}
-items[31614] = {id=31614,name="Gladiator's Ornamented Gloves",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[35468] = {id=35468,name="Opportunist's Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24365] = {id=24365,name="Deft Handguards",obtain={NpcID=17942,NpcName="Quagmirran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Slave Pens"}}
-items[28719] = {id=28719,name="Grand Marshal's Wyrmhide Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[21585] = {id=21585,name="Dark Storm Gauntlets",obtain={NpcID=15727,NpcName="C'Thun",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.0,Zone="Ahn'Qiraj"}}
-items[29085] = {id=29085,name="Demon Stalker Gauntlets",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[35361] = {id=35361,name="Kodohide Gloves",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[10331] = {id=10331,name="Scarlet Gauntlets",obtain={NpcID=4301,NpcName="Scarlet Centurion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Scarlet Monastery"}}
-items[28806] = {id=28806,name="High Warlord's Chain Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28868] = {id=28868,name="High Warlord's Silk Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22654] = {id=22654,name="Glacial Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28205,DropChance=0,Zone=""}}
-items[27806] = {id=27806,name="Fathomheart Gauntlets",obtain={NpcID=17798,NpcName="Warlord Kalithresh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.7,Zone="The Steamvault"}}
-items[16560] = {id=16560,name="General's Leather Mitts",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[22441] = {id=22441,name="Cryptstalker Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9059,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[24090] = {id=24090,name="Bloodstained Ravager Gauntlets",obtain={NpcID=17308,NpcName="Omor the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.8,Zone="Hellfire Ramparts"}}
-items[7349] = {id=7349,name="Herbalist's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9146,DropChance=0,Zone=""}}
-items[27457] = {id=27457,name="Life Bearer's Gauntlets",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Ramparts"}}
-items[35356] = {id=35356,name="Dragonhide Gloves",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[18544] = {id=18544,name="Doomhide Gauntlets",obtain={NpcID=18338,NpcName="Highlord Kruul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.8,Zone="Searing Gorge"}}
-items[12639] = {id=12639,name="Stronghold Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16741,DropChance=0,Zone=""}}
-items[29327] = {id=29327,name="Cryo-mitts",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10218,Recipe=false,RecipeID=0,DropChance=0,Zone="Mana-Tombs"}}
-items[24556] = {id=24556,name="Gladiator's Dreadweave Gloves",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[31375] = {id=31375,name="Gladiator's Kodohide Gloves",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[29020] = {id=29020,name="Warbringer Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30741] = {id=30741,name="Topaz-Studded Battlegrips",obtain={NpcID=18728,NpcName="Doom Lord Kazzak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.0,Zone="Unknown"}}
-items[28396] = {id=28396,name="Gloves of the Unbound",obtain={NpcID=20886,NpcName="Wrath-Scryer Soccothrates",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="The Arcatraz"}}
-items[35328] = {id=35328,name="Dreadweave Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14622] = {id=14622,name="Deathbone Gauntlets",obtain={NpcID=10507,NpcName="The Ravenian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.9,Zone="Scholomance"}}
-items[16712] = {id=16712,name="Shadowcraft Gloves",obtain={NpcID=9236,NpcName="Shadow Hunter Vosh'gajin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.4,Zone="Blackrock Spire"}}
-items[28335] = {id=28335,name="Gladiator's Chain Gauntlets",obtain={NpcID=20278,NpcName="Vixton Pinchwhistle (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Netherstorm"}}
-items[28811] = {id=28811,name="High Warlord's Dragonhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22670] = {id=22670,name="Icebane Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28243,DropChance=0,Zone=""}}
-items[29600] = {id=29600,name="Blood Guard's Lamellar Gauntlets",obtain={NpcID=12795,NpcName="First Sergeant Hola'mahi (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[16676] = {id=16676,name="Beaststalker's Gloves",obtain={NpcID=9237,NpcName="War Master Voone",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.8,Zone="Blackrock Spire"}}
-items[15083] = {id=15083,name="Wicked Leather Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19049,DropChance=0,Zone=""}}
-items[24549] = {id=24549,name="Gladiator's Plate Gauntlets",obtain={NpcID=20278,NpcName="Vixton Pinchwhistle (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Netherstorm"}}
-items[31621] = {id=31621,name="High Warlord's Mooncloth Mitts",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21581] = {id=21581,name="Gauntlets of Annihilation",obtain={NpcID=15727,NpcName="C'Thun",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.2,Zone="Ahn'Qiraj"}}
-items[21674] = {id=21674,name="Gauntlets of Steadfast Determination",obtain={NpcID=15516,NpcName="Battleguard Sartura",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.2,Zone="Ahn'Qiraj"}}
-items[21278] = {id=21278,name="Stormshroud Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26279,DropChance=0,Zone=""}}
-items[10023] = {id=10023,name="Shadoweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12071,DropChance=0,Zone=""}}
-items[27528] = {id=27528,name="Gauntlets of Desolation",obtain={NpcID=16808,NpcName="Warchief Kargath Bladefist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Shattered Halls"}}
-items[29509] = {id=29509,name="Windstrike Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35568,DropChance=0,Zone=""}}
-items[25857] = {id=25857,name="Gladiator's Silk Handguards",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[29017] = {id=29017,name="Warbringer Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29067] = {id=29067,name="Justicar Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22481] = {id=22481,name="Bonescythe Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9082,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[29947] = {id=29947,name="Gloves of the Searing Grip",obtain={NpcID=19514,NpcName="Al'ar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.6,Zone="Tempest Keep"}}
-items[28126] = {id=28126,name="Gladiator's Dragonhide Gloves",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[27497] = {id=27497,name="Doomplate Gauntlets",obtain={NpcID=17377,NpcName="Keli'dan the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.4,Zone="The Blood Furnace"}}
-items[31584] = {id=31584,name="High Warlord's Kodohide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23288] = {id=23288,name="Knight-Lieutenant's Satin Handwraps",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[18326] = {id=18326,name="Razor Gauntlets",obtain={NpcID=11492,NpcName="Alzzin the Wildshaper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Dire Maul"}}
-items[29032] = {id=29032,name="Cyclone Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28710] = {id=28710,name="Grand Marshal's Scaled Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[35377] = {id=35377,name="Stalker's Chain Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18408] = {id=18408,name="Inferno Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=22868,DropChance=0,Zone=""}}
-items[23533] = {id=23533,name="Steelgrip Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29662,DropChance=0,Zone=""}}
-items[29090] = {id=29090,name="Handguards of Malorne",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28680] = {id=28680,name="Grand Marshal's Lamellar Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[19686] = {id=19686,name="Primal Batskin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24122,DropChance=0,Zone=""}}
-items[22863] = {id=22863,name="Blood Guard's Dragonhide Grips",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29595] = {id=29595,name="Knight-Lieutenant's Mail Vices",obtain={NpcID=12785,NpcName="Sergeant Major Clate (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[29357] = {id=29357,name="Master Thief's Gloves",obtain={NpcID=18708,NpcName="Murmur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Shadow Labyrinth"}}
-items[867] = {id=867,name="Gloves of Holy Might",obtain={NpcID=670,NpcName="Skullsplitter Witch Doctor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[29065] = {id=29065,name="Justicar Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23532] = {id=23532,name="Gauntlets of the Iron Tower",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29622,DropChance=0,Zone=""}}
-items[22517] = {id=22517,name="Gloves of Faith",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9116,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[16724] = {id=16724,name="Lightforge Gauntlets",obtain={NpcID=10808,NpcName="Timmy the Cruel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.3,Zone="Stratholme"}}
-items[21318] = {id=21318,name="Earth Warder's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8464,Recipe=false,RecipeID=0,DropChance=0,Zone="Timbermaw Hold"}}
-items[9640] = {id=9640,name="Vice Grips",obtain={NpcID=8127,NpcName="Antu'sul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.8,Zone="Zul'Farrak"}}
-items[7756] = {id=7756,name="Dog Training Gloves",obtain={NpcID=3974,NpcName="Houndmaster Loksey",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=56.2,Zone="Scarlet Monastery"}}
-items[31998] = {id=31998,name="Merciless Gladiator's Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31409] = {id=31409,name="Gladiator's Mooncloth Gloves",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[30003] = {id=30003,name="Gloves of the Nether-Stalker",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10318,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[22666] = {id=22666,name="Icy Scale Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28223,DropChance=0,Zone=""}}
-items[13255] = {id=13255,name="Trueaim Gauntlets",obtain={NpcID=9236,NpcName="Shadow Hunter Vosh'gajin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.7,Zone="Blackrock Spire"}}
-items[34344] = {id=34344,name="Handguards of Defiled Worlds",obtain={NpcID=25315,NpcName="Kil'jaeden",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.0,Zone="Sunwell Plateau"}}
-items[29987] = {id=29987,name="Gauntlets of the Sun King",obtain={NpcID=19622,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=27.0,Zone="Tempest Keep"}}
-items[25669] = {id=25669,name="Thick Draenic Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32470,DropChance=0,Zone=""}}
-items[28847] = {id=28847,name="High Warlord's Mail Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23280] = {id=23280,name="Knight-Lieutenant's Dragonhide Grips",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[6906] = {id=6906,name="Algae Fists",obtain={NpcID=6243,NpcName="Gelihast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=44.3,Zone="Blackfathom Deeps"}}
-items[31631] = {id=31631,name="Grand Marshal's Ornamented Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[17620] = {id=17620,name="General's Satin Gloves",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[10787] = {id=10787,name="Atal'ai Gloves",obtain={NpcID=5713,NpcName="Gasher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.8,Zone="The Temple of Atal'Hakkar"}}
-items[29134] = {id=29134,name="Gauntlets of the Chosen",obtain={NpcID=19331,NpcName="Quartermaster Enuril (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[29959] = {id=29959,name="Spiritualist's Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10185,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[16540] = {id=16540,name="General's Silk Handguards",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[31008] = {id=31008,name="Skyshatter Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29048] = {id=29048,name="Netherblade Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28695] = {id=28695,name="Grand Marshal's Mail Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[35475] = {id=35475,name="Stalker's Chain Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23284] = {id=23284,name="Knight-Lieutenant's Leather Grips",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16496] = {id=16496,name="Blood Guard's Dragonhide Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13072] = {id=13072,name="Stonegrip Gauntlets",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[16705] = {id=16705,name="Dreadmist Wraps",obtain={NpcID=10901,NpcName="Lorekeeper Polkelt",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.6,Zone="Scholomance"}}
-items[7724] = {id=7724,name="Gauntlets of Divinity",obtain={NpcID=3976,NpcName="Scarlet Commander Mograine",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.8,Zone="Scarlet Monastery"}}
-items[6727] = {id=6727,name="Razzeric's Racing Grips",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1189,Recipe=false,RecipeID=0,DropChance=0,Zone="Thousand Needles"}}
-items[34366] = {id=34366,name="Sunfire Handwraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46128,DropChance=0,Zone=""}}
-items[29998] = {id=29998,name="Royal Gauntlets of Silvermoon",obtain={NpcID=19622,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.0,Zone="Tempest Keep"}}
-items[30145] = {id=30145,name="Deathmantle Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27707] = {id=27707,name="Gladiator's Satin Gloves",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[28390] = {id=28390,name="Thatia's Self-Correcting Gauntlets",obtain={NpcID=20885,NpcName="Dalliah the Doomsayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.1,Zone="The Arcatraz"}}
-items[7919] = {id=7919,name="Heavy Mithril Gauntlet",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9928,DropChance=0,Zone=""}}
-items[29057] = {id=29057,name="Gloves of the Incarnate",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[31641] = {id=31641,name="Grand Marshal's Ringmail Gloves",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[35345] = {id=35345,name="Evoker's Silk Handguards",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22869] = {id=22869,name="Blood Guard's Satin Handwraps",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[20717] = {id=20717,name="Desert Bloom Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8379,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[21178] = {id=21178,name="Gloves of Earthen Power",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8548,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[14241] = {id=14241,name="Darkmist Handguards",obtain={NpcID=5402,NpcName="Khan Hratha",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Desolace"}}
-items[7690] = {id=7690,name="Ebon Vise",obtain={NpcID=6488,NpcName="Fallen Champion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.8,Zone="Scarlet Monastery"}}
-items[32280] = {id=32280,name="Gauntlets of Enforcement",obtain={NpcID=21867,NpcName="Teron Gorefiend",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.2,Zone="Unknown"}}
-items[24452] = {id=24452,name="Starlight Gauntlets",obtain={NpcID=17770,NpcName="Hungarfen",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="The Underbog"}}
-items[22493] = {id=22493,name="Dreamwalker Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9091,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[21672] = {id=21672,name="Gloves of Enforcement",obtain={NpcID=15516,NpcName="Battleguard Sartura",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.0,Zone="Ahn'Qiraj"}}
-items[22862] = {id=22862,name="Blood Guard's Chain Vices",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[18722] = {id=18722,name="Death Grips",obtain={NpcID=10435,NpcName="Magistrate Barthilas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.8,Zone="Stratholme"}}
-items[20296] = {id=20296,name="Green Dragonscale Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24655,DropChance=0,Zone=""}}
-items[10631] = {id=10631,name="Murkwater Gauntlets",obtain={NpcID=5224,NpcName="Murk Slitherer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Swamp of Sorrows"}}
-items[3483] = {id=3483,name="Silvered Bronze Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3333,DropChance=0,Zone=""}}
-items[31050] = {id=31050,name="Gloves of the Malefic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28871] = {id=28871,name="High Warlord's Wyrmhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31126] = {id=31126,name="Gloves of Ferocity",obtain={NpcID=17478,NpcName="Bleeding Hollow Scryer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Hellfire Ramparts"}}
-items[21479] = {id=21479,name="Gauntlets of the Immovable",obtain={NpcID=15340,NpcName="Moam",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.7,Zone="Ruins of Ahn'Qiraj"}}
-items[18344] = {id=18344,name="Stonebark Gauntlets",obtain={NpcID=11459,NpcName="Ironbark Protector",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Dire Maul"}}
-items[18238] = {id=18238,name="Shadowskin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=22711,DropChance=0,Zone=""}}
-items[10760] = {id=10760,name="Swine Fists",obtain={NpcID=7356,NpcName="Plaguemaw the Rotting",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=62.4,Zone="Razorfen Downs"}}
-items[35032] = {id=35032,name="Brutal Gladiator's Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30982] = {id=30982,name="Lightbringer Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30140] = {id=30140,name="Rift Stalker Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28268] = {id=28268,name="Natural Mender's Wraps",obtain={NpcID=18478,NpcName="Avatar of the Martyred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Auchenai Crypts"}}
-items[28842] = {id=28842,name="High Warlord's Linked Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35408] = {id=35408,name="Savage Plate Gauntlets",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[21605] = {id=21605,name="Gloves of the Hidden Temple",obtain={NpcID=15275,NpcName="Emperor Vek'nilash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.6,Zone="Ahn'Qiraj"}}
-items[19157] = {id=19157,name="Chromatic Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23708,DropChance=0,Zone=""}}
-items[14146] = {id=14146,name="Gloves of Spell Mastery",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18454,DropChance=0,Zone=""}}
-items[13162] = {id=13162,name="Reiver Claws",obtain={NpcID=9568,NpcName="Overlord Wyrmthalak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.4,Zone="Blackrock Spire"}}
-items[14640] = {id=14640,name="Cadaverous Gloves",obtain={NpcID=10507,NpcName="The Ravenian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Scholomance"}}
-items[10808] = {id=10808,name="Gloves of the Atal'ai Prophet",obtain={NpcID=5710,NpcName="Jammal'an the Prophet",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.6,Zone="The Temple of Atal'Hakkar"}}
-items[9491] = {id=9491,name="Hotshot Pilot's Gloves",obtain={NpcID=6226,NpcName="Mechano-Flamewalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Gnomeregan"}}
-items[1978] = {id=1978,name="Wolfclaw Gloves",obtain={NpcID=4438,NpcName="Razorfen Spearhide",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Kraul"}}
-items[34343] = {id=34343,name="Thalassian Ranger Gauntlets",obtain={NpcID=25315,NpcName="Kil'jaeden",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.0,Zone="Sunwell Plateau"}}
-items[30112] = {id=30112,name="Glorious Gauntlets of Crestfall",obtain={NpcID=21212,NpcName="Lady Vashj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.0,Zone="Serpentshrine Cavern"}}
-items[33586] = {id=33586,name="Studious Wraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29034] = {id=29034,name="Cyclone Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29080] = {id=29080,name="Gloves of the Aldor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27825] = {id=27825,name="Predatory Gloves",obtain={NpcID=18343,NpcName="Tavarok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Mana-Tombs"}}
-items[25949] = {id=25949,name="Gloves of the Afterlife",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10031,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[21682] = {id=21682,name="Bile-Covered Gauntlets",obtain={NpcID=15543,NpcName="Princess Yauj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.1,Zone="Ahn'Qiraj"}}
-items[16956] = {id=16956,name="Judgement Gauntlets",obtain={NpcID=11981,NpcName="Flamegor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.9,Zone="Blackwing Lair"}}
-items[18527] = {id=18527,name="Harmonious Gauntlets",obtain={NpcID=11501,NpcName="King Gordok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.0,Zone="Dire Maul"}}
-items[18744] = {id=18744,name="Plaguebat Fur Gloves",obtain={NpcID=10394,NpcName="Black Guard Sentry",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Stratholme"}}
-items[186001] = {id=186001,name="Communal Plate Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[9410] = {id=9410,name="Cragfists",obtain={NpcID=7206,NpcName="Ancient Stone Keeper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=47.7,Zone="Uldaman"}}
-items[34367] = {id=34367,name="Hands of Eternal Light",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46129,DropChance=0,Zone=""}}
-items[34408] = {id=34408,name="Gloves of the Forest Drifter",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34352] = {id=34352,name="Borderland Fortress Grips",obtain={NpcID=25038,NpcName="Felmyst",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=27.2,Zone="Sunwell Plateau"}}
-items[30124] = {id=30124,name="Crystalforge Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29976] = {id=29976,name="Worldstorm Gauntlets",obtain={NpcID=18805,NpcName="High Astromancer Solarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.7,Zone="Tempest Keep"}}
-items[35338] = {id=35338,name="Satin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31280] = {id=31280,name="Thundercaller's Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22501] = {id=22501,name="Frostfire Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9100,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[29607] = {id=29607,name="Marshal's Mail Gauntlets",obtain={NpcID=12785,NpcName="Sergeant Major Clate (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[16979] = {id=16979,name="Flarecore Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=20849,DropChance=0,Zone=""}}
-items[12554] = {id=12554,name="Hands of the Exalted Herald",obtain={NpcID=8929,NpcName="Princess Moira Bronzebeard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.2,Zone="Blackrock Depths"}}
-items[15708] = {id=15708,name="Blight Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5242,Recipe=false,RecipeID=0,DropChance=0,Zone="Felwood"}}
-items[2564] = {id=2564,name="Elven Spirit Claws",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[31007] = {id=31007,name="Skyshatter Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33744] = {id=33744,name="Vengeful Gladiator's Satin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30029] = {id=30029,name="Bark-Gloves of Ancient Wisdom",obtain={NpcID=20031,NpcName="Bloodwarder Legionnaire",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Unknown"}}
-items[27880] = {id=27880,name="Gladiator's Scaled Gauntlets",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[27468] = {id=27468,name="Moonglade Handwraps",obtain={NpcID=18667,NpcName="Blackheart the Inciter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Shadow Labyrinth"}}
-items[27428] = {id=27428,name="Stormfront Gauntlets",obtain={NpcID=17862,NpcName="Captain Skarloc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.1,Zone="Old Hillsbrad Foothills"}}
-items[22662] = {id=22662,name="Polar Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28220,DropChance=0,Zone=""}}
-items[19407] = {id=19407,name="Ebony Flame Gloves",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.5,Zone="Blackwing Lair"}}
-items[21486] = {id=21486,name="Gloves of the Swarm",obtain={NpcID=15370,NpcName="Buru the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.9,Zone="Ruins of Ahn'Qiraj"}}
-items[23279] = {id=23279,name="Knight-Lieutenant's Chain Vices",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16397] = {id=16397,name="Knight-Lieutenant's Dragonhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20480] = {id=20480,name="Spitfire Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24847,DropChance=0,Zone=""}}
-items[12631] = {id=12631,name="Fiery Plate Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16655,DropChance=0,Zone=""}}
-items[21319] = {id=21319,name="Gloves of the Pathfinder",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8464,Recipe=false,RecipeID=0,DropChance=0,Zone="Timbermaw Hold"}}
-items[14101] = {id=14101,name="Brightcloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18415,DropChance=0,Zone=""}}
-items[14451] = {id=14451,name="Highborne Gloves",obtain={NpcID=8198,NpcName="Tick",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Tanaris"}}
-items[9920] = {id=9920,name="Tracker's Gloves",obtain={NpcID=723,NpcName="Mosh'Ogg Butcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Stranglethorn Vale"}}
-items[4318] = {id=4318,name="Gloves of Meditation",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3852,DropChance=0,Zone=""}}
-items[34341] = {id=34341,name="Borderland Paingrips",obtain={NpcID=25315,NpcName="Kil'jaeden",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.0,Zone="Sunwell Plateau"}}
-items[30780] = {id=30780,name="Inferno Hardened Gloves",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[34808] = {id=34808,name="Gloves of Arcane Acuity",obtain={NpcID=24664,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.8,Zone="Magisters' Terrace"}}
-items[21617] = {id=21617,name="Wasphide Gauntlets",obtain={NpcID=15509,NpcName="Princess Huhuran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.0,Zone="Ahn'Qiraj"}}
-items[21689] = {id=21689,name="Gloves of Ebru",obtain={NpcID=15544,NpcName="Vem",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.5,Zone="Ahn'Qiraj"}}
-items[19929] = {id=19929,name="Bloodtinged Gloves",obtain={NpcID=11380,NpcName="Jin'do the Hexxer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.8,Zone="Zul'Gurub"}}
-items[21487] = {id=21487,name="Slimy Scaled Gauntlets",obtain={NpcID=15370,NpcName="Buru the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.9,Zone="Ruins of Ahn'Qiraj"}}
-items[10251] = {id=10251,name="Master's Gloves",obtain={NpcID=18338,NpcName="Highlord Kruul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.2,Zone="Searing Gorge"}}
-items[17564] = {id=17564,name="Knight-Lieutenant's Dreadweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16692] = {id=16692,name="Devout Gloves",obtain={NpcID=10811,NpcName="Archivist Galford",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.0,Zone="Stratholme"}}
-items[3948] = {id=3948,name="Twill Gloves",obtain={NpcID=1840,NpcName="Grand Inquisitor Isillien",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Western Plaguelands"}}
-items[30970] = {id=30970,name="Onslaught Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33717] = {id=33717,name="Vengeful Gladiator's Mooncloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32234] = {id=32234,name="Fists of Mukoa",obtain={NpcID=22887,NpcName="High Warlord Naj'entus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.2,Zone="Black Temple"}}
-items[30188] = {id=30188,name="Gladiator's Felweave Handguards",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[31567] = {id=31567,name="Skystalker's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35473] = {id=35473,name="Seer's Ringmail Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24776] = {id=24776,name="Boneshredder Gloves",obtain={NpcID=16409,NpcName="Phantom Guest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Karazhan"}}
-items[24768] = {id=24768,name="Clefthoof Gloves",obtain={NpcID=18318,NpcName="Sethekk Initiate",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Sethekk Halls"}}
-items[21863] = {id=21863,name="Soulcloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26779,DropChance=0,Zone=""}}
-items[21462] = {id=21462,name="Gloves of Dark Wisdom",obtain={NpcID=15339,NpcName="Ossirian the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.4,Zone="Ruins of Ahn'Qiraj"}}
-items[22715] = {id=22715,name="Gloves of the Tormented",obtain={NpcID=14517,NpcName="High Priestess Jeklik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.6,Zone="Zul'Gurub"}}
-items[18309] = {id=18309,name="Gloves of Restoration",obtain={NpcID=11492,NpcName="Alzzin the Wildshaper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Dire Maul"}}
-items[10242] = {id=10242,name="Heavy Lamellar Gauntlets",obtain={NpcID=8205,NpcName="Haarka the Ravenous",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.8,Zone="Tanaris"}}
-items[14294] = {id=14294,name="Arachnidian Gloves",obtain={NpcID=6372,NpcName="Makrinni Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[19123] = {id=19123,name="Everwarm Handwraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7728,Recipe=false,RecipeID=0,DropChance=0,Zone="Searing Gorge"}}
-items[9910] = {id=9910,name="Royal Gloves",obtain={NpcID=15750,NpcName="Qiraji Major",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.3,Zone="Thousand Needles"}}
-items[34351] = {id=34351,name="Tranquil Majesty Wraps",obtain={NpcID=25367,NpcName="Sunblade Arch Mage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Unknown"}}
-items[33712] = {id=33712,name="Vengeful Gladiator's Mail Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30135] = {id=30135,name="Crystalforge Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29072] = {id=29072,name="Justicar Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29092] = {id=29092,name="Gloves of Malorne",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27510] = {id=27510,name="Tidefury Gauntlets",obtain={NpcID=17798,NpcName="Warlord Kalithresh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.3,Zone="The Steamvault"}}
-items[25578] = {id=25578,name="Caustic Feelers",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9878,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[25942] = {id=25942,name="Faith Bearer's Gauntlets",obtain={NpcID=18341,NpcName="Pandemonius",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Mana-Tombs"}}
-items[23482] = {id=23482,name="Fel Iron Plate Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29545,DropChance=0,Zone=""}}
-items[16860] = {id=16860,name="Lawbringer Gauntlets",obtain={NpcID=12259,NpcName="Gehennas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.9,Zone="Molten Core"}}
-items[16487] = {id=16487,name="Blood Guard's Silk Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18387] = {id=18387,name="Brightspark Gloves",obtain={NpcID=11467,NpcName="Tsu'zee",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.9,Zone="Dire Maul"}}
-items[11745] = {id=11745,name="Fists of Phalanx",obtain={NpcID=9502,NpcName="Phalanx",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.2,Zone="Blackrock Depths"}}
-items[14142] = {id=14142,name="Ghostweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18413,DropChance=0,Zone=""}}
-items[13071] = {id=13071,name="Plated Fist of Hakoo",obtain={NpcID=4339,NpcName="Brimgore",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Dustwallow Marsh"}}
-items[9366] = {id=9366,name="Golden Scale Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=11643,DropChance=0,Zone=""}}
-items[23170] = {id=23170,name="The Frozen Clutch",obtain={NpcID=14693,NpcName="Scorn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.5,Zone="Scarlet Monastery"}}
-items[4040] = {id=4040,name="Nightsky Gloves",obtain={NpcID=2600,NpcName="Singer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Arathi Highlands"}}
-items[14211] = {id=14211,name="Vital Handwraps",obtain={NpcID=7332,NpcName="Withered Spearhide",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Downs"}}
-items[34372] = {id=34372,name="Leather Gauntlets of the Sun",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46132,DropChance=0,Zone=""}}
-items[34374] = {id=34374,name="Fletcher's Gloves of the Phoenix",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46133,DropChance=0,Zone=""}}
-items[35060] = {id=35060,name="Brutal Gladiator's Ornamented Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33684] = {id=33684,name="Vengeful Gladiator's Felweave Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33707] = {id=33707,name="Vengeful Gladiator's Linked Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30253] = {id=30253,name="Ethereal Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10335,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30375] = {id=30375,name="Gauntlets of the Vanquisher",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10507,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[24548] = {id=24548,name="zzOLDbrokenitem",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31796] = {id=31796,name="Sha'tari Marksman's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10915,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[28070] = {id=28070,name="Verdant Handwraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10351,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[21888] = {id=21888,name="Gloves of the Immortal",obtain={NpcID=15230,NpcName="Vekniss Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Ahn'Qiraj"}}
-items[16826] = {id=16826,name="Nightslayer Gloves",obtain={NpcID=12259,NpcName="Gehennas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.9,Zone="Molten Core"}}
-items[16831] = {id=16831,name="Cenarion Gloves",obtain={NpcID=12264,NpcName="Shazzrah",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=42.0,Zone="Molten Core"}}
-items[13957] = {id=13957,name="Gargoyle Slashers",obtain={NpcID=10506,NpcName="Kirtonos the Herald",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.6,Zone="Scholomance"}}
-items[16737] = {id=16737,name="Gauntlets of Valor",obtain={NpcID=10439,NpcName="Ramstein the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.4,Zone="Stratholme"}}
-items[11634] = {id=11634,name="Silkweb Gloves",obtain={NpcID=9032,NpcName="Hedrum the Creeper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.1,Zone="Blackrock Depths"}}
-items[15074] = {id=15074,name="Chimeric Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19053,DropChance=0,Zone=""}}
-items[186025] = {id=186025,name="Communal Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[8347] = {id=8347,name="Dragonscale Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10619,DropChance=0,Zone=""}}
-items[14905] = {id=14905,name="Brutish Gauntlets",obtain={NpcID=10080,NpcName="Sandarr Dunereaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Zul'Farrak"}}
-items[14431] = {id=14431,name="Windchaser Handguards",obtain={NpcID=7606,NpcName="Oro Eyegouge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Zul'Farrak"}}
-items[14833] = {id=14833,name="Tyrant's Gauntlets",obtain={NpcID=7901,NpcName="Treasure Hunting Swashbuckler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Tanaris"}}
-items[7457] = {id=7457,name="Knight's Gauntlets",obtain={NpcID=1106,NpcName="Lost One Cook",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.8,Zone="Swamp of Sorrows"}}
-items[7917] = {id=7917,name="Barbaric Iron Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9820,DropChance=0,Zone=""}}
-items[34406] = {id=34406,name="Gloves of Tyri's Power",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34409] = {id=34409,name="Gauntlets of the Ancient Frostwolf",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31011] = {id=31011,name="Skyshatter Grips",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31026] = {id=31026,name="Slayer's Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31035] = {id=31035,name="Thunderheart Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33729] = {id=33729,name="Vengeful Gladiator's Plate Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32608] = {id=32608,name="Pillager's Gauntlets",obtain={NpcID=22846,NpcName="Ashtongue Stormcaller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Unknown"}}
-items[34911] = {id=34911,name="Handwraps of the Aggressor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28136] = {id=28136,name="Gladiator's Wyrmhide Gloves",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[35392] = {id=35392,name="Seer's Ringmail Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24785] = {id=24785,name="Murkblood Gloves",obtain={NpcID=16473,NpcName="Spectral Performer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Karazhan"}}
-items[27889] = {id=27889,name="Jaedenfire Gloves of Annihilation",obtain={NpcID=18731,NpcName="Ambassador Hellmaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Shadow Labyrinth"}}
-items[29496] = {id=29496,name="Enchanted Clefthoof Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35533,DropChance=0,Zone=""}}
-items[30000] = {id=30000,name="Mixologist's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10199,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30264] = {id=30264,name="Area 52 Engineering Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10226,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[23531] = {id=23531,name="Felfury Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29658,DropChance=0,Zone=""}}
-items[31180] = {id=31180,name="Gauntlets of the Skullsplitter",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23491] = {id=23491,name="Fel Iron Chain Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29552,DropChance=0,Zone=""}}
-items[25674] = {id=25674,name="Wild Draenish Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32479,DropChance=0,Zone=""}}
-items[24712] = {id=24712,name="Vengeance Gloves",obtain={NpcID=16951,NpcName="Terrorfiend",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Hellfire Peninsula"}}
-items[21623] = {id=21623,name="Gauntlets of the Righteous Champion",obtain={NpcID=15299,NpcName="Viscidus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.0,Zone="Ahn'Qiraj"}}
-items[19143] = {id=19143,name="Flameguard Gauntlets",obtain={NpcID=11982,NpcName="Magmadar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.2,Zone="Molten Core"}}
-items[23286] = {id=23286,name="Knight-Lieutenant's Plate Gauntlets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16391] = {id=16391,name="Knight-Lieutenant's Silk Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22410] = {id=22410,name="Gauntlets of Deftness",obtain={NpcID=10440,NpcName="Baron Rivendare",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.1,Zone="Stratholme"}}
-items[14543] = {id=14543,name="Darkshade Gloves",obtain={NpcID=10503,NpcName="Jandice Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Scholomance"}}
-items[20477] = {id=20477,name="Sandstalker Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24850,DropChance=0,Zone=""}}
-items[14615] = {id=14615,name="Bloodmail Gauntlets",obtain={NpcID=10502,NpcName="Lady Illucia Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Scholomance"}}
-items[22304] = {id=22304,name="Ironweave Gloves",obtain={NpcID=16097,NpcName="Isalien",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.2,Zone="Dire Maul"}}
-items[3996] = {id=3996,name="Laminated Scale Gloves",obtain={NpcID=6129,NpcName="Draconic Magelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Azshara"}}
-items[10277] = {id=10277,name="Emerald Gauntlets",obtain={NpcID=14472,NpcName="Gretheer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.5,Zone="Silithus"}}
-items[8084] = {id=8084,name="Light Plate Gloves",obtain={NpcID=10680,NpcName="Summoned Blackhand Dreadweaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.8,Zone="Blackrock Spire"}}
-items[8314] = {id=8314,name="Alabaster Plate Gauntlets",obtain={NpcID=9681,NpcName="Jaz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Blackrock Depths"}}
-items[3965] = {id=3965,name="Thick Leather Gloves",obtain={NpcID=8317,NpcName="Atal'ai Deathwalker's Spirit",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="The Temple of Atal'Hakkar"}}
-items[9952] = {id=9952,name="Chieftain's Gloves",obtain={NpcID=8281,NpcName="Scald",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Searing Gorge"}}
-items[3940] = {id=3940,name="Crochet Gloves",obtain={NpcID=5345,NpcName="Diamond Head",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Feralas"}}
-items[14272] = {id=14272,name="Gaea's Handwraps",obtain={NpcID=6184,NpcName="Timbermaw Pathfinder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[10765] = {id=10765,name="Bonefingers",obtain={NpcID=7358,NpcName="Amnennar the Coldbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=27.4,Zone="Razorfen Downs"}}
-items[7064] = {id=7064,name="Crimson Silk Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8804,DropChance=0,Zone=""}}
-items[3485] = {id=3485,name="Green Iron Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3336,DropChance=0,Zone=""}}
-items[1807] = {id=1807,name="Tough Leather Gloves",obtain={NpcID=4814,NpcName="Twilight Elementalist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Blackfathom Deeps"}}
-items[7359] = {id=7359,name="Heavy Earthen Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9149,DropChance=0,Zone=""}}
-items[35022] = {id=35022,name="Brutal Gladiator's Kodohide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35028] = {id=35028,name="Brutal Gladiator's Lamellar Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35043] = {id=35043,name="Brutal Gladiator's Linked Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35098] = {id=35098,name="Brutal Gladiator's Silk Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34350] = {id=34350,name="Gauntlets of the Ancient Shadowmoon",obtain={NpcID=25368,NpcName="Sunblade Slayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Unknown"}}
-items[33723] = {id=33723,name="Vengeful Gladiator's Ornamented Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34938] = {id=34938,name="Enslaved Doomguard Soulgrips",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31967] = {id=31967,name="Merciless Gladiator's Dragonhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27703] = {id=27703,name="Gladiator's Lamellar Gauntlets",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[29315] = {id=29315,name="Gloves of Penitence",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10253,Recipe=false,RecipeID=0,DropChance=0,Zone="Auchindoun"}}
-items[24945] = {id=24945,name="Bloodscale Gauntlets",obtain={NpcID=17414,NpcName="Shadowmoon Technician",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.5,Zone="The Blood Furnace"}}
-items[21890] = {id=21890,name="Gloves of the Fallen Prophet",obtain={NpcID=15311,NpcName="Anubisath Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Ahn'Qiraj"}}
-items[21501] = {id=21501,name="Toughened Silithid Hide Gloves",obtain={NpcID=15348,NpcName="Kurinnaxx",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.7,Zone="Ruins of Ahn'Qiraj"}}
-items[20257] = {id=20257,name="Seafury Gauntlets",obtain={NpcID=14834,NpcName="Hakkar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.7,Zone="Zul'Gurub"}}
-items[17617] = {id=17617,name="Blood Guard's Satin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10386] = {id=10386,name="Hyperion Gauntlets",obtain={NpcID=18338,NpcName="Highlord Kruul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Searing Gorge"}}
-items[14815] = {id=14815,name="Warstrike Gauntlets",obtain={NpcID=5314,NpcName="Phantim",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Ashenvale"}}
-items[18693] = {id=18693,name="Shivery Handwraps",obtain={NpcID=10508,NpcName="Ras Frostwhisper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.2,Zone="Scholomance"}}
-items[13184] = {id=13184,name="Fallbrush Handgrips",obtain={NpcID=10376,NpcName="Crystal Fang",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.4,Zone="Blackrock Spire"}}
-items[13258] = {id=13258,name="Slaghide Gauntlets",obtain={NpcID=10584,NpcName="Urok Doomhowl",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.4,Zone="Blackrock Spire"}}
-items[13253] = {id=13253,name="Hands of Power",obtain={NpcID=9736,NpcName="Quartermaster Zigris",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.4,Zone="Blackrock Spire"}}
-items[15070] = {id=15070,name="Frostsaber Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19087,DropChance=0,Zone=""}}
-items[18306] = {id=18306,name="Gloves of Shadowy Mist",obtain={NpcID=11490,NpcName="Zevrim Thornhoof",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.7,Zone="Dire Maul"}}
-items[12418] = {id=12418,name="Radiant Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16654,DropChance=0,Zone=""}}
-items[10121] = {id=10121,name="Ornate Gauntlets",obtain={NpcID=11383,NpcName="High Priestess Hai'watna",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.4,Zone="Stranglethorn Vale"}}
-items[8249] = {id=8249,name="Imperial Red Gloves",obtain={NpcID=1494,NpcName="Negolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Stranglethorn Vale"}}
-items[2475] = {id=2475,name="Reinforced Leather Gloves",obtain={NpcID=984,NpcName="Thralosh (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Swamp of Sorrows"}}
-items[10205] = {id=10205,name="Overlord's Gauntlets",obtain={NpcID=15816,NpcName="Qiraji Major He'al-ie",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Thousand Needles"}}
-items[4004] = {id=4004,name="Overlinked Chain Gloves",obtain={NpcID=2754,NpcName="Anathemus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Badlands"}}
-items[8110] = {id=8110,name="Hibernal Gloves",obtain={NpcID=5399,NpcName="Veyzhak the Cannibal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Unknown"}}
-items[14949] = {id=14949,name="Bloodforged Gauntlets",obtain={NpcID=4405,NpcName="Muckshell Razorclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[18083] = {id=18083,name="Jumanza Grips",obtain={NpcID=7271,NpcName="Witch Doctor Zum'rah",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.9,Zone="Zul'Farrak"}}
-items[8346] = {id=8346,name="Gauntlets of the Sea",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10630,DropChance=0,Zone=""}}
-items[14657] = {id=14657,name="Scorpashi Gloves",obtain={NpcID=7606,NpcName="Oro Eyegouge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Zul'Farrak"}}
-items[7938] = {id=7938,name="Truesilver Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9954,DropChance=0,Zone=""}}
-items[7927] = {id=7927,name="Ornate Mithril Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9950,DropChance=0,Zone=""}}
-items[4063] = {id=4063,name="Imperial Leather Gloves",obtain={NpcID=2782,NpcName="Caretaker Alaric",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Arathi Highlands"}}
-items[14253] = {id=14253,name="Lunar Handwraps",obtain={NpcID=5327,NpcName="Coast Crawl Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Feralas"}}
-items[10777] = {id=10777,name="Arachnid Gloves",obtain={NpcID=7355,NpcName="Tuten'kash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.0,Zone="Razorfen Downs"}}
-items[6419] = {id=6419,name="Glyphed Mitts",obtain={NpcID=2794,NpcName="Summoned Guardian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Arathi Highlands"}}
-items[9861] = {id=9861,name="Archer's Gloves",obtain={NpcID=15747,NpcName="Qiraji Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.5,Zone="Thousand Needles"}}
-items[9832] = {id=9832,name="Scaled Leather Gloves",obtain={NpcID=12037,NpcName="Ursol'lok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Ashenvale"}}
-items[14191] = {id=14191,name="Raincaller Mitts",obtain={NpcID=4518,NpcName="Death's Head Sage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Kraul"}}
-items[15538] = {id=15538,name="Wicked Chain Gauntlets",obtain={NpcID=4531,NpcName="Razorfen Beast Trainer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Kraul"}}
-items[6595] = {id=6595,name="Battleforge Gauntlets",obtain={NpcID=14427,NpcName="Gibblesnik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.5,Zone="Thousand Needles"}}
-items[6605] = {id=6605,name="Dervish Gloves",obtain={NpcID=15814,NpcName="Qiraji Lieutenant Jo-rel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="The Barrens"}}
-items[7358] = {id=7358,name="Pilferer's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9148,DropChance=0,Zone=""}}
-items[888] = {id=888,name="Naga Battle Gloves",obtain={NpcID=4831,NpcName="Lady Sarevess",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.5,Zone="Blackfathom Deeps"}}
-items[2151] = {id=2151,name="Polished Scale Gloves",obtain={NpcID=226,NpcName="Morg Gnarltree (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[9806] = {id=9806,name="Superior Gloves",obtain={NpcID=14426,NpcName="Harb Foulmountain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.8,Zone="Thousand Needles"}}
-items[1783] = {id=1783,name="Cross-stitched Gloves",obtain={NpcID=5915,NpcName="Brother Ravenoak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Stonetalon Mountains"}}
-items[9795] = {id=9795,name="Ivycloth Gloves",obtain={NpcID=14424,NpcName="Mirelow",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.1,Zone="Wetlands"}}
-items[15520] = {id=15520,name="Spiked Chain Gauntlets",obtain={NpcID=3898,NpcName="Aligar the Tormentor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Darkshore"}}
-items[3058] = {id=3058,name="Forest Leather Gloves",obtain={NpcID=7843,NpcName="Gnomeregan Evacuee",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Dun Morogh"}}
-items[9771] = {id=9771,name="Greenweave Gloves",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Barrens"}}
-items[34234] = {id=34234,name="Shadowed Gauntlets of Paroxysm",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.5,Zone="Sunwell Plateau"}}
-items[34240] = {id=34240,name="Gauntlets of the Soothed Soul",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.0,Zone="Sunwell Plateau"}}
-items[35083] = {id=35083,name="Brutal Gladiator's Satin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30969] = {id=30969,name="Onslaught Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34902] = {id=34902,name="Oakleaf-Spun Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34904] = {id=34904,name="Barbed Gloves of the Sage",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32015] = {id=32015,name="Merciless Gladiator's Mooncloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32034] = {id=32034,name="Merciless Gladiator's Satin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30151] = {id=30151,name="Gloves of the Avatar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30165] = {id=30165,name="Cataclysm Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30211] = {id=30211,name="Gloves of the Corruptor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33534] = {id=33534,name="Grips of Nature's Wrath",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33587] = {id=33587,name="Light-Blessed Bonds",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23526] = {id=23526,name="Swiftsteel Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29648,DropChance=0,Zone=""}}
-items[31647] = {id=31647,name="High Warlord's Ringmail Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35371] = {id=35371,name="Wyrmhide Gloves",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[29490] = {id=29490,name="Enchanted Felscale Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35526,DropChance=0,Zone=""}}
-items[31534] = {id=31534,name="Whiteknuckle Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10607,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[29511] = {id=29511,name="Netherdrake Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=35573,DropChance=0,Zone=""}}
-items[21851] = {id=21851,name="Netherweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26770,DropChance=0,Zone=""}}
-items[24825] = {id=24825,name="Netherstalker Gloves",obtain={NpcID=17264,NpcName="Bonechewer Ravener",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Hellfire Ramparts"}}
-items[19390] = {id=19390,name="Taut Dragonhide Gloves",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.5,Zone="Blackwing Lair"}}
-items[16940] = {id=16940,name="Dragonstalker's Gauntlets",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.9,Zone="Blackwing Lair"}}
-items[21691] = {id=21691,name="Ooze-ridden Gauntlets",obtain={NpcID=15544,NpcName="Vem",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.7,Zone="Ahn'Qiraj"}}
-items[21480] = {id=21480,name="Scaled Silithid Gauntlets",obtain={NpcID=15369,NpcName="Ayamiss the Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.9,Zone="Ruins of Ahn'Qiraj"}}
-items[19869] = {id=19869,name="Blooddrenched Grips",obtain={NpcID=11382,NpcName="Bloodlord Mandokir",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.5,Zone="Zul'Gurub"}}
-items[16801] = {id=16801,name="Arcanist Gloves",obtain={NpcID=12264,NpcName="Shazzrah",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.9,Zone="Molten Core"}}
-items[13344] = {id=13344,name="Dracorian Gauntlets",obtain={NpcID=10440,NpcName="Baron Rivendare",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.3,Zone="Stratholme"}}
-items[16410] = {id=16410,name="Knight-Lieutenant's Lamellar Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16499] = {id=16499,name="Blood Guard's Leather Vices",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16519] = {id=16519,name="Blood Guard's Mail Grips",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[17577] = {id=17577,name="Blood Guard's Dreadweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14461] = {id=14461,name="Elunarian Handgrips",obtain={NpcID=12497,NpcName="Dreamroarer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Feralas"}}
-items[18377] = {id=18377,name="Quickdraw Gloves",obtain={NpcID=11496,NpcName="Immol'thar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.7,Zone="Dire Maul"}}
-items[13532] = {id=13532,name="Darkspinner Claws",obtain={NpcID=10437,NpcName="Nerub'enkan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.7,Zone="Stratholme"}}
-items[18383] = {id=18383,name="Force Imbued Gauntlets",obtain={NpcID=11488,NpcName="Illyanna Ravenoak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.7,Zone="Dire Maul"}}
-items[10380] = {id=10380,name="Commander's Gauntlets",obtain={NpcID=15817,NpcName="Qiraji Brigadier General Pax-lish",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Silithus"}}
-items[12632] = {id=12632,name="Storm Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16661,DropChance=0,Zone=""}}
-items[3973] = {id=3973,name="Smooth Leather Gloves",obtain={NpcID=1842,NpcName="Highlord Taelan Fordring",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.7,Zone="Western Plaguelands"}}
-items[10369] = {id=10369,name="Imbued Plate Gauntlets",obtain={NpcID=1047,NpcName="Red Scalebane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Wetlands"}}
-items[12547] = {id=12547,name="Mar Alom's Grip",obtain={NpcID=8893,NpcName="Anvilrage Soldier",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackrock Depths"}}
-items[15823] = {id=15823,name="Bricksteel Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=6031,Recipe=false,RecipeID=0,DropChance=0,Zone="Timbermaw Hold"}}
-items[15184] = {id=15184,name="Praetorian Gloves",obtain={NpcID=6504,NpcName="Thunderstomp Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Un'Goro Crater"}}
-items[10196] = {id=10196,name="Crusader's Gauntlets",obtain={NpcID=13896,NpcName="Scalebeard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Azshara"}}
-items[8091] = {id=8091,name="Platemail Gloves",obtain={NpcID=980,NpcName="Grimnal (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Swamp of Sorrows"}}
-items[15174] = {id=15174,name="Potent Gloves",obtain={NpcID=193,NpcName="Blue Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Azshara"}}
-items[14442] = {id=14442,name="Venomshroud Mitts",obtain={NpcID=5465,NpcName="Land Rager",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Tanaris"}}
-items[8121] = {id=8121,name="Heraldic Gloves",obtain={NpcID=8447,NpcName="Clunk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Searing Gorge"}}
-items[7530] = {id=7530,name="Cabalist Gloves",obtain={NpcID=15437,NpcName="Master Nightsong",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Ironforge"}}
-items[7541] = {id=7541,name="Champion's Gauntlets",obtain={NpcID=8280,NpcName="Shleipnarr",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.5,Zone="Searing Gorge"}}
-items[10018] = {id=10018,name="Red Mageweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12066,DropChance=0,Zone=""}}
-items[6428] = {id=6428,name="Mistscape Gloves",obtain={NpcID=4853,NpcName="Stonevault Geomancer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Uldaman"}}
-items[7489] = {id=7489,name="Captain's Gauntlets",obtain={NpcID=14491,NpcName="Kurmokk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.7,Zone="Stranglethorn Vale"}}
-items[1659] = {id=1659,name="Engineering Gloves",obtain={NpcID=677,NpcName="Venture Co. Tinkerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Stranglethorn Vale"}}
-items[14897] = {id=14897,name="Saltstone Gauntlets",obtain={NpcID=4658,NpcName="Maraudine Stormer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Desolace"}}
-items[6732] = {id=6732,name="Gnomish Mechanic's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1137,Recipe=false,RecipeID=0,DropChance=0,Zone="Thousand Needles"}}
-items[3812] = {id=3812,name="Double Mail Gloves",obtain={NpcID=23701,NpcName="Mirefin Ambusher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Dustwallow Marsh"}}
-items[9518] = {id=9518,name="Mud's Crushers",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1177,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[9395] = {id=9395,name="Gloves of Old",obtain={NpcID=15806,NpcName="Qiraji Lieutenant",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="The Barrens"}}
-items[7366] = {id=7366,name="Elder's Gloves",obtain={NpcID=5934,NpcName="Heartrazor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Thousand Needles"}}
-items[4319] = {id=4319,name="Azure Silk Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3854,DropChance=0,Zone=""}}
-items[6393] = {id=6393,name="Silver-thread Gloves",obtain={NpcID=6523,NpcName="Dark Iron Rifleman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Wetlands"}}
-items[2145] = {id=2145,name="Cuirboulli Gloves",obtain={NpcID=1314,NpcName="Duncan Cullen (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[3047] = {id=3047,name="Lambent Scale Gloves",obtain={NpcID=1014,NpcName="Mosshide Alpha",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Wetlands"}}
-items[9813] = {id=9813,name="Fortified Gauntlets",obtain={NpcID=15807,NpcName="Minor Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.7,Zone="The Barrens"}}
-items[35089] = {id=35089,name="Brutal Gladiator's Scaled Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33750] = {id=33750,name="Vengeful Gladiator's Scaled Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32278] = {id=32278,name="Grips of Silent Justice",obtain={NpcID=22841,NpcName="Shade of Akama",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.0,Zone="Black Temple"}}
-items[32021] = {id=32021,name="Merciless Gladiator's Ornamented Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32030] = {id=32030,name="Merciless Gladiator's Ringmail Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30205] = {id=30205,name="Gloves of Tirisfal",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33974] = {id=33974,name="Grasp of the Moonkin",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25017] = {id=25017,name="Shattered Hand Gauntlets",obtain={NpcID=20911,NpcName="Blackwing Drakonaar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=51.2,Zone="Unknown"}}
-items[27764] = {id=27764,name="Hands of the Sun",obtain={NpcID=17826,NpcName="Swamplord Musel'ek",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.0,Zone="The Underbog"}}
-items[28862] = {id=28862,name="High Warlord's Scaled Gauntlets",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34791] = {id=34791,name="Gauntlets of the Tranquil Waves",obtain={NpcID=24560,NpcName="Priestess Delrissa",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.7,Zone="Magisters' Terrace"}}
-items[35335] = {id=35335,name="Mooncloth Mitts",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30930] = {id=30930,name="Grips of the Void",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10481,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[30267] = {id=30267,name="Zaxxis Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10205,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30521] = {id=30521,name="Warpweaver's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10313,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31510] = {id=31510,name="Hewing Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10713,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[31163] = {id=31163,name="Nethersteel Handguards",obtain={NpcID=18693,NpcName="Speaker Mar'grom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.5,Zone="Unknown"}}
-items[25661] = {id=25661,name="Scaled Draenic Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32467,DropChance=0,Zone=""}}
-items[31150] = {id=31150,name="Gloves of Piety",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16839] = {id=16839,name="Earthfury Gauntlets",obtain={NpcID=12259,NpcName="Gehennas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.5,Zone="Molten Core"}}
-items[16863] = {id=16863,name="Gauntlets of Might",obtain={NpcID=12118,NpcName="Lucifron",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.7,Zone="Molten Core"}}
-items[19692] = {id=19692,name="Bloodsoul Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24138,DropChance=0,Zone=""}}
-items[10260] = {id=10260,name="Adventurer's Gloves",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.9,Zone="Blackwing Lair"}}
-items[15438] = {id=15438,name="Supreme Gloves",obtain={NpcID=6109,NpcName="Azuregos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.0,Zone="Azshara"}}
-items[14685] = {id=14685,name="Indomitable Gauntlets",obtain={NpcID=12129,NpcName="Onyxian Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Unknown"}}
-items[10149] = {id=10149,name="Mighty Gauntlets",obtain={NpcID=15753,NpcName="Qiraji Brigadier General",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Tanaris"}}
-items[10161] = {id=10161,name="Mercurial Gauntlets",obtain={NpcID=10201,NpcName="Lady Hederine",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.0,Zone="Winterspring"}}
-items[18349] = {id=18349,name="Gauntlets of Accuracy",obtain={NpcID=11488,NpcName="Illyanna Ravenoak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.0,Zone="Dire Maul"}}
-items[12637] = {id=12637,name="Backusarian Gauntlets",obtain={NpcID=9596,NpcName="Bannok Grimaxe",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.1,Zone="Blackrock Spire"}}
-items[13539] = {id=13539,name="Banshee's Touch",obtain={NpcID=10436,NpcName="Baroness Anastari",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.7,Zone="Stratholme"}}
-items[14323] = {id=14323,name="Resplendent Gauntlets",obtain={NpcID=15318,NpcName="Hive'Zara Drone",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Ruins of Ahn'Qiraj"}}
-items[15192] = {id=15192,name="Grand Gauntlets",obtain={NpcID=12129,NpcName="Onyxian Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Unknown"}}
-items[15672] = {id=15672,name="Magnificent Gauntlets",obtain={NpcID=11447,NpcName="Mushgog",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Unknown"}}
-items[18730] = {id=18730,name="Shadowy Laced Handwraps",obtain={NpcID=10436,NpcName="Baroness Anastari",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.2,Zone="Stratholme"}}
-items[20650] = {id=20650,name="Desert Wind Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8321,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[8305] = {id=8305,name="Hero's Gauntlets",obtain={NpcID=7734,NpcName="Ilifar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Blasted Lands"}}
-items[10225] = {id=10225,name="Nightshade Gloves",obtain={NpcID=14474,NpcName="Zora",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Silithus"}}
-items[16684] = {id=16684,name="Magister's Gloves",obtain={NpcID=11261,NpcName="Doctor Theolen Krastinov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.4,Zone="Scholomance"}}
-items[14933] = {id=14933,name="Heroic Gauntlets",obtain={NpcID=10263,NpcName="Burning Felguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Blackrock Spire"}}
-items[15429] = {id=15429,name="Peerless Gloves",obtain={NpcID=10663,NpcName="Manaclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Winterspring"}}
-items[15662] = {id=15662,name="Impenetrable Gauntlets",obtain={NpcID=14475,NpcName="Rex Ashil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Silithus"}}
-items[14302] = {id=14302,name="Bonecaster's Gloves",obtain={NpcID=10662,NpcName="Spellmaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.8,Zone="Winterspring"}}
-items[14675] = {id=14675,name="Pridelord Gloves",obtain={NpcID=6504,NpcName="Thunderstomp Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Un'Goro Crater"}}
-items[10099] = {id=10099,name="Councillor's Gloves",obtain={NpcID=6646,NpcName="Monnos the Elder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.1,Zone="Azshara"}}
-items[10110] = {id=10110,name="Wanderer's Gloves",obtain={NpcID=10817,NpcName="Duggan Wildhammer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.1,Zone="Eastern Plaguelands"}}
-items[10165] = {id=10165,name="Templar Gauntlets",obtain={NpcID=10817,NpcName="Duggan Wildhammer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Eastern Plaguelands"}}
-items[11918] = {id=11918,name="Grotslab Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4501,Recipe=false,RecipeID=0,DropChance=0,Zone="Un'Goro Crater"}}
-items[14802] = {id=14802,name="Bloodlust Gauntlets",obtain={NpcID=9877,NpcName="Prince Xavalis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Felwood"}}
-items[14855] = {id=14855,name="Vanguard Gauntlets",obtain={NpcID=6503,NpcName="Spiked Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Un'Goro Crater"}}
-items[10176] = {id=10176,name="Mystical Gloves",obtain={NpcID=14340,NpcName="Alshirr Banebreath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.2,Zone="Felwood"}}
-items[14926] = {id=14926,name="Lofty Gauntlets",obtain={NpcID=11442,NpcName="Gordok Mauler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Unknown"}}
-items[15653] = {id=15653,name="Merciless Gauntlets",obtain={NpcID=6130,NpcName="Blue Scalebane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[15393] = {id=15393,name="Jadefire Gloves",obtain={NpcID=6143,NpcName="Servant of Arkkoroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Azshara"}}
-items[15644] = {id=15644,name="Ironhide Gauntlets",obtain={NpcID=6503,NpcName="Spiked Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Un'Goro Crater"}}
-items[10062] = {id=10062,name="Duskwoven Gloves",obtain={NpcID=6652,NpcName="Master Feardred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.7,Zone="Azshara"}}
-items[10072] = {id=10072,name="Righteous Gloves",obtain={NpcID=14344,NpcName="Mongress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.4,Zone="Felwood"}}
-items[14666] = {id=14666,name="Keeper's Gloves",obtain={NpcID=6372,NpcName="Makrinni Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[2428] = {id=2428,name="Brigandine Gloves",obtain={NpcID=980,NpcName="Grimnal (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Swamp of Sorrows"}}
-items[2440] = {id=2440,name="Embroidered Gloves",obtain={NpcID=984,NpcName="Thralosh (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Swamp of Sorrows"}}
-items[10080] = {id=10080,name="Lord's Gauntlets",obtain={NpcID=8215,NpcName="Grimungous",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="The Hinterlands"}}
-items[10129] = {id=10129,name="Revenant Gauntlets",obtain={NpcID=15816,NpcName="Qiraji Major He'al-ie",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="Thousand Needles"}}
-items[14282] = {id=14282,name="Opulent Gloves",obtain={NpcID=193,NpcName="Blue Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[8128] = {id=8128,name="Myrmidon's Gauntlets",obtain={NpcID=6000,NpcName="Nethergarde Cleric",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Blasted Lands"}}
-items[9939] = {id=9939,name="Abjurer's Gloves",obtain={NpcID=8205,NpcName="Haarka the Ravenous",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.3,Zone="Tanaris"}}
-items[15635] = {id=15635,name="Formidable Gauntlets",obtain={NpcID=5441,NpcName="Hazzali Wasp",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Tanaris"}}
-items[8276] = {id=8276,name="Valorous Gauntlets",obtain={NpcID=4469,NpcName="Emerald Ooze",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="The Hinterlands"}}
-items[9960] = {id=9960,name="Warmonger's Gauntlets",obtain={NpcID=5350,NpcName="Qirot",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Feralas"}}
-items[7521] = {id=7521,name="Gossamer Gloves",obtain={NpcID=8280,NpcName="Shleipnarr",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Searing Gorge"}}
-items[4083] = {id=4083,name="Blackforge Gauntlets",obtain={NpcID=7290,NpcName="Shadowforge Sharpshooter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Uldaman"}}
-items[15612] = {id=15612,name="Bonelink Gauntlets",obtain={NpcID=5327,NpcName="Coast Crawl Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Feralas"}}
-items[9930] = {id=9930,name="Brigade Gauntlets",obtain={NpcID=5354,NpcName="Gnarl Leafbrother",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.5,Zone="Feralas"}}
-items[15605] = {id=15605,name="Ancient Gauntlets",obtain={NpcID=4331,NpcName="Firemane Ash Tail",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dustwallow Marsh"}}
-items[14606] = {id=14606,name="Warden's Gloves",obtain={NpcID=23594,NpcName="Grimtotem Destroyer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Dustwallow Marsh"}}
-items[14826] = {id=14826,name="Symbolic Gauntlets",obtain={NpcID=11781,NpcName="Ambershard Crusher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Desolace"}}
-items[8158] = {id=8158,name="Jouster's Gauntlets",obtain={NpcID=2423,NpcName="Lord Aliden Perenolde",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Alterac Mountains"}}
-items[9880] = {id=9880,name="Sorcerer Gloves",obtain={NpcID=4380,NpcName="Darkmist Widow",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.5,Zone="Dustwallow Marsh"}}
-items[9892] = {id=9892,name="Huntsman's Gloves",obtain={NpcID=14226,NpcName="Kaskk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.1,Zone="Desolace"}}
-items[14422] = {id=14422,name="Silksand Gloves",obtain={NpcID=6070,NpcName="Maraudine Khan Advisor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Desolace"}}
-items[14772] = {id=14772,name="Ravager's Handwraps",obtain={NpcID=11781,NpcName="Ambershard Crusher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Desolace"}}
-items[4042] = {id=4042,name="Aurora Gloves",obtain={NpcID=4847,NpcName="Shadowforge Relic Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Uldaman"}}
-items[15595] = {id=15595,name="Steadfast Gloves",obtain={NpcID=23637,NpcName="Deserter Lieutenant",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Dustwallow Marsh"}}
-items[14231] = {id=14231,name="Embersilk Mitts",obtain={NpcID=8138,NpcName="Sul'lithuz Broodling",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Zul'Farrak"}}
-items[15365] = {id=15365,name="Trickster's Handwraps",obtain={NpcID=14227,NpcName="Hissperak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Desolace"}}
-items[15581] = {id=15581,name="Sparkleshell Gauntlets",obtain={NpcID=23595,NpcName="Grimtotem Earthbinder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Dustwallow Marsh"}}
-items[2422] = {id=2422,name="Augmented Chain Gloves",obtain={NpcID=1322,NpcName="Maxton Strang (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Desolace"}}
-items[2469] = {id=2469,name="Studded Gloves",obtain={NpcID=1147,NpcName="Hragran (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[14222] = {id=14222,name="Geomancer's Gloves",obtain={NpcID=14230,NpcName="Burgle Eye",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Dustwallow Marsh"}}
-items[14594] = {id=14594,name="Hawkeye's Gloves",obtain={NpcID=23589,NpcName="Defias Rummager",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Dustwallow Marsh"}}
-items[3804] = {id=3804,name="Hardened Leather Gloves",obtain={NpcID=2749,NpcName="Siege Golem",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Badlands"}}
-items[9848] = {id=9848,name="Conjurer's Gloves",obtain={NpcID=14221,NpcName="Gravis Slipknot",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.1,Zone="Alterac Mountains"}}
-items[10584] = {id=10584,name="Stormgale Fists",obtain={NpcID=7348,NpcName="Thorn Eater Ghoul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Razorfen Downs"}}
-items[15149] = {id=15149,name="Ghostwalker Gloves",obtain={NpcID=7335,NpcName="Death's Head Geomancer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Razorfen Downs"}}
-items[14411] = {id=14411,name="Stonecloth Gloves",obtain={NpcID=5934,NpcName="Heartrazor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Thousand Needles"}}
-items[14764] = {id=14764,name="Enduring Gauntlets",obtain={NpcID=23589,NpcName="Defias Rummager",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Dustwallow Marsh"}}
-items[6408] = {id=6408,name="Insignia Gloves",obtain={NpcID=6170,NpcName="Gutspill",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Duskwood"}}
-items[9445] = {id=9445,name="Grubbis Paws",obtain={NpcID=7361,NpcName="Grubbis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.7,Zone="Gnomeregan"}}
-items[15355] = {id=15355,name="Headhunter's Mitts",obtain={NpcID=7873,NpcName="Razorfen Battleguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="The Barrens"}}
-items[15137] = {id=15137,name="Cutthroat's Mitts",obtain={NpcID=6238,NpcName="Big Will",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="The Barrens"}}
-items[7412] = {id=7412,name="Infiltrator Gloves",obtain={NpcID=14223,NpcName="Cranky Benj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Alterac Mountains"}}
-items[15548] = {id=15548,name="Thick Scale Gauntlets",obtain={NpcID=8518,NpcName="Rynthariel the Keymaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Stonetalon Mountains"}}
-items[9839] = {id=9839,name="Banded Gauntlets",obtain={NpcID=14433,NpcName="Sludginn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Wetlands"}}
-items[15343] = {id=15343,name="Pathfinder Gloves",obtain={NpcID=4066,NpcName="Nal'taszar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Stonetalon Mountains"}}
-items[6397] = {id=6397,name="Emblazoned Gloves",obtain={NpcID=2335,NpcName="Magistrate Burnside",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Hillsbrad Foothills"}}
-items[6615] = {id=6615,name="Sage's Gloves",obtain={NpcID=4030,NpcName="Vengeful Ancient",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.4,Zone="Stonetalon Mountains"}}
-items[15125] = {id=15125,name="Robust Gloves",obtain={NpcID=8518,NpcName="Rynthariel the Keymaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Stonetalon Mountains"}}
-items[14181] = {id=14181,name="Watcher's Handwraps",obtain={NpcID=4522,NpcName="Razorfen Dustweaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Razorfen Kraul"}}
-items[14377] = {id=14377,name="Sanguine Handwraps",obtain={NpcID=3815,NpcName="Blink Dragon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Ashenvale"}}
-items[34376] = {id=34376,name="Sun-Drenched Scale Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46135,DropChance=0,Zone=""}}
-items[34378] = {id=34378,name="Hard Khorium Battlefists",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46141,DropChance=0,Zone=""}}
-items[35049] = {id=35049,name="Brutal Gladiator's Mail Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35078] = {id=35078,name="Brutal Gladiator's Ringmail Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35111] = {id=35111,name="Brutal Gladiator's Wyrmhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33690] = {id=33690,name="Vengeful Gladiator's Kodohide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33739] = {id=33739,name="Vengeful Gladiator's Ringmail Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33759] = {id=33759,name="Vengeful Gladiator's Silk Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33767] = {id=33767,name="Vengeful Gladiator's Wyrmhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32347] = {id=32347,name="Grips of Damnation",obtain={NpcID=23420,NpcName="Essence of Anger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.2,Zone="Unknown"}}
-items[31987] = {id=31987,name="Merciless Gladiator's Kodohide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32010] = {id=32010,name="Merciless Gladiator's Mail Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30130] = {id=30130,name="Crystalforge Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30217] = {id=30217,name="Nordrassil Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28317] = {id=28317,name="Energis Armwraps",obtain={NpcID=17975,NpcName="High Botanist Freywinn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="The Botanica"}}
-items[35403] = {id=35403,name="Crusader's Ornamented Gloves",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[31111] = {id=31111,name="Uvuros Hide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10647,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[30370] = {id=30370,name="Gauntlets of the Redeemed Vindicator",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10409,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31515] = {id=31515,name="Whelpscale Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10747,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[31165] = {id=31165,name="Nethersteel-Reinforced Gloves",obtain={NpcID=18693,NpcName="Speaker Mar'grom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=44.4,Zone="Unknown"}}
-items[24632] = {id=24632,name="Feralfen Hand",obtain={NpcID=18455,NpcName="Shalassi Oracle",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Terokkar Forest"}}
-items[31176] = {id=31176,name="Rockwurm Plate Handguards",obtain={NpcID=18678,NpcName="Fulgorge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=44.0,Zone="Unknown"}}
-items[31177] = {id=31177,name="Rockwurm Scale Gauntlets",obtain={NpcID=18678,NpcName="Fulgorge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.5,Zone="Unknown"}}
-items[24817] = {id=24817,name="Felstone Gauntlets",obtain={NpcID=16925,NpcName="Bonechewer Raider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Hellfire Peninsula"}}
-items[24929] = {id=24929,name="Ango'rosh Gauntlets",obtain={NpcID=17478,NpcName="Bleeding Hollow Scryer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Hellfire Ramparts"}}
-items[24809] = {id=24809,name="Unyielding Fists",obtain={NpcID=17270,NpcName="Bleeding Hollow Archer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Hellfire Ramparts"}}
-items[16899] = {id=16899,name="Stormrage Handguards",obtain={NpcID=11981,NpcName="Flamegor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.4,Zone="Blackwing Lair"}}
-items[20630] = {id=20630,name="Gauntlets of the Shining Light",obtain={NpcID=14888,NpcName="Lethon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.0,Zone="Duskwood"}}
-items[25378] = {id=25378,name="Corroded Mail Gloves",obtain={NpcID=18322,NpcName="Sethekk Ravenguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Sethekk Halls"}}
-items[25393] = {id=25393,name="Deteriorating Plate Gloves",obtain={NpcID=18204,NpcName="Ortor of Murkblood",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Nagrand"}}
-items[22714] = {id=22714,name="Sacrificial Gauntlets",obtain={NpcID=14517,NpcName="High Priestess Jeklik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.5,Zone="Zul'Gurub"}}
-items[16805] = {id=16805,name="Felheart Gloves",obtain={NpcID=12118,NpcName="Lucifron",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.9,Zone="Molten Core"}}
-items[22868] = {id=22868,name="Blood Guard's Plate Gauntlets",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[22870] = {id=22870,name="Blood Guard's Silk Handwraps",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[25385] = {id=25385,name="Tarnished Plate Gloves",obtain={NpcID=18460,NpcName="Lost Spirit",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.7,Zone="Terokkar Forest"}}
-items[10268] = {id=10268,name="Masterwork Gauntlets",obtain={NpcID=15818,NpcName="Lieutenant General Nokhor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.4,Zone="Silithus"}}
-items[15682] = {id=15682,name="Triumphant Gauntlets",obtain={NpcID=14889,NpcName="Emeriss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Duskwood"}}
-items[16406] = {id=16406,name="Knight-Lieutenant's Plate Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16510] = {id=16510,name="Blood Guard's Plate Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13525] = {id=13525,name="Darkbind Fingers",obtain={NpcID=10438,NpcName="Maleki the Pallid",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.9,Zone="Stratholme"}}
-items[10140] = {id=10140,name="High Councillor's Gloves",obtain={NpcID=10201,NpcName="Lady Hederine",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.8,Zone="Winterspring"}}
-items[14976] = {id=14976,name="Exalted Gauntlets",obtain={NpcID=6109,NpcName="Azuregos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.6,Zone="Azshara"}}
-items[14863] = {id=14863,name="Warleader's Gauntlets",obtain={NpcID=5317,NpcName="Jademir Oracle",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Feralas"}}
-items[20655] = {id=20655,name="Abyssal Cloth Handwraps",obtain={NpcID=15209,NpcName="Crimson Templar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.4,Zone="Silithus"}}
-items[10214] = {id=10214,name="Elegant Gloves",obtain={NpcID=14472,NpcName="Gretheer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.0,Zone="Silithus"}}
-items[16672] = {id=16672,name="Gauntlets of Elements",obtain={NpcID=9816,NpcName="Pyroguard Emberseer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.3,Zone="Blackrock Spire"}}
-items[10232] = {id=10232,name="Engraved Gauntlets",obtain={NpcID=8297,NpcName="Magronos the Unyielding",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.0,Zone="Blasted Lands"}}
-items[14314] = {id=14314,name="Celestial Handwraps",obtain={NpcID=10807,NpcName="Brumeran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Winterspring"}}
-items[8298] = {id=8298,name="Traveler's Gloves",obtain={NpcID=7042,NpcName="Flamescale Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Burning Steppes"}}
-items[11730] = {id=11730,name="Savage Gladiator Grips",obtain={NpcID=9029,NpcName="Eviscerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.6,Zone="Blackrock Depths"}}
-items[14967] = {id=14967,name="Glorious Gauntlets",obtain={NpcID=10200,NpcName="Rak'shiri",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Winterspring"}}
-items[15078] = {id=15078,name="Heavy Scorpid Gauntlet",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19064,DropChance=0,Zone=""}}
-items[8267] = {id=8267,name="Ebonhold Gauntlets",obtain={NpcID=9522,NpcName="Blackrock Ambusher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Burning Steppes"}}
-items[10186] = {id=10186,name="Swashbuckler's Gloves",obtain={NpcID=8301,NpcName="Clack the Reaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Blasted Lands"}}
-items[13870] = {id=13870,name="Frostweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18411,DropChance=0,Zone=""}}
-items[17736] = {id=17736,name="Rockgrip Gauntlets",obtain={NpcID=12203,NpcName="Landslide",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.7,Zone="Maraudon"}}
-items[8260] = {id=8260,name="Serpentskin Gloves",obtain={NpcID=8217,NpcName="Mith'rethis the Enchanter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="The Hinterlands"}}
-items[14959] = {id=14959,name="High Chief's Gauntlets",obtain={NpcID=6130,NpcName="Blue Scalebane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Azshara"}}
-items[14792] = {id=14792,name="Protector Gauntlets",obtain={NpcID=8204,NpcName="Soriid the Devourer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Tanaris"}}
-items[15383] = {id=15383,name="Rageclaw Gloves",obtain={NpcID=12206,NpcName="Primordial Behemoth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Maraudon"}}
-items[16738] = {id=16738,name="Witherseed Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5863,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[15625] = {id=15625,name="Gryphon Mail Gauntlets",obtain={NpcID=7803,NpcName="Scorpid Duneburrower",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Tanaris"}}
-items[10087] = {id=10087,name="Gothic Plate Gauntlets",obtain={NpcID=15750,NpcName="Qiraji Major",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Thousand Needles"}}
-items[14262] = {id=14262,name="Bloodwoven Mitts",obtain={NpcID=10081,NpcName="Dustwraith",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Zul'Farrak"}}
-items[15166] = {id=15166,name="Imposing Gloves",obtain={NpcID=5327,NpcName="Coast Crawl Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Feralas"}}
-items[8139] = {id=8139,name="Chromite Gauntlets",obtain={NpcID=7290,NpcName="Shadowforge Sharpshooter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Uldaman"}}
-items[10011] = {id=10011,name="Stormcloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12063,DropChance=0,Zone=""}}
-items[9967] = {id=9967,name="Embossed Plate Gauntlets",obtain={NpcID=8208,NpcName="Murderous Blisterpaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.5,Zone="Tanaris"}}
-items[15372] = {id=15372,name="Wolf Rider's Gloves",obtain={NpcID=7606,NpcName="Oro Eyegouge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Zul'Farrak"}}
-items[14942] = {id=14942,name="Warbringer's Gauntlets",obtain={NpcID=11688,NpcName="Cursed Centaur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Desolace"}}
-items[7480] = {id=7480,name="Ranger Gloves",obtain={NpcID=14224,NpcName="7:XT",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Badlands"}}
-items[9900] = {id=9900,name="Jazeraint Gauntlets",obtain={NpcID=2605,NpcName="Zalas Witherbark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Arathi Highlands"}}
-items[15155] = {id=15155,name="Nocturnal Gloves",obtain={NpcID=7345,NpcName="Splinterbone Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Downs"}}
-items[1988] = {id=1988,name="Chief Brigadier Gauntlets",obtain={NpcID=2416,NpcName="Crushridge Plunderer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Alterac Mountains"}}
-items[2434] = {id=2434,name="Russet Gloves",obtain={NpcID=1147,NpcName="Hragran (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[7433] = {id=7433,name="Twilight Gloves",obtain={NpcID=2753,NpcName="Barnabus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Badlands"}}
-items[7443] = {id=7443,name="Sentinel Gloves",obtain={NpcID=2850,NpcName="Broken Tooth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.8,Zone="Badlands"}}
-items[15570] = {id=15570,name="Marauder's Gauntlets",obtain={NpcID=23589,NpcName="Defias Rummager",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Dustwallow Marsh"}}
-items[4075] = {id=4075,name="Mail Combat Gauntlets",obtain={NpcID=2304,NpcName="Captain Ironhill",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Hillsbrad Foothills"}}
-items[3796] = {id=3796,name="Interlaced Gloves",obtain={NpcID=3985,NpcName="Grandpa Vishas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.2,Zone="Alterac Mountains"}}
-items[14199] = {id=14199,name="Thistlefur Gloves",obtain={NpcID=4421,NpcName="Charlga Razorflank",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Kraul"}}
-items[14583] = {id=14583,name="Dokebi Gloves",obtain={NpcID=10647,NpcName="Prince Raze",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Ashenvale"}}
-items[9823] = {id=9823,name="Durable Gloves",obtain={NpcID=5933,NpcName="Achellios the Banished",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Thousand Needles"}}
-items[1758] = {id=1758,name="Reinforced Chain Gloves",obtain={NpcID=5859,NpcName="Hagg Taurenbane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.9,Zone="The Barrens"}}
-items[4072] = {id=4072,name="Glimmering Mail Gauntlets",obtain={NpcID=2345,NpcName="Dun Garok Rifleman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Hillsbrad Foothills"}}
-items[14754] = {id=14754,name="Slayer's Gloves",obtain={NpcID=4518,NpcName="Death's Head Sage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Razorfen Kraul"}}
-items[2158] = {id=2158,name="Padded Gloves",obtain={NpcID=1314,NpcName="Duncan Cullen (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[15334] = {id=15334,name="Wrangler's Gloves",obtain={NpcID=5916,NpcName="Sentinel Amarassan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Stonetalon Mountains"}}
-items[15527] = {id=15527,name="Sentry's Gloves",obtain={NpcID=10640,NpcName="Oakpaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Ashenvale"}}
-items[1775] = {id=1775,name="Brocade Gloves",obtain={NpcID=17359,NpcName="Tel'athion the Impure",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Bloodmyst Isle"}}
-items[34342] = {id=34342,name="Handguards of the Dawn",obtain={NpcID=25315,NpcName="Kil'jaeden",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.0,Zone="Sunwell Plateau"}}
-items[35003] = {id=35003,name="Brutal Gladiator's Dreadweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30985] = {id=30985,name="Lightbringer Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31001] = {id=31001,name="Gronnstalker's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31060] = {id=31060,name="Gloves of Absolution",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31061] = {id=31061,name="Handguards of Absolution",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33676] = {id=33676,name="Vengeful Gladiator's Dreadweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33696] = {id=33696,name="Vengeful Gladiator's Lamellar Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33700] = {id=33700,name="Vengeful Gladiator's Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32328] = {id=32328,name="Botanist's Gloves of Growth",obtain={NpcID=21867,NpcName="Teron Gorefiend",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.2,Zone="Unknown"}}
-items[32353] = {id=32353,name="Gloves of Unfailing Faith",obtain={NpcID=23420,NpcName="Essence of Anger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.6,Zone="Unknown"}}
-items[31961] = {id=31961,name="Merciless Gladiator's Chain Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31993] = {id=31993,name="Merciless Gladiator's Lamellar Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32040] = {id=32040,name="Merciless Gladiator's Scaled Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32056] = {id=32056,name="Merciless Gladiator's Wyrmhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30189] = {id=30189,name="Cataclysm Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30232] = {id=30232,name="Nordrassil Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33517] = {id=33517,name="Bonefist Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24913] = {id=24913,name="Netherstorm Gauntlets",obtain={NpcID=22281,NpcName="Galvanoth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Unknown"}}
-items[25025] = {id=25025,name="Warlord's Iron-Gauntlets",obtain={NpcID=16410,NpcName="Spectral Retainer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Karazhan"}}
-items[27798] = {id=27798,name="Gauntlets of Vindication",obtain={NpcID=18344,NpcName="Nexus-Prince Shaffar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Mana-Tombs"}}
-items[28832] = {id=28832,name="High Warlord's Lamellar Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31559] = {id=31559,name="Windchanneller's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31583] = {id=31583,name="Slatesteel Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31636] = {id=31636,name="High Warlord's Ornamented Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35477] = {id=35477,name="Crusader's Scaled Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23514] = {id=23514,name="Flamebane Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29616,DropChance=0,Zone=""}}
-items[24672] = {id=24672,name="Eldr'naan Gloves",obtain={NpcID=18419,NpcName="Bloodwarder Greenkeeper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Botanica"}}
-items[30336] = {id=30336,name="Surger's Hand Wraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10406,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30937] = {id=30937,name="Earthmender's Fists of Undoing",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10451,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[29806] = {id=29806,name="Cowpoke's Riding Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10337,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[29812] = {id=29812,name="Blued Steel Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10274,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[24985] = {id=24985,name="Boulderfist Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24969] = {id=24969,name="Talonguard Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24624] = {id=24624,name="Slavehandler Handwraps",obtain={NpcID=18313,NpcName="Ethereal Sorcerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Mana-Tombs"}}
-items[21889] = {id=21889,name="Gloves of the Redeemed Prophecy",obtain={NpcID=15240,NpcName="Vekniss Hive Crawler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Ahn'Qiraj"}}
-items[3981] = {id=3981,name="Strapped Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21077] = {id=21077,name="63 Blue Shadow Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20661] = {id=20661,name="Abyssal Leather Gloves",obtain={NpcID=15307,NpcName="Earthen Templar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.4,Zone="Silithus"}}
-items[4331] = {id=4331,name="Phoenix Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3868,DropChance=0,Zone=""}}
-items[31055] = {id=31055,name="Gloves of the Tempest",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32049] = {id=32049,name="Merciless Gladiator's Silk Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24529] = {id=24529,name="130 Epic Warrior Gauntlets",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33519] = {id=33519,name="Handguards of the Templar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27470] = {id=27470,name="Gladiator's Mail Gauntlets",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[24905] = {id=24905,name="Talhide Lined-Gloves",obtain={NpcID=17800,NpcName="Coilfang Myrmidon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="The Steamvault"}}
-items[27508] = {id=27508,name="Incanter's Gloves",obtain={NpcID=17797,NpcName="Hydromancer Thespia",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="The Steamvault"}}
-items[28214] = {id=28214,name="Grips of the Lunar Eclipse",obtain={NpcID=17848,NpcName="Lieutenant Drake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.3,Zone="Old Hillsbrad Foothills"}}
-items[28324] = {id=28324,name="Gauntlets of Cruel Intention",obtain={NpcID=17978,NpcName="Thorngrin the Tender",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.7,Zone="The Botanica"}}
-items[30774] = {id=30774,name="Inferno Forged Gloves",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[35382] = {id=35382,name="Seer's Linked Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24897] = {id=24897,name="Sundered Gauntlets",obtain={NpcID=17722,NpcName="Coilfang Sorceress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Steamvault"}}
-items[25009] = {id=25009,name="Conqueror's Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30838] = {id=30838,name="Flameheart Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=37883,DropChance=0,Zone=""}}
-items[25001] = {id=25001,name="Bloodfist Gloves",obtain={NpcID=18661,NpcName="Terrorguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="Nagrand"}}
-items[24993] = {id=24993,name="Warmaul Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30224] = {id=30224,name="Junior Technician 3rd Grade Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10186,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[24873] = {id=24873,name="Ironspine Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25584] = {id=25584,name="Murkblood Oven Mitts",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9867,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[32656] = {id=32656,name="Crystalhide Handwraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=40753,DropChance=0,Zone=""}}
-items[24640] = {id=24640,name="Mistyreed Gloves",obtain={NpcID=18343,NpcName="Tavarok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Mana-Tombs"}}
-items[24752] = {id=24752,name="Daggerfen Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24744] = {id=24744,name="Ranger Gloves",obtain={NpcID=18312,NpcName="Ethereal Spellbinder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Mana-Tombs"}}
-items[24961] = {id=24961,name="Khan'aish Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24728] = {id=24728,name="Dementia Gloves",obtain={NpcID=18449,NpcName="Shienor Talonite",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Terokkar Forest"}}
-items[25523] = {id=25523,name="Windcaller's Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9732,Recipe=false,RecipeID=0,DropChance=0,Zone="Zangarmarsh"}}
-items[31179] = {id=31179,name="Rockwurm Hide Gloves",obtain={NpcID=18678,NpcName="Fulgorge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=44.9,Zone="Unknown"}}
-items[24833] = {id=24833,name="Nexus-Strider Gloves",obtain={NpcID=18120,NpcName="Ango'rosh Mauler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.7,Zone="Zangarmarsh"}}
-items[24937] = {id=24937,name="Darkcrest Gauntlets",obtain={NpcID=17624,NpcName="Laughing Skull Warden",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Blood Furnace"}}
-items[24592] = {id=24592,name="Fireheart Gloves",obtain={NpcID=17491,NpcName="Laughing Skull Rogue",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.2,Zone="The Blood Furnace"}}
-items[24584] = {id=24584,name="Outlander's Gloves",obtain={NpcID=16876,NpcName="Bonechewer Mutant",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.1,Zone="Hellfire Peninsula"}}
-items[24696] = {id=24696,name="Bonechewer Spikegloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25361] = {id=25361,name="Decaying Leather Gloves",obtain={NpcID=18796,NpcName="Fel Overseer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Shadow Labyrinth"}}
-items[19164] = {id=19164,name="Dark Iron Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23637,DropChance=0,Zone=""}}
-items[24782] = {id=24782,name="Loosely Threaded Gloves",obtain={NpcID=17735,NpcName="Wrathfin Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="The Underbog"}}
-items[25353] = {id=25353,name="Moldy Leather Gloves",obtain={NpcID=18461,NpcName="Dampscale Basilisk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Terokkar Forest"}}
-items[25370] = {id=25370,name="Eroded Mail Gloves",obtain={NpcID=17264,NpcName="Bonechewer Ravener",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.8,Zone="Hellfire Ramparts"}}
-items[19057] = {id=19057,name="Gloves of the Dawn",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23633,DropChance=0,Zone=""}}
-items[18367] = {id=18367,name="Gordok's Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1318,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[13395] = {id=13395,name="Skul's Fingerbone Claws",obtain={NpcID=10393,NpcName="Skul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.3,Zone="Stratholme"}}
-items[13181] = {id=13181,name="Demonskin Gloves",obtain={NpcID=10263,NpcName="Burning Felguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.9,Zone="Blackrock Spire"}}
-items[22256] = {id=22256,name="Mana Shaping Handwraps",obtain={NpcID=161495,NpcName="Secret Safe (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.2,Zone="Blackrock Depths"}}
-items[17007] = {id=17007,name="Stonerender Gauntlets",obtain={NpcID=1784,NpcName="Skeletal Sorcerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Western Plaguelands"}}
-items[7925] = {id=7925,name="Mithril Scale Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9942,DropChance=0,Zone=""}}
-items[9287] = {id=9287,name="Field Plate Gauntlets",obtain={NpcID=8211,NpcName="Old Cliff Jumper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="The Hinterlands"}}
-items[4254] = {id=4254,name="Barbaric Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3771,DropChance=0,Zone=""}}
-items[35011] = {id=35011,name="Brutal Gladiator's Felweave Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34407] = {id=34407,name="Tranquil Moonlight Wraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32275] = {id=32275,name="Spiritwalker Gauntlets",obtain={NpcID=22841,NpcName="Shade of Akama",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Black Temple"}}
-items[31981] = {id=31981,name="Merciless Gladiator's Felweave Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30114] = {id=30114,name="Destroyer Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33512] = {id=33512,name="Furious Deathgrips",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33531] = {id=33531,name="Polished Waterscale Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33539] = {id=33539,name="Trickster's Stickyfingers",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24801] = {id=24801,name="Dragonhawk Gloves",obtain={NpcID=23261,NpcName="Furywing",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Unknown"}}
-items[27745] = {id=27745,name="Hungarhide Gauntlets",obtain={NpcID=17770,NpcName="Hungarfen",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="The Underbog"}}
-items[34700] = {id=34700,name="Gauntlets of Divine Blessings",obtain={NpcID=24723,NpcName="Selin Fireheart",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.0,Zone="Magisters' Terrace"}}
-items[24664] = {id=24664,name="Shadow Council Gloves",obtain={NpcID=22128,NpcName="Durnholde Lookout",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Unknown"}}
-items[29784] = {id=29784,name="Harmony's Touch",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10240,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30967] = {id=30967,name="The Hands of Fate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10579,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[24881] = {id=24881,name="Der'izu Fists",obtain={NpcID=20990,NpcName="Bloodwarder Physician",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="The Mechanar"}}
-items[24648] = {id=24648,name="Astralaan Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24760] = {id=24760,name="Umbrafen Gloves",obtain={NpcID=19428,NpcName="Cobalt Serpent",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Sethekk Halls"}}
-items[31164] = {id=31164,name="Nethersteel Gauntlets",obtain={NpcID=18693,NpcName="Speaker Mar'grom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=42.9,Zone="Unknown"}}
-items[24865] = {id=24865,name="Blood Knight Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24977] = {id=24977,name="Reaver Gloves",obtain={NpcID=18317,NpcName="Ethereal Priest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Mana-Tombs"}}
-items[24857] = {id=24857,name="Marshcreeper Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24736] = {id=24736,name="Sunroc Gloves",obtain={NpcID=18317,NpcName="Ethereal Priest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Mana-Tombs"}}
-items[24616] = {id=24616,name="Vindicator Gloves",obtain={NpcID=18309,NpcName="Ethereal Scavenger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Mana-Tombs"}}
-items[24841] = {id=24841,name="Wrathfin Gloves",obtain={NpcID=20444,NpcName="Ango'rosh Shadowmage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="Zangarmarsh"}}
-items[24608] = {id=24608,name="Laughing Skull Gloves",obtain={NpcID=17961,NpcName="Coilfang Enchantress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Slave Pens"}}
-items[24720] = {id=24720,name="Dreghood Gloves",obtain={NpcID=18894,NpcName="Felguard Brute",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Blood Furnace"}}
-items[30784] = {id=30784,name="Worn Mag'hari Gauntlets",obtain={NpcID=18010,NpcName="Maktu (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[24704] = {id=24704,name="Haal'eshi Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16964] = {id=16964,name="Gauntlets of Wrath",obtain={NpcID=11983,NpcName="Firemaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.2,Zone="Blackwing Lair"}}
-items[19369] = {id=19369,name="Gloves of Rapid Evolution",obtain={NpcID=12435,NpcName="Razorgore the Untamed",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.6,Zone="Blackwing Lair"}}
-items[25344] = {id=25344,name="Dilapidated Cloth Gloves",obtain={NpcID=16425,NpcName="Phantom Guardsman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="Karazhan"}}
-items[19894] = {id=19894,name="Bloodsoaked Gauntlets",obtain={NpcID=11380,NpcName="Jin'do the Hexxer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.7,Zone="Zul'Gurub"}}
-items[21062] = {id=21062,name="66 Epic Fire Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21090] = {id=21090,name="66 Epic Shadow Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20713] = {id=20713,name="Desertstalkers's Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8377,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[21049] = {id=21049,name="63 Blue Fire Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11665] = {id=11665,name="Ogreseer Fists",obtain={NpcID=9030,NpcName="Ok'thor the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.6,Zone="Blackrock Depths"}}
-items[12464] = {id=12464,name="Bloodfire Talons",obtain={NpcID=5721,NpcName="Dreamscythe",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="The Temple of Atal'Hakkar"}}
-items[33233] = {id=33233,name="Cobalt-threaded Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11174,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[4107] = {id=4107,name="Tiger Hunter Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=188,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[9435] = {id=9435,name="Reticulated Bone Gauntlets",obtain={NpcID=15815,NpcName="Qiraji Captain Ka'ark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Thousand Needles"}}
-items[4121] = {id=4121,name="Gemmed Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=213,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[15560] = {id=15560,name="Pillager's Gloves",obtain={NpcID=9377,NpcName="Swirling Vortex",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Thousand Needles"}}
-items[4248] = {id=4248,name="Dark Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3765,DropChance=0,Zone=""}}
-items[7348] = {id=7348,name="Fletcher's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9145,DropChance=0,Zone=""}}
-items[34991] = {id=34991,name="Brutal Gladiator's Chain Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30170] = {id=30170,name="Cataclysm Handgrips",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30223] = {id=30223,name="Nordrassil Handgrips",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24688] = {id=24688,name="Elementalist Gloves",obtain={NpcID=22281,NpcName="Galvanoth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Unknown"}}
-items[31575] = {id=31575,name="Mistshroud Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32076] = {id=32076,name="Handguards of the Steady",obtain={NpcID=19220,NpcName="Pathaleon the Calculator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.7,Zone="The Mechanar"}}
-items[25591] = {id=25591,name="Clefthoof Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9851,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[31137] = {id=31137,name="Gauntlets of Purification",obtain={NpcID=17626,NpcName="Laughing Skull Legionnaire",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="The Blood Furnace"}}
-items[25654] = {id=25654,name="Felscale Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32462,DropChance=0,Zone=""}}
-items[21624] = {id=21624,name="Gauntlets of Kalimdor",obtain={NpcID=15299,NpcName="Viscidus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.8,Zone="Ahn'Qiraj"}}
-items[16907] = {id=16907,name="Bloodfang Gloves",obtain={NpcID=11981,NpcName="Flamegor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.4,Zone="Blackwing Lair"}}
-items[22864] = {id=22864,name="Blood Guard's Leather Grips",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[20259] = {id=20259,name="Shadow Panther Hide Gloves",obtain={NpcID=11338,NpcName="Hakkari Shadowcaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[19049] = {id=19049,name="Timbermaw Brawlers",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23704,DropChance=0,Zone=""}}
-items[14333] = {id=14333,name="Eternal Gloves",obtain={NpcID=6109,NpcName="Azuregos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.5,Zone="Azshara"}}
-items[17596] = {id=17596,name="Knight-Lieutenant's Satin Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20549] = {id=20549,name="Darkrune Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24912,DropChance=0,Zone=""}}
-items[18409] = {id=18409,name="Mooncloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=22869,DropChance=0,Zone=""}}
-items[23128] = {id=23128,name="The Shadow's Grasp",obtain={NpcID=14690,NpcName="Revanchion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=55.5,Zone="Dire Maul"}}
-items[8287] = {id=8287,name="Arcane Gloves",obtain={NpcID=10821,NpcName="Hed'mush the Rotting",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Eastern Plaguelands"}}
-items[186041] = {id=186041,name="Communal Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14782] = {id=14782,name="Khan's Gloves",obtain={NpcID=5647,NpcName="Sandfury Firecaller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Tanaris"}}
-items[4465] = {id=4465,name="Bonefist Gauntlets",obtain={NpcID=771,NpcName="Commander Felstrom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=46.6,Zone="Duskwood"}}
-items[7049] = {id=7049,name="Truefaith Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8782,DropChance=0,Zone=""}}
-items[7047] = {id=7047,name="Hands of Darkness",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8780,DropChance=0,Zone=""}}
-items[33671] = {id=33671,name="Vengeful Gladiator's Dragonhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30160] = {id=30160,name="Handguards of the Avatar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[26000] = {id=26000,name="Gladiator's Linked Gauntlets",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[24793] = {id=24793,name="Expedition Gloves",obtain={NpcID=18731,NpcName="Ambassador Hellmaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Shadow Labyrinth"}}
-items[32529] = {id=32529,name="Heretic's Gauntlets",obtain={NpcID=23161,NpcName="Darkscreecher Akkarai",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.5,Zone="Unknown"}}
-items[35387] = {id=35387,name="Seer's Mail Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23508] = {id=23508,name="Adamantite Plate Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=29605,DropChance=0,Zone=""}}
-items[24953] = {id=24953,name="Bogslayer Gauntlets",obtain={NpcID=17371,NpcName="Shadowmoon Warlock",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.9,Zone="The Blood Furnace"}}
-items[21619] = {id=21619,name="Gloves of the Messiah",obtain={NpcID=15509,NpcName="Princess Huhuran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.6,Zone="Ahn'Qiraj"}}
-items[21469] = {id=21469,name="Gauntlets of Southwind",obtain={NpcID=15340,NpcName="Moam",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.2,Zone="Ruins of Ahn'Qiraj"}}
-items[21458] = {id=21458,name="Gauntlets of New Life",obtain={NpcID=15339,NpcName="Ossirian the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.1,Zone="Ruins of Ahn'Qiraj"}}
-items[4012] = {id=4012,name="Sterling Chain Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16396] = {id=16396,name="Knight-Lieutenant's Leather Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16530] = {id=16530,name="Blood Guard's Chain Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18366] = {id=18366,name="Gordok's Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1318,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[18369] = {id=18369,name="Gordok's Handwraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1318,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[14043] = {id=14043,name="Cindercloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18412,DropChance=0,Zone=""}}
-items[186033] = {id=186033,name="Communal Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19126] = {id=19126,name="Slagplate Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7723,Recipe=false,RecipeID=0,DropChance=0,Zone="Searing Gorge"}}
-items[9868] = {id=9868,name="Renegade Gauntlets",obtain={NpcID=14222,NpcName="Araga",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.8,Zone="Alterac Mountains"}}
-items[4247] = {id=4247,name="Hillman's Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3764,DropChance=0,Zone=""}}
-items[31032] = {id=31032,name="Thunderheart Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30119] = {id=30119,name="Destroyer Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33528] = {id=33528,name="Gauntlets of Sniping",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31397] = {id=31397,name="Gladiator's Ringmail Gauntlets",obtain={NpcID=25177,NpcName="Evee Copperspring (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[30764] = {id=30764,name="Infernoweave Gloves",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[30767] = {id=30767,name="Inferno Tempered Gauntlets",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[32077] = {id=32077,name="Wrath Infused Gauntlets",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Ramparts"}}
-items[24849] = {id=24849,name="Fenclaw Fists",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24600] = {id=24600,name="Starfire Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21599] = {id=21599,name="Vek'lor's Gloves of Devastation",obtain={NpcID=15276,NpcName="Emperor Vek'lor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.3,Zone="Ahn'Qiraj"}}
-items[24921] = {id=24921,name="Grimscale Gauntlets",obtain={NpcID=17259,NpcName="Bonechewer Hungerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Hellfire Ramparts"}}
-items[16948] = {id=16948,name="Gauntlets of Ten Storms",obtain={NpcID=11981,NpcName="Flamegor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.9,Zone="Blackwing Lair"}}
-items[20618] = {id=20618,name="Gloves of Delusional Power",obtain={NpcID=14888,NpcName="Lethon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.4,Zone="Duskwood"}}
-items[22763] = {id=22763,name="Ironvine Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28462,DropChance=0,Zone=""}}
-items[16852] = {id=16852,name="Giantstalker's Gloves",obtain={NpcID=12264,NpcName="Shazzrah",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.7,Zone="Molten Core"}}
-items[3956] = {id=3956,name="Mesh Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16717] = {id=16717,name="Wildheart Gloves",obtain={NpcID=10516,NpcName="The Unforgiven",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.0,Zone="Stratholme"}}
-items[15091] = {id=15091,name="Runic Leather Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19055,DropChance=0,Zone=""}}
-items[34380] = {id=34380,name="Sunblessed Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46140,DropChance=0,Zone=""}}
-items[34998] = {id=34998,name="Brutal Gladiator's Dragonhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35067] = {id=35067,name="Brutal Gladiator's Plate Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31034] = {id=31034,name="Thunderheart Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32005] = {id=32005,name="Merciless Gladiator's Linked Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24889] = {id=24889,name="Skettis Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24656] = {id=24656,name="Consortium Gloves",obtain={NpcID=12377,NpcName="Wailing Spectre",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Deadwind Pass"}}
-items[25566] = {id=25566,name="Judicator's Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9862,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[31166] = {id=31166,name="Nethersteel-Lined Handwraps",obtain={NpcID=18693,NpcName="Speaker Mar'grom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Unknown"}}
-items[16920] = {id=16920,name="Handguards of Transcendence",obtain={NpcID=11983,NpcName="Firemaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.5,Zone="Blackwing Lair"}}
-items[18808] = {id=18808,name="Gloves of the Hypnotic Flame",obtain={NpcID=179703,NpcName="Cache of the Firelord (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.3,Zone="Molten Core"}}
-items[22343] = {id=22343,name="Handguards of Savagery",obtain={NpcID=16042,NpcName="Lord Valthalak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.0,Zone="Blackrock Spire"}}
-items[13244] = {id=13244,name="Gilded Gauntlets",obtain={NpcID=10596,NpcName="Mother Smolderweb",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.8,Zone="Blackrock Spire"}}
-items[20653] = {id=20653,name="Abyssal Plate Gauntlets",obtain={NpcID=15211,NpcName="Azure Templar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.4,Zone="Silithus"}}
-items[20659] = {id=20659,name="Abyssal Mail Handguards",obtain={NpcID=15212,NpcName="Hoary Templar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.3,Zone="Silithus"}}
-items[11814] = {id=11814,name="Molten Fists",obtain={NpcID=9156,NpcName="Ambassador Flamelash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.5,Zone="Blackrock Depths"}}
-items[14846] = {id=14846,name="Sunscale Gauntlets",obtain={NpcID=193,NpcName="Blue Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Azshara"}}
-items[14917] = {id=14917,name="Jade Gauntlets",obtain={NpcID=5236,NpcName="Gordunni Shaman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Feralas"}}
-items[14403] = {id=14403,name="Resilient Handgrips",obtain={NpcID=3940,NpcName="Taneel Darkwood",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Ashenvale"}}
-items[720] = {id=720,name="Brawler Gloves",obtain={NpcID=15814,NpcName="Qiraji Lieutenant Jo-rel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.5,Zone="The Barrens"}}
-items[35053] = {id=35053,name="Brutal Gladiator's Mooncloth Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30983] = {id=30983,name="Lightbringer Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33665] = {id=33665,name="Vengeful Gladiator's Chain Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34916] = {id=34916,name="Gauntlets of Rapidity",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24680] = {id=24680,name="Archmage Gloves",obtain={NpcID=17308,NpcName="Omor the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.1,Zone="Hellfire Ramparts"}}
-items[31181] = {id=31181,name="Rockwurm Hide Handwraps",obtain={NpcID=18678,NpcName="Fulgorge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.5,Zone="Unknown"}}
-items[16403] = {id=16403,name="Knight-Lieutenant's Chain Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13126] = {id=13126,name="Battlecaller Gauntlets",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=50.0,Zone="Silithus"}}
-items[17721] = {id=17721,name="Gloves of the Greatfather",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=21943,DropChance=0,Zone=""}}
-items[30487] = {id=30487,name="Merciless Gladiator's Plate Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31973] = {id=31973,name="Merciless Gladiator's Dreadweave Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35471] = {id=35471,name="Wyrmhide Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16913] = {id=16913,name="Netherwind Gloves",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.5,Zone="Blackwing Lair"}}
-items[16928] = {id=16928,name="Nemesis Gloves",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.3,Zone="Blackwing Lair"}}
-items[16812] = {id=16812,name="Gloves of Prophecy",obtain={NpcID=12259,NpcName="Gehennas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.0,Zone="Molten Core"}}
-items[14525] = {id=14525,name="Boneclenched Gauntlets",obtain={NpcID=10508,NpcName="Ras Frostwhisper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.7,Zone="Scholomance"}}
-items[7471] = {id=7471,name="Regal Gloves",obtain={NpcID=14492,NpcName="Verifonix",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Stranglethorn Vale"}}
-items[33256] = {id=33256,name="Refitted Bruiser Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11162,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[7421] = {id=7421,name="Phalanx Gauntlets",obtain={NpcID=14277,NpcName="Lady Zephris",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.4,Zone="Hillsbrad Foothills"}}
-items[3341] = {id=3341,name="Gauntlets of Ogre Strength",obtain={NpcID=2564,NpcName="Boulderfist Enforcer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Arathi Highlands"}}
-items[6733] = {id=6733,name="Ironforge Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8368,DropChance=0,Zone=""}}
-items[35413] = {id=35413,name="Crusader's Scaled Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18368] = {id=18368,name="Gordok's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1318,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[4509] = {id=4509,name="Seawolf Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=664,Recipe=false,RecipeID=0,DropChance=0,Zone="Arathi Highlands"}}
-items[10413] = {id=10413,name="Gloves of the Fang",obtain={NpcID=3840,NpcName="Druid of the Fang",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.3,Zone="Wailing Caverns"}}
-items[4239] = {id=4239,name="Embossed Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3756,DropChance=0,Zone=""}}
-items[6586] = {id=6586,name="Scouting Gloves",obtain={NpcID=3736,NpcName="Darkslayer Mordenthal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.5,Zone="Ashenvale"}}
-items[10401] = {id=10401,name="Blackened Defias Gloves",obtain={NpcID=4417,NpcName="Defias Taskmaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.4,Zone="The Deadmines"}}
-items[5970] = {id=5970,name="Serpent Gloves",obtain={NpcID=3673,NpcName="Lord Serpentis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.4,Zone="Wailing Caverns"}}
-items[32865] = {id=32865,name="Drake Tamer's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20917] = {id=20917,name="Unadorned Chain Gloves",obtain={NpcID=15292,NpcName="Faraden Thelryn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Eversong Woods"}}
-items[25969] = {id=25969,name="Rapscallion's Touch",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[5195] = {id=5195,name="Gold-flecked Gloves",obtain={NpcID=643,NpcName="Sneed",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=67.2,Zone="The Deadmines"}}
-items[3474] = {id=3474,name="Gemmed Copper Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3325,DropChance=0,Zone=""}}
-items[7285] = {id=7285,name="Nimble Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9074,DropChance=0,Zone=""}}
-items[12994] = {id=12994,name="Thorbia's Gauntlets",obtain={NpcID=15810,NpcName="Eroded Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="The Barrens"}}
-items[15115] = {id=15115,name="Rigid Gloves",obtain={NpcID=10559,NpcName="Lady Vespia",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Ashenvale"}}
-items[4310] = {id=4310,name="Heavy Woolen Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3843,DropChance=0,Zone=""}}
-items[12977] = {id=12977,name="Magefist Gloves",obtain={NpcID=2160,NpcName="Gravelflint Geomancer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Darkshore"}}
-items[6577] = {id=6577,name="Defender Gauntlets",obtain={NpcID=3736,NpcName="Darkslayer Mordenthal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Ashenvale"}}
-items[1945] = {id=1945,name="Woodworking Gloves",obtain={NpcID=641,NpcName="Goblin Woodcarver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="The Deadmines"}}
-items[6547] = {id=6547,name="Soldier's Gauntlets",obtain={NpcID=15812,NpcName="Qiraji Officer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.5,Zone="The Barrens"}}
-items[2968] = {id=2968,name="Warrior's Gloves",obtain={NpcID=16855,NpcName="Tregla",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.5,Zone="Eversong Woods"}}
-items[3066] = {id=3066,name="Bright Gloves",obtain={NpcID=14279,NpcName="Creepthess",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Hillsbrad Foothills"}}
-items[6521] = {id=6521,name="Pioneer Gloves",obtain={NpcID=5787,NpcName="Enforcer Emilgund",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.2,Zone="Mulgore"}}
-items[20987] = {id=20987,name="Light Cloth Gloves",obtain={NpcID=15291,NpcName="Jainthess Thelryn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Eversong Woods"}}
-items[14162] = {id=14162,name="Pagan Mitts",obtain={NpcID=5828,NpcName="Humar the Pridelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="The Barrens"}}
-items[892] = {id=892,name="Gnoll Casting Gloves",obtain={NpcID=1009,NpcName="Mosshide Mistweaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.9,Zone="Wetlands"}}
-items[14124] = {id=14124,name="Ritual Gloves",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="The Barrens"}}
-items[3472] = {id=3472,name="Runed Copper Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3323,DropChance=0,Zone=""}}
-items[15502] = {id=15502,name="Outrunner's Gloves",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.4,Zone="The Barrens"}}
-items[2980] = {id=2980,name="Veteran Gloves",obtain={NpcID=3532,NpcName="Pyrewood Leatherworker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Silverpine Forest"}}
-items[1965] = {id=1965,name="White Wolf Gloves",obtain={NpcID=1132,NpcName="Timber",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.1,Zone="Dun Morogh"}}
-items[2964] = {id=2964,name="Burnt Leather Gloves",obtain={NpcID=16854,NpcName="Eldinarcus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Eversong Woods"}}
-items[15008] = {id=15008,name="Primal Mitts",obtain={NpcID=17448,NpcName="Chieftain Oomooroo",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Azuremyst Isle"}}
-items[3074] = {id=3074,name="Smoldering Gloves",obtain={NpcID=1043,NpcName="Lost Whelp",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Wetlands"}}
-items[5822] = {id=5822,name="Hedgeseed Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6565] = {id=6565,name="Shimmering Gloves",obtain={NpcID=10559,NpcName="Lady Vespia",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.2,Zone="Ashenvale"}}
-items[7284] = {id=7284,name="Red Whelp Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9072,DropChance=0,Zone=""}}
-items[14747] = {id=14747,name="Hulking Gauntlets",obtain={NpcID=5864,NpcName="Swinegart Spearhide",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="The Barrens"}}
-items[9780] = {id=9780,name="Bandit Gloves",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Barrens"}}
-items[9787] = {id=9787,name="Raider's Gauntlets",obtain={NpcID=5835,NpcName="Foreman Grills",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.2,Zone="The Barrens"}}
-items[2984] = {id=2984,name="Seer's Gloves",obtain={NpcID=3578,NpcName="Dalaran Miner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Silverpine Forest"}}
-items[14726] = {id=14726,name="War Paint Gloves",obtain={NpcID=3652,NpcName="Trigore the Lasher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Unknown"}}
-items[850] = {id=850,name="Chainmail Gloves",obtain={NpcID=167,NpcName="Morhan Coppertongue (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Loch Modan"}}
-items[2274] = {id=2274,name="Sapper's Gloves",obtain={NpcID=1222,NpcName="Dark Iron Sapper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.1,Zone="Loch Modan"}}
-items[9762] = {id=9762,name="Cadet Gauntlets",obtain={NpcID=5865,NpcName="Dishu",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.9,Zone="The Barrens"}}
-items[6515] = {id=6515,name="Disciple's Gloves",obtain={NpcID=16854,NpcName="Eldinarcus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Eversong Woods"}}
-items[2385] = {id=2385,name="Tarnished Chain Gloves",obtain={NpcID=1104,NpcName="Grundel Harkin (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Dun Morogh"}}
-items[21005] = {id=21005,name="Unkempt Gloves",obtain={NpcID=15372,NpcName="Springpaw Lynx",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.2,Zone="Eversong Woods"}}
-items[14572] = {id=14572,name="Bristlebark Gloves",obtain={NpcID=10644,NpcName="Mist Howler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Ashenvale"}}
-items[6481] = {id=6481,name="Dagmire Gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1487,Recipe=false,RecipeID=0,DropChance=0,Zone="Wailing Caverns"}}
-items[14367] = {id=14367,name="Mystic's Gloves",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="The Barrens"}}
-items[1944] = {id=1944,name="Metalworking Gloves",obtain={NpcID=1731,NpcName="Goblin Craftsman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="The Deadmines"}}
-items[839] = {id=839,name="Heavy Weave Gloves",obtain={NpcID=1214,NpcName="Aldren Cordon (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Loch Modan"}}
-items[4676] = {id=4676,name="Skeletal Gauntlets",obtain={NpcID=624,NpcName="Undead Excavator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.9,Zone="Unknown"}}
-items[1498] = {id=1498,name="Calico Gloves",obtain={NpcID=3532,NpcName="Pyrewood Leatherworker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.0,Zone="Silverpine Forest"}}
-items[2976] = {id=2976,name="Hunting Gloves",obtain={NpcID=3533,NpcName="Moonrage Leatherworker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Silverpine Forest"}}
-items[15491] = {id=15491,name="Bloodspattered Gloves",obtain={NpcID=17338,NpcName="Nazzivus Rogue",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Bloodmyst Isle"}}
-items[14102] = {id=14102,name="Native Handwraps",obtain={NpcID=3228,NpcName="Corrupted Surf Crawler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Durotar"}}
-items[3290] = {id=3290,name="Ancestral Gloves",obtain={NpcID=17701,NpcName="Lord Xiz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Bloodmyst Isle"}}
-items[793] = {id=793,name="Knitted Gloves",obtain={NpcID=74,NpcName="Kurran Steele (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[797] = {id=797,name="Rough Leather Gloves",obtain={NpcID=74,NpcName="Kurran Steele (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[14089] = {id=14089,name="Beaded Gloves",obtain={NpcID=1993,NpcName="Greenpaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Teldrassil"}}
-items[2960] = {id=2960,name="Journeyman's Gloves",obtain={NpcID=16855,NpcName="Tregla",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.1,Zone="Eversong Woods"}}
-items[24144] = {id=24144,name="Battle Worn Handguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9616,Recipe=false,RecipeID=0,DropChance=0,Zone="Azuremyst Isle"}}
-items[1422] = {id=1422,name="Worn Leather Gloves",obtain={NpcID=15642,NpcName="Amani Shadowpriest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.9,Zone="Eversong Woods"}}
-items[2125] = {id=2125,name="Cracked Leather Gloves",obtain={NpcID=190,NpcName="Dermot Johns (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[2653] = {id=2653,name="Flimsy Chain Gloves",obtain={NpcID=16518,NpcName="Nestlewood Owlkin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Azuremyst Isle"}}
-items[1750] = {id=1750,name="Linked Chain Gloves",obtain={NpcID=10641,NpcName="Branch Snapper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Ashenvale"}}
-items[1799] = {id=1799,name="Rawhide Gloves",obtain={NpcID=2529,NpcName="Son of Arugal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Shadowfang Keep"}}
-items[239] = {id=239,name="Cured Leather Gloves",obtain={NpcID=1295,NpcName="Lara Moore (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[718] = {id=718,name="Scalemail Gloves",obtain={NpcID=956,NpcName="Dorin Songblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Redridge Mountains"}}
-items[1314] = {id=1314,name="Ghoul Fingers",obtain={NpcID=572,NpcName="Leprithus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=76.7,Zone="Westfall"}}
-items[1448] = {id=1448,name="Blackrock Gauntlets",obtain={NpcID=4064,NpcName="Blackrock Scout",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Redridge Mountains"}}
-items[2992] = {id=2992,name="Burnished Gloves",obtain={NpcID=596,NpcName="Brainwashed Noble",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.3,Zone="Unknown"}}
-items[14168] = {id=14168,name="Buccaneer's Gloves",obtain={NpcID=16329,NpcName="Dar'Khan Drathir",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Ghostlands"}}
-items[1767] = {id=1767,name="Canvas Gloves",obtain={NpcID=17678,NpcName="Sironas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.2,Zone="Bloodmyst Isle"}}
-items[1742] = {id=1742,name="Laced Mail Gloves",obtain={NpcID=125,NpcName="Riverpaw Overseer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Westfall"}}
-items[15310] = {id=15310,name="Feral Gloves",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="The Barrens"}}
-items[6541] = {id=6541,name="Willow Gloves",obtain={NpcID=15810,NpcName="Eroded Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.7,Zone="The Barrens"}}
-items[14117] = {id=14117,name="Aboriginal Gloves",obtain={NpcID=11714,NpcName="Marosh the Devious",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Darkshore"}}
-items[2312] = {id=2312,name="Fine Leather Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=2164,DropChance=0,Zone=""}}
-items[2972] = {id=2972,name="Spellbinder Gloves",obtain={NpcID=3528,NpcName="Pyrewood Armorer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Silverpine Forest"}}
-items[9746] = {id=9746,name="Simple Gloves",obtain={NpcID=2175,NpcName="Shadowclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.2,Zone="Darkshore"}}
-items[15484] = {id=15484,name="War Torn Handgrips",obtain={NpcID=2014,NpcName="Gnarlpine Totemic",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Teldrassil"}}
-items[1734] = {id=1734,name="Worn Mail Gloves",obtain={NpcID=1271,NpcName="Old Icebeard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Dun Morogh"}}
-items[2369] = {id=2369,name="Woven Gloves",obtain={NpcID=3166,NpcName="Cutac (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Durotar"}}
-items[2375] = {id=2375,name="Battered Leather Gloves",obtain={NpcID=2137,NpcName="Eliza Callen (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[2397] = {id=2397,name="Light Mail Gloves",obtain={NpcID=1240,NpcName="Boran Ironclink (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Dun Morogh"}}
-items[15476] = {id=15476,name="Charger's Handwraps",obtain={NpcID=5824,NpcName="Captain Flat Tusk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Durotar"}}
-items[1430] = {id=1430,name="Patchwork Gloves",obtain={NpcID=15655,NpcName="Rotlimb Cannibal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.6,Zone="Eversong Woods"}}
-items[2119] = {id=2119,name="Thin Cloth Gloves",obtain={NpcID=190,NpcName="Dermot Johns (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[1368] = {id=1368,name="Ragged Leather Gloves",obtain={NpcID=1918,NpcName="Karrel Grayves",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Tirisfal Glades"}}
-items[21012] = {id=21012,name="Scraggy Leather Gloves",obtain={NpcID=15366,NpcName="Springpaw Cub",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.3,Zone="Eversong Woods"}}
-items[30288] = {id=30288,name="Cenarion Warden's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[203] = {id=203,name="Thick Cloth Gloves",obtain={NpcID=1291,NpcName="Carla Granger (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[15509] = {id=15509,name="Grunt's Handwraps",obtain={NpcID=4802,NpcName="Blackfathom Tide Priestess",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Unknown"}}
-items[844] = {id=844,name="Tanned Leather Gloves",obtain={NpcID=896,NpcName="Veldan Lightfoot (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[1791] = {id=1791,name="Patched Leather Gloves",obtain={NpcID=16248,NpcName="Jurion the Deceiver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Ghostlands"}}
-items[6554] = {id=6554,name="Bard's Gloves",obtain={NpcID=2184,NpcName="Lady Moongazer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Darkshore"}}
-items[5337] = {id=5337,name="Wayfaring Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=888,Recipe=false,RecipeID=0,DropChance=0,Zone="The Barrens"}}
-items[4768] = {id=4768,name="Adept's Gloves",obtain={NpcID=3270,NpcName="Elder Mystic Razorsnout",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=46.5,Zone="The Barrens"}}
-items[3304] = {id=3304,name="Brackwater Gauntlets",obtain={NpcID=17331,NpcName="Wrathscale Shorestalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Bloodmyst Isle"}}
-items[1506] = {id=1506,name="Warped Leather Gloves",obtain={NpcID=3533,NpcName="Moonrage Leatherworker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.9,Zone="Silverpine Forest"}}
-items[3286] = {id=3286,name="Tribal Gloves",obtain={NpcID=17333,NpcName="Wrathscale Screamer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Bloodmyst Isle"}}
-items[3281] = {id=3281,name="Battle Chain Gloves",obtain={NpcID=17448,NpcName="Chieftain Oomooroo",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Azuremyst Isle"}}
-items[6510] = {id=6510,name="Infantry Gauntlets",obtain={NpcID=14430,NpcName="Duskstalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.0,Zone="Teldrassil"}}
-items[2403] = {id=2403,name="Light Chain Gloves",obtain={NpcID=2135,NpcName="Abe Winters (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[2645] = {id=2645,name="Loose Chain Gloves",obtain={NpcID=16855,NpcName="Tregla",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.5,Zone="Eversong Woods"}}
-items[21018] = {id=21018,name="Shoddy Chain Gloves",obtain={NpcID=15372,NpcName="Springpaw Lynx",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Eversong Woods"}}
-items[20790] = {id=20790,name="90 green shaman gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20777] = {id=20777,name="63 green shaman gauntlets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[2988] = {id=2988,name="Inscribed Leather Gloves",obtain={NpcID=16316,NpcName="Stonewing Tracker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Ghostlands"}}
-items[9755] = {id=9755,name="Gypsy Gloves",obtain={NpcID=2175,NpcName="Shadowclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Darkshore"}}
-items[4307] = {id=4307,name="Heavy Linen Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3840,DropChance=0,Zone=""}}
-items[711] = {id=711,name="Tattered Cloth Gloves",obtain={NpcID=2113,NpcName="Archibald Kava (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[2391] = {id=2391,name="Rusted Chain Gloves",obtain={NpcID=2116,NpcName="Blacksmith Rand (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[714] = {id=714,name="Dirty Leather Gloves",obtain={NpcID=2113,NpcName="Archibald Kava (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tirisfal Glades"}}
-items[1377] = {id=1377,name="Frayed Gloves",obtain={NpcID=3101,NpcName="Vile Familiar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Durotar"}}
-items[25576] = {id=25576,name="Smuggler's Mitts",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[2167] = {id=2167,name="Foreman's Gloves",obtain={NpcID=626,NpcName="Foreman Thistlenettle",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Unknown"}}
-items[28145] = {id=28145,name="Tranquillien Wraps",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25795] = {id=25795,name="Gloves of Preservation",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30963] = {id=30963,name="QR 10574 Plate Warrior Gloves",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25581] = {id=25581,name="QR 9867 Hunter Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[38161] = {id=38161,name="Soul-Trader's Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25797] = {id=25797,name="Crushing Grasp",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3308] = {id=3308,name="Barbaric Cloth Gloves",obtain={NpcID=17334,NpcName="Wrathscale Marauder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Bloodmyst Isle"}}
-items[4767] = {id=4767,name="Coppercloth Gloves",obtain={NpcID=3578,NpcName="Dalaran Miner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.4,Zone="Silverpine Forest"}}
-items[14387] = {id=14387,name="Durability Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14564] = {id=14564,name="Prospector's Mitts",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="The Barrens"}}
-items[6628] = {id=6628,name="Raven's Claws",obtain={NpcID=2283,NpcName="Ravenclaw Regent",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.1,Zone="Silverpine Forest"}}
-items[3314] = {id=3314,name="Ceremonial Leather Gloves",obtain={NpcID=17702,NpcName="High Chief Bristlelimb",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Bloodmyst Isle"}}
-items[15300] = {id=15300,name="Grizzly Gloves",obtain={NpcID=17673,NpcName="Stinkhorn Striker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Bloodmyst Isle"}}
-items[6202] = {id=6202,name="Fingerless Gloves",obtain={NpcID=61,NpcName="Thuros Lightfingers",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=65.9,Zone="Elwynn Forest"}}
-items[20923] = {id=20923,name="Sun Cured Gloves",obtain={NpcID=15291,NpcName="Jainthess Thelryn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Eversong Woods"}}
-items[6467] = {id=6467,name="Deviate Scale Gloves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7954,DropChance=0,Zone=""}}
-items[15016] = {id=15016,name="Lupine Handwraps",obtain={NpcID=11519,NpcName="Bazzalan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Ragefire Chasm"}}
+items[21847] = {id=21847,name="Spellfire Gloves",source={ID=26753,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16463] = {id=16463,name="Marshal's Chain Grips",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28780] = {id=28780,name="Soul-Eater's Handwraps",source={ID=17257,SourceName="Magtheridon",SourceType="Kill",DropChance="14.8",Zone="Magtheridon's Lair"}}
+items[30341] = {id=30341,name="Flesh Handler's Gauntlets",source={ID=10345,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[27474] = {id=27474,name="Beast Lord Handguards",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
+items[30644] = {id=30644,name="Grips of Deftness",source={ID=16411,SourceName="Spectral Chef",SourceType="Kill",DropChance="1.3",Zone="Karazhan"}}
+items[28507] = {id=28507,name="Handwraps of Flowing Thought",source={ID=15550,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="12.1",Zone="Karazhan"}}
+items[28776] = {id=28776,name="Liar's Tongue Gloves",source={ID=17257,SourceName="Magtheridon",SourceType="Kill",DropChance="13.0",Zone="Magtheridon's Lair"}}
+items[28824] = {id=28824,name="Gauntlets of Martial Perfection",source={ID=19044,SourceName="Gruul the Dragonkiller",SourceType="Kill",DropChance="14.3",Zone="Gruul's Lair"}}
+items[25685] = {id=25685,name="Fel Leather Gloves",source={ID=32490,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28836] = {id=28836,name="High Warlord's Leather Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16471] = {id=16471,name="Marshal's Lamellar Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[10019] = {id=10019,name="Dreamweave Gloves",source={ID=12067,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28827] = {id=28827,name="Gauntlets of the Dragonslayer",source={ID=19044,SourceName="Gruul the Dragonkiller",SourceType="Kill",DropChance="11.8",Zone="Gruul's Lair"}}
+items[16571] = {id=16571,name="General's Chain Gloves",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[27531] = {id=27531,name="Wastewalker Gloves",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
+items[28508] = {id=28508,name="Gloves of Saintly Blessings",source={ID=16152,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="26.3",Zone="Karazhan"}}
+items[14551] = {id=14551,name="Edgemaster's Handguards",source={ID=1784,SourceName="Skeletal Sorcerer",SourceType="Kill",DropChance="0",Zone="Western Plaguelands"}}
+items[28624] = {id=28624,name="Grand Marshal's Dreadweave Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[15063] = {id=15063,name="Devilsaur Gauntlets",source={ID=19084,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22867] = {id=22867,name="Blood Guard's Mail Vices",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[27465] = {id=27465,name="Mana-Etched Gloves",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="66.6",Zone="Hellfire Ramparts"}}
+items[28684] = {id=28684,name="Grand Marshal's Leather Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16448] = {id=16448,name="Marshal's Dragonhide Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[8204] = {id=8204,name="Tough Scorpid Gloves",source={ID=10542,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16548] = {id=16548,name="General's Plate Gauntlets",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28506] = {id=28506,name="Gloves of Dexterous Manipulation",source={ID=15550,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="18.2",Zone="Karazhan"}}
+items[17588] = {id=17588,name="General's Dreadweave Gloves",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28518] = {id=28518,name="Iron Gauntlets of the Maiden",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="13.3",Zone="Karazhan"}}
+items[24393] = {id=24393,name="Bloody Surgeon's Mitts",source={ID=17380,SourceName="Broggok",SourceType="Kill",DropChance="23.3",Zone="The Blood Furnace"}}
+items[23282] = {id=23282,name="Knight-Lieutenant's Dreadweave Handwraps",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[23274] = {id=23274,name="Knight-Lieutenant's Lamellar Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28505] = {id=28505,name="Gauntlets of Renewed Hope",source={ID=15550,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="16.0",Zone="Karazhan"}}
+items[24450] = {id=24450,name="Manaspark Gloves",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="14.2",Zone="The Underbog"}}
+items[16574] = {id=16574,name="General's Mail Gauntlets",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[13863] = {id=13863,name="Runecloth Gloves",source={ID=18417,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30725] = {id=30725,name="Anger-Spark Gloves",source={ID=17711,SourceName="Doomwalker",SourceType="Kill",DropChance="19.5",Zone="Unknown"}}
+items[28520] = {id=28520,name="Gloves of Centering",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="13.3",Zone="Karazhan"}}
+items[18823] = {id=18823,name="Aged Core Leather Gloves",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="10.8",Zone="Molten Core"}}
+items[20264] = {id=20264,name="Peacekeeper Gauntlets",source={ID=14834,SourceName="Hakkar",SourceType="Kill",DropChance="11.4",Zone="Zul'Gurub"}}
+items[25834] = {id=25834,name="Gladiator's Leather Gloves",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[28700] = {id=28700,name="Grand Marshal's Plate Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[30943] = {id=30943,name="Verdant Gloves",source={ID=10708,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[29317] = {id=29317,name="Tempest's Touch",source={ID=10285,SourceName="",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
+items[16440] = {id=16440,name="Marshal's Silk Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16484] = {id=16484,name="Marshal's Plate Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[23517] = {id=23517,name="Felsteel Gloves",source={ID=29619,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27535] = {id=27535,name="Gauntlets of the Righteous",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
+items[5966] = {id=5966,name="Guardian Gloves",source={ID=7156,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28817] = {id=28817,name="High Warlord's Dreadweave Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28521] = {id=28521,name="Mitts of the Treemender",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="13.3",Zone="Karazhan"}}
+items[31589] = {id=31589,name="Grand Marshal's Kodohide Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[27475] = {id=27475,name="Gauntlets of the Bold",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="4.0",Zone="The Steamvault"}}
+items[10003] = {id=10003,name="Black Mageweave Gloves",source={ID=12053,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28614] = {id=28614,name="Grand Marshal's Chain Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28618] = {id=28618,name="Grand Marshal's Dragonhide Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[22194] = {id=22194,name="Black Grasp of the Destroyer",source={ID=27589,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35366] = {id=35366,name="Opportunist's Leather Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16454] = {id=16454,name="Marshal's Leather Handgrips",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[9390] = {id=9390,name="Revelosh's Gloves",source={ID=6910,SourceName="Revelosh",SourceType="Kill",DropChance="20.9",Zone="Uldaman"}}
+items[16555] = {id=16555,name="General's Dragonhide Gloves",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[23520] = {id=23520,name="Ragesteel Gloves",source={ID=29642,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30668] = {id=30668,name="Grasp of the Dead",source={ID=16482,SourceName="Trapped Soul",SourceType="Kill",DropChance="25.0",Zone="Karazhan"}}
+items[29506] = {id=29506,name="Gloves of the Living Touch",source={ID=35562,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29613] = {id=29613,name="General's Lamellar Gloves",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[29503] = {id=29503,name="Cobrascale Gloves",source={ID=35559,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28519] = {id=28519,name="Gloves of Quickening",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
+items[18407] = {id=18407,name="Felcloth Gloves",source={ID=22867,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27793] = {id=27793,name="Earth Mantle Handwraps",source={ID=17796,SourceName="Mekgineer Steamrigger",SourceType="Kill",DropChance="66.0",Zone="The Steamvault"}}
+items[29097] = {id=29097,name="Gauntlets of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22426] = {id=22426,name="Redemption Handguards",source={ID=9048,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[28716] = {id=28716,name="Grand Marshal's Silk Handguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[32072] = {id=32072,name="Gauntlets of Dissension",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="21.2",Zone="The Botanica"}}
+items[28856] = {id=28856,name="High Warlord's Satin Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24387] = {id=24387,name="Ironblade Gauntlets",source={ID=17381,SourceName="The Maker",SourceType="Kill",DropChance="30.0",Zone="The Blood Furnace"}}
+items[28968] = {id=28968,name="Voidheart Gloves",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28704] = {id=28704,name="Grand Marshal's Satin Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[22421] = {id=22421,name="Dreadnaught Gauntlets",source={ID=9040,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[27509] = {id=27509,name="Handgrips of Assassination",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="12.3",Zone="The Black Morass"}}
+items[27493] = {id=27493,name="Gloves of the Deadwatcher",source={ID=18371,SourceName="Shirrak the Dead Watcher",SourceType="Kill",DropChance="6.1",Zone="Auchenai Crypts"}}
+items[27537] = {id=27537,name="Gloves of Oblivion",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
+items[29055] = {id=29055,name="Handwraps of the Incarnate",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31149] = {id=31149,name="Gloves of Pandemonium",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22469] = {id=22469,name="Earthshatter Handguards",source={ID=9073,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[29507] = {id=29507,name="Windslayer Wraps",source={ID=35563,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31620] = {id=31620,name="Grand Marshal's Mooncloth Mitts",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[30951] = {id=30951,name="Ar'tor's Mainstay",source={ID=10579,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[22865] = {id=22865,name="Blood Guard's Dreadweave Handwraps",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28690] = {id=28690,name="Grand Marshal's Linked Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[22509] = {id=22509,name="Plagueheart Gloves",source={ID=9108,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[28852] = {id=28852,name="High Warlord's Plate Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20716] = {id=20716,name="Sandworm Skin Gloves",source={ID=8381,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[17584] = {id=17584,name="Marshal's Dreadweave Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[8187] = {id=8187,name="Turtle Scale Gloves",source={ID=10509,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[17608] = {id=17608,name="Marshal's Satin Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[4253] = {id=4253,name="Toughened Leather Gloves",source={ID=3770,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27536] = {id=27536,name="Hallowed Handwraps",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
+items[28304] = {id=28304,name="Prismatic Mittens of Mending",source={ID=17976,SourceName="Commander Sarannis",SourceType="Kill",DropChance="16.5",Zone="The Botanica"}}
+items[23290] = {id=23290,name="Knight-Lieutenant's Silk Handwraps",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29039] = {id=29039,name="Cyclone Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34370] = {id=34370,name="Gloves of Immortal Dusk",source={ID=46134,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31614] = {id=31614,name="Gladiator's Ornamented Gloves",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[35468] = {id=35468,name="Opportunist's Leather Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24365] = {id=24365,name="Deft Handguards",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="25.0",Zone="The Slave Pens"}}
+items[28719] = {id=28719,name="Grand Marshal's Wyrmhide Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[21585] = {id=21585,name="Dark Storm Gauntlets",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="28.0",Zone="Ahn'Qiraj"}}
+items[29085] = {id=29085,name="Demon Stalker Gauntlets",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35361] = {id=35361,name="Kodohide Gloves",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[10331] = {id=10331,name="Scarlet Gauntlets",source={ID=4301,SourceName="Scarlet Centurion",SourceType="Kill",DropChance="2.0",Zone="Scarlet Monastery"}}
+items[28806] = {id=28806,name="High Warlord's Chain Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28868] = {id=28868,name="High Warlord's Silk Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22654] = {id=22654,name="Glacial Gloves",source={ID=28205,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27806] = {id=27806,name="Fathomheart Gauntlets",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="21.7",Zone="The Steamvault"}}
+items[16560] = {id=16560,name="General's Leather Mitts",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[22441] = {id=22441,name="Cryptstalker Handguards",source={ID=9059,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[24090] = {id=24090,name="Bloodstained Ravager Gauntlets",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="8.8",Zone="Hellfire Ramparts"}}
+items[7349] = {id=7349,name="Herbalist's Gloves",source={ID=9146,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27457] = {id=27457,name="Life Bearer's Gauntlets",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
+items[35356] = {id=35356,name="Dragonhide Gloves",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[18544] = {id=18544,name="Doomhide Gauntlets",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="19.5",Zone="Searing Gorge"}}
+items[12639] = {id=12639,name="Stronghold Gauntlets",source={ID=16741,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29327] = {id=29327,name="Cryo-mitts",source={ID=10218,SourceName="",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
+items[24556] = {id=24556,name="Gladiator's Dreadweave Gloves",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[31375] = {id=31375,name="Gladiator's Kodohide Gloves",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[29020] = {id=29020,name="Warbringer Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30741] = {id=30741,name="Topaz-Studded Battlegrips",source={ID=18728,SourceName="Doom Lord Kazzak",SourceType="Kill",DropChance="18.0",Zone="Unknown"}}
+items[28396] = {id=28396,name="Gloves of the Unbound",source={ID=20886,SourceName="Wrath-Scryer Soccothrates",SourceType="Kill",DropChance="0",Zone="The Arcatraz"}}
+items[35328] = {id=35328,name="Dreadweave Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14622] = {id=14622,name="Deathbone Gauntlets",source={ID=10507,SourceName="The Ravenian",SourceType="Kill",DropChance="3.9",Zone="Scholomance"}}
+items[16712] = {id=16712,name="Shadowcraft Gloves",source={ID=9236,SourceName="Shadow Hunter Vosh'gajin",SourceType="Kill",DropChance="17.4",Zone="Blackrock Spire"}}
+items[28335] = {id=28335,name="Gladiator's Chain Gauntlets",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[28811] = {id=28811,name="High Warlord's Dragonhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22670] = {id=22670,name="Icebane Gauntlets",source={ID=28243,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29600] = {id=29600,name="Blood Guard's Lamellar Gauntlets",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[16676] = {id=16676,name="Beaststalker's Gloves",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="18.8",Zone="Blackrock Spire"}}
+items[15083] = {id=15083,name="Wicked Leather Gauntlets",source={ID=19049,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24549] = {id=24549,name="Gladiator's Plate Gauntlets",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31621] = {id=31621,name="High Warlord's Mooncloth Mitts",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21581] = {id=21581,name="Gauntlets of Annihilation",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="36.2",Zone="Ahn'Qiraj"}}
+items[21674] = {id=21674,name="Gauntlets of Steadfast Determination",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="22.2",Zone="Ahn'Qiraj"}}
+items[21278] = {id=21278,name="Stormshroud Gloves",source={ID=26279,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10023] = {id=10023,name="Shadoweave Gloves",source={ID=12071,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27528] = {id=27528,name="Gauntlets of Desolation",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
+items[29509] = {id=29509,name="Windstrike Gloves",source={ID=35568,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25857] = {id=25857,name="Gladiator's Silk Handguards",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[29017] = {id=29017,name="Warbringer Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29067] = {id=29067,name="Justicar Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22481] = {id=22481,name="Bonescythe Gauntlets",source={ID=9082,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[29947] = {id=29947,name="Gloves of the Searing Grip",source={ID=19514,SourceName="Al'ar",SourceType="Kill",DropChance="31.6",Zone="Tempest Keep"}}
+items[28126] = {id=28126,name="Gladiator's Dragonhide Gloves",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[27497] = {id=27497,name="Doomplate Gauntlets",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="6.4",Zone="The Blood Furnace"}}
+items[31584] = {id=31584,name="High Warlord's Kodohide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23288] = {id=23288,name="Knight-Lieutenant's Satin Handwraps",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[18326] = {id=18326,name="Razor Gauntlets",source={ID=11492,SourceName="Alzzin the Wildshaper",SourceType="Kill",DropChance="18.7",Zone="Dire Maul"}}
+items[29032] = {id=29032,name="Cyclone Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28710] = {id=28710,name="Grand Marshal's Scaled Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[35377] = {id=35377,name="Stalker's Chain Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18408] = {id=18408,name="Inferno Gloves",source={ID=22868,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23533] = {id=23533,name="Steelgrip Gauntlets",source={ID=29662,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29090] = {id=29090,name="Handguards of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28680] = {id=28680,name="Grand Marshal's Lamellar Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[19686] = {id=19686,name="Primal Batskin Gloves",source={ID=24122,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22863] = {id=22863,name="Blood Guard's Dragonhide Grips",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29595] = {id=29595,name="Knight-Lieutenant's Mail Vices",source={ID=12785,SourceName="Sergeant Major Clate",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[29357] = {id=29357,name="Master Thief's Gloves",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
+items[867] = {id=867,name="Gloves of Holy Might",source={ID=670,SourceName="Skullsplitter Witch Doctor",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
+items[29065] = {id=29065,name="Justicar Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23532] = {id=23532,name="Gauntlets of the Iron Tower",source={ID=29622,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22517] = {id=22517,name="Gloves of Faith",source={ID=9116,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[16724] = {id=16724,name="Lightforge Gauntlets",source={ID=10808,SourceName="Timmy the Cruel",SourceType="Kill",DropChance="14.3",Zone="Stratholme"}}
+items[21318] = {id=21318,name="Earth Warder's Gloves",source={ID=8464,SourceName="",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
+items[9640] = {id=9640,name="Vice Grips",source={ID=8127,SourceName="Antu'sul",SourceType="Kill",DropChance="31.8",Zone="Zul'Farrak"}}
+items[7756] = {id=7756,name="Dog Training Gloves",source={ID=3974,SourceName="Houndmaster Loksey",SourceType="Kill",DropChance="56.1",Zone="Scarlet Monastery"}}
+items[31998] = {id=31998,name="Merciless Gladiator's Leather Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31409] = {id=31409,name="Gladiator's Mooncloth Gloves",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[30003] = {id=30003,name="Gloves of the Nether-Stalker",source={ID=10318,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[22666] = {id=22666,name="Icy Scale Gauntlets",source={ID=28223,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13255] = {id=13255,name="Trueaim Gauntlets",source={ID=9236,SourceName="Shadow Hunter Vosh'gajin",SourceType="Kill",DropChance="34.7",Zone="Blackrock Spire"}}
+items[34344] = {id=34344,name="Handguards of Defiled Worlds",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
+items[29987] = {id=29987,name="Gauntlets of the Sun King",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="27.0",Zone="Tempest Keep"}}
+items[25669] = {id=25669,name="Thick Draenic Gloves",source={ID=32470,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28847] = {id=28847,name="High Warlord's Mail Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23280] = {id=23280,name="Knight-Lieutenant's Dragonhide Grips",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[6906] = {id=6906,name="Algae Fists",source={ID=6243,SourceName="Gelihast",SourceType="Kill",DropChance="44.3",Zone="Blackfathom Deeps"}}
+items[31631] = {id=31631,name="Grand Marshal's Ornamented Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[17620] = {id=17620,name="General's Satin Gloves",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[10787] = {id=10787,name="Atal'ai Gloves",source={ID=5713,SourceName="Gasher",SourceType="Kill",DropChance="7.8",Zone="The Temple of Atal'Hakkar"}}
+items[29134] = {id=29134,name="Gauntlets of the Chosen",source={ID=19331,SourceName="Quartermaster Enuril",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29959] = {id=29959,name="Spiritualist's Gauntlets",source={ID=10185,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[16540] = {id=16540,name="General's Silk Handguards",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[31008] = {id=31008,name="Skyshatter Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29048] = {id=29048,name="Netherblade Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28695] = {id=28695,name="Grand Marshal's Mail Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[35475] = {id=35475,name="Stalker's Chain Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23284] = {id=23284,name="Knight-Lieutenant's Leather Grips",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16496] = {id=16496,name="Blood Guard's Dragonhide Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13072] = {id=13072,name="Stonegrip Gauntlets",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[16705] = {id=16705,name="Dreadmist Wraps",source={ID=10901,SourceName="Lorekeeper Polkelt",SourceType="Kill",DropChance="7.6",Zone="Scholomance"}}
+items[7724] = {id=7724,name="Gauntlets of Divinity",source={ID=3976,SourceName="Scarlet Commander Mograine",SourceType="Kill",DropChance="19.8",Zone="Scarlet Monastery"}}
+items[6727] = {id=6727,name="Razzeric's Racing Grips",source={ID=1189,SourceName="",SourceType="Quest",DropChance="0",Zone="Thousand Needles"}}
+items[34366] = {id=34366,name="Sunfire Handwraps",source={ID=46128,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29998] = {id=29998,name="Royal Gauntlets of Silvermoon",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="23.0",Zone="Tempest Keep"}}
+items[30145] = {id=30145,name="Deathmantle Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27707] = {id=27707,name="Gladiator's Satin Gloves",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[28390] = {id=28390,name="Thatia's Self-Correcting Gauntlets",source={ID=20885,SourceName="Dalliah the Doomsayer",SourceType="Kill",DropChance="15.1",Zone="The Arcatraz"}}
+items[7919] = {id=7919,name="Heavy Mithril Gauntlet",source={ID=9928,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29057] = {id=29057,name="Gloves of the Incarnate",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31641] = {id=31641,name="Grand Marshal's Ringmail Gloves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[35345] = {id=35345,name="Evoker's Silk Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22869] = {id=22869,name="Blood Guard's Satin Handwraps",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[20717] = {id=20717,name="Desert Bloom Gloves",source={ID=8379,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[21178] = {id=21178,name="Gloves of Earthen Power",source={ID=8548,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[14241] = {id=14241,name="Darkmist Handguards",source={ID=5402,SourceName="Khan Hratha",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[7690] = {id=7690,name="Ebon Vise",source={ID=6488,SourceName="Fallen Champion",SourceType="Kill",DropChance="39.8",Zone="Scarlet Monastery"}}
+items[32280] = {id=32280,name="Gauntlets of Enforcement",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="39.2",Zone="Unknown"}}
+items[24452] = {id=24452,name="Starlight Gauntlets",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="14.2",Zone="The Underbog"}}
+items[22493] = {id=22493,name="Dreamwalker Handguards",source={ID=9091,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[21672] = {id=21672,name="Gloves of Enforcement",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="22.0",Zone="Ahn'Qiraj"}}
+items[22862] = {id=22862,name="Blood Guard's Chain Vices",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[18722] = {id=18722,name="Death Grips",source={ID=10435,SourceName="Magistrate Barthilas",SourceType="Kill",DropChance="14.8",Zone="Stratholme"}}
+items[20296] = {id=20296,name="Green Dragonscale Gauntlets",source={ID=24655,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10631] = {id=10631,name="Murkwater Gauntlets",source={ID=5224,SourceName="Murk Slitherer",SourceType="Kill",DropChance="0",Zone="Swamp of Sorrows"}}
+items[3483] = {id=3483,name="Silvered Bronze Gauntlets",source={ID=3333,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31050] = {id=31050,name="Gloves of the Malefic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28871] = {id=28871,name="High Warlord's Wyrmhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31126] = {id=31126,name="Gloves of Ferocity",source={ID=17478,SourceName="Bleeding Hollow Scryer",SourceType="Kill",DropChance="1.5",Zone="Hellfire Ramparts"}}
+items[21479] = {id=21479,name="Gauntlets of the Immovable",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="17.7",Zone="Ruins of Ahn'Qiraj"}}
+items[18344] = {id=18344,name="Stonebark Gauntlets",source={ID=11459,SourceName="Ironbark Protector",SourceType="Kill",DropChance="1.3",Zone="Dire Maul"}}
+items[18238] = {id=18238,name="Shadowskin Gloves",source={ID=22711,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10760] = {id=10760,name="Swine Fists",source={ID=7356,SourceName="Plaguemaw the Rotting",SourceType="Kill",DropChance="62.5",Zone="Razorfen Downs"}}
+items[35032] = {id=35032,name="Brutal Gladiator's Leather Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30982] = {id=30982,name="Lightbringer Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30140] = {id=30140,name="Rift Stalker Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28268] = {id=28268,name="Natural Mender's Wraps",source={ID=18478,SourceName="Avatar of the Martyred",SourceType="Kill",DropChance="9.3",Zone="Auchenai Crypts"}}
+items[28842] = {id=28842,name="High Warlord's Linked Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35408] = {id=35408,name="Savage Plate Gauntlets",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[21605] = {id=21605,name="Gloves of the Hidden Temple",source={ID=15275,SourceName="Emperor Vek'nilash",SourceType="Kill",DropChance="28.6",Zone="Ahn'Qiraj"}}
+items[19157] = {id=19157,name="Chromatic Gauntlets",source={ID=23708,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14146] = {id=14146,name="Gloves of Spell Mastery",source={ID=18454,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13162] = {id=13162,name="Reiver Claws",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="15.4",Zone="Blackrock Spire"}}
+items[14640] = {id=14640,name="Cadaverous Gloves",source={ID=10507,SourceName="The Ravenian",SourceType="Kill",DropChance="4.0",Zone="Scholomance"}}
+items[10808] = {id=10808,name="Gloves of the Atal'ai Prophet",source={ID=5710,SourceName="Jammal'an the Prophet",SourceType="Kill",DropChance="29.6",Zone="The Temple of Atal'Hakkar"}}
+items[9491] = {id=9491,name="Hotshot Pilot's Gloves",source={ID=6226,SourceName="Mechano-Flamewalker",SourceType="Kill",DropChance="0",Zone="Gnomeregan"}}
+items[1978] = {id=1978,name="Wolfclaw Gloves",source={ID=4438,SourceName="Razorfen Spearhide",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
+items[34343] = {id=34343,name="Thalassian Ranger Gauntlets",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="0",Zone="Sunwell Plateau"}}
+items[30112] = {id=30112,name="Glorious Gauntlets of Crestfall",source={ID=21212,SourceName="Lady Vashj",SourceType="Kill",DropChance="21.0",Zone="Serpentshrine Cavern"}}
+items[33586] = {id=33586,name="Studious Wraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29034] = {id=29034,name="Cyclone Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29080] = {id=29080,name="Gloves of the Aldor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27825] = {id=27825,name="Predatory Gloves",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="14.2",Zone="Mana-Tombs"}}
+items[25949] = {id=25949,name="Gloves of the Afterlife",source={ID=10031,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[21682] = {id=21682,name="Bile-Covered Gauntlets",source={ID=15543,SourceName="Princess Yauj",SourceType="Kill",DropChance="30.1",Zone="Ahn'Qiraj"}}
+items[16956] = {id=16956,name="Judgement Gauntlets",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="11.9",Zone="Blackwing Lair"}}
+items[18527] = {id=18527,name="Harmonious Gauntlets",source={ID=11501,SourceName="King Gordok",SourceType="Kill",DropChance="24.0",Zone="Dire Maul"}}
+items[18744] = {id=18744,name="Plaguebat Fur Gloves",source={ID=10394,SourceName="Black Guard Sentry",SourceType="Kill",DropChance="0",Zone="Stratholme"}}
+items[186001] = {id=186001,name="Communal Plate Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9410] = {id=9410,name="Cragfists",source={ID=7206,SourceName="Ancient Stone Keeper",SourceType="Kill",DropChance="47.7",Zone="Uldaman"}}
+items[34367] = {id=34367,name="Hands of Eternal Light",source={ID=46129,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34408] = {id=34408,name="Gloves of the Forest Drifter",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34352] = {id=34352,name="Borderland Fortress Grips",source={ID=25038,SourceName="Felmyst",SourceType="Kill",DropChance="27.2",Zone="Sunwell Plateau"}}
+items[30124] = {id=30124,name="Crystalforge Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29976] = {id=29976,name="Worldstorm Gauntlets",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="21.7",Zone="Tempest Keep"}}
+items[35338] = {id=35338,name="Satin Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31280] = {id=31280,name="Thundercaller's Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22501] = {id=22501,name="Frostfire Gloves",source={ID=9100,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[29607] = {id=29607,name="Marshal's Mail Gauntlets",source={ID=12785,SourceName="Sergeant Major Clate",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[16979] = {id=16979,name="Flarecore Gloves",source={ID=20849,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12554] = {id=12554,name="Hands of the Exalted Herald",source={ID=8929,SourceName="Princess Moira Bronzebeard",SourceType="Kill",DropChance="23.2",Zone="Blackrock Depths"}}
+items[15708] = {id=15708,name="Blight Leather Gloves",source={ID=5242,SourceName="",SourceType="Quest",DropChance="0",Zone="Felwood"}}
+items[2564] = {id=2564,name="Elven Spirit Claws",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[31007] = {id=31007,name="Skyshatter Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33744] = {id=33744,name="Vengeful Gladiator's Satin Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30029] = {id=30029,name="Bark-Gloves of Ancient Wisdom",source={ID=20031,SourceName="Bloodwarder Legionnaire",SourceType="Kill",DropChance="1.1",Zone="Unknown"}}
+items[27880] = {id=27880,name="Gladiator's Scaled Gauntlets",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[27468] = {id=27468,name="Moonglade Handwraps",source={ID=18667,SourceName="Blackheart the Inciter",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
+items[27428] = {id=27428,name="Stormfront Gauntlets",source={ID=17862,SourceName="Captain Skarloc",SourceType="Kill",DropChance="8.1",Zone="Old Hillsbrad Foothills"}}
+items[22662] = {id=22662,name="Polar Gloves",source={ID=28220,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19407] = {id=19407,name="Ebony Flame Gloves",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="31.5",Zone="Blackwing Lair"}}
+items[21486] = {id=21486,name="Gloves of the Swarm",source={ID=15370,SourceName="Buru the Gorger",SourceType="Kill",DropChance="6.9",Zone="Ruins of Ahn'Qiraj"}}
+items[23279] = {id=23279,name="Knight-Lieutenant's Chain Vices",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16397] = {id=16397,name="Knight-Lieutenant's Dragonhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20480] = {id=20480,name="Spitfire Gauntlets",source={ID=24847,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12631] = {id=12631,name="Fiery Plate Gauntlets",source={ID=16655,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21319] = {id=21319,name="Gloves of the Pathfinder",source={ID=8464,SourceName="",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
+items[14101] = {id=14101,name="Brightcloth Gloves",source={ID=18415,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14451] = {id=14451,name="Highborne Gloves",source={ID=8198,SourceName="Tick",SourceType="Kill",DropChance="0.3",Zone="Tanaris"}}
+items[9920] = {id=9920,name="Tracker's Gloves",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="4.5",Zone="Stranglethorn Vale"}}
+items[4318] = {id=4318,name="Gloves of Meditation",source={ID=3852,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34341] = {id=34341,name="Borderland Paingrips",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
+items[30780] = {id=30780,name="Inferno Hardened Gloves",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[34808] = {id=34808,name="Gloves of Arcane Acuity",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="13.8",Zone="Magisters' Terrace"}}
+items[21617] = {id=21617,name="Wasphide Gauntlets",source={ID=15509,SourceName="Princess Huhuran",SourceType="Kill",DropChance="24.0",Zone="Ahn'Qiraj"}}
+items[21689] = {id=21689,name="Gloves of Ebru",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="30.5",Zone="Ahn'Qiraj"}}
+items[19929] = {id=19929,name="Bloodtinged Gloves",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="16.8",Zone="Zul'Gurub"}}
+items[21487] = {id=21487,name="Slimy Scaled Gauntlets",source={ID=15370,SourceName="Buru the Gorger",SourceType="Kill",DropChance="8.9",Zone="Ruins of Ahn'Qiraj"}}
+items[10251] = {id=10251,name="Master's Gloves",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="6.2",Zone="Silithus"}}
+items[17564] = {id=17564,name="Knight-Lieutenant's Dreadweave Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16692] = {id=16692,name="Devout Gloves",source={ID=10811,SourceName="Archivist Galford",SourceType="Kill",DropChance="18.0",Zone="Stratholme"}}
+items[3948] = {id=3948,name="Twill Gloves",source={ID=1840,SourceName="Grand Inquisitor Isillien",SourceType="Kill",DropChance="2.0",Zone="Western Plaguelands"}}
+items[30970] = {id=30970,name="Onslaught Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33717] = {id=33717,name="Vengeful Gladiator's Mooncloth Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32234] = {id=32234,name="Fists of Mukoa",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="18.2",Zone="Black Temple"}}
+items[30188] = {id=30188,name="Gladiator's Felweave Handguards",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[31567] = {id=31567,name="Skystalker's Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35473] = {id=35473,name="Seer's Ringmail Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24776] = {id=24776,name="Boneshredder Gloves",source={ID=16409,SourceName="Phantom Guest",SourceType="Kill",DropChance="0.8",Zone="Karazhan"}}
+items[24768] = {id=24768,name="Clefthoof Gloves",source={ID=18318,SourceName="Sethekk Initiate",SourceType="Kill",DropChance="11.1",Zone="Sethekk Halls"}}
+items[21863] = {id=21863,name="Soulcloth Gloves",source={ID=26779,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21462] = {id=21462,name="Gloves of Dark Wisdom",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="29.4",Zone="Ruins of Ahn'Qiraj"}}
+items[22715] = {id=22715,name="Gloves of the Tormented",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="9.6",Zone="Zul'Gurub"}}
+items[18309] = {id=18309,name="Gloves of Restoration",source={ID=11492,SourceName="Alzzin the Wildshaper",SourceType="Kill",DropChance="18.7",Zone="Dire Maul"}}
+items[10242] = {id=10242,name="Heavy Lamellar Gauntlets",source={ID=8205,SourceName="Haarka the Ravenous",SourceType="Kill",DropChance="6.8",Zone="Tanaris"}}
+items[14294] = {id=14294,name="Arachnidian Gloves",source={ID=6372,SourceName="Makrinni Snapclaw",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[19123] = {id=19123,name="Everwarm Handwraps",source={ID=7728,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[9910] = {id=9910,name="Royal Gloves",source={ID=15750,SourceName="Qiraji Major",SourceType="Kill",DropChance="3.3",Zone="Thousand Needles"}}
+items[34351] = {id=34351,name="Tranquil Majesty Wraps",source={ID=25367,SourceName="Sunblade Arch Mage",SourceType="Kill",DropChance="1.6",Zone="Unknown"}}
+items[33712] = {id=33712,name="Vengeful Gladiator's Mail Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30135] = {id=30135,name="Crystalforge Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29072] = {id=29072,name="Justicar Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29092] = {id=29092,name="Gloves of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27510] = {id=27510,name="Tidefury Gauntlets",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="28.3",Zone="The Steamvault"}}
+items[25578] = {id=25578,name="Caustic Feelers",source={ID=9878,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25942] = {id=25942,name="Faith Bearer's Gauntlets",source={ID=18341,SourceName="Pandemonius",SourceType="Kill",DropChance="12.5",Zone="Mana-Tombs"}}
+items[23482] = {id=23482,name="Fel Iron Plate Gloves",source={ID=29545,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16860] = {id=16860,name="Lawbringer Gauntlets",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="22.9",Zone="Molten Core"}}
+items[16487] = {id=16487,name="Blood Guard's Silk Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18387] = {id=18387,name="Brightspark Gloves",source={ID=11467,SourceName="Tsu'zee",SourceType="Kill",DropChance="29.9",Zone="Dire Maul"}}
+items[11745] = {id=11745,name="Fists of Phalanx",source={ID=9502,SourceName="Phalanx",SourceType="Kill",DropChance="29.1",Zone="Blackrock Depths"}}
+items[14142] = {id=14142,name="Ghostweave Gloves",source={ID=18413,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13071] = {id=13071,name="Plated Fist of Hakoo",source={ID=4339,SourceName="Brimgore",SourceType="Kill",DropChance="1.2",Zone="Dustwallow Marsh"}}
+items[9366] = {id=9366,name="Golden Scale Gauntlets",source={ID=11643,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23170] = {id=23170,name="The Frozen Clutch",source={ID=14693,SourceName="Scorn",SourceType="Kill",DropChance="28.5",Zone="Scarlet Monastery"}}
+items[4040] = {id=4040,name="Nightsky Gloves",source={ID=2600,SourceName="Singer",SourceType="Kill",DropChance="0.2",Zone="Arathi Highlands"}}
+items[14211] = {id=14211,name="Vital Handwraps",source={ID=23620,SourceName="Privateer",SourceType="Kill",DropChance="0.9",Zone="Dustwallow Marsh"}}
+items[34372] = {id=34372,name="Leather Gauntlets of the Sun",source={ID=46132,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34374] = {id=34374,name="Fletcher's Gloves of the Phoenix",source={ID=46133,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35060] = {id=35060,name="Brutal Gladiator's Ornamented Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33684] = {id=33684,name="Vengeful Gladiator's Felweave Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33707] = {id=33707,name="Vengeful Gladiator's Linked Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30253] = {id=30253,name="Ethereal Gloves",source={ID=10335,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30375] = {id=30375,name="Gauntlets of the Vanquisher",source={ID=10507,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[24548] = {id=24548,name="zzOLDbrokenitem",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31796] = {id=31796,name="Sha'tari Marksman's Gloves",source={ID=10915,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[28070] = {id=28070,name="Verdant Handwraps",source={ID=10351,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[21888] = {id=21888,name="Gloves of the Immortal",source={ID=15230,SourceName="Vekniss Warrior",SourceType="Kill",DropChance="0.3",Zone="Ahn'Qiraj"}}
+items[16826] = {id=16826,name="Nightslayer Gloves",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="39.9",Zone="Molten Core"}}
+items[16831] = {id=16831,name="Cenarion Gloves",source={ID=12264,SourceName="Shazzrah",SourceType="Kill",DropChance="42.0",Zone="Molten Core"}}
+items[13957] = {id=13957,name="Gargoyle Slashers",source={ID=10506,SourceName="Kirtonos the Herald",SourceType="Kill",DropChance="18.6",Zone="Scholomance"}}
+items[16737] = {id=16737,name="Gauntlets of Valor",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="17.4",Zone="Stratholme"}}
+items[11634] = {id=11634,name="Silkweb Gloves",source={ID=9032,SourceName="Hedrum the Creeper",SourceType="Kill",DropChance="28.1",Zone="Blackrock Depths"}}
+items[15074] = {id=15074,name="Chimeric Gloves",source={ID=19053,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[186025] = {id=186025,name="Communal Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[8347] = {id=8347,name="Dragonscale Gauntlets",source={ID=10619,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14905] = {id=14905,name="Brutish Gauntlets",source={ID=10080,SourceName="Sandarr Dunereaver",SourceType="Kill",DropChance="0.6",Zone="Zul'Farrak"}}
+items[14431] = {id=14431,name="Windchaser Handguards",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.4",Zone="Zul'Farrak"}}
+items[14833] = {id=14833,name="Tyrant's Gauntlets",source={ID=7901,SourceName="Treasure Hunting Swashbuckler",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
+items[7457] = {id=7457,name="Knight's Gauntlets",source={ID=1106,SourceName="Lost One Cook",SourceType="Kill",DropChance="3.8",Zone="Swamp of Sorrows"}}
+items[7917] = {id=7917,name="Barbaric Iron Gloves",source={ID=9820,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34406] = {id=34406,name="Gloves of Tyri's Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34409] = {id=34409,name="Gauntlets of the Ancient Frostwolf",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31011] = {id=31011,name="Skyshatter Grips",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31026] = {id=31026,name="Slayer's Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31035] = {id=31035,name="Thunderheart Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33729] = {id=33729,name="Vengeful Gladiator's Plate Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32608] = {id=32608,name="Pillager's Gauntlets",source={ID=22846,SourceName="Ashtongue Stormcaller",SourceType="Kill",DropChance="2.0",Zone="Unknown"}}
+items[34911] = {id=34911,name="Handwraps of the Aggressor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28136] = {id=28136,name="Gladiator's Wyrmhide Gloves",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[35392] = {id=35392,name="Seer's Ringmail Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24785] = {id=24785,name="Murkblood Gloves",source={ID=16473,SourceName="Spectral Performer",SourceType="Kill",DropChance="20.0",Zone="Karazhan"}}
+items[27889] = {id=27889,name="Jaedenfire Gloves of Annihilation",source={ID=18731,SourceName="Ambassador Hellmaw",SourceType="Kill",DropChance="20.0",Zone="Shadow Labyrinth"}}
+items[29496] = {id=29496,name="Enchanted Clefthoof Gloves",source={ID=35533,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30000] = {id=30000,name="Mixologist's Gloves",source={ID=10199,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30264] = {id=30264,name="Area 52 Engineering Gloves",source={ID=10226,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[23531] = {id=23531,name="Felfury Gauntlets",source={ID=29658,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31180] = {id=31180,name="Gauntlets of the Skullsplitter",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23491] = {id=23491,name="Fel Iron Chain Gloves",source={ID=29552,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25674] = {id=25674,name="Wild Draenish Gloves",source={ID=32479,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24712] = {id=24712,name="Vengeance Gloves",source={ID=16951,SourceName="Terrorfiend",SourceType="Kill",DropChance="0.8",Zone="Hellfire Peninsula"}}
+items[21623] = {id=21623,name="Gauntlets of the Righteous Champion",source={ID=15299,SourceName="Viscidus",SourceType="Kill",DropChance="8.0",Zone="Ahn'Qiraj"}}
+items[19143] = {id=19143,name="Flameguard Gauntlets",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="11.2",Zone="Molten Core"}}
+items[23286] = {id=23286,name="Knight-Lieutenant's Plate Gauntlets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16391] = {id=16391,name="Knight-Lieutenant's Silk Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22410] = {id=22410,name="Gauntlets of Deftness",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="15.1",Zone="Stratholme"}}
+items[14543] = {id=14543,name="Darkshade Gloves",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="0.6",Zone="Scholomance"}}
+items[20477] = {id=20477,name="Sandstalker Gauntlets",source={ID=24850,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14615] = {id=14615,name="Bloodmail Gauntlets",source={ID=10502,SourceName="Lady Illucia Barov",SourceType="Kill",DropChance="4.1",Zone="Scholomance"}}
+items[22304] = {id=22304,name="Ironweave Gloves",source={ID=16097,SourceName="Isalien",SourceType="Kill",DropChance="20.2",Zone="Dire Maul"}}
+items[3996] = {id=3996,name="Laminated Scale Gloves",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="1.4",Zone="Azshara"}}
+items[10277] = {id=10277,name="Emerald Gauntlets",source={ID=14472,SourceName="Gretheer",SourceType="Kill",DropChance="5.5",Zone="Silithus"}}
+items[8084] = {id=8084,name="Light Plate Gloves",source={ID=10680,SourceName="Summoned Blackhand Dreadweaver",SourceType="Kill",DropChance="3.8",Zone="Blackrock Spire"}}
+items[8314] = {id=8314,name="Alabaster Plate Gauntlets",source={ID=9681,SourceName="Jaz",SourceType="Kill",DropChance="0.2",Zone="Blackrock Depths"}}
+items[3965] = {id=3965,name="Thick Leather Gloves",source={ID=8317,SourceName="Atal'ai Deathwalker's Spirit",SourceType="Kill",DropChance="10.0",Zone="The Temple of Atal'Hakkar"}}
+items[9952] = {id=9952,name="Chieftain's Gloves",source={ID=8281,SourceName="Scald",SourceType="Kill",DropChance="4.1",Zone="Searing Gorge"}}
+items[3940] = {id=3940,name="Crochet Gloves",source={ID=5345,SourceName="Diamond Head",SourceType="Kill",DropChance="7.1",Zone="Feralas"}}
+items[14272] = {id=14272,name="Gaea's Handwraps",source={ID=6184,SourceName="Timbermaw Pathfinder",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[10765] = {id=10765,name="Bonefingers",source={ID=7358,SourceName="Amnennar the Coldbringer",SourceType="Kill",DropChance="27.4",Zone="Razorfen Downs"}}
+items[7064] = {id=7064,name="Crimson Silk Gloves",source={ID=8804,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[3485] = {id=3485,name="Green Iron Gauntlets",source={ID=3336,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[1807] = {id=1807,name="Tough Leather Gloves",source={ID=4814,SourceName="Twilight Elementalist",SourceType="Kill",DropChance="0.8",Zone="Blackfathom Deeps"}}
+items[7359] = {id=7359,name="Heavy Earthen Gloves",source={ID=9149,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35022] = {id=35022,name="Brutal Gladiator's Kodohide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35028] = {id=35028,name="Brutal Gladiator's Lamellar Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35043] = {id=35043,name="Brutal Gladiator's Linked Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35098] = {id=35098,name="Brutal Gladiator's Silk Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34350] = {id=34350,name="Gauntlets of the Ancient Shadowmoon",source={ID=25368,SourceName="Sunblade Slayer",SourceType="Kill",DropChance="1.6",Zone="Unknown"}}
+items[33723] = {id=33723,name="Vengeful Gladiator's Ornamented Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34938] = {id=34938,name="Enslaved Doomguard Soulgrips",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31967] = {id=31967,name="Merciless Gladiator's Dragonhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27703] = {id=27703,name="Gladiator's Lamellar Gauntlets",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[29315] = {id=29315,name="Gloves of Penitence",source={ID=10253,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[24945] = {id=24945,name="Bloodscale Gauntlets",source={ID=17414,SourceName="Shadowmoon Technician",SourceType="Kill",DropChance="2.5",Zone="The Blood Furnace"}}
+items[21890] = {id=21890,name="Gloves of the Fallen Prophet",source={ID=15311,SourceName="Anubisath Warder",SourceType="Kill",DropChance="0.9",Zone="Ahn'Qiraj"}}
+items[21501] = {id=21501,name="Toughened Silithid Hide Gloves",source={ID=15348,SourceName="Kurinnaxx",SourceType="Kill",DropChance="29.7",Zone="Ruins of Ahn'Qiraj"}}
+items[20257] = {id=20257,name="Seafury Gauntlets",source={ID=14834,SourceName="Hakkar",SourceType="Kill",DropChance="8.7",Zone="Zul'Gurub"}}
+items[17617] = {id=17617,name="Blood Guard's Satin Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10386] = {id=10386,name="Hyperion Gauntlets",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="14.6",Zone="Searing Gorge"}}
+items[14815] = {id=14815,name="Warstrike Gauntlets",source={ID=5314,SourceName="Phantim",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
+items[18693] = {id=18693,name="Shivery Handwraps",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="15.2",Zone="Scholomance"}}
+items[13184] = {id=13184,name="Fallbrush Handgrips",source={ID=10376,SourceName="Crystal Fang",SourceType="Kill",DropChance="32.4",Zone="Blackrock Spire"}}
+items[13258] = {id=13258,name="Slaghide Gauntlets",source={ID=10584,SourceName="Urok Doomhowl",SourceType="Kill",DropChance="21.4",Zone="Blackrock Spire"}}
+items[13253] = {id=13253,name="Hands of Power",source={ID=9736,SourceName="Quartermaster Zigris",SourceType="Kill",DropChance="18.4",Zone="Blackrock Spire"}}
+items[15070] = {id=15070,name="Frostsaber Gloves",source={ID=19087,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18306] = {id=18306,name="Gloves of Shadowy Mist",source={ID=11490,SourceName="Zevrim Thornhoof",SourceType="Kill",DropChance="24.7",Zone="Dire Maul"}}
+items[12418] = {id=12418,name="Radiant Gloves",source={ID=16654,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10121] = {id=10121,name="Ornate Gauntlets",source={ID=11383,SourceName="High Priestess Hai'watna",SourceType="Kill",DropChance="6.4",Zone="Stranglethorn Vale"}}
+items[8249] = {id=8249,name="Imperial Red Gloves",source={ID=1494,SourceName="Negolash",SourceType="Kill",DropChance="0.3",Zone="Stranglethorn Vale"}}
+items[2475] = {id=2475,name="Reinforced Leather Gloves",source={ID=984,SourceName="Thralosh",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
+items[10205] = {id=10205,name="Overlord's Gauntlets",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
+items[4004] = {id=4004,name="Overlinked Chain Gloves",source={ID=2754,SourceName="Anathemus",SourceType="Kill",DropChance="1.4",Zone="Badlands"}}
+items[8110] = {id=8110,name="Hibernal Gloves",source={ID=5399,SourceName="Veyzhak the Cannibal",SourceType="Kill",DropChance="1.2",Zone="Unknown"}}
+items[14949] = {id=14949,name="Bloodforged Gauntlets",source={ID=4405,SourceName="Muckshell Razorclaw",SourceType="Kill",DropChance="0",Zone="Dustwallow Marsh"}}
+items[18083] = {id=18083,name="Jumanza Grips",source={ID=7271,SourceName="Witch Doctor Zum'rah",SourceType="Kill",DropChance="34.9",Zone="Zul'Farrak"}}
+items[8346] = {id=8346,name="Gauntlets of the Sea",source={ID=10630,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14657] = {id=14657,name="Scorpashi Gloves",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
+items[7938] = {id=7938,name="Truesilver Gauntlets",source={ID=9954,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7927] = {id=7927,name="Ornate Mithril Gloves",source={ID=9950,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4063] = {id=4063,name="Imperial Leather Gloves",source={ID=2782,SourceName="Caretaker Alaric",SourceType="Kill",DropChance="1.3",Zone="Arathi Highlands"}}
+items[14253] = {id=14253,name="Lunar Handwraps",source={ID=5327,SourceName="Coast Crawl Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
+items[10777] = {id=10777,name="Arachnid Gloves",source={ID=7355,SourceName="Tuten'kash",SourceType="Kill",DropChance="30.0",Zone="Razorfen Downs"}}
+items[6419] = {id=6419,name="Glyphed Mitts",source={ID=2794,SourceName="Summoned Guardian",SourceType="Kill",DropChance="4.5",Zone="Arathi Highlands"}}
+items[9861] = {id=9861,name="Archer's Gloves",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="9.5",Zone="Thousand Needles"}}
+items[9832] = {id=9832,name="Scaled Leather Gloves",source={ID=12037,SourceName="Ursol'lok",SourceType="Kill",DropChance="5.0",Zone="Ashenvale"}}
+items[14191] = {id=14191,name="Raincaller Mitts",source={ID=4518,SourceName="Death's Head Sage",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[15538] = {id=15538,name="Wicked Chain Gauntlets",source={ID=4531,SourceName="Razorfen Beast Trainer",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
+items[6595] = {id=6595,name="Battleforge Gauntlets",source={ID=14427,SourceName="Gibblesnik",SourceType="Kill",DropChance="3.5",Zone="Thousand Needles"}}
+items[6605] = {id=6605,name="Dervish Gloves",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="5.6",Zone="The Barrens"}}
+items[7358] = {id=7358,name="Pilferer's Gloves",source={ID=9148,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[888] = {id=888,name="Naga Battle Gloves",source={ID=4831,SourceName="Lady Sarevess",SourceType="Kill",DropChance="37.5",Zone="Blackfathom Deeps"}}
+items[2151] = {id=2151,name="Polished Scale Gloves",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[9806] = {id=9806,name="Superior Gloves",source={ID=14426,SourceName="Harb Foulmountain",SourceType="Kill",DropChance="12.8",Zone="Thousand Needles"}}
+items[1783] = {id=1783,name="Cross-stitched Gloves",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="1.8",Zone="Stonetalon Mountains"}}
+items[9795] = {id=9795,name="Ivycloth Gloves",source={ID=14424,SourceName="Mirelow",SourceType="Kill",DropChance="8.1",Zone="Wetlands"}}
+items[15520] = {id=15520,name="Spiked Chain Gauntlets",source={ID=3898,SourceName="Aligar the Tormentor",SourceType="Kill",DropChance="0.2",Zone="Darkshore"}}
+items[3058] = {id=3058,name="Forest Leather Gloves",source={ID=7843,SourceName="Gnomeregan Evacuee",SourceType="Kill",DropChance="0.9",Zone="Dun Morogh"}}
+items[9771] = {id=9771,name="Greenweave Gloves",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
+items[34234] = {id=34234,name="Shadowed Gauntlets of Paroxysm",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="34.5",Zone="Sunwell Plateau"}}
+items[34240] = {id=34240,name="Gauntlets of the Soothed Soul",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="33.0",Zone="Sunwell Plateau"}}
+items[35083] = {id=35083,name="Brutal Gladiator's Satin Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30969] = {id=30969,name="Onslaught Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34902] = {id=34902,name="Oakleaf-Spun Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34904] = {id=34904,name="Barbed Gloves of the Sage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32015] = {id=32015,name="Merciless Gladiator's Mooncloth Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32034] = {id=32034,name="Merciless Gladiator's Satin Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30151] = {id=30151,name="Gloves of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30165] = {id=30165,name="Cataclysm Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30211] = {id=30211,name="Gloves of the Corruptor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33534] = {id=33534,name="Grips of Nature's Wrath",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33587] = {id=33587,name="Light-Blessed Bonds",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23526] = {id=23526,name="Swiftsteel Gloves",source={ID=29648,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31647] = {id=31647,name="High Warlord's Ringmail Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35371] = {id=35371,name="Wyrmhide Gloves",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[29490] = {id=29490,name="Enchanted Felscale Gloves",source={ID=35526,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31534] = {id=31534,name="Whiteknuckle Gauntlets",source={ID=10607,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[29511] = {id=29511,name="Netherdrake Gloves",source={ID=35573,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21851] = {id=21851,name="Netherweave Gloves",source={ID=26770,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24825] = {id=24825,name="Netherstalker Gloves",source={ID=17264,SourceName="Bonechewer Ravener",SourceType="Kill",DropChance="2.7",Zone="Hellfire Ramparts"}}
+items[19390] = {id=19390,name="Taut Dragonhide Gloves",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="35.5",Zone="Blackwing Lair"}}
+items[16940] = {id=16940,name="Dragonstalker's Gauntlets",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="13.9",Zone="Blackwing Lair"}}
+items[21691] = {id=21691,name="Ooze-ridden Gauntlets",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="31.7",Zone="Ahn'Qiraj"}}
+items[21480] = {id=21480,name="Scaled Silithid Gauntlets",source={ID=15369,SourceName="Ayamiss the Hunter",SourceType="Kill",DropChance="37.9",Zone="Ruins of Ahn'Qiraj"}}
+items[19869] = {id=19869,name="Blooddrenched Grips",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="18.5",Zone="Zul'Gurub"}}
+items[16801] = {id=16801,name="Arcanist Gloves",source={ID=12264,SourceName="Shazzrah",SourceType="Kill",DropChance="41.9",Zone="Molten Core"}}
+items[13344] = {id=13344,name="Dracorian Gauntlets",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="14.3",Zone="Stratholme"}}
+items[16410] = {id=16410,name="Knight-Lieutenant's Lamellar Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16499] = {id=16499,name="Blood Guard's Leather Vices",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16519] = {id=16519,name="Blood Guard's Mail Grips",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17577] = {id=17577,name="Blood Guard's Dreadweave Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14461] = {id=14461,name="Elunarian Handgrips",source={ID=12497,SourceName="Dreamroarer",SourceType="Kill",DropChance="2.1",Zone="Feralas"}}
+items[18377] = {id=18377,name="Quickdraw Gloves",source={ID=11496,SourceName="Immol'thar",SourceType="Kill",DropChance="25.7",Zone="Dire Maul"}}
+items[13532] = {id=13532,name="Darkspinner Claws",source={ID=10437,SourceName="Nerub'enkan",SourceType="Kill",DropChance="10.7",Zone="Stratholme"}}
+items[18383] = {id=18383,name="Force Imbued Gauntlets",source={ID=11488,SourceName="Illyanna Ravenoak",SourceType="Kill",DropChance="23.7",Zone="Dire Maul"}}
+items[10380] = {id=10380,name="Commander's Gauntlets",source={ID=15817,SourceName="Qiraji Brigadier General Pax-lish",SourceType="Kill",DropChance="9.3",Zone="Silithus"}}
+items[12632] = {id=12632,name="Storm Gauntlets",source={ID=16661,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[3973] = {id=3973,name="Smooth Leather Gloves",source={ID=1842,SourceName="Highlord Taelan Fordring",SourceType="Kill",DropChance="1.7",Zone="Western Plaguelands"}}
+items[10369] = {id=10369,name="Imbued Plate Gauntlets",source={ID=1047,SourceName="Red Scalebane",SourceType="Kill",DropChance="0.7",Zone="Wetlands"}}
+items[12547] = {id=12547,name="Mar Alom's Grip",source={ID=8893,SourceName="Anvilrage Soldier",SourceType="Kill",DropChance="0",Zone="Blackrock Depths"}}
+items[15823] = {id=15823,name="Bricksteel Gauntlets",source={ID=6031,SourceName="",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
+items[15184] = {id=15184,name="Praetorian Gloves",source={ID=6504,SourceName="Thunderstomp Stegodon",SourceType="Kill",DropChance="0.6",Zone="Un'Goro Crater"}}
+items[10196] = {id=10196,name="Crusader's Gauntlets",source={ID=13896,SourceName="Scalebeard",SourceType="Kill",DropChance="3.6",Zone="Azshara"}}
+items[8091] = {id=8091,name="Platemail Gloves",source={ID=980,SourceName="Grimnal",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
+items[15174] = {id=15174,name="Potent Gloves",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.8",Zone="Azshara"}}
+items[14442] = {id=14442,name="Venomshroud Mitts",source={ID=5465,SourceName="Land Rager",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
+items[8121] = {id=8121,name="Heraldic Gloves",source={ID=8447,SourceName="Clunk",SourceType="Kill",DropChance="0.2",Zone="Searing Gorge"}}
+items[7530] = {id=7530,name="Cabalist Gloves",source={ID=15437,SourceName="Master Nightsong",SourceType="Kill",DropChance="3.2",Zone="Ironforge"}}
+items[7541] = {id=7541,name="Champion's Gauntlets",source={ID=8280,SourceName="Shleipnarr",SourceType="Kill",DropChance="2.5",Zone="Searing Gorge"}}
+items[10018] = {id=10018,name="Red Mageweave Gloves",source={ID=12066,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6428] = {id=6428,name="Mistscape Gloves",source={ID=4853,SourceName="Stonevault Geomancer",SourceType="Kill",DropChance="0.4",Zone="Uldaman"}}
+items[7489] = {id=7489,name="Captain's Gauntlets",source={ID=14491,SourceName="Kurmokk",SourceType="Kill",DropChance="5.6",Zone="Stranglethorn Vale"}}
+items[1659] = {id=1659,name="Engineering Gloves",source={ID=677,SourceName="Venture Co. Tinkerer",SourceType="Kill",DropChance="0.5",Zone="Stranglethorn Vale"}}
+items[14897] = {id=14897,name="Saltstone Gauntlets",source={ID=4658,SourceName="Maraudine Stormer",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
+items[6732] = {id=6732,name="Gnomish Mechanic's Gloves",source={ID=1137,SourceName="",SourceType="Quest",DropChance="0",Zone="Thousand Needles"}}
+items[3812] = {id=3812,name="Double Mail Gloves",source={ID=23701,SourceName="Mirefin Ambusher",SourceType="Kill",DropChance="1.2",Zone="Dustwallow Marsh"}}
+items[9518] = {id=9518,name="Mud's Crushers",source={ID=1177,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[9395] = {id=9395,name="Gloves of Old",source={ID=15806,SourceName="Qiraji Lieutenant",SourceType="Kill",DropChance="0.6",Zone="The Barrens"}}
+items[7366] = {id=7366,name="Elder's Gloves",source={ID=5934,SourceName="Heartrazor",SourceType="Kill",DropChance="2.8",Zone="Thousand Needles"}}
+items[4319] = {id=4319,name="Azure Silk Gloves",source={ID=3854,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6393] = {id=6393,name="Silver-thread Gloves",source={ID=6523,SourceName="Dark Iron Rifleman",SourceType="Kill",DropChance="0.3",Zone="Wetlands"}}
+items[2145] = {id=2145,name="Cuirboulli Gloves",source={ID=1314,SourceName="Duncan Cullen",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[3047] = {id=3047,name="Lambent Scale Gloves",source={ID=1014,SourceName="Mosshide Alpha",SourceType="Kill",DropChance="0.1",Zone="Wetlands"}}
+items[9813] = {id=9813,name="Fortified Gauntlets",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="8.7",Zone="The Barrens"}}
+items[35089] = {id=35089,name="Brutal Gladiator's Scaled Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33750] = {id=33750,name="Vengeful Gladiator's Scaled Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32278] = {id=32278,name="Grips of Silent Justice",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="17.0",Zone="Black Temple"}}
+items[32021] = {id=32021,name="Merciless Gladiator's Ornamented Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32030] = {id=32030,name="Merciless Gladiator's Ringmail Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30205] = {id=30205,name="Gloves of Tirisfal",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33974] = {id=33974,name="Grasp of the Moonkin",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25017] = {id=25017,name="Shattered Hand Gauntlets",source={ID=20911,SourceName="Blackwing Drakonaar",SourceType="Kill",DropChance="51.2",Zone="Unknown"}}
+items[27764] = {id=27764,name="Hands of the Sun",source={ID=17826,SourceName="Swamplord Musel'ek",SourceType="Kill",DropChance="13.0",Zone="The Underbog"}}
+items[28862] = {id=28862,name="High Warlord's Scaled Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34791] = {id=34791,name="Gauntlets of the Tranquil Waves",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="19.7",Zone="Magisters' Terrace"}}
+items[35335] = {id=35335,name="Mooncloth Mitts",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30930] = {id=30930,name="Grips of the Void",source={ID=10481,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30267] = {id=30267,name="Zaxxis Gloves",source={ID=10205,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30521] = {id=30521,name="Warpweaver's Gloves",source={ID=10313,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31510] = {id=31510,name="Hewing Gloves",source={ID=10713,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31163] = {id=31163,name="Nethersteel Handguards",source={ID=18693,SourceName="Speaker Mar'grom",SourceType="Kill",DropChance="40.5",Zone="Unknown"}}
+items[25661] = {id=25661,name="Scaled Draenic Gloves",source={ID=32467,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31150] = {id=31150,name="Gloves of Piety",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16839] = {id=16839,name="Earthfury Gauntlets",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="18.5",Zone="Molten Core"}}
+items[16863] = {id=16863,name="Gauntlets of Might",source={ID=12118,SourceName="Lucifron",SourceType="Kill",DropChance="37.7",Zone="Molten Core"}}
+items[19692] = {id=19692,name="Bloodsoul Gauntlets",source={ID=24138,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10260] = {id=10260,name="Adventurer's Gloves",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="3.9",Zone="Blackwing Lair"}}
+items[15438] = {id=15438,name="Supreme Gloves",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="6.0",Zone="Azshara"}}
+items[14685] = {id=14685,name="Indomitable Gauntlets",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.3",Zone="Unknown"}}
+items[10149] = {id=10149,name="Mighty Gauntlets",source={ID=15753,SourceName="Qiraji Brigadier General",SourceType="Kill",DropChance="5.0",Zone="Tanaris"}}
+items[10161] = {id=10161,name="Mercurial Gauntlets",source={ID=10201,SourceName="Lady Hederine",SourceType="Kill",DropChance="3.0",Zone="Winterspring"}}
+items[18349] = {id=18349,name="Gauntlets of Accuracy",source={ID=11488,SourceName="Illyanna Ravenoak",SourceType="Kill",DropChance="24.0",Zone="Dire Maul"}}
+items[12637] = {id=12637,name="Backusarian Gauntlets",source={ID=9596,SourceName="Bannok Grimaxe",SourceType="Kill",DropChance="32.0",Zone="Blackrock Spire"}}
+items[13539] = {id=13539,name="Banshee's Touch",source={ID=10436,SourceName="Baroness Anastari",SourceType="Kill",DropChance="10.7",Zone="Stratholme"}}
+items[14323] = {id=14323,name="Resplendent Gauntlets",source={ID=15318,SourceName="Hive'Zara Drone",SourceType="Kill",DropChance="1.5",Zone="Ruins of Ahn'Qiraj"}}
+items[15192] = {id=15192,name="Grand Gauntlets",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.4",Zone="Unknown"}}
+items[15672] = {id=15672,name="Magnificent Gauntlets",source={ID=11447,SourceName="Mushgog",SourceType="Kill",DropChance="1.5",Zone="Unknown"}}
+items[18730] = {id=18730,name="Shadowy Laced Handwraps",source={ID=10436,SourceName="Baroness Anastari",SourceType="Kill",DropChance="18.2",Zone="Stratholme"}}
+items[20650] = {id=20650,name="Desert Wind Gauntlets",source={ID=8321,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[8305] = {id=8305,name="Hero's Gauntlets",source={ID=7734,SourceName="Ilifar",SourceType="Kill",DropChance="0.5",Zone="Blasted Lands"}}
+items[10225] = {id=10225,name="Nightshade Gloves",source={ID=14474,SourceName="Zora",SourceType="Kill",DropChance="4.9",Zone="Silithus"}}
+items[16684] = {id=16684,name="Magister's Gloves",source={ID=11261,SourceName="Doctor Theolen Krastinov",SourceType="Kill",DropChance="7.4",Zone="Scholomance"}}
+items[14933] = {id=14933,name="Heroic Gauntlets",source={ID=10263,SourceName="Burning Felguard",SourceType="Kill",DropChance="0.2",Zone="Blackrock Spire"}}
+items[15429] = {id=15429,name="Peerless Gloves",source={ID=10663,SourceName="Manaclaw",SourceType="Kill",DropChance="0.7",Zone="Winterspring"}}
+items[15662] = {id=15662,name="Impenetrable Gauntlets",source={ID=14475,SourceName="Rex Ashil",SourceType="Kill",DropChance="0.7",Zone="Silithus"}}
+items[14302] = {id=14302,name="Bonecaster's Gloves",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="4.8",Zone="Winterspring"}}
+items[14675] = {id=14675,name="Pridelord Gloves",source={ID=6504,SourceName="Thunderstomp Stegodon",SourceType="Kill",DropChance="1.3",Zone="Un'Goro Crater"}}
+items[10099] = {id=10099,name="Councillor's Gloves",source={ID=6646,SourceName="Monnos the Elder",SourceType="Kill",DropChance="3.1",Zone="Azshara"}}
+items[10110] = {id=10110,name="Wanderer's Gloves",source={ID=10817,SourceName="Duggan Wildhammer",SourceType="Kill",DropChance="3.1",Zone="Eastern Plaguelands"}}
+items[10165] = {id=10165,name="Templar Gauntlets",source={ID=10817,SourceName="Duggan Wildhammer",SourceType="Kill",DropChance="4.1",Zone="Eastern Plaguelands"}}
+items[11918] = {id=11918,name="Grotslab Gloves",source={ID=4501,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[14802] = {id=14802,name="Bloodlust Gauntlets",source={ID=9877,SourceName="Prince Xavalis",SourceType="Kill",DropChance="0.5",Zone="Felwood"}}
+items[14855] = {id=14855,name="Vanguard Gauntlets",source={ID=6503,SourceName="Spiked Stegodon",SourceType="Kill",DropChance="0.2",Zone="Un'Goro Crater"}}
+items[10176] = {id=10176,name="Mystical Gloves",source={ID=14340,SourceName="Alshirr Banebreath",SourceType="Kill",DropChance="4.2",Zone="Felwood"}}
+items[14926] = {id=14926,name="Lofty Gauntlets",source={ID=11442,SourceName="Gordok Mauler",SourceType="Kill",DropChance="0.1",Zone="Unknown"}}
+items[15653] = {id=15653,name="Merciless Gauntlets",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[15393] = {id=15393,name="Jadefire Gloves",source={ID=6143,SourceName="Servant of Arkkoroc",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
+items[15644] = {id=15644,name="Ironhide Gauntlets",source={ID=6503,SourceName="Spiked Stegodon",SourceType="Kill",DropChance="0.6",Zone="Un'Goro Crater"}}
+items[10062] = {id=10062,name="Duskwoven Gloves",source={ID=6652,SourceName="Master Feardred",SourceType="Kill",DropChance="6.7",Zone="Azshara"}}
+items[10072] = {id=10072,name="Righteous Gloves",source={ID=14344,SourceName="Mongress",SourceType="Kill",DropChance="5.4",Zone="Felwood"}}
+items[14666] = {id=14666,name="Keeper's Gloves",source={ID=6372,SourceName="Makrinni Snapclaw",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[2428] = {id=2428,name="Brigandine Gloves",source={ID=980,SourceName="Grimnal",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
+items[2440] = {id=2440,name="Embroidered Gloves",source={ID=984,SourceName="Thralosh",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
+items[10080] = {id=10080,name="Lord's Gauntlets",source={ID=8215,SourceName="Grimungous",SourceType="Kill",DropChance="4.1",Zone="The Hinterlands"}}
+items[10129] = {id=10129,name="Revenant Gauntlets",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="16.6",Zone="Thousand Needles"}}
+items[14282] = {id=14282,name="Opulent Gloves",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[8128] = {id=8128,name="Myrmidon's Gauntlets",source={ID=6000,SourceName="Nethergarde Cleric",SourceType="Kill",DropChance="1.2",Zone="Blasted Lands"}}
+items[9939] = {id=9939,name="Abjurer's Gloves",source={ID=8205,SourceName="Haarka the Ravenous",SourceType="Kill",DropChance="10.3",Zone="Tanaris"}}
+items[15635] = {id=15635,name="Formidable Gauntlets",source={ID=5441,SourceName="Hazzali Wasp",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
+items[8276] = {id=8276,name="Valorous Gauntlets",source={ID=4469,SourceName="Emerald Ooze",SourceType="Kill",DropChance="0.1",Zone="The Hinterlands"}}
+items[9960] = {id=9960,name="Warmonger's Gauntlets",source={ID=5350,SourceName="Qirot",SourceType="Kill",DropChance="4.7",Zone="Feralas"}}
+items[7521] = {id=7521,name="Gossamer Gloves",source={ID=8280,SourceName="Shleipnarr",SourceType="Kill",DropChance="5.0",Zone="Searing Gorge"}}
+items[4083] = {id=4083,name="Blackforge Gauntlets",source={ID=7290,SourceName="Shadowforge Sharpshooter",SourceType="Kill",DropChance="0.2",Zone="Uldaman"}}
+items[15612] = {id=15612,name="Bonelink Gauntlets",source={ID=5327,SourceName="Coast Crawl Snapclaw",SourceType="Kill",DropChance="0.9",Zone="Feralas"}}
+items[9930] = {id=9930,name="Brigade Gauntlets",source={ID=5354,SourceName="Gnarl Leafbrother",SourceType="Kill",DropChance="7.5",Zone="Feralas"}}
+items[15605] = {id=15605,name="Ancient Gauntlets",source={ID=4331,SourceName="Firemane Ash Tail",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[14606] = {id=14606,name="Warden's Gloves",source={ID=23594,SourceName="Grimtotem Destroyer",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[14826] = {id=14826,name="Symbolic Gauntlets",source={ID=11781,SourceName="Ambershard Crusher",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[8158] = {id=8158,name="Jouster's Gauntlets",source={ID=2423,SourceName="Lord Aliden Perenolde",SourceType="Kill",DropChance="0.1",Zone="Alterac Mountains"}}
+items[9880] = {id=9880,name="Sorcerer Gloves",source={ID=4380,SourceName="Darkmist Widow",SourceType="Kill",DropChance="3.5",Zone="Dustwallow Marsh"}}
+items[9892] = {id=9892,name="Huntsman's Gloves",source={ID=14226,SourceName="Kaskk",SourceType="Kill",DropChance="5.1",Zone="Desolace"}}
+items[14422] = {id=14422,name="Silksand Gloves",source={ID=6070,SourceName="Maraudine Khan Advisor",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
+items[14772] = {id=14772,name="Ravager's Handwraps",source={ID=11781,SourceName="Ambershard Crusher",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[4042] = {id=4042,name="Aurora Gloves",source={ID=4847,SourceName="Shadowforge Relic Hunter",SourceType="Kill",DropChance="0.3",Zone="Uldaman"}}
+items[15595] = {id=15595,name="Steadfast Gloves",source={ID=23637,SourceName="Deserter Lieutenant",SourceType="Kill",DropChance="2.7",Zone="Dustwallow Marsh"}}
+items[14231] = {id=14231,name="Embersilk Mitts",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.7",Zone="Dustwallow Marsh"}}
+items[15365] = {id=15365,name="Trickster's Handwraps",source={ID=14227,SourceName="Hissperak",SourceType="Kill",DropChance="0.4",Zone="Desolace"}}
+items[15581] = {id=15581,name="Sparkleshell Gauntlets",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.7",Zone="Dustwallow Marsh"}}
+items[2422] = {id=2422,name="Augmented Chain Gloves",source={ID=1322,SourceName="Maxton Strang",SourceType="Purchase",DropChance="100",Zone="Desolace"}}
+items[2469] = {id=2469,name="Studded Gloves",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[14222] = {id=14222,name="Geomancer's Gloves",source={ID=14230,SourceName="Burgle Eye",SourceType="Kill",DropChance="0.6",Zone="Dustwallow Marsh"}}
+items[14594] = {id=14594,name="Hawkeye's Gloves",source={ID=23589,SourceName="Defias Rummager",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
+items[3804] = {id=3804,name="Hardened Leather Gloves",source={ID=2749,SourceName="Siege Golem",SourceType="Kill",DropChance="2.8",Zone="Badlands"}}
+items[9848] = {id=9848,name="Conjurer's Gloves",source={ID=14221,SourceName="Gravis Slipknot",SourceType="Kill",DropChance="3.1",Zone="Alterac Mountains"}}
+items[10584] = {id=10584,name="Stormgale Fists",source={ID=7348,SourceName="Thorn Eater Ghoul",SourceType="Kill",DropChance="0",Zone="Razorfen Downs"}}
+items[15149] = {id=15149,name="Ghostwalker Gloves",source={ID=7335,SourceName="Death's Head Geomancer",SourceType="Kill",DropChance="0.4",Zone="Razorfen Downs"}}
+items[14411] = {id=14411,name="Stonecloth Gloves",source={ID=5934,SourceName="Heartrazor",SourceType="Kill",DropChance="0.3",Zone="Thousand Needles"}}
+items[14764] = {id=14764,name="Enduring Gauntlets",source={ID=23589,SourceName="Defias Rummager",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
+items[6408] = {id=6408,name="Insignia Gloves",source={ID=6170,SourceName="Gutspill",SourceType="Kill",DropChance="0.3",Zone="Duskwood"}}
+items[9445] = {id=9445,name="Grubbis Paws",source={ID=7361,SourceName="Grubbis",SourceType="Kill",DropChance="8.7",Zone="Gnomeregan"}}
+items[15355] = {id=15355,name="Headhunter's Mitts",source={ID=7873,SourceName="Razorfen Battleguard",SourceType="Kill",DropChance="0.3",Zone="The Barrens"}}
+items[15137] = {id=15137,name="Cutthroat's Mitts",source={ID=6238,SourceName="Big Will",SourceType="Kill",DropChance="0.3",Zone="The Barrens"}}
+items[7412] = {id=7412,name="Infiltrator Gloves",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="2.1",Zone="Alterac Mountains"}}
+items[15548] = {id=15548,name="Thick Scale Gauntlets",source={ID=8518,SourceName="Rynthariel the Keymaster",SourceType="Kill",DropChance="0.2",Zone="Stonetalon Mountains"}}
+items[9839] = {id=9839,name="Banded Gauntlets",source={ID=14433,SourceName="Sludginn",SourceType="Kill",DropChance="3.2",Zone="Wetlands"}}
+items[15343] = {id=15343,name="Pathfinder Gloves",source={ID=4066,SourceName="Nal'taszar",SourceType="Kill",DropChance="0.8",Zone="Stonetalon Mountains"}}
+items[6397] = {id=6397,name="Emblazoned Gloves",source={ID=2335,SourceName="Magistrate Burnside",SourceType="Kill",DropChance="0.2",Zone="Hillsbrad Foothills"}}
+items[6615] = {id=6615,name="Sage's Gloves",source={ID=4030,SourceName="Vengeful Ancient",SourceType="Kill",DropChance="10.3",Zone="Stonetalon Mountains"}}
+items[15125] = {id=15125,name="Robust Gloves",source={ID=8518,SourceName="Rynthariel the Keymaster",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
+items[14181] = {id=14181,name="Watcher's Handwraps",source={ID=4522,SourceName="Razorfen Dustweaver",SourceType="Kill",DropChance="0.4",Zone="Razorfen Kraul"}}
+items[14377] = {id=14377,name="Sanguine Handwraps",source={ID=3815,SourceName="Blink Dragon",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
+items[34376] = {id=34376,name="Sun-Drenched Scale Gloves",source={ID=46135,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34378] = {id=34378,name="Hard Khorium Battlefists",source={ID=46141,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35049] = {id=35049,name="Brutal Gladiator's Mail Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35078] = {id=35078,name="Brutal Gladiator's Ringmail Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35111] = {id=35111,name="Brutal Gladiator's Wyrmhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33690] = {id=33690,name="Vengeful Gladiator's Kodohide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33739] = {id=33739,name="Vengeful Gladiator's Ringmail Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33759] = {id=33759,name="Vengeful Gladiator's Silk Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33767] = {id=33767,name="Vengeful Gladiator's Wyrmhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32347] = {id=32347,name="Grips of Damnation",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="17.2",Zone="Unknown"}}
+items[31987] = {id=31987,name="Merciless Gladiator's Kodohide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32010] = {id=32010,name="Merciless Gladiator's Mail Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30130] = {id=30130,name="Crystalforge Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30217] = {id=30217,name="Nordrassil Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28317] = {id=28317,name="Energis Armwraps",source={ID=17975,SourceName="High Botanist Freywinn",SourceType="Kill",DropChance="20.5",Zone="The Botanica"}}
+items[35403] = {id=35403,name="Crusader's Ornamented Gloves",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[31111] = {id=31111,name="Uvuros Hide Gloves",source={ID=10647,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30370] = {id=30370,name="Gauntlets of the Redeemed Vindicator",source={ID=10409,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31515] = {id=31515,name="Whelpscale Gauntlets",source={ID=10747,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31165] = {id=31165,name="Nethersteel-Reinforced Gloves",source={ID=18693,SourceName="Speaker Mar'grom",SourceType="Kill",DropChance="44.4",Zone="Unknown"}}
+items[24632] = {id=24632,name="Feralfen Hand",source={ID=18455,SourceName="Shalassi Oracle",SourceType="Kill",DropChance="6.6",Zone="Terokkar Forest"}}
+items[31176] = {id=31176,name="Rockwurm Plate Handguards",source={ID=18678,SourceName="Fulgorge",SourceType="Kill",DropChance="44.0",Zone="Unknown"}}
+items[31177] = {id=31177,name="Rockwurm Scale Gauntlets",source={ID=18678,SourceName="Fulgorge",SourceType="Kill",DropChance="41.5",Zone="Unknown"}}
+items[24817] = {id=24817,name="Felstone Gauntlets",source={ID=16925,SourceName="Bonechewer Raider",SourceType="Kill",DropChance="4.1",Zone="Hellfire Peninsula"}}
+items[24929] = {id=24929,name="Ango'rosh Gauntlets",source={ID=17478,SourceName="Bleeding Hollow Scryer",SourceType="Kill",DropChance="1.5",Zone="Hellfire Ramparts"}}
+items[24809] = {id=24809,name="Unyielding Fists",source={ID=17270,SourceName="Bleeding Hollow Archer",SourceType="Kill",DropChance="3.2",Zone="Hellfire Ramparts"}}
+items[16899] = {id=16899,name="Stormrage Handguards",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="13.4",Zone="Blackwing Lair"}}
+items[20630] = {id=20630,name="Gauntlets of the Shining Light",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="8.0",Zone="Duskwood"}}
+items[25378] = {id=25378,name="Corroded Mail Gloves",source={ID=18322,SourceName="Sethekk Ravenguard",SourceType="Kill",DropChance="25.0",Zone="Sethekk Halls"}}
+items[25393] = {id=25393,name="Deteriorating Plate Gloves",source={ID=18204,SourceName="Ortor of Murkblood",SourceType="Kill",DropChance="33.3",Zone="Nagrand"}}
+items[22714] = {id=22714,name="Sacrificial Gauntlets",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="9.5",Zone="Zul'Gurub"}}
+items[16805] = {id=16805,name="Felheart Gloves",source={ID=12118,SourceName="Lucifron",SourceType="Kill",DropChance="36.9",Zone="Molten Core"}}
+items[22868] = {id=22868,name="Blood Guard's Plate Gauntlets",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[22870] = {id=22870,name="Blood Guard's Silk Handwraps",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[25385] = {id=25385,name="Tarnished Plate Gloves",source={ID=18460,SourceName="Lost Spirit",SourceType="Kill",DropChance="3.7",Zone="Terokkar Forest"}}
+items[10268] = {id=10268,name="Masterwork Gauntlets",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="9.4",Zone="Silithus"}}
+items[15682] = {id=15682,name="Triumphant Gauntlets",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="5.0",Zone="Duskwood"}}
+items[16406] = {id=16406,name="Knight-Lieutenant's Plate Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16510] = {id=16510,name="Blood Guard's Plate Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13525] = {id=13525,name="Darkbind Fingers",source={ID=10438,SourceName="Maleki the Pallid",SourceType="Kill",DropChance="10.9",Zone="Stratholme"}}
+items[10140] = {id=10140,name="High Councillor's Gloves",source={ID=10201,SourceName="Lady Hederine",SourceType="Kill",DropChance="3.8",Zone="Winterspring"}}
+items[14976] = {id=14976,name="Exalted Gauntlets",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="4.6",Zone="Azshara"}}
+items[14863] = {id=14863,name="Warleader's Gauntlets",source={ID=5317,SourceName="Jademir Oracle",SourceType="Kill",DropChance="0.4",Zone="Feralas"}}
+items[20655] = {id=20655,name="Abyssal Cloth Handwraps",source={ID=15209,SourceName="Crimson Templar",SourceType="Kill",DropChance="13.4",Zone="Silithus"}}
+items[10214] = {id=10214,name="Elegant Gloves",source={ID=14472,SourceName="Gretheer",SourceType="Kill",DropChance="40.0",Zone="Silithus"}}
+items[16672] = {id=16672,name="Gauntlets of Elements",source={ID=9816,SourceName="Pyroguard Emberseer",SourceType="Kill",DropChance="18.3",Zone="Blackrock Spire"}}
+items[10232] = {id=10232,name="Engraved Gauntlets",source={ID=8297,SourceName="Magronos the Unyielding",SourceType="Kill",DropChance="3.0",Zone="Blasted Lands"}}
+items[14314] = {id=14314,name="Celestial Handwraps",source={ID=10807,SourceName="Brumeran",SourceType="Kill",DropChance="0.9",Zone="Winterspring"}}
+items[8298] = {id=8298,name="Traveler's Gloves",source={ID=7042,SourceName="Flamescale Dragonspawn",SourceType="Kill",DropChance="0.2",Zone="Burning Steppes"}}
+items[11730] = {id=11730,name="Savage Gladiator Grips",source={ID=9029,SourceName="Eviscerator",SourceType="Kill",DropChance="17.6",Zone="Blackrock Depths"}}
+items[14967] = {id=14967,name="Glorious Gauntlets",source={ID=10200,SourceName="Rak'shiri",SourceType="Kill",DropChance="0.4",Zone="Winterspring"}}
+items[15078] = {id=15078,name="Heavy Scorpid Gauntlet",source={ID=19064,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8267] = {id=8267,name="Ebonhold Gauntlets",source={ID=9522,SourceName="Blackrock Ambusher",SourceType="Kill",DropChance="0.4",Zone="Burning Steppes"}}
+items[10186] = {id=10186,name="Swashbuckler's Gloves",source={ID=8301,SourceName="Clack the Reaver",SourceType="Kill",DropChance="3.6",Zone="Blasted Lands"}}
+items[13870] = {id=13870,name="Frostweave Gloves",source={ID=18411,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[17736] = {id=17736,name="Rockgrip Gauntlets",source={ID=12203,SourceName="Landslide",SourceType="Kill",DropChance="23.8",Zone="Maraudon"}}
+items[8260] = {id=8260,name="Serpentskin Gloves",source={ID=8217,SourceName="Mith'rethis the Enchanter",SourceType="Kill",DropChance="0.7",Zone="The Hinterlands"}}
+items[14959] = {id=14959,name="High Chief's Gauntlets",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.7",Zone="Azshara"}}
+items[14792] = {id=14792,name="Protector Gauntlets",source={ID=8204,SourceName="Soriid the Devourer",SourceType="Kill",DropChance="0.9",Zone="Tanaris"}}
+items[15383] = {id=15383,name="Rageclaw Gloves",source={ID=12206,SourceName="Primordial Behemoth",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
+items[16738] = {id=16738,name="Witherseed Gloves",source={ID=5863,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[15625] = {id=15625,name="Gryphon Mail Gauntlets",source={ID=7803,SourceName="Scorpid Duneburrower",SourceType="Kill",DropChance="0.4",Zone="Tanaris"}}
+items[10087] = {id=10087,name="Gothic Plate Gauntlets",source={ID=15750,SourceName="Qiraji Major",SourceType="Kill",DropChance="5.0",Zone="Thousand Needles"}}
+items[14262] = {id=14262,name="Bloodwoven Mitts",source={ID=10081,SourceName="Dustwraith",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
+items[15166] = {id=15166,name="Imposing Gloves",source={ID=5327,SourceName="Coast Crawl Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
+items[8139] = {id=8139,name="Chromite Gauntlets",source={ID=7290,SourceName="Shadowforge Sharpshooter",SourceType="Kill",DropChance="0.2",Zone="Uldaman"}}
+items[10011] = {id=10011,name="Stormcloth Gloves",source={ID=12063,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9967] = {id=9967,name="Embossed Plate Gauntlets",source={ID=8208,SourceName="Murderous Blisterpaw",SourceType="Kill",DropChance="5.5",Zone="Tanaris"}}
+items[15372] = {id=15372,name="Wolf Rider's Gloves",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
+items[14942] = {id=14942,name="Warbringer's Gauntlets",source={ID=11688,SourceName="Cursed Centaur",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[7480] = {id=7480,name="Ranger Gloves",source={ID=14224,SourceName="7:XT",SourceType="Kill",DropChance="4.1",Zone="Badlands"}}
+items[9900] = {id=9900,name="Jazeraint Gauntlets",source={ID=2605,SourceName="Zalas Witherbark",SourceType="Kill",DropChance="11.1",Zone="Arathi Highlands"}}
+items[15155] = {id=15155,name="Nocturnal Gloves",source={ID=7345,SourceName="Splinterbone Captain",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
+items[1988] = {id=1988,name="Chief Brigadier Gauntlets",source={ID=2416,SourceName="Crushridge Plunderer",SourceType="Kill",DropChance="0.1",Zone="Alterac Mountains"}}
+items[2434] = {id=2434,name="Russet Gloves",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[7433] = {id=7433,name="Twilight Gloves",source={ID=2753,SourceName="Barnabus",SourceType="Kill",DropChance="4.5",Zone="Badlands"}}
+items[7443] = {id=7443,name="Sentinel Gloves",source={ID=2850,SourceName="Broken Tooth",SourceType="Kill",DropChance="6.8",Zone="Badlands"}}
+items[15570] = {id=15570,name="Marauder's Gauntlets",source={ID=23589,SourceName="Defias Rummager",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
+items[4075] = {id=4075,name="Mail Combat Gauntlets",source={ID=2304,SourceName="Captain Ironhill",SourceType="Kill",DropChance="0.1",Zone="Hillsbrad Foothills"}}
+items[3796] = {id=3796,name="Interlaced Gloves",source={ID=3985,SourceName="Grandpa Vishas",SourceType="Kill",DropChance="2.2",Zone="Alterac Mountains"}}
+items[14199] = {id=14199,name="Thistlefur Gloves",source={ID=4421,SourceName="Charlga Razorflank",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[14583] = {id=14583,name="Dokebi Gloves",source={ID=10647,SourceName="Prince Raze",SourceType="Kill",DropChance="0.2",Zone="Ashenvale"}}
+items[9823] = {id=9823,name="Durable Gloves",source={ID=5933,SourceName="Achellios the Banished",SourceType="Kill",DropChance="4.0",Zone="Thousand Needles"}}
+items[1758] = {id=1758,name="Reinforced Chain Gloves",source={ID=5859,SourceName="Hagg Taurenbane",SourceType="Kill",DropChance="1.9",Zone="The Barrens"}}
+items[4072] = {id=4072,name="Glimmering Mail Gauntlets",source={ID=2345,SourceName="Dun Garok Rifleman",SourceType="Kill",DropChance="0.4",Zone="Hillsbrad Foothills"}}
+items[14754] = {id=14754,name="Slayer's Gloves",source={ID=4518,SourceName="Death's Head Sage",SourceType="Kill",DropChance="0.5",Zone="Razorfen Kraul"}}
+items[2158] = {id=2158,name="Padded Gloves",source={ID=1314,SourceName="Duncan Cullen",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[15334] = {id=15334,name="Wrangler's Gloves",source={ID=5916,SourceName="Sentinel Amarassan",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
+items[15527] = {id=15527,name="Sentry's Gloves",source={ID=10640,SourceName="Oakpaw",SourceType="Kill",DropChance="0.4",Zone="Ashenvale"}}
+items[1775] = {id=1775,name="Brocade Gloves",source={ID=17359,SourceName="Tel'athion the Impure",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
+items[34342] = {id=34342,name="Handguards of the Dawn",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
+items[35003] = {id=35003,name="Brutal Gladiator's Dreadweave Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30985] = {id=30985,name="Lightbringer Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31001] = {id=31001,name="Gronnstalker's Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31060] = {id=31060,name="Gloves of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31061] = {id=31061,name="Handguards of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33676] = {id=33676,name="Vengeful Gladiator's Dreadweave Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33696] = {id=33696,name="Vengeful Gladiator's Lamellar Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33700] = {id=33700,name="Vengeful Gladiator's Leather Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32328] = {id=32328,name="Botanist's Gloves of Growth",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="39.2",Zone="Unknown"}}
+items[32353] = {id=32353,name="Gloves of Unfailing Faith",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="20.6",Zone="Unknown"}}
+items[31961] = {id=31961,name="Merciless Gladiator's Chain Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31993] = {id=31993,name="Merciless Gladiator's Lamellar Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32040] = {id=32040,name="Merciless Gladiator's Scaled Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32056] = {id=32056,name="Merciless Gladiator's Wyrmhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30189] = {id=30189,name="Cataclysm Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30232] = {id=30232,name="Nordrassil Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33517] = {id=33517,name="Bonefist Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24913] = {id=24913,name="Netherstorm Gauntlets",source={ID=22281,SourceName="Galvanoth",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
+items[25025] = {id=25025,name="Warlord's Iron-Gauntlets",source={ID=16410,SourceName="Spectral Retainer",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
+items[27798] = {id=27798,name="Gauntlets of Vindication",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="11.1",Zone="Mana-Tombs"}}
+items[28832] = {id=28832,name="High Warlord's Lamellar Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31559] = {id=31559,name="Windchanneller's Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31583] = {id=31583,name="Slatesteel Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31636] = {id=31636,name="High Warlord's Ornamented Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35477] = {id=35477,name="Crusader's Scaled Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23514] = {id=23514,name="Flamebane Gloves",source={ID=29616,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24672] = {id=24672,name="Eldr'naan Gloves",source={ID=18419,SourceName="Bloodwarder Greenkeeper",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
+items[30336] = {id=30336,name="Surger's Hand Wraps",source={ID=10406,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30937] = {id=30937,name="Earthmender's Fists of Undoing",source={ID=10451,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[29806] = {id=29806,name="Cowpoke's Riding Gloves",source={ID=10337,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29812] = {id=29812,name="Blued Steel Gauntlets",source={ID=10274,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[24985] = {id=24985,name="Boulderfist Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24969] = {id=24969,name="Talonguard Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24624] = {id=24624,name="Slavehandler Handwraps",source={ID=18313,SourceName="Ethereal Sorcerer",SourceType="Kill",DropChance="2.8",Zone="Mana-Tombs"}}
+items[21889] = {id=21889,name="Gloves of the Redeemed Prophecy",source={ID=15240,SourceName="Vekniss Hive Crawler",SourceType="Kill",DropChance="0.4",Zone="Ahn'Qiraj"}}
+items[3981] = {id=3981,name="Strapped Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21077] = {id=21077,name="63 Blue Shadow Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20661] = {id=20661,name="Abyssal Leather Gloves",source={ID=15307,SourceName="Earthen Templar",SourceType="Kill",DropChance="14.4",Zone="Silithus"}}
+items[4331] = {id=4331,name="Phoenix Gloves",source={ID=3868,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31055] = {id=31055,name="Gloves of the Tempest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32049] = {id=32049,name="Merciless Gladiator's Silk Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24529] = {id=24529,name="130 Epic Warrior Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33519] = {id=33519,name="Handguards of the Templar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27470] = {id=27470,name="Gladiator's Mail Gauntlets",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[24905] = {id=24905,name="Talhide Lined-Gloves",source={ID=17800,SourceName="Coilfang Myrmidon",SourceType="Kill",DropChance="16.6",Zone="The Steamvault"}}
+items[27508] = {id=27508,name="Incanter's Gloves",source={ID=17797,SourceName="Hydromancer Thespia",SourceType="Kill",DropChance="0",Zone="The Steamvault"}}
+items[28214] = {id=28214,name="Grips of the Lunar Eclipse",source={ID=17848,SourceName="Lieutenant Drake",SourceType="Kill",DropChance="23.3",Zone="Old Hillsbrad Foothills"}}
+items[28324] = {id=28324,name="Gauntlets of Cruel Intention",source={ID=17978,SourceName="Thorngrin the Tender",SourceType="Kill",DropChance="17.7",Zone="The Botanica"}}
+items[30774] = {id=30774,name="Inferno Forged Gloves",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35382] = {id=35382,name="Seer's Linked Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24897] = {id=24897,name="Sundered Gauntlets",source={ID=17722,SourceName="Coilfang Sorceress",SourceType="Kill",DropChance="33.3",Zone="The Steamvault"}}
+items[25009] = {id=25009,name="Conqueror's Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30838] = {id=30838,name="Flameheart Gloves",source={ID=37883,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25001] = {id=25001,name="Bloodfist Gloves",source={ID=18661,SourceName="Terrorguard",SourceType="Kill",DropChance="16.6",Zone="Nagrand"}}
+items[24993] = {id=24993,name="Warmaul Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30224] = {id=30224,name="Junior Technician 3rd Grade Gloves",source={ID=10186,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[24873] = {id=24873,name="Ironspine Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25584] = {id=25584,name="Murkblood Oven Mitts",source={ID=9867,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[32656] = {id=32656,name="Crystalhide Handwraps",source={ID=40753,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24640] = {id=24640,name="Mistyreed Gloves",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="7.1",Zone="Mana-Tombs"}}
+items[24752] = {id=24752,name="Daggerfen Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24744] = {id=24744,name="Ranger Gloves",source={ID=18312,SourceName="Ethereal Spellbinder",SourceType="Kill",DropChance="6.6",Zone="Mana-Tombs"}}
+items[24961] = {id=24961,name="Khan'aish Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24728] = {id=24728,name="Dementia Gloves",source={ID=18449,SourceName="Shienor Talonite",SourceType="Kill",DropChance="0.6",Zone="Terokkar Forest"}}
+items[25523] = {id=25523,name="Windcaller's Gauntlets",source={ID=9732,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[31179] = {id=31179,name="Rockwurm Hide Gloves",source={ID=18678,SourceName="Fulgorge",SourceType="Kill",DropChance="44.9",Zone="Unknown"}}
+items[24833] = {id=24833,name="Nexus-Strider Gloves",source={ID=18120,SourceName="Ango'rosh Mauler",SourceType="Kill",DropChance="1.7",Zone="Zangarmarsh"}}
+items[24937] = {id=24937,name="Darkcrest Gauntlets",source={ID=17624,SourceName="Laughing Skull Warden",SourceType="Kill",DropChance="7.1",Zone="The Blood Furnace"}}
+items[24592] = {id=24592,name="Fireheart Gloves",source={ID=17491,SourceName="Laughing Skull Rogue",SourceType="Kill",DropChance="2.2",Zone="The Blood Furnace"}}
+items[24584] = {id=24584,name="Outlander's Gloves",source={ID=16876,SourceName="Bonechewer Mutant",SourceType="Kill",DropChance="3.1",Zone="Hellfire Peninsula"}}
+items[24696] = {id=24696,name="Bonechewer Spikegloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25361] = {id=25361,name="Decaying Leather Gloves",source={ID=18796,SourceName="Fel Overseer",SourceType="Kill",DropChance="20.0",Zone="Shadow Labyrinth"}}
+items[19164] = {id=19164,name="Dark Iron Gauntlets",source={ID=23637,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24782] = {id=24782,name="Loosely Threaded Gloves",source={ID=17735,SourceName="Wrathfin Warrior",SourceType="Kill",DropChance="14.2",Zone="The Underbog"}}
+items[25353] = {id=25353,name="Moldy Leather Gloves",source={ID=18461,SourceName="Dampscale Basilisk",SourceType="Kill",DropChance="7.1",Zone="Terokkar Forest"}}
+items[25370] = {id=25370,name="Eroded Mail Gloves",source={ID=17264,SourceName="Bonechewer Ravener",SourceType="Kill",DropChance="10.8",Zone="Hellfire Ramparts"}}
+items[19057] = {id=19057,name="Gloves of the Dawn",source={ID=23633,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18367] = {id=18367,name="Gordok's Gauntlets",source={ID=1318,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[13395] = {id=13395,name="Skul's Fingerbone Claws",source={ID=10393,SourceName="Skul",SourceType="Kill",DropChance="29.3",Zone="Stratholme"}}
+items[13181] = {id=13181,name="Demonskin Gloves",source={ID=10263,SourceName="Burning Felguard",SourceType="Kill",DropChance="29.9",Zone="Blackrock Spire"}}
+items[22256] = {id=22256,name="Mana Shaping Handwraps",source={ID=161495,SourceName="Secret Safe",SourceType="Container",DropChance="23.2",Zone="Blackrock Depths"}}
+items[17007] = {id=17007,name="Stonerender Gauntlets",source={ID=1784,SourceName="Skeletal Sorcerer",SourceType="Kill",DropChance="0",Zone="Western Plaguelands"}}
+items[7925] = {id=7925,name="Mithril Scale Gloves",source={ID=9942,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9287] = {id=9287,name="Field Plate Gauntlets",source={ID=8211,SourceName="Old Cliff Jumper",SourceType="Kill",DropChance="4.1",Zone="The Hinterlands"}}
+items[4254] = {id=4254,name="Barbaric Gloves",source={ID=3771,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35011] = {id=35011,name="Brutal Gladiator's Felweave Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34407] = {id=34407,name="Tranquil Moonlight Wraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32275] = {id=32275,name="Spiritwalker Gauntlets",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="11.1",Zone="Black Temple"}}
+items[31981] = {id=31981,name="Merciless Gladiator's Felweave Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30114] = {id=30114,name="Destroyer Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33512] = {id=33512,name="Furious Deathgrips",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33531] = {id=33531,name="Polished Waterscale Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33539] = {id=33539,name="Trickster's Stickyfingers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24801] = {id=24801,name="Dragonhawk Gloves",source={ID=23261,SourceName="Furywing",SourceType="Kill",DropChance="1.2",Zone="Unknown"}}
+items[27745] = {id=27745,name="Hungarhide Gauntlets",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
+items[34700] = {id=34700,name="Gauntlets of Divine Blessings",source={ID=24723,SourceName="Selin Fireheart",SourceType="Kill",DropChance="19.0",Zone="Magisters' Terrace"}}
+items[24664] = {id=24664,name="Shadow Council Gloves",source={ID=22128,SourceName="Durnholde Lookout",SourceType="Kill",DropChance="1.1",Zone="Unknown"}}
+items[29784] = {id=29784,name="Harmony's Touch",source={ID=10240,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30967] = {id=30967,name="The Hands of Fate",source={ID=10579,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[24881] = {id=24881,name="Der'izu Fists",source={ID=20990,SourceName="Bloodwarder Physician",SourceType="Kill",DropChance="20.0",Zone="The Mechanar"}}
+items[24648] = {id=24648,name="Astralaan Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24760] = {id=24760,name="Umbrafen Gloves",source={ID=19428,SourceName="Cobalt Serpent",SourceType="Kill",DropChance="11.1",Zone="Sethekk Halls"}}
+items[31164] = {id=31164,name="Nethersteel Gauntlets",source={ID=18693,SourceName="Speaker Mar'grom",SourceType="Kill",DropChance="42.9",Zone="Unknown"}}
+items[24865] = {id=24865,name="Blood Knight Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24977] = {id=24977,name="Reaver Gloves",source={ID=18317,SourceName="Ethereal Priest",SourceType="Kill",DropChance="4.7",Zone="Mana-Tombs"}}
+items[24857] = {id=24857,name="Marshcreeper Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24736] = {id=24736,name="Sunroc Gloves",source={ID=18317,SourceName="Ethereal Priest",SourceType="Kill",DropChance="4.7",Zone="Mana-Tombs"}}
+items[24616] = {id=24616,name="Vindicator Gloves",source={ID=18309,SourceName="Ethereal Scavenger",SourceType="Kill",DropChance="8.3",Zone="Mana-Tombs"}}
+items[24841] = {id=24841,name="Wrathfin Gloves",source={ID=20444,SourceName="Ango'rosh Shadowmage",SourceType="Kill",DropChance="10.0",Zone="Zangarmarsh"}}
+items[24608] = {id=24608,name="Laughing Skull Gloves",source={ID=17961,SourceName="Coilfang Enchantress",SourceType="Kill",DropChance="7.1",Zone="The Slave Pens"}}
+items[24720] = {id=24720,name="Dreghood Gloves",source={ID=18894,SourceName="Felguard Brute",SourceType="Kill",DropChance="7.1",Zone="The Blood Furnace"}}
+items[30784] = {id=30784,name="Worn Mag'hari Gauntlets",source={ID=18010,SourceName="Maktu",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[24704] = {id=24704,name="Haal'eshi Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16964] = {id=16964,name="Gauntlets of Wrath",source={ID=11983,SourceName="Firemaw",SourceType="Kill",DropChance="16.2",Zone="Blackwing Lair"}}
+items[19369] = {id=19369,name="Gloves of Rapid Evolution",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="19.6",Zone="Blackwing Lair"}}
+items[25344] = {id=25344,name="Dilapidated Cloth Gloves",source={ID=16425,SourceName="Phantom Guardsman",SourceType="Kill",DropChance="10.0",Zone="Karazhan"}}
+items[19894] = {id=19894,name="Bloodsoaked Gauntlets",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="16.7",Zone="Zul'Gurub"}}
+items[21062] = {id=21062,name="66 Epic Fire Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21090] = {id=21090,name="66 Epic Shadow Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20713] = {id=20713,name="Desertstalkers's Gauntlets",source={ID=8377,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[21049] = {id=21049,name="63 Blue Fire Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11665] = {id=11665,name="Ogreseer Fists",source={ID=9030,SourceName="Ok'thor the Breaker",SourceType="Kill",DropChance="29.5",Zone="Blackrock Depths"}}
+items[12464] = {id=12464,name="Bloodfire Talons",source={ID=5721,SourceName="Dreamscythe",SourceType="Kill",DropChance="8.3",Zone="The Temple of Atal'Hakkar"}}
+items[33233] = {id=33233,name="Cobalt-threaded Gloves",source={ID=11174,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[4107] = {id=4107,name="Tiger Hunter Gloves",source={ID=188,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[9435] = {id=9435,name="Reticulated Bone Gauntlets",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
+items[4121] = {id=4121,name="Gemmed Gloves",source={ID=213,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[15560] = {id=15560,name="Pillager's Gloves",source={ID=9377,SourceName="Swirling Vortex",SourceType="Kill",DropChance="0.1",Zone="Thousand Needles"}}
+items[4248] = {id=4248,name="Dark Leather Gloves",source={ID=3765,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7348] = {id=7348,name="Fletcher's Gloves",source={ID=9145,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34991] = {id=34991,name="Brutal Gladiator's Chain Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30170] = {id=30170,name="Cataclysm Handgrips",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30223] = {id=30223,name="Nordrassil Handgrips",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24688] = {id=24688,name="Elementalist Gloves",source={ID=22281,SourceName="Galvanoth",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
+items[31575] = {id=31575,name="Mistshroud Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32076] = {id=32076,name="Handguards of the Steady",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="19.7",Zone="The Mechanar"}}
+items[25591] = {id=25591,name="Clefthoof Gloves",source={ID=9851,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[31137] = {id=31137,name="Gauntlets of Purification",source={ID=17626,SourceName="Laughing Skull Legionnaire",SourceType="Kill",DropChance="2.0",Zone="The Blood Furnace"}}
+items[25654] = {id=25654,name="Felscale Gloves",source={ID=32462,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21624] = {id=21624,name="Gauntlets of Kalimdor",source={ID=15299,SourceName="Viscidus",SourceType="Kill",DropChance="22.8",Zone="Ahn'Qiraj"}}
+items[16907] = {id=16907,name="Bloodfang Gloves",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="14.4",Zone="Blackwing Lair"}}
+items[22864] = {id=22864,name="Blood Guard's Leather Grips",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[20259] = {id=20259,name="Shadow Panther Hide Gloves",source={ID=11338,SourceName="Hakkari Shadowcaster",SourceType="Kill",DropChance="0",Zone="Zul'Gurub"}}
+items[19049] = {id=19049,name="Timbermaw Brawlers",source={ID=23704,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14333] = {id=14333,name="Eternal Gloves",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="6.5",Zone="Azshara"}}
+items[17596] = {id=17596,name="Knight-Lieutenant's Satin Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20549] = {id=20549,name="Darkrune Gauntlets",source={ID=24912,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18409] = {id=18409,name="Mooncloth Gloves",source={ID=22869,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23128] = {id=23128,name="The Shadow's Grasp",source={ID=14690,SourceName="Revanchion",SourceType="Kill",DropChance="55.5",Zone="Dire Maul"}}
+items[8287] = {id=8287,name="Arcane Gloves",source={ID=10821,SourceName="Hed'mush the Rotting",SourceType="Kill",DropChance="1.4",Zone="Eastern Plaguelands"}}
+items[186041] = {id=186041,name="Communal Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14782] = {id=14782,name="Khan's Gloves",source={ID=5647,SourceName="Sandfury Firecaller",SourceType="Kill",DropChance="0.2",Zone="Tanaris"}}
+items[4465] = {id=4465,name="Bonefist Gauntlets",source={ID=771,SourceName="Commander Felstrom",SourceType="Kill",DropChance="46.6",Zone="Duskwood"}}
+items[7049] = {id=7049,name="Truefaith Gloves",source={ID=8782,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7047] = {id=7047,name="Hands of Darkness",source={ID=8780,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33671] = {id=33671,name="Vengeful Gladiator's Dragonhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30160] = {id=30160,name="Handguards of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[26000] = {id=26000,name="Gladiator's Linked Gauntlets",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[24793] = {id=24793,name="Expedition Gloves",source={ID=18731,SourceName="Ambassador Hellmaw",SourceType="Kill",DropChance="20.0",Zone="Shadow Labyrinth"}}
+items[32529] = {id=32529,name="Heretic's Gauntlets",source={ID=23161,SourceName="Darkscreecher Akkarai",SourceType="Kill",DropChance="19.5",Zone="Unknown"}}
+items[35387] = {id=35387,name="Seer's Mail Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23508] = {id=23508,name="Adamantite Plate Gloves",source={ID=29605,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24953] = {id=24953,name="Bogslayer Gauntlets",source={ID=17371,SourceName="Shadowmoon Warlock",SourceType="Kill",DropChance="3.9",Zone="The Blood Furnace"}}
+items[21619] = {id=21619,name="Gloves of the Messiah",source={ID=15509,SourceName="Princess Huhuran",SourceType="Kill",DropChance="21.6",Zone="Ahn'Qiraj"}}
+items[21469] = {id=21469,name="Gauntlets of Southwind",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="32.2",Zone="Ruins of Ahn'Qiraj"}}
+items[21458] = {id=21458,name="Gauntlets of New Life",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="28.1",Zone="Ruins of Ahn'Qiraj"}}
+items[4012] = {id=4012,name="Sterling Chain Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16396] = {id=16396,name="Knight-Lieutenant's Leather Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16530] = {id=16530,name="Blood Guard's Chain Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18366] = {id=18366,name="Gordok's Handguards",source={ID=1318,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[18369] = {id=18369,name="Gordok's Handwraps",source={ID=1318,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[14043] = {id=14043,name="Cindercloth Gloves",source={ID=18412,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[186033] = {id=186033,name="Communal Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19126] = {id=19126,name="Slagplate Gauntlets",source={ID=7723,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[9868] = {id=9868,name="Renegade Gauntlets",source={ID=14222,SourceName="Araga",SourceType="Kill",DropChance="6.7",Zone="Alterac Mountains"}}
+items[4247] = {id=4247,name="Hillman's Leather Gloves",source={ID=3764,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31032] = {id=31032,name="Thunderheart Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30119] = {id=30119,name="Destroyer Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33528] = {id=33528,name="Gauntlets of Sniping",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31397] = {id=31397,name="Gladiator's Ringmail Gauntlets",source={ID=25177,SourceName="Evee Copperspring",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[30764] = {id=30764,name="Infernoweave Gloves",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30767] = {id=30767,name="Inferno Tempered Gauntlets",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[32077] = {id=32077,name="Wrath Infused Gauntlets",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
+items[24849] = {id=24849,name="Fenclaw Fists",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24600] = {id=24600,name="Starfire Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21599] = {id=21599,name="Vek'lor's Gloves of Devastation",source={ID=15276,SourceName="Emperor Vek'lor",SourceType="Kill",DropChance="25.3",Zone="Ahn'Qiraj"}}
+items[24921] = {id=24921,name="Grimscale Gauntlets",source={ID=17259,SourceName="Bonechewer Hungerer",SourceType="Kill",DropChance="0.7",Zone="Hellfire Ramparts"}}
+items[16948] = {id=16948,name="Gauntlets of Ten Storms",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="5.9",Zone="Blackwing Lair"}}
+items[20618] = {id=20618,name="Gloves of Delusional Power",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="15.4",Zone="Duskwood"}}
+items[22763] = {id=22763,name="Ironvine Gloves",source={ID=28462,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16852] = {id=16852,name="Giantstalker's Gloves",source={ID=12264,SourceName="Shazzrah",SourceType="Kill",DropChance="41.7",Zone="Molten Core"}}
+items[3956] = {id=3956,name="Mesh Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16717] = {id=16717,name="Wildheart Gloves",source={ID=10516,SourceName="The Unforgiven",SourceType="Kill",DropChance="14.0",Zone="Stratholme"}}
+items[15091] = {id=15091,name="Runic Leather Gauntlets",source={ID=19055,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34380] = {id=34380,name="Sunblessed Gauntlets",source={ID=46140,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34998] = {id=34998,name="Brutal Gladiator's Dragonhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35067] = {id=35067,name="Brutal Gladiator's Plate Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31034] = {id=31034,name="Thunderheart Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32005] = {id=32005,name="Merciless Gladiator's Linked Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24889] = {id=24889,name="Skettis Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24656] = {id=24656,name="Consortium Gloves",source={ID=12377,SourceName="Wailing Spectre",SourceType="Kill",DropChance="0",Zone="Deadwind Pass"}}
+items[25566] = {id=25566,name="Judicator's Gauntlets",source={ID=9862,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[31166] = {id=31166,name="Nethersteel-Lined Handwraps",source={ID=18693,SourceName="Speaker Mar'grom",SourceType="Kill",DropChance="48.5",Zone="Unknown"}}
+items[16920] = {id=16920,name="Handguards of Transcendence",source={ID=11983,SourceName="Firemaw",SourceType="Kill",DropChance="16.5",Zone="Blackwing Lair"}}
+items[18808] = {id=18808,name="Gloves of the Hypnotic Flame",source={ID=179703,SourceName="Cache of the Firelord",SourceType="Container",DropChance="23.3",Zone="Molten Core"}}
+items[22343] = {id=22343,name="Handguards of Savagery",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="23.9",Zone="Blackrock Spire"}}
+items[13244] = {id=13244,name="Gilded Gauntlets",source={ID=10596,SourceName="Mother Smolderweb",SourceType="Kill",DropChance="26.8",Zone="Blackrock Spire"}}
+items[20653] = {id=20653,name="Abyssal Plate Gauntlets",source={ID=15211,SourceName="Azure Templar",SourceType="Kill",DropChance="13.4",Zone="Silithus"}}
+items[20659] = {id=20659,name="Abyssal Mail Handguards",source={ID=15212,SourceName="Hoary Templar",SourceType="Kill",DropChance="14.2",Zone="Silithus"}}
+items[11814] = {id=11814,name="Molten Fists",source={ID=9156,SourceName="Ambassador Flamelash",SourceType="Kill",DropChance="37.5",Zone="Blackrock Depths"}}
+items[14846] = {id=14846,name="Sunscale Gauntlets",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
+items[14917] = {id=14917,name="Jade Gauntlets",source={ID=5236,SourceName="Gordunni Shaman",SourceType="Kill",DropChance="0",Zone="Feralas"}}
+items[14403] = {id=14403,name="Resilient Handgrips",source={ID=3940,SourceName="Taneel Darkwood",SourceType="Kill",DropChance="0.4",Zone="Ashenvale"}}
+items[720] = {id=720,name="Brawler Gloves",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
+items[35053] = {id=35053,name="Brutal Gladiator's Mooncloth Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30983] = {id=30983,name="Lightbringer Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33665] = {id=33665,name="Vengeful Gladiator's Chain Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34916] = {id=34916,name="Gauntlets of Rapidity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24680] = {id=24680,name="Archmage Gloves",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="8.1",Zone="Hellfire Ramparts"}}
+items[31181] = {id=31181,name="Rockwurm Hide Handwraps",source={ID=18678,SourceName="Fulgorge",SourceType="Kill",DropChance="39.5",Zone="Unknown"}}
+items[16403] = {id=16403,name="Knight-Lieutenant's Chain Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13126] = {id=13126,name="Battlecaller Gauntlets",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="50.0",Zone="Silithus"}}
+items[17721] = {id=17721,name="Gloves of the Greatfather",source={ID=21943,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30487] = {id=30487,name="Merciless Gladiator's Plate Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31973] = {id=31973,name="Merciless Gladiator's Dreadweave Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35471] = {id=35471,name="Wyrmhide Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16913] = {id=16913,name="Netherwind Gloves",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="16.5",Zone="Blackwing Lair"}}
+items[16928] = {id=16928,name="Nemesis Gloves",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="14.3",Zone="Blackwing Lair"}}
+items[16812] = {id=16812,name="Gloves of Prophecy",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="41.0",Zone="Molten Core"}}
+items[14525] = {id=14525,name="Boneclenched Gauntlets",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="14.7",Zone="Scholomance"}}
+items[7471] = {id=7471,name="Regal Gloves",source={ID=14492,SourceName="Verifonix",SourceType="Kill",DropChance="4.5",Zone="Stranglethorn Vale"}}
+items[33256] = {id=33256,name="Refitted Bruiser Gauntlets",source={ID=11162,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[7421] = {id=7421,name="Phalanx Gauntlets",source={ID=14277,SourceName="Lady Zephris",SourceType="Kill",DropChance="3.4",Zone="Hillsbrad Foothills"}}
+items[3341] = {id=3341,name="Gauntlets of Ogre Strength",source={ID=2564,SourceName="Boulderfist Enforcer",SourceType="Kill",DropChance="1.2",Zone="Arathi Highlands"}}
+items[6733] = {id=6733,name="Ironforge Gauntlets",source={ID=8368,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35413] = {id=35413,name="Crusader's Scaled Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18368] = {id=18368,name="Gordok's Gloves",source={ID=1318,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[4509] = {id=4509,name="Seawolf Gloves",source={ID=664,SourceName="",SourceType="Quest",DropChance="0",Zone="Arathi Highlands"}}
+items[10413] = {id=10413,name="Gloves of the Fang",source={ID=3840,SourceName="Druid of the Fang",SourceType="Kill",DropChance="2.3",Zone="Wailing Caverns"}}
+items[4239] = {id=4239,name="Embossed Leather Gloves",source={ID=3756,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6586] = {id=6586,name="Scouting Gloves",source={ID=3736,SourceName="Darkslayer Mordenthal",SourceType="Kill",DropChance="6.5",Zone="Ashenvale"}}
+items[10401] = {id=10401,name="Blackened Defias Gloves",source={ID=4417,SourceName="Defias Taskmaster",SourceType="Kill",DropChance="3.4",Zone="The Deadmines"}}
+items[5970] = {id=5970,name="Serpent Gloves",source={ID=3673,SourceName="Lord Serpentis",SourceType="Kill",DropChance="19.4",Zone="Wailing Caverns"}}
+items[32865] = {id=32865,name="Drake Tamer's Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20917] = {id=20917,name="Unadorned Chain Gloves",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[25969] = {id=25969,name="Rapscallion's Touch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5195] = {id=5195,name="Gold-flecked Gloves",source={ID=643,SourceName="Sneed",SourceType="Kill",DropChance="67.2",Zone="The Deadmines"}}
+items[3474] = {id=3474,name="Gemmed Copper Gauntlets",source={ID=3325,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7285] = {id=7285,name="Nimble Leather Gloves",source={ID=9074,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12994] = {id=12994,name="Thorbia's Gauntlets",source={ID=15810,SourceName="Eroded Anubisath Warbringer",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
+items[15115] = {id=15115,name="Rigid Gloves",source={ID=10559,SourceName="Lady Vespia",SourceType="Kill",DropChance="0.5",Zone="Ashenvale"}}
+items[4310] = {id=4310,name="Heavy Woolen Gloves",source={ID=3843,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12977] = {id=12977,name="Magefist Gloves",source={ID=2160,SourceName="Gravelflint Geomancer",SourceType="Kill",DropChance="0.1",Zone="Darkshore"}}
+items[6577] = {id=6577,name="Defender Gauntlets",source={ID=3736,SourceName="Darkslayer Mordenthal",SourceType="Kill",DropChance="5.6",Zone="Ashenvale"}}
+items[1945] = {id=1945,name="Woodworking Gloves",source={ID=641,SourceName="Goblin Woodcarver",SourceType="Kill",DropChance="6.6",Zone="The Deadmines"}}
+items[6547] = {id=6547,name="Soldier's Gauntlets",source={ID=15812,SourceName="Qiraji Officer",SourceType="Kill",DropChance="15.5",Zone="The Barrens"}}
+items[2968] = {id=2968,name="Warrior's Gloves",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
+items[3066] = {id=3066,name="Bright Gloves",source={ID=14279,SourceName="Creepthess",SourceType="Kill",DropChance="0.4",Zone="Hillsbrad Foothills"}}
+items[6521] = {id=6521,name="Pioneer Gloves",source={ID=5787,SourceName="Enforcer Emilgund",SourceType="Kill",DropChance="5.2",Zone="Mulgore"}}
+items[20987] = {id=20987,name="Light Cloth Gloves",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[14162] = {id=14162,name="Pagan Mitts",source={ID=5828,SourceName="Humar the Pridelord",SourceType="Kill",DropChance="1.5",Zone="The Barrens"}}
+items[892] = {id=892,name="Gnoll Casting Gloves",source={ID=1009,SourceName="Mosshide Mistweaver",SourceType="Kill",DropChance="1.9",Zone="Wetlands"}}
+items[14124] = {id=14124,name="Ritual Gloves",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
+items[3472] = {id=3472,name="Runed Copper Gauntlets",source={ID=3323,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15502] = {id=15502,name="Outrunner's Gloves",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="3.4",Zone="The Barrens"}}
+items[2980] = {id=2980,name="Veteran Gloves",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="1.1",Zone="Silverpine Forest"}}
+items[1965] = {id=1965,name="White Wolf Gloves",source={ID=1132,SourceName="Timber",SourceType="Kill",DropChance="23.3",Zone="Dun Morogh"}}
+items[2964] = {id=2964,name="Burnt Leather Gloves",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[15008] = {id=15008,name="Primal Mitts",source={ID=17448,SourceName="Chieftain Oomooroo",SourceType="Kill",DropChance="0.8",Zone="Azuremyst Isle"}}
+items[3074] = {id=3074,name="Smoldering Gloves",source={ID=1043,SourceName="Lost Whelp",SourceType="Kill",DropChance="1.1",Zone="Wetlands"}}
+items[5822] = {id=5822,name="Hedgeseed Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6565] = {id=6565,name="Shimmering Gloves",source={ID=10559,SourceName="Lady Vespia",SourceType="Kill",DropChance="4.2",Zone="Ashenvale"}}
+items[7284] = {id=7284,name="Red Whelp Gloves",source={ID=9072,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14747] = {id=14747,name="Hulking Gauntlets",source={ID=5864,SourceName="Swinegart Spearhide",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
+items[9780] = {id=9780,name="Bandit Gloves",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
+items[9787] = {id=9787,name="Raider's Gauntlets",source={ID=5835,SourceName="Foreman Grills",SourceType="Kill",DropChance="5.2",Zone="The Barrens"}}
+items[2984] = {id=2984,name="Seer's Gloves",source={ID=3578,SourceName="Dalaran Miner",SourceType="Kill",DropChance="1.2",Zone="Silverpine Forest"}}
+items[14726] = {id=14726,name="War Paint Gloves",source={ID=3652,SourceName="Trigore the Lasher",SourceType="Kill",DropChance="0.9",Zone="Unknown"}}
+items[850] = {id=850,name="Chainmail Gloves",source={ID=167,SourceName="Morhan Coppertongue",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
+items[2274] = {id=2274,name="Sapper's Gloves",source={ID=1222,SourceName="Dark Iron Sapper",SourceType="Kill",DropChance="2.1",Zone="Loch Modan"}}
+items[9762] = {id=9762,name="Cadet Gauntlets",source={ID=5865,SourceName="Dishu",SourceType="Kill",DropChance="5.9",Zone="The Barrens"}}
+items[6515] = {id=6515,name="Disciple's Gloves",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[2385] = {id=2385,name="Tarnished Chain Gloves",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[21005] = {id=21005,name="Unkempt Gloves",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="2.2",Zone="Eversong Woods"}}
+items[14572] = {id=14572,name="Bristlebark Gloves",source={ID=10644,SourceName="Mist Howler",SourceType="Kill",DropChance="1.8",Zone="Ashenvale"}}
+items[6481] = {id=6481,name="Dagmire Gauntlets",source={ID=1487,SourceName="",SourceType="Quest",DropChance="0",Zone="Wailing Caverns"}}
+items[14367] = {id=14367,name="Mystic's Gloves",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="2.0",Zone="The Barrens"}}
+items[1944] = {id=1944,name="Metalworking Gloves",source={ID=1731,SourceName="Goblin Craftsman",SourceType="Kill",DropChance="5.0",Zone="The Deadmines"}}
+items[839] = {id=839,name="Heavy Weave Gloves",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
+items[4676] = {id=4676,name="Skeletal Gauntlets",source={ID=624,SourceName="Undead Excavator",SourceType="Kill",DropChance="4.9",Zone="Unknown"}}
+items[1498] = {id=1498,name="Calico Gloves",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="8.0",Zone="Silverpine Forest"}}
+items[2976] = {id=2976,name="Hunting Gloves",source={ID=3533,SourceName="Moonrage Leatherworker",SourceType="Kill",DropChance="1.2",Zone="Silverpine Forest"}}
+items[15491] = {id=15491,name="Bloodspattered Gloves",source={ID=17338,SourceName="Nazzivus Rogue",SourceType="Kill",DropChance="0.5",Zone="Bloodmyst Isle"}}
+items[14102] = {id=14102,name="Native Handwraps",source={ID=3228,SourceName="Corrupted Surf Crawler",SourceType="Kill",DropChance="0.4",Zone="Durotar"}}
+items[3290] = {id=3290,name="Ancestral Gloves",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="1.5",Zone="Bloodmyst Isle"}}
+items[793] = {id=793,name="Knitted Gloves",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[797] = {id=797,name="Rough Leather Gloves",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[14089] = {id=14089,name="Beaded Gloves",source={ID=1993,SourceName="Greenpaw",SourceType="Kill",DropChance="0.7",Zone="Teldrassil"}}
+items[2960] = {id=2960,name="Journeyman's Gloves",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="5.1",Zone="Eversong Woods"}}
+items[24144] = {id=24144,name="Battle Worn Handguards",source={ID=9616,SourceName="",SourceType="Quest",DropChance="0",Zone="Azuremyst Isle"}}
+items[1422] = {id=1422,name="Worn Leather Gloves",source={ID=17278,SourceName="Venture Co. Saboteur",SourceType="Kill",DropChance="2.0",Zone="Azuremyst Isle"}}
+items[2125] = {id=2125,name="Cracked Leather Gloves",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2653] = {id=2653,name="Flimsy Chain Gloves",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="4.5",Zone="Azuremyst Isle"}}
+items[1750] = {id=1750,name="Linked Chain Gloves",source={ID=10641,SourceName="Branch Snapper",SourceType="Kill",DropChance="1.8",Zone="Ashenvale"}}
+items[1799] = {id=1799,name="Rawhide Gloves",source={ID=2529,SourceName="Son of Arugal",SourceType="Kill",DropChance="0.9",Zone="Shadowfang Keep"}}
+items[239] = {id=239,name="Cured Leather Gloves",source={ID=1295,SourceName="Lara Moore",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[718] = {id=718,name="Scalemail Gloves",source={ID=956,SourceName="Dorin Songblade",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
+items[1314] = {id=1314,name="Ghoul Fingers",source={ID=572,SourceName="Leprithus",SourceType="Kill",DropChance="76.7",Zone="Westfall"}}
+items[1448] = {id=1448,name="Blackrock Gauntlets",source={ID=4064,SourceName="Blackrock Scout",SourceType="Kill",DropChance="3.6",Zone="Redridge Mountains"}}
+items[2992] = {id=2992,name="Burnished Gloves",source={ID=596,SourceName="Brainwashed Noble",SourceType="Kill",DropChance="2.3",Zone="Unknown"}}
+items[14168] = {id=14168,name="Buccaneer's Gloves",source={ID=16329,SourceName="Dar'Khan Drathir",SourceType="Kill",DropChance="0.8",Zone="Ghostlands"}}
+items[1767] = {id=1767,name="Canvas Gloves",source={ID=3672,SourceName="Boahn",SourceType="Kill",DropChance="5.9",Zone="Unknown"}}
+items[1742] = {id=1742,name="Laced Mail Gloves",source={ID=125,SourceName="Riverpaw Overseer",SourceType="Kill",DropChance="1.3",Zone="Westfall"}}
+items[15310] = {id=15310,name="Feral Gloves",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="2.8",Zone="The Barrens"}}
+items[6541] = {id=6541,name="Willow Gloves",source={ID=15810,SourceName="Eroded Anubisath Warbringer",SourceType="Kill",DropChance="15.7",Zone="The Barrens"}}
+items[14117] = {id=14117,name="Aboriginal Gloves",source={ID=11714,SourceName="Marosh the Devious",SourceType="Kill",DropChance="0.3",Zone="Darkshore"}}
+items[2312] = {id=2312,name="Fine Leather Gloves",source={ID=2164,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2972] = {id=2972,name="Spellbinder Gloves",source={ID=3528,SourceName="Pyrewood Armorer",SourceType="Kill",DropChance="1.2",Zone="Silverpine Forest"}}
+items[9746] = {id=9746,name="Simple Gloves",source={ID=2175,SourceName="Shadowclaw",SourceType="Kill",DropChance="8.2",Zone="Darkshore"}}
+items[15484] = {id=15484,name="War Torn Handgrips",source={ID=2014,SourceName="Gnarlpine Totemic",SourceType="Kill",DropChance="0.5",Zone="Teldrassil"}}
+items[1734] = {id=1734,name="Worn Mail Gloves",source={ID=1271,SourceName="Old Icebeard",SourceType="Kill",DropChance="4.1",Zone="Dun Morogh"}}
+items[2369] = {id=2369,name="Woven Gloves",source={ID=3166,SourceName="Cutac",SourceType="Purchase",DropChance="100",Zone="Durotar"}}
+items[2375] = {id=2375,name="Battered Leather Gloves",source={ID=2137,SourceName="Eliza Callen",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[2397] = {id=2397,name="Light Mail Gloves",source={ID=1240,SourceName="Boran Ironclink",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[15476] = {id=15476,name="Charger's Handwraps",source={ID=5824,SourceName="Captain Flat Tusk",SourceType="Kill",DropChance="0.4",Zone="Durotar"}}
+items[1430] = {id=1430,name="Patchwork Gloves",source={ID=15655,SourceName="Rotlimb Cannibal",SourceType="Kill",DropChance="2.6",Zone="Eversong Woods"}}
+items[2119] = {id=2119,name="Thin Cloth Gloves",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[1368] = {id=1368,name="Ragged Leather Gloves",source={ID=1918,SourceName="Karrel Grayves",SourceType="Kill",DropChance="4.0",Zone="Tirisfal Glades"}}
+items[21012] = {id=21012,name="Scraggy Leather Gloves",source={ID=15366,SourceName="Springpaw Cub",SourceType="Kill",DropChance="2.2",Zone="Eversong Woods"}}
+items[30288] = {id=30288,name="Cenarion Warden's Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[203] = {id=203,name="Thick Cloth Gloves",source={ID=1291,SourceName="Carla Granger",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[15509] = {id=15509,name="Grunt's Handwraps",source={ID=4802,SourceName="Blackfathom Tide Priestess",SourceType="Kill",DropChance="0.3",Zone="Unknown"}}
+items[844] = {id=844,name="Tanned Leather Gloves",source={ID=896,SourceName="Veldan Lightfoot",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[1791] = {id=1791,name="Patched Leather Gloves",source={ID=16248,SourceName="Jurion the Deceiver",SourceType="Kill",DropChance="7.6",Zone="Ghostlands"}}
+items[6554] = {id=6554,name="Bard's Gloves",source={ID=2184,SourceName="Lady Moongazer",SourceType="Kill",DropChance="9.3",Zone="Darkshore"}}
+items[5337] = {id=5337,name="Wayfaring Gloves",source={ID=888,SourceName="",SourceType="Quest",DropChance="0",Zone="The Barrens"}}
+items[4768] = {id=4768,name="Adept's Gloves",source={ID=3270,SourceName="Elder Mystic Razorsnout",SourceType="Kill",DropChance="46.5",Zone="The Barrens"}}
+items[3304] = {id=3304,name="Brackwater Gauntlets",source={ID=17331,SourceName="Wrathscale Shorestalker",SourceType="Kill",DropChance="1.2",Zone="Bloodmyst Isle"}}
+items[1506] = {id=1506,name="Warped Leather Gloves",source={ID=3533,SourceName="Moonrage Leatherworker",SourceType="Kill",DropChance="8.9",Zone="Silverpine Forest"}}
+items[3286] = {id=3286,name="Tribal Gloves",source={ID=17333,SourceName="Wrathscale Screamer",SourceType="Kill",DropChance="0.6",Zone="Bloodmyst Isle"}}
+items[3281] = {id=3281,name="Battle Chain Gloves",source={ID=17448,SourceName="Chieftain Oomooroo",SourceType="Kill",DropChance="1.7",Zone="Azuremyst Isle"}}
+items[6510] = {id=6510,name="Infantry Gauntlets",source={ID=14430,SourceName="Duskstalker",SourceType="Kill",DropChance="6.0",Zone="Teldrassil"}}
+items[2403] = {id=2403,name="Light Chain Gloves",source={ID=2135,SourceName="Abe Winters",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[2645] = {id=2645,name="Loose Chain Gloves",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
+items[21018] = {id=21018,name="Shoddy Chain Gloves",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[20790] = {id=20790,name="90 green shaman gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20777] = {id=20777,name="63 green shaman gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2988] = {id=2988,name="Inscribed Leather Gloves",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.8",Zone="Ghostlands"}}
+items[9755] = {id=9755,name="Gypsy Gloves",source={ID=2175,SourceName="Shadowclaw",SourceType="Kill",DropChance="5.6",Zone="Darkshore"}}
+items[4307] = {id=4307,name="Heavy Linen Gloves",source={ID=3840,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[711] = {id=711,name="Tattered Cloth Gloves",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[2391] = {id=2391,name="Rusted Chain Gloves",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[714] = {id=714,name="Dirty Leather Gloves",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[1377] = {id=1377,name="Frayed Gloves",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.7",Zone="Durotar"}}
+items[25576] = {id=25576,name="Smuggler's Mitts",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2167] = {id=2167,name="Foreman's Gloves",source={ID=626,SourceName="Foreman Thistlenettle",SourceType="Kill",DropChance="0.7",Zone="Unknown"}}
+items[28145] = {id=28145,name="Tranquillien Wraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25795] = {id=25795,name="Gloves of Preservation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30963] = {id=30963,name="QR 10574 Plate Warrior Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25581] = {id=25581,name="QR 9867 Hunter Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38161] = {id=38161,name="Soul-Trader's Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25797] = {id=25797,name="Crushing Grasp",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3308] = {id=3308,name="Barbaric Cloth Gloves",source={ID=17334,SourceName="Wrathscale Marauder",SourceType="Kill",DropChance="0.4",Zone="Bloodmyst Isle"}}
+items[4767] = {id=4767,name="Coppercloth Gloves",source={ID=3578,SourceName="Dalaran Miner",SourceType="Kill",DropChance="6.4",Zone="Silverpine Forest"}}
+items[14387] = {id=14387,name="Durability Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14564] = {id=14564,name="Prospector's Mitts",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="2.0",Zone="The Barrens"}}
+items[6628] = {id=6628,name="Raven's Claws",source={ID=2283,SourceName="Ravenclaw Regent",SourceType="Kill",DropChance="22.1",Zone="Silverpine Forest"}}
+items[3314] = {id=3314,name="Ceremonial Leather Gloves",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="1.7",Zone="Bloodmyst Isle"}}
+items[15300] = {id=15300,name="Grizzly Gloves",source={ID=17673,SourceName="Stinkhorn Striker",SourceType="Kill",DropChance="1.6",Zone="Bloodmyst Isle"}}
+items[6202] = {id=6202,name="Fingerless Gloves",source={ID=61,SourceName="Thuros Lightfingers",SourceType="Kill",DropChance="65.9",Zone="Elwynn Forest"}}
+items[20923] = {id=20923,name="Sun Cured Gloves",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[6467] = {id=6467,name="Deviate Scale Gloves",source={ID=7954,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15016] = {id=15016,name="Lupine Handwraps",source={ID=11519,SourceName="Bazzalan",SourceType="Kill",DropChance="0.6",Zone="Ragefire Chasm"}}
 
 
 -- Name Data

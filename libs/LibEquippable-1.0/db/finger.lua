@@ -10,651 +10,651 @@ local names = {}
 
 
 -- Item Data
-items[19325] = {id=19325,name="Don Julio's Band",obtain={NpcID=13216,NpcName="Gaelden Hammersmith (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[34227] = {id=34227,name="Deadman's Hand",obtain={NpcID=6487,NpcName="Arcanist Doan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Scarlet Monastery"}}
-items[28555] = {id=28555,name="Seal of the Exorcist",obtain={NpcID=19773,NpcName="Spirit Sage Zran (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Terokkar Forest"}}
-items[21753] = {id=21753,name="Gem Studded Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26896,DropChance=0,Zone=""}}
-items[20964] = {id=20964,name="Aquamarine Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26874,DropChance=0,Zone=""}}
-items[30834] = {id=30834,name="Shapeshifter's Signet",obtain={NpcID=21655,NpcName="Nakodu (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[28793] = {id=28793,name="Band of Crimson Fury",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11002,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[28757] = {id=28757,name="Ring of a Thousand Marks",obtain={NpcID=15690,NpcName="Prince Malchezaar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=42.8,Zone="Karazhan"}}
-items[30804] = {id=30804,name="Bronze Band of Force",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=37818,DropChance=0,Zone=""}}
-items[28791] = {id=28791,name="Ring of the Recalcitrant",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11002,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[21190] = {id=21190,name="Wrath of Cenarius",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8573,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[28649] = {id=28649,name="Garona's Signet Ring",obtain={NpcID=15691,NpcName="The Curator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Karazhan"}}
-items[29172] = {id=29172,name="Ashyen's Gift",obtain={NpcID=17904,NpcName="Fedryen Swiftspear (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[21768] = {id=21768,name="Sapphire Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26903,DropChance=0,Zone=""}}
-items[21563] = {id=21563,name="Don Rodrigo's Band",obtain={NpcID=13216,NpcName="Gaelden Hammersmith (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28753] = {id=28753,name="Ring of Recurrence",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31077] = {id=31077,name="Slayer's Mark of the Redemption",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10769,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[19522] = {id=19522,name="Lorekeeper's Ring",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[28247] = {id=28247,name="Band of Dominance",obtain={NpcID=12781,NpcName="Master Sergeant Biggins (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[30860] = {id=30860,name="Kaylaan's Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10409,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[28790] = {id=28790,name="Naaru Lightwarden's Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11002,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[21205] = {id=21205,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8756,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[28553] = {id=28553,name="Band of the Exorcist",obtain={NpcID=19773,NpcName="Spirit Sage Zran (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Terokkar Forest"}}
-items[29290] = {id=29290,name="Violet Signet of the Grand Restorer",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31319] = {id=31319,name="Band of Impenetrable Defenses",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16058] = {id=16058,name="Fordring's Seal",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5944,Recipe=false,RecipeID=0,DropChance=0,Zone="Western Plaguelands"}}
-items[34837] = {id=34837,name="The 2 Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28792] = {id=28792,name="A'dal's Signet of Defense",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11002,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[30667] = {id=30667,name="Ring of Unrelenting Storms",obtain={NpcID=16411,NpcName="Spectral Chef",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Karazhan"}}
-items[29157] = {id=29157,name="Golden Ring of Power",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34955,DropChance=0,Zone=""}}
-items[29287] = {id=29287,name="Violet Signet of the Archmage",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28763] = {id=28763,name="Jade Ring of the Everliving",obtain={NpcID=15690,NpcName="Prince Malchezaar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Karazhan"}}
-items[28407] = {id=28407,name="Elementium Band of the Sentry",obtain={NpcID=20912,NpcName="Harbinger Skyriss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.2,Zone="The Arcatraz"}}
-items[29323] = {id=29323,name="Andormu's Tear",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10298,Recipe=false,RecipeID=0,DropChance=0,Zone="Caverns of Time"}}
-items[29279] = {id=29279,name="Violet Signet of the Great Protector",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10728,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[27925] = {id=27925,name="Ravenclaw Band",obtain={NpcID=18473,NpcName="Talon King Ikiss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.4,Zone="Sethekk Halls"}}
-items[28227] = {id=28227,name="Sparking Arcanite Ring",obtain={NpcID=18096,NpcName="Epoch Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.7,Zone="Old Hillsbrad Foothills"}}
-items[28661] = {id=28661,name="Mender's Heart-Ring",obtain={NpcID=15688,NpcName="Terestian Illhoof",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Karazhan"}}
-items[20826] = {id=20826,name="Heavy Silver Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25305,DropChance=0,Zone=""}}
-items[29159] = {id=29159,name="Glowing Thorium Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34960,DropChance=0,Zone=""}}
-items[21765] = {id=21765,name="Truesilver Healing Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26885,DropChance=0,Zone=""}}
-items[31920] = {id=31920,name="Shaffar's Band of Brutality",obtain={NpcID=22930,NpcName="Yor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Mana-Tombs"}}
-items[33056] = {id=33056,name="Veteran's Band of Dominance",obtain={NpcID=12781,NpcName="Master Sergeant Biggins (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[21709] = {id=21709,name="Ring of the Fallen God",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8802,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[22961] = {id=22961,name="Band of Reanimation",obtain={NpcID=16028,NpcName="Patchwerk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.2,Zone="Naxxramas"}}
-items[28510] = {id=28510,name="Spectral Band of Innervation",obtain={NpcID=15550,NpcName="Attumen the Huntsman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.6,Zone="Karazhan"}}
-items[28246] = {id=28246,name="Band of Triumph",obtain={NpcID=12781,NpcName="Master Sergeant Biggins (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[29177] = {id=29177,name="A'dal's Command",obtain={NpcID=21432,NpcName="Almaador (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[30738] = {id=30738,name="Ring of Reciprocity",obtain={NpcID=18728,NpcName="Doom Lord Kazzak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.6,Zone="Unknown"}}
-items[28675] = {id=28675,name="Shermanar Great-Ring",obtain={NpcID=16524,NpcName="Shade of Aran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Karazhan"}}
-items[19518] = {id=19518,name="Advisor's Ring",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[33057] = {id=33057,name="Veteran's Band of Triumph",obtain={NpcID=12781,NpcName="Master Sergeant Biggins (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[29158] = {id=29158,name="Truesilver Commander's Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34959,DropChance=0,Zone=""}}
-items[29283] = {id=29283,name="Violet Signet of the Master Assassin",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30365] = {id=30365,name="Overseer's Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10323,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30422] = {id=30422,name="Diamond Focus Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36526,DropChance=0,Zone=""}}
-items[12926] = {id=12926,name="Flaming Band",obtain={NpcID=9816,NpcName="Pyroguard Emberseer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.9,Zone="Blackrock Spire"}}
-items[22681] = {id=22681,name="Band of Piety",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9221,Recipe=false,RecipeID=0,DropChance=0,Zone="Eastern Plaguelands"}}
-items[21210] = {id=21210,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8761,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[942] = {id=942,name="Freezing Band",obtain={NpcID=6131,NpcName="Draconic Mageweaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Azshara"}}
-items[28730] = {id=28730,name="Mithril Band of the Unscarred",obtain={NpcID=15689,NpcName="Netherspite",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Karazhan"}}
-items[20827] = {id=20827,name="Ring of Silver Might",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25317,DropChance=0,Zone=""}}
-items[29160] = {id=29160,name="Emerald Lion Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34961,DropChance=0,Zone=""}}
-items[29126] = {id=29126,name="Seer's Signet",obtain={NpcID=19331,NpcName="Quartermaster Enuril (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[21200] = {id=21200,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8751,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[20907] = {id=20907,name="Solid Bronze Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25490,DropChance=0,Zone=""}}
-items[20451] = {id=20451,name="Twilight Cultist Ring of Lordship",obtain={NpcID=14479,NpcName="Twilight Lord Everun",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Silithus"}}
-items[20958] = {id=20958,name="Blazing Citrine Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25617,DropChance=0,Zone=""}}
-items[20960] = {id=20960,name="Engraved Truesilver Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25620,DropChance=0,Zone=""}}
-items[27822] = {id=27822,name="Crystal Band of Valor",obtain={NpcID=18343,NpcName="Tavarok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Mana-Tombs"}}
-items[29384] = {id=29384,name="Ring of Unyielding Force",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[31078] = {id=31078,name="Protector's Mark of the Redemption",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10769,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[19510] = {id=19510,name="Legionnaire's Band",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[34361] = {id=34361,name="Hard Khorium Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46124,DropChance=0,Zone=""}}
-items[29373] = {id=29373,name="Band of Halos",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[17713] = {id=17713,name="Blackstone Ring",obtain={NpcID=12201,NpcName="Princess Theradras",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.5,Zone="Maraudon"}}
-items[21775] = {id=21775,name="Onslaught Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26907,DropChance=0,Zone=""}}
-items[29168] = {id=29168,name="Ancestral Band",obtain={NpcID=17585,NpcName="Quartermaster Urgronn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[29352] = {id=29352,name="Cobalt Band of Tyrigosa",obtain={NpcID=18344,NpcName="Nexus-Prince Shaffar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.1,Zone="Mana-Tombs"}}
-items[20961] = {id=20961,name="Citrine Ring of Rapid Healing",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25621,DropChance=0,Zone=""}}
-items[27436] = {id=27436,name="Iron Band of the Unbreakable",obtain={NpcID=17848,NpcName="Lieutenant Drake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Old Hillsbrad Foothills"}}
-items[12344] = {id=12344,name="Seal of Ascension",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4743,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackrock Spire"}}
-items[29169] = {id=29169,name="Ring of Convalescence",obtain={NpcID=17657,NpcName="Logistics Officer Ulrike (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[11669] = {id=11669,name="Naglering",obtain={NpcID=8983,NpcName="Golem Lord Argelmach",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.6,Zone="Blackrock Depths"}}
-items[30006] = {id=30006,name="Wind Trader's Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10318,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31075] = {id=31075,name="Evoker's Mark of the Redemption",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10769,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[21778] = {id=21778,name="Ring of Bitter Shadows",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26910,DropChance=0,Zone=""}}
-items[27780] = {id=27780,name="Ring of Fabled Hope",obtain={NpcID=17882,NpcName="The Black Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="The Underbog"}}
-items[13001] = {id=13001,name="Maiden's Circle",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[9461] = {id=9461,name="Charged Gear",obtain={NpcID=7800,NpcName="Mekgineer Thermaplugg",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.9,Zone="Gnomeregan"}}
-items[33064] = {id=33064,name="Veteran's Band of Salvation",obtain={NpcID=12781,NpcName="Master Sergeant Biggins (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[29379] = {id=29379,name="Ring of Arathi Warlords",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[21767] = {id=21767,name="Simple Opal Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26902,DropChance=0,Zone=""}}
-items[29286] = {id=29286,name="Violet Signet",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[7553] = {id=7553,name="Band of the Unicorn",obtain={NpcID=5997,NpcName="Nethergarde Engineer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Blasted Lands"}}
-items[30052] = {id=30052,name="Ring of Lethality",obtain={NpcID=21216,NpcName="Hydross the Unstable",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.5,Zone="Serpentshrine Cavern"}}
-items[18500] = {id=18500,name="Tarnished Elven Ring",obtain={NpcID=14353,NpcName="Mizzle the Crafty",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.0,Zone="Dire Maul"}}
-items[22721] = {id=22721,name="Band of Servitude",obtain={NpcID=14517,NpcName="High Priestess Jeklik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.8,Zone="Zul'Gurub"}}
-items[29997] = {id=29997,name="Band of the Ranger-General",obtain={NpcID=19622,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.2,Zone="Tempest Keep"}}
-items[30366] = {id=30366,name="Manastorm Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10365,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31924] = {id=31924,name="Yor's Revenge",obtain={NpcID=22930,NpcName="Yor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Mana-Tombs"}}
-items[23031] = {id=23031,name="Band of the Inevitable",obtain={NpcID=15954,NpcName="Noth the Plaguebringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.7,Zone="Naxxramas"}}
-items[21596] = {id=21596,name="Ring of the Godslayer",obtain={NpcID=15727,NpcName="C'Thun",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=38.5,Zone="Ahn'Qiraj"}}
-items[21182] = {id=21182,name="Band of Earthen Might",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8572,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[21402] = {id=21402,name="Signet of the Unseen Path",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8704,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[29814] = {id=29814,name="Celestial Jewel Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10293,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[17063] = {id=17063,name="Band of Accuria",obtain={NpcID=11502,NpcName="Ragnaros",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.3,Zone="Molten Core"}}
-items[22680] = {id=22680,name="Band of Resolution",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9221,Recipe=false,RecipeID=0,DropChance=0,Zone="Eastern Plaguelands"}}
-items[29367] = {id=29367,name="Ring of Cryptic Dreams",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[30736] = {id=30736,name="Ring of Flowing Light",obtain={NpcID=18728,NpcName="Doom Lord Kazzak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.8,Zone="Unknown"}}
-items[29282] = {id=29282,name="Violet Signet",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24154] = {id=24154,name="Witching Band",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.7,Zone="Hellfire Ramparts"}}
-items[29305] = {id=29305,name="Band of the Eternal Sage",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30028] = {id=30028,name="Seventh Ring of the Tirisfalen",obtain={NpcID=20032,NpcName="Bloodwarder Vindicator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Unknown"}}
-items[20955] = {id=20955,name="Golden Dragon Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25613,DropChance=0,Zone=""}}
-items[31923] = {id=31923,name="Band of the Crystalline Void",obtain={NpcID=22930,NpcName="Yor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Mana-Tombs"}}
-items[32527] = {id=32527,name="Ring of Ancient Knowledge",obtain={NpcID=22844,NpcName="Ashtongue Battlelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Unknown"}}
-items[25439] = {id=25439,name="Tigerseye Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32179,DropChance=0,Zone=""}}
-items[34362] = {id=34362,name="Loop of Forged Power",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46122,DropChance=0,Zone=""}}
-items[27733] = {id=27733,name="Warden's Ring of Precision",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9731,Recipe=false,RecipeID=0,DropChance=0,Zone="Zangarmarsh"}}
-items[9533] = {id=9533,name="Masons Fraternity Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=2768,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Farrak"}}
-items[30421] = {id=30421,name="Red Ring of Destruction",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36525,DropChance=0,Zone=""}}
-items[29301] = {id=29301,name="Band of the Eternal Champion",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11967] = {id=11967,name="Zircon Band",obtain={NpcID=2478,NpcName="Haren Swifthoof",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Loch Modan"}}
-items[25826] = {id=25826,name="Sage's Band",obtain={NpcID=17657,NpcName="Logistics Officer Ulrike (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[19109] = {id=19109,name="Deep Rooted Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32497] = {id=32497,name="Stormrage Signet Ring",obtain={NpcID=22917,NpcName="Illidan Stormrage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.4,Zone="Black Temple"}}
-items[30109] = {id=30109,name="Ring of Endless Coils",obtain={NpcID=21212,NpcName="Lady Vashj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.6,Zone="Serpentshrine Cavern"}}
-items[21204] = {id=21204,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8755,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[20818] = {id=20818,name="Elegant Silver Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25280,DropChance=0,Zone=""}}
-items[24151] = {id=24151,name="Mok'Nathal Clan Ring",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.7,Zone="Hellfire Ramparts"}}
-items[19514] = {id=19514,name="Protector's Band",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[31326] = {id=31326,name="Truestrike Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21417] = {id=21417,name="Ring of Unspoken Names",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8702,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[31383] = {id=31383,name="Spiritualist's Mark of the Sha'tar",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10781,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[23038] = {id=23038,name="Band of Unnatural Forces",obtain={NpcID=16011,NpcName="Loatheb",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.5,Zone="Naxxramas"}}
-items[22707] = {id=22707,name="Ramaladni's Icy Grasp",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9230,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[1980] = {id=1980,name="Underworld Band",obtain={NpcID=669,NpcName="Skullsplitter Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[30420] = {id=30420,name="Heavy Jade Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36524,DropChance=0,Zone=""}}
-items[20828] = {id=20828,name="Ring of Twilight Shadows",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25318,DropChance=0,Zone=""}}
-items[37934] = {id=37934,name="Noble's Elementium Signet",obtain={NpcID=2849,NpcName="Qixdi Goodstitch (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[8350] = {id=8350,name="The 1 Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21779] = {id=21779,name="Band of Natural Fire",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26916,DropChance=0,Zone=""}}
-items[30110] = {id=30110,name="Coral Band of the Revived",obtain={NpcID=21212,NpcName="Lady Vashj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.8,Zone="Serpentshrine Cavern"}}
-items[29922] = {id=29922,name="Band of Al'ar",obtain={NpcID=19514,NpcName="Al'ar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.2,Zone="Tempest Keep"}}
-items[24045] = {id=24045,name="Band of Renewal",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.6,Zone="Hellfire Ramparts"}}
-items[29920] = {id=29920,name="Phoenix-Ring of Rebirth",obtain={NpcID=19514,NpcName="Al'ar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.3,Zone="Tempest Keep"}}
-items[15855] = {id=15855,name="Ring of Protection",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5942,Recipe=false,RecipeID=0,DropChance=0,Zone="Eastern Plaguelands"}}
-items[1156] = {id=1156,name="Lavishly Jeweled Ring",obtain={NpcID=1763,NpcName="Gilnid",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.1,Zone="The Deadmines"}}
-items[33104] = {id=33104,name="Ring of Skill",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28323] = {id=28323,name="Ring of Umbral Doom",obtain={NpcID=17978,NpcName="Thorngrin the Tender",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.6,Zone="The Botanica"}}
-items[21399] = {id=21399,name="Ring of the Gathering Storm",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8698,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[34363] = {id=34363,name="Ring of Flowing Life",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46123,DropChance=0,Zone=""}}
-items[28259] = {id=28259,name="Cosmic Lifeband",obtain={NpcID=19221,NpcName="Nethermancer Sepethrea",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.2,Zone="The Mechanar"}}
-items[19147] = {id=19147,name="Ring of Spell Power",obtain={NpcID=12259,NpcName="Gehennas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Molten Core"}}
-items[21393] = {id=21393,name="Signet of Unyielding Strength",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8556,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[2246] = {id=2246,name="Myrmidon's Signet",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[10710] = {id=10710,name="Dragonclaw Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=3525,Recipe=false,RecipeID=0,DropChance=0,Zone="Razorfen Downs"}}
-items[34887] = {id=34887,name="Angelista's Revenge",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32774] = {id=32774,name="The Black Pearl",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41415,DropChance=0,Zone=""}}
-items[22433] = {id=22433,name="Don Mauricio's Band of Domination",obtain={NpcID=1853,NpcName="Darkmaster Gandling",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.5,Zone="Scholomance"}}
-items[10634] = {id=10634,name="Mindseye Circle",obtain={NpcID=5277,NpcName="Nightmare Scalebane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="The Temple of Atal'Hakkar"}}
-items[34230] = {id=34230,name="Ring of Omnipotence",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.4,Zone="Sunwell Plateau"}}
-items[29128] = {id=29128,name="Lightwarden's Band",obtain={NpcID=19321,NpcName="Quartermaster Endarin (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[32942] = {id=32942,name="Ring of the Overseer",obtain={NpcID=23230,NpcName="Shartuul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.3,Zone="Unknown"}}
-items[25824] = {id=25824,name="Farseer's Band",obtain={NpcID=17585,NpcName="Quartermaster Urgronn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[22939] = {id=22939,name="Band of Unanswered Prayers",obtain={NpcID=15956,NpcName="Anub'Rekhan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.6,Zone="Naxxramas"}}
-items[22334] = {id=22334,name="Band of Mending",obtain={NpcID=10812,NpcName="Grand Crusader Dathrohan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.9,Zone="Stratholme"}}
-items[25962] = {id=25962,name="Longstrider's Loop",obtain={NpcID=18344,NpcName="Nexus-Prince Shaffar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=27.2,Zone="Mana-Tombs"}}
-items[20820] = {id=20820,name="Simple Pearl Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25284,DropChance=0,Zone=""}}
-items[31339] = {id=31339,name="Lola's Eve",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19873] = {id=19873,name="Overlord's Crimson Band",obtain={NpcID=11382,NpcName="Bloodlord Mandokir",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.4,Zone="Zul'Gurub"}}
-items[21396] = {id=21396,name="Ring of Eternal Justice",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8703,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[23025] = {id=23025,name="Seal of the Damned",obtain={NpcID=181366,NpcName="Four Horsemen Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.9,Zone="Naxxramas"}}
-items[19912] = {id=19912,name="Overlord's Onyx Band",obtain={NpcID=14515,NpcName="High Priestess Arlokk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.4,Zone="Zul'Gurub"}}
-items[18543] = {id=18543,name="Ring of Entropy",obtain={NpcID=12397,NpcName="Lord Kazzak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.1,Zone="Blasted Lands"}}
-items[21405] = {id=21405,name="Band of Veiled Shadows",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8701,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[17045] = {id=17045,name="Blood of the Martyr",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5125,Recipe=false,RecipeID=0,DropChance=0,Zone="Stratholme"}}
-items[34189] = {id=34189,name="Band of Ruinous Delight",obtain={NpcID=25165,NpcName="Lady Sacrolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.3,Zone="Unknown"}}
-items[29285] = {id=29285,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10733,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[31290] = {id=31290,name="Band of Dominion",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21414] = {id=21414,name="Band of Vaulted Secrets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8699,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[13143] = {id=13143,name="Mark of the Dragon Lord",obtain={NpcID=9568,NpcName="Overlord Wyrmthalak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.9,Zone="Blackrock Spire"}}
-items[21201] = {id=21201,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8752,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[20823] = {id=20823,name="Gloom Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25287,DropChance=0,Zone=""}}
-items[30083] = {id=30083,name="Ring of Sundered Souls",obtain={NpcID=21213,NpcName="Morogrim Tidewalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.0,Zone="Serpentshrine Cavern"}}
-items[23018] = {id=23018,name="Signet of the Fallen Defender",obtain={NpcID=16061,NpcName="Instructor Razuvious",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.9,Zone="Naxxramas"}}
-items[23237] = {id=23237,name="Ring of the Eternal Flame",obtain={NpcID=16156,NpcName="Dark Touched Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Naxxramas"}}
-items[21203] = {id=21203,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8754,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[19302] = {id=19302,name="Darkmoon Ring",obtain={NpcID=14846,NpcName="Lhara (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[28211] = {id=28211,name="Lieutenant's Signet of Lordaeron",obtain={NpcID=17848,NpcName="Lieutenant Drake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Old Hillsbrad Foothills"}}
-items[29276] = {id=29276,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10732,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[21209] = {id=21209,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8760,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[21206] = {id=21206,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8757,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[11118] = {id=11118,name="Archaedic Stone",obtain={NpcID=2748,NpcName="Archaedas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=62.4,Zone="Uldaman"}}
-items[7686] = {id=7686,name="Ironspine's Eye",obtain={NpcID=6489,NpcName="Ironspine",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.8,Zone="Scarlet Monastery"}}
-items[29322] = {id=29322,name="Keeper's Ring of Piety",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10298,Recipe=false,RecipeID=0,DropChance=0,Zone="Caverns of Time"}}
-items[19382] = {id=19382,name="Pure Elementium Band",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.5,Zone="Blackwing Lair"}}
-items[33054] = {id=33054,name="The Seal of Danzalar",obtain={NpcID=21217,NpcName="The Lurker Below",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.7,Zone="Serpentshrine Cavern"}}
-items[25775] = {id=25775,name="Ogre Slayer's Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9946,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[23059] = {id=23059,name="Ring of the Dreadnaught",obtain={NpcID=15990,NpcName="Kel'Thuzad",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=46.9,Zone="Naxxramas"}}
-items[12006] = {id=12006,name="Meadow Ring",obtain={NpcID=125,NpcName="Riverpaw Overseer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Westfall"}}
-items[32528] = {id=32528,name="Blessed Band of Karabor",obtain={NpcID=22855,NpcName="Illidari Nightlord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Unknown"}}
-items[29278] = {id=29278,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10741,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[28265] = {id=28265,name="Dath'Remar's Ring of Defense",obtain={NpcID=19220,NpcName="Pathaleon the Calculator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=66.6,Zone="The Mechanar"}}
-items[24088] = {id=24088,name="Delicate Eternium Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31060,DropChance=0,Zone=""}}
-items[11824] = {id=11824,name="Cyclopean Band",obtain={NpcID=9030,NpcName="Ok'thor the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Blackrock Depths"}}
-items[31277] = {id=31277,name="Pathfinder's Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18821] = {id=18821,name="Quick Strike Ring",obtain={NpcID=11982,NpcName="Magmadar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.0,Zone="Molten Core"}}
-items[27453] = {id=27453,name="Averinn's Ring of Slaying",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Ramparts"}}
-items[23067] = {id=23067,name="Ring of the Cryptstalker",obtain={NpcID=15990,NpcName="Kel'Thuzad",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.4,Zone="Naxxramas"}}
-items[21408] = {id=21408,name="Band of Unending Life",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8700,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[29309] = {id=29309,name="Band of the Eternal Restorer",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18343] = {id=18343,name="Petrified Band",obtain={NpcID=11459,NpcName="Ironbark Protector",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Dire Maul"}}
-items[19520] = {id=19520,name="Advisor's Ring",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[20833] = {id=20833,name="Wicked Moonstone Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25323,DropChance=0,Zone=""}}
-items[9362] = {id=9362,name="Brilliant Gold Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20426] = {id=20426,name="Advisor's Ring",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[32772] = {id=32772,name="Brilliant Pearl Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41414,DropChance=0,Zone=""}}
-items[24078] = {id=24078,name="Heavy Adamantite Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31052,DropChance=0,Zone=""}}
-items[19140] = {id=19140,name="Cauterizing Band",obtain={NpcID=179703,NpcName="Cache of the Firelord (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.5,Zone="Molten Core"}}
-items[19898] = {id=19898,name="Seal of Jin",obtain={NpcID=14509,NpcName="High Priest Thekal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.2,Zone="Zul'Gurub"}}
-items[18103] = {id=18103,name="Band of Rumination",obtain={NpcID=10429,NpcName="Warchief Rend Blackhand",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.8,Zone="Blackrock Spire"}}
-items[19523] = {id=19523,name="Lorekeeper's Ring",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[11996] = {id=11996,name="Basalt Ring",obtain={NpcID=3941,NpcName="Uthil Mooncall",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Ashenvale"}}
-items[20429] = {id=20429,name="Legionnaire's Band",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[21695] = {id=21695,name="Angelista's Touch",obtain={NpcID=15544,NpcName="Vem",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.2,Zone="Ahn'Qiraj"}}
-items[23717] = {id=23717,name="Pitted Gold Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30061] = {id=30061,name="Ancestral Ring of Conquest",obtain={NpcID=21217,NpcName="The Lurker Below",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.1,Zone="Serpentshrine Cavern"}}
-items[31527] = {id=31527,name="Leafbeard Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10830,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[25541] = {id=25541,name="Cenarion Ring of Casting",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9738,Recipe=false,RecipeID=0,DropChance=0,Zone="Serpentshrine Cavern"}}
-items[21189] = {id=21189,name="Might of Cenarius",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8574,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[862] = {id=862,name="Runed Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21754] = {id=21754,name="The Aquamarine Ward",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26887,DropChance=0,Zone=""}}
-items[6440] = {id=6440,name="Brainlash",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20959] = {id=20959,name="The Jade Eye",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25619,DropChance=0,Zone=""}}
-items[6321] = {id=6321,name="Silverlaine's Family Seal",obtain={NpcID=3887,NpcName="Baron Silverlaine",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.9,Zone="Shadowfang Keep"}}
-items[34213] = {id=34213,name="Ring of Hardened Resolve",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.5,Zone="Sunwell Plateau"}}
-items[33496] = {id=33496,name="Signet of Primal Wrath",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29284] = {id=29284,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10729,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[24076] = {id=24076,name="Azure Moonstone Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31050,DropChance=0,Zone=""}}
-items[19432] = {id=19432,name="Circle of Applied Force",obtain={NpcID=11981,NpcName="Flamegor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=38.0,Zone="Blackwing Lair"}}
-items[17110] = {id=17110,name="Seal of the Archmagus",obtain={NpcID=12056,NpcName="Baron Geddon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.2,Zone="Molten Core"}}
-items[21202] = {id=21202,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8753,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[7337] = {id=7337,name="The Rock",obtain={NpcID=2849,NpcName="Qixdi Goodstitch (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[20692] = {id=20692,name="Multicolored Band",obtain={NpcID=20603,NpcName="Bag of Spoils (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.3,Zone="Unknown"}}
-items[6463] = {id=6463,name="Deep Fathom Ring",obtain={NpcID=3654,NpcName="Mutanus the Devourer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.4,Zone="Wailing Caverns"}}
-items[27734] = {id=27734,name="Expedition Caster's Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9731,Recipe=false,RecipeID=0,DropChance=0,Zone="Zangarmarsh"}}
-items[19403] = {id=19403,name="Band of Forced Concentration",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.0,Zone="Blackwing Lair"}}
-items[19863] = {id=19863,name="Primalist's Seal",obtain={NpcID=11382,NpcName="Bloodlord Mandokir",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.4,Zone="Zul'Gurub"}}
-items[21411] = {id=21411,name="Ring of Infinite Wisdom",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8697,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[22339] = {id=22339,name="Rune Band of Wizardry",obtain={NpcID=16042,NpcName="Lord Valthalak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.2,Zone="Blackrock Spire"}}
-items[11977] = {id=11977,name="Serpentine Loop",obtain={NpcID=10662,NpcName="Spellmaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Winterspring"}}
-items[12002] = {id=12002,name="Marble Circle",obtain={NpcID=6129,NpcName="Draconic Magelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[6693] = {id=6693,name="Agamaggan's Clutch",obtain={NpcID=4421,NpcName="Charlga Razorflank",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.2,Zone="Razorfen Kraul"}}
-items[34166] = {id=34166,name="Band of Lucent Beams",obtain={NpcID=24844,NpcName="Kalecgos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Unknown"}}
-items[33497] = {id=33497,name="Mana Attuned Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33499] = {id=33499,name="Signet of the Last Defender",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24089] = {id=24089,name="Blazing Eternium Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31061,DropChance=0,Zone=""}}
-items[23065] = {id=23065,name="Ring of the Earthshatterer",obtain={NpcID=15990,NpcName="Kel'Thuzad",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.4,Zone="Naxxramas"}}
-items[12016] = {id=12016,name="Jungle Ring",obtain={NpcID=10439,NpcName="Ramstein the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Stratholme"}}
-items[11945] = {id=11945,name="Dark Iron Ring",obtain={NpcID=160836,NpcName="Relic Coffer (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Alterac Valley"}}
-items[19521] = {id=19521,name="Advisor's Ring",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[35733] = {id=35733,name="Ring of Harmonic Beauty",obtain={NpcID=25367,NpcName="Sunblade Arch Mage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Unknown"}}
-items[32335] = {id=32335,name="Unstoppable Aggressor's Ring",obtain={NpcID=22948,NpcName="Gurtogg Bloodboil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.8,Zone="Black Temple"}}
-items[34889] = {id=34889,name="Fused Nethergon Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35283] = {id=35283,name="Sin'dorei Band of Salvation",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=66.9,Zone="Sunwell Plateau"}}
-items[33055] = {id=33055,name="Band of Vile Aggression",obtain={NpcID=21216,NpcName="Hydross the Unstable",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.1,Zone="Serpentshrine Cavern"}}
-items[32664] = {id=32664,name="Dreamcrystal Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=40754,DropChance=0,Zone=""}}
-items[29281] = {id=29281,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10735,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[25488] = {id=25488,name="Signet of Aeranas",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9418,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[22725] = {id=22725,name="Band of Cenarius",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9248,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[19925] = {id=19925,name="Band of Jin",obtain={NpcID=14510,NpcName="High Priestess Mar'li",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.0,Zone="Zul'Gurub"}}
-items[22331] = {id=22331,name="Band of the Steadfast Hero",obtain={NpcID=16118,NpcName="Kormok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.7,Zone="Scholomance"}}
-items[11934] = {id=11934,name="Emperor's Seal",obtain={NpcID=9019,NpcName="Emperor Dagran Thaurissan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.6,Zone="Blackrock Depths"}}
-items[13178] = {id=13178,name="Rosewine Circle",obtain={NpcID=10584,NpcName="Urok Doomhowl",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.9,Zone="Blackrock Spire"}}
-items[19519] = {id=19519,name="Advisor's Ring",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[2262] = {id=2262,name="Mark of Kern",obtain={NpcID=4542,NpcName="High Inquisitor Fairbanks",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Scarlet Monastery"}}
-items[12009] = {id=12009,name="Tundra Ring",obtain={NpcID=14903,NpcName="Al'tabim the All-Seeing",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Stranglethorn Vale"}}
-items[2039] = {id=2039,name="Plains Ring",obtain={NpcID=4522,NpcName="Razorfen Dustweaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Kraul"}}
-items[20431] = {id=20431,name="Lorekeeper's Ring",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[20821] = {id=20821,name="Inlaid Malachite Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25283,DropChance=0,Zone=""}}
-items[29308] = {id=29308,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34888] = {id=34888,name="Ring of the Stalwart Protector",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29280] = {id=29280,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10731,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[29288] = {id=29288,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10730,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[27432] = {id=27432,name="Broxigar's Ring of Valor",obtain={NpcID=18096,NpcName="Epoch Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.0,Zone="Old Hillsbrad Foothills"}}
-items[21601] = {id=21601,name="Ring of Emperor Vek'lor",obtain={NpcID=15276,NpcName="Emperor Vek'lor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.5,Zone="Ahn'Qiraj"}}
-items[21477] = {id=21477,name="Ring of Fury",obtain={NpcID=15340,NpcName="Moam",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.3,Zone="Ruins of Ahn'Qiraj"}}
-items[21198] = {id=21198,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8749,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[17982] = {id=17982,name="Ragnaros Core",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[12005] = {id=12005,name="Granite Ring",obtain={NpcID=1840,NpcName="Grand Inquisitor Isillien",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Western Plaguelands"}}
-items[21196] = {id=21196,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8747,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[12038] = {id=12038,name="Lagrave's Seal",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=3911,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackrock Depths"}}
-items[1447] = {id=1447,name="Ring of Saviors",obtain={NpcID=1489,NpcName="Zanzil Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[19515] = {id=19515,name="Protector's Band",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[11971] = {id=11971,name="Amethyst Band",obtain={NpcID=6068,NpcName="Warug's Bodyguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Desolace"}}
-items[19517] = {id=19517,name="Protector's Band",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[11983] = {id=11983,name="Chrome Ring",obtain={NpcID=14357,NpcName="Lake Thresher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Redridge Mountains"}}
-items[4998] = {id=4998,name="Blood Ring",obtain={NpcID=5798,NpcName="Thora Feathermoon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="The Barrens"}}
-items[7338] = {id=7338,name="Mood Ring",obtain={NpcID=2849,NpcName="Qixdi Goodstitch (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[32535] = {id=32535,name="Gift of the Talonpriests",obtain={NpcID=21838,NpcName="Terokk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.8,Zone="Unknown"}}
-items[34798] = {id=34798,name="Band of Celerity",obtain={NpcID=24664,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.5,Zone="Magisters' Terrace"}}
-items[31922] = {id=31922,name="Ring of Conflict Survival",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20682] = {id=20682,name="Elemental Focus Band",obtain={NpcID=15203,NpcName="Prince Skaldrenox",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.9,Zone="Silithus"}}
-items[11992] = {id=11992,name="Vermilion Band",obtain={NpcID=13959,NpcName="Alterac Yeti",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Alterac Valley"}}
-items[18399] = {id=18399,name="Ocean's Breeze",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7486,Recipe=false,RecipeID=0,DropChance=0,Zone="Azshara"}}
-items[12057] = {id=12057,name="Dragonscale Band",obtain={NpcID=7068,NpcName="Condemned Acolyte",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Hillsbrad Foothills"}}
-items[16999] = {id=16999,name="Royal Seal of Alexis",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11976] = {id=11976,name="Sardonyx Knuckle",obtain={NpcID=10077,NpcName="Deathmaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Burning Steppes"}}
-items[13093] = {id=13093,name="Blush Ember Ring",obtain={NpcID=5046,NpcName="Lieutenant Caldwell",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dustwallow Marsh"}}
-items[5001] = {id=5001,name="Heart Ring",obtain={NpcID=14427,NpcName="Gibblesnik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Thousand Needles"}}
-items[6332] = {id=6332,name="Black Pearl Ring",obtain={NpcID=7016,NpcName="Lady Vespira",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.7,Zone="Darkshore"}}
-items[11965] = {id=11965,name="Quartz Ring",obtain={NpcID=3854,NpcName="Shadowfang Wolfguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Shadowfang Keep"}}
-items[32526] = {id=32526,name="Band of Devastation",obtain={NpcID=22844,NpcName="Ashtongue Battlelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Unknown"}}
-items[33498] = {id=33498,name="Signet of the Quiet Forest",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27762] = {id=27762,name="Weathered Band of the Swamplord",obtain={NpcID=17826,NpcName="Swamplord Musel'ek",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.0,Zone="The Underbog"}}
-items[31398] = {id=31398,name="The Frozen Eye",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=38503,DropChance=0,Zone=""}}
-items[31919] = {id=31919,name="Nexus-Prince's Ring of Balance",obtain={NpcID=22930,NpcName="Yor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.0,Zone="Mana-Tombs"}}
-items[23061] = {id=23061,name="Ring of Faith",obtain={NpcID=15990,NpcName="Kel'Thuzad",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.6,Zone="Naxxramas"}}
-items[23066] = {id=23066,name="Ring of Redemption",obtain={NpcID=15990,NpcName="Kel'Thuzad",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=46.1,Zone="Naxxramas"}}
-items[19376] = {id=19376,name="Archimtiros' Ring of Reckoning",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.6,Zone="Blackwing Lair"}}
-items[21526] = {id=21526,name="Band of Icy Depths",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8729,Recipe=false,RecipeID=0,DropChance=0,Zone="Azshara"}}
-items[20600] = {id=20600,name="Malfurion's Signet Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8447,Recipe=false,RecipeID=0,DropChance=0,Zone="Epic"}}
-items[10795] = {id=10795,name="Drakeclaw Band",obtain={NpcID=5720,NpcName="Weaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="The Temple of Atal'Hakkar"}}
-items[6589] = {id=6589,name="Viridian Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11968] = {id=11968,name="Amber Hoop",obtain={NpcID=14425,NpcName="Gnawbone",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Wetlands"}}
-items[7341] = {id=7341,name="Cubic Zirconia Ring",obtain={NpcID=2849,NpcName="Qixdi Goodstitch (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[21932] = {id=21932,name="Heavy Copper Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26926,DropChance=0,Zone=""}}
-items[33855] = {id=33855,name="Tarnished Silver Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34826] = {id=34826,name="Gold Wedding Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29296] = {id=29296,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32247] = {id=32247,name="Ring of Captured Storms",obtain={NpcID=22887,NpcName="High Warlord Naj'entus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.8,Zone="Black Temple"}}
-items[32261] = {id=32261,name="Band of the Abyssal Lord",obtain={NpcID=22898,NpcName="Supremus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Black Temple"}}
-items[24086] = {id=24086,name="Arcane Khorium Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31057,DropChance=0,Zone=""}}
-items[27761] = {id=27761,name="Ring of the Shadow Deeps",obtain={NpcID=18105,NpcName="Ghaz'an",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="The Underbog"}}
-items[30825] = {id=30825,name="Ring of Arcane Shielding",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=37855,DropChance=0,Zone=""}}
-items[34625] = {id=34625,name="Kharmaa's Ring of Fate",obtain={NpcID=24664,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.1,Zone="Magisters' Terrace"}}
-items[31528] = {id=31528,name="Ring of the Stonebark",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10830,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[25926] = {id=25926,name="Nexus-Stalker's Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10112,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[31729] = {id=31729,name="Heirloom Signet of Valor",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10881,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[19905] = {id=19905,name="Zanzil's Band",obtain={NpcID=14507,NpcName="High Priest Venoxis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.9,Zone="Zul'Gurub"}}
-items[13098] = {id=13098,name="Painweaver Band",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.5,Zone="Blackrock Spire"}}
-items[18522] = {id=18522,name="Band of the Ogre King",obtain={NpcID=11501,NpcName="King Gordok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.6,Zone="Dire Maul"}}
-items[11979] = {id=11979,name="Peridot Circle",obtain={NpcID=10439,NpcName="Ramstein the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Stratholme"}}
-items[12001] = {id=12001,name="Onyx Ring",obtain={NpcID=8282,NpcName="Highlord Mastrogonde",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Searing Gorge"}}
-items[11999] = {id=11999,name="Lodestone Hoop",obtain={NpcID=7797,NpcName="Ruuzlu",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Zul'Farrak"}}
-items[19524] = {id=19524,name="Lorekeeper's Ring",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[15689] = {id=15689,name="Trader's Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5821,Recipe=false,RecipeID=0,DropChance=0,Zone="Desolace"}}
-items[9447] = {id=9447,name="Electrocutioner Lagnut",obtain={NpcID=6235,NpcName="Electrocutioner 6000",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.5,Zone="Gnomeregan"}}
-items[11994] = {id=11994,name="Coral Band",obtain={NpcID=4820,NpcName="Blindlight Oracle",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Blackfathom Deeps"}}
-items[12996] = {id=12996,name="Band of Purification",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Barrens"}}
-items[12985] = {id=12985,name="Ring of Defense",obtain={NpcID=1039,NpcName="Fen Dweller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Wetlands"}}
-items[29297] = {id=29297,name="Band of the Eternal Defender",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32266] = {id=32266,name="Ring of Deceitful Intent",obtain={NpcID=22841,NpcName="Shade of Akama",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.2,Zone="Black Temple"}}
-items[29298] = {id=29298,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29307] = {id=29307,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33058] = {id=33058,name="Band of the Vigilant",obtain={NpcID=21213,NpcName="Morogrim Tidewalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.1,Zone="Serpentshrine Cavern"}}
-items[25057] = {id=25057,name="Amber Band",obtain={NpcID=18634,NpcName="Cabal Summoner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Shadow Labyrinth"}}
-items[29320] = {id=29320,name="Band of the Guardian",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10298,Recipe=false,RecipeID=0,DropChance=0,Zone="Caverns of Time"}}
-items[25779] = {id=25779,name="Warmaul Slayer's Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9948,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[23062] = {id=23062,name="Frostfire Ring",obtain={NpcID=15990,NpcName="Kel'Thuzad",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.9,Zone="Naxxramas"}}
-items[25047] = {id=25047,name="Tourmaline Loop",obtain={NpcID=17478,NpcName="Bleeding Hollow Scryer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.0,Zone="Hellfire Ramparts"}}
-items[21199] = {id=21199,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8750,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[20624] = {id=20624,name="Ring of the Unliving",obtain={NpcID=14889,NpcName="Emeriss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="Duskwood"}}
-items[21208] = {id=21208,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8759,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[11980] = {id=11980,name="Opal Ring",obtain={NpcID=12497,NpcName="Dreamroarer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Feralas"}}
-items[13345] = {id=13345,name="Seal of Rivendare",obtain={NpcID=10440,NpcName="Baron Rivendare",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.1,Zone="Stratholme"}}
-items[13096] = {id=13096,name="Band of the Hierophant",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[18345] = {id=18345,name="Murmuring Ring",obtain={NpcID=11467,NpcName="Tsu'zee",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.9,Zone="Dire Maul"}}
-items[18315] = {id=18315,name="Ring of Demonic Potency",obtain={NpcID=11492,NpcName="Alzzin the Wildshaper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.8,Zone="Dire Maul"}}
-items[11978] = {id=11978,name="Jasper Link",obtain={NpcID=10680,NpcName="Summoned Blackhand Dreadweaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.8,Zone="Blackrock Spire"}}
-items[185982] = {id=185982,name="Communal Band of Dexterity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11989] = {id=11989,name="Vanadium Loop",obtain={NpcID=1494,NpcName="Negolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Stranglethorn Vale"}}
-items[12012] = {id=12012,name="Marsh Ring",obtain={NpcID=4469,NpcName="Emerald Ooze",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="The Hinterlands"}}
-items[12052] = {id=12052,name="Ring of the Moon",obtain={NpcID=2478,NpcName="Haren Swifthoof",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Loch Modan"}}
-items[1189] = {id=1189,name="Overseer's Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11981] = {id=11981,name="Lead Band",obtain={NpcID=16247,NpcName="Borgoth the Bloodletter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Ghostlands"}}
-items[20906] = {id=20906,name="Braided Copper Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=25493,DropChance=0,Zone=""}}
-items[33500] = {id=33500,name="Signet of Eternal Life",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27805] = {id=27805,name="Ring of the Silver Hand",obtain={NpcID=17798,NpcName="Warlord Kalithresh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.3,Zone="The Steamvault"}}
-items[29146] = {id=29146,name="Band of Elemental Spirits",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29277] = {id=29277,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10736,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[32081] = {id=32081,name="Eye of the Stalker",obtain={NpcID=17882,NpcName="The Black Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="The Underbog"}}
-items[34073] = {id=34073,name="The Horseman's Signet Ring",obtain={NpcID=23682,NpcName="Headless Horseman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.1,Zone="Unknown"}}
-items[31925] = {id=31925,name="Fiery Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31929] = {id=31929,name="Enigmatic Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31943] = {id=31943,name="Ethereum Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31820] = {id=31820,name="Blessed Signet Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10921,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[24074] = {id=24074,name="Fel Iron Blood Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31048,DropChance=0,Zone=""}}
-items[25046] = {id=25046,name="Spined Ring",obtain={NpcID=17961,NpcName="Coilfang Enchantress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="The Slave Pens"}}
-items[25991] = {id=25991,name="Seamless Stone Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21620] = {id=21620,name="Ring of the Martyr",obtain={NpcID=15509,NpcName="Princess Huhuran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.8,Zone="Ahn'Qiraj"}}
-items[18813] = {id=18813,name="Ring of Binding",obtain={NpcID=10184,NpcName="Onyxia",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.9,Zone="Unknown"}}
-items[21836] = {id=21836,name="Ritssyn's Ring of Chaos",obtain={NpcID=15229,NpcName="Vekniss Soldier",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Ahn'Qiraj"}}
-items[21179] = {id=21179,name="Band of Earthen Wrath",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8548,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[18464] = {id=18464,name="Gordok Nose Ring",obtain={NpcID=14321,NpcName="Guard Fengus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.6,Zone="Dire Maul"}}
-items[18701] = {id=18701,name="Innervating Band",obtain={NpcID=10433,NpcName="Marduk Blackpool",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Scholomance"}}
-items[22255] = {id=22255,name="Magma Forged Band",obtain={NpcID=161495,NpcName="Secret Safe (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.3,Zone="Blackrock Depths"}}
-items[12014] = {id=12014,name="Arctic Ring",obtain={NpcID=6501,NpcName="Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Un'Goro Crater"}}
-items[11975] = {id=11975,name="Topaz Ring",obtain={NpcID=8497,NpcName="Nightmare Suppressor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="The Temple of Atal'Hakkar"}}
-items[7339] = {id=7339,name="Miniscule Diamond Ring",obtain={NpcID=2849,NpcName="Qixdi Goodstitch (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[11972] = {id=11972,name="Carnelian Loop",obtain={NpcID=2420,NpcName="Targ",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Alterac Mountains"}}
-items[1996] = {id=1996,name="Voodoo Band",obtain={NpcID=660,NpcName="Bloodscalp Witch Doctor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Stranglethorn Vale"}}
-items[5007] = {id=5007,name="Band of Thorns",obtain={NpcID=4427,NpcName="Ward Guardian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Kraul"}}
-items[11969] = {id=11969,name="Jacinth Circle",obtain={NpcID=5915,NpcName="Brother Ravenoak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Stonetalon Mountains"}}
-items[12008] = {id=12008,name="Savannah Ring",obtain={NpcID=14278,NpcName="Ro'Bark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Hillsbrad Foothills"}}
-items[29303] = {id=29303,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34094] = {id=34094,name="Indalamar's Ring of 200 Attack Power",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29291] = {id=29291,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10739,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[27869] = {id=27869,name="Soulpriest's Ring of Resolve",obtain={NpcID=18373,NpcName="Exarch Maladaar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.5,Zone="Auchenai Crypts"}}
-items[28394] = {id=28394,name="Ryngo's Band of Ingenuity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29321] = {id=29321,name="Time-bending Gem",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10298,Recipe=false,RecipeID=0,DropChance=0,Zone="Caverns of Time"}}
-items[31746] = {id=31746,name="Phoenix-fire Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10888,Recipe=false,RecipeID=0,DropChance=0,Zone="Magtheridon's Lair"}}
-items[32514] = {id=32514,name="Skettis Band",obtain={NpcID=23161,NpcName="Darkscreecher Akkarai",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.6,Zone="Unknown"}}
-items[24085] = {id=24085,name="Khorium Band of Leaves",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31056,DropChance=0,Zone=""}}
-items[31381] = {id=31381,name="Aggressor's Mark of the Sha'tar",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10781,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[31791] = {id=31791,name="Wildlord's Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10821,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[32941] = {id=32941,name="Corruptor's Signet",obtain={NpcID=23230,NpcName="Shartuul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.3,Zone="Unknown"}}
-items[27413] = {id=27413,name="Ring of the Exarchs",obtain={NpcID=18373,NpcName="Exarch Maladaar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Auchenai Crypts"}}
-items[23028] = {id=23028,name="Hailstone Band",obtain={NpcID=15954,NpcName="Noth the Plaguebringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.8,Zone="Naxxramas"}}
-items[25044] = {id=25044,name="Rubellite Ring",obtain={NpcID=17270,NpcName="Bleeding Hollow Archer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.1,Zone="Hellfire Ramparts"}}
-items[19434] = {id=19434,name="Band of Dark Dominion",obtain={NpcID=12461,NpcName="Death Talon Overseer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.5,Zone="Blackwing Lair"}}
-items[22722] = {id=22722,name="Seal of the Gurubashi Berserker",obtain={NpcID=14510,NpcName="High Priestess Mar'li",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.8,Zone="Zul'Gurub"}}
-items[12058] = {id=12058,name="Demonic Bone Ring",obtain={NpcID=5314,NpcName="Phantim",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Ashenvale"}}
-items[13217] = {id=13217,name="Band of the Penitent",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5243,Recipe=false,RecipeID=0,DropChance=0,Zone="Stratholme"}}
-items[12004] = {id=12004,name="Obsidian Band",obtain={NpcID=10662,NpcName="Spellmaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Winterspring"}}
-items[18302] = {id=18302,name="Band of Vigor",obtain={NpcID=14327,NpcName="Lethtendris",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.8,Zone="Dire Maul"}}
-items[11990] = {id=11990,name="Selenium Loop",obtain={NpcID=7046,NpcName="Searscale Drake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Burning Steppes"}}
-items[11988] = {id=11988,name="Tellurium Band",obtain={NpcID=10120,NpcName="Vault Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Uldaman"}}
-items[7552] = {id=7552,name="Falcon's Hook",obtain={NpcID=14445,NpcName="Lord Captain Wyrmak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Swamp of Sorrows"}}
-items[11998] = {id=11998,name="Jet Loop",obtain={NpcID=14234,NpcName="Hayoc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Dustwallow Marsh"}}
-items[11986] = {id=11986,name="Thallium Hoop",obtain={NpcID=2753,NpcName="Barnabus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Badlands"}}
-items[12010] = {id=12010,name="Fen Ring",obtain={NpcID=24830,NpcName="Stonevault Pillager",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Uldaman"}}
-items[5009] = {id=5009,name="Mindbender Loop",obtain={NpcID=8479,NpcName="Kalaran Windblade",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Searing Gorge"}}
-items[9622] = {id=9622,name="Reedknot Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1203,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[7342] = {id=7342,name="Silver Piffeny Band",obtain={NpcID=2849,NpcName="Qixdi Goodstitch (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[11984] = {id=11984,name="Cobalt Ring",obtain={NpcID=17108,NpcName="Forsaken Raider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Hillsbrad Foothills"}}
-items[4999] = {id=4999,name="Azora's Will",obtain={NpcID=5859,NpcName="Hagg Taurenbane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="The Barrens"}}
-items[1462] = {id=1462,name="Ring of the Shadow",obtain={NpcID=429,NpcName="Shadowhide Darkweaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.4,Zone="Redridge Mountains"}}
-items[6199] = {id=6199,name="Black Widow Band",obtain={NpcID=1112,NpcName="Leech Widow",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.5,Zone="Wetlands"}}
-items[20439] = {id=20439,name="Protector's Band",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[11993] = {id=11993,name="Clay Ring",obtain={NpcID=7053,NpcName="Klaven Mortwake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Westfall"}}
-items[38091] = {id=38091,name="Gold Eternium Band",obtain={NpcID=18756,NpcName="Haris Pilton (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[35130] = {id=35130,name="Guardian's Band of Salvation",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35131] = {id=35131,name="Guardian's Band of Triumph",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[37927] = {id=37927,name="Guardian's Band of Subjugation",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29302] = {id=29302,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25056] = {id=25056,name="Almandine Ring",obtain={NpcID=17721,NpcName="Coilfang Engineer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Steamvault"}}
-items[27740] = {id=27740,name="Band of Ursol",obtain={NpcID=17942,NpcName="Quagmirran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.3,Zone="The Slave Pens"}}
-items[27784] = {id=27784,name="Scintillating Coral Band",obtain={NpcID=17797,NpcName="Hydromancer Thespia",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.3,Zone="The Steamvault"}}
-items[34074] = {id=34074,name="Witches Band",obtain={NpcID=23682,NpcName="Headless Horseman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.2,Zone="Unknown"}}
-items[24087] = {id=24087,name="Heavy Felsteel Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31058,DropChance=0,Zone=""}}
-items[31927] = {id=31927,name="Living Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25988] = {id=25988,name="Glowing Alabaster Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21707] = {id=21707,name="Ring of Swarming Thought",obtain={NpcID=15263,NpcName="The Prophet Skeram",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.2,Zone="Ahn'Qiraj"}}
-items[12017] = {id=12017,name="Prismatic Band",obtain={NpcID=6109,NpcName="Azuregos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.5,Zone="Azshara"}}
-items[18760] = {id=18760,name="Necromantic Band",obtain={NpcID=14516,NpcName="Death Knight Darkreaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.7,Zone="Scholomance"}}
-items[13283] = {id=13283,name="Magus Ring",obtain={NpcID=9217,NpcName="Spirestone Lord Magus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=46.4,Zone="Blackrock Spire"}}
-items[18402] = {id=18402,name="Glowing Crystal Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=6845,Recipe=false,RecipeID=0,DropChance=0,Zone="Moonglade"}}
-items[12056] = {id=12056,name="Ring of the Heavens",obtain={NpcID=9442,NpcName="Dark Keeper Ofgut",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Blackrock Depths"}}
-items[12055] = {id=12055,name="Stardust Band",obtain={NpcID=6649,NpcName="Lady Sesspira",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[12013] = {id=12013,name="Desert Ring",obtain={NpcID=6187,NpcName="Timbermaw Den Watcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Azshara"}}
-items[7547] = {id=7547,name="Onyx Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[12011] = {id=12011,name="Forest Hoop",obtain={NpcID=4329,NpcName="Firemane Scout",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Dustwallow Marsh"}}
-items[5010] = {id=5010,name="Inscribed Gold Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[5011] = {id=5011,name="Welken Ring",obtain={NpcID=23786,NpcName="Stonemaul Spirit",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Dustwallow Marsh"}}
-items[11997] = {id=11997,name="Greenstone Circle",obtain={NpcID=23595,NpcName="Grimtotem Earthbinder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Dustwallow Marsh"}}
-items[1993] = {id=1993,name="Ogremind Ring",obtain={NpcID=2570,NpcName="Boulderfist Shaman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Arathi Highlands"}}
-items[5008] = {id=5008,name="Quicksilver Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11985] = {id=11985,name="Cerulean Ring",obtain={NpcID=24830,NpcName="Stonevault Pillager",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Uldaman"}}
-items[6749] = {id=6749,name="Tiger Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1144,Recipe=false,RecipeID=0,DropChance=0,Zone="Razorfen Kraul"}}
-items[13097] = {id=13097,name="Thunderbrow Ring",obtain={NpcID=15814,NpcName="Qiraji Lieutenant Jo-rel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.7,Zone="The Barrens"}}
-items[11995] = {id=11995,name="Ivory Band",obtain={NpcID=5851,NpcName="Captain Gerogg Hammertoe",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="The Barrens"}}
-items[5000] = {id=5000,name="Coral Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[1491] = {id=1491,name="Ring of Precision",obtain={NpcID=4799,NpcName="Fallenroot Hellcaller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackfathom Deeps"}}
-items[12053] = {id=12053,name="Volcanic Rock Ring",obtain={NpcID=16248,NpcName="Jurion the Deceiver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.5,Zone="Ghostlands"}}
-items[32238] = {id=32238,name="Ring of Calming Waves",obtain={NpcID=22887,NpcName="High Warlord Naj'entus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Black Temple"}}
-items[35320] = {id=35320,name="Vindicator's Band of Subjugation",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24535] = {id=24535,name="130 Epic Warrior Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33995] = {id=33995,name="Indalamar's Ring of Healer Ownage",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34551] = {id=34551,name="Indalamar's Ring of 80 mp5",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27460] = {id=27460,name="Reavers' Ring",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Ramparts"}}
-items[29145] = {id=29145,name="Band of Ancestral Spirits",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34704] = {id=34704,name="Band of Arcane Alacrity",obtain={NpcID=24744,NpcName="Vexallus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.0,Zone="Magisters' Terrace"}}
-items[34706] = {id=34706,name="Band of Determination",obtain={NpcID=24744,NpcName="Vexallus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.8,Zone="Magisters' Terrace"}}
-items[24079] = {id=24079,name="Khorium Band of Shadows",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31053,DropChance=0,Zone=""}}
-items[31382] = {id=31382,name="Mage's Mark of the Sha'tar",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10781,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[31928] = {id=31928,name="Dark Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31526] = {id=31526,name="Raven's Wood Exorciser's Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10830,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[25052] = {id=25052,name="Hauyne Ring",obtain={NpcID=21386,NpcName="Dark Conclave Hawkeye",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Shadowmoon Valley"}}
-items[25050] = {id=25050,name="Moldavite Ring",obtain={NpcID=18497,NpcName="Auchenai Monk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Auchenai Crypts"}}
-items[31730] = {id=31730,name="Heirloom Signet of Convalescence",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10881,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[25049] = {id=25049,name="Scheelite Ring",obtain={NpcID=18495,NpcName="Auchenai Vindicator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Auchenai Crypts"}}
-items[23060] = {id=23060,name="Bonescythe Ring",obtain={NpcID=15990,NpcName="Kel'Thuzad",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=56.2,Zone="Naxxramas"}}
-items[20794] = {id=20794,name="90 green shaman ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28044] = {id=28044,name="Band of the Demon Stalker",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25045] = {id=25045,name="Azurite Ring",obtain={NpcID=17271,NpcName="Bonechewer Destroyer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.1,Zone="Hellfire Ramparts"}}
-items[21687] = {id=21687,name="Ukko's Ring of Darkness",obtain={NpcID=15543,NpcName="Princess Yauj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.1,Zone="Ahn'Qiraj"}}
-items[19397] = {id=19397,name="Ring of Blackrock",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.5,Zone="Blackwing Lair"}}
-items[20632] = {id=20632,name="Mindtear Band",obtain={NpcID=14890,NpcName="Taerar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.5,Zone="Duskwood"}}
-items[21207] = {id=21207,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8758,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[17000] = {id=17000,name="Band of the Wraith",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18395] = {id=18395,name="Emerald Flame Ring",obtain={NpcID=11486,NpcName="Prince Tortheldrin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.9,Zone="Dire Maul"}}
-items[18684] = {id=18684,name="Dimly Opalescent Ring",obtain={NpcID=10504,NpcName="Lord Alexei Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.9,Zone="Scholomance"}}
-items[185981] = {id=185981,name="Communal Band of Onslaught",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13095] = {id=13095,name="Assault Band",obtain={NpcID=7805,NpcName="Wastewander Scofflaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Tanaris"}}
-items[7466] = {id=7466,name="Vermilion Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19513] = {id=19513,name="Legionnaire's Band",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[35129] = {id=35129,name="Guardian's Band of Dominance",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33988] = {id=33988,name="Indalamar's Ring of 200 Haste",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33997] = {id=33997,name="Indalamar's Ring of 400 Attack Power",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33998] = {id=33998,name="Indalamar's Ring of 1400 Armor Penetration",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33293] = {id=33293,name="Signet of Ancient Magics",obtain={NpcID=23574,NpcName="Akil'zon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.6,Zone="Unknown"}}
-items[27904] = {id=27904,name="Resounding Ring of Glory",obtain={NpcID=18096,NpcName="Epoch Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.1,Zone="Old Hillsbrad Foothills"}}
-items[32779] = {id=32779,name="Band of Frigid Elements",obtain={NpcID=23035,NpcName="Anzu",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.2,Zone="Sethekk Halls"}}
-items[27996] = {id=27996,name="Ring of Spiritual Precision",obtain={NpcID=17879,NpcName="Chrono Lord Deja",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.6,Zone="The Black Morass"}}
-items[31076] = {id=31076,name="Spellsword's Mark of the Redemption",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10769,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[31380] = {id=31380,name="Acrobat's Mark of the Sha'tar",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10781,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[25053] = {id=25053,name="Lazuli Ring",obtain={NpcID=17129,NpcName="Greater Windroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Nagrand"}}
-items[31523] = {id=31523,name="Treebole's Hoop",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10830,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[25051] = {id=25051,name="Blue Topaz Band",obtain={NpcID=17860,NpcName="Durnholde Veteran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Unknown"}}
-items[25542] = {id=25542,name="Lucky Circle of the Fool",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9951,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[23064] = {id=23064,name="Ring of the Dreamwalker",obtain={NpcID=15990,NpcName="Kel'Thuzad",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.9,Zone="Naxxramas"}}
-items[27832] = {id=27832,name="Band of the Victor",obtain={NpcID=18267,NpcName="Battlecryer Blackeye (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[27834] = {id=27834,name="Circlet of the Victor",obtain={NpcID=18266,NpcName="Warrant Officer Tracy Proudwell (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[19893] = {id=19893,name="Zanzil's Seal",obtain={NpcID=11382,NpcName="Bloodlord Mandokir",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.0,Zone="Zul'Gurub"}}
-items[19920] = {id=19920,name="Primalist's Band",obtain={NpcID=14517,NpcName="High Priestess Jeklik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.6,Zone="Zul'Gurub"}}
-items[18879] = {id=18879,name="Heavy Dark Iron Ring",obtain={NpcID=12259,NpcName="Gehennas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.9,Zone="Molten Core"}}
-items[21197] = {id=21197,name="Signet Ring of the Bronze Dragonflight",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8748,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[20783] = {id=20783,name="63 green shaman ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13392] = {id=13392,name="The Postmaster's Seal",obtain={NpcID=11143,NpcName="Postmaster Malown",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.3,Zone="Stratholme"}}
-items[13812] = {id=13812,name="Ring of the Dawn",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5532,Recipe=false,RecipeID=0,DropChance=0,Zone="Eastern Plaguelands"}}
-items[22257] = {id=22257,name="Bloodclot Band",obtain={NpcID=9027,NpcName="Gorosh the Dervish",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.4,Zone="Blackrock Depths"}}
-items[185983] = {id=185983,name="Communal Band of Wisdom",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4549] = {id=4549,name="Seafire Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=667,Recipe=false,RecipeID=0,DropChance=0,Zone="Arathi Highlands"}}
-items[5743] = {id=5743,name="Prismstone Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[7497] = {id=7497,name="Ivory Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[2951] = {id=2951,name="Ring of the Underwood",obtain={NpcID=15815,NpcName="Qiraji Captain Ka'ark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Thousand Needles"}}
-items[7426] = {id=7426,name="Cerulean Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[1076] = {id=1076,name="Defias Renegade Ring",obtain={NpcID=1706,NpcName="Defias Prisoner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="The Stockade"}}
-items[21931] = {id=21931,name="Woven Copper Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26925,DropChance=0,Zone=""}}
-items[33918] = {id=33918,name="Vindicator's Band of Salvation",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33919] = {id=33919,name="Vindicator's Band of Triumph",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34890] = {id=34890,name="Anveena's Touch",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35282] = {id=35282,name="Sin'dorei Band of Dominance",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=61.4,Zone="Sunwell Plateau"}}
-items[28327] = {id=28327,name="Arcane Netherband",obtain={NpcID=17978,NpcName="Thorngrin the Tender",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.7,Zone="The Botanica"}}
-items[34712] = {id=34712,name="Prismatic Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25055] = {id=25055,name="Alexandrite Ring",obtain={NpcID=16415,NpcName="Skeletal Waiter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Karazhan"}}
-items[31921] = {id=31921,name="Yor's Collapsing Band",obtain={NpcID=22930,NpcName="Yor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Mana-Tombs"}}
-items[24075] = {id=24075,name="Golden Draenite Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31049,DropChance=0,Zone=""}}
-items[27830] = {id=27830,name="Circlet of the Victor",obtain={NpcID=18267,NpcName="Battlecryer Blackeye (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[21066] = {id=21066,name="66 Epic Fire Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21094] = {id=21094,name="66 Epic Shadow Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20721] = {id=20721,name="Band of the Cultist",obtain={NpcID=20602,NpcName="Chest of Spoils (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Unknown"}}
-items[21053] = {id=21053,name="63 Blue Fire Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22326] = {id=22326,name="Amalgam's Band",obtain={NpcID=16118,NpcName="Kormok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.7,Zone="Scholomance"}}
-items[18679] = {id=18679,name="Frigid Ring",obtain={NpcID=14457,NpcName="Princess Tempestria",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=57.9,Zone="Winterspring"}}
-items[19511] = {id=19511,name="Legionnaire's Band",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[9642] = {id=9642,name="Band of the Great Tortoise",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1560,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[11973] = {id=11973,name="Hematite Link",obtain={NpcID=2780,NpcName="Caretaker Nevlin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Arathi Highlands"}}
-items[19512] = {id=19512,name="Legionnaire's Band",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[33262] = {id=33262,name="Morlann's Seal",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11156,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[19525] = {id=19525,name="Lorekeeper's Ring",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[13094] = {id=13094,name="The Queen's Jewel",obtain={NpcID=15814,NpcName="Qiraji Lieutenant Jo-rel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="The Barrens"}}
-items[35284] = {id=35284,name="Sin'dorei Band of Triumph",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=66.9,Zone="Sunwell Plateau"}}
-items[29299] = {id=29299,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33986] = {id=33986,name="Indalamar's Ring of 200 Crit",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33987] = {id=33987,name="Indalamar's Ring of 200 Spell Crit",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33996] = {id=33996,name="Indalamar's Ring of 234 Spell Damage",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34550] = {id=34550,name="Indalamar's Ring of 200 Spirit",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29294] = {id=29294,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31399] = {id=31399,name="The Natural Ward",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=38504,DropChance=0,Zone=""}}
-items[33958] = {id=33958,name="The Horseman's Signet Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33097] = {id=33097,name="Mushroom Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33193] = {id=33193,name="Mossy Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33194] = {id=33194,name="Ancient Ceremonial Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33195] = {id=33195,name="Cracked Stone Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33196] = {id=33196,name="Softly-Glowing Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21081] = {id=21081,name="63 Blue Shadow Ring",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13373] = {id=13373,name="Band of Flesh",obtain={NpcID=10439,NpcName="Ramstein the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.8,Zone="Stratholme"}}
-items[18314] = {id=18314,name="Ring of Demonic Guile",obtain={NpcID=11492,NpcName="Alzzin the Wildshaper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.0,Zone="Dire Maul"}}
-items[18400] = {id=18400,name="Ring of Living Stone",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=6845,Recipe=false,RecipeID=0,DropChance=0,Zone="Moonglade"}}
-items[185984] = {id=185984,name="Communal Band of Durability",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11974] = {id=11974,name="Aquamarine Ring",obtain={NpcID=2447,NpcName="Narillasanz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Alterac Mountains"}}
-items[6748] = {id=6748,name="Monkey Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1144,Recipe=false,RecipeID=0,DropChance=0,Zone="Razorfen Kraul"}}
-items[10298] = {id=10298,name="Gnomeregan Band",obtain={NpcID=9363,NpcName="Sparklematic-Wrapped Box (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Unknown"}}
-items[12007] = {id=12007,name="Prairie Ring",obtain={NpcID=14357,NpcName="Lake Thresher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Redridge Mountains"}}
-items[12054] = {id=12054,name="Demon Band",obtain={NpcID=5800,NpcName="Marcus Bel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="The Barrens"}}
-items[33989] = {id=33989,name="Indalamar's Ring of 200 Spell Haste",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34095] = {id=34095,name="Indalamar's Ring of 100 Hit Rating",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33957] = {id=33957,name="Witches Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33959] = {id=33959,name="Ring of Ghoulish Delight",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34075] = {id=34075,name="Ring of Ghoulish Delight",obtain={NpcID=23682,NpcName="Headless Horseman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.6,Zone="Unknown"}}
-items[31203] = {id=31203,name="Arcane Loop",obtain={NpcID=18698,NpcName="Ever-Core the Punisher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=95.5,Zone="Unknown"}}
-items[23063] = {id=23063,name="Plagueheart Ring",obtain={NpcID=15990,NpcName="Kel'Thuzad",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.6,Zone="Naxxramas"}}
-items[18674] = {id=18674,name="Hardened Stone Band",obtain={NpcID=14464,NpcName="Avalanchion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=57.3,Zone="Azshara"}}
-items[4550] = {id=4550,name="Coldwater Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=667,Recipe=false,RecipeID=0,DropChance=0,Zone="Arathi Highlands"}}
-items[31850] = {id=31850,name="QATest +500 Defense Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31851] = {id=31851,name="QATest +150 Defense Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29295] = {id=29295,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29306] = {id=29306,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29300] = {id=29300,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27491] = {id=27491,name="Signet of Repose",obtain={NpcID=17380,NpcName="Broggok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.3,Zone="The Blood Furnace"}}
-items[25054] = {id=25054,name="Sodalite Band",obtain={NpcID=16507,NpcName="Shattered Hand Sentry",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Shattered Halls"}}
-items[31926] = {id=31926,name="Frigid Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31728] = {id=31728,name="Heirloom Signet of Willpower",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10881,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[25990] = {id=25990,name="Smooth Soapstone Band",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21677] = {id=21677,name="Ring of the Qiraji Fury",obtain={NpcID=15299,NpcName="Viscidus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Ahn'Qiraj"}}
-items[12015] = {id=12015,name="Swamp Ring",obtain={NpcID=9218,NpcName="Spirestone Battle Lord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Blackrock Spire"}}
-items[10780] = {id=10780,name="Mark of Hakkar",obtain={NpcID=10773,NpcName="Hakkari Urn (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=97.9,Zone="Unknown"}}
-items[5266] = {id=5266,name="Eye of Adaegus",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[20006] = {id=20006,name="Circle of Hope",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8257,Recipe=false,RecipeID=0,DropChance=0,Zone="Priest"}}
-items[7340] = {id=7340,name="Flawless Diamond Solitaire",obtain={NpcID=2849,NpcName="Qixdi Goodstitch (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[11987] = {id=11987,name="Iridium Circle",obtain={NpcID=5327,NpcName="Coast Crawl Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Feralas"}}
-items[11982] = {id=11982,name="Viridian Band",obtain={NpcID=645,NpcName="Cookie",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.8,Zone="The Deadmines"}}
-items[38090] = {id=38090,name="Sapphire Pinky Ring",obtain={NpcID=18756,NpcName="Haris Pilton (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[29304] = {id=29304,name="Band of Eternity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24080] = {id=24080,name="Khorium Band of Frost",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31054,DropChance=0,Zone=""}}
-items[24082] = {id=24082,name="Khorium Inferno Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31055,DropChance=0,Zone=""}}
-items[27895] = {id=27895,name="Band of Many Prisms",obtain={NpcID=17308,NpcName="Omor the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Hellfire Ramparts"}}
-items[29289] = {id=29289,name="Violet Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10734,Recipe=false,RecipeID=0,DropChance=0,Zone="Karazhan Raid"}}
-items[25963] = {id=25963,name="Kokorek's Signet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10874,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[23037] = {id=23037,name="Ring of Spiritual Fervor",obtain={NpcID=16011,NpcName="Loatheb",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.8,Zone="Naxxramas"}}
-items[21483] = {id=21483,name="Ring of the Desert Winds",obtain={NpcID=15369,NpcName="Ayamiss the Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.9,Zone="Ruins of Ahn'Qiraj"}}
-items[4988] = {id=4988,name="Burning Obsidian Band",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33263] = {id=33263,name="Raptor Eye Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11184,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[33853] = {id=33853,name="Vindicator's Band of Dominance",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27523] = {id=27523,name="Exarch's Diamond Band",obtain={NpcID=18373,NpcName="Exarch Maladaar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.4,Zone="Auchenai Crypts"}}
-items[29793] = {id=29793,name="Signet of the Violet Tower",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10223,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31258] = {id=31258,name="Band of Sorrow",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25048] = {id=25048,name="Smoky Quartz Ring",obtain={NpcID=17624,NpcName="Laughing Skull Warden",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="The Blood Furnace"}}
-items[27833] = {id=27833,name="Band of the Victor",obtain={NpcID=18266,NpcName="Warrant Officer Tracy Proudwell (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[19138] = {id=19138,name="Band of Sulfuras",obtain={NpcID=11502,NpcName="Ragnaros",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.0,Zone="Molten Core"}}
-items[21681] = {id=21681,name="Ring of the Devoured",obtain={NpcID=15511,NpcName="Lord Kri",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.1,Zone="Ahn'Qiraj"}}
-items[18398] = {id=18398,name="Tidal Loop",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7486,Recipe=false,RecipeID=0,DropChance=0,Zone="Azshara"}}
-items[11991] = {id=11991,name="Quicksilver Ring",obtain={NpcID=7070,NpcName="Condemned Cleric",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Hillsbrad Foothills"}}
-items[13475] = {id=13475,name="Dalson Family Wedding Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5060,Recipe=false,RecipeID=0,DropChance=0,Zone="Western Plaguelands"}}
-items[11970] = {id=11970,name="Spinel Ring",obtain={NpcID=2304,NpcName="Captain Ironhill",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Hillsbrad Foothills"}}
-items[6750] = {id=6750,name="Snake Hoop",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1144,Recipe=false,RecipeID=0,DropChance=0,Zone="Razorfen Kraul"}}
-items[1077] = {id=1077,name="Defias Mage Ring",obtain={NpcID=910,NpcName="Defias Enchanter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Duskwood"}}
-items[30339] = {id=30339,name="Protectorate Assassin's Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10413,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31238] = {id=31238,name="Dragonbone Ring",obtain={NpcID=18689,NpcName="Crippler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100.0,Zone="Terokkar Forest"}}
-items[19516] = {id=19516,name="Protector's Band",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[28816] = {id=28816,name="QATest +400 Spell Dmg Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
+items[19325] = {id=19325,name="Don Julio's Band",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[34227] = {id=34227,name="Deadman's Hand",source={ID=6487,SourceName="Arcanist Doan",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
+items[28555] = {id=28555,name="Seal of the Exorcist",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
+items[21753] = {id=21753,name="Gem Studded Band",source={ID=26896,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20964] = {id=20964,name="Aquamarine Signet",source={ID=26874,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30834] = {id=30834,name="Shapeshifter's Signet",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28793] = {id=28793,name="Band of Crimson Fury",source={ID=11002,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[28757] = {id=28757,name="Ring of a Thousand Marks",source={ID=15690,SourceName="Prince Malchezaar",SourceType="Kill",DropChance="42.8",Zone="Karazhan"}}
+items[30804] = {id=30804,name="Bronze Band of Force",source={ID=37818,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28791] = {id=28791,name="Ring of the Recalcitrant",source={ID=11002,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[21190] = {id=21190,name="Wrath of Cenarius",source={ID=8573,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[28649] = {id=28649,name="Garona's Signet Ring",source={ID=15691,SourceName="The Curator",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
+items[29172] = {id=29172,name="Ashyen's Gift",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[21768] = {id=21768,name="Sapphire Signet",source={ID=26903,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21563] = {id=21563,name="Don Rodrigo's Band",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28753] = {id=28753,name="Ring of Recurrence",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31077] = {id=31077,name="Slayer's Mark of the Redemption",source={ID=10769,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[19522] = {id=19522,name="Lorekeeper's Ring",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[28247] = {id=28247,name="Band of Dominance",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[30860] = {id=30860,name="Kaylaan's Signet",source={ID=10409,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[28790] = {id=28790,name="Naaru Lightwarden's Band",source={ID=11002,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[21205] = {id=21205,name="Signet Ring of the Bronze Dragonflight",source={ID=8756,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[28553] = {id=28553,name="Band of the Exorcist",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
+items[29290] = {id=29290,name="Violet Signet of the Grand Restorer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31319] = {id=31319,name="Band of Impenetrable Defenses",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16058] = {id=16058,name="Fordring's Seal",source={ID=5944,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[34837] = {id=34837,name="The 2 Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28792] = {id=28792,name="A'dal's Signet of Defense",source={ID=11002,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[30667] = {id=30667,name="Ring of Unrelenting Storms",source={ID=16411,SourceName="Spectral Chef",SourceType="Kill",DropChance="1.3",Zone="Karazhan"}}
+items[29157] = {id=29157,name="Golden Ring of Power",source={ID=34955,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29287] = {id=29287,name="Violet Signet of the Archmage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28763] = {id=28763,name="Jade Ring of the Everliving",source={ID=15690,SourceName="Prince Malchezaar",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
+items[28407] = {id=28407,name="Elementium Band of the Sentry",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="17.2",Zone="The Arcatraz"}}
+items[29323] = {id=29323,name="Andormu's Tear",source={ID=10298,SourceName="",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
+items[29279] = {id=29279,name="Violet Signet of the Great Protector",source={ID=10728,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[27925] = {id=27925,name="Ravenclaw Band",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="21.4",Zone="Sethekk Halls"}}
+items[28227] = {id=28227,name="Sparking Arcanite Ring",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="23.7",Zone="Old Hillsbrad Foothills"}}
+items[28661] = {id=28661,name="Mender's Heart-Ring",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
+items[20826] = {id=20826,name="Heavy Silver Ring",source={ID=25305,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29159] = {id=29159,name="Glowing Thorium Band",source={ID=34960,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21765] = {id=21765,name="Truesilver Healing Ring",source={ID=26885,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31920] = {id=31920,name="Shaffar's Band of Brutality",source={ID=22930,SourceName="Yor",SourceType="Kill",DropChance="1.5",Zone="Mana-Tombs"}}
+items[33056] = {id=33056,name="Veteran's Band of Dominance",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[21709] = {id=21709,name="Ring of the Fallen God",source={ID=8802,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[22961] = {id=22961,name="Band of Reanimation",source={ID=16028,SourceName="Patchwerk",SourceType="Kill",DropChance="37.2",Zone="Naxxramas"}}
+items[28510] = {id=28510,name="Spectral Band of Innervation",source={ID=15550,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="14.6",Zone="Karazhan"}}
+items[28246] = {id=28246,name="Band of Triumph",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[29177] = {id=29177,name="A'dal's Command",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30738] = {id=30738,name="Ring of Reciprocity",source={ID=18728,SourceName="Doom Lord Kazzak",SourceType="Kill",DropChance="13.6",Zone="Unknown"}}
+items[28675] = {id=28675,name="Shermanar Great-Ring",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
+items[19518] = {id=19518,name="Advisor's Ring",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[33057] = {id=33057,name="Veteran's Band of Triumph",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[29158] = {id=29158,name="Truesilver Commander's Ring",source={ID=34959,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29283] = {id=29283,name="Violet Signet of the Master Assassin",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30365] = {id=30365,name="Overseer's Signet",source={ID=10323,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30422] = {id=30422,name="Diamond Focus Ring",source={ID=36526,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12926] = {id=12926,name="Flaming Band",source={ID=9816,SourceName="Pyroguard Emberseer",SourceType="Kill",DropChance="26.9",Zone="Blackrock Spire"}}
+items[22681] = {id=22681,name="Band of Piety",source={ID=9221,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[21210] = {id=21210,name="Signet Ring of the Bronze Dragonflight",source={ID=8761,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[942] = {id=942,name="Freezing Band",source={ID=6131,SourceName="Draconic Mageweaver",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
+items[28730] = {id=28730,name="Mithril Band of the Unscarred",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
+items[20827] = {id=20827,name="Ring of Silver Might",source={ID=25317,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29160] = {id=29160,name="Emerald Lion Ring",source={ID=34961,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29126] = {id=29126,name="Seer's Signet",source={ID=19331,SourceName="Quartermaster Enuril",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[21200] = {id=21200,name="Signet Ring of the Bronze Dragonflight",source={ID=8751,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[20907] = {id=20907,name="Solid Bronze Ring",source={ID=25490,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20451] = {id=20451,name="Twilight Cultist Ring of Lordship",source={ID=14479,SourceName="Twilight Lord Everun",SourceType="Kill",DropChance="5.0",Zone="Silithus"}}
+items[20958] = {id=20958,name="Blazing Citrine Ring",source={ID=25617,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20960] = {id=20960,name="Engraved Truesilver Ring",source={ID=25620,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27822] = {id=27822,name="Crystal Band of Valor",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="14.2",Zone="Mana-Tombs"}}
+items[29384] = {id=29384,name="Ring of Unyielding Force",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31078] = {id=31078,name="Protector's Mark of the Redemption",source={ID=10769,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[19510] = {id=19510,name="Legionnaire's Band",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[34361] = {id=34361,name="Hard Khorium Band",source={ID=46124,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29373] = {id=29373,name="Band of Halos",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[17713] = {id=17713,name="Blackstone Ring",source={ID=12201,SourceName="Princess Theradras",SourceType="Kill",DropChance="24.5",Zone="Maraudon"}}
+items[21775] = {id=21775,name="Onslaught Ring",source={ID=26907,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29168] = {id=29168,name="Ancestral Band",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[29352] = {id=29352,name="Cobalt Band of Tyrigosa",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="18.1",Zone="Mana-Tombs"}}
+items[20961] = {id=20961,name="Citrine Ring of Rapid Healing",source={ID=25621,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27436] = {id=27436,name="Iron Band of the Unbreakable",source={ID=17848,SourceName="Lieutenant Drake",SourceType="Kill",DropChance="0",Zone="Old Hillsbrad Foothills"}}
+items[12344] = {id=12344,name="Seal of Ascension",source={ID=4743,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Spire"}}
+items[29169] = {id=29169,name="Ring of Convalescence",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[11669] = {id=11669,name="Naglering",source={ID=8983,SourceName="Golem Lord Argelmach",SourceType="Kill",DropChance="10.6",Zone="Blackrock Depths"}}
+items[30006] = {id=30006,name="Wind Trader's Band",source={ID=10318,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31075] = {id=31075,name="Evoker's Mark of the Redemption",source={ID=10769,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[21778] = {id=21778,name="Ring of Bitter Shadows",source={ID=26910,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27780] = {id=27780,name="Ring of Fabled Hope",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
+items[13001] = {id=13001,name="Maiden's Circle",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[9461] = {id=9461,name="Charged Gear",source={ID=7800,SourceName="Mekgineer Thermaplugg",SourceType="Kill",DropChance="32.9",Zone="Gnomeregan"}}
+items[33064] = {id=33064,name="Veteran's Band of Salvation",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[29379] = {id=29379,name="Ring of Arathi Warlords",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[21767] = {id=21767,name="Simple Opal Ring",source={ID=26902,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29286] = {id=29286,name="Violet Signet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7553] = {id=7553,name="Band of the Unicorn",source={ID=5997,SourceName="Nethergarde Engineer",SourceType="Kill",DropChance="0.1",Zone="Blasted Lands"}}
+items[30052] = {id=30052,name="Ring of Lethality",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="32.5",Zone="Serpentshrine Cavern"}}
+items[18500] = {id=18500,name="Tarnished Elven Ring",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="3.0",Zone="Dire Maul"}}
+items[22721] = {id=22721,name="Band of Servitude",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="9.8",Zone="Zul'Gurub"}}
+items[29997] = {id=29997,name="Band of the Ranger-General",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="24.2",Zone="Tempest Keep"}}
+items[30366] = {id=30366,name="Manastorm Band",source={ID=10365,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31924] = {id=31924,name="Yor's Revenge",source={ID=22930,SourceName="Yor",SourceType="Kill",DropChance="1.8",Zone="Mana-Tombs"}}
+items[23031] = {id=23031,name="Band of the Inevitable",source={ID=15954,SourceName="Noth the Plaguebringer",SourceType="Kill",DropChance="31.7",Zone="Naxxramas"}}
+items[21596] = {id=21596,name="Ring of the Godslayer",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="38.5",Zone="Ahn'Qiraj"}}
+items[21182] = {id=21182,name="Band of Earthen Might",source={ID=8572,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[21402] = {id=21402,name="Signet of the Unseen Path",source={ID=8704,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[29814] = {id=29814,name="Celestial Jewel Ring",source={ID=10293,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[17063] = {id=17063,name="Band of Accuria",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="28.3",Zone="Molten Core"}}
+items[22680] = {id=22680,name="Band of Resolution",source={ID=9221,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[29367] = {id=29367,name="Ring of Cryptic Dreams",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30736] = {id=30736,name="Ring of Flowing Light",source={ID=18728,SourceName="Doom Lord Kazzak",SourceType="Kill",DropChance="15.8",Zone="Unknown"}}
+items[29282] = {id=29282,name="Violet Signet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24154] = {id=24154,name="Witching Band",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="11.7",Zone="Hellfire Ramparts"}}
+items[29305] = {id=29305,name="Band of the Eternal Sage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30028] = {id=30028,name="Seventh Ring of the Tirisfalen",source={ID=20032,SourceName="Bloodwarder Vindicator",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
+items[20955] = {id=20955,name="Golden Dragon Ring",source={ID=25613,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31923] = {id=31923,name="Band of the Crystalline Void",source={ID=22930,SourceName="Yor",SourceType="Kill",DropChance="1.1",Zone="Mana-Tombs"}}
+items[32527] = {id=32527,name="Ring of Ancient Knowledge",source={ID=22844,SourceName="Ashtongue Battlelord",SourceType="Kill",DropChance="2.0",Zone="Unknown"}}
+items[25439] = {id=25439,name="Tigerseye Band",source={ID=32179,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34362] = {id=34362,name="Loop of Forged Power",source={ID=46122,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27733] = {id=27733,name="Warden's Ring of Precision",source={ID=9731,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[9533] = {id=9533,name="Masons Fraternity Ring",source={ID=2768,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Farrak"}}
+items[30421] = {id=30421,name="Red Ring of Destruction",source={ID=36525,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29301] = {id=29301,name="Band of the Eternal Champion",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11967] = {id=11967,name="Zircon Band",source={ID=2478,SourceName="Haren Swifthoof",SourceType="Kill",DropChance="1.4",Zone="Loch Modan"}}
+items[25826] = {id=25826,name="Sage's Band",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[19109] = {id=19109,name="Deep Rooted Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32497] = {id=32497,name="Stormrage Signet Ring",source={ID=22917,SourceName="Illidan Stormrage",SourceType="Kill",DropChance="37.4",Zone="Black Temple"}}
+items[30109] = {id=30109,name="Ring of Endless Coils",source={ID=21212,SourceName="Lady Vashj",SourceType="Kill",DropChance="17.6",Zone="Serpentshrine Cavern"}}
+items[21204] = {id=21204,name="Signet Ring of the Bronze Dragonflight",source={ID=8755,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[20818] = {id=20818,name="Elegant Silver Ring",source={ID=25280,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24151] = {id=24151,name="Mok'Nathal Clan Ring",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="11.7",Zone="Hellfire Ramparts"}}
+items[19514] = {id=19514,name="Protector's Band",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[31326] = {id=31326,name="Truestrike Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21417] = {id=21417,name="Ring of Unspoken Names",source={ID=8702,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[31383] = {id=31383,name="Spiritualist's Mark of the Sha'tar",source={ID=10781,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[23038] = {id=23038,name="Band of Unnatural Forces",source={ID=16011,SourceName="Loatheb",SourceType="Kill",DropChance="30.5",Zone="Naxxramas"}}
+items[22707] = {id=22707,name="Ramaladni's Icy Grasp",source={ID=9230,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[1980] = {id=1980,name="Underworld Band",source={ID=669,SourceName="Skullsplitter Hunter",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
+items[30420] = {id=30420,name="Heavy Jade Ring",source={ID=36524,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20828] = {id=20828,name="Ring of Twilight Shadows",source={ID=25318,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[37934] = {id=37934,name="Noble's Elementium Signet",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[8350] = {id=8350,name="The 1 Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21779] = {id=21779,name="Band of Natural Fire",source={ID=26916,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30110] = {id=30110,name="Coral Band of the Revived",source={ID=21212,SourceName="Lady Vashj",SourceType="Kill",DropChance="24.8",Zone="Serpentshrine Cavern"}}
+items[29922] = {id=29922,name="Band of Al'ar",source={ID=19514,SourceName="Al'ar",SourceType="Kill",DropChance="32.2",Zone="Tempest Keep"}}
+items[24045] = {id=24045,name="Band of Renewal",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="17.6",Zone="Hellfire Ramparts"}}
+items[29920] = {id=29920,name="Phoenix-Ring of Rebirth",source={ID=19514,SourceName="Al'ar",SourceType="Kill",DropChance="30.3",Zone="Tempest Keep"}}
+items[15855] = {id=15855,name="Ring of Protection",source={ID=5942,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[1156] = {id=1156,name="Lavishly Jeweled Ring",source={ID=1763,SourceName="Gilnid",SourceType="Kill",DropChance="37.1",Zone="The Deadmines"}}
+items[33104] = {id=33104,name="Ring of Skill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28323] = {id=28323,name="Ring of Umbral Doom",source={ID=17978,SourceName="Thorngrin the Tender",SourceType="Kill",DropChance="19.6",Zone="The Botanica"}}
+items[21399] = {id=21399,name="Ring of the Gathering Storm",source={ID=8698,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[34363] = {id=34363,name="Ring of Flowing Life",source={ID=46123,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28259] = {id=28259,name="Cosmic Lifeband",source={ID=19221,SourceName="Nethermancer Sepethrea",SourceType="Kill",DropChance="23.2",Zone="The Mechanar"}}
+items[19147] = {id=19147,name="Ring of Spell Power",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="6.6",Zone="Molten Core"}}
+items[21393] = {id=21393,name="Signet of Unyielding Strength",source={ID=8556,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[2246] = {id=2246,name="Myrmidon's Signet",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[10710] = {id=10710,name="Dragonclaw Ring",source={ID=3525,SourceName="",SourceType="Quest",DropChance="0",Zone="Razorfen Downs"}}
+items[34887] = {id=34887,name="Angelista's Revenge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32774] = {id=32774,name="The Black Pearl",source={ID=41415,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22433] = {id=22433,name="Don Mauricio's Band of Domination",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="13.5",Zone="Scholomance"}}
+items[10634] = {id=10634,name="Mindseye Circle",source={ID=5277,SourceName="Nightmare Scalebane",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
+items[34230] = {id=34230,name="Ring of Omnipotence",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="35.4",Zone="Sunwell Plateau"}}
+items[29128] = {id=29128,name="Lightwarden's Band",source={ID=19321,SourceName="Quartermaster Endarin",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[32942] = {id=32942,name="Ring of the Overseer",source={ID=23230,SourceName="Shartuul",SourceType="Kill",DropChance="14.3",Zone="Unknown"}}
+items[25824] = {id=25824,name="Farseer's Band",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[22939] = {id=22939,name="Band of Unanswered Prayers",source={ID=15956,SourceName="Anub'Rekhan",SourceType="Kill",DropChance="43.6",Zone="Naxxramas"}}
+items[22334] = {id=22334,name="Band of Mending",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="1.9",Zone="Stratholme"}}
+items[25962] = {id=25962,name="Longstrider's Loop",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="27.2",Zone="Mana-Tombs"}}
+items[20820] = {id=20820,name="Simple Pearl Ring",source={ID=25284,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31339] = {id=31339,name="Lola's Eve",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19873] = {id=19873,name="Overlord's Crimson Band",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="18.4",Zone="Zul'Gurub"}}
+items[21396] = {id=21396,name="Ring of Eternal Justice",source={ID=8703,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[23025] = {id=23025,name="Seal of the Damned",source={ID=181366,SourceName="Four Horsemen Chest",SourceType="Container",DropChance="13.9",Zone="Naxxramas"}}
+items[19912] = {id=19912,name="Overlord's Onyx Band",source={ID=14515,SourceName="High Priestess Arlokk",SourceType="Kill",DropChance="24.4",Zone="Zul'Gurub"}}
+items[18543] = {id=18543,name="Ring of Entropy",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="17.1",Zone="Blasted Lands"}}
+items[21405] = {id=21405,name="Band of Veiled Shadows",source={ID=8701,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[17045] = {id=17045,name="Blood of the Martyr",source={ID=5125,SourceName="",SourceType="Quest",DropChance="0",Zone="Stratholme"}}
+items[34189] = {id=34189,name="Band of Ruinous Delight",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="13.3",Zone="Unknown"}}
+items[29285] = {id=29285,name="Violet Signet",source={ID=10733,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[31290] = {id=31290,name="Band of Dominion",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21414] = {id=21414,name="Band of Vaulted Secrets",source={ID=8699,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[13143] = {id=13143,name="Mark of the Dragon Lord",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="1.9",Zone="Blackrock Spire"}}
+items[21201] = {id=21201,name="Signet Ring of the Bronze Dragonflight",source={ID=8752,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[20823] = {id=20823,name="Gloom Band",source={ID=25287,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30083] = {id=30083,name="Ring of Sundered Souls",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="26.0",Zone="Serpentshrine Cavern"}}
+items[23018] = {id=23018,name="Signet of the Fallen Defender",source={ID=16061,SourceName="Instructor Razuvious",SourceType="Kill",DropChance="32.9",Zone="Naxxramas"}}
+items[23237] = {id=23237,name="Ring of the Eternal Flame",source={ID=16156,SourceName="Dark Touched Warrior",SourceType="Kill",DropChance="1.0",Zone="Naxxramas"}}
+items[21203] = {id=21203,name="Signet Ring of the Bronze Dragonflight",source={ID=8754,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[19302] = {id=19302,name="Darkmoon Ring",source={ID=14846,SourceName="Lhara",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[28211] = {id=28211,name="Lieutenant's Signet of Lordaeron",source={ID=17848,SourceName="Lieutenant Drake",SourceType="Kill",DropChance="20.0",Zone="Old Hillsbrad Foothills"}}
+items[29276] = {id=29276,name="Violet Signet",source={ID=10732,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[21209] = {id=21209,name="Signet Ring of the Bronze Dragonflight",source={ID=8760,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[21206] = {id=21206,name="Signet Ring of the Bronze Dragonflight",source={ID=8757,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[11118] = {id=11118,name="Archaedic Stone",source={ID=2748,SourceName="Archaedas",SourceType="Kill",DropChance="62.4",Zone="Uldaman"}}
+items[7686] = {id=7686,name="Ironspine's Eye",source={ID=6489,SourceName="Ironspine",SourceType="Kill",DropChance="40.8",Zone="Scarlet Monastery"}}
+items[29322] = {id=29322,name="Keeper's Ring of Piety",source={ID=10298,SourceName="",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
+items[19382] = {id=19382,name="Pure Elementium Band",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="29.5",Zone="Blackwing Lair"}}
+items[33054] = {id=33054,name="The Seal of Danzalar",source={ID=21217,SourceName="The Lurker Below",SourceType="Kill",DropChance="17.7",Zone="Serpentshrine Cavern"}}
+items[25775] = {id=25775,name="Ogre Slayer's Band",source={ID=9946,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[23059] = {id=23059,name="Ring of the Dreadnaught",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="46.9",Zone="Naxxramas"}}
+items[12006] = {id=12006,name="Meadow Ring",source={ID=125,SourceName="Riverpaw Overseer",SourceType="Kill",DropChance="0.6",Zone="Westfall"}}
+items[32528] = {id=32528,name="Blessed Band of Karabor",source={ID=22855,SourceName="Illidari Nightlord",SourceType="Kill",DropChance="2.0",Zone="Unknown"}}
+items[29278] = {id=29278,name="Violet Signet",source={ID=10741,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[28265] = {id=28265,name="Dath'Remar's Ring of Defense",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="66.6",Zone="The Mechanar"}}
+items[24088] = {id=24088,name="Delicate Eternium Ring",source={ID=31060,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11824] = {id=11824,name="Cyclopean Band",source={ID=9030,SourceName="Ok'thor the Breaker",SourceType="Kill",DropChance="18.7",Zone="Blackrock Depths"}}
+items[31277] = {id=31277,name="Pathfinder's Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18821] = {id=18821,name="Quick Strike Ring",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="12.0",Zone="Molten Core"}}
+items[27453] = {id=27453,name="Averinn's Ring of Slaying",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
+items[23067] = {id=23067,name="Ring of the Cryptstalker",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="37.4",Zone="Naxxramas"}}
+items[21408] = {id=21408,name="Band of Unending Life",source={ID=8700,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[29309] = {id=29309,name="Band of the Eternal Restorer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18343] = {id=18343,name="Petrified Band",source={ID=11459,SourceName="Ironbark Protector",SourceType="Kill",DropChance="1.4",Zone="Dire Maul"}}
+items[19520] = {id=19520,name="Advisor's Ring",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[20833] = {id=20833,name="Wicked Moonstone Ring",source={ID=25323,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9362] = {id=9362,name="Brilliant Gold Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20426] = {id=20426,name="Advisor's Ring",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[32772] = {id=32772,name="Brilliant Pearl Band",source={ID=41414,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24078] = {id=24078,name="Heavy Adamantite Ring",source={ID=31052,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19140] = {id=19140,name="Cauterizing Band",source={ID=179703,SourceName="Cache of the Firelord",SourceType="Container",DropChance="21.5",Zone="Molten Core"}}
+items[19898] = {id=19898,name="Seal of Jin",source={ID=14509,SourceName="High Priest Thekal",SourceType="Kill",DropChance="18.2",Zone="Zul'Gurub"}}
+items[18103] = {id=18103,name="Band of Rumination",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="19.7",Zone="Blackrock Spire"}}
+items[19523] = {id=19523,name="Lorekeeper's Ring",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[11996] = {id=11996,name="Basalt Ring",source={ID=3941,SourceName="Uthil Mooncall",SourceType="Kill",DropChance="0.2",Zone="Ashenvale"}}
+items[20429] = {id=20429,name="Legionnaire's Band",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[21695] = {id=21695,name="Angelista's Touch",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="22.3",Zone="Ahn'Qiraj"}}
+items[23717] = {id=23717,name="Pitted Gold Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30061] = {id=30061,name="Ancestral Ring of Conquest",source={ID=21217,SourceName="The Lurker Below",SourceType="Kill",DropChance="25.1",Zone="Serpentshrine Cavern"}}
+items[31527] = {id=31527,name="Leafbeard Ring",source={ID=10830,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[25541] = {id=25541,name="Cenarion Ring of Casting",source={ID=9738,SourceName="",SourceType="Quest",DropChance="0",Zone="Serpentshrine Cavern"}}
+items[21189] = {id=21189,name="Might of Cenarius",source={ID=8574,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[862] = {id=862,name="Runed Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21754] = {id=21754,name="The Aquamarine Ward",source={ID=26887,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6440] = {id=6440,name="Brainlash",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20959] = {id=20959,name="The Jade Eye",source={ID=25619,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6321] = {id=6321,name="Silverlaine's Family Seal",source={ID=3887,SourceName="Baron Silverlaine",SourceType="Kill",DropChance="18.9",Zone="Shadowfang Keep"}}
+items[34213] = {id=34213,name="Ring of Hardened Resolve",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="31.5",Zone="Sunwell Plateau"}}
+items[33496] = {id=33496,name="Signet of Primal Wrath",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29284] = {id=29284,name="Violet Signet",source={ID=10729,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[24076] = {id=24076,name="Azure Moonstone Ring",source={ID=31050,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19432] = {id=19432,name="Circle of Applied Force",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="38.0",Zone="Blackwing Lair"}}
+items[17110] = {id=17110,name="Seal of the Archmagus",source={ID=12056,SourceName="Baron Geddon",SourceType="Kill",DropChance="32.2",Zone="Molten Core"}}
+items[21202] = {id=21202,name="Signet Ring of the Bronze Dragonflight",source={ID=8753,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[7337] = {id=7337,name="The Rock",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[20692] = {id=20692,name="Multicolored Band",source={ID=20603,SourceName="Bag of Spoils",SourceType="Container",DropChance="2.3",Zone="Unknown"}}
+items[6463] = {id=6463,name="Deep Fathom Ring",source={ID=3654,SourceName="Mutanus the Devourer",SourceType="Kill",DropChance="30.4",Zone="Wailing Caverns"}}
+items[27734] = {id=27734,name="Expedition Caster's Band",source={ID=9731,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[19403] = {id=19403,name="Band of Forced Concentration",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="33.0",Zone="Blackwing Lair"}}
+items[19863] = {id=19863,name="Primalist's Seal",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="18.4",Zone="Zul'Gurub"}}
+items[21411] = {id=21411,name="Ring of Infinite Wisdom",source={ID=8697,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[22339] = {id=22339,name="Rune Band of Wizardry",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="24.4",Zone="Blackrock Spire"}}
+items[11977] = {id=11977,name="Serpentine Loop",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="3.5",Zone="Winterspring"}}
+items[12002] = {id=12002,name="Marble Circle",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[6693] = {id=6693,name="Agamaggan's Clutch",source={ID=4421,SourceName="Charlga Razorflank",SourceType="Kill",DropChance="35.2",Zone="Razorfen Kraul"}}
+items[34166] = {id=34166,name="Band of Lucent Beams",source={ID=24844,SourceName="Kalecgos",SourceType="Kill",DropChance="2.7",Zone="Unknown"}}
+items[33497] = {id=33497,name="Mana Attuned Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33499] = {id=33499,name="Signet of the Last Defender",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24089] = {id=24089,name="Blazing Eternium Band",source={ID=31061,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23065] = {id=23065,name="Ring of the Earthshatterer",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="28.4",Zone="Naxxramas"}}
+items[12016] = {id=12016,name="Jungle Ring",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="0.8",Zone="Stratholme"}}
+items[11945] = {id=11945,name="Dark Iron Ring",source={ID=160836,SourceName="Relic Coffer",SourceType="Container",DropChance="0.4",Zone="Alterac Valley"}}
+items[19521] = {id=19521,name="Advisor's Ring",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[35733] = {id=35733,name="Ring of Harmonic Beauty",source={ID=25367,SourceName="Sunblade Arch Mage",SourceType="Kill",DropChance="1.6",Zone="Unknown"}}
+items[32335] = {id=32335,name="Unstoppable Aggressor's Ring",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="16.8",Zone="Black Temple"}}
+items[34889] = {id=34889,name="Fused Nethergon Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35283] = {id=35283,name="Sin'dorei Band of Salvation",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="66.9",Zone="Sunwell Plateau"}}
+items[33055] = {id=33055,name="Band of Vile Aggression",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="20.1",Zone="Serpentshrine Cavern"}}
+items[32664] = {id=32664,name="Dreamcrystal Band",source={ID=40754,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29281] = {id=29281,name="Violet Signet",source={ID=10735,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[25488] = {id=25488,name="Signet of Aeranas",source={ID=9418,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[22725] = {id=22725,name="Band of Cenarius",source={ID=9248,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[19925] = {id=19925,name="Band of Jin",source={ID=14510,SourceName="High Priestess Mar'li",SourceType="Kill",DropChance="19.0",Zone="Zul'Gurub"}}
+items[22331] = {id=22331,name="Band of the Steadfast Hero",source={ID=16118,SourceName="Kormok",SourceType="Kill",DropChance="12.7",Zone="Scholomance"}}
+items[11934] = {id=11934,name="Emperor's Seal",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="17.6",Zone="Blackrock Depths"}}
+items[13178] = {id=13178,name="Rosewine Circle",source={ID=10584,SourceName="Urok Doomhowl",SourceType="Kill",DropChance="18.9",Zone="Blackrock Spire"}}
+items[19519] = {id=19519,name="Advisor's Ring",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[2262] = {id=2262,name="Mark of Kern",source={ID=4542,SourceName="High Inquisitor Fairbanks",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
+items[12009] = {id=12009,name="Tundra Ring",source={ID=14903,SourceName="Al'tabim the All-Seeing",SourceType="Kill",DropChance="2.0",Zone="Stranglethorn Vale"}}
+items[2039] = {id=2039,name="Plains Ring",source={ID=4522,SourceName="Razorfen Dustweaver",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[20431] = {id=20431,name="Lorekeeper's Ring",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[20821] = {id=20821,name="Inlaid Malachite Ring",source={ID=25283,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29308] = {id=29308,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34888] = {id=34888,name="Ring of the Stalwart Protector",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29280] = {id=29280,name="Violet Signet",source={ID=10731,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[29288] = {id=29288,name="Violet Signet",source={ID=10730,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[27432] = {id=27432,name="Broxigar's Ring of Valor",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="16.0",Zone="Old Hillsbrad Foothills"}}
+items[21601] = {id=21601,name="Ring of Emperor Vek'lor",source={ID=15276,SourceName="Emperor Vek'lor",SourceType="Kill",DropChance="18.5",Zone="Ahn'Qiraj"}}
+items[21477] = {id=21477,name="Ring of Fury",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="29.3",Zone="Ruins of Ahn'Qiraj"}}
+items[21198] = {id=21198,name="Signet Ring of the Bronze Dragonflight",source={ID=8749,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[17982] = {id=17982,name="Ragnaros Core",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12005] = {id=12005,name="Granite Ring",source={ID=1840,SourceName="Grand Inquisitor Isillien",SourceType="Kill",DropChance="0.6",Zone="Western Plaguelands"}}
+items[21196] = {id=21196,name="Signet Ring of the Bronze Dragonflight",source={ID=8747,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[12038] = {id=12038,name="Lagrave's Seal",source={ID=3911,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
+items[1447] = {id=1447,name="Ring of Saviors",source={ID=1489,SourceName="Zanzil Hunter",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
+items[19515] = {id=19515,name="Protector's Band",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[11971] = {id=11971,name="Amethyst Band",source={ID=6068,SourceName="Warug's Bodyguard",SourceType="Kill",DropChance="0.5",Zone="Desolace"}}
+items[19517] = {id=19517,name="Protector's Band",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[11983] = {id=11983,name="Chrome Ring",source={ID=14357,SourceName="Lake Thresher",SourceType="Kill",DropChance="0.4",Zone="Redridge Mountains"}}
+items[4998] = {id=4998,name="Blood Ring",source={ID=5798,SourceName="Thora Feathermoon",SourceType="Kill",DropChance="0.3",Zone="The Barrens"}}
+items[7338] = {id=7338,name="Mood Ring",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[32535] = {id=32535,name="Gift of the Talonpriests",source={ID=21838,SourceName="Terokk",SourceType="Kill",DropChance="9.8",Zone="Unknown"}}
+items[34798] = {id=34798,name="Band of Celerity",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="16.5",Zone="Magisters' Terrace"}}
+items[31922] = {id=31922,name="Ring of Conflict Survival",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20682] = {id=20682,name="Elemental Focus Band",source={ID=15203,SourceName="Prince Skaldrenox",SourceType="Kill",DropChance="30.9",Zone="Silithus"}}
+items[11992] = {id=11992,name="Vermilion Band",source={ID=13959,SourceName="Alterac Yeti",SourceType="Kill",DropChance="8.3",Zone="Alterac Valley"}}
+items[18399] = {id=18399,name="Ocean's Breeze",source={ID=7486,SourceName="",SourceType="Quest",DropChance="0",Zone="Azshara"}}
+items[12057] = {id=12057,name="Dragonscale Band",source={ID=7068,SourceName="Condemned Acolyte",SourceType="Kill",DropChance="1.3",Zone="Hillsbrad Foothills"}}
+items[16999] = {id=16999,name="Royal Seal of Alexis",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11976] = {id=11976,name="Sardonyx Knuckle",source={ID=10077,SourceName="Deathmaw",SourceType="Kill",DropChance="0.7",Zone="Burning Steppes"}}
+items[13093] = {id=13093,name="Blush Ember Ring",source={ID=5046,SourceName="Lieutenant Caldwell",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[5001] = {id=5001,name="Heart Ring",source={ID=14427,SourceName="Gibblesnik",SourceType="Kill",DropChance="0.5",Zone="Thousand Needles"}}
+items[6332] = {id=6332,name="Black Pearl Ring",source={ID=7016,SourceName="Lady Vespira",SourceType="Kill",DropChance="36.6",Zone="Darkshore"}}
+items[11965] = {id=11965,name="Quartz Ring",source={ID=3854,SourceName="Shadowfang Wolfguard",SourceType="Kill",DropChance="0.2",Zone="Shadowfang Keep"}}
+items[32526] = {id=32526,name="Band of Devastation",source={ID=22844,SourceName="Ashtongue Battlelord",SourceType="Kill",DropChance="2.0",Zone="Unknown"}}
+items[33498] = {id=33498,name="Signet of the Quiet Forest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27762] = {id=27762,name="Weathered Band of the Swamplord",source={ID=17826,SourceName="Swamplord Musel'ek",SourceType="Kill",DropChance="13.0",Zone="The Underbog"}}
+items[31398] = {id=31398,name="The Frozen Eye",source={ID=38503,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31919] = {id=31919,name="Nexus-Prince's Ring of Balance",source={ID=22930,SourceName="Yor",SourceType="Kill",DropChance="3.0",Zone="Mana-Tombs"}}
+items[23061] = {id=23061,name="Ring of Faith",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="32.6",Zone="Naxxramas"}}
+items[23066] = {id=23066,name="Ring of Redemption",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="46.1",Zone="Naxxramas"}}
+items[19376] = {id=19376,name="Archimtiros' Ring of Reckoning",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="31.6",Zone="Blackwing Lair"}}
+items[21526] = {id=21526,name="Band of Icy Depths",source={ID=8729,SourceName="",SourceType="Quest",DropChance="0",Zone="Azshara"}}
+items[20600] = {id=20600,name="Malfurion's Signet Ring",source={ID=8447,SourceName="",SourceType="Quest",DropChance="0",Zone="Epic"}}
+items[10795] = {id=10795,name="Drakeclaw Band",source={ID=5720,SourceName="Weaver",SourceType="Kill",DropChance="10.0",Zone="The Temple of Atal'Hakkar"}}
+items[6589] = {id=6589,name="Viridian Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11968] = {id=11968,name="Amber Hoop",source={ID=14425,SourceName="Gnawbone",SourceType="Kill",DropChance="1.6",Zone="Wetlands"}}
+items[7341] = {id=7341,name="Cubic Zirconia Ring",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[21932] = {id=21932,name="Heavy Copper Ring",source={ID=26926,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33855] = {id=33855,name="Tarnished Silver Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34826] = {id=34826,name="Gold Wedding Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29296] = {id=29296,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32247] = {id=32247,name="Ring of Captured Storms",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="20.8",Zone="Black Temple"}}
+items[32261] = {id=32261,name="Band of the Abyssal Lord",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="18.7",Zone="Black Temple"}}
+items[24086] = {id=24086,name="Arcane Khorium Band",source={ID=31057,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27761] = {id=27761,name="Ring of the Shadow Deeps",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
+items[30825] = {id=30825,name="Ring of Arcane Shielding",source={ID=37855,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34625] = {id=34625,name="Kharmaa's Ring of Fate",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="12.1",Zone="Magisters' Terrace"}}
+items[31528] = {id=31528,name="Ring of the Stonebark",source={ID=10830,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[25926] = {id=25926,name="Nexus-Stalker's Band",source={ID=10112,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[31729] = {id=31729,name="Heirloom Signet of Valor",source={ID=10881,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[19905] = {id=19905,name="Zanzil's Band",source={ID=14507,SourceName="High Priest Venoxis",SourceType="Kill",DropChance="18.9",Zone="Zul'Gurub"}}
+items[13098] = {id=13098,name="Painweaver Band",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="22.5",Zone="Blackrock Spire"}}
+items[18522] = {id=18522,name="Band of the Ogre King",source={ID=11501,SourceName="King Gordok",SourceType="Kill",DropChance="23.6",Zone="Dire Maul"}}
+items[11979] = {id=11979,name="Peridot Circle",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="0.8",Zone="Stratholme"}}
+items[12001] = {id=12001,name="Onyx Ring",source={ID=8282,SourceName="Highlord Mastrogonde",SourceType="Kill",DropChance="0.7",Zone="Searing Gorge"}}
+items[11999] = {id=11999,name="Lodestone Hoop",source={ID=7797,SourceName="Ruuzlu",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
+items[19524] = {id=19524,name="Lorekeeper's Ring",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[15689] = {id=15689,name="Trader's Ring",source={ID=5821,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[9447] = {id=9447,name="Electrocutioner Lagnut",source={ID=6235,SourceName="Electrocutioner 6000",SourceType="Kill",DropChance="31.5",Zone="Gnomeregan"}}
+items[11994] = {id=11994,name="Coral Band",source={ID=4820,SourceName="Blindlight Oracle",SourceType="Kill",DropChance="0.2",Zone="Blackfathom Deeps"}}
+items[12996] = {id=12996,name="Band of Purification",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
+items[12985] = {id=12985,name="Ring of Defense",source={ID=1039,SourceName="Fen Dweller",SourceType="Kill",DropChance="0.1",Zone="Wetlands"}}
+items[29297] = {id=29297,name="Band of the Eternal Defender",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32266] = {id=32266,name="Ring of Deceitful Intent",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="22.2",Zone="Black Temple"}}
+items[29298] = {id=29298,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29307] = {id=29307,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33058] = {id=33058,name="Band of the Vigilant",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="31.1",Zone="Serpentshrine Cavern"}}
+items[25057] = {id=25057,name="Amber Band",source={ID=18634,SourceName="Cabal Summoner",SourceType="Kill",DropChance="25.0",Zone="Shadow Labyrinth"}}
+items[29320] = {id=29320,name="Band of the Guardian",source={ID=10298,SourceName="",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
+items[25779] = {id=25779,name="Warmaul Slayer's Band",source={ID=9948,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[23062] = {id=23062,name="Frostfire Ring",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="37.9",Zone="Naxxramas"}}
+items[25047] = {id=25047,name="Tourmaline Loop",source={ID=17478,SourceName="Bleeding Hollow Scryer",SourceType="Kill",DropChance="3.0",Zone="Hellfire Ramparts"}}
+items[21199] = {id=21199,name="Signet Ring of the Bronze Dragonflight",source={ID=8750,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[20624] = {id=20624,name="Ring of the Unliving",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="16.6",Zone="Duskwood"}}
+items[21208] = {id=21208,name="Signet Ring of the Bronze Dragonflight",source={ID=8759,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[11980] = {id=11980,name="Opal Ring",source={ID=12497,SourceName="Dreamroarer",SourceType="Kill",DropChance="1.0",Zone="Feralas"}}
+items[13345] = {id=13345,name="Seal of Rivendare",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="13.0",Zone="Stratholme"}}
+items[13096] = {id=13096,name="Band of the Hierophant",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[18345] = {id=18345,name="Murmuring Ring",source={ID=11467,SourceName="Tsu'zee",SourceType="Kill",DropChance="32.9",Zone="Dire Maul"}}
+items[18315] = {id=18315,name="Ring of Demonic Potency",source={ID=11492,SourceName="Alzzin the Wildshaper",SourceType="Kill",DropChance="18.8",Zone="Dire Maul"}}
+items[11978] = {id=11978,name="Jasper Link",source={ID=10680,SourceName="Summoned Blackhand Dreadweaver",SourceType="Kill",DropChance="3.8",Zone="Blackrock Spire"}}
+items[185982] = {id=185982,name="Communal Band of Dexterity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11989] = {id=11989,name="Vanadium Loop",source={ID=1494,SourceName="Negolash",SourceType="Kill",DropChance="0.3",Zone="Stranglethorn Vale"}}
+items[12012] = {id=12012,name="Marsh Ring",source={ID=4469,SourceName="Emerald Ooze",SourceType="Kill",DropChance="0.1",Zone="The Hinterlands"}}
+items[12052] = {id=12052,name="Ring of the Moon",source={ID=2478,SourceName="Haren Swifthoof",SourceType="Kill",DropChance="0.2",Zone="Loch Modan"}}
+items[1189] = {id=1189,name="Overseer's Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11981] = {id=11981,name="Lead Band",source={ID=16247,SourceName="Borgoth the Bloodletter",SourceType="Kill",DropChance="6.6",Zone="Ghostlands"}}
+items[20906] = {id=20906,name="Braided Copper Ring",source={ID=25493,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33500] = {id=33500,name="Signet of Eternal Life",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27805] = {id=27805,name="Ring of the Silver Hand",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="4.3",Zone="The Steamvault"}}
+items[29146] = {id=29146,name="Band of Elemental Spirits",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29277] = {id=29277,name="Violet Signet",source={ID=10736,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[32081] = {id=32081,name="Eye of the Stalker",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
+items[34073] = {id=34073,name="The Horseman's Signet Ring",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="30.1",Zone="Unknown"}}
+items[31925] = {id=31925,name="Fiery Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31929] = {id=31929,name="Enigmatic Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31943] = {id=31943,name="Ethereum Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31820] = {id=31820,name="Blessed Signet Ring",source={ID=10921,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[24074] = {id=24074,name="Fel Iron Blood Ring",source={ID=31048,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25046] = {id=25046,name="Spined Ring",source={ID=17961,SourceName="Coilfang Enchantress",SourceType="Kill",DropChance="8.3",Zone="The Slave Pens"}}
+items[25991] = {id=25991,name="Seamless Stone Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21620] = {id=21620,name="Ring of the Martyr",source={ID=15509,SourceName="Princess Huhuran",SourceType="Kill",DropChance="22.8",Zone="Ahn'Qiraj"}}
+items[18813] = {id=18813,name="Ring of Binding",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="34.9",Zone="Unknown"}}
+items[21836] = {id=21836,name="Ritssyn's Ring of Chaos",source={ID=15229,SourceName="Vekniss Soldier",SourceType="Kill",DropChance="0.5",Zone="Ahn'Qiraj"}}
+items[21179] = {id=21179,name="Band of Earthen Wrath",source={ID=8548,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[18464] = {id=18464,name="Gordok Nose Ring",source={ID=14321,SourceName="Guard Fengus",SourceType="Kill",DropChance="12.6",Zone="Dire Maul"}}
+items[18701] = {id=18701,name="Innervating Band",source={ID=10433,SourceName="Marduk Blackpool",SourceType="Kill",DropChance="0",Zone="Scholomance"}}
+items[22255] = {id=22255,name="Magma Forged Band",source={ID=161495,SourceName="Secret Safe",SourceType="Container",DropChance="19.5",Zone="Blackrock Depths"}}
+items[12014] = {id=12014,name="Arctic Ring",source={ID=6501,SourceName="Stegodon",SourceType="Kill",DropChance="0.4",Zone="Un'Goro Crater"}}
+items[11975] = {id=11975,name="Topaz Ring",source={ID=8497,SourceName="Nightmare Suppressor",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
+items[7339] = {id=7339,name="Miniscule Diamond Ring",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[11972] = {id=11972,name="Carnelian Loop",source={ID=2420,SourceName="Targ",SourceType="Kill",DropChance="0.2",Zone="Alterac Mountains"}}
+items[1996] = {id=1996,name="Voodoo Band",source={ID=660,SourceName="Bloodscalp Witch Doctor",SourceType="Kill",DropChance="0.8",Zone="Stranglethorn Vale"}}
+items[5007] = {id=5007,name="Band of Thorns",source={ID=4427,SourceName="Ward Guardian",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[11969] = {id=11969,name="Jacinth Circle",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="1.8",Zone="Stonetalon Mountains"}}
+items[12008] = {id=12008,name="Savannah Ring",source={ID=14278,SourceName="Ro'Bark",SourceType="Kill",DropChance="0.3",Zone="Hillsbrad Foothills"}}
+items[29303] = {id=29303,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34094] = {id=34094,name="Indalamar's Ring of 200 Attack Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29291] = {id=29291,name="Violet Signet",source={ID=10739,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[27869] = {id=27869,name="Soulpriest's Ring of Resolve",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="7.5",Zone="Auchenai Crypts"}}
+items[28394] = {id=28394,name="Ryngo's Band of Ingenuity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29321] = {id=29321,name="Time-bending Gem",source={ID=10298,SourceName="",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
+items[31746] = {id=31746,name="Phoenix-fire Band",source={ID=10888,SourceName="",SourceType="Quest",DropChance="0",Zone="Magtheridon's Lair"}}
+items[32514] = {id=32514,name="Skettis Band",source={ID=23161,SourceName="Darkscreecher Akkarai",SourceType="Kill",DropChance="23.6",Zone="Unknown"}}
+items[24085] = {id=24085,name="Khorium Band of Leaves",source={ID=31056,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31381] = {id=31381,name="Aggressor's Mark of the Sha'tar",source={ID=10781,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31791] = {id=31791,name="Wildlord's Band",source={ID=10821,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[32941] = {id=32941,name="Corruptor's Signet",source={ID=23230,SourceName="Shartuul",SourceType="Kill",DropChance="16.3",Zone="Unknown"}}
+items[27413] = {id=27413,name="Ring of the Exarchs",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="14.2",Zone="Auchenai Crypts"}}
+items[23028] = {id=23028,name="Hailstone Band",source={ID=15954,SourceName="Noth the Plaguebringer",SourceType="Kill",DropChance="26.7",Zone="Naxxramas"}}
+items[25044] = {id=25044,name="Rubellite Ring",source={ID=17270,SourceName="Bleeding Hollow Archer",SourceType="Kill",DropChance="3.1",Zone="Hellfire Ramparts"}}
+items[19434] = {id=19434,name="Band of Dark Dominion",source={ID=12461,SourceName="Death Talon Overseer",SourceType="Kill",DropChance="5.5",Zone="Blackwing Lair"}}
+items[22722] = {id=22722,name="Seal of the Gurubashi Berserker",source={ID=14510,SourceName="High Priestess Mar'li",SourceType="Kill",DropChance="9.8",Zone="Zul'Gurub"}}
+items[12058] = {id=12058,name="Demonic Bone Ring",source={ID=5314,SourceName="Phantim",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
+items[13217] = {id=13217,name="Band of the Penitent",source={ID=5243,SourceName="",SourceType="Quest",DropChance="0",Zone="Stratholme"}}
+items[12004] = {id=12004,name="Obsidian Band",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.2",Zone="Winterspring"}}
+items[18302] = {id=18302,name="Band of Vigor",source={ID=14327,SourceName="Lethtendris",SourceType="Kill",DropChance="28.8",Zone="Dire Maul"}}
+items[11990] = {id=11990,name="Selenium Loop",source={ID=7046,SourceName="Searscale Drake",SourceType="Kill",DropChance="0.2",Zone="Burning Steppes"}}
+items[11988] = {id=11988,name="Tellurium Band",source={ID=10120,SourceName="Vault Warder",SourceType="Kill",DropChance="2.0",Zone="Uldaman"}}
+items[7552] = {id=7552,name="Falcon's Hook",source={ID=14445,SourceName="Lord Captain Wyrmak",SourceType="Kill",DropChance="0.4",Zone="Swamp of Sorrows"}}
+items[11998] = {id=11998,name="Jet Loop",source={ID=14234,SourceName="Hayoc",SourceType="Kill",DropChance="0.4",Zone="Dustwallow Marsh"}}
+items[11986] = {id=11986,name="Thallium Hoop",source={ID=2753,SourceName="Barnabus",SourceType="Kill",DropChance="0.9",Zone="Badlands"}}
+items[12010] = {id=12010,name="Fen Ring",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="0.6",Zone="Uldaman"}}
+items[5009] = {id=5009,name="Mindbender Loop",source={ID=8479,SourceName="Kalaran Windblade",SourceType="Kill",DropChance="1.5",Zone="Searing Gorge"}}
+items[9622] = {id=9622,name="Reedknot Ring",source={ID=1203,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[7342] = {id=7342,name="Silver Piffeny Band",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[11984] = {id=11984,name="Cobalt Ring",source={ID=17108,SourceName="Forsaken Raider",SourceType="Kill",DropChance="1.4",Zone="Hillsbrad Foothills"}}
+items[4999] = {id=4999,name="Azora's Will",source={ID=5859,SourceName="Hagg Taurenbane",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
+items[1462] = {id=1462,name="Ring of the Shadow",source={ID=429,SourceName="Shadowhide Darkweaver",SourceType="Kill",DropChance="2.4",Zone="Redridge Mountains"}}
+items[6199] = {id=6199,name="Black Widow Band",source={ID=1112,SourceName="Leech Widow",SourceType="Kill",DropChance="26.5",Zone="Wetlands"}}
+items[20439] = {id=20439,name="Protector's Band",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[11993] = {id=11993,name="Clay Ring",source={ID=7053,SourceName="Klaven Mortwake",SourceType="Kill",DropChance="1.6",Zone="Westfall"}}
+items[38091] = {id=38091,name="Gold Eternium Band",source={ID=18756,SourceName="Haris Pilton",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35130] = {id=35130,name="Guardian's Band of Salvation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35131] = {id=35131,name="Guardian's Band of Triumph",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37927] = {id=37927,name="Guardian's Band of Subjugation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29302] = {id=29302,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25056] = {id=25056,name="Almandine Ring",source={ID=17721,SourceName="Coilfang Engineer",SourceType="Kill",DropChance="33.3",Zone="The Steamvault"}}
+items[27740] = {id=27740,name="Band of Ursol",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="11.3",Zone="The Slave Pens"}}
+items[27784] = {id=27784,name="Scintillating Coral Band",source={ID=17797,SourceName="Hydromancer Thespia",SourceType="Kill",DropChance="29.3",Zone="The Steamvault"}}
+items[34074] = {id=34074,name="Witches Band",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="28.2",Zone="Unknown"}}
+items[24087] = {id=24087,name="Heavy Felsteel Ring",source={ID=31058,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31927] = {id=31927,name="Living Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25988] = {id=25988,name="Glowing Alabaster Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21707] = {id=21707,name="Ring of Swarming Thought",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="23.2",Zone="Ahn'Qiraj"}}
+items[12017] = {id=12017,name="Prismatic Band",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="6.5",Zone="Azshara"}}
+items[18760] = {id=18760,name="Necromantic Band",source={ID=14516,SourceName="Death Knight Darkreaver",SourceType="Kill",DropChance="24.8",Zone="Scholomance"}}
+items[13283] = {id=13283,name="Magus Ring",source={ID=9217,SourceName="Spirestone Lord Magus",SourceType="Kill",DropChance="46.4",Zone="Blackrock Spire"}}
+items[18402] = {id=18402,name="Glowing Crystal Ring",source={ID=6845,SourceName="",SourceType="Quest",DropChance="0",Zone="Moonglade"}}
+items[12056] = {id=12056,name="Ring of the Heavens",source={ID=9442,SourceName="Dark Keeper Ofgut",SourceType="Kill",DropChance="0.3",Zone="Blackrock Depths"}}
+items[12055] = {id=12055,name="Stardust Band",source={ID=6649,SourceName="Lady Sesspira",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[12013] = {id=12013,name="Desert Ring",source={ID=6187,SourceName="Timbermaw Den Watcher",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
+items[7547] = {id=7547,name="Onyx Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12011] = {id=12011,name="Forest Hoop",source={ID=4329,SourceName="Firemane Scout",SourceType="Kill",DropChance="0.6",Zone="Dustwallow Marsh"}}
+items[5010] = {id=5010,name="Inscribed Gold Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5011] = {id=5011,name="Welken Ring",source={ID=23786,SourceName="Stonemaul Spirit",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[11997] = {id=11997,name="Greenstone Circle",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.8",Zone="Dustwallow Marsh"}}
+items[1993] = {id=1993,name="Ogremind Ring",source={ID=2570,SourceName="Boulderfist Shaman",SourceType="Kill",DropChance="2.8",Zone="Arathi Highlands"}}
+items[5008] = {id=5008,name="Quicksilver Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11985] = {id=11985,name="Cerulean Ring",source={ID=14221,SourceName="Gravis Slipknot",SourceType="Kill",DropChance="0.7",Zone="Alterac Mountains"}}
+items[6749] = {id=6749,name="Tiger Band",source={ID=1144,SourceName="",SourceType="Quest",DropChance="0",Zone="Razorfen Kraul"}}
+items[13097] = {id=13097,name="Thunderbrow Ring",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="37.7",Zone="The Barrens"}}
+items[11995] = {id=11995,name="Ivory Band",source={ID=5851,SourceName="Captain Gerogg Hammertoe",SourceType="Kill",DropChance="1.1",Zone="The Barrens"}}
+items[5000] = {id=5000,name="Coral Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1491] = {id=1491,name="Ring of Precision",source={ID=4799,SourceName="Fallenroot Hellcaller",SourceType="Kill",DropChance="0",Zone="Blackfathom Deeps"}}
+items[12053] = {id=12053,name="Volcanic Rock Ring",source={ID=16248,SourceName="Jurion the Deceiver",SourceType="Kill",DropChance="5.1",Zone="Ghostlands"}}
+items[32238] = {id=32238,name="Ring of Calming Waves",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="18.7",Zone="Black Temple"}}
+items[35320] = {id=35320,name="Vindicator's Band of Subjugation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24535] = {id=24535,name="130 Epic Warrior Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33995] = {id=33995,name="Indalamar's Ring of Healer Ownage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34551] = {id=34551,name="Indalamar's Ring of 80 mp5",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27460] = {id=27460,name="Reavers' Ring",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
+items[29145] = {id=29145,name="Band of Ancestral Spirits",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34704] = {id=34704,name="Band of Arcane Alacrity",source={ID=24744,SourceName="Vexallus",SourceType="Kill",DropChance="19.0",Zone="Magisters' Terrace"}}
+items[34706] = {id=34706,name="Band of Determination",source={ID=24744,SourceName="Vexallus",SourceType="Kill",DropChance="17.8",Zone="Magisters' Terrace"}}
+items[24079] = {id=24079,name="Khorium Band of Shadows",source={ID=31053,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31382] = {id=31382,name="Mage's Mark of the Sha'tar",source={ID=10781,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31928] = {id=31928,name="Dark Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31526] = {id=31526,name="Raven's Wood Exorciser's Band",source={ID=10830,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[25052] = {id=25052,name="Hauyne Ring",source={ID=21386,SourceName="Dark Conclave Hawkeye",SourceType="Kill",DropChance="7.1",Zone="Shadowmoon Valley"}}
+items[25050] = {id=25050,name="Moldavite Ring",source={ID=18497,SourceName="Auchenai Monk",SourceType="Kill",DropChance="12.5",Zone="Auchenai Crypts"}}
+items[31730] = {id=31730,name="Heirloom Signet of Convalescence",source={ID=10881,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[25049] = {id=25049,name="Scheelite Ring",source={ID=18495,SourceName="Auchenai Vindicator",SourceType="Kill",DropChance="20.0",Zone="Auchenai Crypts"}}
+items[23060] = {id=23060,name="Bonescythe Ring",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="56.1",Zone="Naxxramas"}}
+items[20794] = {id=20794,name="90 green shaman ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28044] = {id=28044,name="Band of the Demon Stalker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25045] = {id=25045,name="Azurite Ring",source={ID=17271,SourceName="Bonechewer Destroyer",SourceType="Kill",DropChance="3.1",Zone="Hellfire Ramparts"}}
+items[21687] = {id=21687,name="Ukko's Ring of Darkness",source={ID=15543,SourceName="Princess Yauj",SourceType="Kill",DropChance="31.1",Zone="Ahn'Qiraj"}}
+items[19397] = {id=19397,name="Ring of Blackrock",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="13.5",Zone="Blackwing Lair"}}
+items[20632] = {id=20632,name="Mindtear Band",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="16.5",Zone="Duskwood"}}
+items[21207] = {id=21207,name="Signet Ring of the Bronze Dragonflight",source={ID=8758,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[17000] = {id=17000,name="Band of the Wraith",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18395] = {id=18395,name="Emerald Flame Ring",source={ID=11486,SourceName="Prince Tortheldrin",SourceType="Kill",DropChance="23.9",Zone="Dire Maul"}}
+items[18684] = {id=18684,name="Dimly Opalescent Ring",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="7.9",Zone="Scholomance"}}
+items[185981] = {id=185981,name="Communal Band of Onslaught",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13095] = {id=13095,name="Assault Band",source={ID=7805,SourceName="Wastewander Scofflaw",SourceType="Kill",DropChance="0.2",Zone="Tanaris"}}
+items[7466] = {id=7466,name="Vermilion Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19513] = {id=19513,name="Legionnaire's Band",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[35129] = {id=35129,name="Guardian's Band of Dominance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33988] = {id=33988,name="Indalamar's Ring of 200 Haste",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33997] = {id=33997,name="Indalamar's Ring of 400 Attack Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33998] = {id=33998,name="Indalamar's Ring of 1400 Armor Penetration",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33293] = {id=33293,name="Signet of Ancient Magics",source={ID=23574,SourceName="Akil'zon",SourceType="Kill",DropChance="12.6",Zone="Unknown"}}
+items[27904] = {id=27904,name="Resounding Ring of Glory",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="24.1",Zone="Old Hillsbrad Foothills"}}
+items[32779] = {id=32779,name="Band of Frigid Elements",source={ID=23035,SourceName="Anzu",SourceType="Kill",DropChance="18.2",Zone="Sethekk Halls"}}
+items[27996] = {id=27996,name="Ring of Spiritual Precision",source={ID=17879,SourceName="Chrono Lord Deja",SourceType="Kill",DropChance="12.6",Zone="The Black Morass"}}
+items[31076] = {id=31076,name="Spellsword's Mark of the Redemption",source={ID=10769,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31380] = {id=31380,name="Acrobat's Mark of the Sha'tar",source={ID=10781,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[25053] = {id=25053,name="Lazuli Ring",source={ID=17129,SourceName="Greater Windroc",SourceType="Kill",DropChance="11.1",Zone="Nagrand"}}
+items[31523] = {id=31523,name="Treebole's Hoop",source={ID=10830,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[25051] = {id=25051,name="Blue Topaz Band",source={ID=17860,SourceName="Durnholde Veteran",SourceType="Kill",DropChance="33.3",Zone="Unknown"}}
+items[25542] = {id=25542,name="Lucky Circle of the Fool",source={ID=9951,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[23064] = {id=23064,name="Ring of the Dreamwalker",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="24.7",Zone="Naxxramas"}}
+items[27832] = {id=27832,name="Band of the Victor",source={ID=18267,SourceName="Battlecryer Blackeye",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[27834] = {id=27834,name="Circlet of the Victor",source={ID=18266,SourceName="Warrant Officer Tracy Proudwell",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[19893] = {id=19893,name="Zanzil's Seal",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="18.0",Zone="Zul'Gurub"}}
+items[19920] = {id=19920,name="Primalist's Band",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="19.6",Zone="Zul'Gurub"}}
+items[18879] = {id=18879,name="Heavy Dark Iron Ring",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="6.9",Zone="Molten Core"}}
+items[21197] = {id=21197,name="Signet Ring of the Bronze Dragonflight",source={ID=8748,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[20783] = {id=20783,name="63 green shaman ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13392] = {id=13392,name="The Postmaster's Seal",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="21.0",Zone="Stratholme"}}
+items[13812] = {id=13812,name="Ring of the Dawn",source={ID=5532,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[22257] = {id=22257,name="Bloodclot Band",source={ID=9027,SourceName="Gorosh the Dervish",SourceType="Kill",DropChance="21.4",Zone="Blackrock Depths"}}
+items[185983] = {id=185983,name="Communal Band of Wisdom",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4549] = {id=4549,name="Seafire Band",source={ID=667,SourceName="",SourceType="Quest",DropChance="0",Zone="Arathi Highlands"}}
+items[5743] = {id=5743,name="Prismstone Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7497] = {id=7497,name="Ivory Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2951] = {id=2951,name="Ring of the Underwood",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
+items[7426] = {id=7426,name="Cerulean Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1076] = {id=1076,name="Defias Renegade Ring",source={ID=1706,SourceName="Defias Prisoner",SourceType="Kill",DropChance="1.0",Zone="The Stockade"}}
+items[21931] = {id=21931,name="Woven Copper Ring",source={ID=26925,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33918] = {id=33918,name="Vindicator's Band of Salvation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33919] = {id=33919,name="Vindicator's Band of Triumph",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34890] = {id=34890,name="Anveena's Touch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35282] = {id=35282,name="Sin'dorei Band of Dominance",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="61.4",Zone="Sunwell Plateau"}}
+items[28327] = {id=28327,name="Arcane Netherband",source={ID=17978,SourceName="Thorngrin the Tender",SourceType="Kill",DropChance="17.7",Zone="The Botanica"}}
+items[34712] = {id=34712,name="Prismatic Signet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25055] = {id=25055,name="Alexandrite Ring",source={ID=16415,SourceName="Skeletal Waiter",SourceType="Kill",DropChance="11.1",Zone="Karazhan"}}
+items[31921] = {id=31921,name="Yor's Collapsing Band",source={ID=22930,SourceName="Yor",SourceType="Kill",DropChance="1.8",Zone="Mana-Tombs"}}
+items[24075] = {id=24075,name="Golden Draenite Ring",source={ID=31049,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27830] = {id=27830,name="Circlet of the Victor",source={ID=18267,SourceName="Battlecryer Blackeye",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[21066] = {id=21066,name="66 Epic Fire Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21094] = {id=21094,name="66 Epic Shadow Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20721] = {id=20721,name="Band of the Cultist",source={ID=20602,SourceName="Chest of Spoils",SourceType="Container",DropChance="2.8",Zone="Unknown"}}
+items[21053] = {id=21053,name="63 Blue Fire Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22326] = {id=22326,name="Amalgam's Band",source={ID=16118,SourceName="Kormok",SourceType="Kill",DropChance="11.7",Zone="Scholomance"}}
+items[18679] = {id=18679,name="Frigid Ring",source={ID=14457,SourceName="Princess Tempestria",SourceType="Kill",DropChance="57.9",Zone="Winterspring"}}
+items[19511] = {id=19511,name="Legionnaire's Band",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[9642] = {id=9642,name="Band of the Great Tortoise",source={ID=1560,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[11973] = {id=11973,name="Hematite Link",source={ID=2780,SourceName="Caretaker Nevlin",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
+items[19512] = {id=19512,name="Legionnaire's Band",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[33262] = {id=33262,name="Morlann's Seal",source={ID=11156,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[19525] = {id=19525,name="Lorekeeper's Ring",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[13094] = {id=13094,name="The Queen's Jewel",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="5.6",Zone="The Barrens"}}
+items[35284] = {id=35284,name="Sin'dorei Band of Triumph",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="66.9",Zone="Sunwell Plateau"}}
+items[29299] = {id=29299,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33986] = {id=33986,name="Indalamar's Ring of 200 Crit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33987] = {id=33987,name="Indalamar's Ring of 200 Spell Crit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33996] = {id=33996,name="Indalamar's Ring of 234 Spell Damage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34550] = {id=34550,name="Indalamar's Ring of 200 Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29294] = {id=29294,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31399] = {id=31399,name="The Natural Ward",source={ID=38504,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33958] = {id=33958,name="The Horseman's Signet Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33097] = {id=33097,name="Mushroom Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33193] = {id=33193,name="Mossy Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33194] = {id=33194,name="Ancient Ceremonial Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33195] = {id=33195,name="Cracked Stone Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33196] = {id=33196,name="Softly-Glowing Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21081] = {id=21081,name="63 Blue Shadow Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13373] = {id=13373,name="Band of Flesh",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="11.8",Zone="Stratholme"}}
+items[18314] = {id=18314,name="Ring of Demonic Guile",source={ID=11492,SourceName="Alzzin the Wildshaper",SourceType="Kill",DropChance="19.0",Zone="Dire Maul"}}
+items[18400] = {id=18400,name="Ring of Living Stone",source={ID=6845,SourceName="",SourceType="Quest",DropChance="0",Zone="Moonglade"}}
+items[185984] = {id=185984,name="Communal Band of Durability",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11974] = {id=11974,name="Aquamarine Ring",source={ID=2447,SourceName="Narillasanz",SourceType="Kill",DropChance="0.2",Zone="Alterac Mountains"}}
+items[6748] = {id=6748,name="Monkey Ring",source={ID=1144,SourceName="",SourceType="Quest",DropChance="0",Zone="Razorfen Kraul"}}
+items[10298] = {id=10298,name="Gnomeregan Band",source={ID=9363,SourceName="Sparklematic-Wrapped Box",SourceType="Container",DropChance="1.6",Zone="Unknown"}}
+items[12007] = {id=12007,name="Prairie Ring",source={ID=14357,SourceName="Lake Thresher",SourceType="Kill",DropChance="0.9",Zone="Redridge Mountains"}}
+items[12054] = {id=12054,name="Demon Band",source={ID=5800,SourceName="Marcus Bel",SourceType="Kill",DropChance="0.8",Zone="The Barrens"}}
+items[33989] = {id=33989,name="Indalamar's Ring of 200 Spell Haste",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34095] = {id=34095,name="Indalamar's Ring of 100 Hit Rating",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33957] = {id=33957,name="Witches Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33959] = {id=33959,name="Ring of Ghoulish Delight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34075] = {id=34075,name="Ring of Ghoulish Delight",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="30.6",Zone="Unknown"}}
+items[31203] = {id=31203,name="Arcane Loop",source={ID=18698,SourceName="Ever-Core the Punisher",SourceType="Kill",DropChance="95.5",Zone="Unknown"}}
+items[23063] = {id=23063,name="Plagueheart Ring",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="28.6",Zone="Naxxramas"}}
+items[18674] = {id=18674,name="Hardened Stone Band",source={ID=14464,SourceName="Avalanchion",SourceType="Kill",DropChance="57.3",Zone="Azshara"}}
+items[4550] = {id=4550,name="Coldwater Ring",source={ID=667,SourceName="",SourceType="Quest",DropChance="0",Zone="Arathi Highlands"}}
+items[31850] = {id=31850,name="QATest +500 Defense Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31851] = {id=31851,name="QATest +150 Defense Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29295] = {id=29295,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29306] = {id=29306,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29300] = {id=29300,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27491] = {id=27491,name="Signet of Repose",source={ID=17380,SourceName="Broggok",SourceType="Kill",DropChance="19.3",Zone="The Blood Furnace"}}
+items[25054] = {id=25054,name="Sodalite Band",source={ID=16507,SourceName="Shattered Hand Sentry",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
+items[31926] = {id=31926,name="Frigid Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31728] = {id=31728,name="Heirloom Signet of Willpower",source={ID=10881,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[25990] = {id=25990,name="Smooth Soapstone Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21677] = {id=21677,name="Ring of the Qiraji Fury",source={ID=15299,SourceName="Viscidus",SourceType="Kill",DropChance="25.0",Zone="Ahn'Qiraj"}}
+items[12015] = {id=12015,name="Swamp Ring",source={ID=9218,SourceName="Spirestone Battle Lord",SourceType="Kill",DropChance="0.2",Zone="Blackrock Spire"}}
+items[10780] = {id=10780,name="Mark of Hakkar",source={ID=10773,SourceName="Hakkari Urn",SourceType="Container",DropChance="97.9",Zone="Unknown"}}
+items[5266] = {id=5266,name="Eye of Adaegus",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[20006] = {id=20006,name="Circle of Hope",source={ID=8257,SourceName="",SourceType="Quest",DropChance="0",Zone="Priest"}}
+items[7340] = {id=7340,name="Flawless Diamond Solitaire",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[11987] = {id=11987,name="Iridium Circle",source={ID=5327,SourceName="Coast Crawl Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
+items[11982] = {id=11982,name="Viridian Band",source={ID=645,SourceName="Cookie",SourceType="Kill",DropChance="5.8",Zone="The Deadmines"}}
+items[38090] = {id=38090,name="Sapphire Pinky Ring",source={ID=18756,SourceName="Haris Pilton",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29304] = {id=29304,name="Band of Eternity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24080] = {id=24080,name="Khorium Band of Frost",source={ID=31054,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24082] = {id=24082,name="Khorium Inferno Band",source={ID=31055,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27895] = {id=27895,name="Band of Many Prisms",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="33.3",Zone="Hellfire Ramparts"}}
+items[29289] = {id=29289,name="Violet Signet",source={ID=10734,SourceName="",SourceType="Quest",DropChance="0",Zone="Karazhan Raid"}}
+items[25963] = {id=25963,name="Kokorek's Signet",source={ID=10874,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[23037] = {id=23037,name="Ring of Spiritual Fervor",source={ID=16011,SourceName="Loatheb",SourceType="Kill",DropChance="31.0",Zone="Naxxramas"}}
+items[21483] = {id=21483,name="Ring of the Desert Winds",source={ID=15369,SourceName="Ayamiss the Hunter",SourceType="Kill",DropChance="30.9",Zone="Ruins of Ahn'Qiraj"}}
+items[4988] = {id=4988,name="Burning Obsidian Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33263] = {id=33263,name="Raptor Eye Ring",source={ID=11184,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[33853] = {id=33853,name="Vindicator's Band of Dominance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27523] = {id=27523,name="Exarch's Diamond Band",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="7.4",Zone="Auchenai Crypts"}}
+items[29793] = {id=29793,name="Signet of the Violet Tower",source={ID=10223,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31258] = {id=31258,name="Band of Sorrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25048] = {id=25048,name="Smoky Quartz Ring",source={ID=17624,SourceName="Laughing Skull Warden",SourceType="Kill",DropChance="14.2",Zone="The Blood Furnace"}}
+items[27833] = {id=27833,name="Band of the Victor",source={ID=18266,SourceName="Warrant Officer Tracy Proudwell",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[19138] = {id=19138,name="Band of Sulfuras",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="30.7",Zone="Molten Core"}}
+items[21681] = {id=21681,name="Ring of the Devoured",source={ID=15511,SourceName="Lord Kri",SourceType="Kill",DropChance="26.0",Zone="Ahn'Qiraj"}}
+items[18398] = {id=18398,name="Tidal Loop",source={ID=7486,SourceName="",SourceType="Quest",DropChance="0",Zone="Azshara"}}
+items[11991] = {id=11991,name="Quicksilver Ring",source={ID=7070,SourceName="Condemned Cleric",SourceType="Kill",DropChance="1.0",Zone="Hillsbrad Foothills"}}
+items[13475] = {id=13475,name="Dalson Family Wedding Ring",source={ID=5060,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[11970] = {id=11970,name="Spinel Ring",source={ID=2304,SourceName="Captain Ironhill",SourceType="Kill",DropChance="0.1",Zone="Hillsbrad Foothills"}}
+items[6750] = {id=6750,name="Snake Hoop",source={ID=1144,SourceName="",SourceType="Quest",DropChance="0",Zone="Razorfen Kraul"}}
+items[1077] = {id=1077,name="Defias Mage Ring",source={ID=910,SourceName="Defias Enchanter",SourceType="Kill",DropChance="0.7",Zone="Duskwood"}}
+items[30339] = {id=30339,name="Protectorate Assassin's Ring",source={ID=10413,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31238] = {id=31238,name="Dragonbone Ring",source={ID=18689,SourceName="Crippler",SourceType="Kill",DropChance="100.0",Zone="Terokkar Forest"}}
+items[19516] = {id=19516,name="Protector's Band",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[28816] = {id=28816,name="QATest +400 Spell Dmg Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 
 -- Name Data

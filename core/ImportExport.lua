@@ -10,9 +10,7 @@ end
 
 
 local function CheckIfSlotContainsData(slot)
-    if (slot == nil or type(slot.ID) ~= "number" or type(slot.Obtain) ~= "table" or type(slot.Obtain.NpcID) ~= "number" or type(slot.Obtain.NpcName) ~= "string" or type(slot.Obtain.Kill) ~= "boolean"
-    or type(slot.Obtain.Quest) ~= "boolean" or type(slot.Obtain.QuestID) ~= "number" or type(slot.Obtain.Recipe) ~= "boolean" or type(slot.Obtain.RecipeID) ~= "number"
-    or (type(slot.Obtain.DropChance) ~= "number" and type(slot.Obtain.DropChance) ~= "string") or type(slot.Obtain.Zone) ~= "string") then
+    if (slot == nil or type(slot.id) ~= "number" or type(slot.name) ~= "string" or type(slot.source) ~= "table" or type(slot.source.ID) ~= "number" or type(slot.source.SourceName) ~= "string" or type(slot.source.SourceType) ~= "string" or type(slot.source.DropChance) ~= "string" or type(slot.source.Zone) ~= "string") then
         return false
     end
     return true
@@ -191,10 +189,14 @@ local function DrawImportTab(container)
     importPremadeSetBtn:SetCallback("OnClick", function()
         local set = {}
         set.Name = selectedSetName;
+        set.Slots = {}
         if (setNameEdit:GetText() ~= "") then
             set.Name = setNameEdit:GetText()
         end
-        set.Slots = BiSData[selectedClass][selectedSetName]
+
+        for key, value in pairs(BiSData[selectedClass][selectedSetName]) do
+            set.Slots[key] = BiSTracker.ItemDB:GetItemWithID(value) or BiSTracker.Item:New(0, "", 0, "", "Kill", "0", "")
+        end
 
         BiSTracker.Settings.CustomSets[set.Name] = set
         BiSTracker.ClassSetList["Custom"][set.Name] = set.Name

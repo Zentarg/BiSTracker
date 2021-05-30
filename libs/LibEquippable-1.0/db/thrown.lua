@@ -10,75 +10,75 @@ local names = {}
 
 
 -- Item Data
-items[29203] = {id=29203,name="Enchanted Thorium Blades",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34982,DropChance=0,Zone=""}}
-items[28826] = {id=28826,name="Shuriken of Negation",obtain={NpcID=19044,NpcName="Gruul the Dragonkiller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Gruul's Lair"}}
-items[29584] = {id=29584,name="Throat Piercers",obtain={NpcID=16268,NpcName="Eralan (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ghostlands"}}
-items[28659] = {id=28659,name="Xavian Stiletto",obtain={NpcID=15688,NpcName="Terestian Illhoof",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Karazhan"}}
-items[29204] = {id=29204,name="Felsteel Whisper Knives",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34983,DropChance=0,Zone=""}}
-items[34622] = {id=34622,name="Spinesever",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27916] = {id=27916,name="Sethekk Feather-Darts",obtain={NpcID=18472,NpcName="Darkweaver Syth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Sethekk Halls"}}
-items[28972] = {id=28972,name="Flightblade Throwing Axe",obtain={NpcID=9237,NpcName="War Master Voone",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.3,Zone="Blackrock Spire"}}
-items[30227] = {id=30227,name="Mark V's Throwing Star",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10191,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[28319] = {id=28319,name="Gladiator's War Edge",obtain={NpcID=20278,NpcName="Vixton Pinchwhistle (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Netherstorm"}}
-items[29211] = {id=29211,name="Fitz's Throwing Axe",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9852,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[29201] = {id=29201,name="Thick Bronze Darts",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34979,DropChance=0,Zone=""}}
-items[30025] = {id=30025,name="Serpentshrine Shuriken",obtain={NpcID=21218,NpcName="Vashj'ir Honor Guard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Unknown"}}
-items[29210] = {id=29210,name="Assassin's Throwing Axe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32326] = {id=32326,name="Twisted Blades of Zarak",obtain={NpcID=21867,NpcName="Teron Gorefiend",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.6,Zone="Unknown"}}
-items[32378] = {id=32378,name="Silver Star",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1370,Recipe=false,RecipeID=0,DropChance=0,Zone="Desolace"}}
-items[34349] = {id=34349,name="Blade of Life's Inevitability",obtain={NpcID=25483,NpcName="Shadowsword Manafiend",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Unknown"}}
-items[25873] = {id=25873,name="Keen Throwing Knife",obtain={NpcID=227,NpcName="Mabel Solaj (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[27928] = {id=27928,name="Terminal Edge",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25871] = {id=25871,name="Standard Thrown Weapon",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32832] = {id=32832,name="Scout's Throwing Knives",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11073,Recipe=false,RecipeID=0,DropChance=0,Zone="Skettis"}}
-items[35108] = {id=35108,name="Brutal Gladiator's War Edge",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25877] = {id=25877,name="Master's Throwing Dagger",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25878] = {id=25878,name="Dusksteel Throwing Knife",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8249,Recipe=false,RecipeID=0,DropChance=0,Zone="Rogue"}}
-items[32054] = {id=32054,name="Merciless Gladiator's War Edge",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30568] = {id=30568,name="The Sharp Cookie",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27929] = {id=27929,name="Terminal Edge",obtain={NpcID=18581,NpcName="Alliance Field Scout (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[186069] = {id=186069,name="Communal Knives",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25875] = {id=25875,name="Deadly Throwing Axe",obtain={NpcID=227,NpcName="Mabel Solaj (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[28533] = {id=28533,name="Wooden Boomerang",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28979] = {id=28979,name="Light Throwing Knife",obtain={NpcID=151,NpcName="Brog Hamfist (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[28544] = {id=28544,name="Assassin's Shuriken",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29010] = {id=29010,name="Wicked Throwing Dagger",obtain={NpcID=734,NpcName="Corporal Bluth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[33765] = {id=33765,name="Vengeful Gladiator's War Edge",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28258] = {id=28258,name="Nethershrike",obtain={NpcID=19221,NpcName="Nethermancer Sepethrea",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.7,Zone="The Mechanar"}}
-items[29202] = {id=29202,name="Whirling Steel Axes",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=34981,DropChance=0,Zone=""}}
-items[28541] = {id=28541,name="Sawshrike",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25872] = {id=25872,name="Balanced Throwing Dagger",obtain={NpcID=151,NpcName="Brog Hamfist (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[28543] = {id=28543,name="Dreghood Throwing Axe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28540] = {id=28540,name="Arakkoa Talon-Axe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28537] = {id=28537,name="Wildhammer Throwing Axe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28534] = {id=28534,name="Fel Tipped Dart",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25876] = {id=25876,name="Gleaming Throwing Axe",obtain={NpcID=734,NpcName="Corporal Bluth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[25874] = {id=25874,name="Large Throwing Knife",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[5856] = {id=5856,name="Monster - Throwing Axe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[5870] = {id=5870,name="Monster - Throwing Spear",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6088] = {id=6088,name="Monster - Torch, Ranged",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6886] = {id=6886,name="Monster - Throwing Knife",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34783] = {id=34783,name="Nightstrike",obtain={NpcID=24560,NpcName="Priestess Delrissa",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Magisters' Terrace"}}
-items[28542] = {id=28542,name="Heartseeker Knives",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30599] = {id=30599,name="Avenging Blades",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28538] = {id=28538,name="Forked Shuriken",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28536] = {id=28536,name="Jagged Guillotine",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28535] = {id=28535,name="Amani Throwing Axe",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28532] = {id=28532,name="Silver Throwing Knifes",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29014] = {id=29014,name="Blacksteel Throwing Dagger",obtain={NpcID=734,NpcName="Corporal Bluth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[25861] = {id=25861,name="Crude Throwing Axe",obtain={NpcID=151,NpcName="Brog Hamfist (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[27631] = {id=27631,name="Needle Shrike",obtain={NpcID=17770,NpcName="Hungarfen",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="The Underbog"}}
-items[29009] = {id=29009,name="Heavy Throwing Dagger",obtain={NpcID=227,NpcName="Mabel Solaj (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[28023] = {id=28023,name="Monster - Throwing Axe (Poison)",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29007] = {id=29007,name="Weighted Throwing Axe",obtain={NpcID=151,NpcName="Brog Hamfist (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[31497] = {id=31497,name="Monster - Throwing Trident, Wicked",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31499] = {id=31499,name="Monster - Throwing Trident, Wicked Blue Glow",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33338] = {id=33338,name="Monster - Throwing Knife (Fire Trail)",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29008] = {id=29008,name="Sharp Throwing Axe",obtain={NpcID=227,NpcName="Mabel Solaj (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[34603] = {id=34603,name="Distracting Blades",obtain={NpcID=24723,NpcName="Selin Fireheart",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.0,Zone="Magisters' Terrace"}}
-items[28531] = {id=28531,name="Barbed Shrike",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29013] = {id=29013,name="Jagged Throwing Axe",obtain={NpcID=734,NpcName="Corporal Bluth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[28539] = {id=28539,name="Razor-Edged Boomerang",obtain={NpcID=18314,NpcName="Nexus Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.0,Zone="Mana-Tombs"}}
+items[29203] = {id=29203,name="Enchanted Thorium Blades",source={ID=34982,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28826] = {id=28826,name="Shuriken of Negation",source={ID=19044,SourceName="Gruul the Dragonkiller",SourceType="Kill",DropChance="11.1",Zone="Gruul's Lair"}}
+items[29584] = {id=29584,name="Throat Piercers",source={ID=16268,SourceName="Eralan",SourceType="Purchase",DropChance="100",Zone="Ghostlands"}}
+items[28659] = {id=28659,name="Xavian Stiletto",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
+items[29204] = {id=29204,name="Felsteel Whisper Knives",source={ID=34983,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34622] = {id=34622,name="Spinesever",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27916] = {id=27916,name="Sethekk Feather-Darts",source={ID=18472,SourceName="Darkweaver Syth",SourceType="Kill",DropChance="14.2",Zone="Sethekk Halls"}}
+items[28972] = {id=28972,name="Flightblade Throwing Axe",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="3.3",Zone="Blackrock Spire"}}
+items[30227] = {id=30227,name="Mark V's Throwing Star",source={ID=10191,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[28319] = {id=28319,name="Gladiator's War Edge",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[29211] = {id=29211,name="Fitz's Throwing Axe",source={ID=9852,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[29201] = {id=29201,name="Thick Bronze Darts",source={ID=34979,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30025] = {id=30025,name="Serpentshrine Shuriken",source={ID=21218,SourceName="Vashj'ir Honor Guard",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
+items[29210] = {id=29210,name="Assassin's Throwing Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32326] = {id=32326,name="Twisted Blades of Zarak",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="14.6",Zone="Unknown"}}
+items[32378] = {id=32378,name="Silver Star",source={ID=1370,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[34349] = {id=34349,name="Blade of Life's Inevitability",source={ID=25483,SourceName="Shadowsword Manafiend",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
+items[25873] = {id=25873,name="Keen Throwing Knife",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[27928] = {id=27928,name="Terminal Edge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25871] = {id=25871,name="Standard Thrown Weapon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32832] = {id=32832,name="Scout's Throwing Knives",source={ID=11073,SourceName="",SourceType="Quest",DropChance="0",Zone="Skettis"}}
+items[35108] = {id=35108,name="Brutal Gladiator's War Edge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25877] = {id=25877,name="Master's Throwing Dagger",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25878] = {id=25878,name="Dusksteel Throwing Knife",source={ID=8249,SourceName="",SourceType="Quest",DropChance="0",Zone="Rogue"}}
+items[32054] = {id=32054,name="Merciless Gladiator's War Edge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30568] = {id=30568,name="The Sharp Cookie",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27929] = {id=27929,name="Terminal Edge",source={ID=18581,SourceName="Alliance Field Scout",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[186069] = {id=186069,name="Communal Knives",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25875] = {id=25875,name="Deadly Throwing Axe",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[28533] = {id=28533,name="Wooden Boomerang",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28979] = {id=28979,name="Light Throwing Knife",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[28544] = {id=28544,name="Assassin's Shuriken",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29010] = {id=29010,name="Wicked Throwing Dagger",source={ID=734,SourceName="Corporal Bluth",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[33765] = {id=33765,name="Vengeful Gladiator's War Edge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28258] = {id=28258,name="Nethershrike",source={ID=19221,SourceName="Nethermancer Sepethrea",SourceType="Kill",DropChance="17.7",Zone="The Mechanar"}}
+items[29202] = {id=29202,name="Whirling Steel Axes",source={ID=34981,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28541] = {id=28541,name="Sawshrike",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25872] = {id=25872,name="Balanced Throwing Dagger",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[28543] = {id=28543,name="Dreghood Throwing Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28540] = {id=28540,name="Arakkoa Talon-Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28537] = {id=28537,name="Wildhammer Throwing Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28534] = {id=28534,name="Fel Tipped Dart",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25876] = {id=25876,name="Gleaming Throwing Axe",source={ID=734,SourceName="Corporal Bluth",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[25874] = {id=25874,name="Large Throwing Knife",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5856] = {id=5856,name="Monster - Throwing Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5870] = {id=5870,name="Monster - Throwing Spear",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6088] = {id=6088,name="Monster - Torch, Ranged",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6886] = {id=6886,name="Monster - Throwing Knife",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34783] = {id=34783,name="Nightstrike",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="18.7",Zone="Magisters' Terrace"}}
+items[28542] = {id=28542,name="Heartseeker Knives",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30599] = {id=30599,name="Avenging Blades",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28538] = {id=28538,name="Forked Shuriken",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28536] = {id=28536,name="Jagged Guillotine",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28535] = {id=28535,name="Amani Throwing Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28532] = {id=28532,name="Silver Throwing Knifes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29014] = {id=29014,name="Blacksteel Throwing Dagger",source={ID=734,SourceName="Corporal Bluth",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[25861] = {id=25861,name="Crude Throwing Axe",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[27631] = {id=27631,name="Needle Shrike",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="14.2",Zone="The Underbog"}}
+items[29009] = {id=29009,name="Heavy Throwing Dagger",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[28023] = {id=28023,name="Monster - Throwing Axe (Poison)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29007] = {id=29007,name="Weighted Throwing Axe",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[31497] = {id=31497,name="Monster - Throwing Trident, Wicked",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31499] = {id=31499,name="Monster - Throwing Trident, Wicked Blue Glow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33338] = {id=33338,name="Monster - Throwing Knife (Fire Trail)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29008] = {id=29008,name="Sharp Throwing Axe",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[34603] = {id=34603,name="Distracting Blades",source={ID=24723,SourceName="Selin Fireheart",SourceType="Kill",DropChance="6.0",Zone="Magisters' Terrace"}}
+items[28531] = {id=28531,name="Barbed Shrike",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29013] = {id=29013,name="Jagged Throwing Axe",source={ID=734,SourceName="Corporal Bluth",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[28539] = {id=28539,name="Razor-Edged Boomerang",source={ID=18314,SourceName="Nexus Stalker",SourceType="Kill",DropChance="9.0",Zone="Mana-Tombs"}}
 
 
 -- Name Data

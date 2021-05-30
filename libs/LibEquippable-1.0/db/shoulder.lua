@@ -10,946 +10,946 @@ local names = {}
 
 
 -- Item Data
-items[21869] = {id=21869,name="Frozen Shadoweave Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26756,DropChance=0,Zone=""}}
-items[27797] = {id=27797,name="Wastewalker Shoulderpads",obtain={NpcID=18478,NpcName="Avatar of the Martyred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=56.2,Zone="Auchenai Crypts"}}
-items[21874] = {id=21874,name="Primal Mooncloth Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26761,DropChance=0,Zone=""}}
-items[30925] = {id=30925,name="Spaulders of the Torn-heart",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10579,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[27801] = {id=27801,name="Beast Lord Mantle",obtain={NpcID=17798,NpcName="Warlord Kalithresh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.1,Zone="The Steamvault"}}
-items[27434] = {id=27434,name="Mantle of Perenolde",obtain={NpcID=18096,NpcName="Epoch Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Old Hillsbrad Foothills"}}
-items[33173] = {id=33173,name="Ragesteel Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=42662,DropChance=0,Zone=""}}
-items[27796] = {id=27796,name="Mana-Etched Spaulders",obtain={NpcID=17942,NpcName="Quagmirran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.6,Zone="The Slave Pens"}}
-items[17604] = {id=17604,name="Field Marshal's Satin Mantle",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28967] = {id=28967,name="Voidheart Mantle",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[20194] = {id=20194,name="Defiler's Leather Shoulders",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[28755] = {id=28755,name="Bladed Shoulderpads of the Merciless",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16457] = {id=16457,name="Field Marshal's Leather Epaulets",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16476] = {id=16476,name="Field Marshal's Lamellar Pauldrons",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28627] = {id=28627,name="Grand Marshal's Dreadweave Mantle",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[27776] = {id=27776,name="Shoulderpads of Assassination",obtain={NpcID=18473,NpcName="Talon King Ikiss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.5,Zone="Sethekk Halls"}}
-items[23313] = {id=23313,name="Lieutenant Commander's Leather Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[27847] = {id=27847,name="Fanblade Pauldrons",obtain={NpcID=18371,NpcName="Shirrak the Dead Watcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.0,Zone="Auchenai Crypts"}}
-items[28075] = {id=28075,name="Destroyers' Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10351,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[29079] = {id=29079,name="Pauldrons of the Aldor",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28703] = {id=28703,name="Grand Marshal's Plate Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16580] = {id=16580,name="Warlord's Mail Spaulders",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[20059] = {id=20059,name="Highlander's Leather Shoulders",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[16468] = {id=16468,name="Field Marshal's Chain Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[17590] = {id=17590,name="Warlord's Dreadweave Mantle",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[27739] = {id=27739,name="Spaulders of the Righteous",obtain={NpcID=17980,NpcName="Laj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Botanica"}}
-items[30740] = {id=30740,name="Ripfiend Shoulderplates",obtain={NpcID=18728,NpcName="Doom Lord Kazzak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Unknown"}}
-items[24463] = {id=24463,name="Pauldrons of Brute Force",obtain={NpcID=17882,NpcName="The Black Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="The Underbog"}}
-items[27775] = {id=27775,name="Hallowed Pauldrons",obtain={NpcID=18732,NpcName="Grandmaster Vorpil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.5,Zone="Shadow Labyrinth"}}
-items[29100] = {id=29100,name="Mantle of Malorne",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16449] = {id=16449,name="Field Marshal's Dragonhide Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[32581] = {id=32581,name="Swiftstrike Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41160,DropChance=0,Zone=""}}
-items[16480] = {id=16480,name="Field Marshal's Plate Shoulderguards",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[15061] = {id=15061,name="Living Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19061,DropChance=0,Zone=""}}
-items[23277] = {id=23277,name="Lieutenant Commander's Lamellar Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[5404] = {id=5404,name="Serpent's Shoulders",obtain={NpcID=3671,NpcName="Lady Anacondra",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=44.0,Zone="Wailing Caverns"}}
-items[16444] = {id=16444,name="Field Marshal's Silk Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28743] = {id=28743,name="Mantle of Abrahmis",obtain={NpcID=15689,NpcName="Netherspite",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Karazhan"}}
-items[29617] = {id=29617,name="Warlord's Lamellar Pauldrons",obtain={NpcID=12795,NpcName="First Sergeant Hola'mahi (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[29316] = {id=29316,name="Warchief's Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10285,Recipe=false,RecipeID=0,DropChance=0,Zone="Caverns of Time"}}
-items[23260] = {id=23260,name="Champion's Mail Pauldrons",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28866] = {id=28866,name="High Warlord's Silk Amice",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22507] = {id=22507,name="Plagueheart Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9106,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[27433] = {id=27433,name="Pauldrons of Sufferance",obtain={NpcID=18096,NpcName="Epoch Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.6,Zone="Old Hillsbrad Foothills"}}
-items[28714] = {id=28714,name="Grand Marshal's Silk Amice",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[23243] = {id=23243,name="Champion's Plate Shoulders",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28622] = {id=28622,name="Grand Marshal's Dragonhide Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29043] = {id=29043,name="Cyclone Shoulderplates",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20203] = {id=20203,name="Defiler's Mail Pauldrons",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[29023] = {id=29023,name="Warbringer Shoulderplates",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28713] = {id=28713,name="Grand Marshal's Scaled Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28589] = {id=28589,name="Beastmaw Pauldrons",obtain={NpcID=17533,NpcName="Romulo",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Karazhan"}}
-items[29605] = {id=29605,name="Champion's Lamellar Shoulders",obtain={NpcID=12795,NpcName="First Sergeant Hola'mahi (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[27803] = {id=27803,name="Shoulderguards of the Bold",obtain={NpcID=18708,NpcName="Murmur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Shadow Labyrinth"}}
-items[27778] = {id=27778,name="Spaulders of Oblivion",obtain={NpcID=18708,NpcName="Murmur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Shadow Labyrinth"}}
-items[28612] = {id=28612,name="Pauldrons of the Solace-Giver",obtain={NpcID=15691,NpcName="The Curator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Karazhan"}}
-items[24398] = {id=24398,name="Mantle of the Dusk-Dweller",obtain={NpcID=17377,NpcName="Keli'dan the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.3,Zone="The Blood Furnace"}}
-items[28666] = {id=28666,name="Pauldrons of the Justice-Seeker",obtain={NpcID=16524,NpcName="Shade of Aran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Karazhan"}}
-items[5964] = {id=5964,name="Barbaric Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=7151,DropChance=0,Zone=""}}
-items[16568] = {id=16568,name="Warlord's Chain Shoulders",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28820] = {id=28820,name="High Warlord's Dreadweave Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32078] = {id=32078,name="Pauldrons of Wild Magic",obtain={NpcID=17942,NpcName="Quagmirran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.8,Zone="The Slave Pens"}}
-items[28726] = {id=28726,name="Mantle of the Mind Flayer",obtain={NpcID=16524,NpcName="Shade of Aran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Karazhan"}}
-items[23256] = {id=23256,name="Champion's Dreadweave Spaulders",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29054] = {id=29054,name="Light-Mantle of the Incarnate",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[29070] = {id=29070,name="Justicar Shoulderguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27771] = {id=27771,name="Doomplate Shoulderguards",obtain={NpcID=17882,NpcName="The Black Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="The Underbog"}}
-items[28129] = {id=28129,name="Gladiator's Dragonhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28631] = {id=28631,name="Dragon-Quake Shoulderguards",obtain={NpcID=15691,NpcName="The Curator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Karazhan"}}
-items[28855] = {id=28855,name="High Warlord's Plate Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16551] = {id=16551,name="Warlord's Dragonhide Epaulets",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28617] = {id=28617,name="Grand Marshal's Chain Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[24024] = {id=24024,name="Pauldrons of Arcane Rage",obtain={NpcID=17306,NpcName="Watchkeeper Gargolmar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.1,Zone="Hellfire Ramparts"}}
-items[21391] = {id=21391,name="Avenger's Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8630,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[29037] = {id=29037,name="Cyclone Shoulderguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16544] = {id=16544,name="Warlord's Plate Shoulders",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29031] = {id=29031,name="Cyclone Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[15051] = {id=15051,name="Black Dragonscale Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19094,DropChance=0,Zone=""}}
-items[29016] = {id=29016,name="Warbringer Shoulderguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30055] = {id=30055,name="Shoulderpads of the Stranger",obtain={NpcID=21216,NpcName="Hydross the Unstable",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.7,Zone="Serpentshrine Cavern"}}
-items[28647] = {id=28647,name="Forest Wind Shoulderpads",obtain={NpcID=15691,NpcName="The Curator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Karazhan"}}
-items[24546] = {id=24546,name="Gladiator's Plate Shoulders",obtain={NpcID=20278,NpcName="Vixton Pinchwhistle (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Netherstorm"}}
-items[28839] = {id=28839,name="High Warlord's Leather Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22439] = {id=22439,name="Cryptstalker Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9057,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[25854] = {id=25854,name="Gladiator's Silk Amice",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29611] = {id=29611,name="Field Marshal's Mail Spaulders",obtain={NpcID=12785,NpcName="Sergeant Major Clate (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[20158] = {id=20158,name="Defiler's Chain Pauldrons",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[27539] = {id=27539,name="Justice Bearer's Pauldrons",obtain={NpcID=17308,NpcName="Omor the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.1,Zone="Hellfire Ramparts"}}
-items[17580] = {id=17580,name="Field Marshal's Dreadweave Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29064] = {id=29064,name="Justicar Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29095] = {id=29095,name="Pauldrons of Malorne",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35343] = {id=35343,name="Evoker's Silk Amice",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22419] = {id=22419,name="Dreadnaught Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9038,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[22429] = {id=22429,name="Redemption Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9046,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[22983] = {id=22983,name="Rime Covered Mantle",obtain={NpcID=15932,NpcName="Gluth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.6,Zone="Naxxramas"}}
-items[16562] = {id=16562,name="Warlord's Leather Spaulders",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29060] = {id=29060,name="Soul-Mantle of the Incarnate",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[28814] = {id=28814,name="High Warlord's Dragonhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30381] = {id=30381,name="Kaylaan's Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10381,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[29075] = {id=29075,name="Justicar Shoulderplates",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27994] = {id=27994,name="Mantle of Three Terrors",obtain={NpcID=17879,NpcName="Chrono Lord Deja",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.3,Zone="The Black Morass"}}
-items[30291] = {id=30291,name="Nexus-Guard's Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10440,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[20406] = {id=20406,name="Twilight Cultist Mantle",obtain={NpcID=15542,NpcName="Twilight Marauder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.3,Zone="Silithus"}}
-items[7718] = {id=7718,name="Herod's Shoulder",obtain={NpcID=3975,NpcName="Herod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.5,Zone="Scarlet Monastery"}}
-items[31592] = {id=31592,name="Grand Marshal's Kodohide Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[20212] = {id=20212,name="Defiler's Plate Spaulders",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[17622] = {id=17622,name="Warlord's Satin Mantle",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28687] = {id=28687,name="Grand Marshal's Leather Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29089] = {id=29089,name="Shoulderguards of Malorne",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21665] = {id=21665,name="Mantle of Wicked Revenge",obtain={NpcID=15510,NpcName="Fankriss the Unyielding",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.6,Zone="Ahn'Qiraj"}}
-items[32073] = {id=32073,name="Spaulders of Dementia",obtain={NpcID=18473,NpcName="Talon King Ikiss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Sethekk Halls"}}
-items[16536] = {id=16536,name="Warlord's Silk Amice",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[27826] = {id=27826,name="Mantle of the Sea Wolf",obtain={NpcID=18343,NpcName="Tavarok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Mana-Tombs"}}
-items[25832] = {id=25832,name="Gladiator's Leather Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23667] = {id=23667,name="Spaulders of the Grand Crusader",obtain={NpcID=16167,NpcName="Bony Construct",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Naxxramas"}}
-items[12625] = {id=12625,name="Dawnbringer Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16660,DropChance=0,Zone=""}}
-items[31624] = {id=31624,name="Grand Marshal's Mooncloth Shoulderpads",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29147] = {id=29147,name="Talbuk Hide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23309] = {id=23309,name="Lieutenant Commander's Dragonhide Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[29047] = {id=29047,name="Netherblade Shoulderpads",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28683] = {id=28683,name="Grand Marshal's Lamellar Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28707] = {id=28707,name="Grand Marshal's Satin Mantle",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[20055] = {id=20055,name="Highlander's Chain Pauldrons",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[24554] = {id=24554,name="Gladiator's Dreadweave Mantle",obtain={NpcID=27668,NpcName="Ontok Shatterhorn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[14552] = {id=14552,name="Stockade Pauldrons",obtain={NpcID=8198,NpcName="Tick",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Tanaris"}}
-items[9476] = {id=9476,name="Big Bad Pauldrons",obtain={NpcID=7267,NpcName="Chief Ukorz Sandscalp",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.7,Zone="Zul'Farrak"}}
-items[22499] = {id=22499,name="Frostfire Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9098,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[35465] = {id=35465,name="Evoker's Silk Amice",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20057] = {id=20057,name="Highlander's Plate Spaulders",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[28859] = {id=28859,name="High Warlord's Satin Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22467] = {id=22467,name="Earthshatter Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9071,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[23315] = {id=23315,name="Lieutenant Commander's Plate Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[12428] = {id=12428,name="Imperial Plate Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16646,DropChance=0,Zone=""}}
-items[35411] = {id=35411,name="Savage Plate Shoulders",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[21330] = {id=21330,name="Conqueror's Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8544,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[15058] = {id=15058,name="Stormshroud Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19090,DropChance=0,Zone=""}}
-items[10028] = {id=10028,name="Shadoweave Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12076,DropChance=0,Zone=""}}
-items[28865] = {id=28865,name="High Warlord's Scaled Shoulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20175] = {id=20175,name="Defiler's Lizardhide Shoulders",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[19507] = {id=19507,name="Inquisitor's Shawl",obtain={NpcID=4542,NpcName="High Inquisitor Fairbanks",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.9,Zone="Scarlet Monastery"}}
-items[5254] = {id=5254,name="Rugged Spaulders",obtain={NpcID=3914,NpcName="Rethilgore",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=84.3,Zone="Shadowfang Keep"}}
-items[23319] = {id=23319,name="Lieutenant Commander's Silk Mantle",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[32579] = {id=32579,name="Living Earth Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41164,DropChance=0,Zone=""}}
-items[31378] = {id=31378,name="Gladiator's Kodohide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32575] = {id=32575,name="Shoulders of Lightning Reflexes",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41162,DropChance=0,Zone=""}}
-items[29084] = {id=29084,name="Demon Stalker Shoulderguards",obtain={NpcID=20613,NpcName="Arodis Sunblade (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[35369] = {id=35369,name="Opportunist's Leather Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32080] = {id=32080,name="Mantle of Shadowy Embrace",obtain={NpcID=17377,NpcName="Keli'dan the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.5,Zone="The Blood Furnace"}}
-items[22479] = {id=22479,name="Bonescythe Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9080,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[23664] = {id=23664,name="Pauldrons of Elemental Fury",obtain={NpcID=16156,NpcName="Dark Touched Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Naxxramas"}}
-items[29599] = {id=29599,name="Lieutenant Commander's Mail Pauldrons",obtain={NpcID=12785,NpcName="Sergeant Major Clate (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[20058] = {id=20058,name="Highlander's Lamellar Spaulders",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[9389] = {id=9389,name="Revelosh's Spaulders",obtain={NpcID=6910,NpcName="Revelosh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.4,Zone="Uldaman"}}
-items[7755] = {id=7755,name="Flintrock Shoulders",obtain={NpcID=4291,NpcName="Scarlet Diviner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Scarlet Monastery"}}
-items[10027] = {id=10027,name="Black Mageweave Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12074,DropChance=0,Zone=""}}
-items[21474] = {id=21474,name="Chitinous Shoulderguards",obtain={NpcID=15340,NpcName="Moam",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.4,Zone="Ruins of Ahn'Qiraj"}}
-items[4251] = {id=4251,name="Hillman's Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3768,DropChance=0,Zone=""}}
-items[22515] = {id=22515,name="Shoulderpads of Faith",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9114,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[21453] = {id=21453,name="Mantle of the Horusath",obtain={NpcID=15339,NpcName="Ossirian the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.5,Zone="Ruins of Ahn'Qiraj"}}
-items[23258] = {id=23258,name="Champion's Leather Shoulders",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16729] = {id=16729,name="Lightforge Spaulders",obtain={NpcID=10430,NpcName="The Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.9,Zone="Blackrock Spire"}}
-items[20061] = {id=20061,name="Highlander's Epaulets",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[21376] = {id=21376,name="Stormcaller's Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8602,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[27737] = {id=27737,name="Moonglade Shoulders",obtain={NpcID=17798,NpcName="Warlord Kalithresh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="The Steamvault"}}
-items[7712] = {id=7712,name="Mantle of Doan",obtain={NpcID=6487,NpcName="Arcanist Doan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=47.2,Zone="Scarlet Monastery"}}
-items[6685] = {id=6685,name="Death Speaker Mantle",obtain={NpcID=4428,NpcName="Death Speaker Jargba",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.7,Zone="Razorfen Kraul"}}
-items[34195] = {id=34195,name="Shoulderpads of Vehemence",obtain={NpcID=25165,NpcName="Lady Sacrolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.3,Zone="Unknown"}}
-items[11632] = {id=11632,name="Earthslag Shoulders",obtain={NpcID=9025,NpcName="Lord Roccor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.0,Zone="Blackrock Depths"}}
-items[35331] = {id=35331,name="Dreadweave Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20176] = {id=20176,name="Defiler's Epaulets",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[28333] = {id=28333,name="Gladiator's Chain Spaulders",obtain={NpcID=20278,NpcName="Vixton Pinchwhistle (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Netherstorm"}}
-items[30186] = {id=30186,name="Gladiator's Felweave Amice",obtain={NpcID=27668,NpcName="Ontok Shatterhorn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[21335] = {id=21335,name="Doomcaller's Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8664,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[18810] = {id=18810,name="Wild Growth Spaulders",obtain={NpcID=12018,NpcName="Majordomo Executus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Molten Core"}}
-items[23311] = {id=23311,name="Lieutenant Commander's Dreadweave Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[20517] = {id=20517,name="Razorsteel Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8425,Recipe=false,RecipeID=0,DropChance=0,Zone="Warrior"}}
-items[2264] = {id=2264,name="Mantle of Thieves",obtain={NpcID=4422,NpcName="Agathelos the Raging",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Razorfen Kraul"}}
-items[28722] = {id=28722,name="Grand Marshal's Wyrmhide Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[14112] = {id=14112,name="Felcloth Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18453,DropChance=0,Zone=""}}
-items[186088] = {id=186088,name="Communal Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19695] = {id=19695,name="Darksoul Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24141,DropChance=0,Zone=""}}
-items[12082] = {id=12082,name="Wyrmhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4024,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackrock Depths"}}
-items[27473] = {id=27473,name="Gladiator's Mail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28698] = {id=28698,name="Grand Marshal's Mail Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[21354] = {id=21354,name="Genesis Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8669,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[19831] = {id=19831,name="Zandalar Predator's Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8067,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[34392] = {id=34392,name="Demontooth Shoulderpads",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30210] = {id=30210,name="Mantle of Tirisfal",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28139] = {id=28139,name="Gladiator's Wyrmhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31412] = {id=31412,name="Gladiator's Mooncloth Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28809] = {id=28809,name="High Warlord's Chain Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13066] = {id=13066,name="Wyrmslayer Spaulders",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[7057] = {id=7057,name="Green Silken Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8774,DropChance=0,Zone=""}}
-items[27883] = {id=27883,name="Gladiator's Scaled Shoulders",obtain={NpcID=27668,NpcName="Ontok Shatterhorn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[29148] = {id=29148,name="Blackened Leather Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3748] = {id=3748,name="Feline Mantle",obtain={NpcID=3927,NpcName="Wolf Master Nandos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=57.1,Zone="Shadowfang Keep"}}
-items[32587] = {id=32587,name="Mantle of Nimble Thought",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41206,DropChance=0,Zone=""}}
-items[27706] = {id=27706,name="Gladiator's Lamellar Shoulders",obtain={NpcID=27668,NpcName="Ontok Shatterhorn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[31634] = {id=31634,name="Grand Marshal's Ornamented Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[18681] = {id=18681,name="Burial Shawl",obtain={NpcID=10504,NpcName="Lord Alexei Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.8,Zone="Scholomance"}}
-items[16679] = {id=16679,name="Beaststalker's Mantle",obtain={NpcID=9568,NpcName="Overlord Wyrmthalak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.8,Zone="Blackrock Spire"}}
-items[22234] = {id=22234,name="Mantle of Lost Hope",obtain={NpcID=9025,NpcName="Lord Roccor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.8,Zone="Blackrock Depths"}}
-items[2278] = {id=2278,name="Forest Tracker Epaulets",obtain={NpcID=15807,NpcName="Minor Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="The Barrens"}}
-items[34107] = {id=34107,name="Tattered Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33481] = {id=33481,name="Pauldrons of Stone Resolve",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31294] = {id=31294,name="Pauldrons of Surging Mana",obtain={NpcID=12379,NpcName="Unliving Caretaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Deadwind Pass"}}
-items[16733] = {id=16733,name="Spaulders of Valor",obtain={NpcID=10429,NpcName="Warchief Rend Blackhand",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.5,Zone="Blackrock Spire"}}
-items[32570] = {id=32570,name="Swiftsteel Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41133,DropChance=0,Zone=""}}
-items[31964] = {id=31964,name="Merciless Gladiator's Chain Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16953] = {id=16953,name="Judgement Spaulders",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.0,Zone="Blackwing Lair"}}
-items[19841] = {id=19841,name="Zandalar Confessor's Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8071,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[16701] = {id=16701,name="Dreadmist Mantle",obtain={NpcID=10503,NpcName="Jandice Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.9,Zone="Scholomance"}}
-items[30215] = {id=30215,name="Mantle of the Corruptor",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28693] = {id=28693,name="Grand Marshal's Linked Spaulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[28850] = {id=28850,name="High Warlord's Mail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27995] = {id=27995,name="Sun-Gilded Shouldercaps",obtain={NpcID=17879,NpcName="Chrono Lord Deja",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.8,Zone="The Black Morass"}}
-items[14139] = {id=14139,name="Mooncloth Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18448,DropChance=0,Zone=""}}
-items[7684] = {id=7684,name="Bloodmage Mantle",obtain={NpcID=4543,NpcName="Bloodmage Thalnos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=47.7,Zone="Scarlet Monastery"}}
-items[34210] = {id=34210,name="Amice of the Convoker",obtain={NpcID=25165,NpcName="Lady Sacrolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.6,Zone="Unknown"}}
-items[30143] = {id=30143,name="Rift Stalker Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35470] = {id=35470,name="Kodohide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24457] = {id=24457,name="Truth Bearer Shoulderguards",obtain={NpcID=17826,NpcName="Swamplord Musel'ek",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Underbog"}}
-items[21639] = {id=21639,name="Pauldrons of the Unrelenting",obtain={NpcID=15510,NpcName="Fankriss the Unyielding",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.4,Zone="Ahn'Qiraj"}}
-items[19691] = {id=19691,name="Bloodsoul Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24137,DropChance=0,Zone=""}}
-items[19835] = {id=19835,name="Zandalar Madcap's Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8072,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[19849] = {id=19849,name="Zandalar Demoniac's Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8076,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[3481] = {id=3481,name="Silvered Bronze Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3330,DropChance=0,Zone=""}}
-items[35385] = {id=35385,name="Seer's Linked Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22758] = {id=22758,name="Sylvan Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=28482,DropChance=0,Zone=""}}
-items[20060] = {id=20060,name="Highlander's Lizardhide Shoulders",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[22241] = {id=22241,name="Dark Warder's Pauldrons",obtain={NpcID=9041,NpcName="Warder Stilgiss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.2,Zone="Blackrock Depths"}}
-items[31030] = {id=31030,name="Slayer's Shoulderpads",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30085] = {id=30085,name="Mantle of the Tireless Tracker",obtain={NpcID=21213,NpcName="Morogrim Tidewalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.0,Zone="Serpentshrine Cavern"}}
-items[28845] = {id=28845,name="High Warlord's Linked Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31644] = {id=31644,name="Grand Marshal's Ringmail Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[15812] = {id=15812,name="Orchid Amice",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4971,Recipe=false,RecipeID=0,DropChance=0,Zone="Western Plaguelands"}}
-items[19389] = {id=19389,name="Taut Dragonhide Shoulderpads",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.0,Zone="Blackwing Lair"}}
-items[23307] = {id=23307,name="Lieutenant Commander's Chain Shoulders",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[20686] = {id=20686,name="Abyssal Cloth Amice",obtain={NpcID=15205,NpcName="Baron Kazum",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.8,Zone="Silithus"}}
-items[12927] = {id=12927,name="Truestrike Shoulders",obtain={NpcID=9816,NpcName="Pyroguard Emberseer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.0,Zone="Blackrock Spire"}}
-items[30053] = {id=30053,name="Pauldrons of the Wardancer",obtain={NpcID=21216,NpcName="Hydross the Unstable",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.2,Zone="Serpentshrine Cavern"}}
-items[27713] = {id=27713,name="Pauldrons of Desolation",obtain={NpcID=17942,NpcName="Quagmirran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="The Slave Pens"}}
-items[22491] = {id=22491,name="Dreamwalker Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9089,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[23254] = {id=23254,name="Champion's Dragonhide Shoulders",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[13867] = {id=13867,name="Runecloth Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=18449,DropChance=0,Zone=""}}
-items[9411] = {id=9411,name="Rockshard Pauldrons",obtain={NpcID=7206,NpcName="Ancient Stone Keeper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=46.9,Zone="Uldaman"}}
-items[4315] = {id=4315,name="Reinforced Woolen Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3849,DropChance=0,Zone=""}}
-items[34194] = {id=34194,name="Mantle of the Golden Forest",obtain={NpcID=25165,NpcName="Lady Sacrolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.3,Zone="Unknown"}}
-items[30079] = {id=30079,name="Illidari Shoulderpads",obtain={NpcID=21213,NpcName="Morogrim Tidewalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.2,Zone="Serpentshrine Cavern"}}
-items[35380] = {id=35380,name="Stalker's Chain Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24366] = {id=24366,name="Scorpid-Sting Mantle",obtain={NpcID=17942,NpcName="Quagmirran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Slave Pens"}}
-items[31148] = {id=31148,name="Demon Hide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23317] = {id=23317,name="Lieutenant Commander's Satin Mantle",obtain={NpcID=12777,NpcName="Captain Dirgehammer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[18493] = {id=18493,name="Bulky Iron Spaulders",obtain={NpcID=14326,NpcName="Guard Mol'dar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.4,Zone="Dire Maul"}}
-items[8192] = {id=8192,name="Nightscape Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10516,DropChance=0,Zone=""}}
-items[13131] = {id=13131,name="Sparkleshell Mantle",obtain={NpcID=15814,NpcName="Qiraji Lieutenant Jo-rel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="The Barrens"}}
-items[30705] = {id=30705,name="Spaulders of Slaughter",obtain={NpcID=20923,NpcName="Blood Guard Porung",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="The Shattered Halls"}}
-items[35359] = {id=35359,name="Dragonhide Spaulders",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[25968] = {id=25968,name="Shalassi Sentry's Epaulets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13116] = {id=13116,name="Spaulders of the Unseen",obtain={NpcID=15740,NpcName="Colossus of Zora",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.6,Zone="Silithus"}}
-items[3480] = {id=3480,name="Rough Bronze Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3328,DropChance=0,Zone=""}}
-items[33682] = {id=33682,name="Vengeful Gladiator's Felweave Amice",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30127] = {id=30127,name="Crystalforge Shoulderguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33299] = {id=33299,name="Spaulders of the Advocate",obtain={NpcID=23577,NpcName="Halazzi",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.8,Zone="Unknown"}}
-items[35374] = {id=35374,name="Wyrmhide Spaulders",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[19845] = {id=19845,name="Zandalar Illusionist's Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8068,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[22405] = {id=22405,name="Mantle of the Scarlet Crusade",obtain={NpcID=10997,NpcName="Cannon Master Willey",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.1,Zone="Stratholme"}}
-items[11916] = {id=11916,name="Shizzle's Muzzle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4503,Recipe=false,RecipeID=0,DropChance=0,Zone="Un'Goro Crater"}}
-items[15169] = {id=15169,name="Imposing Shoulders",obtain={NpcID=7608,NpcName="Murta Grimgut",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Zul'Farrak"}}
-items[7727] = {id=7727,name="Watchman Pauldrons",obtain={NpcID=4297,NpcName="Scarlet Conjuror",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Scarlet Monastery"}}
-items[30979] = {id=30979,name="Onslaught Shoulderblades",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30024] = {id=30024,name="Mantle of the Elven Kings",obtain={NpcID=20031,NpcName="Bloodwarder Legionnaire",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Unknown"}}
-items[30097] = {id=30097,name="Coral-Barbed Shoulderpads",obtain={NpcID=21215,NpcName="Leotheras the Blind",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.5,Zone="Serpentshrine Cavern"}}
-items[33970] = {id=33970,name="Pauldrons of the Furious Elements",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31587] = {id=31587,name="High Warlord's Kodohide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30369] = {id=30369,name="Cleansed Fel Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10409,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[16708] = {id=16708,name="Shadowcraft Spaulders",obtain={NpcID=10997,NpcName="Cannon Master Willey",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.3,Zone="Stratholme"}}
-items[13405] = {id=13405,name="Wailing Nightbane Pauldrons",obtain={NpcID=10516,NpcName="The Unforgiven",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.9,Zone="Stratholme"}}
-items[185977] = {id=185977,name="Communal Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3840] = {id=3840,name="Green Iron Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3504,DropChance=0,Zone=""}}
-items[6697] = {id=6697,name="Batwing Mantle",obtain={NpcID=4425,NpcName="Blind Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.4,Zone="Razorfen Kraul"}}
-items[31069] = {id=31069,name="Mantle of Absolution",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31407] = {id=31407,name="Gladiator's Ringmail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31619] = {id=31619,name="Gladiator's Ornamented Spaulders",obtain={NpcID=27668,NpcName="Ontok Shatterhorn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[24948] = {id=24948,name="Bloodscale Pauldrons",obtain={NpcID=17058,NpcName="Illidari Taskmaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.5,Zone="Hellfire Peninsula"}}
-items[16492] = {id=16492,name="Champion's Silk Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13955] = {id=13955,name="Stoneform Shoulders",obtain={NpcID=10506,NpcName="Kirtonos the Herald",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.2,Zone="Scholomance"}}
-items[11685] = {id=11685,name="Splinthide Shoulders",obtain={NpcID=9029,NpcName="Eviscerator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.7,Zone="Blackrock Depths"}}
-items[4733] = {id=4733,name="Blackforge Pauldrons",obtain={NpcID=2754,NpcName="Anathemus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Badlands"}}
-items[7913] = {id=7913,name="Barbaric Iron Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9811,DropChance=0,Zone=""}}
-items[12998] = {id=12998,name="Magician's Mantle",obtain={NpcID=15812,NpcName="Qiraji Officer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="The Barrens"}}
-items[34192] = {id=34192,name="Pauldrons of Perseverance",obtain={NpcID=25165,NpcName="Lady Sacrolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.8,Zone="Unknown"}}
-items[30230] = {id=30230,name="Nordrassil Feral-Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31650] = {id=31650,name="High Warlord's Ringmail Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35364] = {id=35364,name="Kodohide Spaulders",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[8086] = {id=8086,name="Light Plate Shoulderpads",obtain={NpcID=15162,NpcName="Scarlet Inquisitor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Eastern Plaguelands"}}
-items[14758] = {id=14758,name="Slayer's Shoulderguards",obtain={NpcID=4427,NpcName="Ward Guardian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Kraul"}}
-items[31971] = {id=31971,name="Merciless Gladiator's Dragonhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32018] = {id=32018,name="Merciless Gladiator's Mooncloth Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27802] = {id=27802,name="Tidefury Shoulderguards",obtain={NpcID=16809,NpcName="Warbringer O'mrogg",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="The Shattered Halls"}}
-items[28207] = {id=28207,name="Pauldrons of the Crimson Flight",obtain={NpcID=17881,NpcName="Aeonus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.2,Zone="The Black Morass"}}
-items[28306] = {id=28306,name="Towering Mantle of the Hunt",obtain={NpcID=17976,NpcName="Commander Sarannis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.0,Zone="The Botanica"}}
-items[30514] = {id=30514,name="Nether Guards",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10221,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[21864] = {id=21864,name="Soulcloth Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26780,DropChance=0,Zone=""}}
-items[22941] = {id=22941,name="Polar Shoulder Pads",obtain={NpcID=15953,NpcName="Grand Widow Faerlina",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=38.1,Zone="Naxxramas"}}
-items[21350] = {id=21350,name="Mantle of the Oracle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8594,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[19370] = {id=19370,name="Mantle of the Blackwing Cabal",obtain={NpcID=12435,NpcName="Razorgore the Untamed",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.9,Zone="Blackwing Lair"}}
-items[19878] = {id=19878,name="Bloodsoaked Pauldrons",obtain={NpcID=11382,NpcName="Bloodlord Mandokir",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.4,Zone="Zul'Gurub"}}
-items[10253] = {id=10253,name="Master's Mantle",obtain={NpcID=12397,NpcName="Lord Kazzak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.9,Zone="Blasted Lands"}}
-items[3998] = {id=3998,name="Laminated Scale Shoulderpads",obtain={NpcID=11878,NpcName="Nathanos Blightcaller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Eastern Plaguelands"}}
-items[15067] = {id=15067,name="Ironfeather Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19062,DropChance=0,Zone=""}}
-items[15187] = {id=15187,name="Praetorian Pauldrons",obtain={NpcID=6130,NpcName="Blue Scalebane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[11624] = {id=11624,name="Kentic Amice",obtain={NpcID=9018,NpcName="High Interrogator Gerstahn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.7,Zone="Blackrock Depths"}}
-items[14776] = {id=14776,name="Ravager's Mantle",obtain={NpcID=7901,NpcName="Treasure Hunting Swashbuckler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Tanaris"}}
-items[15574] = {id=15574,name="Marauder's Shoulder Pads",obtain={NpcID=7345,NpcName="Splinterbone Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Downs"}}
-items[15553] = {id=15553,name="Thick Scale Shoulder Pads",obtain={NpcID=4643,NpcName="Magram Pack Runner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Desolace"}}
-items[4252] = {id=4252,name="Dark Leather Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3769,DropChance=0,Zone=""}}
-items[34193] = {id=34193,name="Spaulders of the Thalassian Savior",obtain={NpcID=25165,NpcName="Lady Sacrolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.8,Zone="Unknown"}}
-items[30998] = {id=30998,name="Lightbringer Shoulderguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30149] = {id=30149,name="Deathmantle Shoulderpads",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33489] = {id=33489,name="Mantle of Ill Intent",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27454] = {id=27454,name="Volcanic Pauldrons",obtain={NpcID=185168,NpcName="Reinforced Fel Iron Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Ramparts"}}
-items[28250] = {id=28250,name="Vestia's Pauldrons of Inner Grace",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31628] = {id=31628,name="High Warlord's Mooncloth Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35336] = {id=35336,name="Mooncloth Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21454] = {id=21454,name="Runic Stone Shoulders",obtain={NpcID=15339,NpcName="Ossirian the Unscarred",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.3,Zone="Ruins of Ahn'Qiraj"}}
-items[23262] = {id=23262,name="Champion's Satin Mantle",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16836] = {id=16836,name="Cenarion Spaulders",obtain={NpcID=12056,NpcName="Baron Geddon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.6,Zone="Molten Core"}}
-items[22101] = {id=22101,name="Pauldrons of The Five Thunders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14538] = {id=14538,name="Deadwalker Mantle",obtain={NpcID=11622,NpcName="Rattlegore",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.9,Zone="Scholomance"}}
-items[22305] = {id=22305,name="Ironweave Mantle",obtain={NpcID=16058,NpcName="Volida",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100.0,Zone="Blackrock Depths"}}
-items[17749] = {id=17749,name="Phytoskin Spaulders",obtain={NpcID=12258,NpcName="Razorlash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.5,Zone="Maraudon"}}
-items[14243] = {id=14243,name="Darkmist Mantle",obtain={NpcID=7605,NpcName="Raven",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Zul'Farrak"}}
-items[6388] = {id=6388,name="Glimmering Mail Pauldrons",obtain={NpcID=6392,NpcName="Holdout Medic",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Gnomeregan"}}
-items[4314] = {id=4314,name="Double-stitched Woolen Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3848,DropChance=0,Zone=""}}
-items[34393] = {id=34393,name="Shoulderpads of Knowledge's Pursuit",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35035] = {id=35035,name="Brutal Gladiator's Leather Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35406] = {id=35406,name="Crusader's Ornamented Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21367] = {id=21367,name="Striker's Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8659,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[21345] = {id=21345,name="Enigma Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8625,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[16924] = {id=16924,name="Pauldrons of Transcendence",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.1,Zone="Blackwing Lair"}}
-items[18829] = {id=18829,name="Deep Earth Spaulders",obtain={NpcID=11982,NpcName="Magmadar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.1,Zone="Molten Core"}}
-items[21805] = {id=21805,name="Polished Obsidian Pauldrons",obtain={NpcID=15392,NpcName="Captain Tuubid",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Ruins of Ahn'Qiraj"}}
-items[14851] = {id=14851,name="Sunscale Spaulders",obtain={NpcID=6650,NpcName="General Fangferror",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Azshara"}}
-items[14955] = {id=14955,name="Bloodforged Shoulder Pads",obtain={NpcID=7901,NpcName="Treasure Hunting Swashbuckler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Tanaris"}}
-items[9923] = {id=9923,name="Tracker's Shoulderpads",obtain={NpcID=15750,NpcName="Qiraji Major",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Thousand Needles"}}
-items[15375] = {id=15375,name="Wolf Rider's Shoulder Pads",obtain={NpcID=4334,NpcName="Firemane Flamecaller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Dustwallow Marsh"}}
-items[13103] = {id=13103,name="Pads of the Venom Spider",obtain={NpcID=15815,NpcName="Qiraji Captain Ka'ark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="Thousand Needles"}}
-items[6461] = {id=6461,name="Slime-encrusted Pads",obtain={NpcID=3654,NpcName="Mutanus the Devourer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.2,Zone="Wailing Caverns"}}
-items[15019] = {id=15019,name="Lupine Mantle",obtain={NpcID=2160,NpcName="Gravelflint Geomancer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Darkshore"}}
-items[23324] = {id=23324,name="Mantle of the Fire Festival",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9323,Recipe=false,RecipeID=0,DropChance=0,Zone="Midsummer"}}
-items[30884] = {id=30884,name="Hatefury Mantle",obtain={NpcID=17808,NpcName="Anetheron",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.2,Zone="Hyjal Summit"}}
-items[30892] = {id=30892,name="Beast-tamer's Shoulders",obtain={NpcID=17888,NpcName="Kaz'rogal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.7,Zone="Hyjal Summit"}}
-items[30111] = {id=30111,name="Runetotem's Mantle",obtain={NpcID=21212,NpcName="Lady Vashj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.0,Zone="Serpentshrine Cavern"}}
-items[30154] = {id=30154,name="Mantle of the Avatar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33464] = {id=33464,name="Hex Lord's Voodoo Pauldrons",obtain={NpcID=24239,NpcName="Hex Lord Malacrass",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.6,Zone="Unknown"}}
-items[30084] = {id=30084,name="Pauldrons of the Argent Sentinel",obtain={NpcID=21213,NpcName="Morogrim Tidewalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.6,Zone="Serpentshrine Cavern"}}
-items[24723] = {id=24723,name="Dreghood Pauldrons",obtain={NpcID=16934,NpcName="Quillfang Ravager",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.8,Zone="Hellfire Peninsula"}}
-items[24699] = {id=24699,name="Bonechewer Shoulderguards",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21361] = {id=21361,name="Deathdealer's Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8641,Recipe=false,RecipeID=0,DropChance=0,Zone="Ahn'Qiraj"}}
-items[16902] = {id=16902,name="Stormrage Pauldrons",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.9,Zone="Blackwing Lair"}}
-items[20680] = {id=20680,name="Abyssal Mail Pauldrons",obtain={NpcID=15203,NpcName="Prince Skaldrenox",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.7,Zone="Silithus"}}
-items[16807] = {id=16807,name="Felheart Shoulder Pads",obtain={NpcID=12056,NpcName="Baron Geddon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.1,Zone="Molten Core"}}
-items[16816] = {id=16816,name="Mantle of Prophecy",obtain={NpcID=12098,NpcName="Sulfuron Harbinger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.4,Zone="Molten Core"}}
-items[19058] = {id=19058,name="Golden Mantle of the Dawn",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23706,DropChance=0,Zone=""}}
-items[16423] = {id=16423,name="Lieutenant Commander's Dragonhide Epaulets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[17601] = {id=17601,name="Lieutenant Commander's Satin Amice",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[8250] = {id=8250,name="Imperial Red Mantle",obtain={NpcID=9681,NpcName="Jaz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Blackrock Depths"}}
-items[10075] = {id=10075,name="Righteous Spaulders",obtain={NpcID=12124,NpcName="Great Shark",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Feralas"}}
-items[14946] = {id=14946,name="Warbringer's Spaulders",obtain={NpcID=4334,NpcName="Firemane Flamecaller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dustwallow Marsh"}}
-items[7482] = {id=7482,name="Ranger Shoulders",obtain={NpcID=8211,NpcName="Old Cliff Jumper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.5,Zone="The Hinterlands"}}
-items[3798] = {id=3798,name="Interlaced Shoulderpads",obtain={NpcID=7327,NpcName="Withered Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Razorfen Downs"}}
-items[6566] = {id=6566,name="Shimmering Amice",obtain={NpcID=14425,NpcName="Gnawbone",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.7,Zone="Wetlands"}}
-items[10405] = {id=10405,name="Bandit Shoulders",obtain={NpcID=3735,NpcName="Apothecary Falthis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.6,Zone="Ashenvale"}}
-items[34209] = {id=34209,name="Spaulders of Reclamation",obtain={NpcID=25165,NpcName="Lady Sacrolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.3,Zone="Unknown"}}
-items[35046] = {id=35046,name="Brutal Gladiator's Linked Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30997] = {id=30997,name="Lightbringer Shoulderbraces",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31054] = {id=31054,name="Mantle of the Malefic",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31070] = {id=31070,name="Shoulderpads of Absolution",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32585] = {id=32585,name="Swiftheal Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41208,DropChance=0,Zone=""}}
-items[32037] = {id=32037,name="Merciless Gladiator's Satin Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30163] = {id=30163,name="Wings of the Avatar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30168] = {id=30168,name="Cataclysm Shoulderguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35341] = {id=35341,name="Satin Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29954] = {id=29954,name="Spiritbinder's Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10185,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[23264] = {id=23264,name="Champion's Silk Mantle",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[20689] = {id=20689,name="Abyssal Leather Shoulders",obtain={NpcID=15204,NpcName="High Marshal Whirlaxis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.9,Zone="Silithus"}}
-items[19050] = {id=19050,name="Mantle of the Timbermaw",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23663,DropChance=0,Zone=""}}
-items[14335] = {id=14335,name="Eternal Spaulders",obtain={NpcID=6109,NpcName="Azuregos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.0,Zone="Azshara"}}
-items[14503] = {id=14503,name="Death's Clutch",obtain={NpcID=10508,NpcName="Ras Frostwhisper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.1,Zone="Scholomance"}}
-items[10210] = {id=10210,name="Elegant Mantle",obtain={NpcID=13959,NpcName="Alterac Yeti",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Alterac Valley"}}
-items[12610] = {id=12610,name="Runic Plate Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=16664,DropChance=0,Zone=""}}
-items[16695] = {id=16695,name="Devout Mantle",obtain={NpcID=10264,NpcName="Solakar Flamewreath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.3,Zone="Blackrock Spire"}}
-items[13257] = {id=13257,name="Demonic Runed Spaulders",obtain={NpcID=9236,NpcName="Shadow Hunter Vosh'gajin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.6,Zone="Blackrock Spire"}}
-items[14678] = {id=14678,name="Pridelord Pauldrons",obtain={NpcID=14475,NpcName="Rex Ashil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Silithus"}}
-items[10170] = {id=10170,name="Templar Pauldrons",obtain={NpcID=7104,NpcName="Dessecus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.4,Zone="Felwood"}}
-items[14298] = {id=14298,name="Bonecaster's Spaulders",obtain={NpcID=10662,NpcName="Spellmaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Winterspring"}}
-items[9531] = {id=9531,name="Gemshale Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=2846,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Farrak"}}
-items[4737] = {id=4737,name="Imperial Leather Spaulders",obtain={NpcID=14445,NpcName="Lord Captain Wyrmak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Swamp of Sorrows"}}
-items[14247] = {id=14247,name="Lunar Mantle",obtain={NpcID=7606,NpcName="Oro Eyegouge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Zul'Farrak"}}
-items[10774] = {id=10774,name="Fleshhide Shoulders",obtain={NpcID=8567,NpcName="Glutton",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=47.7,Zone="Razorfen Downs"}}
-items[14830] = {id=14830,name="Symbolic Pauldrons",obtain={NpcID=5645,NpcName="Sandfury Hideskinner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Tanaris"}}
-items[7445] = {id=7445,name="Sentinel Shoulders",obtain={NpcID=14232,NpcName="Dart",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.8,Zone="Dustwallow Marsh"}}
-items[35001] = {id=35001,name="Brutal Gladiator's Dragonhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35025] = {id=35025,name="Brutal Gladiator's Kodohide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35031] = {id=35031,name="Brutal Gladiator's Lamellar Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32264] = {id=32264,name="Shoulders of the Hidden Predator",obtain={NpcID=22841,NpcName="Shade of Akama",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="Black Temple"}}
-items[32573] = {id=32573,name="Dawnsteel Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41135,DropChance=0,Zone=""}}
-items[32024] = {id=32024,name="Merciless Gladiator's Ornamented Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30122] = {id=30122,name="Destroyer Shoulderblades",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27816] = {id=27816,name="Mindrage Pauldrons",obtain={NpcID=18341,NpcName="Pandemonius",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Mana-Tombs"}}
-items[35476] = {id=35476,name="Crusader's Ornamented Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30286] = {id=30286,name="Otherworldly Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10435,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[19394] = {id=19394,name="Drake Talon Pauldrons",obtain={NpcID=11983,NpcName="Firemaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.4,Zone="Blackwing Lair"}}
-items[19059] = {id=19059,name="Argent Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23665,DropChance=0,Zone=""}}
-items[16415] = {id=16415,name="Lieutenant Commander's Silk Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16718] = {id=16718,name="Wildheart Spaulders",obtain={NpcID=10268,NpcName="Gizrul the Slavener",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.3,Zone="Blackrock Spire"}}
-items[18494] = {id=18494,name="Denwatcher's Shoulders",obtain={NpcID=14323,NpcName="Guard Slip'kik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.9,Zone="Dire Maul"}}
-items[8288] = {id=8288,name="Arcane Pads",obtain={NpcID=13334,NpcName="Veteran Legionnaire",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Alterac Valley"}}
-items[15049] = {id=15049,name="Blue Dragonscale Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19089,DropChance=0,Zone=""}}
-items[22212] = {id=22212,name="Golem Fitted Pauldrons",obtain={NpcID=9502,NpcName="Phalanx",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=27.7,Zone="Blackrock Depths"}}
-items[11722] = {id=11722,name="Dregmetal Spaulders",obtain={NpcID=9028,NpcName="Grizzle",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.3,Zone="Blackrock Depths"}}
-items[3975] = {id=3975,name="Smooth Leather Shoulderpads",obtain={NpcID=1045,NpcName="Red Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Wetlands"}}
-items[10134] = {id=10134,name="Revenant Shoulders",obtain={NpcID=6649,NpcName="Lady Sesspira",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.2,Zone="Azshara"}}
-items[16739] = {id=16739,name="Rugwood Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5863,Recipe=false,RecipeID=0,DropChance=0,Zone="Tanaris"}}
-items[7918] = {id=7918,name="Heavy Mithril Shoulder",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9926,DropChance=0,Zone=""}}
-items[4731] = {id=4731,name="Glyphed Epaulets",obtain={NpcID=2603,NpcName="Kovork",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Arathi Highlands"}}
-items[7459] = {id=7459,name="Knight's Pauldrons",obtain={NpcID=15747,NpcName="Qiraji Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Thousand Needles"}}
-items[9863] = {id=9863,name="Archer's Shoulderpads",obtain={NpcID=15747,NpcName="Qiraji Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Thousand Needles"}}
-items[14397] = {id=14397,name="Resilient Mantle",obtain={NpcID=5934,NpcName="Heartrazor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Thousand Needles"}}
-items[1801] = {id=1801,name="Rawhide Shoulderpads",obtain={NpcID=4464,NpcName="Blackrock Gladiator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.9,Zone="Redridge Mountains"}}
-items[14157] = {id=14157,name="Pagan Mantle",obtain={NpcID=5799,NpcName="Hannah Bladeleaf",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="The Barrens"}}
-items[1744] = {id=1744,name="Laced Mail Shoulderpads",obtain={NpcID=17610,NpcName="Sunhawk Agent",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Bloodmyst Isle"}}
-items[34389] = {id=34389,name="Spaulders of the Thalassian Defender",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35063] = {id=35063,name="Brutal Gladiator's Ornamented Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35092] = {id=35092,name="Brutal Gladiator's Scaled Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31022] = {id=31022,name="Skyshatter Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32001] = {id=32001,name="Merciless Gladiator's Leather Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27844] = {id=27844,name="Pauldrons of Swift Retribution",obtain={NpcID=18344,NpcName="Nexus-Prince Shaffar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.7,Zone="Mana-Tombs"}}
-items[28874] = {id=28874,name="High Warlord's Wyrmhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35416] = {id=35416,name="Crusader's Scaled Shoulders",obtain={NpcID=18897,NpcName="\"King\" Dond (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[24587] = {id=24587,name="Outlander's Pauldrons",obtain={NpcID=17309,NpcName="Hellfire Watcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Hellfire Ramparts"}}
-items[16917] = {id=16917,name="Netherwind Mantle",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=42.2,Zone="Blackwing Lair"}}
-items[21683] = {id=21683,name="Mantle of the Desert Crusade",obtain={NpcID=15543,NpcName="Princess Yauj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.9,Zone="Ahn'Qiraj"}}
-items[21694] = {id=21694,name="Ternary Mantle",obtain={NpcID=15544,NpcName="Vem",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.4,Zone="Ahn'Qiraj"}}
-items[16844] = {id=16844,name="Earthfury Epaulets",obtain={NpcID=12056,NpcName="Baron Geddon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.6,Zone="Molten Core"}}
-items[18686] = {id=18686,name="Bone Golem Shoulders",obtain={NpcID=11622,NpcName="Rattlegore",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.7,Zone="Scholomance"}}
-items[15081] = {id=15081,name="Heavy Scorpid Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19100,DropChance=0,Zone=""}}
-items[12557] = {id=12557,name="Ebonsteel Spaulders",obtain={NpcID=8929,NpcName="Princess Moira Bronzebeard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.5,Zone="Blackrock Depths"}}
-items[14316] = {id=14316,name="Celestial Pauldrons",obtain={NpcID=10198,NpcName="Kashoch the Reaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Winterspring"}}
-items[10281] = {id=10281,name="Emerald Pauldrons",obtain={NpcID=10821,NpcName="Hed'mush the Rotting",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.7,Zone="Eastern Plaguelands"}}
-items[14806] = {id=14806,name="Bloodlust Epaulets",obtain={NpcID=10200,NpcName="Rak'shiri",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Winterspring"}}
-items[10038] = {id=10038,name="Stormcloth Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12087,DropChance=0,Zone=""}}
-items[14921] = {id=14921,name="Jade Epaulets",obtain={NpcID=193,NpcName="Blue Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Azshara"}}
-items[7532] = {id=7532,name="Cabalist Spaulders",obtain={NpcID=15750,NpcName="Qiraji Major",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Thousand Needles"}}
-items[15617] = {id=15617,name="Bonelink Epaulets",obtain={NpcID=7605,NpcName="Raven",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Zul'Farrak"}}
-items[4006] = {id=4006,name="Overlinked Chain Shoulderpads",obtain={NpcID=2781,NpcName="Caretaker Weston",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Arathi Highlands"}}
-items[7473] = {id=7473,name="Regal Mantle",obtain={NpcID=15192,NpcName="Anachronos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.3,Zone="Tanaris"}}
-items[7408] = {id=7408,name="Infiltrator Shoulders",obtain={NpcID=14225,NpcName="Prince Kellen",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.5,Zone="Desolace"}}
-items[9824] = {id=9824,name="Durable Shoulders",obtain={NpcID=10647,NpcName="Prince Raze",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.4,Zone="Ashenvale"}}
-items[4835] = {id=4835,name="Elite Shoulders",obtain={NpcID=2679,NpcName="Wenna Silkbeard (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Wetlands"}}
-items[15127] = {id=15127,name="Robust Shoulders",obtain={NpcID=4518,NpcName="Death's Head Sage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Razorfen Kraul"}}
-items[14186] = {id=14186,name="Raincaller Mantle",obtain={NpcID=8518,NpcName="Rynthariel the Keymaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Stonetalon Mountains"}}
-items[14378] = {id=14378,name="Sanguine Mantle",obtain={NpcID=5859,NpcName="Hagg Taurenbane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="The Barrens"}}
-items[4709] = {id=4709,name="Forest Leather Mantle",obtain={NpcID=14424,NpcName="Mirelow",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Wetlands"}}
-items[14728] = {id=14728,name="War Paint Shoulder Pads",obtain={NpcID=3735,NpcName="Apothecary Falthis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Ashenvale"}}
-items[4700] = {id=4700,name="Inscribed Leather Spaulders",obtain={NpcID=450,NpcName="Defias Renegade Mage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Westfall"}}
-items[4728] = {id=4728,name="Twain's Shoulder",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34208] = {id=34208,name="Equilibrium Epaulets",obtain={NpcID=25165,NpcName="Lady Sacrolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.8,Zone="Unknown"}}
-items[30996] = {id=30996,name="Lightbringer Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31023] = {id=31023,name="Skyshatter Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33674] = {id=33674,name="Vengeful Gladiator's Dragonhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33757] = {id=33757,name="Vengeful Gladiator's Silk Amice",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30866] = {id=30866,name="Blood-stained Pauldrons",obtain={NpcID=17767,NpcName="Rage Winterchill",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.1,Zone="Hyjal Summit"}}
-items[32273] = {id=32273,name="Amice of Brilliant Light",obtain={NpcID=22841,NpcName="Shade of Akama",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.8,Zone="Black Temple"}}
-items[32377] = {id=32377,name="Mantle of Darkness",obtain={NpcID=22887,NpcName="High Warlord Naj'entus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.5,Zone="Black Temple"}}
-items[32047] = {id=32047,name="Merciless Gladiator's Silk Amice",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30117] = {id=30117,name="Destroyer Shoulderguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30194] = {id=30194,name="Cataclysm Shoulderplates",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30235] = {id=30235,name="Nordrassil Wrath-Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33287] = {id=33287,name="Gnarled Ironwood Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27738] = {id=27738,name="Incanter's Pauldrons",obtain={NpcID=17798,NpcName="Warlord Kalithresh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.7,Zone="The Steamvault"}}
-items[28835] = {id=28835,name="High Warlord's Lamellar Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19139] = {id=19139,name="Fireguard Shoulders",obtain={NpcID=179703,NpcName="Cache of the Firelord (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.4,Zone="Molten Core"}}
-items[16848] = {id=16848,name="Giantstalker's Epaulets",obtain={NpcID=12098,NpcName="Sulfuron Harbinger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.5,Zone="Molten Core"}}
-items[15686] = {id=15686,name="Triumphant Shoulder Pads",obtain={NpcID=14888,NpcName="Lethon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Duskwood"}}
-items[16528] = {id=16528,name="Champion's Chain Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10153] = {id=10153,name="Mighty Spaulders",obtain={NpcID=1851,NpcName="The Husk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.3,Zone="Western Plaguelands"}}
-items[15677] = {id=15677,name="Magnificent Shoulders",obtain={NpcID=11447,NpcName="Mushgog",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Unknown"}}
-items[10228] = {id=10228,name="Nightshade Spaulders",obtain={NpcID=1841,NpcName="Scarlet Executioner",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.0,Zone="Western Plaguelands"}}
-items[3950] = {id=3950,name="Twill Shoulderpads",obtain={NpcID=6129,NpcName="Draconic Magelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.7,Zone="Azshara"}}
-items[10125] = {id=10125,name="Ornate Pauldrons",obtain={NpcID=10825,NpcName="Gish the Unmoving",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.0,Zone="Eastern Plaguelands"}}
-items[14929] = {id=14929,name="Lofty Shoulder Pads",obtain={NpcID=6129,NpcName="Draconic Magelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Azshara"}}
-items[11963] = {id=11963,name="Penance Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4136,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackrock Depths"}}
-items[10783] = {id=10783,name="Atal'ai Spaulders",obtain={NpcID=5716,NpcName="Zul'Lor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="The Temple of Atal'Hakkar"}}
-items[14278] = {id=14278,name="Opulent Mantle",obtain={NpcID=8196,NpcName="Occulus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Tanaris"}}
-items[3942] = {id=3942,name="Crochet Shoulderpads",obtain={NpcID=17235,NpcName="Witch Doctor Mai'jin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.4,Zone="The Hinterlands"}}
-items[15638] = {id=15638,name="Formidable Shoulder Pads",obtain={NpcID=5262,NpcName="Groddoc Thunderer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Feralas"}}
-items[14266] = {id=14266,name="Bloodwoven Pads",obtain={NpcID=6184,NpcName="Timbermaw Pathfinder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Azshara"}}
-items[3814] = {id=3814,name="Double Mail Shoulderpads",obtain={NpcID=2598,NpcName="Darbel Montrose",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Arathi Highlands"}}
-items[4729] = {id=4729,name="Aurora Mantle",obtain={NpcID=2738,NpcName="Stromgarde Cavalryman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Arathi Highlands"}}
-items[7060] = {id=7060,name="Azure Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8795,DropChance=0,Zone=""}}
-items[14596] = {id=14596,name="Hawkeye's Epaulets",obtain={NpcID=23554,NpcName="Risen Spirit",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Dustwallow Marsh"}}
-items[16793] = {id=16793,name="Arcmetal Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=6027,Recipe=false,RecipeID=0,DropChance=0,Zone="Desolace"}}
-items[4810] = {id=4810,name="Boulder Pads",obtain={NpcID=2453,NpcName="Lo'Grosh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=42.8,Zone="Alterac Mountains"}}
-items[15357] = {id=15357,name="Headhunter's Spaulders",obtain={NpcID=23841,NpcName="Razorspine",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Dustwallow Marsh"}}
-items[9834] = {id=9834,name="Scaled Leather Shoulders",obtain={NpcID=14223,NpcName="Cranky Benj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.3,Zone="Alterac Mountains"}}
-items[4196] = {id=4196,name="Feathered Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[6617] = {id=6617,name="Sage's Mantle",obtain={NpcID=1037,NpcName="Dragonmaw Battlemaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Wetlands"}}
-items[15531] = {id=15531,name="Sentry's Shoulderguards",obtain={NpcID=4532,NpcName="Razorfen Beastmaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Kraul"}}
-items[6395] = {id=6395,name="Silver-thread Amice",obtain={NpcID=6407,NpcName="Holdout Technician",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Gnomeregan"}}
-items[9796] = {id=9796,name="Ivycloth Mantle",obtain={NpcID=5827,NpcName="Brontus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.5,Zone="The Barrens"}}
-items[14749] = {id=14749,name="Hulking Spaulders",obtain={NpcID=11684,NpcName="Warsong Shredder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.7,Zone="Ashenvale"}}
-items[6588] = {id=6588,name="Scouting Spaulders",obtain={NpcID=10643,NpcName="Mugglefin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Ashenvale"}}
-items[34202] = {id=34202,name="Shawl of Wonderment",obtain={NpcID=25165,NpcName="Lady Sacrolash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.8,Zone="Unknown"}}
-items[35070] = {id=35070,name="Brutal Gladiator's Plate Shoulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30980] = {id=30980,name="Onslaught Shoulderguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31006] = {id=31006,name="Gronnstalker's Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31049] = {id=31049,name="Thunderheart Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33726] = {id=33726,name="Vengeful Gladiator's Ornamented Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31979] = {id=31979,name="Merciless Gladiator's Felweave Amice",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33206] = {id=33206,name="Pauldrons of Primal Fury",obtain={NpcID=23576,NpcName="Nalorakk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.3,Zone="Unknown"}}
-items[28344] = {id=28344,name="Wyrmfury Pauldrons",obtain={NpcID=18096,NpcName="Epoch Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.6,Zone="Old Hillsbrad Foothills"}}
-items[30005] = {id=30005,name="Overmaster's Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10318,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31115] = {id=31115,name="Uvuros Plated Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10647,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[29999] = {id=29999,name="After Hours Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10199,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[27417] = {id=27417,name="Ravenwing Pauldrons",obtain={NpcID=17848,NpcName="Lieutenant Drake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.0,Zone="Old Hillsbrad Foothills"}}
-items[25947] = {id=25947,name="Lightning-Rod Pauldrons",obtain={NpcID=18343,NpcName="Tavarok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Mana-Tombs"}}
-items[25522] = {id=25522,name="Marshstrider's Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9732,Recipe=false,RecipeID=0,DropChance=0,Zone="Zangarmarsh"}}
-items[27725] = {id=27725,name="Expedition Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9730,Recipe=false,RecipeID=0,DropChance=0,Zone="Zangarmarsh"}}
-items[22940] = {id=22940,name="Icebane Pauldrons",obtain={NpcID=15953,NpcName="Grand Widow Faerlina",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.8,Zone="Naxxramas"}}
-items[16961] = {id=16961,name="Pauldrons of Wrath",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.7,Zone="Blackwing Lair"}}
-items[21686] = {id=21686,name="Mantle of Phrenic Power",obtain={NpcID=15543,NpcName="Princess Yauj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.8,Zone="Ahn'Qiraj"}}
-items[16797] = {id=16797,name="Arcanist Mantle",obtain={NpcID=12056,NpcName="Baron Geddon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.1,Zone="Molten Core"}}
-items[12588] = {id=12588,name="Bonespike Shoulder",obtain={NpcID=10429,NpcName="Warchief Rend Blackhand",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Blackrock Spire"}}
-items[13358] = {id=13358,name="Wyrmtongue Shoulders",obtain={NpcID=10812,NpcName="Grand Crusader Dathrohan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.7,Zone="Stratholme"}}
-items[17613] = {id=17613,name="Champion's Satin Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14817] = {id=14817,name="Warstrike Shoulder Pads",obtain={NpcID=12474,NpcName="Emeraldon Boughguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Ashenvale"}}
-items[13133] = {id=13133,name="Drakesfire Epaulets",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[14633] = {id=14633,name="Necropile Mantle",obtain={NpcID=11261,NpcName="Doctor Theolen Krastinov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.1,Zone="Scholomance"}}
-items[14688] = {id=14688,name="Indomitable Epaulets",obtain={NpcID=5319,NpcName="Jademir Tree Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Feralas"}}
-items[13538] = {id=13538,name="Windshrieker Pauldrons",obtain={NpcID=10436,NpcName="Baroness Anastari",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.3,Zone="Stratholme"}}
-items[10245] = {id=10245,name="Heavy Lamellar Pauldrons",obtain={NpcID=9604,NpcName="Gorgon'och",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.3,Zone="Burning Steppes"}}
-items[9941] = {id=9941,name="Abjurer's Mantle",obtain={NpcID=8281,NpcName="Scald",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.3,Zone="Searing Gorge"}}
-items[8281] = {id=8281,name="Valorous Pauldrons",obtain={NpcID=5399,NpcName="Veyzhak the Cannibal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Unknown"}}
-items[3967] = {id=3967,name="Thick Leather Shoulderpads",obtain={NpcID=5343,NpcName="Lady Szallah",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.7,Zone="Feralas"}}
-items[10092] = {id=10092,name="Gothic Plate Spaulders",obtain={NpcID=1063,NpcName="Jade",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.6,Zone="Unknown"}}
-items[8144] = {id=8144,name="Chromite Pauldrons",obtain={NpcID=14445,NpcName="Lord Captain Wyrmak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Swamp of Sorrows"}}
-items[14841] = {id=14841,name="Tyrant's Epaulets",obtain={NpcID=7606,NpcName="Oro Eyegouge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Zul'Farrak"}}
-items[4734] = {id=4734,name="Mistscape Mantle",obtain={NpcID=8219,NpcName="Zul'arek Hatefowler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="The Hinterlands"}}
-items[7491] = {id=7491,name="Captain's Shoulderguards",obtain={NpcID=8219,NpcName="Zul'arek Hatefowler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="The Hinterlands"}}
-items[9292] = {id=9292,name="Field Plate Pauldrons",obtain={NpcID=14448,NpcName="Molt Thorn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Swamp of Sorrows"}}
-items[15583] = {id=15583,name="Sparkleshell Shoulder Pads",obtain={NpcID=4387,NpcName="Withervine Mire Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Dustwallow Marsh"}}
-items[15698] = {id=15698,name="Wrangling Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5561,Recipe=false,RecipeID=0,DropChance=0,Zone="Desolace"}}
-items[15150] = {id=15150,name="Ghostwalker Pads",obtain={NpcID=5045,NpcName="Private Hallan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Dustwallow Marsh"}}
-items[7352] = {id=7352,name="Earthen Leather Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9147,DropChance=0,Zone=""}}
-items[15496] = {id=15496,name="Bloodspattered Shoulder Pads",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="The Barrens"}}
-items[35096] = {id=35096,name="Brutal Gladiator's Silk Amice",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32518] = {id=32518,name="Veil of Turning Leaves",obtain={NpcID=22950,NpcName="High Nethermancer Zerevor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Unknown"}}
-items[32008] = {id=32008,name="Merciless Gladiator's Linked Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30173] = {id=30173,name="Cataclysm Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33973] = {id=33973,name="Pauldrons of Tribal Fury",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24691] = {id=24691,name="Elementalist Mantle",obtain={NpcID=22281,NpcName="Galvanoth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Unknown"}}
-items[28340] = {id=28340,name="Mantle of Autumn",obtain={NpcID=17980,NpcName="Laj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="The Botanica"}}
-items[34607] = {id=34607,name="Fel-tinged Mantle",obtain={NpcID=24744,NpcName="Vexallus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.4,Zone="Magisters' Terrace"}}
-items[24619] = {id=24619,name="Vindicator Shoulderpads",obtain={NpcID=18205,NpcName="Clefthoof",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Nagrand"}}
-items[31248] = {id=31248,name="Bog Epaulets",obtain={NpcID=18682,NpcName="Bog Lurker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.5,Zone="Zangarmarsh"}}
-items[24940] = {id=24940,name="Darkcrest Pauldrons",obtain={NpcID=19415,NpcName="Shattered Hand Acolyte",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.2,Zone="Hellfire Peninsula"}}
-items[25560] = {id=25560,name="Lo'ap's Muck Diving Pads",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9815,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[16823] = {id=16823,name="Nightslayer Shoulder Pads",obtain={NpcID=12098,NpcName="Sulfuron Harbinger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.9,Zone="Molten Core"}}
-items[16856] = {id=16856,name="Lawbringer Spaulders",obtain={NpcID=12056,NpcName="Baron Geddon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.4,Zone="Molten Core"}}
-items[16868] = {id=16868,name="Pauldrons of Might",obtain={NpcID=12098,NpcName="Sulfuron Harbinger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.9,Zone="Molten Core"}}
-items[20184] = {id=20184,name="Defiler's Lamellar Spaulders",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[15441] = {id=15441,name="Supreme Shoulders",obtain={NpcID=6109,NpcName="Azuregos",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.7,Zone="Azshara"}}
-items[16501] = {id=16501,name="Champion's Dragonhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18720] = {id=18720,name="Shroud of the Nathrezim",obtain={NpcID=10812,NpcName="Grand Crusader Dathrohan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.1,Zone="Stratholme"}}
-items[10142] = {id=10142,name="High Councillor's Mantle",obtain={NpcID=15817,NpcName="Qiraji Brigadier General Pax-lish",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.2,Zone="Silithus"}}
-items[14463] = {id=14463,name="Elunarian Spaulders",obtain={NpcID=16072,NpcName="Tidelord Rrurgaz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Dustwallow Marsh"}}
-items[14981] = {id=14981,name="Exalted Epaulets",obtain={NpcID=14890,NpcName="Taerar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Duskwood"}}
-items[13533] = {id=13533,name="Acid-etched Pauldrons",obtain={NpcID=10437,NpcName="Nerub'enkan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.6,Zone="Stratholme"}}
-items[16669] = {id=16669,name="Pauldrons of Elements",obtain={NpcID=10339,NpcName="Gyth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.4,Zone="Blackrock Spire"}}
-items[8301] = {id=8301,name="Traveler's Spaulders",obtain={NpcID=1046,NpcName="Red Wyrmkin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Wetlands"}}
-items[14860] = {id=14860,name="Vanguard Pauldrons",obtain={NpcID=10660,NpcName="Cobalt Broodling",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Winterspring"}}
-items[10172] = {id=10172,name="Mystical Mantle",obtain={NpcID=10817,NpcName="Duggan Wildhammer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.3,Zone="Eastern Plaguelands"}}
-items[10189] = {id=10189,name="Swashbuckler's Shoulderpads",obtain={NpcID=10817,NpcName="Duggan Wildhammer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Eastern Plaguelands"}}
-items[11842] = {id=11842,name="Lead Surveyor's Mantle",obtain={NpcID=9056,NpcName="Fineous Darkvire",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.1,Zone="Blackrock Depths"}}
-items[8272] = {id=8272,name="Ebonhold Shoulderpads",obtain={NpcID=7049,NpcName="Flamescale Broodling",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Burning Steppes"}}
-items[14452] = {id=14452,name="Highborne Pauldrons",obtain={NpcID=6144,NpcName="Son of Arkkoroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Azshara"}}
-items[8263] = {id=8263,name="Serpentskin Spaulders",obtain={NpcID=5721,NpcName="Dreamscythe",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="The Temple of Atal'Hakkar"}}
-items[14963] = {id=14963,name="High Chief's Pauldrons",obtain={NpcID=6502,NpcName="Plated Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Un'Goro Crater"}}
-items[15395] = {id=15395,name="Jadefire Epaulets",obtain={NpcID=11553,NpcName="Timbermaw Woodbender",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Felwood"}}
-items[10085] = {id=10085,name="Lord's Pauldrons",obtain={NpcID=8215,NpcName="Grimungous",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.1,Zone="The Hinterlands"}}
-items[186080] = {id=186080,name="Communal Pads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[8133] = {id=8133,name="Myrmidon's Pauldrons",obtain={NpcID=5983,NpcName="Bonepicker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Blasted Lands"}}
-items[9955] = {id=9955,name="Chieftain's Shoulders",obtain={NpcID=14344,NpcName="Mongress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.2,Zone="Felwood"}}
-items[9965] = {id=9965,name="Warmonger's Pauldrons",obtain={NpcID=15816,NpcName="Qiraji Major He'al-ie",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.3,Zone="Thousand Needles"}}
-items[14443] = {id=14443,name="Venomshroud Mantle",obtain={NpcID=6187,NpcName="Timbermaw Den Watcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Azshara"}}
-items[15177] = {id=15177,name="Potent Shoulders",obtain={NpcID=5466,NpcName="Coast Strider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Tanaris"}}
-items[8111] = {id=8111,name="Hibernal Mantle",obtain={NpcID=5401,NpcName="Kazkaz the Unholy",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.7,Zone="Unknown"}}
-items[14273] = {id=14273,name="Gaea's Amice",obtain={NpcID=6185,NpcName="Timbermaw Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[15386] = {id=15386,name="Rageclaw Shoulder Pads",obtain={NpcID=6186,NpcName="Timbermaw Totemic",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Azshara"}}
-items[15628] = {id=15628,name="Gryphon Mail Pauldrons",obtain={NpcID=12206,NpcName="Primordial Behemoth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Maraudon"}}
-items[7523] = {id=7523,name="Gossamer Shoulderpads",obtain={NpcID=8200,NpcName="Jin'Zallah the Sandbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.7,Zone="Tanaris"}}
-items[9971] = {id=9971,name="Embossed Plate Pauldrons",obtain={NpcID=14492,NpcName="Verifonix",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Stranglethorn Vale"}}
-items[9881] = {id=9881,name="Sorcerer Mantle",obtain={NpcID=14224,NpcName="7:XT",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Badlands"}}
-items[9894] = {id=9894,name="Huntsman's Shoulders",obtain={NpcID=14234,NpcName="Hayoc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.4,Zone="Dustwallow Marsh"}}
-items[9904] = {id=9904,name="Jazeraint Pauldrons",obtain={NpcID=5356,NpcName="Snarler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.8,Zone="Feralas"}}
-items[14603] = {id=14603,name="Warden's Mantle",obtain={NpcID=11685,NpcName="Maraudine Priest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Desolace"}}
-items[4725] = {id=4725,name="Chief Brigadier Pauldrons",obtain={NpcID=14487,NpcName="Gluggle",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Stranglethorn Vale"}}
-items[14232] = {id=14232,name="Embersilk Mantle",obtain={NpcID=4687,NpcName="Deepstrider Searcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Desolace"}}
-items[15368] = {id=15368,name="Trickster's Pauldrons",obtain={NpcID=4658,NpcName="Maraudine Stormer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Desolace"}}
-items[14223] = {id=14223,name="Geomancer's Spaulders",obtain={NpcID=4382,NpcName="Withervine Creeper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Dustwallow Marsh"}}
-items[14767] = {id=14767,name="Enduring Pauldrons",obtain={NpcID=7347,NpcName="Boneflayer Ghoul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Downs"}}
-items[9872] = {id=9872,name="Renegade Pauldrons",obtain={NpcID=14487,NpcName="Gluggle",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Stranglethorn Vale"}}
-items[15542] = {id=15542,name="Wicked Chain Shoulder Pads",obtain={NpcID=3792,NpcName="Terrowulf Packlord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Ashenvale"}}
-items[15345] = {id=15345,name="Pathfinder Shoulder Pads",obtain={NpcID=4532,NpcName="Razorfen Beastmaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Kraul"}}
-items[6399] = {id=6399,name="Emblazoned Shoulders",obtain={NpcID=6391,NpcName="Holdout Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Gnomeregan"}}
-items[1785] = {id=1785,name="Cross-stitched Shoulderpads",obtain={NpcID=5915,NpcName="Brother Ravenoak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Stonetalon Mountains"}}
-items[14182] = {id=14182,name="Watcher's Mantle",obtain={NpcID=6035,NpcName="Razorfen Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Kraul"}}
-items[15338] = {id=15338,name="Wrangler's Mantle",obtain={NpcID=6035,NpcName="Razorfen Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Razorfen Kraul"}}
-items[9807] = {id=9807,name="Superior Shoulders",obtain={NpcID=15807,NpcName="Minor Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.0,Zone="The Barrens"}}
-items[15523] = {id=15523,name="Spiked Chain Shoulder Pads",obtain={NpcID=5800,NpcName="Marcus Bel",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="The Barrens"}}
-items[1809] = {id=1809,name="Tough Leather Shoulderpads",obtain={NpcID=11682,NpcName="Warsong Grunt",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.9,Zone="Ashenvale"}}
-items[15116] = {id=15116,name="Rigid Shoulders",obtain={NpcID=5799,NpcName="Hannah Bladeleaf",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="The Barrens"}}
-items[15505] = {id=15505,name="Outrunner's Pauldrons",obtain={NpcID=3898,NpcName="Aligar the Tormentor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.7,Zone="Darkshore"}}
-items[10407] = {id=10407,name="Raider's Shoulderpads",obtain={NpcID=15813,NpcName="Qiraji Officer Zod",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="The Barrens"}}
-items[34391] = {id=34391,name="Spaulders of Devastation",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35009] = {id=35009,name="Brutal Gladiator's Felweave Amice",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35056] = {id=35056,name="Brutal Gladiator's Mooncloth Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33703] = {id=33703,name="Vengeful Gladiator's Leather Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33753] = {id=33753,name="Vengeful Gladiator's Scaled Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32043] = {id=32043,name="Merciless Gladiator's Scaled Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30138] = {id=30138,name="Crystalforge Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33300] = {id=33300,name="Shoulderpads of Dancing Blades",obtain={NpcID=23577,NpcName="Halazzi",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.8,Zone="Unknown"}}
-items[34613] = {id=34613,name="Shoulderpads of the Silvermoon Retainer",obtain={NpcID=24664,NpcName="Kael'thas Sunstrider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.6,Zone="Magisters' Terrace"}}
-items[24683] = {id=24683,name="Archmage Mantle",obtain={NpcID=17420,NpcName="Shattered Hand Heathen",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Shattered Halls"}}
-items[27831] = {id=27831,name="Mantle of the Unforgiven",obtain={NpcID=18344,NpcName="Nexus-Prince Shaffar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.8,Zone="Mana-Tombs"}}
-items[31553] = {id=31553,name="Windchanneller's Mantle",obtain={NpcID=22825,NpcName="Matron Li-sahar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=90.1,Zone="Unknown"}}
-items[34601] = {id=34601,name="Shoulderplates of Everlasting Pain",obtain={NpcID=24723,NpcName="Selin Fireheart",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.9,Zone="Magisters' Terrace"}}
-items[34788] = {id=34788,name="Duskhallow Mantle",obtain={NpcID=24560,NpcName="Priestess Delrissa",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.2,Zone="Magisters' Terrace"}}
-items[35395] = {id=35395,name="Seer's Ringmail Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30952] = {id=30952,name="Earthmender's Crimson Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10451,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[31161] = {id=31161,name="Felstone Spaulders",obtain={NpcID=18690,NpcName="Morcrush",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=44.2,Zone="Unknown"}}
-items[25547] = {id=25547,name="QR XXXX Druid Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25557] = {id=25557,name="Salvaged Ango'rosh Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9810,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[29326] = {id=29326,name="Consortium Mantle of Phasing",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10218,Recipe=false,RecipeID=0,DropChance=0,Zone="Mana-Tombs"}}
-items[31249] = {id=31249,name="Bog Spaulders",obtain={NpcID=18682,NpcName="Bog Lurker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.2,Zone="Zangarmarsh"}}
-items[25514] = {id=25514,name="Ikeyen's Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9788,Recipe=false,RecipeID=0,DropChance=0,Zone="Zangarmarsh"}}
-items[22967] = {id=22967,name="Icy Scale Spaulders",obtain={NpcID=15931,NpcName="Grobbulus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.9,Zone="Naxxramas"}}
-items[22968] = {id=22968,name="Glacial Mantle",obtain={NpcID=15931,NpcName="Grobbulus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.0,Zone="Naxxramas"}}
-items[24812] = {id=24812,name="Unyielding Spaulders",obtain={NpcID=17053,NpcName="Kaliri Swooper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Hellfire Peninsula"}}
-items[21468] = {id=21468,name="Mantle of Maz'Nadir",obtain={NpcID=15340,NpcName="Moam",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.7,Zone="Ruins of Ahn'Qiraj"}}
-items[23252] = {id=23252,name="Champion's Chain Shoulders",obtain={NpcID=12792,NpcName="Lady Palanseer (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[16436] = {id=16436,name="Lieutenant Commander's Lamellar Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16507] = {id=16507,name="Champion's Leather Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20774] = {id=20774,name="63 green shaman pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[14548] = {id=14548,name="Royal Cap Spaulders",obtain={NpcID=10503,NpcName="Jandice Barov",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.6,Zone="Scholomance"}}
-items[13185] = {id=13185,name="Sunderseer Mantle",obtain={NpcID=10376,NpcName="Crystal Fang",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.2,Zone="Blackrock Spire"}}
-items[14325] = {id=14325,name="Resplendent Epaulets",obtain={NpcID=14471,NpcName="Setis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Silithus"}}
-items[14937] = {id=14937,name="Heroic Pauldrons",obtain={NpcID=10196,NpcName="General Colbatann",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Winterspring"}}
-items[15666] = {id=15666,name="Impenetrable Pauldrons",obtain={NpcID=10663,NpcName="Manaclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Winterspring"}}
-items[15693] = {id=15693,name="Grand Shoulders",obtain={NpcID=10663,NpcName="Manaclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Winterspring"}}
-items[15432] = {id=15432,name="Peerless Shoulders",obtain={NpcID=11469,NpcName="Eldreth Seether",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Dire Maul"}}
-items[10113] = {id=10113,name="Wanderer's Shoulders",obtain={NpcID=10826,NpcName="Lord Darkscythe",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Eastern Plaguelands"}}
-items[13013] = {id=13013,name="Elder Wizard's Mantle",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[15647] = {id=15647,name="Ironhide Pauldrons",obtain={NpcID=6129,NpcName="Draconic Magelord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[10063] = {id=10063,name="Duskwoven Amice",obtain={NpcID=8213,NpcName="Ironback",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.3,Zone="The Hinterlands"}}
-items[14669] = {id=14669,name="Keeper's Mantle",obtain={NpcID=193,NpcName="Blue Dragonspawn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[14797] = {id=14797,name="Protector Pads",obtain={NpcID=6130,NpcName="Blue Scalebane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Azshara"}}
-items[10209] = {id=10209,name="Overlord's Spaulders",obtain={NpcID=9021,NpcName="Kharan Mighthammer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.2,Zone="Blackrock Depths"}}
-items[8124] = {id=8124,name="Heraldic Spaulders",obtain={NpcID=8336,NpcName="Hakkari Sapper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="The Temple of Atal'Hakkar"}}
-items[14660] = {id=14660,name="Scorpashi Shoulder Pads",obtain={NpcID=4328,NpcName="Firemane Scalebane",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[14787] = {id=14787,name="Khan's Mantle",obtain={NpcID=11794,NpcName="Sister of Celebrian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Maraudon"}}
-items[7928] = {id=7928,name="Ornate Mithril Shoulder",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9952,DropChance=0,Zone=""}}
-items[9912] = {id=9912,name="Royal Amice",obtain={NpcID=5345,NpcName="Diamond Head",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Feralas"}}
-items[8210] = {id=8210,name="Wild Leather Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10529,DropChance=0,Zone=""}}
-items[15608] = {id=15608,name="Ancient Pauldrons",obtain={NpcID=11688,NpcName="Cursed Centaur",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Desolace"}}
-items[15597] = {id=15597,name="Steadfast Shoulders",obtain={NpcID=2937,NpcName="Dagun the Ravenous",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Dustwallow Marsh"}}
-items[8163] = {id=8163,name="Jouster's Pauldrons",obtain={NpcID=2749,NpcName="Siege Golem",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Badlands"}}
-items[15158] = {id=15158,name="Nocturnal Shoulder Pads",obtain={NpcID=4687,NpcName="Deepstrider Searcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Desolace"}}
-items[7435] = {id=7435,name="Twilight Mantle",obtain={NpcID=14488,NpcName="Roloch",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.6,Zone="Stranglethorn Vale"}}
-items[3806] = {id=3806,name="Hardened Leather Shoulderpads",obtain={NpcID=14229,NpcName="Accursed Slitherblade",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Desolace"}}
-items[14412] = {id=14412,name="Stonecloth Epaulets",obtain={NpcID=4382,NpcName="Withervine Creeper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Dustwallow Marsh"}}
-items[15562] = {id=15562,name="Pillager's Pauldrons",obtain={NpcID=5935,NpcName="Ironeye the Invincible",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Thousand Needles"}}
-items[4721] = {id=4721,name="Insignia Mantle",obtain={NpcID=507,NpcName="Fenros",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Duskwood"}}
-items[6404] = {id=6404,name="Mail Combat Spaulders",obtain={NpcID=3985,NpcName="Grandpa Vishas",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Alterac Mountains"}}
-items[14212] = {id=14212,name="Vital Shoulders",obtain={NpcID=7329,NpcName="Withered Quilguard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Downs"}}
-items[7367] = {id=7367,name="Elder's Mantle",obtain={NpcID=15748,NpcName="Lesser Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.6,Zone="Thousand Needles"}}
-items[9842] = {id=9842,name="Banded Pauldrons",obtain={NpcID=14223,NpcName="Cranky Benj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.2,Zone="Alterac Mountains"}}
-items[14587] = {id=14587,name="Dokebi Mantle",obtain={NpcID=17300,NpcName="Gorgannon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.8,Zone="Ashenvale"}}
-items[9536] = {id=9536,name="Fairywing Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=2904,Recipe=false,RecipeID=0,DropChance=0,Zone="Gnomeregan"}}
-items[7415] = {id=7415,name="Dervish Spaulders",obtain={NpcID=15806,NpcName="Qiraji Lieutenant",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.0,Zone="The Barrens"}}
-items[1760] = {id=1760,name="Reinforced Chain Shoulderpads",obtain={NpcID=5916,NpcName="Sentinel Amarassan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Stonetalon Mountains"}}
-items[1752] = {id=1752,name="Linked Chain Shoulderpads",obtain={NpcID=16246,NpcName="Knucklerot",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.9,Zone="Ghostlands"}}
-items[31047] = {id=31047,name="Thunderheart Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33693] = {id=33693,name="Vengeful Gladiator's Kodohide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33747] = {id=33747,name="Vengeful Gladiator's Satin Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33770] = {id=33770,name="Vengeful Gladiator's Wyrmhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30917] = {id=30917,name="Razorfury Mantle",obtain={NpcID=17888,NpcName="Kaz'rogal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.2,Zone="Hyjal Summit"}}
-items[32338] = {id=32338,name="Blood-cursed Shoulderpads",obtain={NpcID=22948,NpcName="Gurtogg Bloodboil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.3,Zone="Black Temple"}}
-items[32583] = {id=32583,name="Shoulderpads of Renewed Life",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41157,DropChance=0,Zone=""}}
-items[27710] = {id=27710,name="Gladiator's Satin Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28374] = {id=28374,name="Mana-Sphere Shoulderguards",obtain={NpcID=20870,NpcName="Zereketh the Unbound",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.1,Zone="The Arcatraz"}}
-items[31162] = {id=31162,name="Felstone Mantle",obtain={NpcID=18690,NpcName="Morcrush",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=44.2,Zone="Unknown"}}
-items[24884] = {id=24884,name="Der'izu Spaulders",obtain={NpcID=19993,NpcName="Bloodmaul Mauler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Blade's Edge Mountains"}}
-items[30218] = {id=30218,name="Junior Technician 3rd Grade Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10186,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[30275] = {id=30275,name="Mech Tech Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10206,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[24651] = {id=24651,name="Astralaan Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31521] = {id=31521,name="Expedition Defender's Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10713,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[24868] = {id=24868,name="Blood Knight Pauldrons",obtain={NpcID=18864,NpcName="Mana Wraith",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[24635] = {id=24635,name="Feralfen Amice",obtain={NpcID=16769,NpcName="Firewing Warlock",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Terokkar Forest"}}
-items[24747] = {id=24747,name="Ranger Pauldrons",obtain={NpcID=18313,NpcName="Ethereal Sorcerer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.8,Zone="Mana-Tombs"}}
-items[24972] = {id=24972,name="Talonguard Epaulets",obtain={NpcID=18453,NpcName="Skithian Windripper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Terokkar Forest"}}
-items[31797] = {id=31797,name="Elekk Hide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10915,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[24627] = {id=24627,name="Slavehandler Amice",obtain={NpcID=18309,NpcName="Ethereal Scavenger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.6,Zone="Mana-Tombs"}}
-items[24964] = {id=24964,name="Khan'aish Epaulets",obtain={NpcID=18317,NpcName="Ethereal Priest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Mana-Tombs"}}
-items[24844] = {id=24844,name="Wrathfin Mantle",obtain={NpcID=19350,NpcName="Thornfang Venomspitter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.5,Zone="Hellfire Peninsula"}}
-items[25967] = {id=25967,name="Eagle Crested Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20793] = {id=20793,name="90 green shaman pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24611] = {id=24611,name="Laughing Skull Shoulderpads",obtain={NpcID=16933,NpcName="Razorfang Ravager",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.6,Zone="Hellfire Peninsula"}}
-items[31247] = {id=31247,name="Bog Pauldrons",obtain={NpcID=18682,NpcName="Bog Lurker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=45.5,Zone="Zangarmarsh"}}
-items[24820] = {id=24820,name="Felstone Spaulders",obtain={NpcID=17397,NpcName="Shadowmoon Adept",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="The Blood Furnace"}}
-items[20637] = {id=20637,name="Acid Inscribed Pauldrons",obtain={NpcID=14887,NpcName="Ysondre",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.5,Zone="Duskwood"}}
-items[25347] = {id=25347,name="Dilapidated Cloth Shoulderpads",obtain={NpcID=16807,NpcName="Grand Warlock Nethekurse",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="The Shattered Halls"}}
-items[25372] = {id=25372,name="Eroded Mail Shoulderpads",obtain={NpcID=19411,NpcName="Shattered Hand Warlock",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Hellfire Peninsula"}}
-items[3983] = {id=3983,name="Strapped Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16524] = {id=16524,name="Champion's Mail Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16689] = {id=16689,name="Magister's Mantle",obtain={NpcID=10508,NpcName="Ras Frostwhisper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.6,Zone="Scholomance"}}
-items[15784] = {id=15784,name="Crystal Breeze Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5121,Recipe=false,RecipeID=0,DropChance=0,Zone="Winterspring"}}
-items[15822] = {id=15822,name="Shadowskin Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=6031,Recipe=false,RecipeID=0,DropChance=0,Zone="Timbermaw Hold"}}
-items[13115] = {id=13115,name="Sheepshear Mantle",obtain={NpcID=680,NpcName="Mosh'Ogg Lord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Stranglethorn Vale"}}
-items[14201] = {id=14201,name="Thistlefur Mantle",obtain={NpcID=7327,NpcName="Withered Warrior",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Razorfen Downs"}}
-items[4698] = {id=4698,name="Seer's Mantle",obtain={NpcID=16329,NpcName="Dar'Khan Drathir",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Ghostlands"}}
-items[35006] = {id=35006,name="Brutal Gladiator's Dreadweave Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31048] = {id=31048,name="Thunderheart Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33710] = {id=33710,name="Vengeful Gladiator's Linked Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33715] = {id=33715,name="Vengeful Gladiator's Mail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33720] = {id=33720,name="Vengeful Gladiator's Mooncloth Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33742] = {id=33742,name="Vengeful Gladiator's Ringmail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31990] = {id=31990,name="Merciless Gladiator's Kodohide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32013] = {id=32013,name="Merciless Gladiator's Mail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32033] = {id=32033,name="Merciless Gladiator's Ringmail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30133] = {id=30133,name="Crystalforge Shoulderbraces",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24534] = {id=24534,name="130 Epic Warrior Pauldrons",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33514] = {id=33514,name="Pauldrons of Gruesome Fate",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25999] = {id=25999,name="Gladiator's Linked Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24916] = {id=24916,name="Netherstorm Shoulderguards",obtain={NpcID=23333,NpcName="The Grand Collector",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=75.8,Zone="Unknown"}}
-items[25020] = {id=25020,name="Shattered Hand Epaulets",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24675] = {id=24675,name="Eldr'naan Shoulderpads",obtain={NpcID=18493,NpcName="Auchenai Soulpriest",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="Auchenai Crypts"}}
-items[25012] = {id=25012,name="Conqueror's Epaulets",obtain={NpcID=18636,NpcName="Cabal Assassin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Shadow Labyrinth"}}
-items[30333] = {id=30333,name="Spaulders of the Protectorate",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10425,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[24667] = {id=24667,name="Shadow Council Mantle",obtain={NpcID=16948,NpcName="Gan'arg Engineer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Netherstorm"}}
-items[24892] = {id=24892,name="Skettis Spaulders",obtain={NpcID=20990,NpcName="Bloodwarder Physician",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="The Mechanar"}}
-items[25004] = {id=25004,name="Bloodfist Epaulets",obtain={NpcID=20865,NpcName="Protean Horror",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="The Arcatraz"}}
-items[29810] = {id=29810,name="Dragon Crested Epaulets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10274,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[24771] = {id=24771,name="Clefthoof Shoulderguards",obtain={NpcID=21058,NpcName="Disembodied Exarch",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Netherstorm"}}
-items[24763] = {id=24763,name="Umbrafen Shoulderguards",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24876] = {id=24876,name="Ironspine Shoulderguards",obtain={NpcID=18203,NpcName="Murkblood Raider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Nagrand"}}
-items[24988] = {id=24988,name="Boulderfist Epaulets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24755] = {id=24755,name="Daggerfen Pauldrons",obtain={NpcID=18312,NpcName="Ethereal Spellbinder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Mana-Tombs"}}
-items[24980] = {id=24980,name="Reaver Epaulets",obtain={NpcID=21891,NpcName="Avian Ripper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Sethekk Halls"}}
-items[24739] = {id=24739,name="Sunroc Shoulderguards",obtain={NpcID=18044,NpcName="Rajis Fyashe",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Zangarmarsh"}}
-items[24731] = {id=24731,name="Dementia Shoulderguards",obtain={NpcID=18133,NpcName="Marshlight Bleeder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Zangarmarsh"}}
-items[24956] = {id=24956,name="Bogslayer Pauldrons",obtain={NpcID=18311,NpcName="Ethereal Crypt Raider",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.6,Zone="Mana-Tombs"}}
-items[24836] = {id=24836,name="Nexus-Strider Mantle",obtain={NpcID=16871,NpcName="Bleeding Hollow Grunt",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Hellfire Peninsula"}}
-items[24603] = {id=24603,name="Starfire Mantle",obtain={NpcID=17269,NpcName="Bleeding Hollow Darkcaster",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.2,Zone="Hellfire Ramparts"}}
-items[24715] = {id=24715,name="Vengeance Pauldrons",obtain={NpcID=17271,NpcName="Bonechewer Destroyer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Hellfire Ramparts"}}
-items[24707] = {id=24707,name="Haal'eshi Pauldrons",obtain={NpcID=18124,NpcName="Withered Giant",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Zangarmarsh"}}
-items[24932] = {id=24932,name="Ango'rosh Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16937] = {id=16937,name="Dragonstalker's Spaulders",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=40.5,Zone="Blackwing Lair"}}
-items[25364] = {id=25364,name="Decaying Leather Shoulderpads",obtain={NpcID=18524,NpcName="Angered Skeleton",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Auchenai Crypts"}}
-items[25380] = {id=25380,name="Corroded Mail Shoulderpads",obtain={NpcID=19608,NpcName="Frayer Wildling",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Botanica"}}
-items[25396] = {id=25396,name="Deteriorating Plate Shoulderpads",obtain={NpcID=18321,NpcName="Sethekk Talon Lord",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Sethekk Halls"}}
-items[21064] = {id=21064,name="66 Epic Fire Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21092] = {id=21092,name="66 Epic Shadow Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25339] = {id=25339,name="Loosely Threaded Shoulderpads",obtain={NpcID=20748,NpcName="Thunderlord Dire Wolf",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Blade's Edge Mountains"}}
-items[25388] = {id=25388,name="Tarnished Plate Shoulderpads",obtain={NpcID=17958,NpcName="Coilfang Defender",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="The Slave Pens"}}
-items[19689] = {id=19689,name="Blood Tiger Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24125,DropChance=0,Zone=""}}
-items[16420] = {id=16420,name="Lieutenant Commander's Leather Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19111] = {id=19111,name="Winteraxe Epaulets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21051] = {id=21051,name="63 Blue Fire Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21079] = {id=21079,name="63 Blue Shadow Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[8310] = {id=8310,name="Hero's Pauldrons",obtain={NpcID=10439,NpcName="Ramstein the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Stratholme"}}
-items[11782] = {id=11782,name="Boreal Mantle",obtain={NpcID=9041,NpcName="Warder Stilgiss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.3,Zone="Blackrock Depths"}}
-items[17732] = {id=17732,name="Rotgrip Mantle",obtain={NpcID=13596,NpcName="Rotgrip",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.6,Zone="Maraudon"}}
-items[14296] = {id=14296,name="Arachnidian Pauldrons",obtain={NpcID=6187,NpcName="Timbermaw Den Watcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Azshara"}}
-items[9647] = {id=9647,name="Failed Flying Experiment",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=2767,Recipe=false,RecipeID=0,DropChance=0,Zone="Feralas"}}
-items[7059] = {id=7059,name="Crimson Silk Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=8793,DropChance=0,Zone=""}}
-items[14566] = {id=14566,name="Prospector's Pads",obtain={NpcID=3815,NpcName="Blink Dragon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Ashenvale"}}
-items[6579] = {id=6579,name="Defender Spaulders",obtain={NpcID=14425,NpcName="Gnawbone",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.1,Zone="Wetlands"}}
-items[35052] = {id=35052,name="Brutal Gladiator's Mail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35081] = {id=35081,name="Brutal Gladiator's Ringmail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35114] = {id=35114,name="Brutal Gladiator's Wyrmhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31024] = {id=31024,name="Skyshatter Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33679] = {id=33679,name="Vengeful Gladiator's Dreadweave Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32517] = {id=32517,name="The Wavemender's Mantle",obtain={NpcID=23420,NpcName="Essence of Anger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.3,Zone="Unknown"}}
-items[30490] = {id=30490,name="Merciless Gladiator's Plate Shoulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32059] = {id=32059,name="Merciless Gladiator's Wyrmhide Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24796] = {id=24796,name="Expedition Shoulderguards",obtain={NpcID=16408,NpcName="Phantom Valet",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="Karazhan"}}
-items[28255] = {id=28255,name="Lunar-Claw Pauldrons",obtain={NpcID=19219,NpcName="Mechano-Lord Capacitus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.0,Zone="The Mechanar"}}
-items[31577] = {id=31577,name="Slatesteel Shoulders",obtain={NpcID=22826,NpcName="King Dorfbruiser",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=98.0,Zone="Unknown"}}
-items[24788] = {id=24788,name="Murkblood Shoulderguards",obtain={NpcID=19167,NpcName="Bloodwarder Slayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Mechanar"}}
-items[24900] = {id=24900,name="Sundered Spaulders",obtain={NpcID=20207,NpcName="Sunfury Bowman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="Netherstorm"}}
-items[24779] = {id=24779,name="Boneshredder Shoulderguards",obtain={NpcID=19209,NpcName="Summoned Cabal Deathsworn",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.7,Zone="Shadow Labyrinth"}}
-items[24659] = {id=24659,name="Consortium Mantle",obtain={NpcID=18318,NpcName="Sethekk Initiate",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Sethekk Halls"}}
-items[30262] = {id=30262,name="Trep's Shoulderguards",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10226,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[31533] = {id=31533,name="Diluvian Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10607,Recipe=false,RecipeID=0,DropChance=0,Zone="Blade's Edge Mountains"}}
-items[31819] = {id=31819,name="Noble Plate Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10921,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[24860] = {id=24860,name="Marshcreeper Mantle",obtain={NpcID=19307,NpcName="Nexus Terror",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="Mana-Tombs"}}
-items[24852] = {id=24852,name="Fenclaw Mantle",obtain={NpcID=18470,NpcName="Bonelasher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Terokkar Forest"}}
-items[25525] = {id=25525,name="Zangar Epaulets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9709,Recipe=false,RecipeID=0,DropChance=0,Zone="Zangarmarsh"}}
-items[24828] = {id=24828,name="Netherstalker Mantle",obtain={NpcID=17491,NpcName="Laughing Skull Rogue",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.2,Zone="The Blood Furnace"}}
-items[24595] = {id=24595,name="Fireheart Shoulderpads",obtain={NpcID=16975,NpcName="Uncontrolled Voidwalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.4,Zone="Hellfire Peninsula"}}
-items[16832] = {id=16832,name="Bloodfang Spaulders",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=38.0,Zone="Blackwing Lair"}}
-items[16932] = {id=16932,name="Nemesis Spaulders",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=36.4,Zone="Blackwing Lair"}}
-items[16945] = {id=16945,name="Epaulets of Ten Storms",obtain={NpcID=14020,NpcName="Chromaggus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.1,Zone="Blackwing Lair"}}
-items[21699] = {id=21699,name="Barrage Shoulders",obtain={NpcID=15263,NpcName="The Prophet Skeram",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.9,Zone="Ahn'Qiraj"}}
-items[25356] = {id=25356,name="Moldy Leather Shoulderpads",obtain={NpcID=17139,NpcName="Windyreed Scavenger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.0,Zone="Nagrand"}}
-items[10263] = {id=10263,name="Adventurer's Shoulders",obtain={NpcID=15818,NpcName="Lieutenant General Nokhor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Silithus"}}
-items[10390] = {id=10390,name="Hyperion Pauldrons",obtain={NpcID=18338,NpcName="Highlord Kruul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.2,Zone="Searing Gorge"}}
-items[18384] = {id=18384,name="Bile-etched Spaulders",obtain={NpcID=11496,NpcName="Immol'thar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.5,Zone="Dire Maul"}}
-items[18528] = {id=18528,name="Cyclone Spaulders",obtain={NpcID=14353,NpcName="Mizzle the Crafty",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Dire Maul"}}
-items[14909] = {id=14909,name="Brutish Shoulders",obtain={NpcID=5327,NpcName="Coast Crawl Snapclaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Feralas"}}
-items[15513] = {id=15513,name="Grunt's Pauldrons",obtain={NpcID=12902,NpcName="Lorgus Jett",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="Blackfathom Deeps"}}
-items[15313] = {id=15313,name="Feral Shoulder Pads",obtain={NpcID=4822,NpcName="Snapping Crustacean",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Blackfathom Deeps"}}
-items[1793] = {id=1793,name="Patched Leather Shoulderpads",obtain={NpcID=16316,NpcName="Stonewing Tracker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.0,Zone="Ghostlands"}}
-items[31059] = {id=31059,name="Mantle of the Tempest",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30878] = {id=30878,name="Glimmering Steel Mantle",obtain={NpcID=17808,NpcName="Anetheron",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.7,Zone="Hyjal Summit"}}
-items[32250] = {id=32250,name="Pauldrons of Abyssal Fury",obtain={NpcID=22898,NpcName="Supremus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.8,Zone="Black Temple"}}
-items[31996] = {id=31996,name="Merciless Gladiator's Lamellar Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35390] = {id=35390,name="Seer's Mail Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30287] = {id=30287,name="Mantle of Arcane Mastery",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4014] = {id=4014,name="Sterling Chain Shoulderpads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20056] = {id=20056,name="Highlander's Mail Pauldrons",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[14868] = {id=14868,name="Warleader's Shoulders",obtain={NpcID=12129,NpcName="Onyxian Warder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Unknown"}}
-items[15656] = {id=15656,name="Merciless Epaulets",obtain={NpcID=6502,NpcName="Plated Stegodon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Un'Goro Crater"}}
-items[186019] = {id=186019,name="Communal Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13132] = {id=13132,name="Skeletal Shoulders",obtain={NpcID=92,NpcName="Rock Elemental",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Badlands"}}
-items[33235] = {id=33235,name="Journeyman's Epaulets",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11217,Recipe=false,RecipeID=0,DropChance=0,Zone="Dustwallow Marsh"}}
-items[4833] = {id=4833,name="Glorious Shoulders",obtain={NpcID=2679,NpcName="Wenna Silkbeard (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Wetlands"}}
-items[3231] = {id=3231,name="Cutthroat Pauldrons",obtain={NpcID=584,NpcName="Kazon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=64.4,Zone="Redridge Mountains"}}
-items[1445] = {id=1445,name="Blackrock Pauldrons",obtain={NpcID=615,NpcName="Blackrock Tracker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.4,Zone="Redridge Mountains"}}
-items[5319] = {id=5319,name="Bashing Pauldrons",obtain={NpcID=2478,NpcName="Haren Swifthoof",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=94.0,Zone="Loch Modan"}}
-items[34390] = {id=34390,name="Erupting Epaulets",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33732] = {id=33732,name="Vengeful Gladiator's Plate Shoulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25796] = {id=25796,name="Lurking Shadow Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30964] = {id=30964,name="Skybreaker's Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10481,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[31159] = {id=31159,name="Felstone Pauldrons",obtain={NpcID=18690,NpcName="Morcrush",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=44.7,Zone="Unknown"}}
-items[24996] = {id=24996,name="Warmaul Epaulets",obtain={NpcID=18092,NpcName="Tarren Mill Guardsman",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=46.5,Zone="Unknown"}}
-items[31190] = {id=31190,name="The Dreamer's Shoulderpads",obtain={NpcID=19188,NpcName="Raging Colossus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.6,Zone="Hellfire Peninsula"}}
-items[31250] = {id=31250,name="Bog Mantle",obtain={NpcID=18682,NpcName="Bog Lurker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=45.5,Zone="Zangarmarsh"}}
-items[21684] = {id=21684,name="Mantle of the Desert's Fury",obtain={NpcID=15543,NpcName="Princess Yauj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.8,Zone="Ahn'Qiraj"}}
-items[3958] = {id=3958,name="Mesh Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[12617] = {id=12617,name="Savage Mail Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18374] = {id=18374,name="Flamescarred Shoulders",obtain={NpcID=11487,NpcName="Magister Kalendris",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.8,Zone="Dire Maul"}}
-items[15055] = {id=15055,name="Volcanic Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19101,DropChance=0,Zone=""}}
-items[16980] = {id=16980,name="Flarecore Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=20848,DropChance=0,Zone=""}}
-items[10374] = {id=10374,name="Imbued Plate Pauldrons",obtain={NpcID=10681,NpcName="Summoned Blackhand Veteran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Blackrock Spire"}}
-items[14971] = {id=14971,name="Glorious Shoulder Pads",obtain={NpcID=11498,NpcName="Skarr the Unbreakable",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Unknown"}}
-items[186027] = {id=186027,name="Communal Pads",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[8207] = {id=8207,name="Tough Scorpid Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=10564,DropChance=0,Zone=""}}
-items[7543] = {id=7543,name="Champion's Pauldrons",obtain={NpcID=8203,NpcName="Kregg Keelhaul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.1,Zone="Tanaris"}}
-items[9430] = {id=9430,name="Spaulders of a Lost Age",obtain={NpcID=4860,NpcName="Stone Steward",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Uldaman"}}
-items[14432] = {id=14432,name="Windchaser Amice",obtain={NpcID=5356,NpcName="Snarler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Feralas"}}
-items[14901] = {id=14901,name="Saltstone Shoulder Pads",obtain={NpcID=14234,NpcName="Hayoc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Dustwallow Marsh"}}
-items[4705] = {id=4705,name="Lambent Scale Pauldrons",obtain={NpcID=1014,NpcName="Mosshide Alpha",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Wetlands"}}
-items[1769] = {id=1769,name="Canvas Shoulderpads",obtain={NpcID=17494,NpcName="Zevrax",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.8,Zone="Bloodmyst Isle"}}
-items[38286] = {id=38286,name="Soul-Trader's Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34994] = {id=34994,name="Brutal Gladiator's Chain Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35086] = {id=35086,name="Brutal Gladiator's Satin Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25028] = {id=25028,name="Warlord's Iron-Epaulets",obtain={NpcID=22281,NpcName="Galvanoth",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Unknown"}}
-items[30938] = {id=30938,name="Azurestrike Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10626,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Shadowmoon Valley"}}
-items[25565] = {id=25565,name="Spaulders of the Ring",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9862,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[31817] = {id=31817,name="Dragonbone Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10923,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[22073] = {id=22073,name="Deathmist Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16427] = {id=16427,name="Lieutenant Commander's Chain Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[22412] = {id=22412,name="Thuzadin Mantle",obtain={NpcID=10440,NpcName="Baron Rivendare",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.7,Zone="Stratholme"}}
-items[13166] = {id=13166,name="Slamshot Shoulders",obtain={NpcID=9196,NpcName="Highlord Omokk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.8,Zone="Blackrock Spire"}}
-items[18742] = {id=18742,name="Stratholme Militia Shoulderguard",obtain={NpcID=14684,NpcName="Balzaphon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Stratholme"}}
-items[8319] = {id=8319,name="Alabaster Plate Pauldrons",obtain={NpcID=9437,NpcName="Dark Keeper Vorfalk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Blackrock Depths"}}
-items[10200] = {id=10200,name="Crusader's Pauldrons",obtain={NpcID=6646,NpcName="Monnos the Elder",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.4,Zone="Azshara"}}
-items[186035] = {id=186035,name="Communal Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11310] = {id=11310,name="Flameseer Mantle",obtain={NpcID=7291,NpcName="Galgann Firehammer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.3,Zone="Uldaman"}}
-items[3841] = {id=3841,name="Golden Scale Shoulders",obtain={NpcID=1573,NpcName="Gryth Thurden",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.8,Zone="Ironforge"}}
-items[7424] = {id=7424,name="Phalanx Spaulders",obtain={NpcID=15748,NpcName="Lesser Anubisath Warbringer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.4,Zone="Thousand Needles"}}
-items[14573] = {id=14573,name="Bristlebark Amice",obtain={NpcID=10642,NpcName="Eck'alom",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.8,Zone="Ashenvale"}}
-items[4661] = {id=4661,name="Bright Mantle",obtain={NpcID=1014,NpcName="Mosshide Alpha",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Wetlands"}}
-items[34388] = {id=34388,name="Pauldrons of Berserking",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33699] = {id=33699,name="Vengeful Gladiator's Lamellar Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24804] = {id=24804,name="Dragonhawk Shoulderguards",obtain={NpcID=20911,NpcName="Blackwing Drakonaar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Unknown"}}
-items[24908] = {id=24908,name="Talhide Shoulderguards",obtain={NpcID=20911,NpcName="Blackwing Drakonaar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.3,Zone="Unknown"}}
-items[31569] = {id=31569,name="Mistshroud Shoulders",obtain={NpcID=22827,NpcName="Gorgolon the All-seeing",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=88.6,Zone="Unknown"}}
-items[31160] = {id=31160,name="Felstone Epaulets",obtain={NpcID=18690,NpcName="Morcrush",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.9,Zone="Unknown"}}
-items[20633] = {id=20633,name="Unnatural Leather Spaulders",obtain={NpcID=14890,NpcName="Taerar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.4,Zone="Duskwood"}}
-items[19928] = {id=19928,name="Animist's Spaulders",obtain={NpcID=14517,NpcName="High Priestess Jeklik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.1,Zone="Zul'Gurub"}}
-items[20683] = {id=20683,name="Abyssal Plate Epaulets",obtain={NpcID=15305,NpcName="Lord Skwol",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.5,Zone="Silithus"}}
-items[16432] = {id=16432,name="Lieutenant Commander's Plate Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[17573] = {id=17573,name="Champion's Dreadweave Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10163] = {id=10163,name="Mercurial Pauldrons",obtain={NpcID=1851,NpcName="The Husk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.3,Zone="Western Plaguelands"}}
-items[16988] = {id=16988,name="Fiery Chain Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=20873,DropChance=0,Zone=""}}
-items[18699] = {id=18699,name="Icy Tomb Spaulders",obtain={NpcID=14516,NpcName="Death Knight Darkreaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Scholomance"}}
-items[10029] = {id=10029,name="Red Mageweave Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12078,DropChance=0,Zone=""}}
-items[9850] = {id=9850,name="Conjurer's Mantle",obtain={NpcID=15747,NpcName="Qiraji Captain",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.7,Zone="Thousand Needles"}}
-items[14126] = {id=14126,name="Ritual Amice",obtain={NpcID=3735,NpcName="Apothecary Falthis",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Ashenvale"}}
-items[4694] = {id=4694,name="Burnished Pauldrons",obtain={NpcID=2476,NpcName="Large Loch Crocolisk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Loch Modan"}}
-items[33668] = {id=33668,name="Vengeful Gladiator's Chain Spaulders",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30221] = {id=30221,name="Nordrassil Life-Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31561] = {id=31561,name="Skystalker's Shoulders",obtain={NpcID=20888,NpcName="Solus the Eternal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=89.4,Zone="Unknown"}}
-items[24924] = {id=24924,name="Grimscale Pauldrons",obtain={NpcID=18827,NpcName="Gan'arg Sapper",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="Hellfire Peninsula"}}
-items[22016] = {id=22016,name="Beastmaster's Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[16516] = {id=16516,name="Champion's Plate Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[15096] = {id=15096,name="Runic Leather Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19103,DropChance=0,Zone=""}}
-items[10237] = {id=10237,name="Engraved Pauldrons",obtain={NpcID=14477,NpcName="Grubthor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.8,Zone="Silithus"}}
-items[11605] = {id=11605,name="Dark Iron Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=15295,DropChance=0,Zone=""}}
-items[10100] = {id=10100,name="Councillor's Shoulders",obtain={NpcID=14472,NpcName="Gretheer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.4,Zone="Silithus"}}
-items[7932] = {id=7932,name="Mithril Scale Shoulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9966,DropChance=0,Zone=""}}
-items[14423] = {id=14423,name="Silksand Shoulder Pads",obtain={NpcID=5760,NpcName="Lord Azrethoc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.3,Zone="Desolace"}}
-items[15140] = {id=15140,name="Cutthroat's Mantle",obtain={NpcID=3940,NpcName="Taneel Darkwood",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Ashenvale"}}
-items[1777] = {id=1777,name="Brocade Shoulderpads",obtain={NpcID=7053,NpcName="Klaven Mortwake",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.6,Zone="Westfall"}}
-items[14368] = {id=14368,name="Mystic's Shoulder Pads",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.9,Zone="The Barrens"}}
-items[31976] = {id=31976,name="Merciless Gladiator's Dreadweave Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31639] = {id=31639,name="High Warlord's Ornamented Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32868] = {id=32868,name="Skybreaker's Mantle",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30373] = {id=30373,name="Netherfused Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10507,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[19373] = {id=19373,name="Black Brood Pauldrons",obtain={NpcID=12017,NpcName="Broodlord Lashlayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.6,Zone="Blackwing Lair"}}
-items[10274] = {id=10274,name="Masterwork Pauldrons",obtain={NpcID=15817,NpcName="Qiraji Brigadier General Pax-lish",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.8,Zone="Silithus"}}
-items[17569] = {id=17569,name="Lieutenant Commander's Dreadweave Mantle",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18757] = {id=18757,name="Diabolic Mantle",obtain={NpcID=14506,NpcName="Lord Hel'nurath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=22.7,Zone="Dire Maul"}}
-items[17779] = {id=17779,name="Hulkstone Pauldrons",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7028,Recipe=false,RecipeID=0,DropChance=0,Zone="Maraudon"}}
-items[9934] = {id=9934,name="Brigade Pauldrons",obtain={NpcID=14236,NpcName="Lord Angler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=4.5,Zone="Dustwallow Marsh"}}
-items[6597] = {id=6597,name="Battleforge Shoulderguards",obtain={NpcID=14427,NpcName="Gibblesnik",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.4,Zone="Thousand Needles"}}
-items[9817] = {id=9817,name="Fortified Spaulders",obtain={NpcID=5848,NpcName="Malgin Barleybrew",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.4,Zone="The Barrens"}}
-items[10287] = {id=10287,name="Greenweave Mantle",obtain={NpcID=5932,NpcName="Taskmaster Whipfang",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.1,Zone="Stonetalon Mountains"}}
-items[14170] = {id=14170,name="Buccaneer's Mantle",obtain={NpcID=1398,NpcName="Boss Galgosh",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.4,Zone="Loch Modan"}}
-items[14169] = {id=14169,name="Aboriginal Shoulder Pads",obtain={NpcID=3295,NpcName="Sludge Beast",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.5,Zone="The Barrens"}}
-items[24643] = {id=24643,name="Mistyreed Shoulderpads",obtain={NpcID=21382,NpcName="Wyrmcult Zealot",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.1,Zone="Blade's Edge Mountains"}}
-items[10383] = {id=10383,name="Commander's Pauldrons",obtain={NpcID=14473,NpcName="Lapress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.9,Zone="Silithus"}}
-items[13374] = {id=13374,name="Soulstealer Mantle",obtain={NpcID=10439,NpcName="Ramstein the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.1,Zone="Stratholme"}}
-items[186083] = {id=186083,name="Communal Spaulders",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4718] = {id=4718,name="Nightsky Mantle",obtain={NpcID=861,NpcName="Stonard Scout",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.1,Zone="Swamp of Sorrows"}}
+items[21869] = {id=21869,name="Frozen Shadoweave Shoulders",source={ID=26756,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27797] = {id=27797,name="Wastewalker Shoulderpads",source={ID=18478,SourceName="Avatar of the Martyred",SourceType="Kill",DropChance="56.2",Zone="Auchenai Crypts"}}
+items[21874] = {id=21874,name="Primal Mooncloth Shoulders",source={ID=26761,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30925] = {id=30925,name="Spaulders of the Torn-heart",source={ID=10579,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[27801] = {id=27801,name="Beast Lord Mantle",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="28.1",Zone="The Steamvault"}}
+items[27434] = {id=27434,name="Mantle of Perenolde",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="18.7",Zone="Old Hillsbrad Foothills"}}
+items[33173] = {id=33173,name="Ragesteel Shoulders",source={ID=42662,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27796] = {id=27796,name="Mana-Etched Spaulders",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="12.6",Zone="The Slave Pens"}}
+items[17604] = {id=17604,name="Field Marshal's Satin Mantle",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28967] = {id=28967,name="Voidheart Mantle",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[20194] = {id=20194,name="Defiler's Leather Shoulders",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[28755] = {id=28755,name="Bladed Shoulderpads of the Merciless",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16457] = {id=16457,name="Field Marshal's Leather Epaulets",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16476] = {id=16476,name="Field Marshal's Lamellar Pauldrons",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28627] = {id=28627,name="Grand Marshal's Dreadweave Mantle",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[27776] = {id=27776,name="Shoulderpads of Assassination",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="28.5",Zone="Sethekk Halls"}}
+items[23313] = {id=23313,name="Lieutenant Commander's Leather Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[27847] = {id=27847,name="Fanblade Pauldrons",source={ID=18371,SourceName="Shirrak the Dead Watcher",SourceType="Kill",DropChance="6.0",Zone="Auchenai Crypts"}}
+items[28075] = {id=28075,name="Destroyers' Mantle",source={ID=10351,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[29079] = {id=29079,name="Pauldrons of the Aldor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28703] = {id=28703,name="Grand Marshal's Plate Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16580] = {id=16580,name="Warlord's Mail Spaulders",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[20059] = {id=20059,name="Highlander's Leather Shoulders",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[16468] = {id=16468,name="Field Marshal's Chain Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[17590] = {id=17590,name="Warlord's Dreadweave Mantle",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[27739] = {id=27739,name="Spaulders of the Righteous",source={ID=17980,SourceName="Laj",SourceType="Kill",DropChance="33.3",Zone="The Botanica"}}
+items[30740] = {id=30740,name="Ripfiend Shoulderplates",source={ID=18728,SourceName="Doom Lord Kazzak",SourceType="Kill",DropChance="18.7",Zone="Unknown"}}
+items[24463] = {id=24463,name="Pauldrons of Brute Force",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="20.0",Zone="The Underbog"}}
+items[27775] = {id=27775,name="Hallowed Pauldrons",source={ID=18732,SourceName="Grandmaster Vorpil",SourceType="Kill",DropChance="28.5",Zone="Shadow Labyrinth"}}
+items[29100] = {id=29100,name="Mantle of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16449] = {id=16449,name="Field Marshal's Dragonhide Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[32581] = {id=32581,name="Swiftstrike Shoulders",source={ID=41160,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16480] = {id=16480,name="Field Marshal's Plate Shoulderguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[15061] = {id=15061,name="Living Shoulders",source={ID=19061,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23277] = {id=23277,name="Lieutenant Commander's Lamellar Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[5404] = {id=5404,name="Serpent's Shoulders",source={ID=3671,SourceName="Lady Anacondra",SourceType="Kill",DropChance="44.1",Zone="Wailing Caverns"}}
+items[16444] = {id=16444,name="Field Marshal's Silk Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28743] = {id=28743,name="Mantle of Abrahmis",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
+items[29617] = {id=29617,name="Warlord's Lamellar Pauldrons",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[29316] = {id=29316,name="Warchief's Mantle",source={ID=10285,SourceName="",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
+items[23260] = {id=23260,name="Champion's Mail Pauldrons",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28866] = {id=28866,name="High Warlord's Silk Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22507] = {id=22507,name="Plagueheart Shoulderpads",source={ID=9106,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[27433] = {id=27433,name="Pauldrons of Sufferance",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="17.6",Zone="Old Hillsbrad Foothills"}}
+items[28714] = {id=28714,name="Grand Marshal's Silk Amice",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[23243] = {id=23243,name="Champion's Plate Shoulders",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28622] = {id=28622,name="Grand Marshal's Dragonhide Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29043] = {id=29043,name="Cyclone Shoulderplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20203] = {id=20203,name="Defiler's Mail Pauldrons",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[29023] = {id=29023,name="Warbringer Shoulderplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28713] = {id=28713,name="Grand Marshal's Scaled Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28589] = {id=28589,name="Beastmaw Pauldrons",source={ID=17533,SourceName="Romulo",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
+items[29605] = {id=29605,name="Champion's Lamellar Shoulders",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[27803] = {id=27803,name="Shoulderguards of the Bold",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
+items[27778] = {id=27778,name="Spaulders of Oblivion",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
+items[28612] = {id=28612,name="Pauldrons of the Solace-Giver",source={ID=15691,SourceName="The Curator",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
+items[24398] = {id=24398,name="Mantle of the Dusk-Dweller",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="15.3",Zone="The Blood Furnace"}}
+items[28666] = {id=28666,name="Pauldrons of the Justice-Seeker",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
+items[5964] = {id=5964,name="Barbaric Shoulders",source={ID=7151,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16568] = {id=16568,name="Warlord's Chain Shoulders",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28820] = {id=28820,name="High Warlord's Dreadweave Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32078] = {id=32078,name="Pauldrons of Wild Magic",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="18.8",Zone="The Slave Pens"}}
+items[28726] = {id=28726,name="Mantle of the Mind Flayer",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
+items[23256] = {id=23256,name="Champion's Dreadweave Spaulders",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29054] = {id=29054,name="Light-Mantle of the Incarnate",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29070] = {id=29070,name="Justicar Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27771] = {id=27771,name="Doomplate Shoulderguards",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
+items[28129] = {id=28129,name="Gladiator's Dragonhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28631] = {id=28631,name="Dragon-Quake Shoulderguards",source={ID=15691,SourceName="The Curator",SourceType="Kill",DropChance="25.0",Zone="Karazhan"}}
+items[28855] = {id=28855,name="High Warlord's Plate Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16551] = {id=16551,name="Warlord's Dragonhide Epaulets",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28617] = {id=28617,name="Grand Marshal's Chain Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[24024] = {id=24024,name="Pauldrons of Arcane Rage",source={ID=17306,SourceName="Watchkeeper Gargolmar",SourceType="Kill",DropChance="28.1",Zone="Hellfire Ramparts"}}
+items[21391] = {id=21391,name="Avenger's Pauldrons",source={ID=8630,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[29037] = {id=29037,name="Cyclone Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16544] = {id=16544,name="Warlord's Plate Shoulders",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29031] = {id=29031,name="Cyclone Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[15051] = {id=15051,name="Black Dragonscale Shoulders",source={ID=19094,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29016] = {id=29016,name="Warbringer Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30055] = {id=30055,name="Shoulderpads of the Stranger",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="21.7",Zone="Serpentshrine Cavern"}}
+items[28647] = {id=28647,name="Forest Wind Shoulderpads",source={ID=15691,SourceName="The Curator",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
+items[24546] = {id=24546,name="Gladiator's Plate Shoulders",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[28839] = {id=28839,name="High Warlord's Leather Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22439] = {id=22439,name="Cryptstalker Spaulders",source={ID=9057,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[25854] = {id=25854,name="Gladiator's Silk Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29611] = {id=29611,name="Field Marshal's Mail Spaulders",source={ID=12785,SourceName="Sergeant Major Clate",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[20158] = {id=20158,name="Defiler's Chain Pauldrons",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[27539] = {id=27539,name="Justice Bearer's Pauldrons",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="8.1",Zone="Hellfire Ramparts"}}
+items[17580] = {id=17580,name="Field Marshal's Dreadweave Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29064] = {id=29064,name="Justicar Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29095] = {id=29095,name="Pauldrons of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35343] = {id=35343,name="Evoker's Silk Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22419] = {id=22419,name="Dreadnaught Pauldrons",source={ID=9038,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22429] = {id=22429,name="Redemption Spaulders",source={ID=9046,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22983] = {id=22983,name="Rime Covered Mantle",source={ID=15932,SourceName="Gluth",SourceType="Kill",DropChance="32.7",Zone="Naxxramas"}}
+items[16562] = {id=16562,name="Warlord's Leather Spaulders",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29060] = {id=29060,name="Soul-Mantle of the Incarnate",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28814] = {id=28814,name="High Warlord's Dragonhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30381] = {id=30381,name="Kaylaan's Spaulders",source={ID=10381,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29075] = {id=29075,name="Justicar Shoulderplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27994] = {id=27994,name="Mantle of Three Terrors",source={ID=17879,SourceName="Chrono Lord Deja",SourceType="Kill",DropChance="15.3",Zone="The Black Morass"}}
+items[30291] = {id=30291,name="Nexus-Guard's Pauldrons",source={ID=10440,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[20406] = {id=20406,name="Twilight Cultist Mantle",source={ID=15542,SourceName="Twilight Marauder",SourceType="Kill",DropChance="7.3",Zone="Silithus"}}
+items[7718] = {id=7718,name="Herod's Shoulder",source={ID=3975,SourceName="Herod",SourceType="Kill",DropChance="33.5",Zone="Scarlet Monastery"}}
+items[31592] = {id=31592,name="Grand Marshal's Kodohide Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[20212] = {id=20212,name="Defiler's Plate Spaulders",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[17622] = {id=17622,name="Warlord's Satin Mantle",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28687] = {id=28687,name="Grand Marshal's Leather Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29089] = {id=29089,name="Shoulderguards of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21665] = {id=21665,name="Mantle of Wicked Revenge",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="23.6",Zone="Ahn'Qiraj"}}
+items[32073] = {id=32073,name="Spaulders of Dementia",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="14.2",Zone="Sethekk Halls"}}
+items[16536] = {id=16536,name="Warlord's Silk Amice",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[27826] = {id=27826,name="Mantle of the Sea Wolf",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="14.2",Zone="Mana-Tombs"}}
+items[25832] = {id=25832,name="Gladiator's Leather Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23667] = {id=23667,name="Spaulders of the Grand Crusader",source={ID=16167,SourceName="Bony Construct",SourceType="Kill",DropChance="0.1",Zone="Naxxramas"}}
+items[12625] = {id=12625,name="Dawnbringer Shoulders",source={ID=16660,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31624] = {id=31624,name="Grand Marshal's Mooncloth Shoulderpads",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29147] = {id=29147,name="Talbuk Hide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23309] = {id=23309,name="Lieutenant Commander's Dragonhide Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[29047] = {id=29047,name="Netherblade Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28683] = {id=28683,name="Grand Marshal's Lamellar Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28707] = {id=28707,name="Grand Marshal's Satin Mantle",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[20055] = {id=20055,name="Highlander's Chain Pauldrons",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[24554] = {id=24554,name="Gladiator's Dreadweave Mantle",source={ID=27668,SourceName="Ontok Shatterhorn",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[14552] = {id=14552,name="Stockade Pauldrons",source={ID=8198,SourceName="Tick",SourceType="Kill",DropChance="0.3",Zone="Tanaris"}}
+items[9476] = {id=9476,name="Big Bad Pauldrons",source={ID=7267,SourceName="Chief Ukorz Sandscalp",SourceType="Kill",DropChance="32.7",Zone="Zul'Farrak"}}
+items[22499] = {id=22499,name="Frostfire Shoulderpads",source={ID=9098,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[35465] = {id=35465,name="Evoker's Silk Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20057] = {id=20057,name="Highlander's Plate Spaulders",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[28859] = {id=28859,name="High Warlord's Satin Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22467] = {id=22467,name="Earthshatter Spaulders",source={ID=9071,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[23315] = {id=23315,name="Lieutenant Commander's Plate Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[12428] = {id=12428,name="Imperial Plate Shoulders",source={ID=16646,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35411] = {id=35411,name="Savage Plate Shoulders",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[21330] = {id=21330,name="Conqueror's Spaulders",source={ID=8544,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[15058] = {id=15058,name="Stormshroud Shoulders",source={ID=19090,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10028] = {id=10028,name="Shadoweave Shoulders",source={ID=12076,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28865] = {id=28865,name="High Warlord's Scaled Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20175] = {id=20175,name="Defiler's Lizardhide Shoulders",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[19507] = {id=19507,name="Inquisitor's Shawl",source={ID=4542,SourceName="High Inquisitor Fairbanks",SourceType="Kill",DropChance="33.9",Zone="Scarlet Monastery"}}
+items[5254] = {id=5254,name="Rugged Spaulders",source={ID=3914,SourceName="Rethilgore",SourceType="Kill",DropChance="84.3",Zone="Shadowfang Keep"}}
+items[23319] = {id=23319,name="Lieutenant Commander's Silk Mantle",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[32579] = {id=32579,name="Living Earth Shoulders",source={ID=41164,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31378] = {id=31378,name="Gladiator's Kodohide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32575] = {id=32575,name="Shoulders of Lightning Reflexes",source={ID=41162,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29084] = {id=29084,name="Demon Stalker Shoulderguards",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35369] = {id=35369,name="Opportunist's Leather Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32080] = {id=32080,name="Mantle of Shadowy Embrace",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="18.5",Zone="The Blood Furnace"}}
+items[22479] = {id=22479,name="Bonescythe Pauldrons",source={ID=9080,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[23664] = {id=23664,name="Pauldrons of Elemental Fury",source={ID=16156,SourceName="Dark Touched Warrior",SourceType="Kill",DropChance="1.0",Zone="Naxxramas"}}
+items[29599] = {id=29599,name="Lieutenant Commander's Mail Pauldrons",source={ID=12785,SourceName="Sergeant Major Clate",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[20058] = {id=20058,name="Highlander's Lamellar Spaulders",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[9389] = {id=9389,name="Revelosh's Spaulders",source={ID=6910,SourceName="Revelosh",SourceType="Kill",DropChance="23.4",Zone="Uldaman"}}
+items[7755] = {id=7755,name="Flintrock Shoulders",source={ID=4291,SourceName="Scarlet Diviner",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
+items[10027] = {id=10027,name="Black Mageweave Shoulders",source={ID=12074,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21474] = {id=21474,name="Chitinous Shoulderguards",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="36.4",Zone="Ruins of Ahn'Qiraj"}}
+items[4251] = {id=4251,name="Hillman's Shoulders",source={ID=3768,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22515] = {id=22515,name="Shoulderpads of Faith",source={ID=9114,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[21453] = {id=21453,name="Mantle of the Horusath",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="14.5",Zone="Ruins of Ahn'Qiraj"}}
+items[23258] = {id=23258,name="Champion's Leather Shoulders",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16729] = {id=16729,name="Lightforge Spaulders",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="17.9",Zone="Blackrock Spire"}}
+items[20061] = {id=20061,name="Highlander's Epaulets",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[21376] = {id=21376,name="Stormcaller's Pauldrons",source={ID=8602,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[27737] = {id=27737,name="Moonglade Shoulders",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="4.5",Zone="The Steamvault"}}
+items[7712] = {id=7712,name="Mantle of Doan",source={ID=6487,SourceName="Arcanist Doan",SourceType="Kill",DropChance="47.2",Zone="Scarlet Monastery"}}
+items[6685] = {id=6685,name="Death Speaker Mantle",source={ID=4428,SourceName="Death Speaker Jargba",SourceType="Kill",DropChance="43.6",Zone="Razorfen Kraul"}}
+items[34195] = {id=34195,name="Shoulderpads of Vehemence",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="14.3",Zone="Unknown"}}
+items[11632] = {id=11632,name="Earthslag Shoulders",source={ID=9025,SourceName="Lord Roccor",SourceType="Kill",DropChance="23.9",Zone="Blackrock Depths"}}
+items[35331] = {id=35331,name="Dreadweave Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20176] = {id=20176,name="Defiler's Epaulets",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[28333] = {id=28333,name="Gladiator's Chain Spaulders",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30186] = {id=30186,name="Gladiator's Felweave Amice",source={ID=27668,SourceName="Ontok Shatterhorn",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[21335] = {id=21335,name="Doomcaller's Mantle",source={ID=8664,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[18810] = {id=18810,name="Wild Growth Spaulders",source={ID=12018,SourceName="Majordomo Executus",SourceType="Kill",DropChance="5.0",Zone="Molten Core"}}
+items[23311] = {id=23311,name="Lieutenant Commander's Dreadweave Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[20517] = {id=20517,name="Razorsteel Shoulders",source={ID=8425,SourceName="",SourceType="Quest",DropChance="0",Zone="Warrior"}}
+items[2264] = {id=2264,name="Mantle of Thieves",source={ID=4422,SourceName="Agathelos the Raging",SourceType="Kill",DropChance="0",Zone="Razorfen Kraul"}}
+items[28722] = {id=28722,name="Grand Marshal's Wyrmhide Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[14112] = {id=14112,name="Felcloth Shoulders",source={ID=18453,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[186088] = {id=186088,name="Communal Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19695] = {id=19695,name="Darksoul Shoulders",source={ID=24141,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12082] = {id=12082,name="Wyrmhide Spaulders",source={ID=4024,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
+items[27473] = {id=27473,name="Gladiator's Mail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28698] = {id=28698,name="Grand Marshal's Mail Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[21354] = {id=21354,name="Genesis Shoulderpads",source={ID=8669,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[19831] = {id=19831,name="Zandalar Predator's Mantle",source={ID=8067,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[34392] = {id=34392,name="Demontooth Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30210] = {id=30210,name="Mantle of Tirisfal",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28139] = {id=28139,name="Gladiator's Wyrmhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31412] = {id=31412,name="Gladiator's Mooncloth Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28809] = {id=28809,name="High Warlord's Chain Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13066] = {id=13066,name="Wyrmslayer Spaulders",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[7057] = {id=7057,name="Green Silken Shoulders",source={ID=8774,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27883] = {id=27883,name="Gladiator's Scaled Shoulders",source={ID=27668,SourceName="Ontok Shatterhorn",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29148] = {id=29148,name="Blackened Leather Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3748] = {id=3748,name="Feline Mantle",source={ID=3927,SourceName="Wolf Master Nandos",SourceType="Kill",DropChance="57.1",Zone="Shadowfang Keep"}}
+items[32587] = {id=32587,name="Mantle of Nimble Thought",source={ID=41206,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27706] = {id=27706,name="Gladiator's Lamellar Shoulders",source={ID=27668,SourceName="Ontok Shatterhorn",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31634] = {id=31634,name="Grand Marshal's Ornamented Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[18681] = {id=18681,name="Burial Shawl",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="7.8",Zone="Scholomance"}}
+items[16679] = {id=16679,name="Beaststalker's Mantle",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="16.8",Zone="Blackrock Spire"}}
+items[22234] = {id=22234,name="Mantle of Lost Hope",source={ID=9025,SourceName="Lord Roccor",SourceType="Kill",DropChance="22.0",Zone="Blackrock Depths"}}
+items[2278] = {id=2278,name="Forest Tracker Epaulets",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
+items[34107] = {id=34107,name="Tattered Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33481] = {id=33481,name="Pauldrons of Stone Resolve",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31294] = {id=31294,name="Pauldrons of Surging Mana",source={ID=12379,SourceName="Unliving Caretaker",SourceType="Kill",DropChance="0",Zone="Deadwind Pass"}}
+items[16733] = {id=16733,name="Spaulders of Valor",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="19.5",Zone="Blackrock Spire"}}
+items[32570] = {id=32570,name="Swiftsteel Shoulders",source={ID=41133,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31964] = {id=31964,name="Merciless Gladiator's Chain Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16953] = {id=16953,name="Judgement Spaulders",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="24.0",Zone="Blackwing Lair"}}
+items[19841] = {id=19841,name="Zandalar Confessor's Mantle",source={ID=8071,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[16701] = {id=16701,name="Dreadmist Mantle",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="16.0",Zone="Scholomance"}}
+items[30215] = {id=30215,name="Mantle of the Corruptor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28693] = {id=28693,name="Grand Marshal's Linked Spaulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[28850] = {id=28850,name="High Warlord's Mail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27995] = {id=27995,name="Sun-Gilded Shouldercaps",source={ID=17879,SourceName="Chrono Lord Deja",SourceType="Kill",DropChance="11.8",Zone="The Black Morass"}}
+items[14139] = {id=14139,name="Mooncloth Shoulders",source={ID=18448,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7684] = {id=7684,name="Bloodmage Mantle",source={ID=4543,SourceName="Bloodmage Thalnos",SourceType="Kill",DropChance="47.7",Zone="Scarlet Monastery"}}
+items[34210] = {id=34210,name="Amice of the Convoker",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="8.6",Zone="Unknown"}}
+items[30143] = {id=30143,name="Rift Stalker Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35470] = {id=35470,name="Kodohide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24457] = {id=24457,name="Truth Bearer Shoulderguards",source={ID=17826,SourceName="Swamplord Musel'ek",SourceType="Kill",DropChance="33.3",Zone="The Underbog"}}
+items[21639] = {id=21639,name="Pauldrons of the Unrelenting",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="23.4",Zone="Ahn'Qiraj"}}
+items[19691] = {id=19691,name="Bloodsoul Shoulders",source={ID=24137,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19835] = {id=19835,name="Zandalar Madcap's Mantle",source={ID=8072,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19849] = {id=19849,name="Zandalar Demoniac's Mantle",source={ID=8076,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[3481] = {id=3481,name="Silvered Bronze Shoulders",source={ID=3330,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35385] = {id=35385,name="Seer's Linked Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22758] = {id=22758,name="Sylvan Shoulders",source={ID=28482,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20060] = {id=20060,name="Highlander's Lizardhide Shoulders",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[22241] = {id=22241,name="Dark Warder's Pauldrons",source={ID=9041,SourceName="Warder Stilgiss",SourceType="Kill",DropChance="21.4",Zone="Blackrock Depths"}}
+items[31030] = {id=31030,name="Slayer's Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30085] = {id=30085,name="Mantle of the Tireless Tracker",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="30.0",Zone="Serpentshrine Cavern"}}
+items[28845] = {id=28845,name="High Warlord's Linked Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31644] = {id=31644,name="Grand Marshal's Ringmail Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[15812] = {id=15812,name="Orchid Amice",source={ID=4971,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[19389] = {id=19389,name="Taut Dragonhide Shoulderpads",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="37.0",Zone="Blackwing Lair"}}
+items[23307] = {id=23307,name="Lieutenant Commander's Chain Shoulders",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[20686] = {id=20686,name="Abyssal Cloth Amice",source={ID=15205,SourceName="Baron Kazum",SourceType="Kill",DropChance="33.8",Zone="Silithus"}}
+items[12927] = {id=12927,name="Truestrike Shoulders",source={ID=9816,SourceName="Pyroguard Emberseer",SourceType="Kill",DropChance="12.0",Zone="Blackrock Spire"}}
+items[30053] = {id=30053,name="Pauldrons of the Wardancer",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="22.2",Zone="Serpentshrine Cavern"}}
+items[27713] = {id=27713,name="Pauldrons of Desolation",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="16.6",Zone="The Slave Pens"}}
+items[22491] = {id=22491,name="Dreamwalker Spaulders",source={ID=9089,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[23254] = {id=23254,name="Champion's Dragonhide Shoulders",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[13867] = {id=13867,name="Runecloth Shoulders",source={ID=18449,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9411] = {id=9411,name="Rockshard Pauldrons",source={ID=7206,SourceName="Ancient Stone Keeper",SourceType="Kill",DropChance="47.0",Zone="Uldaman"}}
+items[4315] = {id=4315,name="Reinforced Woolen Shoulders",source={ID=3849,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34194] = {id=34194,name="Mantle of the Golden Forest",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="14.3",Zone="Unknown"}}
+items[30079] = {id=30079,name="Illidari Shoulderpads",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="22.2",Zone="Serpentshrine Cavern"}}
+items[35380] = {id=35380,name="Stalker's Chain Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24366] = {id=24366,name="Scorpid-Sting Mantle",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="25.0",Zone="The Slave Pens"}}
+items[31148] = {id=31148,name="Demon Hide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23317] = {id=23317,name="Lieutenant Commander's Satin Mantle",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[18493] = {id=18493,name="Bulky Iron Spaulders",source={ID=14326,SourceName="Guard Mol'dar",SourceType="Kill",DropChance="6.4",Zone="Dire Maul"}}
+items[8192] = {id=8192,name="Nightscape Shoulders",source={ID=10516,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13131] = {id=13131,name="Sparkleshell Mantle",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="1.8",Zone="The Barrens"}}
+items[30705] = {id=30705,name="Spaulders of Slaughter",source={ID=20923,SourceName="Blood Guard Porung",SourceType="Kill",DropChance="18.2",Zone="The Shattered Halls"}}
+items[35359] = {id=35359,name="Dragonhide Spaulders",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[25968] = {id=25968,name="Shalassi Sentry's Epaulets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13116] = {id=13116,name="Spaulders of the Unseen",source={ID=15740,SourceName="Colossus of Zora",SourceType="Kill",DropChance="41.6",Zone="Silithus"}}
+items[3480] = {id=3480,name="Rough Bronze Shoulders",source={ID=3328,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33682] = {id=33682,name="Vengeful Gladiator's Felweave Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30127] = {id=30127,name="Crystalforge Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33299] = {id=33299,name="Spaulders of the Advocate",source={ID=23577,SourceName="Halazzi",SourceType="Kill",DropChance="12.8",Zone="Unknown"}}
+items[35374] = {id=35374,name="Wyrmhide Spaulders",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[19845] = {id=19845,name="Zandalar Illusionist's Mantle",source={ID=8068,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[22405] = {id=22405,name="Mantle of the Scarlet Crusade",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="17.9",Zone="Stratholme"}}
+items[11916] = {id=11916,name="Shizzle's Muzzle",source={ID=4503,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[15169] = {id=15169,name="Imposing Shoulders",source={ID=7608,SourceName="Murta Grimgut",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
+items[7727] = {id=7727,name="Watchman Pauldrons",source={ID=4297,SourceName="Scarlet Conjuror",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
+items[30979] = {id=30979,name="Onslaught Shoulderblades",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30024] = {id=30024,name="Mantle of the Elven Kings",source={ID=20031,SourceName="Bloodwarder Legionnaire",SourceType="Kill",DropChance="1.1",Zone="Unknown"}}
+items[30097] = {id=30097,name="Coral-Barbed Shoulderpads",source={ID=21215,SourceName="Leotheras the Blind",SourceType="Kill",DropChance="17.5",Zone="Serpentshrine Cavern"}}
+items[33970] = {id=33970,name="Pauldrons of the Furious Elements",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31587] = {id=31587,name="High Warlord's Kodohide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30369] = {id=30369,name="Cleansed Fel Pauldrons",source={ID=10409,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[16708] = {id=16708,name="Shadowcraft Spaulders",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="16.3",Zone="Stratholme"}}
+items[13405] = {id=13405,name="Wailing Nightbane Pauldrons",source={ID=10516,SourceName="The Unforgiven",SourceType="Kill",DropChance="20.8",Zone="Stratholme"}}
+items[185977] = {id=185977,name="Communal Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3840] = {id=3840,name="Green Iron Shoulders",source={ID=3504,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6697] = {id=6697,name="Batwing Mantle",source={ID=4425,SourceName="Blind Hunter",SourceType="Kill",DropChance="33.5",Zone="Razorfen Kraul"}}
+items[31069] = {id=31069,name="Mantle of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31407] = {id=31407,name="Gladiator's Ringmail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31619] = {id=31619,name="Gladiator's Ornamented Spaulders",source={ID=27668,SourceName="Ontok Shatterhorn",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[24948] = {id=24948,name="Bloodscale Pauldrons",source={ID=17058,SourceName="Illidari Taskmaster",SourceType="Kill",DropChance="2.5",Zone="Hellfire Peninsula"}}
+items[16492] = {id=16492,name="Champion's Silk Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13955] = {id=13955,name="Stoneform Shoulders",source={ID=10506,SourceName="Kirtonos the Herald",SourceType="Kill",DropChance="18.2",Zone="Scholomance"}}
+items[11685] = {id=11685,name="Splinthide Shoulders",source={ID=9029,SourceName="Eviscerator",SourceType="Kill",DropChance="28.8",Zone="Blackrock Depths"}}
+items[4733] = {id=4733,name="Blackforge Pauldrons",source={ID=2754,SourceName="Anathemus",SourceType="Kill",DropChance="0.1",Zone="Badlands"}}
+items[7913] = {id=7913,name="Barbaric Iron Shoulders",source={ID=9811,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12998] = {id=12998,name="Magician's Mantle",source={ID=15812,SourceName="Qiraji Officer",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
+items[34192] = {id=34192,name="Pauldrons of Perseverance",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="15.8",Zone="Unknown"}}
+items[30230] = {id=30230,name="Nordrassil Feral-Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31650] = {id=31650,name="High Warlord's Ringmail Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35364] = {id=35364,name="Kodohide Spaulders",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[8086] = {id=8086,name="Light Plate Shoulderpads",source={ID=15162,SourceName="Scarlet Inquisitor",SourceType="Kill",DropChance="1.6",Zone="Eastern Plaguelands"}}
+items[14758] = {id=14758,name="Slayer's Shoulderguards",source={ID=4427,SourceName="Ward Guardian",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
+items[31971] = {id=31971,name="Merciless Gladiator's Dragonhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32018] = {id=32018,name="Merciless Gladiator's Mooncloth Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27802] = {id=27802,name="Tidefury Shoulderguards",source={ID=16809,SourceName="Warbringer O'mrogg",SourceType="Kill",DropChance="12.0",Zone="The Shattered Halls"}}
+items[28207] = {id=28207,name="Pauldrons of the Crimson Flight",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="16.2",Zone="The Black Morass"}}
+items[28306] = {id=28306,name="Towering Mantle of the Hunt",source={ID=17976,SourceName="Commander Sarannis",SourceType="Kill",DropChance="18.0",Zone="The Botanica"}}
+items[30514] = {id=30514,name="Nether Guards",source={ID=10221,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[21864] = {id=21864,name="Soulcloth Shoulders",source={ID=26780,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22941] = {id=22941,name="Polar Shoulder Pads",source={ID=15953,SourceName="Grand Widow Faerlina",SourceType="Kill",DropChance="38.1",Zone="Naxxramas"}}
+items[21350] = {id=21350,name="Mantle of the Oracle",source={ID=8594,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[19370] = {id=19370,name="Mantle of the Blackwing Cabal",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="18.9",Zone="Blackwing Lair"}}
+items[19878] = {id=19878,name="Bloodsoaked Pauldrons",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="18.4",Zone="Zul'Gurub"}}
+items[10253] = {id=10253,name="Master's Mantle",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="4.9",Zone="Blasted Lands"}}
+items[3998] = {id=3998,name="Laminated Scale Shoulderpads",source={ID=11878,SourceName="Nathanos Blightcaller",SourceType="Kill",DropChance="2.8",Zone="Eastern Plaguelands"}}
+items[15067] = {id=15067,name="Ironfeather Shoulders",source={ID=19062,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15187] = {id=15187,name="Praetorian Pauldrons",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[11624] = {id=11624,name="Kentic Amice",source={ID=9018,SourceName="High Interrogator Gerstahn",SourceType="Kill",DropChance="22.7",Zone="Blackrock Depths"}}
+items[14776] = {id=14776,name="Ravager's Mantle",source={ID=7901,SourceName="Treasure Hunting Swashbuckler",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
+items[15574] = {id=15574,name="Marauder's Shoulder Pads",source={ID=7345,SourceName="Splinterbone Captain",SourceType="Kill",DropChance="0.3",Zone="Razorfen Downs"}}
+items[15553] = {id=15553,name="Thick Scale Shoulder Pads",source={ID=4643,SourceName="Magram Pack Runner",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
+items[4252] = {id=4252,name="Dark Leather Shoulders",source={ID=3769,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34193] = {id=34193,name="Spaulders of the Thalassian Savior",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="13.8",Zone="Unknown"}}
+items[30998] = {id=30998,name="Lightbringer Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30149] = {id=30149,name="Deathmantle Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33489] = {id=33489,name="Mantle of Ill Intent",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27454] = {id=27454,name="Volcanic Pauldrons",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
+items[28250] = {id=28250,name="Vestia's Pauldrons of Inner Grace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31628] = {id=31628,name="High Warlord's Mooncloth Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35336] = {id=35336,name="Mooncloth Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21454] = {id=21454,name="Runic Stone Shoulders",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="13.3",Zone="Ruins of Ahn'Qiraj"}}
+items[23262] = {id=23262,name="Champion's Satin Mantle",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16836] = {id=16836,name="Cenarion Spaulders",source={ID=12056,SourceName="Baron Geddon",SourceType="Kill",DropChance="30.6",Zone="Molten Core"}}
+items[22101] = {id=22101,name="Pauldrons of The Five Thunders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14538] = {id=14538,name="Deadwalker Mantle",source={ID=11622,SourceName="Rattlegore",SourceType="Kill",DropChance="11.9",Zone="Scholomance"}}
+items[22305] = {id=22305,name="Ironweave Mantle",source={ID=16058,SourceName="Volida",SourceType="Kill",DropChance="100.0",Zone="Blackrock Depths"}}
+items[17749] = {id=17749,name="Phytoskin Spaulders",source={ID=12258,SourceName="Razorlash",SourceType="Kill",DropChance="24.5",Zone="Maraudon"}}
+items[14243] = {id=14243,name="Darkmist Mantle",source={ID=7605,SourceName="Raven",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
+items[6388] = {id=6388,name="Glimmering Mail Pauldrons",source={ID=6392,SourceName="Holdout Medic",SourceType="Kill",DropChance="0.3",Zone="Gnomeregan"}}
+items[4314] = {id=4314,name="Double-stitched Woolen Shoulders",source={ID=3848,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34393] = {id=34393,name="Shoulderpads of Knowledge's Pursuit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35035] = {id=35035,name="Brutal Gladiator's Leather Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35406] = {id=35406,name="Crusader's Ornamented Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21367] = {id=21367,name="Striker's Pauldrons",source={ID=8659,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21345] = {id=21345,name="Enigma Shoulderpads",source={ID=8625,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[16924] = {id=16924,name="Pauldrons of Transcendence",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="39.1",Zone="Blackwing Lair"}}
+items[18829] = {id=18829,name="Deep Earth Spaulders",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="3.1",Zone="Molten Core"}}
+items[21805] = {id=21805,name="Polished Obsidian Pauldrons",source={ID=15392,SourceName="Captain Tuubid",SourceType="Kill",DropChance="0.2",Zone="Ruins of Ahn'Qiraj"}}
+items[14851] = {id=14851,name="Sunscale Spaulders",source={ID=6650,SourceName="General Fangferror",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
+items[14955] = {id=14955,name="Bloodforged Shoulder Pads",source={ID=7901,SourceName="Treasure Hunting Swashbuckler",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
+items[9923] = {id=9923,name="Tracker's Shoulderpads",source={ID=15750,SourceName="Qiraji Major",SourceType="Kill",DropChance="5.0",Zone="Thousand Needles"}}
+items[15375] = {id=15375,name="Wolf Rider's Shoulder Pads",source={ID=4334,SourceName="Firemane Flamecaller",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
+items[13103] = {id=13103,name="Pads of the Venom Spider",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
+items[6461] = {id=6461,name="Slime-encrusted Pads",source={ID=3654,SourceName="Mutanus the Devourer",SourceType="Kill",DropChance="29.2",Zone="Wailing Caverns"}}
+items[15019] = {id=15019,name="Lupine Mantle",source={ID=2160,SourceName="Gravelflint Geomancer",SourceType="Kill",DropChance="0.2",Zone="Darkshore"}}
+items[23324] = {id=23324,name="Mantle of the Fire Festival",source={ID=9323,SourceName="",SourceType="Quest",DropChance="0",Zone="Midsummer"}}
+items[30884] = {id=30884,name="Hatefury Mantle",source={ID=17808,SourceName="Anetheron",SourceType="Kill",DropChance="17.2",Zone="Hyjal Summit"}}
+items[30892] = {id=30892,name="Beast-tamer's Shoulders",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="17.7",Zone="Hyjal Summit"}}
+items[30111] = {id=30111,name="Runetotem's Mantle",source={ID=21212,SourceName="Lady Vashj",SourceType="Kill",DropChance="21.0",Zone="Serpentshrine Cavern"}}
+items[30154] = {id=30154,name="Mantle of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33464] = {id=33464,name="Hex Lord's Voodoo Pauldrons",source={ID=24239,SourceName="Hex Lord Malacrass",SourceType="Kill",DropChance="11.6",Zone="Unknown"}}
+items[30084] = {id=30084,name="Pauldrons of the Argent Sentinel",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="30.6",Zone="Serpentshrine Cavern"}}
+items[24723] = {id=24723,name="Dreghood Pauldrons",source={ID=16934,SourceName="Quillfang Ravager",SourceType="Kill",DropChance="3.8",Zone="Hellfire Peninsula"}}
+items[24699] = {id=24699,name="Bonechewer Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21361] = {id=21361,name="Deathdealer's Spaulders",source={ID=8641,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[16902] = {id=16902,name="Stormrage Pauldrons",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="35.9",Zone="Blackwing Lair"}}
+items[20680] = {id=20680,name="Abyssal Mail Pauldrons",source={ID=15203,SourceName="Prince Skaldrenox",SourceType="Kill",DropChance="32.7",Zone="Silithus"}}
+items[16807] = {id=16807,name="Felheart Shoulder Pads",source={ID=12056,SourceName="Baron Geddon",SourceType="Kill",DropChance="31.1",Zone="Molten Core"}}
+items[16816] = {id=16816,name="Mantle of Prophecy",source={ID=12098,SourceName="Sulfuron Harbinger",SourceType="Kill",DropChance="43.4",Zone="Molten Core"}}
+items[19058] = {id=19058,name="Golden Mantle of the Dawn",source={ID=23706,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16423] = {id=16423,name="Lieutenant Commander's Dragonhide Epaulets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17601] = {id=17601,name="Lieutenant Commander's Satin Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[8250] = {id=8250,name="Imperial Red Mantle",source={ID=9681,SourceName="Jaz",SourceType="Kill",DropChance="0.4",Zone="Blackrock Depths"}}
+items[10075] = {id=10075,name="Righteous Spaulders",source={ID=12124,SourceName="Great Shark",SourceType="Kill",DropChance="4.7",Zone="Feralas"}}
+items[14946] = {id=14946,name="Warbringer's Spaulders",source={ID=4334,SourceName="Firemane Flamecaller",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[7482] = {id=7482,name="Ranger Shoulders",source={ID=8211,SourceName="Old Cliff Jumper",SourceType="Kill",DropChance="2.5",Zone="The Hinterlands"}}
+items[3798] = {id=3798,name="Interlaced Shoulderpads",source={ID=17115,SourceName="Cursed Lost One",SourceType="Kill",DropChance="1.5",Zone="Swamp of Sorrows"}}
+items[6566] = {id=6566,name="Shimmering Amice",source={ID=14425,SourceName="Gnawbone",SourceType="Kill",DropChance="6.7",Zone="Wetlands"}}
+items[10405] = {id=10405,name="Bandit Shoulders",source={ID=3735,SourceName="Apothecary Falthis",SourceType="Kill",DropChance="4.6",Zone="Ashenvale"}}
+items[34209] = {id=34209,name="Spaulders of Reclamation",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="19.3",Zone="Unknown"}}
+items[35046] = {id=35046,name="Brutal Gladiator's Linked Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30997] = {id=30997,name="Lightbringer Shoulderbraces",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31054] = {id=31054,name="Mantle of the Malefic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31070] = {id=31070,name="Shoulderpads of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32585] = {id=32585,name="Swiftheal Mantle",source={ID=41208,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[32037] = {id=32037,name="Merciless Gladiator's Satin Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30163] = {id=30163,name="Wings of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30168] = {id=30168,name="Cataclysm Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35341] = {id=35341,name="Satin Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29954] = {id=29954,name="Spiritbinder's Mantle",source={ID=10185,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[23264] = {id=23264,name="Champion's Silk Mantle",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[20689] = {id=20689,name="Abyssal Leather Shoulders",source={ID=15204,SourceName="High Marshal Whirlaxis",SourceType="Kill",DropChance="37.9",Zone="Silithus"}}
+items[19050] = {id=19050,name="Mantle of the Timbermaw",source={ID=23663,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14335] = {id=14335,name="Eternal Spaulders",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="9.0",Zone="Azshara"}}
+items[14503] = {id=14503,name="Death's Clutch",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="14.1",Zone="Scholomance"}}
+items[10210] = {id=10210,name="Elegant Mantle",source={ID=13959,SourceName="Alterac Yeti",SourceType="Kill",DropChance="8.3",Zone="Alterac Valley"}}
+items[12610] = {id=12610,name="Runic Plate Shoulders",source={ID=16664,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16695] = {id=16695,name="Devout Mantle",source={ID=10264,SourceName="Solakar Flamewreath",SourceType="Kill",DropChance="18.3",Zone="Blackrock Spire"}}
+items[13257] = {id=13257,name="Demonic Runed Spaulders",source={ID=9236,SourceName="Shadow Hunter Vosh'gajin",SourceType="Kill",DropChance="7.6",Zone="Blackrock Spire"}}
+items[14678] = {id=14678,name="Pridelord Pauldrons",source={ID=14475,SourceName="Rex Ashil",SourceType="Kill",DropChance="0.7",Zone="Silithus"}}
+items[10170] = {id=10170,name="Templar Pauldrons",source={ID=7104,SourceName="Dessecus",SourceType="Kill",DropChance="5.4",Zone="Felwood"}}
+items[14298] = {id=14298,name="Bonecaster's Spaulders",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.2",Zone="Winterspring"}}
+items[9531] = {id=9531,name="Gemshale Pauldrons",source={ID=2846,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Farrak"}}
+items[4737] = {id=4737,name="Imperial Leather Spaulders",source={ID=14445,SourceName="Lord Captain Wyrmak",SourceType="Kill",DropChance="0.4",Zone="Swamp of Sorrows"}}
+items[14247] = {id=14247,name="Lunar Mantle",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.4",Zone="Zul'Farrak"}}
+items[10774] = {id=10774,name="Fleshhide Shoulders",source={ID=8567,SourceName="Glutton",SourceType="Kill",DropChance="47.7",Zone="Razorfen Downs"}}
+items[14830] = {id=14830,name="Symbolic Pauldrons",source={ID=5645,SourceName="Sandfury Hideskinner",SourceType="Kill",DropChance="0.2",Zone="Tanaris"}}
+items[7445] = {id=7445,name="Sentinel Shoulders",source={ID=14232,SourceName="Dart",SourceType="Kill",DropChance="5.8",Zone="Dustwallow Marsh"}}
+items[35001] = {id=35001,name="Brutal Gladiator's Dragonhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35025] = {id=35025,name="Brutal Gladiator's Kodohide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35031] = {id=35031,name="Brutal Gladiator's Lamellar Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32264] = {id=32264,name="Shoulders of the Hidden Predator",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="16.6",Zone="Black Temple"}}
+items[32573] = {id=32573,name="Dawnsteel Shoulders",source={ID=41135,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[32024] = {id=32024,name="Merciless Gladiator's Ornamented Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30122] = {id=30122,name="Destroyer Shoulderblades",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27816] = {id=27816,name="Mindrage Pauldrons",source={ID=18341,SourceName="Pandemonius",SourceType="Kill",DropChance="18.7",Zone="Mana-Tombs"}}
+items[35476] = {id=35476,name="Crusader's Ornamented Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30286] = {id=30286,name="Otherworldly Pauldrons",source={ID=10435,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[19394] = {id=19394,name="Drake Talon Pauldrons",source={ID=11983,SourceName="Firemaw",SourceType="Kill",DropChance="13.4",Zone="Blackwing Lair"}}
+items[19059] = {id=19059,name="Argent Shoulders",source={ID=23665,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16415] = {id=16415,name="Lieutenant Commander's Silk Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16718] = {id=16718,name="Wildheart Spaulders",source={ID=10268,SourceName="Gizrul the Slavener",SourceType="Kill",DropChance="18.3",Zone="Blackrock Spire"}}
+items[18494] = {id=18494,name="Denwatcher's Shoulders",source={ID=14323,SourceName="Guard Slip'kik",SourceType="Kill",DropChance="6.9",Zone="Dire Maul"}}
+items[8288] = {id=8288,name="Arcane Pads",source={ID=13334,SourceName="Veteran Legionnaire",SourceType="Kill",DropChance="0.8",Zone="Alterac Valley"}}
+items[15049] = {id=15049,name="Blue Dragonscale Shoulders",source={ID=19089,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22212] = {id=22212,name="Golem Fitted Pauldrons",source={ID=9502,SourceName="Phalanx",SourceType="Kill",DropChance="27.8",Zone="Blackrock Depths"}}
+items[11722] = {id=11722,name="Dregmetal Spaulders",source={ID=9028,SourceName="Grizzle",SourceType="Kill",DropChance="21.3",Zone="Blackrock Depths"}}
+items[3975] = {id=3975,name="Smooth Leather Shoulderpads",source={ID=1045,SourceName="Red Dragonspawn",SourceType="Kill",DropChance="2.0",Zone="Wetlands"}}
+items[10134] = {id=10134,name="Revenant Shoulders",source={ID=6649,SourceName="Lady Sesspira",SourceType="Kill",DropChance="4.2",Zone="Azshara"}}
+items[16739] = {id=16739,name="Rugwood Mantle",source={ID=5863,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[7918] = {id=7918,name="Heavy Mithril Shoulder",source={ID=9926,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4731] = {id=4731,name="Glyphed Epaulets",source={ID=2603,SourceName="Kovork",SourceType="Kill",DropChance="0.2",Zone="Arathi Highlands"}}
+items[7459] = {id=7459,name="Knight's Pauldrons",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
+items[9863] = {id=9863,name="Archer's Shoulderpads",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
+items[14397] = {id=14397,name="Resilient Mantle",source={ID=5934,SourceName="Heartrazor",SourceType="Kill",DropChance="0.3",Zone="Thousand Needles"}}
+items[1801] = {id=1801,name="Rawhide Shoulderpads",source={ID=4464,SourceName="Blackrock Gladiator",SourceType="Kill",DropChance="1.9",Zone="Redridge Mountains"}}
+items[14157] = {id=14157,name="Pagan Mantle",source={ID=5799,SourceName="Hannah Bladeleaf",SourceType="Kill",DropChance="0.8",Zone="The Barrens"}}
+items[1744] = {id=1744,name="Laced Mail Shoulderpads",source={ID=17610,SourceName="Sunhawk Agent",SourceType="Kill",DropChance="1.3",Zone="Bloodmyst Isle"}}
+items[34389] = {id=34389,name="Spaulders of the Thalassian Defender",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35063] = {id=35063,name="Brutal Gladiator's Ornamented Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35092] = {id=35092,name="Brutal Gladiator's Scaled Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31022] = {id=31022,name="Skyshatter Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32001] = {id=32001,name="Merciless Gladiator's Leather Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27844] = {id=27844,name="Pauldrons of Swift Retribution",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="16.7",Zone="Mana-Tombs"}}
+items[28874] = {id=28874,name="High Warlord's Wyrmhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35416] = {id=35416,name="Crusader's Scaled Shoulders",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[24587] = {id=24587,name="Outlander's Pauldrons",source={ID=17309,SourceName="Hellfire Watcher",SourceType="Kill",DropChance="11.1",Zone="Hellfire Ramparts"}}
+items[16917] = {id=16917,name="Netherwind Mantle",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="42.2",Zone="Blackwing Lair"}}
+items[21683] = {id=21683,name="Mantle of the Desert Crusade",source={ID=15543,SourceName="Princess Yauj",SourceType="Kill",DropChance="18.9",Zone="Ahn'Qiraj"}}
+items[21694] = {id=21694,name="Ternary Mantle",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="21.4",Zone="Ahn'Qiraj"}}
+items[16844] = {id=16844,name="Earthfury Epaulets",source={ID=12056,SourceName="Baron Geddon",SourceType="Kill",DropChance="14.6",Zone="Molten Core"}}
+items[18686] = {id=18686,name="Bone Golem Shoulders",source={ID=11622,SourceName="Rattlegore",SourceType="Kill",DropChance="11.7",Zone="Scholomance"}}
+items[15081] = {id=15081,name="Heavy Scorpid Shoulders",source={ID=19100,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12557] = {id=12557,name="Ebonsteel Spaulders",source={ID=8929,SourceName="Princess Moira Bronzebeard",SourceType="Kill",DropChance="22.5",Zone="Blackrock Depths"}}
+items[14316] = {id=14316,name="Celestial Pauldrons",source={ID=10198,SourceName="Kashoch the Reaver",SourceType="Kill",DropChance="0.4",Zone="Winterspring"}}
+items[10281] = {id=10281,name="Emerald Pauldrons",source={ID=10821,SourceName="Hed'mush the Rotting",SourceType="Kill",DropChance="5.7",Zone="Eastern Plaguelands"}}
+items[14806] = {id=14806,name="Bloodlust Epaulets",source={ID=10200,SourceName="Rak'shiri",SourceType="Kill",DropChance="0.4",Zone="Winterspring"}}
+items[10038] = {id=10038,name="Stormcloth Shoulders",source={ID=12087,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14921] = {id=14921,name="Jade Epaulets",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
+items[7532] = {id=7532,name="Cabalist Spaulders",source={ID=15750,SourceName="Qiraji Major",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
+items[15617] = {id=15617,name="Bonelink Epaulets",source={ID=7605,SourceName="Raven",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
+items[4006] = {id=4006,name="Overlinked Chain Shoulderpads",source={ID=2781,SourceName="Caretaker Weston",SourceType="Kill",DropChance="1.3",Zone="Arathi Highlands"}}
+items[7473] = {id=7473,name="Regal Mantle",source={ID=15192,SourceName="Anachronos",SourceType="Kill",DropChance="14.3",Zone="Tanaris"}}
+items[7408] = {id=7408,name="Infiltrator Shoulders",source={ID=14225,SourceName="Prince Kellen",SourceType="Kill",DropChance="3.5",Zone="Desolace"}}
+items[9824] = {id=9824,name="Durable Shoulders",source={ID=10647,SourceName="Prince Raze",SourceType="Kill",DropChance="5.4",Zone="Ashenvale"}}
+items[4835] = {id=4835,name="Elite Shoulders",source={ID=2679,SourceName="Wenna Silkbeard",SourceType="Purchase",DropChance="100",Zone="Wetlands"}}
+items[15127] = {id=15127,name="Robust Shoulders",source={ID=4518,SourceName="Death's Head Sage",SourceType="Kill",DropChance="0.5",Zone="Razorfen Kraul"}}
+items[14186] = {id=14186,name="Raincaller Mantle",source={ID=8518,SourceName="Rynthariel the Keymaster",SourceType="Kill",DropChance="0.6",Zone="Stonetalon Mountains"}}
+items[14378] = {id=14378,name="Sanguine Mantle",source={ID=5859,SourceName="Hagg Taurenbane",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
+items[4709] = {id=4709,name="Forest Leather Mantle",source={ID=14424,SourceName="Mirelow",SourceType="Kill",DropChance="0.9",Zone="Wetlands"}}
+items[14728] = {id=14728,name="War Paint Shoulder Pads",source={ID=3735,SourceName="Apothecary Falthis",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
+items[4700] = {id=4700,name="Inscribed Leather Spaulders",source={ID=450,SourceName="Defias Renegade Mage",SourceType="Kill",DropChance="1.3",Zone="Westfall"}}
+items[4728] = {id=4728,name="Twain's Shoulder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34208] = {id=34208,name="Equilibrium Epaulets",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="15.8",Zone="Unknown"}}
+items[30996] = {id=30996,name="Lightbringer Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31023] = {id=31023,name="Skyshatter Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33674] = {id=33674,name="Vengeful Gladiator's Dragonhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33757] = {id=33757,name="Vengeful Gladiator's Silk Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30866] = {id=30866,name="Blood-stained Pauldrons",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="16.1",Zone="Hyjal Summit"}}
+items[32273] = {id=32273,name="Amice of Brilliant Light",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="16.8",Zone="Black Temple"}}
+items[32377] = {id=32377,name="Mantle of Darkness",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="18.5",Zone="Black Temple"}}
+items[32047] = {id=32047,name="Merciless Gladiator's Silk Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30117] = {id=30117,name="Destroyer Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30194] = {id=30194,name="Cataclysm Shoulderplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30235] = {id=30235,name="Nordrassil Wrath-Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33287] = {id=33287,name="Gnarled Ironwood Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27738] = {id=27738,name="Incanter's Pauldrons",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="20.7",Zone="The Steamvault"}}
+items[28835] = {id=28835,name="High Warlord's Lamellar Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19139] = {id=19139,name="Fireguard Shoulders",source={ID=179703,SourceName="Cache of the Firelord",SourceType="Container",DropChance="16.4",Zone="Molten Core"}}
+items[16848] = {id=16848,name="Giantstalker's Epaulets",source={ID=12098,SourceName="Sulfuron Harbinger",SourceType="Kill",DropChance="43.5",Zone="Molten Core"}}
+items[15686] = {id=15686,name="Triumphant Shoulder Pads",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="4.0",Zone="Duskwood"}}
+items[16528] = {id=16528,name="Champion's Chain Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10153] = {id=10153,name="Mighty Spaulders",source={ID=1851,SourceName="The Husk",SourceType="Kill",DropChance="4.3",Zone="Western Plaguelands"}}
+items[15677] = {id=15677,name="Magnificent Shoulders",source={ID=11447,SourceName="Mushgog",SourceType="Kill",DropChance="1.5",Zone="Unknown"}}
+items[10228] = {id=10228,name="Nightshade Spaulders",source={ID=1841,SourceName="Scarlet Executioner",SourceType="Kill",DropChance="9.0",Zone="Western Plaguelands"}}
+items[3950] = {id=3950,name="Twill Shoulderpads",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="1.7",Zone="Azshara"}}
+items[10125] = {id=10125,name="Ornate Pauldrons",source={ID=10825,SourceName="Gish the Unmoving",SourceType="Kill",DropChance="8.0",Zone="Eastern Plaguelands"}}
+items[14929] = {id=14929,name="Lofty Shoulder Pads",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="1.1",Zone="Azshara"}}
+items[11963] = {id=11963,name="Penance Spaulders",source={ID=4136,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
+items[10783] = {id=10783,name="Atal'ai Spaulders",source={ID=5716,SourceName="Zul'Lor",SourceType="Kill",DropChance="5.0",Zone="The Temple of Atal'Hakkar"}}
+items[14278] = {id=14278,name="Opulent Mantle",source={ID=8196,SourceName="Occulus",SourceType="Kill",DropChance="0.4",Zone="Tanaris"}}
+items[3942] = {id=3942,name="Crochet Shoulderpads",source={ID=17235,SourceName="Witch Doctor Mai'jin",SourceType="Kill",DropChance="5.2",Zone="The Hinterlands"}}
+items[15638] = {id=15638,name="Formidable Shoulder Pads",source={ID=5262,SourceName="Groddoc Thunderer",SourceType="Kill",DropChance="0",Zone="Feralas"}}
+items[14266] = {id=14266,name="Bloodwoven Pads",source={ID=6184,SourceName="Timbermaw Pathfinder",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
+items[3814] = {id=3814,name="Double Mail Shoulderpads",source={ID=2598,SourceName="Darbel Montrose",SourceType="Kill",DropChance="1.0",Zone="Arathi Highlands"}}
+items[4729] = {id=4729,name="Aurora Mantle",source={ID=2738,SourceName="Stromgarde Cavalryman",SourceType="Kill",DropChance="0.3",Zone="Arathi Highlands"}}
+items[7060] = {id=7060,name="Azure Shoulders",source={ID=8795,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14596] = {id=14596,name="Hawkeye's Epaulets",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[16793] = {id=16793,name="Arcmetal Shoulders",source={ID=6027,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[4810] = {id=4810,name="Boulder Pads",source={ID=2453,SourceName="Lo'Grosh",SourceType="Kill",DropChance="42.8",Zone="Alterac Mountains"}}
+items[15357] = {id=15357,name="Headhunter's Spaulders",source={ID=23841,SourceName="Razorspine",SourceType="Kill",DropChance="1.1",Zone="Dustwallow Marsh"}}
+items[9834] = {id=9834,name="Scaled Leather Shoulders",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="6.3",Zone="Alterac Mountains"}}
+items[4196] = {id=4196,name="Feathered Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6617] = {id=6617,name="Sage's Mantle",source={ID=1037,SourceName="Dragonmaw Battlemaster",SourceType="Kill",DropChance="4.5",Zone="Wetlands"}}
+items[15531] = {id=15531,name="Sentry's Shoulderguards",source={ID=4532,SourceName="Razorfen Beastmaster",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[6395] = {id=6395,name="Silver-thread Amice",source={ID=6407,SourceName="Holdout Technician",SourceType="Kill",DropChance="0.5",Zone="Gnomeregan"}}
+items[9796] = {id=9796,name="Ivycloth Mantle",source={ID=5827,SourceName="Brontus",SourceType="Kill",DropChance="8.5",Zone="The Barrens"}}
+items[14749] = {id=14749,name="Hulking Spaulders",source={ID=11684,SourceName="Warsong Shredder",SourceType="Kill",DropChance="1.6",Zone="Ashenvale"}}
+items[6588] = {id=6588,name="Scouting Spaulders",source={ID=10643,SourceName="Mugglefin",SourceType="Kill",DropChance="5.6",Zone="Ashenvale"}}
+items[34202] = {id=34202,name="Shawl of Wonderment",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="14.8",Zone="Unknown"}}
+items[35070] = {id=35070,name="Brutal Gladiator's Plate Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30980] = {id=30980,name="Onslaught Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31006] = {id=31006,name="Gronnstalker's Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31049] = {id=31049,name="Thunderheart Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33726] = {id=33726,name="Vengeful Gladiator's Ornamented Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31979] = {id=31979,name="Merciless Gladiator's Felweave Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33206] = {id=33206,name="Pauldrons of Primal Fury",source={ID=23576,SourceName="Nalorakk",SourceType="Kill",DropChance="13.3",Zone="Unknown"}}
+items[28344] = {id=28344,name="Wyrmfury Pauldrons",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="21.6",Zone="Old Hillsbrad Foothills"}}
+items[30005] = {id=30005,name="Overmaster's Shoulders",source={ID=10318,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31115] = {id=31115,name="Uvuros Plated Spaulders",source={ID=10647,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[29999] = {id=29999,name="After Hours Pauldrons",source={ID=10199,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[27417] = {id=27417,name="Ravenwing Pauldrons",source={ID=17848,SourceName="Lieutenant Drake",SourceType="Kill",DropChance="26.0",Zone="Old Hillsbrad Foothills"}}
+items[25947] = {id=25947,name="Lightning-Rod Pauldrons",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="7.1",Zone="Mana-Tombs"}}
+items[25522] = {id=25522,name="Marshstrider's Spaulders",source={ID=9732,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[27725] = {id=27725,name="Expedition Mantle",source={ID=9730,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[22940] = {id=22940,name="Icebane Pauldrons",source={ID=15953,SourceName="Grand Widow Faerlina",SourceType="Kill",DropChance="36.8",Zone="Naxxramas"}}
+items[16961] = {id=16961,name="Pauldrons of Wrath",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="39.7",Zone="Blackwing Lair"}}
+items[21686] = {id=21686,name="Mantle of Phrenic Power",source={ID=15543,SourceName="Princess Yauj",SourceType="Kill",DropChance="30.8",Zone="Ahn'Qiraj"}}
+items[16797] = {id=16797,name="Arcanist Mantle",source={ID=12056,SourceName="Baron Geddon",SourceType="Kill",DropChance="31.1",Zone="Molten Core"}}
+items[12588] = {id=12588,name="Bonespike Shoulder",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="1.0",Zone="Blackrock Spire"}}
+items[13358] = {id=13358,name="Wyrmtongue Shoulders",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="16.7",Zone="Stratholme"}}
+items[17613] = {id=17613,name="Champion's Satin Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14817] = {id=14817,name="Warstrike Shoulder Pads",source={ID=12474,SourceName="Emeraldon Boughguard",SourceType="Kill",DropChance="0.6",Zone="Ashenvale"}}
+items[13133] = {id=13133,name="Drakesfire Epaulets",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[14633] = {id=14633,name="Necropile Mantle",source={ID=11261,SourceName="Doctor Theolen Krastinov",SourceType="Kill",DropChance="4.1",Zone="Scholomance"}}
+items[14688] = {id=14688,name="Indomitable Epaulets",source={ID=5319,SourceName="Jademir Tree Warder",SourceType="Kill",DropChance="0.5",Zone="Feralas"}}
+items[13538] = {id=13538,name="Windshrieker Pauldrons",source={ID=10436,SourceName="Baroness Anastari",SourceType="Kill",DropChance="10.3",Zone="Stratholme"}}
+items[10245] = {id=10245,name="Heavy Lamellar Pauldrons",source={ID=9604,SourceName="Gorgon'och",SourceType="Kill",DropChance="3.3",Zone="Burning Steppes"}}
+items[9941] = {id=9941,name="Abjurer's Mantle",source={ID=8281,SourceName="Scald",SourceType="Kill",DropChance="3.3",Zone="Searing Gorge"}}
+items[8281] = {id=8281,name="Valorous Pauldrons",source={ID=5399,SourceName="Veyzhak the Cannibal",SourceType="Kill",DropChance="1.2",Zone="Unknown"}}
+items[3967] = {id=3967,name="Thick Leather Shoulderpads",source={ID=5343,SourceName="Lady Szallah",SourceType="Kill",DropChance="1.7",Zone="Feralas"}}
+items[10092] = {id=10092,name="Gothic Plate Spaulders",source={ID=1063,SourceName="Jade",SourceType="Kill",DropChance="9.6",Zone="Unknown"}}
+items[8144] = {id=8144,name="Chromite Pauldrons",source={ID=14445,SourceName="Lord Captain Wyrmak",SourceType="Kill",DropChance="0.9",Zone="Swamp of Sorrows"}}
+items[14841] = {id=14841,name="Tyrant's Epaulets",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
+items[4734] = {id=4734,name="Mistscape Mantle",source={ID=8219,SourceName="Zul'arek Hatefowler",SourceType="Kill",DropChance="0.2",Zone="The Hinterlands"}}
+items[7491] = {id=7491,name="Captain's Shoulderguards",source={ID=8219,SourceName="Zul'arek Hatefowler",SourceType="Kill",DropChance="4.7",Zone="The Hinterlands"}}
+items[9292] = {id=9292,name="Field Plate Pauldrons",source={ID=14448,SourceName="Molt Thorn",SourceType="Kill",DropChance="4.7",Zone="Swamp of Sorrows"}}
+items[15583] = {id=15583,name="Sparkleshell Shoulder Pads",source={ID=4387,SourceName="Withervine Mire Beast",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[15698] = {id=15698,name="Wrangling Spaulders",source={ID=5561,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[15150] = {id=15150,name="Ghostwalker Pads",source={ID=5045,SourceName="Private Hallan",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
+items[7352] = {id=7352,name="Earthen Leather Shoulders",source={ID=9147,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15496] = {id=15496,name="Bloodspattered Shoulder Pads",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
+items[35096] = {id=35096,name="Brutal Gladiator's Silk Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32518] = {id=32518,name="Veil of Turning Leaves",source={ID=22950,SourceName="High Nethermancer Zerevor",SourceType="Kill",DropChance="11.1",Zone="Unknown"}}
+items[32008] = {id=32008,name="Merciless Gladiator's Linked Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30173] = {id=30173,name="Cataclysm Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33973] = {id=33973,name="Pauldrons of Tribal Fury",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24691] = {id=24691,name="Elementalist Mantle",source={ID=22281,SourceName="Galvanoth",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
+items[28340] = {id=28340,name="Mantle of Autumn",source={ID=17980,SourceName="Laj",SourceType="Kill",DropChance="33.3",Zone="The Botanica"}}
+items[34607] = {id=34607,name="Fel-tinged Mantle",source={ID=24744,SourceName="Vexallus",SourceType="Kill",DropChance="7.4",Zone="Magisters' Terrace"}}
+items[24619] = {id=24619,name="Vindicator Shoulderpads",source={ID=18205,SourceName="Clefthoof",SourceType="Kill",DropChance="1.5",Zone="Nagrand"}}
+items[31248] = {id=31248,name="Bog Epaulets",source={ID=18682,SourceName="Bog Lurker",SourceType="Kill",DropChance="43.5",Zone="Zangarmarsh"}}
+items[24940] = {id=24940,name="Darkcrest Pauldrons",source={ID=19415,SourceName="Shattered Hand Acolyte",SourceType="Kill",DropChance="6.2",Zone="Hellfire Peninsula"}}
+items[25560] = {id=25560,name="Lo'ap's Muck Diving Pads",source={ID=9815,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[16823] = {id=16823,name="Nightslayer Shoulder Pads",source={ID=12098,SourceName="Sulfuron Harbinger",SourceType="Kill",DropChance="43.9",Zone="Molten Core"}}
+items[16856] = {id=16856,name="Lawbringer Spaulders",source={ID=12056,SourceName="Baron Geddon",SourceType="Kill",DropChance="16.4",Zone="Molten Core"}}
+items[16868] = {id=16868,name="Pauldrons of Might",source={ID=12098,SourceName="Sulfuron Harbinger",SourceType="Kill",DropChance="43.9",Zone="Molten Core"}}
+items[20184] = {id=20184,name="Defiler's Lamellar Spaulders",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[15441] = {id=15441,name="Supreme Shoulders",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="6.7",Zone="Azshara"}}
+items[16501] = {id=16501,name="Champion's Dragonhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18720] = {id=18720,name="Shroud of the Nathrezim",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="16.1",Zone="Stratholme"}}
+items[10142] = {id=10142,name="High Councillor's Mantle",source={ID=15817,SourceName="Qiraji Brigadier General Pax-lish",SourceType="Kill",DropChance="6.2",Zone="Silithus"}}
+items[14463] = {id=14463,name="Elunarian Spaulders",source={ID=16072,SourceName="Tidelord Rrurgaz",SourceType="Kill",DropChance="1.1",Zone="Dustwallow Marsh"}}
+items[14981] = {id=14981,name="Exalted Epaulets",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="5.6",Zone="Duskwood"}}
+items[13533] = {id=13533,name="Acid-etched Pauldrons",source={ID=10437,SourceName="Nerub'enkan",SourceType="Kill",DropChance="10.6",Zone="Stratholme"}}
+items[16669] = {id=16669,name="Pauldrons of Elements",source={ID=10339,SourceName="Gyth",SourceType="Kill",DropChance="19.4",Zone="Blackrock Spire"}}
+items[8301] = {id=8301,name="Traveler's Spaulders",source={ID=1046,SourceName="Red Wyrmkin",SourceType="Kill",DropChance="0.9",Zone="Wetlands"}}
+items[14860] = {id=14860,name="Vanguard Pauldrons",source={ID=10660,SourceName="Cobalt Broodling",SourceType="Kill",DropChance="0.2",Zone="Winterspring"}}
+items[10172] = {id=10172,name="Mystical Mantle",source={ID=10817,SourceName="Duggan Wildhammer",SourceType="Kill",DropChance="6.3",Zone="Eastern Plaguelands"}}
+items[10189] = {id=10189,name="Swashbuckler's Shoulderpads",source={ID=10817,SourceName="Duggan Wildhammer",SourceType="Kill",DropChance="3.6",Zone="Eastern Plaguelands"}}
+items[11842] = {id=11842,name="Lead Surveyor's Mantle",source={ID=9056,SourceName="Fineous Darkvire",SourceType="Kill",DropChance="24.0",Zone="Blackrock Depths"}}
+items[8272] = {id=8272,name="Ebonhold Shoulderpads",source={ID=7049,SourceName="Flamescale Broodling",SourceType="Kill",DropChance="0.5",Zone="Burning Steppes"}}
+items[14452] = {id=14452,name="Highborne Pauldrons",source={ID=6144,SourceName="Son of Arkkoroc",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
+items[8263] = {id=8263,name="Serpentskin Spaulders",source={ID=5721,SourceName="Dreamscythe",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
+items[14963] = {id=14963,name="High Chief's Pauldrons",source={ID=6502,SourceName="Plated Stegodon",SourceType="Kill",DropChance="0.8",Zone="Un'Goro Crater"}}
+items[15395] = {id=15395,name="Jadefire Epaulets",source={ID=11553,SourceName="Timbermaw Woodbender",SourceType="Kill",DropChance="0.7",Zone="Felwood"}}
+items[10085] = {id=10085,name="Lord's Pauldrons",source={ID=8215,SourceName="Grimungous",SourceType="Kill",DropChance="3.1",Zone="The Hinterlands"}}
+items[186080] = {id=186080,name="Communal Pads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[8133] = {id=8133,name="Myrmidon's Pauldrons",source={ID=8497,SourceName="Nightmare Suppressor",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
+items[9955] = {id=9955,name="Chieftain's Shoulders",source={ID=14344,SourceName="Mongress",SourceType="Kill",DropChance="7.2",Zone="Felwood"}}
+items[9965] = {id=9965,name="Warmonger's Pauldrons",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
+items[14443] = {id=14443,name="Venomshroud Mantle",source={ID=6187,SourceName="Timbermaw Den Watcher",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
+items[15177] = {id=15177,name="Potent Shoulders",source={ID=5466,SourceName="Coast Strider",SourceType="Kill",DropChance="0.2",Zone="Tanaris"}}
+items[8111] = {id=8111,name="Hibernal Mantle",source={ID=5401,SourceName="Kazkaz the Unholy",SourceType="Kill",DropChance="0.7",Zone="Unknown"}}
+items[14273] = {id=14273,name="Gaea's Amice",source={ID=6185,SourceName="Timbermaw Warrior",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[15386] = {id=15386,name="Rageclaw Shoulder Pads",source={ID=6186,SourceName="Timbermaw Totemic",SourceType="Kill",DropChance="1.3",Zone="Azshara"}}
+items[15628] = {id=15628,name="Gryphon Mail Pauldrons",source={ID=12206,SourceName="Primordial Behemoth",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
+items[7523] = {id=7523,name="Gossamer Shoulderpads",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="3.7",Zone="Tanaris"}}
+items[9971] = {id=9971,name="Embossed Plate Pauldrons",source={ID=14492,SourceName="Verifonix",SourceType="Kill",DropChance="3.6",Zone="Stranglethorn Vale"}}
+items[9881] = {id=9881,name="Sorcerer Mantle",source={ID=14224,SourceName="7:XT",SourceType="Kill",DropChance="2.7",Zone="Badlands"}}
+items[9894] = {id=9894,name="Huntsman's Shoulders",source={ID=14234,SourceName="Hayoc",SourceType="Kill",DropChance="3.4",Zone="Dustwallow Marsh"}}
+items[9904] = {id=9904,name="Jazeraint Pauldrons",source={ID=5356,SourceName="Snarler",SourceType="Kill",DropChance="6.8",Zone="Feralas"}}
+items[14603] = {id=14603,name="Warden's Mantle",source={ID=11685,SourceName="Maraudine Priest",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[4725] = {id=4725,name="Chief Brigadier Pauldrons",source={ID=14487,SourceName="Gluggle",SourceType="Kill",DropChance="0.5",Zone="Stranglethorn Vale"}}
+items[14232] = {id=14232,name="Embersilk Mantle",source={ID=4687,SourceName="Deepstrider Searcher",SourceType="Kill",DropChance="0.3",Zone="Desolace"}}
+items[15368] = {id=15368,name="Trickster's Pauldrons",source={ID=4658,SourceName="Maraudine Stormer",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[14223] = {id=14223,name="Geomancer's Spaulders",source={ID=4382,SourceName="Withervine Creeper",SourceType="Kill",DropChance="0.8",Zone="Dustwallow Marsh"}}
+items[14767] = {id=14767,name="Enduring Pauldrons",source={ID=7347,SourceName="Boneflayer Ghoul",SourceType="Kill",DropChance="0.3",Zone="Razorfen Downs"}}
+items[9872] = {id=9872,name="Renegade Pauldrons",source={ID=14487,SourceName="Gluggle",SourceType="Kill",DropChance="4.5",Zone="Stranglethorn Vale"}}
+items[15542] = {id=15542,name="Wicked Chain Shoulder Pads",source={ID=3792,SourceName="Terrowulf Packlord",SourceType="Kill",DropChance="0.9",Zone="Ashenvale"}}
+items[15345] = {id=15345,name="Pathfinder Shoulder Pads",source={ID=4532,SourceName="Razorfen Beastmaster",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[6399] = {id=6399,name="Emblazoned Shoulders",source={ID=6391,SourceName="Holdout Warrior",SourceType="Kill",DropChance="0.5",Zone="Gnomeregan"}}
+items[1785] = {id=1785,name="Cross-stitched Shoulderpads",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="1.8",Zone="Stonetalon Mountains"}}
+items[14182] = {id=14182,name="Watcher's Mantle",source={ID=6035,SourceName="Razorfen Stalker",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[15338] = {id=15338,name="Wrangler's Mantle",source={ID=6035,SourceName="Razorfen Stalker",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[9807] = {id=9807,name="Superior Shoulders",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="7.0",Zone="The Barrens"}}
+items[15523] = {id=15523,name="Spiked Chain Shoulder Pads",source={ID=5800,SourceName="Marcus Bel",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
+items[1809] = {id=1809,name="Tough Leather Shoulderpads",source={ID=11682,SourceName="Warsong Grunt",SourceType="Kill",DropChance="2.9",Zone="Ashenvale"}}
+items[15116] = {id=15116,name="Rigid Shoulders",source={ID=5799,SourceName="Hannah Bladeleaf",SourceType="Kill",DropChance="0.8",Zone="The Barrens"}}
+items[15505] = {id=15505,name="Outrunner's Pauldrons",source={ID=3898,SourceName="Aligar the Tormentor",SourceType="Kill",DropChance="1.7",Zone="Darkshore"}}
+items[10407] = {id=10407,name="Raider's Shoulderpads",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
+items[34391] = {id=34391,name="Spaulders of Devastation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35009] = {id=35009,name="Brutal Gladiator's Felweave Amice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35056] = {id=35056,name="Brutal Gladiator's Mooncloth Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33703] = {id=33703,name="Vengeful Gladiator's Leather Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33753] = {id=33753,name="Vengeful Gladiator's Scaled Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32043] = {id=32043,name="Merciless Gladiator's Scaled Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30138] = {id=30138,name="Crystalforge Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33300] = {id=33300,name="Shoulderpads of Dancing Blades",source={ID=23577,SourceName="Halazzi",SourceType="Kill",DropChance="14.8",Zone="Unknown"}}
+items[34613] = {id=34613,name="Shoulderpads of the Silvermoon Retainer",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="5.6",Zone="Magisters' Terrace"}}
+items[24683] = {id=24683,name="Archmage Mantle",source={ID=17420,SourceName="Shattered Hand Heathen",SourceType="Kill",DropChance="25.0",Zone="The Shattered Halls"}}
+items[27831] = {id=27831,name="Mantle of the Unforgiven",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="14.8",Zone="Mana-Tombs"}}
+items[31553] = {id=31553,name="Windchanneller's Mantle",source={ID=22825,SourceName="Matron Li-sahar",SourceType="Kill",DropChance="90.1",Zone="Unknown"}}
+items[34601] = {id=34601,name="Shoulderplates of Everlasting Pain",source={ID=24723,SourceName="Selin Fireheart",SourceType="Kill",DropChance="5.9",Zone="Magisters' Terrace"}}
+items[34788] = {id=34788,name="Duskhallow Mantle",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="20.2",Zone="Magisters' Terrace"}}
+items[35395] = {id=35395,name="Seer's Ringmail Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30952] = {id=30952,name="Earthmender's Crimson Spaulders",source={ID=10451,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31161] = {id=31161,name="Felstone Spaulders",source={ID=18690,SourceName="Morcrush",SourceType="Kill",DropChance="44.2",Zone="Unknown"}}
+items[25547] = {id=25547,name="QR XXXX Druid Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25557] = {id=25557,name="Salvaged Ango'rosh Pauldrons",source={ID=9810,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[29326] = {id=29326,name="Consortium Mantle of Phasing",source={ID=10218,SourceName="",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
+items[31249] = {id=31249,name="Bog Spaulders",source={ID=18682,SourceName="Bog Lurker",SourceType="Kill",DropChance="40.2",Zone="Zangarmarsh"}}
+items[25514] = {id=25514,name="Ikeyen's Pauldrons",source={ID=9788,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[22967] = {id=22967,name="Icy Scale Spaulders",source={ID=15931,SourceName="Grobbulus",SourceType="Kill",DropChance="41.8",Zone="Naxxramas"}}
+items[22968] = {id=22968,name="Glacial Mantle",source={ID=15931,SourceName="Grobbulus",SourceType="Kill",DropChance="34.0",Zone="Naxxramas"}}
+items[24812] = {id=24812,name="Unyielding Spaulders",source={ID=17053,SourceName="Kaliri Swooper",SourceType="Kill",DropChance="1.8",Zone="Hellfire Peninsula"}}
+items[21468] = {id=21468,name="Mantle of Maz'Nadir",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="31.8",Zone="Ruins of Ahn'Qiraj"}}
+items[23252] = {id=23252,name="Champion's Chain Shoulders",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[16436] = {id=16436,name="Lieutenant Commander's Lamellar Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16507] = {id=16507,name="Champion's Leather Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20774] = {id=20774,name="63 green shaman pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14548] = {id=14548,name="Royal Cap Spaulders",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="11.6",Zone="Scholomance"}}
+items[13185] = {id=13185,name="Sunderseer Mantle",source={ID=10376,SourceName="Crystal Fang",SourceType="Kill",DropChance="33.2",Zone="Blackrock Spire"}}
+items[14325] = {id=14325,name="Resplendent Epaulets",source={ID=14471,SourceName="Setis",SourceType="Kill",DropChance="1.1",Zone="Silithus"}}
+items[14937] = {id=14937,name="Heroic Pauldrons",source={ID=10196,SourceName="General Colbatann",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
+items[15666] = {id=15666,name="Impenetrable Pauldrons",source={ID=10663,SourceName="Manaclaw",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
+items[15693] = {id=15693,name="Grand Shoulders",source={ID=10663,SourceName="Manaclaw",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
+items[15432] = {id=15432,name="Peerless Shoulders",source={ID=11469,SourceName="Eldreth Seether",SourceType="Kill",DropChance="0.2",Zone="Dire Maul"}}
+items[10113] = {id=10113,name="Wanderer's Shoulders",source={ID=10826,SourceName="Lord Darkscythe",SourceType="Kill",DropChance="4.5",Zone="Eastern Plaguelands"}}
+items[13013] = {id=13013,name="Elder Wizard's Mantle",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[15647] = {id=15647,name="Ironhide Pauldrons",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[10063] = {id=10063,name="Duskwoven Amice",source={ID=8213,SourceName="Ironback",SourceType="Kill",DropChance="3.3",Zone="The Hinterlands"}}
+items[14669] = {id=14669,name="Keeper's Mantle",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[14797] = {id=14797,name="Protector Pads",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
+items[10209] = {id=10209,name="Overlord's Spaulders",source={ID=9021,SourceName="Kharan Mighthammer",SourceType="Kill",DropChance="33.2",Zone="Blackrock Depths"}}
+items[8124] = {id=8124,name="Heraldic Spaulders",source={ID=8336,SourceName="Hakkari Sapper",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
+items[14660] = {id=14660,name="Scorpashi Shoulder Pads",source={ID=4328,SourceName="Firemane Scalebane",SourceType="Kill",DropChance="0",Zone="Dustwallow Marsh"}}
+items[14787] = {id=14787,name="Khan's Mantle",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.2",Zone="Maraudon"}}
+items[7928] = {id=7928,name="Ornate Mithril Shoulder",source={ID=9952,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9912] = {id=9912,name="Royal Amice",source={ID=5345,SourceName="Diamond Head",SourceType="Kill",DropChance="7.1",Zone="Feralas"}}
+items[8210] = {id=8210,name="Wild Leather Shoulders",source={ID=10529,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15608] = {id=15608,name="Ancient Pauldrons",source={ID=11688,SourceName="Cursed Centaur",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[15597] = {id=15597,name="Steadfast Shoulders",source={ID=2937,SourceName="Dagun the Ravenous",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
+items[8163] = {id=8163,name="Jouster's Pauldrons",source={ID=2749,SourceName="Siege Golem",SourceType="Kill",DropChance="2.8",Zone="Badlands"}}
+items[15158] = {id=15158,name="Nocturnal Shoulder Pads",source={ID=4687,SourceName="Deepstrider Searcher",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[7435] = {id=7435,name="Twilight Mantle",source={ID=14488,SourceName="Roloch",SourceType="Kill",DropChance="10.6",Zone="Stranglethorn Vale"}}
+items[3806] = {id=3806,name="Hardened Leather Shoulderpads",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="1.8",Zone="Desolace"}}
+items[14412] = {id=14412,name="Stonecloth Epaulets",source={ID=4382,SourceName="Withervine Creeper",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
+items[15562] = {id=15562,name="Pillager's Pauldrons",source={ID=5935,SourceName="Ironeye the Invincible",SourceType="Kill",DropChance="0.5",Zone="Thousand Needles"}}
+items[4721] = {id=4721,name="Insignia Mantle",source={ID=507,SourceName="Fenros",SourceType="Kill",DropChance="0.3",Zone="Duskwood"}}
+items[6404] = {id=6404,name="Mail Combat Spaulders",source={ID=3985,SourceName="Grandpa Vishas",SourceType="Kill",DropChance="0.2",Zone="Alterac Mountains"}}
+items[14212] = {id=14212,name="Vital Shoulders",source={ID=7329,SourceName="Withered Quilguard",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
+items[7367] = {id=7367,name="Elder's Mantle",source={ID=15748,SourceName="Lesser Anubisath Warbringer",SourceType="Kill",DropChance="3.6",Zone="Thousand Needles"}}
+items[9842] = {id=9842,name="Banded Pauldrons",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="4.2",Zone="Alterac Mountains"}}
+items[14587] = {id=14587,name="Dokebi Mantle",source={ID=17300,SourceName="Gorgannon",SourceType="Kill",DropChance="3.2",Zone="Ashenvale"}}
+items[9536] = {id=9536,name="Fairywing Mantle",source={ID=2904,SourceName="",SourceType="Quest",DropChance="0",Zone="Gnomeregan"}}
+items[7415] = {id=7415,name="Dervish Spaulders",source={ID=15806,SourceName="Qiraji Lieutenant",SourceType="Kill",DropChance="13.0",Zone="The Barrens"}}
+items[1760] = {id=1760,name="Reinforced Chain Shoulderpads",source={ID=5916,SourceName="Sentinel Amarassan",SourceType="Kill",DropChance="1.3",Zone="Stonetalon Mountains"}}
+items[1752] = {id=1752,name="Linked Chain Shoulderpads",source={ID=16246,SourceName="Knucklerot",SourceType="Kill",DropChance="1.6",Zone="Ghostlands"}}
+items[31047] = {id=31047,name="Thunderheart Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33693] = {id=33693,name="Vengeful Gladiator's Kodohide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33747] = {id=33747,name="Vengeful Gladiator's Satin Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33770] = {id=33770,name="Vengeful Gladiator's Wyrmhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30917] = {id=30917,name="Razorfury Mantle",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="20.2",Zone="Hyjal Summit"}}
+items[32338] = {id=32338,name="Blood-cursed Shoulderpads",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="18.3",Zone="Black Temple"}}
+items[32583] = {id=32583,name="Shoulderpads of Renewed Life",source={ID=41157,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27710] = {id=27710,name="Gladiator's Satin Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28374] = {id=28374,name="Mana-Sphere Shoulderguards",source={ID=20870,SourceName="Zereketh the Unbound",SourceType="Kill",DropChance="20.1",Zone="The Arcatraz"}}
+items[31162] = {id=31162,name="Felstone Mantle",source={ID=18690,SourceName="Morcrush",SourceType="Kill",DropChance="44.2",Zone="Unknown"}}
+items[24884] = {id=24884,name="Der'izu Spaulders",source={ID=19993,SourceName="Bloodmaul Mauler",SourceType="Kill",DropChance="33.3",Zone="Blade's Edge Mountains"}}
+items[30218] = {id=30218,name="Junior Technician 3rd Grade Shoulders",source={ID=10186,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30275] = {id=30275,name="Mech Tech Shoulders",source={ID=10206,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[24651] = {id=24651,name="Astralaan Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31521] = {id=31521,name="Expedition Defender's Shoulders",source={ID=10713,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[24868] = {id=24868,name="Blood Knight Pauldrons",source={ID=18864,SourceName="Mana Wraith",SourceType="Kill",DropChance="0",Zone="Netherstorm"}}
+items[24635] = {id=24635,name="Feralfen Amice",source={ID=16769,SourceName="Firewing Warlock",SourceType="Kill",DropChance="1.5",Zone="Terokkar Forest"}}
+items[24747] = {id=24747,name="Ranger Pauldrons",source={ID=18313,SourceName="Ethereal Sorcerer",SourceType="Kill",DropChance="2.8",Zone="Mana-Tombs"}}
+items[24972] = {id=24972,name="Talonguard Epaulets",source={ID=18453,SourceName="Skithian Windripper",SourceType="Kill",DropChance="1.6",Zone="Terokkar Forest"}}
+items[31797] = {id=31797,name="Elekk Hide Spaulders",source={ID=10915,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[24627] = {id=24627,name="Slavehandler Amice",source={ID=18309,SourceName="Ethereal Scavenger",SourceType="Kill",DropChance="7.6",Zone="Mana-Tombs"}}
+items[24964] = {id=24964,name="Khan'aish Epaulets",source={ID=18317,SourceName="Ethereal Priest",SourceType="Kill",DropChance="4.7",Zone="Mana-Tombs"}}
+items[24844] = {id=24844,name="Wrathfin Mantle",source={ID=19350,SourceName="Thornfang Venomspitter",SourceType="Kill",DropChance="1.5",Zone="Hellfire Peninsula"}}
+items[25967] = {id=25967,name="Eagle Crested Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20793] = {id=20793,name="90 green shaman pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24611] = {id=24611,name="Laughing Skull Shoulderpads",source={ID=16933,SourceName="Razorfang Ravager",SourceType="Kill",DropChance="2.6",Zone="Hellfire Peninsula"}}
+items[31247] = {id=31247,name="Bog Pauldrons",source={ID=18682,SourceName="Bog Lurker",SourceType="Kill",DropChance="45.5",Zone="Zangarmarsh"}}
+items[24820] = {id=24820,name="Felstone Spaulders",source={ID=17397,SourceName="Shadowmoon Adept",SourceType="Kill",DropChance="0.9",Zone="The Blood Furnace"}}
+items[20637] = {id=20637,name="Acid Inscribed Pauldrons",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="15.5",Zone="Duskwood"}}
+items[25347] = {id=25347,name="Dilapidated Cloth Shoulderpads",source={ID=16807,SourceName="Grand Warlock Nethekurse",SourceType="Kill",DropChance="20.0",Zone="The Shattered Halls"}}
+items[25372] = {id=25372,name="Eroded Mail Shoulderpads",source={ID=19411,SourceName="Shattered Hand Warlock",SourceType="Kill",DropChance="25.0",Zone="Hellfire Peninsula"}}
+items[3983] = {id=3983,name="Strapped Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16524] = {id=16524,name="Champion's Mail Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16689] = {id=16689,name="Magister's Mantle",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="18.6",Zone="Scholomance"}}
+items[15784] = {id=15784,name="Crystal Breeze Mantle",source={ID=5121,SourceName="",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
+items[15822] = {id=15822,name="Shadowskin Spaulders",source={ID=6031,SourceName="",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
+items[13115] = {id=13115,name="Sheepshear Mantle",source={ID=680,SourceName="Mosh'Ogg Lord",SourceType="Kill",DropChance="0.2",Zone="Stranglethorn Vale"}}
+items[14201] = {id=14201,name="Thistlefur Mantle",source={ID=7327,SourceName="Withered Warrior",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
+items[4698] = {id=4698,name="Seer's Mantle",source={ID=16329,SourceName="Dar'Khan Drathir",SourceType="Kill",DropChance="1.6",Zone="Ghostlands"}}
+items[35006] = {id=35006,name="Brutal Gladiator's Dreadweave Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31048] = {id=31048,name="Thunderheart Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33710] = {id=33710,name="Vengeful Gladiator's Linked Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33715] = {id=33715,name="Vengeful Gladiator's Mail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33720] = {id=33720,name="Vengeful Gladiator's Mooncloth Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33742] = {id=33742,name="Vengeful Gladiator's Ringmail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31990] = {id=31990,name="Merciless Gladiator's Kodohide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32013] = {id=32013,name="Merciless Gladiator's Mail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32033] = {id=32033,name="Merciless Gladiator's Ringmail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30133] = {id=30133,name="Crystalforge Shoulderbraces",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24534] = {id=24534,name="130 Epic Warrior Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33514] = {id=33514,name="Pauldrons of Gruesome Fate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25999] = {id=25999,name="Gladiator's Linked Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24916] = {id=24916,name="Netherstorm Shoulderguards",source={ID=23333,SourceName="The Grand Collector",SourceType="Kill",DropChance="75.8",Zone="Unknown"}}
+items[25020] = {id=25020,name="Shattered Hand Epaulets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24675] = {id=24675,name="Eldr'naan Shoulderpads",source={ID=18493,SourceName="Auchenai Soulpriest",SourceType="Kill",DropChance="16.6",Zone="Auchenai Crypts"}}
+items[25012] = {id=25012,name="Conqueror's Epaulets",source={ID=18636,SourceName="Cabal Assassin",SourceType="Kill",DropChance="1.6",Zone="Shadow Labyrinth"}}
+items[30333] = {id=30333,name="Spaulders of the Protectorate",source={ID=10425,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[24667] = {id=24667,name="Shadow Council Mantle",source={ID=16948,SourceName="Gan'arg Engineer",SourceType="Kill",DropChance="14.2",Zone="Netherstorm"}}
+items[24892] = {id=24892,name="Skettis Spaulders",source={ID=20990,SourceName="Bloodwarder Physician",SourceType="Kill",DropChance="20.0",Zone="The Mechanar"}}
+items[25004] = {id=25004,name="Bloodfist Epaulets",source={ID=20865,SourceName="Protean Horror",SourceType="Kill",DropChance="12.5",Zone="The Arcatraz"}}
+items[29810] = {id=29810,name="Dragon Crested Epaulets",source={ID=10274,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[24771] = {id=24771,name="Clefthoof Shoulderguards",source={ID=21058,SourceName="Disembodied Exarch",SourceType="Kill",DropChance="33.3",Zone="Netherstorm"}}
+items[24763] = {id=24763,name="Umbrafen Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24876] = {id=24876,name="Ironspine Shoulderguards",source={ID=18203,SourceName="Murkblood Raider",SourceType="Kill",DropChance="4.0",Zone="Nagrand"}}
+items[24988] = {id=24988,name="Boulderfist Epaulets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24755] = {id=24755,name="Daggerfen Pauldrons",source={ID=18312,SourceName="Ethereal Spellbinder",SourceType="Kill",DropChance="6.6",Zone="Mana-Tombs"}}
+items[24980] = {id=24980,name="Reaver Epaulets",source={ID=21891,SourceName="Avian Ripper",SourceType="Kill",DropChance="2.7",Zone="Sethekk Halls"}}
+items[24739] = {id=24739,name="Sunroc Shoulderguards",source={ID=18044,SourceName="Rajis Fyashe",SourceType="Kill",DropChance="33.3",Zone="Zangarmarsh"}}
+items[24731] = {id=24731,name="Dementia Shoulderguards",source={ID=18133,SourceName="Marshlight Bleeder",SourceType="Kill",DropChance="1.6",Zone="Zangarmarsh"}}
+items[24956] = {id=24956,name="Bogslayer Pauldrons",source={ID=18311,SourceName="Ethereal Crypt Raider",SourceType="Kill",DropChance="7.6",Zone="Mana-Tombs"}}
+items[24836] = {id=24836,name="Nexus-Strider Mantle",source={ID=16871,SourceName="Bleeding Hollow Grunt",SourceType="Kill",DropChance="0.5",Zone="Hellfire Peninsula"}}
+items[24603] = {id=24603,name="Starfire Mantle",source={ID=17269,SourceName="Bleeding Hollow Darkcaster",SourceType="Kill",DropChance="10.2",Zone="Hellfire Ramparts"}}
+items[24715] = {id=24715,name="Vengeance Pauldrons",source={ID=17271,SourceName="Bonechewer Destroyer",SourceType="Kill",DropChance="1.1",Zone="Hellfire Ramparts"}}
+items[24707] = {id=24707,name="Haal'eshi Pauldrons",source={ID=18124,SourceName="Withered Giant",SourceType="Kill",DropChance="0.6",Zone="Zangarmarsh"}}
+items[24932] = {id=24932,name="Ango'rosh Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16937] = {id=16937,name="Dragonstalker's Spaulders",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="40.5",Zone="Blackwing Lair"}}
+items[25364] = {id=25364,name="Decaying Leather Shoulderpads",source={ID=18524,SourceName="Angered Skeleton",SourceType="Kill",DropChance="25.0",Zone="Auchenai Crypts"}}
+items[25380] = {id=25380,name="Corroded Mail Shoulderpads",source={ID=19608,SourceName="Frayer Wildling",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
+items[25396] = {id=25396,name="Deteriorating Plate Shoulderpads",source={ID=18321,SourceName="Sethekk Talon Lord",SourceType="Kill",DropChance="33.3",Zone="Sethekk Halls"}}
+items[21064] = {id=21064,name="66 Epic Fire Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21092] = {id=21092,name="66 Epic Shadow Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25339] = {id=25339,name="Loosely Threaded Shoulderpads",source={ID=20748,SourceName="Thunderlord Dire Wolf",SourceType="Kill",DropChance="14.2",Zone="Blade's Edge Mountains"}}
+items[25388] = {id=25388,name="Tarnished Plate Shoulderpads",source={ID=17958,SourceName="Coilfang Defender",SourceType="Kill",DropChance="4.0",Zone="The Slave Pens"}}
+items[19689] = {id=19689,name="Blood Tiger Shoulders",source={ID=24125,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16420] = {id=16420,name="Lieutenant Commander's Leather Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19111] = {id=19111,name="Winteraxe Epaulets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21051] = {id=21051,name="63 Blue Fire Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21079] = {id=21079,name="63 Blue Shadow Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[8310] = {id=8310,name="Hero's Pauldrons",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="0.6",Zone="Stratholme"}}
+items[11782] = {id=11782,name="Boreal Mantle",source={ID=9041,SourceName="Warder Stilgiss",SourceType="Kill",DropChance="23.4",Zone="Blackrock Depths"}}
+items[17732] = {id=17732,name="Rotgrip Mantle",source={ID=13596,SourceName="Rotgrip",SourceType="Kill",DropChance="35.6",Zone="Maraudon"}}
+items[14296] = {id=14296,name="Arachnidian Pauldrons",source={ID=6187,SourceName="Timbermaw Den Watcher",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
+items[9647] = {id=9647,name="Failed Flying Experiment",source={ID=2767,SourceName="",SourceType="Quest",DropChance="0",Zone="Feralas"}}
+items[7059] = {id=7059,name="Crimson Silk Shoulders",source={ID=8793,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14566] = {id=14566,name="Prospector's Pads",source={ID=3815,SourceName="Blink Dragon",SourceType="Kill",DropChance="1.1",Zone="Ashenvale"}}
+items[6579] = {id=6579,name="Defender Spaulders",source={ID=14425,SourceName="Gnawbone",SourceType="Kill",DropChance="10.1",Zone="Wetlands"}}
+items[35052] = {id=35052,name="Brutal Gladiator's Mail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35081] = {id=35081,name="Brutal Gladiator's Ringmail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35114] = {id=35114,name="Brutal Gladiator's Wyrmhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31024] = {id=31024,name="Skyshatter Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33679] = {id=33679,name="Vengeful Gladiator's Dreadweave Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32517] = {id=32517,name="The Wavemender's Mantle",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="11.3",Zone="Unknown"}}
+items[30490] = {id=30490,name="Merciless Gladiator's Plate Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32059] = {id=32059,name="Merciless Gladiator's Wyrmhide Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24796] = {id=24796,name="Expedition Shoulderguards",source={ID=16408,SourceName="Phantom Valet",SourceType="Kill",DropChance="16.6",Zone="Karazhan"}}
+items[28255] = {id=28255,name="Lunar-Claw Pauldrons",source={ID=19219,SourceName="Mechano-Lord Capacitus",SourceType="Kill",DropChance="20.0",Zone="The Mechanar"}}
+items[31577] = {id=31577,name="Slatesteel Shoulders",source={ID=22826,SourceName="King Dorfbruiser",SourceType="Kill",DropChance="98.0",Zone="Unknown"}}
+items[24788] = {id=24788,name="Murkblood Shoulderguards",source={ID=19167,SourceName="Bloodwarder Slayer",SourceType="Kill",DropChance="25.0",Zone="The Mechanar"}}
+items[24900] = {id=24900,name="Sundered Spaulders",source={ID=20207,SourceName="Sunfury Bowman",SourceType="Kill",DropChance="10.0",Zone="Netherstorm"}}
+items[24779] = {id=24779,name="Boneshredder Shoulderguards",source={ID=19209,SourceName="Summoned Cabal Deathsworn",SourceType="Kill",DropChance="1.7",Zone="Shadow Labyrinth"}}
+items[24659] = {id=24659,name="Consortium Mantle",source={ID=18318,SourceName="Sethekk Initiate",SourceType="Kill",DropChance="11.1",Zone="Sethekk Halls"}}
+items[30262] = {id=30262,name="Trep's Shoulderguards",source={ID=10226,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31533] = {id=31533,name="Diluvian Spaulders",source={ID=10607,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31819] = {id=31819,name="Noble Plate Pauldrons",source={ID=10921,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[24860] = {id=24860,name="Marshcreeper Mantle",source={ID=19307,SourceName="Nexus Terror",SourceType="Kill",DropChance="10.0",Zone="Mana-Tombs"}}
+items[24852] = {id=24852,name="Fenclaw Mantle",source={ID=18470,SourceName="Bonelasher",SourceType="Kill",DropChance="1.0",Zone="Terokkar Forest"}}
+items[25525] = {id=25525,name="Zangar Epaulets",source={ID=9709,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[24828] = {id=24828,name="Netherstalker Mantle",source={ID=17491,SourceName="Laughing Skull Rogue",SourceType="Kill",DropChance="2.2",Zone="The Blood Furnace"}}
+items[24595] = {id=24595,name="Fireheart Shoulderpads",source={ID=16975,SourceName="Uncontrolled Voidwalker",SourceType="Kill",DropChance="1.4",Zone="Hellfire Peninsula"}}
+items[16832] = {id=16832,name="Bloodfang Spaulders",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="37.9",Zone="Blackwing Lair"}}
+items[16932] = {id=16932,name="Nemesis Spaulders",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="36.4",Zone="Blackwing Lair"}}
+items[16945] = {id=16945,name="Epaulets of Ten Storms",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="16.1",Zone="Blackwing Lair"}}
+items[21699] = {id=21699,name="Barrage Shoulders",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="22.9",Zone="Ahn'Qiraj"}}
+items[25356] = {id=25356,name="Moldy Leather Shoulderpads",source={ID=17139,SourceName="Windyreed Scavenger",SourceType="Kill",DropChance="10.0",Zone="Nagrand"}}
+items[10263] = {id=10263,name="Adventurer's Shoulders",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="12.5",Zone="Silithus"}}
+items[10390] = {id=10390,name="Hyperion Pauldrons",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="7.3",Zone="Searing Gorge"}}
+items[18384] = {id=18384,name="Bile-etched Spaulders",source={ID=11496,SourceName="Immol'thar",SourceType="Kill",DropChance="19.4",Zone="Dire Maul"}}
+items[18528] = {id=18528,name="Cyclone Spaulders",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="3.2",Zone="Dire Maul"}}
+items[14909] = {id=14909,name="Brutish Shoulders",source={ID=5327,SourceName="Coast Crawl Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
+items[15513] = {id=15513,name="Grunt's Pauldrons",source={ID=12902,SourceName="Lorgus Jett",SourceType="Kill",DropChance="0.5",Zone="Blackfathom Deeps"}}
+items[15313] = {id=15313,name="Feral Shoulder Pads",source={ID=4822,SourceName="Snapping Crustacean",SourceType="Kill",DropChance="0.9",Zone="Blackfathom Deeps"}}
+items[1793] = {id=1793,name="Patched Leather Shoulderpads",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.8",Zone="Ghostlands"}}
+items[31059] = {id=31059,name="Mantle of the Tempest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30878] = {id=30878,name="Glimmering Steel Mantle",source={ID=17808,SourceName="Anetheron",SourceType="Kill",DropChance="17.7",Zone="Hyjal Summit"}}
+items[32250] = {id=32250,name="Pauldrons of Abyssal Fury",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="16.8",Zone="Black Temple"}}
+items[31996] = {id=31996,name="Merciless Gladiator's Lamellar Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35390] = {id=35390,name="Seer's Mail Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30287] = {id=30287,name="Mantle of Arcane Mastery",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4014] = {id=4014,name="Sterling Chain Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20056] = {id=20056,name="Highlander's Mail Pauldrons",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[14868] = {id=14868,name="Warleader's Shoulders",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.3",Zone="Unknown"}}
+items[15656] = {id=15656,name="Merciless Epaulets",source={ID=6502,SourceName="Plated Stegodon",SourceType="Kill",DropChance="0.2",Zone="Un'Goro Crater"}}
+items[186019] = {id=186019,name="Communal Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13132] = {id=13132,name="Skeletal Shoulders",source={ID=92,SourceName="Rock Elemental",SourceType="Kill",DropChance="0",Zone="Badlands"}}
+items[33235] = {id=33235,name="Journeyman's Epaulets",source={ID=11217,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[4833] = {id=4833,name="Glorious Shoulders",source={ID=2679,SourceName="Wenna Silkbeard",SourceType="Purchase",DropChance="100",Zone="Wetlands"}}
+items[3231] = {id=3231,name="Cutthroat Pauldrons",source={ID=584,SourceName="Kazon",SourceType="Kill",DropChance="64.4",Zone="Redridge Mountains"}}
+items[1445] = {id=1445,name="Blackrock Pauldrons",source={ID=615,SourceName="Blackrock Tracker",SourceType="Kill",DropChance="5.4",Zone="Redridge Mountains"}}
+items[5319] = {id=5319,name="Bashing Pauldrons",source={ID=2478,SourceName="Haren Swifthoof",SourceType="Kill",DropChance="94.0",Zone="Loch Modan"}}
+items[34390] = {id=34390,name="Erupting Epaulets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33732] = {id=33732,name="Vengeful Gladiator's Plate Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25796] = {id=25796,name="Lurking Shadow Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30964] = {id=30964,name="Skybreaker's Pauldrons",source={ID=10481,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31159] = {id=31159,name="Felstone Pauldrons",source={ID=18690,SourceName="Morcrush",SourceType="Kill",DropChance="44.7",Zone="Unknown"}}
+items[24996] = {id=24996,name="Warmaul Epaulets",source={ID=18092,SourceName="Tarren Mill Guardsman",SourceType="Kill",DropChance="46.5",Zone="Unknown"}}
+items[31190] = {id=31190,name="The Dreamer's Shoulderpads",source={ID=19188,SourceName="Raging Colossus",SourceType="Kill",DropChance="2.6",Zone="Hellfire Peninsula"}}
+items[31250] = {id=31250,name="Bog Mantle",source={ID=18682,SourceName="Bog Lurker",SourceType="Kill",DropChance="45.5",Zone="Zangarmarsh"}}
+items[21684] = {id=21684,name="Mantle of the Desert's Fury",source={ID=15543,SourceName="Princess Yauj",SourceType="Kill",DropChance="16.8",Zone="Ahn'Qiraj"}}
+items[3958] = {id=3958,name="Mesh Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12617] = {id=12617,name="Savage Mail Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18374] = {id=18374,name="Flamescarred Shoulders",source={ID=11487,SourceName="Magister Kalendris",SourceType="Kill",DropChance="19.8",Zone="Dire Maul"}}
+items[15055] = {id=15055,name="Volcanic Shoulders",source={ID=19101,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16980] = {id=16980,name="Flarecore Mantle",source={ID=20848,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10374] = {id=10374,name="Imbued Plate Pauldrons",source={ID=10681,SourceName="Summoned Blackhand Veteran",SourceType="Kill",DropChance="2.7",Zone="Blackrock Spire"}}
+items[14971] = {id=14971,name="Glorious Shoulder Pads",source={ID=11498,SourceName="Skarr the Unbreakable",SourceType="Kill",DropChance="0.4",Zone="Unknown"}}
+items[186027] = {id=186027,name="Communal Pads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[8207] = {id=8207,name="Tough Scorpid Shoulders",source={ID=10564,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7543] = {id=7543,name="Champion's Pauldrons",source={ID=8203,SourceName="Kregg Keelhaul",SourceType="Kill",DropChance="6.1",Zone="Tanaris"}}
+items[9430] = {id=9430,name="Spaulders of a Lost Age",source={ID=4860,SourceName="Stone Steward",SourceType="Kill",DropChance="0",Zone="Uldaman"}}
+items[14432] = {id=14432,name="Windchaser Amice",source={ID=5356,SourceName="Snarler",SourceType="Kill",DropChance="0.2",Zone="Feralas"}}
+items[14901] = {id=14901,name="Saltstone Shoulder Pads",source={ID=14234,SourceName="Hayoc",SourceType="Kill",DropChance="0.4",Zone="Dustwallow Marsh"}}
+items[4705] = {id=4705,name="Lambent Scale Pauldrons",source={ID=1014,SourceName="Mosshide Alpha",SourceType="Kill",DropChance="0.1",Zone="Wetlands"}}
+items[1769] = {id=1769,name="Canvas Shoulderpads",source={ID=17494,SourceName="Zevrax",SourceType="Kill",DropChance="1.7",Zone="Bloodmyst Isle"}}
+items[38286] = {id=38286,name="Soul-Trader's Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34994] = {id=34994,name="Brutal Gladiator's Chain Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35086] = {id=35086,name="Brutal Gladiator's Satin Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25028] = {id=25028,name="Warlord's Iron-Epaulets",source={ID=22281,SourceName="Galvanoth",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
+items[30938] = {id=30938,name="Azurestrike Shoulders",source={ID=10626,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[25565] = {id=25565,name="Spaulders of the Ring",source={ID=9862,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[31817] = {id=31817,name="Dragonbone Shoulders",source={ID=10923,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[22073] = {id=22073,name="Deathmist Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16427] = {id=16427,name="Lieutenant Commander's Chain Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22412] = {id=22412,name="Thuzadin Mantle",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="16.7",Zone="Stratholme"}}
+items[13166] = {id=13166,name="Slamshot Shoulders",source={ID=9196,SourceName="Highlord Omokk",SourceType="Kill",DropChance="12.8",Zone="Blackrock Spire"}}
+items[18742] = {id=18742,name="Stratholme Militia Shoulderguard",source={ID=14684,SourceName="Balzaphon",SourceType="Kill",DropChance="0.2",Zone="Stratholme"}}
+items[8319] = {id=8319,name="Alabaster Plate Pauldrons",source={ID=9437,SourceName="Dark Keeper Vorfalk",SourceType="Kill",DropChance="0.4",Zone="Blackrock Depths"}}
+items[10200] = {id=10200,name="Crusader's Pauldrons",source={ID=6646,SourceName="Monnos the Elder",SourceType="Kill",DropChance="4.4",Zone="Azshara"}}
+items[186035] = {id=186035,name="Communal Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11310] = {id=11310,name="Flameseer Mantle",source={ID=7291,SourceName="Galgann Firehammer",SourceType="Kill",DropChance="19.3",Zone="Uldaman"}}
+items[3841] = {id=3841,name="Golden Scale Shoulders",source={ID=1573,SourceName="Gryth Thurden",SourceType="Kill",DropChance="4.8",Zone="Ironforge"}}
+items[7424] = {id=7424,name="Phalanx Spaulders",source={ID=15748,SourceName="Lesser Anubisath Warbringer",SourceType="Kill",DropChance="5.4",Zone="Thousand Needles"}}
+items[14573] = {id=14573,name="Bristlebark Amice",source={ID=10642,SourceName="Eck'alom",SourceType="Kill",DropChance="0.8",Zone="Ashenvale"}}
+items[4661] = {id=4661,name="Bright Mantle",source={ID=1014,SourceName="Mosshide Alpha",SourceType="Kill",DropChance="0.1",Zone="Wetlands"}}
+items[34388] = {id=34388,name="Pauldrons of Berserking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33699] = {id=33699,name="Vengeful Gladiator's Lamellar Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24804] = {id=24804,name="Dragonhawk Shoulderguards",source={ID=20911,SourceName="Blackwing Drakonaar",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
+items[24908] = {id=24908,name="Talhide Shoulderguards",source={ID=20911,SourceName="Blackwing Drakonaar",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
+items[31569] = {id=31569,name="Mistshroud Shoulders",source={ID=22827,SourceName="Gorgolon the All-seeing",SourceType="Kill",DropChance="88.6",Zone="Unknown"}}
+items[31160] = {id=31160,name="Felstone Epaulets",source={ID=18690,SourceName="Morcrush",SourceType="Kill",DropChance="37.9",Zone="Unknown"}}
+items[20633] = {id=20633,name="Unnatural Leather Spaulders",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="14.4",Zone="Duskwood"}}
+items[19928] = {id=19928,name="Animist's Spaulders",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="9.1",Zone="Zul'Gurub"}}
+items[20683] = {id=20683,name="Abyssal Plate Epaulets",source={ID=15305,SourceName="Lord Skwol",SourceType="Kill",DropChance="33.5",Zone="Silithus"}}
+items[16432] = {id=16432,name="Lieutenant Commander's Plate Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17573] = {id=17573,name="Champion's Dreadweave Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10163] = {id=10163,name="Mercurial Pauldrons",source={ID=1851,SourceName="The Husk",SourceType="Kill",DropChance="4.3",Zone="Western Plaguelands"}}
+items[16988] = {id=16988,name="Fiery Chain Shoulders",source={ID=20873,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18699] = {id=18699,name="Icy Tomb Spaulders",source={ID=14516,SourceName="Death Knight Darkreaver",SourceType="Kill",DropChance="0.1",Zone="Scholomance"}}
+items[10029] = {id=10029,name="Red Mageweave Shoulders",source={ID=12078,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[9850] = {id=9850,name="Conjurer's Mantle",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
+items[14126] = {id=14126,name="Ritual Amice",source={ID=3735,SourceName="Apothecary Falthis",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
+items[4694] = {id=4694,name="Burnished Pauldrons",source={ID=2476,SourceName="Large Loch Crocolisk",SourceType="Kill",DropChance="0.2",Zone="Loch Modan"}}
+items[33668] = {id=33668,name="Vengeful Gladiator's Chain Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30221] = {id=30221,name="Nordrassil Life-Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31561] = {id=31561,name="Skystalker's Shoulders",source={ID=20888,SourceName="Solus the Eternal",SourceType="Kill",DropChance="89.4",Zone="Unknown"}}
+items[24924] = {id=24924,name="Grimscale Pauldrons",source={ID=18827,SourceName="Gan'arg Sapper",SourceType="Kill",DropChance="0.9",Zone="Hellfire Peninsula"}}
+items[22016] = {id=22016,name="Beastmaster's Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16516] = {id=16516,name="Champion's Plate Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[15096] = {id=15096,name="Runic Leather Shoulders",source={ID=19103,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10237] = {id=10237,name="Engraved Pauldrons",source={ID=14477,SourceName="Grubthor",SourceType="Kill",DropChance="3.8",Zone="Silithus"}}
+items[11605] = {id=11605,name="Dark Iron Shoulders",source={ID=15295,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10100] = {id=10100,name="Councillor's Shoulders",source={ID=14472,SourceName="Gretheer",SourceType="Kill",DropChance="4.4",Zone="Silithus"}}
+items[7932] = {id=7932,name="Mithril Scale Shoulders",source={ID=9966,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14423] = {id=14423,name="Silksand Shoulder Pads",source={ID=5760,SourceName="Lord Azrethoc",SourceType="Kill",DropChance="0.3",Zone="Desolace"}}
+items[15140] = {id=15140,name="Cutthroat's Mantle",source={ID=3940,SourceName="Taneel Darkwood",SourceType="Kill",DropChance="0.2",Zone="Ashenvale"}}
+items[1777] = {id=1777,name="Brocade Shoulderpads",source={ID=7053,SourceName="Klaven Mortwake",SourceType="Kill",DropChance="1.6",Zone="Westfall"}}
+items[14368] = {id=14368,name="Mystic's Shoulder Pads",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
+items[31976] = {id=31976,name="Merciless Gladiator's Dreadweave Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31639] = {id=31639,name="High Warlord's Ornamented Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32868] = {id=32868,name="Skybreaker's Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30373] = {id=30373,name="Netherfused Pauldrons",source={ID=10507,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[19373] = {id=19373,name="Black Brood Pauldrons",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="32.6",Zone="Blackwing Lair"}}
+items[10274] = {id=10274,name="Masterwork Pauldrons",source={ID=15817,SourceName="Qiraji Brigadier General Pax-lish",SourceType="Kill",DropChance="20.8",Zone="Silithus"}}
+items[17569] = {id=17569,name="Lieutenant Commander's Dreadweave Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18757] = {id=18757,name="Diabolic Mantle",source={ID=14506,SourceName="Lord Hel'nurath",SourceType="Kill",DropChance="22.7",Zone="Dire Maul"}}
+items[17779] = {id=17779,name="Hulkstone Pauldrons",source={ID=7028,SourceName="",SourceType="Quest",DropChance="0",Zone="Maraudon"}}
+items[9934] = {id=9934,name="Brigade Pauldrons",source={ID=14236,SourceName="Lord Angler",SourceType="Kill",DropChance="4.5",Zone="Dustwallow Marsh"}}
+items[6597] = {id=6597,name="Battleforge Shoulderguards",source={ID=14427,SourceName="Gibblesnik",SourceType="Kill",DropChance="6.4",Zone="Thousand Needles"}}
+items[9817] = {id=9817,name="Fortified Spaulders",source={ID=5848,SourceName="Malgin Barleybrew",SourceType="Kill",DropChance="13.4",Zone="The Barrens"}}
+items[10287] = {id=10287,name="Greenweave Mantle",source={ID=5932,SourceName="Taskmaster Whipfang",SourceType="Kill",DropChance="6.1",Zone="Stonetalon Mountains"}}
+items[14170] = {id=14170,name="Buccaneer's Mantle",source={ID=1398,SourceName="Boss Galgosh",SourceType="Kill",DropChance="0.4",Zone="Loch Modan"}}
+items[14169] = {id=14169,name="Aboriginal Shoulder Pads",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
+items[24643] = {id=24643,name="Mistyreed Shoulderpads",source={ID=21382,SourceName="Wyrmcult Zealot",SourceType="Kill",DropChance="7.1",Zone="Blade's Edge Mountains"}}
+items[10383] = {id=10383,name="Commander's Pauldrons",source={ID=14473,SourceName="Lapress",SourceType="Kill",DropChance="6.9",Zone="Silithus"}}
+items[13374] = {id=13374,name="Soulstealer Mantle",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="12.1",Zone="Stratholme"}}
+items[186083] = {id=186083,name="Communal Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4718] = {id=4718,name="Nightsky Mantle",source={ID=861,SourceName="Stonard Scout",SourceType="Kill",DropChance="0.1",Zone="Swamp of Sorrows"}}
 
 
 -- Name Data

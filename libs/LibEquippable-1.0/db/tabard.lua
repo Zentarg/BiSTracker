@@ -10,52 +10,52 @@ local names = {}
 
 
 -- Item Data
-items[28788] = {id=28788,name="Tabard of the Protector",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10259,Recipe=false,RecipeID=0,DropChance=0,Zone="Blasted Lands"}}
-items[23388] = {id=23388,name="Tranquillien Tabard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19506] = {id=19506,name="Silverwing Battle Tabard",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[23192] = {id=23192,name="Tabard of the Scarlet Crusade",obtain={NpcID=6575,NpcName="Scarlet Trainee",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.0,Zone="Scarlet Monastery"}}
-items[31779] = {id=31779,name="Aldor Tabard",obtain={NpcID=19321,NpcName="Quartermaster Endarin (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[31780] = {id=31780,name="Scryers Tabard",obtain={NpcID=19331,NpcName="Quartermaster Enuril (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[31405] = {id=31405,name="Purple Trophy Tabard of the Illidari",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19505] = {id=19505,name="Warsong Battle Tabard",obtain={NpcID=14754,NpcName="Kelm Hargunth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="The Barrens"}}
-items[19031] = {id=19031,name="Frostwolf Battle Tabard",obtain={NpcID=13218,NpcName="Grunnda Wolfheart (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[23999] = {id=23999,name="Honor Hold Tabard",obtain={NpcID=17657,NpcName="Logistics Officer Ulrike (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[24004] = {id=24004,name="Thrallmar Tabard",obtain={NpcID=17585,NpcName="Quartermaster Urgronn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[38314] = {id=38314,name="Tabard of the Defender",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=50849,DropChance=0,Zone=""}}
-items[19032] = {id=19032,name="Stormpike Battle Tabard",obtain={NpcID=13216,NpcName="Gaelden Hammersmith (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[31404] = {id=31404,name="Green Trophy Tabard of the Illidari",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31778] = {id=31778,name="Lower City Tabard",obtain={NpcID=21655,NpcName="Nakodu (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[31781] = {id=31781,name="Sha'tar Tabard",obtain={NpcID=21432,NpcName="Almaador (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[23705] = {id=23705,name="Tabard of Flame",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31777] = {id=31777,name="Keepers of Time Tabard",obtain={NpcID=21643,NpcName="Alurmi (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[38311] = {id=38311,name="Tabard of the Void",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=50852,DropChance=0,Zone=""}}
-items[31775] = {id=31775,name="Sporeggar Tabard",obtain={NpcID=18382,NpcName="Mycah (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[5976] = {id=5976,name="Guild Tabard",obtain={NpcID=5049,NpcName="Lyesa Steelbrow (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ironforge"}}
-items[15197] = {id=15197,name="Scout's Tabard",obtain={NpcID=12799,NpcName="Sergeant Ba'sha (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[31773] = {id=31773,name="Mag'har Tabard",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35221] = {id=35221,name="Tabard of the Shattered Sun",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[36941] = {id=36941,name="Competitor's Tabard",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31776] = {id=31776,name="Consortium Tabard",obtain={NpcID=20242,NpcName="Karaaz (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Netherstorm"}}
-items[31804] = {id=31804,name="Cenarion Expedition Tabard",obtain={NpcID=17904,NpcName="Fedryen Swiftspear (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[23709] = {id=23709,name="Tabard of Frost",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31774] = {id=31774,name="Kurenai Tabard",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32828] = {id=32828,name="Ogri'la Tabard",obtain={NpcID=23428,NpcName="Jho'nass (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Blade's Edge Mountains"}}
-items[38310] = {id=38310,name="Tabard of the Arcane",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=50847,DropChance=0,Zone=""}}
-items[32445] = {id=32445,name="Skyguard Tabard",obtain={NpcID=23367,NpcName="Grella (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Terokkar Forest"}}
-items[15196] = {id=15196,name="Private's Tabard",obtain={NpcID=12805,NpcName="Officer Areyn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[11364] = {id=11364,name="Tabard of Stormwind",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[15198] = {id=15198,name="Knight's Colors",obtain={NpcID=12781,NpcName="Master Sergeant Biggins (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[38313] = {id=38313,name="Tabard of Fury",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=50850,DropChance=0,Zone=""}}
-items[15199] = {id=15199,name="Stone Guard's Herald",obtain={NpcID=12793,NpcName="Brave Stonehide (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[31279] = {id=31279,name="Enchanted Illidari Tabard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=41633,DropChance=0,Zone=""}}
-items[38312] = {id=38312,name="Tabard of Brilliance",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=50848,DropChance=0,Zone=""}}
-items[38309] = {id=38309,name="Tabard of Nature",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=50851,DropChance=0,Zone=""}}
-items[34159] = {id=34159,name="Team B Tabard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[23710] = {id=23710,name="Upperdeck Tabard #3",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19160] = {id=19160,name="Contest Winner's Tabard",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35279] = {id=35279,name="Tabard of Summer Skies",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11972,Recipe=false,RecipeID=0,DropChance=0,Zone="Uncategorized"}}
-items[35280] = {id=35280,name="Tabard of Summer Flames",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=11972,Recipe=false,RecipeID=0,DropChance=0,Zone="Uncategorized"}}
-items[34158] = {id=34158,name="Team A Tabard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
+items[28788] = {id=28788,name="Tabard of the Protector",source={ID=10259,SourceName="",SourceType="Quest",DropChance="0",Zone="Blasted Lands"}}
+items[23388] = {id=23388,name="Tranquillien Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19506] = {id=19506,name="Silverwing Battle Tabard",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[23192] = {id=23192,name="Tabard of the Scarlet Crusade",source={ID=6575,SourceName="Scarlet Trainee",SourceType="Kill",DropChance="2.0",Zone="Scarlet Monastery"}}
+items[31779] = {id=31779,name="Aldor Tabard",source={ID=19321,SourceName="Quartermaster Endarin",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31780] = {id=31780,name="Scryers Tabard",source={ID=19331,SourceName="Quartermaster Enuril",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31405] = {id=31405,name="Purple Trophy Tabard of the Illidari",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19505] = {id=19505,name="Warsong Battle Tabard",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
+items[19031] = {id=19031,name="Frostwolf Battle Tabard",source={ID=13218,SourceName="Grunnda Wolfheart",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[23999] = {id=23999,name="Honor Hold Tabard",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[24004] = {id=24004,name="Thrallmar Tabard",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[38314] = {id=38314,name="Tabard of the Defender",source={ID=50849,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19032] = {id=19032,name="Stormpike Battle Tabard",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[31404] = {id=31404,name="Green Trophy Tabard of the Illidari",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31778] = {id=31778,name="Lower City Tabard",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31781] = {id=31781,name="Sha'tar Tabard",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[23705] = {id=23705,name="Tabard of Flame",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31777] = {id=31777,name="Keepers of Time Tabard",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[38311] = {id=38311,name="Tabard of the Void",source={ID=50852,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31775] = {id=31775,name="Sporeggar Tabard",source={ID=18382,SourceName="Mycah",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[5976] = {id=5976,name="Guild Tabard",source={ID=5049,SourceName="Lyesa Steelbrow",SourceType="Purchase",DropChance="100",Zone="Ironforge"}}
+items[15197] = {id=15197,name="Scout's Tabard",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[31773] = {id=31773,name="Mag'har Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35221] = {id=35221,name="Tabard of the Shattered Sun",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[36941] = {id=36941,name="Competitor's Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31776] = {id=31776,name="Consortium Tabard",source={ID=20242,SourceName="Karaaz",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31804] = {id=31804,name="Cenarion Expedition Tabard",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[23709] = {id=23709,name="Tabard of Frost",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31774] = {id=31774,name="Kurenai Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32828] = {id=32828,name="Ogri'la Tabard",source={ID=23428,SourceName="Jho'nass",SourceType="Purchase",DropChance="100",Zone="Blade's Edge Mountains"}}
+items[38310] = {id=38310,name="Tabard of the Arcane",source={ID=50847,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[32445] = {id=32445,name="Skyguard Tabard",source={ID=23367,SourceName="Grella",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
+items[15196] = {id=15196,name="Private's Tabard",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[11364] = {id=11364,name="Tabard of Stormwind",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[15198] = {id=15198,name="Knight's Colors",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[38313] = {id=38313,name="Tabard of Fury",source={ID=50850,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15199] = {id=15199,name="Stone Guard's Herald",source={ID=12793,SourceName="Brave Stonehide",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[31279] = {id=31279,name="Enchanted Illidari Tabard",source={ID=41633,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38312] = {id=38312,name="Tabard of Brilliance",source={ID=50848,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38309] = {id=38309,name="Tabard of Nature",source={ID=50851,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34159] = {id=34159,name="Team B Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23710] = {id=23710,name="Upperdeck Tabard #3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19160] = {id=19160,name="Contest Winner's Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35279] = {id=35279,name="Tabard of Summer Skies",source={ID=11972,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[35280] = {id=35280,name="Tabard of Summer Flames",source={ID=11972,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[34158] = {id=34158,name="Team A Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 
 -- Name Data

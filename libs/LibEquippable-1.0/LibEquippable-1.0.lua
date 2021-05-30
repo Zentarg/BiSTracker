@@ -1,7 +1,16 @@
 -------------------------------------**     LibEquippable     **-------------------------------------
--- This library provides access to all equippable items in TBC & Classic, as well as their
--- methods of acquisition. All acquisition methods are taken from tbc.wowhead.com, so
--- some items might have lacking information.
+-- This library provides access to all equippable items in TBC & Classic, as well as their         --
+-- methods of acquisition. All acquisition methods are taken from tbc.wowhead.com, so              --
+-- some items might have lacking information.                                                      --
+--                                                                                                 --
+--                                                                                                 --
+-- Source types:                                                                                   --
+--  Kill                                                                                           --
+--  Quest                                                                                          --
+--  Recipe                                                                                         --
+--  Container                                                                                      --
+--  Purchase                                                                                       --
+--  Unknown                                                                                        --
 -------------------------------------**  All Rights Reserved  **-------------------------------------
 
 local LE_MAJOR, LE_MINOR = "LibEquippable-1.0", 1

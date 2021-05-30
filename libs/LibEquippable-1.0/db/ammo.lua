@@ -10,59 +10,59 @@ local names = {}
 
 
 -- Item Data
-items[28053] = {id=28053,name="Wicked Arrow",obtain={NpcID=228,NpcName="Avette Fellwood (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[28060] = {id=28060,name="Impact Shot",obtain={NpcID=734,NpcName="Corporal Bluth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[11285] = {id=11285,name="Jagged Arrow",obtain={NpcID=228,NpcName="Avette Fellwood (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[33803] = {id=33803,name="Adamantite Stinger",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=43674,DropChance=0,Zone=""}}
-items[31737] = {id=31737,name="Timeless Arrow",obtain={NpcID=19932,NpcName="Andormu (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[34581] = {id=34581,name="Mysterious Arrow",obtain={NpcID=18255,NpcName="Apprentice Darius (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Deadwind Pass"}}
-items[3030] = {id=3030,name="Razor Arrow",obtain={NpcID=227,NpcName="Mabel Solaj (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[28056] = {id=28056,name="Blackflight Arrow",obtain={NpcID=16602,NpcName="Floyd Pinkus (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[32760] = {id=32760,name="The Macho Gnome's Arrow",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[2515] = {id=2515,name="Sharp Arrow",obtain={NpcID=227,NpcName="Mabel Solaj (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[23773] = {id=23773,name="Adamantite Shells",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=45171,DropChance=0,Zone=""}}
-items[31949] = {id=31949,name="Warden's Arrow",obtain={NpcID=17904,NpcName="Fedryen Swiftspear (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[18042] = {id=18042,name="Thorium Headed Arrow",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7341,Recipe=false,RecipeID=0,DropChance=0,Zone="Orgrimmar"}}
-items[2512] = {id=2512,name="Rough Arrow",obtain={NpcID=151,NpcName="Brog Hamfist (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[3464] = {id=3464,name="Feathered Arrow",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1370,Recipe=false,RecipeID=0,DropChance=0,Zone="Desolace"}}
-items[32883] = {id=32883,name="Felbane Slugs",obtain={NpcID=17657,NpcName="Logistics Officer Ulrike (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[24412] = {id=24412,name="Warden's Arrow",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11284] = {id=11284,name="Accurate Slugs",obtain={NpcID=734,NpcName="Corporal Bluth (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stranglethorn Vale"}}
-items[30611] = {id=30611,name="Halaani Razorshaft",obtain={NpcID=21488,NpcName="Banro (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[24417] = {id=24417,name="Scout's Arrow",obtain={NpcID=17904,NpcName="Fedryen Swiftspear (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[15997] = {id=15997,name="Thorium Shells",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19800,DropChance=0,Zone=""}}
-items[30319] = {id=30319,name="Nether Spike",obtain={NpcID=21268,NpcName="Netherstrand Longbow",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1578.9,Zone="Unknown"}}
-items[3033] = {id=3033,name="Solid Shot",obtain={NpcID=227,NpcName="Mabel Solaj (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[10579] = {id=10579,name="Explosive Arrow",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12719,DropChance=0,Zone=""}}
-items[34582] = {id=34582,name="Mysterious Shell",obtain={NpcID=18255,NpcName="Apprentice Darius (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Deadwind Pass"}}
-items[3029] = {id=3029,name="Depricated Whipwood Arrow",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[31735] = {id=31735,name="Timeless Shell",obtain={NpcID=19932,NpcName="Andormu (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[23772] = {id=23772,name="Fel Iron Shells",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=30346,DropChance=0,Zone=""}}
-items[32761] = {id=32761,name="The Sarge's Bullet",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19316] = {id=19316,name="Ice Threaded Arrow",obtain={NpcID=13216,NpcName="Gaelden Hammersmith (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[3031] = {id=3031,name="Depricated Razor Arrow",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4960] = {id=4960,name="Flash Pellet",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=745,Recipe=false,RecipeID=0,DropChance=0,Zone="Mulgore"}}
-items[10512] = {id=10512,name="Hi-Impact Mithril Slugs",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12596,DropChance=0,Zone=""}}
-items[19317] = {id=19317,name="Ice Threaded Bullet",obtain={NpcID=13216,NpcName="Gaelden Hammersmith (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Alterac Valley"}}
-items[2519] = {id=2519,name="Heavy Shot",obtain={NpcID=227,NpcName="Mabel Solaj (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Duskwood"}}
-items[9399] = {id=9399,name="Precision Arrow",obtain={NpcID=6906,NpcName="Baelog",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=87.9,Zone="Uldaman"}}
-items[28061] = {id=28061,name="Ironbite Shell",obtain={NpcID=16602,NpcName="Floyd Pinkus (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[32882] = {id=32882,name="Hellfire Shot",obtain={NpcID=17585,NpcName="Quartermaster Urgronn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Hellfire Peninsula"}}
-items[11630] = {id=11630,name="Rockshard Pellets",obtain={NpcID=9025,NpcName="Lord Roccor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.4,Zone="Blackrock Depths"}}
-items[3465] = {id=3465,name="Exploding Shot",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=1370,Recipe=false,RecipeID=0,DropChance=0,Zone="Desolace"}}
-items[8068] = {id=8068,name="Crafted Heavy Shot",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3930,DropChance=0,Zone=""}}
-items[8069] = {id=8069,name="Crafted Solid Shot",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3947,DropChance=0,Zone=""}}
-items[13377] = {id=13377,name="Miniature Cannon Balls",obtain={NpcID=10997,NpcName="Cannon Master Willey",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=91.3,Zone="Stratholme"}}
-items[10513] = {id=10513,name="Mithril Gyro-Shot",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12621,DropChance=0,Zone=""}}
-items[19082] = {id=19082,name="Monster - Fire Arrow",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29907] = {id=29907,name="Monster - Magic Arrow",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[12654] = {id=12654,name="Doomshot",obtain={NpcID=9236,NpcName="Shadow Hunter Vosh'gajin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=27.5,Zone="Blackrock Spire"}}
-items[8067] = {id=8067,name="Crafted Light Shot",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3920,DropChance=0,Zone=""}}
-items[2516] = {id=2516,name="Light Shot",obtain={NpcID=151,NpcName="Brog Hamfist (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Elwynn Forest"}}
-items[30612] = {id=30612,name="Halaani Grimshot",obtain={NpcID=21488,NpcName="Banro (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Nagrand"}}
-items[5568] = {id=5568,name="Smooth Pebble",obtain={NpcID=2156,NpcName="Cracked Golem",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=56.4,Zone="Darkshore"}}
-items[2514] = {id=2514,name="Depricated Sharp Arrow",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34534] = {id=34534,name="Monster - Fire Arrow (Not Arrow, Do Not Reuse)",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
+items[28053] = {id=28053,name="Wicked Arrow",source={ID=228,SourceName="Avette Fellwood",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[28060] = {id=28060,name="Impact Shot",source={ID=734,SourceName="Corporal Bluth",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[11285] = {id=11285,name="Jagged Arrow",source={ID=228,SourceName="Avette Fellwood",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[33803] = {id=33803,name="Adamantite Stinger",source={ID=43674,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31737] = {id=31737,name="Timeless Arrow",source={ID=19932,SourceName="Andormu",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[34581] = {id=34581,name="Mysterious Arrow",source={ID=18255,SourceName="Apprentice Darius",SourceType="Purchase",DropChance="100",Zone="Deadwind Pass"}}
+items[3030] = {id=3030,name="Razor Arrow",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[28056] = {id=28056,name="Blackflight Arrow",source={ID=16602,SourceName="Floyd Pinkus",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[32760] = {id=32760,name="The Macho Gnome's Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2515] = {id=2515,name="Sharp Arrow",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[23773] = {id=23773,name="Adamantite Shells",source={ID=45171,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31949] = {id=31949,name="Warden's Arrow",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[18042] = {id=18042,name="Thorium Headed Arrow",source={ID=7341,SourceName="",SourceType="Quest",DropChance="0",Zone="Orgrimmar"}}
+items[2512] = {id=2512,name="Rough Arrow",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[3464] = {id=3464,name="Feathered Arrow",source={ID=1370,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[32883] = {id=32883,name="Felbane Slugs",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[24412] = {id=24412,name="Warden's Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11284] = {id=11284,name="Accurate Slugs",source={ID=734,SourceName="Corporal Bluth",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[30611] = {id=30611,name="Halaani Razorshaft",source={ID=21488,SourceName="Banro",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[24417] = {id=24417,name="Scout's Arrow",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[15997] = {id=15997,name="Thorium Shells",source={ID=19800,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30319] = {id=30319,name="Nether Spike",source={ID=21268,SourceName="Netherstrand Longbow",SourceType="Kill",DropChance="1578.9",Zone="Unknown"}}
+items[3033] = {id=3033,name="Solid Shot",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[10579] = {id=10579,name="Explosive Arrow",source={ID=12719,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34582] = {id=34582,name="Mysterious Shell",source={ID=18255,SourceName="Apprentice Darius",SourceType="Purchase",DropChance="100",Zone="Deadwind Pass"}}
+items[3029] = {id=3029,name="Depricated Whipwood Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31735] = {id=31735,name="Timeless Shell",source={ID=19932,SourceName="Andormu",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[23772] = {id=23772,name="Fel Iron Shells",source={ID=30346,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[32761] = {id=32761,name="The Sarge's Bullet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19316] = {id=19316,name="Ice Threaded Arrow",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[3031] = {id=3031,name="Depricated Razor Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4960] = {id=4960,name="Flash Pellet",source={ID=745,SourceName="",SourceType="Quest",DropChance="0",Zone="Mulgore"}}
+items[10512] = {id=10512,name="Hi-Impact Mithril Slugs",source={ID=12596,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19317] = {id=19317,name="Ice Threaded Bullet",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[2519] = {id=2519,name="Heavy Shot",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[9399] = {id=9399,name="Precision Arrow",source={ID=6906,SourceName="Baelog",SourceType="Kill",DropChance="87.9",Zone="Uldaman"}}
+items[28061] = {id=28061,name="Ironbite Shell",source={ID=16602,SourceName="Floyd Pinkus",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[32882] = {id=32882,name="Hellfire Shot",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[11630] = {id=11630,name="Rockshard Pellets",source={ID=9025,SourceName="Lord Roccor",SourceType="Kill",DropChance="16.4",Zone="Blackrock Depths"}}
+items[3465] = {id=3465,name="Exploding Shot",source={ID=1370,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[8068] = {id=8068,name="Crafted Heavy Shot",source={ID=3930,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8069] = {id=8069,name="Crafted Solid Shot",source={ID=3947,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13377] = {id=13377,name="Miniature Cannon Balls",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="91.2",Zone="Stratholme"}}
+items[10513] = {id=10513,name="Mithril Gyro-Shot",source={ID=12621,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19082] = {id=19082,name="Monster - Fire Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29907] = {id=29907,name="Monster - Magic Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12654] = {id=12654,name="Doomshot",source={ID=9236,SourceName="Shadow Hunter Vosh'gajin",SourceType="Kill",DropChance="27.5",Zone="Blackrock Spire"}}
+items[8067] = {id=8067,name="Crafted Light Shot",source={ID=3920,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2516] = {id=2516,name="Light Shot",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[30612] = {id=30612,name="Halaani Grimshot",source={ID=21488,SourceName="Banro",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[5568] = {id=5568,name="Smooth Pebble",source={ID=2156,SourceName="Cracked Golem",SourceType="Kill",DropChance="56.4",Zone="Darkshore"}}
+items[2514] = {id=2514,name="Depricated Sharp Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34534] = {id=34534,name="Monster - Fire Arrow (Not Arrow, Do Not Reuse)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 
 -- Name Data

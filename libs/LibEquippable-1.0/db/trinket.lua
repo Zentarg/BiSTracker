@@ -10,381 +10,381 @@ local names = {}
 
 
 -- Item Data
-items[34424] = {id=34424,name="Power of the High Chief",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5128,Recipe=false,RecipeID=0,DropChance=0,Zone="Winterspring"}}
-items[34423] = {id=34423,name="Strength of the High Chief",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5128,Recipe=false,RecipeID=0,DropChance=0,Zone="Winterspring"}}
-items[28830] = {id=28830,name="Dragonspine Trophy",obtain={NpcID=19044,NpcName="Gruul the Dragonkiller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.8,Zone="Gruul's Lair"}}
-items[29383] = {id=29383,name="Bloodlust Brooch",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[23836] = {id=23836,name="Goblin Rocket Launcher",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=30563,DropChance=0,Zone=""}}
-items[27529] = {id=27529,name="Figurine of the Colossus",obtain={NpcID=16808,NpcName="Warchief Kargath Bladefist",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=66.6,Zone="The Shattered Halls"}}
-items[29370] = {id=29370,name="Icon of the Silver Crescent",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[28785] = {id=28785,name="The Lightning Capacitor",obtain={NpcID=15688,NpcName="Terestian Illhoof",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Karazhan"}}
-items[28789] = {id=28789,name="Eye of Magtheridon",obtain={NpcID=17257,NpcName="Magtheridon",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.8,Zone="Magtheridon's Lair"}}
-items[28034] = {id=28034,name="Hourglass of the Unraveller",obtain={NpcID=17880,NpcName="Temporus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.6,Zone="The Black Morass"}}
-items[24128] = {id=24128,name="Figurine - Nightseye Panther",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31083,DropChance=0,Zone=""}}
-items[31858] = {id=31858,name="Darkmoon Card: Vengeance",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10940,Recipe=false,RecipeID=0,DropChance=0,Zone="Darkmoon Faire"}}
-items[28288] = {id=28288,name="Abacus of Violent Odds",obtain={NpcID=19220,NpcName="Pathaleon the Calculator",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=66.6,Zone="The Mechanar"}}
-items[27683] = {id=27683,name="Quagmirran's Eye",obtain={NpcID=17942,NpcName="Quagmirran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.8,Zone="The Slave Pens"}}
-items[31856] = {id=31856,name="Darkmoon Card: Crusade",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10938,Recipe=false,RecipeID=0,DropChance=0,Zone="Darkmoon Faire"}}
-items[35702] = {id=35702,name="Figurine - Shadowsong Panther",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46778,DropChance=0,Zone=""}}
-items[11122] = {id=11122,name="Carrot on a Stick",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=2770,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Farrak"}}
-items[18665] = {id=18665,name="The Eye of Shadow",obtain={NpcID=18338,NpcName="Highlord Kruul",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100.0,Zone="Searing Gorge"}}
-items[28823] = {id=28823,name="Eye of Gruul",obtain={NpcID=19044,NpcName="Gruul the Dragonkiller",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.3,Zone="Gruul's Lair"}}
-items[19337] = {id=19337,name="The Black Book",obtain={NpcID=12435,NpcName="Razorgore the Untamed",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.1,Zone="Blackwing Lair"}}
-items[29376] = {id=29376,name="Essence of the Martyr",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[19288] = {id=19288,name="Darkmoon Card: Blue Dragon",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7907,Recipe=false,RecipeID=0,DropChance=0,Zone="Darkmoon Faire"}}
-items[28370] = {id=28370,name="Bangle of Endless Blessings",obtain={NpcID=17977,NpcName="Warp Splinter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Botanica"}}
-items[25653] = {id=25653,name="Riding Crop",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=32461,DropChance=0,Zone=""}}
-items[29132] = {id=29132,name="Scryer's Bloodgem",obtain={NpcID=19331,NpcName="Quartermaster Enuril (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[185987] = {id=185987,name="Communal Stone of Wisdom",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32658] = {id=32658,name="Badge of Tenacity",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=40744,DropChance=0,Zone=""}}
-items[11815] = {id=11815,name="Hand of Justice",obtain={NpcID=9019,NpcName="Emperor Dagran Thaurissan",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.0,Zone="Blackrock Depths"}}
-items[23207] = {id=23207,name="Mark of the Champion",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9120,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[28579] = {id=28579,name="Romulo's Poison Vial",obtain={NpcID=17534,NpcName="Julianne",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.0,Zone="Karazhan"}}
-items[31859] = {id=31859,name="Darkmoon Card: Madness",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10941,Recipe=false,RecipeID=0,DropChance=0,Zone="Darkmoon Faire"}}
-items[28727] = {id=28727,name="Pendant of the Violet Eye",obtain={NpcID=16524,NpcName="Shade of Aran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.5,Zone="Karazhan"}}
-items[9149] = {id=9149,name="Philosopher's Stone",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=11459,DropChance=0,Zone=""}}
-items[29387] = {id=29387,name="Gnomeregan Auto-Blocker 600",obtain={NpcID=18525,NpcName="G'eras (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[30627] = {id=30627,name="Tsunami Talisman",obtain={NpcID=21215,NpcName="Leotheras the Blind",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.1,Zone="Serpentshrine Cavern"}}
-items[28590] = {id=28590,name="Ribbon of Sacrifice",obtain={NpcID=17533,NpcName="Romulo",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.3,Zone="Karazhan"}}
-items[35750] = {id=35750,name="Redeemer's Alchemist Stone",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=47049,DropChance=0,Zone=""}}
-items[28528] = {id=28528,name="Moroes' Lucky Pocket Watch",obtain={NpcID=15687,NpcName="Moroes",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Karazhan"}}
-items[28190] = {id=28190,name="Scarab of the Infinite Cycle",obtain={NpcID=17881,NpcName="Aeonus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.3,Zone="The Black Morass"}}
-items[23206] = {id=23206,name="Mark of the Champion",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9120,Recipe=false,RecipeID=0,DropChance=0,Zone="Naxxramas"}}
-items[23835] = {id=23835,name="Gnomish Poultryizer",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=30569,DropChance=0,Zone=""}}
-items[19339] = {id=19339,name="Mind Quickening Gem",obtain={NpcID=13020,NpcName="Vaelastrasz the Corrupt",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.7,Zone="Blackwing Lair"}}
-items[19379] = {id=19379,name="Neltharion's Tear",obtain={NpcID=11583,NpcName="Nefarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.1,Zone="Blackwing Lair"}}
-items[1404] = {id=1404,name="Tidal Charm",obtain={NpcID=2779,NpcName="Prince Nazjak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=56.4,Zone="Arathi Highlands"}}
-items[24126] = {id=24126,name="Figurine - Living Ruby Serpent",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31081,DropChance=0,Zone=""}}
-items[19431] = {id=19431,name="Styleen's Impeding Scarab",obtain={NpcID=11981,NpcName="Flamegor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.4,Zone="Blackwing Lair"}}
-items[10725] = {id=10725,name="Gnomish Battle Chicken",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12906,DropChance=0,Zone=""}}
-items[19289] = {id=19289,name="Darkmoon Card: Maelstrom",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7929,Recipe=false,RecipeID=0,DropChance=0,Zone="Darkmoon Faire"}}
-items[27921] = {id=27921,name="Mark of Conquest",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32483] = {id=32483,name="The Skull of Gul'dan",obtain={NpcID=22917,NpcName="Illidan Stormrage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.9,Zone="Black Temple"}}
-items[17774] = {id=17774,name="Mark of the Chosen",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7067,Recipe=false,RecipeID=0,DropChance=0,Zone="Maraudon"}}
-items[30841] = {id=30841,name="Lower City Prayerbook",obtain={NpcID=21655,NpcName="Nakodu (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[21756] = {id=21756,name="Figurine - Golden Hare",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26873,DropChance=0,Zone=""}}
-items[185985] = {id=185985,name="Communal Stone of Onslaught",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28121] = {id=28121,name="Icon of Unyielding Courage",obtain={NpcID=17377,NpcName="Keli'dan the Breaker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.5,Zone="The Blood Furnace"}}
-items[30300] = {id=30300,name="Dabiri's Enigma",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10439,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[18852] = {id=18852,name="Insignia of the Horde",obtain={NpcID=12799,NpcName="Sergeant Ba'sha (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[21769] = {id=21769,name="Figurine - Ruby Serpent",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26900,DropChance=0,Zone=""}}
-items[12930] = {id=12930,name="Briarwood Reed",obtain={NpcID=10509,NpcName="Jed Runewatcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.3,Zone="Blackrock Spire"}}
-items[19992] = {id=19992,name="Devilsaur Tooth",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8232,Recipe=false,RecipeID=0,DropChance=0,Zone="Hunter"}}
-items[22954] = {id=22954,name="Kiss of the Spider",obtain={NpcID=15952,NpcName="Maexxna",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.1,Zone="Naxxramas"}}
-items[21748] = {id=21748,name="Figurine - Jade Owl",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26872,DropChance=0,Zone=""}}
-items[2820] = {id=2820,name="Nifty Stopwatch",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=778,Recipe=false,RecipeID=0,DropChance=0,Zone="Badlands"}}
-items[19406] = {id=19406,name="Drake Fang Talisman",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.9,Zone="Blackwing Lair"}}
-items[21180] = {id=21180,name="Earthstrike",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8573,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[20130] = {id=20130,name="Diamond Flask",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8425,Recipe=false,RecipeID=0,DropChance=0,Zone="Warrior"}}
-items[23047] = {id=23047,name="Eye of the Dead",obtain={NpcID=15989,NpcName="Sapphiron",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=59.6,Zone="Naxxramas"}}
-items[34472] = {id=34472,name="Shard of Contempt",obtain={NpcID=24560,NpcName="Priestess Delrissa",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.5,Zone="Magisters' Terrace"}}
-items[25829] = {id=25829,name="Talisman of the Alliance",obtain={NpcID=12781,NpcName="Master Sergeant Biggins (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[21758] = {id=21758,name="Figurine - Black Pearl Panther",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26875,DropChance=0,Zone=""}}
-items[35749] = {id=35749,name="Sorcerer's Alchemist Stone",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=47048,DropChance=0,Zone=""}}
-items[13544] = {id=13544,name="Spectral Essence",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=17672,DropChance=0,Zone=""}}
-items[11302] = {id=11302,name="Uther's Strength",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[12846] = {id=12846,name="Argent Dawn Commission",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=17777,DropChance=0,Zone=""}}
-items[34427] = {id=34427,name="Blackened Naaru Sliver",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.9,Zone="Sunwell Plateau"}}
-items[19395] = {id=19395,name="Rejuvenating Gem",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.8,Zone="Blackwing Lair"}}
-items[21670] = {id=21670,name="Badge of the Swarmguard",obtain={NpcID=15516,NpcName="Battleguard Sartura",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.9,Zone="Ahn'Qiraj"}}
-items[27922] = {id=27922,name="Mark of Defiance",obtain={NpcID=18581,NpcName="Alliance Field Scout (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Zangarmarsh"}}
-items[19950] = {id=19950,name="Zandalarian Hero Charm",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8183,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[4130] = {id=4130,name="Smotts' Compass",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=618,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[23046] = {id=23046,name="The Restrained Essence of Sapphiron",obtain={NpcID=15989,NpcName="Sapphiron",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=27.2,Zone="Naxxramas"}}
-items[32505] = {id=32505,name="Madness of the Betrayer",obtain={NpcID=22950,NpcName="High Nethermancer Zerevor",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.3,Zone="Unknown"}}
-items[13209] = {id=13209,name="Seal of the Dawn",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24179,DropChance=0,Zone=""}}
-items[27891] = {id=27891,name="Adamantine Figurine",obtain={NpcID=18667,NpcName="Blackheart the Inciter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="Shadow Labyrinth"}}
-items[29776] = {id=29776,name="Core of Ar'kelos",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10176,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[19024] = {id=19024,name="Arena Grand Master",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7838,Recipe=false,RecipeID=0,DropChance=0,Zone="Uncategorized"}}
-items[24125] = {id=24125,name="Figurine - Dawnstone Crab",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31080,DropChance=0,Zone=""}}
-items[33831] = {id=33831,name="Berserker's Call",obtain={NpcID=23863,NpcName="Zul'jin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=15.0,Zone="Unknown"}}
-items[27770] = {id=27770,name="Argussian Compass",obtain={NpcID=17882,NpcName="The Black Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="The Underbog"}}
-items[11810] = {id=11810,name="Force of Will",obtain={NpcID=9033,NpcName="General Angerforge",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.4,Zone="Blackrock Depths"}}
-items[33829] = {id=33829,name="Hex Shrunken Head",obtain={NpcID=24239,NpcName="Hex Lord Malacrass",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.1,Zone="Unknown"}}
-items[10455] = {id=10455,name="Chained Essence of Eranikus",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=3373,Recipe=false,RecipeID=0,DropChance=0,Zone="The Temple of Atal'Hakkar"}}
-items[30340] = {id=30340,name="Starkiller's Bauble",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10413,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[21625] = {id=21625,name="Scarab Brooch",obtain={NpcID=15299,NpcName="Viscidus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.1,Zone="Ahn'Qiraj"}}
-items[35700] = {id=35700,name="Figurine - Crimson Serpent",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46777,DropChance=0,Zone=""}}
-items[30664] = {id=30664,name="Living Root of the Wildheart",obtain={NpcID=21216,NpcName="Hydross the Unstable",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.2,Zone="Serpentshrine Cavern"}}
-items[29181] = {id=29181,name="Timelapse Shard",obtain={NpcID=21643,NpcName="Alurmi (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Tanaris"}}
-items[23040] = {id=23040,name="Glyph of Deflection",obtain={NpcID=15989,NpcName="Sapphiron",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.2,Zone="Naxxramas"}}
-items[23041] = {id=23041,name="Slayer's Crest",obtain={NpcID=15989,NpcName="Sapphiron",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.7,Zone="Naxxramas"}}
-items[18467] = {id=18467,name="Royal Seal of Eldre'Thalas",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7502,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[19991] = {id=19991,name="Devilsaur Eye",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8232,Recipe=false,RecipeID=0,DropChance=0,Zone="Hunter"}}
-items[28418] = {id=28418,name="Shiffar's Nexus-Horn",obtain={NpcID=20912,NpcName="Harbinger Skyriss",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.2,Zone="The Arcatraz"}}
-items[24390] = {id=24390,name="Auslese's Light Channeler",obtain={NpcID=17380,NpcName="Broggok",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="The Blood Furnace"}}
-items[1973] = {id=1973,name="Orb of Deception",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[18854] = {id=18854,name="Insignia of the Alliance",obtain={NpcID=12805,NpcName="Officer Areyn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[16022] = {id=16022,name="Arcanite Dragonling",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=19830,DropChance=0,Zone=""}}
-items[25634] = {id=25634,name="Oshu'gun Relic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9900,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[19287] = {id=19287,name="Darkmoon Card: Heroism",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7928,Recipe=false,RecipeID=0,DropChance=0,Zone="Darkmoon Faire"}}
-items[27920] = {id=27920,name="Mark of Conquest",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18858] = {id=18858,name="Insignia of the Alliance",obtain={NpcID=12805,NpcName="Officer Areyn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[18470] = {id=18470,name="Royal Seal of Eldre'Thalas",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7506,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[18473] = {id=18473,name="Royal Seal of Eldre'Thalas",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7503,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[27896] = {id=27896,name="Alembic of Infernal Power",obtain={NpcID=17882,NpcName="The Black Stalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.6,Zone="The Underbog"}}
-items[22678] = {id=22678,name="Talisman of Ascendance",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9222,Recipe=false,RecipeID=0,DropChance=0,Zone="Eastern Plaguelands"}}
-items[18646] = {id=18646,name="The Eye of Divinity",obtain={NpcID=12018,NpcName="Majordomo Executus",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=5.0,Zone="Molten Core"}}
-items[30720] = {id=30720,name="Serpent-Coil Braid",obtain={NpcID=21213,NpcName="Morogrim Tidewalker",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.0,Zone="Serpentshrine Cavern"}}
-items[19141] = {id=19141,name="Luffa",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7727,Recipe=false,RecipeID=0,DropChance=0,Zone="Searing Gorge"}}
-items[7734] = {id=7734,name="Six Demon Bag",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[32496] = {id=32496,name="Memento of Tyrande",obtain={NpcID=22917,NpcName="Illidan Stormrage",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.2,Zone="Black Temple"}}
-items[31857] = {id=31857,name="Darkmoon Card: Wrath",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10939,Recipe=false,RecipeID=0,DropChance=0,Zone="Darkmoon Faire"}}
-items[24551] = {id=24551,name="Talisman of the Horde",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32863] = {id=32863,name="Skybreaker Whip",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18465] = {id=18465,name="Royal Seal of Eldre'Thalas",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7498,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[34470] = {id=34470,name="Timbal's Focusing Crystal",obtain={NpcID=24560,NpcName="Priestess Delrissa",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.6,Zone="Magisters' Terrace"}}
-items[27926] = {id=27926,name="Mark of Vindication",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30450] = {id=30450,name="Warp-Spring Coil",obtain={NpcID=19516,NpcName="Void Reaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=3.2,Zone="Tempest Keep"}}
-items[30626] = {id=30626,name="Sextant of Unstable Currents",obtain={NpcID=21214,NpcName="Fathom-Lord Karathress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.2,Zone="Serpentshrine Cavern"}}
-items[19812] = {id=19812,name="Rune of the Dawn",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24201,DropChance=0,Zone=""}}
-items[34429] = {id=34429,name="Shifting Naaru Sliver",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.4,Zone="Sunwell Plateau"}}
-items[19954] = {id=19954,name="Renataki's Charm of Trickery",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24281,DropChance=0,Zone=""}}
-items[11905] = {id=11905,name="Linken's Boomerang",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=3962,Recipe=false,RecipeID=0,DropChance=0,Zone="Un'Goro Crater"}}
-items[30449] = {id=30449,name="Void Star Talisman",obtain={NpcID=18805,NpcName="High Astromancer Solarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.7,Zone="Tempest Keep"}}
-items[24127] = {id=24127,name="Figurine - Talasite Owl",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31082,DropChance=0,Zone=""}}
-items[29179] = {id=29179,name="Xi'ri's Gift",obtain={NpcID=21432,NpcName="Almaador (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Shattrath City"}}
-items[31113] = {id=31113,name="Violet Badge",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24124] = {id=24124,name="Figurine - Felsteel Boar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=31079,DropChance=0,Zone=""}}
-items[27924] = {id=27924,name="Mark of Defiance",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21784] = {id=21784,name="Figurine - Black Diamond Crab",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26912,DropChance=0,Zone=""}}
-items[32481] = {id=32481,name="Charm of Swift Flight",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[28223] = {id=28223,name="Arcanist's Stone",obtain={NpcID=18096,NpcName="Epoch Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.8,Zone="Old Hillsbrad Foothills"}}
-items[18984] = {id=18984,name="Dimensional Ripper - Everlook",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23486,DropChance=0,Zone=""}}
-items[10659] = {id=10659,name="Shard of Afrasa",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=2701,Recipe=false,RecipeID=0,DropChance=0,Zone="Blasted Lands"}}
-items[21763] = {id=21763,name="Figurine - Truesilver Boar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26882,DropChance=0,Zone=""}}
-items[18469] = {id=18469,name="Royal Seal of Eldre'Thalas",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7504,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[18815] = {id=18815,name="Essence of the Pure Flame",obtain={NpcID=11502,NpcName="Ragnaros",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.1,Zone="Molten Core"}}
-items[21789] = {id=21789,name="Figurine - Dark Iron Scorpid",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26914,DropChance=0,Zone=""}}
-items[30621] = {id=30621,name="Prism of Inner Calm",obtain={NpcID=21212,NpcName="Lady Vashj",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.6,Zone="Serpentshrine Cavern"}}
-items[32864] = {id=32864,name="Commander's Badge",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19344] = {id=19344,name="Natural Alignment Crystal",obtain={NpcID=11983,NpcName="Firemaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.9,Zone="Blackwing Lair"}}
-items[19290] = {id=19290,name="Darkmoon Card: Twisting Nether",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7927,Recipe=false,RecipeID=0,DropChance=0,Zone="Darkmoon Faire"}}
-items[21647] = {id=21647,name="Fetish of the Sand Reaver",obtain={NpcID=15510,NpcName="Fankriss the Unyielding",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=23.0,Zone="Ahn'Qiraj"}}
-items[30446] = {id=30446,name="Solarian's Sapphire",obtain={NpcID=18805,NpcName="High Astromancer Solarian",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.6,Zone="Tempest Keep"}}
-items[23001] = {id=23001,name="Eye of Diminution",obtain={NpcID=15928,NpcName="Thaddius",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=34.6,Zone="Naxxramas"}}
-items[19953] = {id=19953,name="Renataki's Charm of Beasts",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24280,DropChance=0,Zone=""}}
-items[11811] = {id=11811,name="Smoking Heart of the Mountain",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=15596,DropChance=0,Zone=""}}
-items[19990] = {id=19990,name="Blessed Prayer Beads",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8257,Recipe=false,RecipeID=0,DropChance=0,Zone="Priest"}}
-items[33046] = {id=33046,name="Insignia of PvP Pwn",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30665] = {id=30665,name="Earring of Soulful Meditation",obtain={NpcID=21217,NpcName="The Lurker Below",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.2,Zone="Serpentshrine Cavern"}}
-items[35694] = {id=35694,name="Figurine - Khorium Boar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46776,DropChance=0,Zone=""}}
-items[18849] = {id=18849,name="Insignia of the Horde",obtain={NpcID=12799,NpcName="Sergeant Ba'sha (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[22321] = {id=22321,name="Heart of Wyrmthalak",obtain={NpcID=9568,NpcName="Overlord Wyrmthalak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.8,Zone="Blackrock Spire"}}
-items[10645] = {id=10645,name="Gnomish Death Ray",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12759,DropChance=0,Zone=""}}
-items[19341] = {id=19341,name="Lifegiving Gem",obtain={NpcID=12017,NpcName="Broodlord Lashlayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.7,Zone="Blackwing Lair"}}
-items[18820] = {id=18820,name="Talisman of Ephemeral Power",obtain={NpcID=11982,NpcName="Magmadar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=11.2,Zone="Molten Core"}}
-items[32654] = {id=32654,name="Crystalforged Trinket",obtain={NpcID=23428,NpcName="Jho'nass (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Blade's Edge Mountains"}}
-items[18986] = {id=18986,name="Ultrasafe Transporter: Gadgetzan",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23489,DropChance=0,Zone=""}}
-items[32492] = {id=32492,name="Ashtongue Talisman of Lethality",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32501] = {id=32501,name="Shadowmoon Insignia",obtain={NpcID=22948,NpcName="Gurtogg Bloodboil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.6,Zone="Black Temple"}}
-items[19959] = {id=19959,name="Hazza'rah's Charm of Magic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24282,DropChance=0,Zone=""}}
-items[30619] = {id=30619,name="Fel Reaver's Piston",obtain={NpcID=19516,NpcName="Void Reaver",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=2.7,Zone="Tempest Keep"}}
-items[29593] = {id=29593,name="Insignia of the Alliance",obtain={NpcID=12781,NpcName="Master Sergeant Biggins (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[34471] = {id=34471,name="Vial of the Sunwell",obtain={NpcID=24560,NpcName="Priestess Delrissa",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.5,Zone="Magisters' Terrace"}}
-items[26055] = {id=26055,name="Oculus of the Hidden Eye",obtain={NpcID=18371,NpcName="Shirrak the Dead Watcher",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.5,Zone="Auchenai Crypts"}}
-items[21777] = {id=21777,name="Figurine - Emerald Owl",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26909,DropChance=0,Zone=""}}
-items[21565] = {id=21565,name="Rune of Perfection",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[21760] = {id=21760,name="Figurine - Truesilver Crab",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=26881,DropChance=0,Zone=""}}
-items[32534] = {id=32534,name="Brooch of the Immortal King",obtain={NpcID=21838,NpcName="Terokk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=10.5,Zone="Unknown"}}
-items[34473] = {id=34473,name="Commendation of Kael'thas",obtain={NpcID=24560,NpcName="Priestess Delrissa",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.8,Zone="Magisters' Terrace"}}
-items[11832] = {id=11832,name="Burst of Knowledge",obtain={NpcID=9156,NpcName="Ambassador Flamelash",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.6,Zone="Blackrock Depths"}}
-items[18857] = {id=18857,name="Insignia of the Alliance",obtain={NpcID=12805,NpcName="Officer Areyn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[19343] = {id=19343,name="Scrolls of Blinding Light",obtain={NpcID=11983,NpcName="Firemaw",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.3,Zone="Blackwing Lair"}}
-items[18706] = {id=18706,name="Arena Master",obtain={NpcID=179697,NpcName="Arena Treasure Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=96.5,Zone="Stranglethorn Vale"}}
-items[38289] = {id=38289,name="Coren's Lucky Coin",obtain={NpcID=23872,NpcName="Coren Direbrew",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Unknown"}}
-items[185986] = {id=185986,name="Communal Stone of Durability",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10577] = {id=10577,name="Goblin Mortar",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12716,DropChance=0,Zone=""}}
-items[30629] = {id=30629,name="Scarab of Displacement",obtain={NpcID=21216,NpcName="Hydross the Unstable",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=30.0,Zone="Serpentshrine Cavern"}}
-items[38290] = {id=38290,name="Dark Iron Smoking Pipe",obtain={NpcID=23872,NpcName="Coren Direbrew",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.2,Zone="Unknown"}}
-items[18370] = {id=18370,name="Vigilance Charm",obtain={NpcID=11496,NpcName="Immol'thar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.6,Zone="Dire Maul"}}
-items[18639] = {id=18639,name="Ultra-Flash Shadow Reflector",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23082,DropChance=0,Zone=""}}
-items[18846] = {id=18846,name="Insignia of the Horde",obtain={NpcID=12799,NpcName="Sergeant Ba'sha (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[28108] = {id=28108,name="Power Infused Mushroom",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9719,Recipe=false,RecipeID=0,DropChance=0,Zone="The Underbog"}}
-items[19947] = {id=19947,name="Nat Pagle's Broken Reel",obtain={NpcID=15114,NpcName="Gahz'ranka",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=39.0,Zone="Zul'Gurub"}}
-items[19958] = {id=19958,name="Hazza'rah's Charm of Healing",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24284,DropChance=0,Zone=""}}
-items[25628] = {id=25628,name="Ogre Mauler's Badge",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9916,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[185988] = {id=185988,name="Communal Stone of Stoicism",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10720] = {id=10720,name="Gnomish Net-o-Matic Projector",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12902,DropChance=0,Zone=""}}
-items[20534] = {id=20534,name="Abyss Shard",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8422,Recipe=false,RecipeID=0,DropChance=0,Zone="Warlock"}}
-items[30448] = {id=30448,name="Talon of Al'ar",obtain={NpcID=19514,NpcName="Al'ar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.2,Zone="Tempest Keep"}}
-items[30620] = {id=30620,name="Spyglass of the Hidden Fleet",obtain={NpcID=21218,NpcName="Vashj'ir Honor Guard",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Unknown"}}
-items[23570] = {id=23570,name="Jom Gabbar",obtain={NpcID=15517,NpcName="Ouro",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.7,Zone="Ahn'Qiraj"}}
-items[30447] = {id=30447,name="Tome of Fiery Redemption",obtain={NpcID=19514,NpcName="Al'ar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=28.2,Zone="Tempest Keep"}}
-items[24376] = {id=24376,name="Runed Fungalcap",obtain={NpcID=17991,NpcName="Rokmar the Crackler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="The Slave Pens"}}
-items[34428] = {id=34428,name="Steely Naaru Sliver",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.5,Zone="Sunwell Plateau"}}
-items[1713] = {id=1713,name="Ankh of Life",obtain={NpcID=669,NpcName="Skullsplitter Hunter",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Stranglethorn Vale"}}
-items[8703] = {id=8703,name="Signet of Expertise",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=2765,Recipe=false,RecipeID=0,DropChance=0,Zone="Blacksmithing"}}
-items[4381] = {id=4381,name="Minor Recombobulator",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3952,DropChance=0,Zone=""}}
-items[18834] = {id=18834,name="Insignia of the Horde",obtain={NpcID=12799,NpcName="Sergeant Ba'sha (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[23027] = {id=23027,name="Warmth of Forgiveness",obtain={NpcID=181366,NpcName="Four Horsemen Chest (Container)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.9,Zone="Naxxramas"}}
-items[18537] = {id=18537,name="Counterattack Lodestone",obtain={NpcID=14353,NpcName="Mizzle the Crafty",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.1,Zone="Dire Maul"}}
-items[21326] = {id=21326,name="Defender of the Timbermaw",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8481,Recipe=false,RecipeID=0,DropChance=0,Zone="Timbermaw Hold"}}
-items[34430] = {id=34430,name="Glimmering Naaru Sliver",obtain={NpcID=25741,NpcName="M'uru",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=32.2,Zone="Sunwell Plateau"}}
-items[19955] = {id=19955,name="Wushoolay's Charm of Nature",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24279,DropChance=0,Zone=""}}
-items[18468] = {id=18468,name="Royal Seal of Eldre'Thalas",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7500,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[20636] = {id=20636,name="Hibernation Crystal",obtain={NpcID=14887,NpcName="Ysondre",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=9.3,Zone="Duskwood"}}
-items[10418] = {id=10418,name="Glimmering Mithril Insignia",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=3321,Recipe=false,RecipeID=0,DropChance=0,Zone="Blacksmithing"}}
-items[25633] = {id=25633,name="Uniting Charm",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9924,Recipe=false,RecipeID=0,DropChance=0,Zone="Outland Nagrand"}}
-items[27927] = {id=27927,name="Mark of Vindication",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19336] = {id=19336,name="Arcane Infused Gem",obtain={NpcID=12435,NpcName="Razorgore the Untamed",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=19.6,Zone="Blackwing Lair"}}
-items[19948] = {id=19948,name="Zandalarian Hero Badge",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8183,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[22268] = {id=22268,name="Draconic Infused Emblem",obtain={NpcID=10363,NpcName="General Drakkisath",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=7.6,Zone="Blackrock Spire"}}
-items[10779] = {id=10779,name="Demon's Blood",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=3628,Recipe=false,RecipeID=0,DropChance=0,Zone="Blasted Lands"}}
-items[10727] = {id=10727,name="Goblin Dragon Gun",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12908,DropChance=0,Zone=""}}
-items[34050] = {id=34050,name="Battlemaster's Perseverance",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34578] = {id=34578,name="Battlemaster's Determination",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[29877] = {id=29877,name="Indalamar's Trinket of Pwnage",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[30663] = {id=30663,name="Fathom-Brooch of the Tidewalker",obtain={NpcID=21214,NpcName="Fathom-Lord Karathress",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.1,Zone="Serpentshrine Cavern"}}
-items[21473] = {id=21473,name="Eye of Moam",obtain={NpcID=15340,NpcName="Moam",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.2,Zone="Ruins of Ahn'Qiraj"}}
-items[19979] = {id=19979,name="Hook of the Master Angler",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8193,Recipe=false,RecipeID=0,DropChance=0,Zone="Fishing"}}
-items[18634] = {id=18634,name="Gyrofreeze Ice Reflector",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23077,DropChance=0,Zone=""}}
-items[38287] = {id=38287,name="Empty Mug of Direbrew",obtain={NpcID=23872,NpcName="Coren Direbrew",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.3,Zone="Unknown"}}
-items[32770] = {id=32770,name="Skyguard Silver Cross",obtain={NpcID=23367,NpcName="Grella (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Terokkar Forest"}}
-items[30542] = {id=30542,name="Dimensional Ripper - Area 52",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36954,DropChance=0,Zone=""}}
-items[18851] = {id=18851,name="Insignia of the Horde",obtain={NpcID=12799,NpcName="Sergeant Ba'sha (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[27828] = {id=27828,name="Warp-Scarab Brooch",obtain={NpcID=18344,NpcName="Nexus-Prince Shaffar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.8,Zone="Mana-Tombs"}}
-items[31617] = {id=31617,name="Ancient Draenei War Talisman",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10842,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[25994] = {id=25994,name="Rune of Force",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25995] = {id=25995,name="Star of Sha'naar",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[17064] = {id=17064,name="Shard of the Scale",obtain={NpcID=10184,NpcName="Onyxia",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.4,Zone="Unknown"}}
-items[30544] = {id=30544,name="Ultrasafe Transporter: Toshley's Station",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=36955,DropChance=0,Zone=""}}
-items[18850] = {id=18850,name="Insignia of the Horde",obtain={NpcID=12799,NpcName="Sergeant Ba'sha (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[21685] = {id=21685,name="Petrified Scarab",obtain={NpcID=15511,NpcName="Lord Kri",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=43.0,Zone="Ahn'Qiraj"}}
-items[21891] = {id=21891,name="Shard of the Fallen Star",obtain={NpcID=15240,NpcName="Vekniss Hive Crawler",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.6,Zone="Ahn'Qiraj"}}
-items[12805] = {id=12805,name="Orb of Fire",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4397] = {id=4397,name="Gnomish Cloaking Device",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3971,DropChance=0,Zone=""}}
-items[21566] = {id=21566,name="Rune of Perfection",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[29592] = {id=29592,name="Insignia of the Horde",obtain={NpcID=12793,NpcName="Brave Stonehide (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[32487] = {id=32487,name="Ashtongue Talisman of Swiftness",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35693] = {id=35693,name="Figurine - Empyrean Tortoise",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46775,DropChance=0,Zone=""}}
-items[35703] = {id=35703,name="Figurine - Seaspray Albatross",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=46779,DropChance=0,Zone=""}}
-items[38288] = {id=38288,name="Direbrew Hops",obtain={NpcID=23872,NpcName="Coren Direbrew",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.7,Zone="Unknown"}}
-items[23558] = {id=23558,name="The Burrower's Shell",obtain={NpcID=15517,NpcName="Ouro",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=20.4,Zone="Ahn'Qiraj"}}
-items[21567] = {id=21567,name="Rune of Duty",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[19949] = {id=19949,name="Zandalarian Hero Medallion",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8183,Recipe=false,RecipeID=0,DropChance=0,Zone="Zul'Gurub"}}
-items[18466] = {id=18466,name="Royal Seal of Eldre'Thalas",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=7499,Recipe=false,RecipeID=0,DropChance=0,Zone="Dire Maul"}}
-items[13515] = {id=13515,name="Ramstein's Lightning Bolts",obtain={NpcID=10439,NpcName="Ramstein the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.3,Zone="Stratholme"}}
-items[18637] = {id=18637,name="Major Recombobulator",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23079,DropChance=0,Zone=""}}
-items[20036] = {id=20036,name="Fire Ruby",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8253,Recipe=false,RecipeID=0,DropChance=0,Zone="Mage"}}
-items[32489] = {id=32489,name="Ashtongue Talisman of Zeal",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[37127] = {id=37127,name="Brightbrew Charm",obtain={NpcID=23872,NpcName="Coren Direbrew",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Unknown"}}
-items[35751] = {id=35751,name="Assassin's Alchemist Stone",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=47050,DropChance=0,Zone=""}}
-items[31615] = {id=31615,name="Ancient Draenei Arcane Relic",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10842,Recipe=false,RecipeID=0,DropChance=0,Zone="Terokkar Forest"}}
-items[5079] = {id=5079,name="Cold Basilisk Eye",obtain={NpcID=690,NpcName="Cold Eye Basilisk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.2,Zone="Stranglethorn Vale"}}
-items[18856] = {id=18856,name="Insignia of the Alliance",obtain={NpcID=12805,NpcName="Officer Areyn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[18862] = {id=18862,name="Insignia of the Alliance",obtain={NpcID=12805,NpcName="Officer Areyn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[34049] = {id=34049,name="Battlemaster's Audacity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[11819] = {id=11819,name="Second Wind",obtain={NpcID=8983,NpcName="Golem Lord Argelmach",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.9,Zone="Blackrock Depths"}}
-items[33828] = {id=33828,name="Tome of Diabolic Remedy",obtain={NpcID=24239,NpcName="Hex Lord Malacrass",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=12.1,Zone="Unknown"}}
-items[10587] = {id=10587,name="Goblin Bomb Dispenser",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12755,DropChance=0,Zone=""}}
-items[18859] = {id=18859,name="Insignia of the Alliance",obtain={NpcID=12805,NpcName="Officer Areyn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[34029] = {id=34029,name="Tiny Voodoo Mask",obtain={NpcID=24239,NpcName="Hex Lord Malacrass",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=29.0,Zone="Unknown"}}
-items[30293] = {id=30293,name="Heavenly Inspiration",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=10440,Recipe=false,RecipeID=0,DropChance=0,Zone="Netherstorm"}}
-items[13164] = {id=13164,name="Heart of the Scale",obtain={NpcID=9568,NpcName="Overlord Wyrmthalak",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=1.0,Zone="Blackrock Spire"}}
-items[18853] = {id=18853,name="Insignia of the Horde",obtain={NpcID=12799,NpcName="Sergeant Ba'sha (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[35748] = {id=35748,name="Guardian's Alchemist Stone",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=47046,DropChance=0,Zone=""}}
-items[28109] = {id=28109,name="Essence Infused Mushroom",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9719,Recipe=false,RecipeID=0,DropChance=0,Zone="The Underbog"}}
-items[20072] = {id=20072,name="Defiler's Talisman",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[18371] = {id=18371,name="Mindtap Talisman",obtain={NpcID=11487,NpcName="Magister Kalendris",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.6,Zone="Dire Maul"}}
-items[18638] = {id=18638,name="Hyper-Radiant Flame Reflector",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=23081,DropChance=0,Zone=""}}
-items[10576] = {id=10576,name="Mithril Mechanical Dragonling",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12624,DropChance=0,Zone=""}}
-items[4396] = {id=4396,name="Mechanical Dragonling",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=3969,DropChance=0,Zone=""}}
-items[32490] = {id=32490,name="Ashtongue Talisman of Acumen",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33832] = {id=33832,name="Battlemaster's Determination",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35326] = {id=35326,name="Battlemaster's Alacrity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[37128] = {id=37128,name="Balebrew Charm",obtain={NpcID=23872,NpcName="Coren Direbrew",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.0,Zone="Unknown"}}
-items[13379] = {id=13379,name="Piccolo of the Flaming Fire",obtain={NpcID=10558,NpcName="Hearthsinger Forresten",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=17.7,Zone="Stratholme"}}
-items[32486] = {id=32486,name="Ashtongue Talisman of Equilibrium",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32782] = {id=32782,name="Time-Lost Figurine",obtain={NpcID=21838,NpcName="Terokk",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=6.6,Zone="Unknown"}}
-items[13171] = {id=13171,name="Smokey's Lighter",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=5214,Recipe=false,RecipeID=0,DropChance=0,Zone="Stratholme"}}
-items[18354] = {id=18354,name="Pimgib's Collar",obtain={NpcID=14349,NpcName="Pimgib",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=24.2,Zone="Dire Maul"}}
-items[32485] = {id=32485,name="Ashtongue Talisman of Valor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19957] = {id=19957,name="Hazza'rah's Charm of Destruction",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24290,DropChance=0,Zone=""}}
-items[20071] = {id=20071,name="Talisman of Arathor",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[32488] = {id=32488,name="Ashtongue Talisman of Insight",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[33830] = {id=33830,name="Ancient Aqir Artifact",obtain={NpcID=23863,NpcName="Zul'jin",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=16.2,Zone="Unknown"}}
-items[25996] = {id=25996,name="Emblem of Perseverance",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[833] = {id=833,name="Lifestone",obtain={NpcID=15741,NpcName="Colossus of Regal",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=25.0,Zone="Silithus"}}
-items[21117] = {id=21117,name="Talisman of Arathor",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[21568] = {id=21568,name="Rune of Duty",obtain={NpcID=14753,NpcName="Illiyana Moonblaze (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Ashenvale"}}
-items[23716] = {id=23716,name="Carved Ogre Idol",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19956] = {id=19956,name="Wushoolay's Charm of Spirits",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24288,DropChance=0,Zone=""}}
-items[15873] = {id=15873,name="Ragged John's Neverending Cup",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4866,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackrock Spire"}}
-items[18863] = {id=18863,name="Insignia of the Alliance",obtain={NpcID=12805,NpcName="Officer Areyn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[23042] = {id=23042,name="Loatheb's Reflection",obtain={NpcID=16011,NpcName="Loatheb",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=26.4,Zone="Naxxramas"}}
-items[10723] = {id=10723,name="Gnomish Ham Radio",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12904,DropChance=0,Zone=""}}
-items[27900] = {id=27900,name="Jewel of Charismatic Mystique",obtain={NpcID=18732,NpcName="Grandmaster Vorpil",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Shadow Labyrinth"}}
-items[32771] = {id=32771,name="Airman's Ribbon of Gallantry",obtain={NpcID=23367,NpcName="Grella (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Terokkar Forest"}}
-items[25787] = {id=25787,name="Charm of Alacrity",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9351,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[21579] = {id=21579,name="Vanquished Tentacle of C'Thun",obtain={NpcID=15727,NpcName="C'Thun",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=21.1,Zone="Ahn'Qiraj"}}
-items[32695] = {id=32695,name="Captain's Badge",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[20525] = {id=20525,name="Earthen Sigil",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18438] = {id=18438,name="Sergeant's Mark",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18845] = {id=18845,name="Insignia of the Horde",obtain={NpcID=12799,NpcName="Sergeant Ba'sha (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Orgrimmar"}}
-items[19345] = {id=19345,name="Aegis of Preservation",obtain={NpcID=14601,NpcName="Ebonroc",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=41.3,Zone="Blackwing Lair"}}
-items[21488] = {id=21488,name="Fetish of Chitinous Spikes",obtain={NpcID=15370,NpcName="Buru the Gorger",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=37.4,Zone="Ruins of Ahn'Qiraj"}}
-items[14557] = {id=14557,name="The Lion Horn of Stormwind",obtain={NpcID=9819,NpcName="Blackhand Veteran",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackrock Spire"}}
-items[2802] = {id=2802,name="Blazing Emblem",obtain={NpcID=2447,NpcName="Narillasanz",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0.2,Zone="Alterac Mountains"}}
-items[10716] = {id=10716,name="Gnomish Shrink Ray",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12899,DropChance=0,Zone=""}}
-items[2922] = {id=2922,name="Spirit Relic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3005] = {id=3005,name="Relic of Truth",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[2921] = {id=2921,name="Blessed Relic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3004] = {id=3004,name="Relic of the Dead",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32493] = {id=32493,name="Ashtongue Talisman of Shadows",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34576] = {id=34576,name="Battlemaster's Cruelty",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34579] = {id=34579,name="Battlemaster's Audacity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[13213] = {id=13213,name="Smolderweb's Eye",obtain={NpcID=10596,NpcName="Mother Smolderweb",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=13.7,Zone="Blackrock Spire"}}
-items[21115] = {id=21115,name="Defiler's Talisman",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[32491] = {id=32491,name="Ashtongue Talisman of Vision",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34163] = {id=34163,name="Battlemaster's Cruelty",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25798] = {id=25798,name="130 Epic Warrior Trinket",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[25786] = {id=25786,name="Hypnotist's Watch",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=9351,Recipe=false,RecipeID=0,DropChance=0,Zone="Hellfire Peninsula"}}
-items[17082] = {id=17082,name="Shard of the Flame",obtain={NpcID=11502,NpcName="Ragnaros",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=8.8,Zone="Molten Core"}}
-items[35485] = {id=35485,name="Goblin Rocket Launcher [PH]",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19930] = {id=19930,name="Mar'li's Eye",obtain={NpcID=14510,NpcName="High Priestess Mar'li",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.4,Zone="Zul'Gurub"}}
-items[2920] = {id=2920,name="Sacred Relic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3003] = {id=3003,name="Relic of the Eye",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[18864] = {id=18864,name="Insignia of the Alliance",obtain={NpcID=12805,NpcName="Officer Areyn (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Stormwind City"}}
-items[34162] = {id=34162,name="Battlemaster's Depravity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[27416] = {id=27416,name="Fetish of the Fallen",obtain={NpcID=18373,NpcName="Exarch Maladaar",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=14.2,Zone="Auchenai Crypts"}}
-items[21181] = {id=21181,name="Grace of Earth",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=8572,Recipe=false,RecipeID=0,DropChance=0,Zone="Silithus"}}
-items[19952] = {id=19952,name="Gri'lek's Charm of Valor",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24285,DropChance=0,Zone=""}}
-items[15867] = {id=15867,name="Prismcharm",obtain={NpcID=0,NpcName="",Kill=false,Quest=true,QuestID=4867,Recipe=false,RecipeID=0,DropChance=0,Zone="Blackrock Spire"}}
-items[4030] = {id=4030,name="Holy Relic Water",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[10585] = {id=10585,name="Goblin Radio",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=12722,DropChance=0,Zone=""}}
-items[2923] = {id=2923,name="Relic of Righteousness",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3006] = {id=3006,name="Holy Relic Shard",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19951] = {id=19951,name="Gri'lek's Charm of Might",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=24289,DropChance=0,Zone=""}}
-items[13382] = {id=13382,name="Cannonball Runner",obtain={NpcID=10997,NpcName="Cannon Master Willey",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=18.3,Zone="Stratholme"}}
-items[20084] = {id=20084,name="Hunting Net",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4032] = {id=4032,name="Radiant Relic Hammer",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4033] = {id=4033,name="Dawn's Glow",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[4031] = {id=4031,name="Hallowed Relic Charm",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3788] = {id=3788,name="Soul Crystal Relic",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3791] = {id=3791,name="Relic of the Light",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[24420] = {id=24420,name="Unique Equippable Test Item",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3789] = {id=3789,name="Relic Stone of Piety",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3790] = {id=3790,name="Consecrated Relic Parchment",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21120] = {id=21120,name="Defiler's Talisman",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[2919] = {id=2919,name="Relic of the Ancients",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[3002] = {id=3002,name="Relic Horn of Justice",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34577] = {id=34577,name="Battlemaster's Depravity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19340] = {id=19340,name="Rune of Metamorphosis",obtain={NpcID=13020,NpcName="Vaelastrasz the Corrupt",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=33.2,Zone="Blackwing Lair"}}
-items[28798] = {id=28798,name="Badge of the Protector",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[17744] = {id=17744,name="Heart of Noxxion",obtain={NpcID=13282,NpcName="Noxxion",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=35.9,Zone="Maraudon"}}
-items[8663] = {id=8663,name="Mithril Insignia",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[7506] = {id=7506,name="Gnomish Universal Remote",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=true,RecipeID=9269,DropChance=0,Zone=""}}
-items[31360] = {id=31360,name="Unfinished Headpiece",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[19342] = {id=19342,name="Venomous Totem",obtain={NpcID=12017,NpcName="Broodlord Lashlayer",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=31.8,Zone="Blackwing Lair"}}
-items[34626] = {id=34626,name="Prototype Tonk Controller",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21116] = {id=21116,name="Defiler's Talisman",obtain={NpcID=15126,NpcName="Rutherford Twing (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[23714] = {id=23714,name="Perpetual Purple Firework",obtain={NpcID=0,NpcName="",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[35327] = {id=35327,name="Battlemaster's Alacrity",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[32694] = {id=32694,name="Overseer's Badge",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[34580] = {id=34580,name="Battlemaster's Perseverance",obtain={NpcID=0,NpcName="Unknown acquisition method",Kill=false,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=0,Zone=""}}
-items[21119] = {id=21119,name="Talisman of Arathor",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
-items[21118] = {id=21118,name="Talisman of Arathor",obtain={NpcID=15127,NpcName="Samuel Hawke (Purchase)",Kill=true,Quest=false,QuestID=0,Recipe=false,RecipeID=0,DropChance=100,Zone="Arathi Highlands"}}
+items[34424] = {id=34424,name="Power of the High Chief",source={ID=5128,SourceName="",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
+items[34423] = {id=34423,name="Strength of the High Chief",source={ID=5128,SourceName="",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
+items[28830] = {id=28830,name="Dragonspine Trophy",source={ID=19044,SourceName="Gruul the Dragonkiller",SourceType="Kill",DropChance="12.8",Zone="Gruul's Lair"}}
+items[29383] = {id=29383,name="Bloodlust Brooch",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[23836] = {id=23836,name="Goblin Rocket Launcher",source={ID=30563,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27529] = {id=27529,name="Figurine of the Colossus",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="66.6",Zone="The Shattered Halls"}}
+items[29370] = {id=29370,name="Icon of the Silver Crescent",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28785] = {id=28785,name="The Lightning Capacitor",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
+items[28789] = {id=28789,name="Eye of Magtheridon",source={ID=17257,SourceName="Magtheridon",SourceType="Kill",DropChance="10.8",Zone="Magtheridon's Lair"}}
+items[28034] = {id=28034,name="Hourglass of the Unraveller",source={ID=17880,SourceName="Temporus",SourceType="Kill",DropChance="15.6",Zone="The Black Morass"}}
+items[24128] = {id=24128,name="Figurine - Nightseye Panther",source={ID=31083,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31858] = {id=31858,name="Darkmoon Card: Vengeance",source={ID=10940,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[28288] = {id=28288,name="Abacus of Violent Odds",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="66.6",Zone="The Mechanar"}}
+items[27683] = {id=27683,name="Quagmirran's Eye",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="10.8",Zone="The Slave Pens"}}
+items[31856] = {id=31856,name="Darkmoon Card: Crusade",source={ID=10938,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[35702] = {id=35702,name="Figurine - Shadowsong Panther",source={ID=46778,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11122] = {id=11122,name="Carrot on a Stick",source={ID=2770,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Farrak"}}
+items[18665] = {id=18665,name="The Eye of Shadow",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="97.5",Zone="Searing Gorge"}}
+items[28823] = {id=28823,name="Eye of Gruul",source={ID=19044,SourceName="Gruul the Dragonkiller",SourceType="Kill",DropChance="12.3",Zone="Gruul's Lair"}}
+items[19337] = {id=19337,name="The Black Book",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="20.1",Zone="Blackwing Lair"}}
+items[29376] = {id=29376,name="Essence of the Martyr",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[19288] = {id=19288,name="Darkmoon Card: Blue Dragon",source={ID=7907,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[28370] = {id=28370,name="Bangle of Endless Blessings",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
+items[25653] = {id=25653,name="Riding Crop",source={ID=32461,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29132] = {id=29132,name="Scryer's Bloodgem",source={ID=19331,SourceName="Quartermaster Enuril",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[185987] = {id=185987,name="Communal Stone of Wisdom",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32658] = {id=32658,name="Badge of Tenacity",source={ID=40744,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11815] = {id=11815,name="Hand of Justice",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="15.1",Zone="Blackrock Depths"}}
+items[23207] = {id=23207,name="Mark of the Champion",source={ID=9120,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[28579] = {id=28579,name="Romulo's Poison Vial",source={ID=17534,SourceName="Julianne",SourceType="Kill",DropChance="29.0",Zone="Karazhan"}}
+items[31859] = {id=31859,name="Darkmoon Card: Madness",source={ID=10941,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[28727] = {id=28727,name="Pendant of the Violet Eye",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="28.5",Zone="Karazhan"}}
+items[9149] = {id=9149,name="Philosopher's Stone",source={ID=11459,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29387] = {id=29387,name="Gnomeregan Auto-Blocker 600",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30627] = {id=30627,name="Tsunami Talisman",source={ID=21215,SourceName="Leotheras the Blind",SourceType="Kill",DropChance="21.1",Zone="Serpentshrine Cavern"}}
+items[28590] = {id=28590,name="Ribbon of Sacrifice",source={ID=17533,SourceName="Romulo",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
+items[35750] = {id=35750,name="Redeemer's Alchemist Stone",source={ID=47049,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28528] = {id=28528,name="Moroes' Lucky Pocket Watch",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="18.7",Zone="Karazhan"}}
+items[28190] = {id=28190,name="Scarab of the Infinite Cycle",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="10.3",Zone="The Black Morass"}}
+items[23206] = {id=23206,name="Mark of the Champion",source={ID=9120,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[23835] = {id=23835,name="Gnomish Poultryizer",source={ID=30569,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19339] = {id=19339,name="Mind Quickening Gem",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="35.7",Zone="Blackwing Lair"}}
+items[19379] = {id=19379,name="Neltharion's Tear",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="30.1",Zone="Blackwing Lair"}}
+items[1404] = {id=1404,name="Tidal Charm",source={ID=2779,SourceName="Prince Nazjak",SourceType="Kill",DropChance="56.4",Zone="Arathi Highlands"}}
+items[24126] = {id=24126,name="Figurine - Living Ruby Serpent",source={ID=31081,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19431] = {id=19431,name="Styleen's Impeding Scarab",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="32.4",Zone="Blackwing Lair"}}
+items[10725] = {id=10725,name="Gnomish Battle Chicken",source={ID=12906,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19289] = {id=19289,name="Darkmoon Card: Maelstrom",source={ID=7929,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[27921] = {id=27921,name="Mark of Conquest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32483] = {id=32483,name="The Skull of Gul'dan",source={ID=22917,SourceName="Illidan Stormrage",SourceType="Kill",DropChance="43.9",Zone="Black Temple"}}
+items[17774] = {id=17774,name="Mark of the Chosen",source={ID=7067,SourceName="",SourceType="Quest",DropChance="0",Zone="Maraudon"}}
+items[30841] = {id=30841,name="Lower City Prayerbook",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[21756] = {id=21756,name="Figurine - Golden Hare",source={ID=26873,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[185985] = {id=185985,name="Communal Stone of Onslaught",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28121] = {id=28121,name="Icon of Unyielding Courage",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="5.5",Zone="The Blood Furnace"}}
+items[30300] = {id=30300,name="Dabiri's Enigma",source={ID=10439,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[18852] = {id=18852,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[21769] = {id=21769,name="Figurine - Ruby Serpent",source={ID=26900,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12930] = {id=12930,name="Briarwood Reed",source={ID=10509,SourceName="Jed Runewatcher",SourceType="Kill",DropChance="30.3",Zone="Blackrock Spire"}}
+items[19992] = {id=19992,name="Devilsaur Tooth",source={ID=8232,SourceName="",SourceType="Quest",DropChance="0",Zone="Hunter"}}
+items[22954] = {id=22954,name="Kiss of the Spider",source={ID=15952,SourceName="Maexxna",SourceType="Kill",DropChance="19.1",Zone="Naxxramas"}}
+items[21748] = {id=21748,name="Figurine - Jade Owl",source={ID=26872,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2820] = {id=2820,name="Nifty Stopwatch",source={ID=778,SourceName="",SourceType="Quest",DropChance="0",Zone="Badlands"}}
+items[19406] = {id=19406,name="Drake Fang Talisman",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="32.9",Zone="Blackwing Lair"}}
+items[21180] = {id=21180,name="Earthstrike",source={ID=8573,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[20130] = {id=20130,name="Diamond Flask",source={ID=8425,SourceName="",SourceType="Quest",DropChance="0",Zone="Warrior"}}
+items[23047] = {id=23047,name="Eye of the Dead",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="58.9",Zone="Naxxramas"}}
+items[34472] = {id=34472,name="Shard of Contempt",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="8.5",Zone="Magisters' Terrace"}}
+items[25829] = {id=25829,name="Talisman of the Alliance",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[21758] = {id=21758,name="Figurine - Black Pearl Panther",source={ID=26875,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35749] = {id=35749,name="Sorcerer's Alchemist Stone",source={ID=47048,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13544] = {id=13544,name="Spectral Essence",source={ID=17672,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11302] = {id=11302,name="Uther's Strength",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[12846] = {id=12846,name="Argent Dawn Commission",source={ID=17777,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34427] = {id=34427,name="Blackened Naaru Sliver",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="33.9",Zone="Sunwell Plateau"}}
+items[19395] = {id=19395,name="Rejuvenating Gem",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="12.8",Zone="Blackwing Lair"}}
+items[21670] = {id=21670,name="Badge of the Swarmguard",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="19.9",Zone="Ahn'Qiraj"}}
+items[27922] = {id=27922,name="Mark of Defiance",source={ID=18581,SourceName="Alliance Field Scout",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[19950] = {id=19950,name="Zandalarian Hero Charm",source={ID=8183,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[4130] = {id=4130,name="Smotts' Compass",source={ID=618,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[23046] = {id=23046,name="The Restrained Essence of Sapphiron",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="27.5",Zone="Naxxramas"}}
+items[32505] = {id=32505,name="Madness of the Betrayer",source={ID=22950,SourceName="High Nethermancer Zerevor",SourceType="Kill",DropChance="21.3",Zone="Unknown"}}
+items[13209] = {id=13209,name="Seal of the Dawn",source={ID=24179,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27891] = {id=27891,name="Adamantine Figurine",source={ID=18667,SourceName="Blackheart the Inciter",SourceType="Kill",DropChance="16.6",Zone="Shadow Labyrinth"}}
+items[29776] = {id=29776,name="Core of Ar'kelos",source={ID=10176,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[19024] = {id=19024,name="Arena Grand Master",source={ID=7838,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[24125] = {id=24125,name="Figurine - Dawnstone Crab",source={ID=31080,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33831] = {id=33831,name="Berserker's Call",source={ID=23863,SourceName="Zul'jin",SourceType="Kill",DropChance="15.0",Zone="Unknown"}}
+items[27770] = {id=27770,name="Argussian Compass",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
+items[11810] = {id=11810,name="Force of Will",source={ID=9033,SourceName="General Angerforge",SourceType="Kill",DropChance="10.4",Zone="Blackrock Depths"}}
+items[33829] = {id=33829,name="Hex Shrunken Head",source={ID=24239,SourceName="Hex Lord Malacrass",SourceType="Kill",DropChance="11.1",Zone="Unknown"}}
+items[10455] = {id=10455,name="Chained Essence of Eranikus",source={ID=3373,SourceName="",SourceType="Quest",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
+items[30340] = {id=30340,name="Starkiller's Bauble",source={ID=10413,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[21625] = {id=21625,name="Scarab Brooch",source={ID=15299,SourceName="Viscidus",SourceType="Kill",DropChance="18.1",Zone="Ahn'Qiraj"}}
+items[35700] = {id=35700,name="Figurine - Crimson Serpent",source={ID=46777,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30664] = {id=30664,name="Living Root of the Wildheart",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="23.2",Zone="Serpentshrine Cavern"}}
+items[29181] = {id=29181,name="Timelapse Shard",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[23040] = {id=23040,name="Glyph of Deflection",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="31.4",Zone="Naxxramas"}}
+items[23041] = {id=23041,name="Slayer's Crest",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="35.9",Zone="Naxxramas"}}
+items[18467] = {id=18467,name="Royal Seal of Eldre'Thalas",source={ID=7502,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[19991] = {id=19991,name="Devilsaur Eye",source={ID=8232,SourceName="",SourceType="Quest",DropChance="0",Zone="Hunter"}}
+items[28418] = {id=28418,name="Shiffar's Nexus-Horn",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="16.2",Zone="The Arcatraz"}}
+items[24390] = {id=24390,name="Auslese's Light Channeler",source={ID=17380,SourceName="Broggok",SourceType="Kill",DropChance="6.6",Zone="The Blood Furnace"}}
+items[1973] = {id=1973,name="Orb of Deception",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[18854] = {id=18854,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[16022] = {id=16022,name="Arcanite Dragonling",source={ID=19830,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25634] = {id=25634,name="Oshu'gun Relic",source={ID=9900,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[19287] = {id=19287,name="Darkmoon Card: Heroism",source={ID=7928,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[27920] = {id=27920,name="Mark of Conquest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18858] = {id=18858,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[18470] = {id=18470,name="Royal Seal of Eldre'Thalas",source={ID=7506,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[18473] = {id=18473,name="Royal Seal of Eldre'Thalas",source={ID=7503,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[27896] = {id=27896,name="Alembic of Infernal Power",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
+items[22678] = {id=22678,name="Talisman of Ascendance",source={ID=9222,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[18646] = {id=18646,name="The Eye of Divinity",source={ID=12018,SourceName="Majordomo Executus",SourceType="Kill",DropChance="5.0",Zone="Molten Core"}}
+items[30720] = {id=30720,name="Serpent-Coil Braid",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="32.0",Zone="Serpentshrine Cavern"}}
+items[19141] = {id=19141,name="Luffa",source={ID=7727,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[7734] = {id=7734,name="Six Demon Bag",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[32496] = {id=32496,name="Memento of Tyrande",source={ID=22917,SourceName="Illidan Stormrage",SourceType="Kill",DropChance="39.2",Zone="Black Temple"}}
+items[31857] = {id=31857,name="Darkmoon Card: Wrath",source={ID=10939,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[24551] = {id=24551,name="Talisman of the Horde",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32863] = {id=32863,name="Skybreaker Whip",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18465] = {id=18465,name="Royal Seal of Eldre'Thalas",source={ID=7498,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[34470] = {id=34470,name="Timbal's Focusing Crystal",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="8.6",Zone="Magisters' Terrace"}}
+items[27926] = {id=27926,name="Mark of Vindication",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30450] = {id=30450,name="Warp-Spring Coil",source={ID=19516,SourceName="Void Reaver",SourceType="Kill",DropChance="3.2",Zone="Tempest Keep"}}
+items[30626] = {id=30626,name="Sextant of Unstable Currents",source={ID=21214,SourceName="Fathom-Lord Karathress",SourceType="Kill",DropChance="16.2",Zone="Serpentshrine Cavern"}}
+items[19812] = {id=19812,name="Rune of the Dawn",source={ID=24201,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34429] = {id=34429,name="Shifting Naaru Sliver",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="35.4",Zone="Sunwell Plateau"}}
+items[19954] = {id=19954,name="Renataki's Charm of Trickery",source={ID=24281,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11905] = {id=11905,name="Linken's Boomerang",source={ID=3962,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[30449] = {id=30449,name="Void Star Talisman",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="32.7",Zone="Tempest Keep"}}
+items[24127] = {id=24127,name="Figurine - Talasite Owl",source={ID=31082,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29179] = {id=29179,name="Xi'ri's Gift",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31113] = {id=31113,name="Violet Badge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24124] = {id=24124,name="Figurine - Felsteel Boar",source={ID=31079,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27924] = {id=27924,name="Mark of Defiance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21784] = {id=21784,name="Figurine - Black Diamond Crab",source={ID=26912,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[32481] = {id=32481,name="Charm of Swift Flight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28223] = {id=28223,name="Arcanist's Stone",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="20.8",Zone="Old Hillsbrad Foothills"}}
+items[18984] = {id=18984,name="Dimensional Ripper - Everlook",source={ID=23486,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10659] = {id=10659,name="Shard of Afrasa",source={ID=2701,SourceName="",SourceType="Quest",DropChance="0",Zone="Blasted Lands"}}
+items[21763] = {id=21763,name="Figurine - Truesilver Boar",source={ID=26882,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18469] = {id=18469,name="Royal Seal of Eldre'Thalas",source={ID=7504,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[18815] = {id=18815,name="Essence of the Pure Flame",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="37.1",Zone="Molten Core"}}
+items[21789] = {id=21789,name="Figurine - Dark Iron Scorpid",source={ID=26914,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30621] = {id=30621,name="Prism of Inner Calm",source={ID=21212,SourceName="Lady Vashj",SourceType="Kill",DropChance="18.6",Zone="Serpentshrine Cavern"}}
+items[32864] = {id=32864,name="Commander's Badge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19344] = {id=19344,name="Natural Alignment Crystal",source={ID=11983,SourceName="Firemaw",SourceType="Kill",DropChance="11.9",Zone="Blackwing Lair"}}
+items[19290] = {id=19290,name="Darkmoon Card: Twisting Nether",source={ID=7927,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[21647] = {id=21647,name="Fetish of the Sand Reaver",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="23.0",Zone="Ahn'Qiraj"}}
+items[30446] = {id=30446,name="Solarian's Sapphire",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="30.6",Zone="Tempest Keep"}}
+items[23001] = {id=23001,name="Eye of Diminution",source={ID=15928,SourceName="Thaddius",SourceType="Kill",DropChance="34.6",Zone="Naxxramas"}}
+items[19953] = {id=19953,name="Renataki's Charm of Beasts",source={ID=24280,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11811] = {id=11811,name="Smoking Heart of the Mountain",source={ID=15596,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19990] = {id=19990,name="Blessed Prayer Beads",source={ID=8257,SourceName="",SourceType="Quest",DropChance="0",Zone="Priest"}}
+items[33046] = {id=33046,name="Insignia of PvP Pwn",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30665] = {id=30665,name="Earring of Soulful Meditation",source={ID=21217,SourceName="The Lurker Below",SourceType="Kill",DropChance="20.2",Zone="Serpentshrine Cavern"}}
+items[35694] = {id=35694,name="Figurine - Khorium Boar",source={ID=46776,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18849] = {id=18849,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[22321] = {id=22321,name="Heart of Wyrmthalak",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="14.8",Zone="Blackrock Spire"}}
+items[10645] = {id=10645,name="Gnomish Death Ray",source={ID=12759,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19341] = {id=19341,name="Lifegiving Gem",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="28.7",Zone="Blackwing Lair"}}
+items[18820] = {id=18820,name="Talisman of Ephemeral Power",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="11.2",Zone="Molten Core"}}
+items[32654] = {id=32654,name="Crystalforged Trinket",source={ID=23428,SourceName="Jho'nass",SourceType="Purchase",DropChance="100",Zone="Blade's Edge Mountains"}}
+items[18986] = {id=18986,name="Ultrasafe Transporter: Gadgetzan",source={ID=23489,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[32492] = {id=32492,name="Ashtongue Talisman of Lethality",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32501] = {id=32501,name="Shadowmoon Insignia",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="14.6",Zone="Black Temple"}}
+items[19959] = {id=19959,name="Hazza'rah's Charm of Magic",source={ID=24282,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30619] = {id=30619,name="Fel Reaver's Piston",source={ID=19516,SourceName="Void Reaver",SourceType="Kill",DropChance="2.7",Zone="Tempest Keep"}}
+items[29593] = {id=29593,name="Insignia of the Alliance",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[34471] = {id=34471,name="Vial of the Sunwell",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="8.5",Zone="Magisters' Terrace"}}
+items[26055] = {id=26055,name="Oculus of the Hidden Eye",source={ID=18371,SourceName="Shirrak the Dead Watcher",SourceType="Kill",DropChance="12.5",Zone="Auchenai Crypts"}}
+items[21777] = {id=21777,name="Figurine - Emerald Owl",source={ID=26909,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21565] = {id=21565,name="Rune of Perfection",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[21760] = {id=21760,name="Figurine - Truesilver Crab",source={ID=26881,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[32534] = {id=32534,name="Brooch of the Immortal King",source={ID=21838,SourceName="Terokk",SourceType="Kill",DropChance="10.5",Zone="Unknown"}}
+items[34473] = {id=34473,name="Commendation of Kael'thas",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="8.8",Zone="Magisters' Terrace"}}
+items[11832] = {id=11832,name="Burst of Knowledge",source={ID=9156,SourceName="Ambassador Flamelash",SourceType="Kill",DropChance="9.6",Zone="Blackrock Depths"}}
+items[18857] = {id=18857,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[19343] = {id=19343,name="Scrolls of Blinding Light",source={ID=11983,SourceName="Firemaw",SourceType="Kill",DropChance="18.3",Zone="Blackwing Lair"}}
+items[18706] = {id=18706,name="Arena Master",source={ID=179697,SourceName="Arena Treasure Chest",SourceType="Container",DropChance="96.5",Zone="Stranglethorn Vale"}}
+items[38289] = {id=38289,name="Coren's Lucky Coin",source={ID=23872,SourceName="Coren Direbrew",SourceType="Kill",DropChance="25.0",Zone="Unknown"}}
+items[185986] = {id=185986,name="Communal Stone of Durability",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10577] = {id=10577,name="Goblin Mortar",source={ID=12716,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30629] = {id=30629,name="Scarab of Displacement",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="30.0",Zone="Serpentshrine Cavern"}}
+items[38290] = {id=38290,name="Dark Iron Smoking Pipe",source={ID=23872,SourceName="Coren Direbrew",SourceType="Kill",DropChance="18.2",Zone="Unknown"}}
+items[18370] = {id=18370,name="Vigilance Charm",source={ID=11496,SourceName="Immol'thar",SourceType="Kill",DropChance="8.6",Zone="Dire Maul"}}
+items[18639] = {id=18639,name="Ultra-Flash Shadow Reflector",source={ID=23082,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18846] = {id=18846,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[28108] = {id=28108,name="Power Infused Mushroom",source={ID=9719,SourceName="",SourceType="Quest",DropChance="0",Zone="The Underbog"}}
+items[19947] = {id=19947,name="Nat Pagle's Broken Reel",source={ID=15114,SourceName="Gahz'ranka",SourceType="Kill",DropChance="39.0",Zone="Zul'Gurub"}}
+items[19958] = {id=19958,name="Hazza'rah's Charm of Healing",source={ID=24284,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25628] = {id=25628,name="Ogre Mauler's Badge",source={ID=9916,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[185988] = {id=185988,name="Communal Stone of Stoicism",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10720] = {id=10720,name="Gnomish Net-o-Matic Projector",source={ID=12902,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20534] = {id=20534,name="Abyss Shard",source={ID=8422,SourceName="",SourceType="Quest",DropChance="0",Zone="Warlock"}}
+items[30448] = {id=30448,name="Talon of Al'ar",source={ID=19514,SourceName="Al'ar",SourceType="Kill",DropChance="32.2",Zone="Tempest Keep"}}
+items[30620] = {id=30620,name="Spyglass of the Hidden Fleet",source={ID=21218,SourceName="Vashj'ir Honor Guard",SourceType="Kill",DropChance="1.2",Zone="Unknown"}}
+items[23570] = {id=23570,name="Jom Gabbar",source={ID=15517,SourceName="Ouro",SourceType="Kill",DropChance="18.7",Zone="Ahn'Qiraj"}}
+items[30447] = {id=30447,name="Tome of Fiery Redemption",source={ID=19514,SourceName="Al'ar",SourceType="Kill",DropChance="28.2",Zone="Tempest Keep"}}
+items[24376] = {id=24376,name="Runed Fungalcap",source={ID=17991,SourceName="Rokmar the Crackler",SourceType="Kill",DropChance="25.0",Zone="The Slave Pens"}}
+items[34428] = {id=34428,name="Steely Naaru Sliver",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="31.5",Zone="Sunwell Plateau"}}
+items[1713] = {id=1713,name="Ankh of Life",source={ID=669,SourceName="Skullsplitter Hunter",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
+items[8703] = {id=8703,name="Signet of Expertise",source={ID=2765,SourceName="",SourceType="Quest",DropChance="0",Zone="Blacksmithing"}}
+items[4381] = {id=4381,name="Minor Recombobulator",source={ID=3952,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18834] = {id=18834,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[23027] = {id=23027,name="Warmth of Forgiveness",source={ID=181366,SourceName="Four Horsemen Chest",SourceType="Container",DropChance="13.9",Zone="Naxxramas"}}
+items[18537] = {id=18537,name="Counterattack Lodestone",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="1.1",Zone="Dire Maul"}}
+items[21326] = {id=21326,name="Defender of the Timbermaw",source={ID=8481,SourceName="",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
+items[34430] = {id=34430,name="Glimmering Naaru Sliver",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="32.2",Zone="Sunwell Plateau"}}
+items[19955] = {id=19955,name="Wushoolay's Charm of Nature",source={ID=24279,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18468] = {id=18468,name="Royal Seal of Eldre'Thalas",source={ID=7500,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[20636] = {id=20636,name="Hibernation Crystal",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="9.3",Zone="Duskwood"}}
+items[10418] = {id=10418,name="Glimmering Mithril Insignia",source={ID=3321,SourceName="",SourceType="Quest",DropChance="0",Zone="Blacksmithing"}}
+items[25633] = {id=25633,name="Uniting Charm",source={ID=9924,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[27927] = {id=27927,name="Mark of Vindication",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19336] = {id=19336,name="Arcane Infused Gem",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="19.6",Zone="Blackwing Lair"}}
+items[19948] = {id=19948,name="Zandalarian Hero Badge",source={ID=8183,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[22268] = {id=22268,name="Draconic Infused Emblem",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="7.6",Zone="Blackrock Spire"}}
+items[10779] = {id=10779,name="Demon's Blood",source={ID=3628,SourceName="",SourceType="Quest",DropChance="0",Zone="Blasted Lands"}}
+items[10727] = {id=10727,name="Goblin Dragon Gun",source={ID=12908,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34050] = {id=34050,name="Battlemaster's Perseverance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34578] = {id=34578,name="Battlemaster's Determination",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29877] = {id=29877,name="Indalamar's Trinket of Pwnage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30663] = {id=30663,name="Fathom-Brooch of the Tidewalker",source={ID=21214,SourceName="Fathom-Lord Karathress",SourceType="Kill",DropChance="14.1",Zone="Serpentshrine Cavern"}}
+items[21473] = {id=21473,name="Eye of Moam",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="33.2",Zone="Ruins of Ahn'Qiraj"}}
+items[19979] = {id=19979,name="Hook of the Master Angler",source={ID=8193,SourceName="",SourceType="Quest",DropChance="0",Zone="Fishing"}}
+items[18634] = {id=18634,name="Gyrofreeze Ice Reflector",source={ID=23077,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38287] = {id=38287,name="Empty Mug of Direbrew",source={ID=23872,SourceName="Coren Direbrew",SourceType="Kill",DropChance="18.3",Zone="Unknown"}}
+items[32770] = {id=32770,name="Skyguard Silver Cross",source={ID=23367,SourceName="Grella",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
+items[30542] = {id=30542,name="Dimensional Ripper - Area 52",source={ID=36954,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18851] = {id=18851,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[27828] = {id=27828,name="Warp-Scarab Brooch",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="14.8",Zone="Mana-Tombs"}}
+items[31617] = {id=31617,name="Ancient Draenei War Talisman",source={ID=10842,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[25994] = {id=25994,name="Rune of Force",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25995] = {id=25995,name="Star of Sha'naar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17064] = {id=17064,name="Shard of the Scale",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="8.4",Zone="Unknown"}}
+items[30544] = {id=30544,name="Ultrasafe Transporter: Toshley's Station",source={ID=36955,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18850] = {id=18850,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[21685] = {id=21685,name="Petrified Scarab",source={ID=15511,SourceName="Lord Kri",SourceType="Kill",DropChance="43.0",Zone="Ahn'Qiraj"}}
+items[21891] = {id=21891,name="Shard of the Fallen Star",source={ID=15240,SourceName="Vekniss Hive Crawler",SourceType="Kill",DropChance="0.6",Zone="Ahn'Qiraj"}}
+items[12805] = {id=12805,name="Orb of Fire",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4397] = {id=4397,name="Gnomish Cloaking Device",source={ID=3971,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21566] = {id=21566,name="Rune of Perfection",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[29592] = {id=29592,name="Insignia of the Horde",source={ID=12793,SourceName="Brave Stonehide",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[32487] = {id=32487,name="Ashtongue Talisman of Swiftness",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35693] = {id=35693,name="Figurine - Empyrean Tortoise",source={ID=46775,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35703] = {id=35703,name="Figurine - Seaspray Albatross",source={ID=46779,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38288] = {id=38288,name="Direbrew Hops",source={ID=23872,SourceName="Coren Direbrew",SourceType="Kill",DropChance="20.7",Zone="Unknown"}}
+items[23558] = {id=23558,name="The Burrower's Shell",source={ID=15517,SourceName="Ouro",SourceType="Kill",DropChance="20.4",Zone="Ahn'Qiraj"}}
+items[21567] = {id=21567,name="Rune of Duty",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[19949] = {id=19949,name="Zandalarian Hero Medallion",source={ID=8183,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[18466] = {id=18466,name="Royal Seal of Eldre'Thalas",source={ID=7499,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[13515] = {id=13515,name="Ramstein's Lightning Bolts",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="12.3",Zone="Stratholme"}}
+items[18637] = {id=18637,name="Major Recombobulator",source={ID=23079,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20036] = {id=20036,name="Fire Ruby",source={ID=8253,SourceName="",SourceType="Quest",DropChance="0",Zone="Mage"}}
+items[32489] = {id=32489,name="Ashtongue Talisman of Zeal",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37127] = {id=37127,name="Brightbrew Charm",source={ID=23872,SourceName="Coren Direbrew",SourceType="Kill",DropChance="6.6",Zone="Unknown"}}
+items[35751] = {id=35751,name="Assassin's Alchemist Stone",source={ID=47050,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31615] = {id=31615,name="Ancient Draenei Arcane Relic",source={ID=10842,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[5079] = {id=5079,name="Cold Basilisk Eye",source={ID=690,SourceName="Cold Eye Basilisk",SourceType="Kill",DropChance="1.2",Zone="Stranglethorn Vale"}}
+items[18856] = {id=18856,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[18862] = {id=18862,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[34049] = {id=34049,name="Battlemaster's Audacity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11819] = {id=11819,name="Second Wind",source={ID=8983,SourceName="Golem Lord Argelmach",SourceType="Kill",DropChance="8.9",Zone="Blackrock Depths"}}
+items[33828] = {id=33828,name="Tome of Diabolic Remedy",source={ID=24239,SourceName="Hex Lord Malacrass",SourceType="Kill",DropChance="12.1",Zone="Unknown"}}
+items[10587] = {id=10587,name="Goblin Bomb Dispenser",source={ID=12755,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18859] = {id=18859,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[34029] = {id=34029,name="Tiny Voodoo Mask",source={ID=24239,SourceName="Hex Lord Malacrass",SourceType="Kill",DropChance="29.0",Zone="Unknown"}}
+items[30293] = {id=30293,name="Heavenly Inspiration",source={ID=10440,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[13164] = {id=13164,name="Heart of the Scale",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="1.0",Zone="Blackrock Spire"}}
+items[18853] = {id=18853,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[35748] = {id=35748,name="Guardian's Alchemist Stone",source={ID=47046,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[28109] = {id=28109,name="Essence Infused Mushroom",source={ID=9719,SourceName="",SourceType="Quest",DropChance="0",Zone="The Underbog"}}
+items[20072] = {id=20072,name="Defiler's Talisman",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[18371] = {id=18371,name="Mindtap Talisman",source={ID=11487,SourceName="Magister Kalendris",SourceType="Kill",DropChance="8.6",Zone="Dire Maul"}}
+items[18638] = {id=18638,name="Hyper-Radiant Flame Reflector",source={ID=23081,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10576] = {id=10576,name="Mithril Mechanical Dragonling",source={ID=12624,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4396] = {id=4396,name="Mechanical Dragonling",source={ID=3969,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[32490] = {id=32490,name="Ashtongue Talisman of Acumen",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33832] = {id=33832,name="Battlemaster's Determination",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35326] = {id=35326,name="Battlemaster's Alacrity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37128] = {id=37128,name="Balebrew Charm",source={ID=23872,SourceName="Coren Direbrew",SourceType="Kill",DropChance="6.0",Zone="Unknown"}}
+items[13379] = {id=13379,name="Piccolo of the Flaming Fire",source={ID=10558,SourceName="Hearthsinger Forresten",SourceType="Kill",DropChance="17.7",Zone="Stratholme"}}
+items[32486] = {id=32486,name="Ashtongue Talisman of Equilibrium",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32782] = {id=32782,name="Time-Lost Figurine",source={ID=21838,SourceName="Terokk",SourceType="Kill",DropChance="6.6",Zone="Unknown"}}
+items[13171] = {id=13171,name="Smokey's Lighter",source={ID=5214,SourceName="",SourceType="Quest",DropChance="0",Zone="Stratholme"}}
+items[18354] = {id=18354,name="Pimgib's Collar",source={ID=14349,SourceName="Pimgib",SourceType="Kill",DropChance="24.2",Zone="Dire Maul"}}
+items[32485] = {id=32485,name="Ashtongue Talisman of Valor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19957] = {id=19957,name="Hazza'rah's Charm of Destruction",source={ID=24290,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20071] = {id=20071,name="Talisman of Arathor",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[32488] = {id=32488,name="Ashtongue Talisman of Insight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33830] = {id=33830,name="Ancient Aqir Artifact",source={ID=23863,SourceName="Zul'jin",SourceType="Kill",DropChance="16.2",Zone="Unknown"}}
+items[25996] = {id=25996,name="Emblem of Perseverance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[833] = {id=833,name="Lifestone",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
+items[21117] = {id=21117,name="Talisman of Arathor",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[21568] = {id=21568,name="Rune of Duty",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[23716] = {id=23716,name="Carved Ogre Idol",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19956] = {id=19956,name="Wushoolay's Charm of Spirits",source={ID=24288,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15873] = {id=15873,name="Ragged John's Neverending Cup",source={ID=4866,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Spire"}}
+items[18863] = {id=18863,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[23042] = {id=23042,name="Loatheb's Reflection",source={ID=16011,SourceName="Loatheb",SourceType="Kill",DropChance="26.3",Zone="Naxxramas"}}
+items[10723] = {id=10723,name="Gnomish Ham Radio",source={ID=12904,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27900] = {id=27900,name="Jewel of Charismatic Mystique",source={ID=18732,SourceName="Grandmaster Vorpil",SourceType="Kill",DropChance="14.2",Zone="Shadow Labyrinth"}}
+items[32771] = {id=32771,name="Airman's Ribbon of Gallantry",source={ID=23367,SourceName="Grella",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
+items[25787] = {id=25787,name="Charm of Alacrity",source={ID=9351,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[21579] = {id=21579,name="Vanquished Tentacle of C'Thun",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="21.1",Zone="Ahn'Qiraj"}}
+items[32695] = {id=32695,name="Captain's Badge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20525] = {id=20525,name="Earthen Sigil",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18438] = {id=18438,name="Sergeant's Mark",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18845] = {id=18845,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[19345] = {id=19345,name="Aegis of Preservation",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="41.3",Zone="Blackwing Lair"}}
+items[21488] = {id=21488,name="Fetish of Chitinous Spikes",source={ID=15370,SourceName="Buru the Gorger",SourceType="Kill",DropChance="37.4",Zone="Ruins of Ahn'Qiraj"}}
+items[14557] = {id=14557,name="The Lion Horn of Stormwind",source={ID=9819,SourceName="Blackhand Veteran",SourceType="Kill",DropChance="0",Zone="Blackrock Spire"}}
+items[2802] = {id=2802,name="Blazing Emblem",source={ID=2447,SourceName="Narillasanz",SourceType="Kill",DropChance="0.2",Zone="Alterac Mountains"}}
+items[10716] = {id=10716,name="Gnomish Shrink Ray",source={ID=12899,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2922] = {id=2922,name="Spirit Relic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3005] = {id=3005,name="Relic of Truth",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2921] = {id=2921,name="Blessed Relic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3004] = {id=3004,name="Relic of the Dead",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32493] = {id=32493,name="Ashtongue Talisman of Shadows",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34576] = {id=34576,name="Battlemaster's Cruelty",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34579] = {id=34579,name="Battlemaster's Audacity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13213] = {id=13213,name="Smolderweb's Eye",source={ID=10596,SourceName="Mother Smolderweb",SourceType="Kill",DropChance="13.7",Zone="Blackrock Spire"}}
+items[21115] = {id=21115,name="Defiler's Talisman",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[32491] = {id=32491,name="Ashtongue Talisman of Vision",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34163] = {id=34163,name="Battlemaster's Cruelty",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25798] = {id=25798,name="130 Epic Warrior Trinket",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25786] = {id=25786,name="Hypnotist's Watch",source={ID=9351,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[17082] = {id=17082,name="Shard of the Flame",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="8.7",Zone="Molten Core"}}
+items[35485] = {id=35485,name="Goblin Rocket Launcher [PH]",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19930] = {id=19930,name="Mar'li's Eye",source={ID=14510,SourceName="High Priestess Mar'li",SourceType="Kill",DropChance="18.4",Zone="Zul'Gurub"}}
+items[2920] = {id=2920,name="Sacred Relic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3003] = {id=3003,name="Relic of the Eye",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18864] = {id=18864,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[34162] = {id=34162,name="Battlemaster's Depravity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27416] = {id=27416,name="Fetish of the Fallen",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="14.2",Zone="Auchenai Crypts"}}
+items[21181] = {id=21181,name="Grace of Earth",source={ID=8572,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[19952] = {id=19952,name="Gri'lek's Charm of Valor",source={ID=24285,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[15867] = {id=15867,name="Prismcharm",source={ID=4867,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Spire"}}
+items[4030] = {id=4030,name="Holy Relic Water",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10585] = {id=10585,name="Goblin Radio",source={ID=12722,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2923] = {id=2923,name="Relic of Righteousness",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3006] = {id=3006,name="Holy Relic Shard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19951] = {id=19951,name="Gri'lek's Charm of Might",source={ID=24289,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13382] = {id=13382,name="Cannonball Runner",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="18.2",Zone="Stratholme"}}
+items[20084] = {id=20084,name="Hunting Net",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4032] = {id=4032,name="Radiant Relic Hammer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4033] = {id=4033,name="Dawn's Glow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4031] = {id=4031,name="Hallowed Relic Charm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3788] = {id=3788,name="Soul Crystal Relic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3791] = {id=3791,name="Relic of the Light",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24420] = {id=24420,name="Unique Equippable Test Item",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3789] = {id=3789,name="Relic Stone of Piety",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3790] = {id=3790,name="Consecrated Relic Parchment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21120] = {id=21120,name="Defiler's Talisman",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[2919] = {id=2919,name="Relic of the Ancients",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3002] = {id=3002,name="Relic Horn of Justice",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34577] = {id=34577,name="Battlemaster's Depravity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19340] = {id=19340,name="Rune of Metamorphosis",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="33.2",Zone="Blackwing Lair"}}
+items[28798] = {id=28798,name="Badge of the Protector",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17744] = {id=17744,name="Heart of Noxxion",source={ID=13282,SourceName="Noxxion",SourceType="Kill",DropChance="35.9",Zone="Maraudon"}}
+items[8663] = {id=8663,name="Mithril Insignia",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7506] = {id=7506,name="Gnomish Universal Remote",source={ID=9269,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[31360] = {id=31360,name="Unfinished Headpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19342] = {id=19342,name="Venomous Totem",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="31.8",Zone="Blackwing Lair"}}
+items[34626] = {id=34626,name="Prototype Tonk Controller",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21116] = {id=21116,name="Defiler's Talisman",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[23714] = {id=23714,name="Perpetual Purple Firework",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35327] = {id=35327,name="Battlemaster's Alacrity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32694] = {id=32694,name="Overseer's Badge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34580] = {id=34580,name="Battlemaster's Perseverance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21119] = {id=21119,name="Talisman of Arathor",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
+items[21118] = {id=21118,name="Talisman of Arathor",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 
 
 -- Name Data
