@@ -16,9 +16,9 @@ items[4334] = {id=4334,name="Formal White Shirt",source={ID=3871,SourceName="",S
 items[4335] = {id=4335,name="Rich Purple Silk Shirt",source={ID=3872,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14617] = {id=14617,name="Sawbones Shirt",source={ID=11261,SourceName="Doctor Theolen Krastinov",SourceType="Kill",DropChance="1.3",Zone="Scholomance"}}
 items[4333] = {id=4333,name="Dark Silk Shirt",source={ID=3870,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[5107] = {id=5107,name="Deckhand's Shirt",source={ID=3383,SourceName="Southsea Cutthroat",SourceType="Kill",DropChance="3.7",Zone="The Barrens"}}
+items[5107] = {id=5107,name="Deckhand's Shirt",source={ID=3383,SourceName="Southsea Cutthroat",SourceType="Kill",DropChance="3.6",Zone="The Barrens"}}
 items[17723] = {id=17723,name="Green Holiday Shirt",source={ID=21945,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[3342] = {id=3342,name="Captain Sander's Shirt",source={ID=140,SourceName="",SourceType="Quest",DropChance="0",Zone="Westfall"}}
+items[3342] = {id=3342,name="Captain Sander's Shirt",source={ID=140,SourceName="Captain Sander's Hidden Treasure",SourceType="Quest",DropChance="0",Zone="Westfall"}}
 items[10054] = {id=10054,name="Lavender Mageweave Shirt",source={ID=12075,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10056] = {id=10056,name="Orange Mageweave Shirt",source={ID=12061,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[18231] = {id=18231,name="Sleeveless T-Shirt",source={ID=14948,SourceName="Vipore's Gryphon",SourceType="Kill",DropChance="10.5",Zone="Alterac Valley"}}
@@ -38,7 +38,7 @@ items[6833] = {id=6833,name="White Tuxedo Shirt",source={ID=113771,SourceName="B
 items[2587] = {id=2587,name="Gray Woolen Shirt",source={ID=2406,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16060] = {id=16060,name="Common White Shirt",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[6117] = {id=6117,name="Squire's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[6096] = {id=6096,name="Apprentice's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6096] = {id=6096,name="Apprentice's Shirt",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[23345] = {id=23345,name="Scout's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23473] = {id=23473,name="Recruit's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24143] = {id=24143,name="Initiate's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -53,22 +53,22 @@ items[2575] = {id=2575,name="Red Linen Shirt",source={ID=2392,SourceName="",Sour
 items[127] = {id=127,name="Trapper's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23212] = {id=23212,name="Scrapper's Vest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3428] = {id=3428,name="Common Gray Shirt",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
-items[45] = {id=45,name="Squire's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[45] = {id=45,name="Squire's Shirt",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[16059] = {id=16059,name="Common Brown Shirt",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[93] = {id=93,name="OLDDwarven Initiate's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[154] = {id=154,name="Primitive Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23470] = {id=23470,name="Rugged Trapper's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3426] = {id=3426,name="Bold Yellow Shirt",source={ID=1299,SourceName="Lisbeth Schneider",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[49] = {id=49,name="Footpad's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[6097] = {id=6097,name="Acolyte's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6097] = {id=6097,name="Acolyte's Shirt",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[6120] = {id=6120,name="Recruit's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23351] = {id=23351,name="Battleworn Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[38] = {id=38,name="Recruit's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38] = {id=38,name="Recruit's Shirt",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[20897] = {id=20897,name="Lookout's Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20901] = {id=20901,name="Warder's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23476] = {id=23476,name="Squire's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[6134] = {id=6134,name="Primitive Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[53] = {id=53,name="Neophyte's Shirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[53] = {id=53,name="Neophyte's Shirt",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 
 
 -- Name Data

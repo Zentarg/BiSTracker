@@ -16,7 +16,7 @@ items[21846] = {id=21846,name="Spellfire Belt",source={ID=26752,SourceName="",So
 items[28828] = {id=28828,name="Gronn-Stitched Girdle",source={ID=19044,SourceName="Gruul the Dragonkiller",SourceType="Kill",DropChance="12.3",Zone="Gruul's Lair"}}
 items[19094] = {id=19094,name="Stormpike Cloth Girdle",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29526] = {id=29526,name="Primalstrike Belt",source={ID=35590,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28423] = {id=28423,name="General's Leather Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28423] = {id=28423,name="General's Leather Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[29247] = {id=29247,name="Girdle of the Deathdealer",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="28.6",Zone="The Black Morass"}}
 items[28799] = {id=28799,name="Belt of Divine Inspiration",source={ID=18831,SourceName="High King Maulgar",SourceType="Kill",DropChance="13.1",Zone="Gruul's Lair"}}
 items[28986] = {id=28986,name="Marshal's Leather Belt",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -27,13 +27,13 @@ items[28995] = {id=28995,name="Marshal's Plate Belt",source={ID=12777,SourceName
 items[28778] = {id=28778,name="Terror Pit Girdle",source={ID=17257,SourceName="Magtheridon",SourceType="Kill",DropChance="12.0",Zone="Magtheridon's Lair"}}
 items[29524] = {id=29524,name="Windhawk Belt",source={ID=35587,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29516] = {id=29516,name="Ebon Netherscale Belt",source={ID=35576,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28750] = {id=28750,name="Girdle of Treachery",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28750] = {id=28750,name="Girdle of Treachery",source={ID=16816,SourceName="Echo of Medivh",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[4249] = {id=4249,name="Dark Leather Belt",source={ID=3766,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28980] = {id=28980,name="Marshal's Dreadweave Belt",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[19162] = {id=19162,name="Corehound Belt",source={ID=23709,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[23825] = {id=23825,name="Nigh Invulnerability Belt",source={ID=30570,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29520] = {id=29520,name="Netherstrike Belt",source={ID=35582,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31460] = {id=31460,name="Sha'tari Vindicator's Waistguard",source={ID=10704,SourceName="",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
+items[31460] = {id=31460,name="Sha'tari Vindicator's Waistguard",source={ID=10704,SourceName="How to Break Into the Arcatraz",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
 items[28566] = {id=28566,name="Crimson Girdle of the Indomitable",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="6.2",Zone="Karazhan"}}
 items[13856] = {id=13856,name="Runecloth Belt",source={ID=18402,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30106] = {id=30106,name="Belt of One-Hundred Deaths",source={ID=21212,SourceName="Lady Vashj",SourceType="Kill",DropChance="22.8",Zone="Serpentshrine Cavern"}}
@@ -43,27 +43,27 @@ items[30038] = {id=30038,name="Belt of Blasting",source={ID=36315,SourceName="",
 items[29001] = {id=29001,name="Marshal's Silk Belt",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[27760] = {id=27760,name="Dunewind Sash",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
 items[28656] = {id=28656,name="Girdle of the Prowler",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
-items[20216] = {id=20216,name="Belt of Preserved Heads",source={ID=8201,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[20216] = {id=20216,name="Belt of Preserved Heads",source={ID=8201,SourceName="A Collection of Heads",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[31596] = {id=31596,name="Marshal's Kodohide Belt",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[27985] = {id=27985,name="Deathforge Girdle",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="7.1",Zone="Sethekk Halls"}}
 items[28655] = {id=28655,name="Cord of Nature's Sustenance",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="25.0",Zone="Karazhan"}}
 items[28567] = {id=28567,name="Belt of Gale Force",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="6.2",Zone="Karazhan"}}
-items[31464] = {id=31464,name="Naaru Belt of Precision",source={ID=10704,SourceName="",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
+items[31464] = {id=31464,name="Naaru Belt of Precision",source={ID=10704,SourceName="How to Break Into the Arcatraz",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
 items[28974] = {id=28974,name="Marshal's Chain Girdle",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28654] = {id=28654,name="Malefic Girdle",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
 items[19090] = {id=19090,name="Frostwolf Cloth Belt",source={ID=13218,SourceName="Grunnda Wolfheart",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28652] = {id=28652,name="Cincture of Will",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
 items[29253] = {id=29253,name="Girdle of Valorous Deeds",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="27.6",Zone="The Black Morass"}}
-items[28385] = {id=28385,name="General's Plate Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28385] = {id=28385,name="General's Plate Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28733] = {id=28733,name="Girdle of Truth",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
 items[28565] = {id=28565,name="Nethershard Girdle",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
-items[31461] = {id=31461,name="A'dal's Gift",source={ID=10704,SourceName="",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
+items[31461] = {id=31461,name="A'dal's Gift",source={ID=10704,SourceName="How to Break Into the Arcatraz",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
 items[30675] = {id=30675,name="Lurker's Cord",source={ID=16179,SourceName="Hyakiss the Lurker",SourceType="Kill",DropChance="30.1",Zone="Unknown"}}
 items[28976] = {id=28976,name="Marshal's Dragonhide Belt",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29241] = {id=29241,name="Belt of Depravity",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="12.3",Zone="The Arcatraz"}}
 items[2857] = {id=2857,name="Runed Copper Belt",source={ID=2666,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28404] = {id=28404,name="General's Dreadweave Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30372] = {id=30372,name="Socrethar's Girdle",source={ID=10507,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[28404] = {id=28404,name="General's Dreadweave Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30372] = {id=30372,name="Socrethar's Girdle",source={ID=10507,SourceName="Turning Point",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[10771] = {id=10771,name="Deathmage Sash",source={ID=7357,SourceName="Mordresh Fire Eye",SourceType="Kill",DropChance="31.9",Zone="Razorfen Downs"}}
 items[24063] = {id=24063,name="Shifting Sash of Midnight",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="23.5",Zone="Hellfire Ramparts"}}
 items[27672] = {id=27672,name="Girdle of the Immovable",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="11.8",Zone="The Slave Pens"}}
@@ -71,125 +71,125 @@ items[30673] = {id=30673,name="Inferno Waist Cord",source={ID=16411,SourceName="
 items[4246] = {id=4246,name="Fine Leather Belt",source={ID=3763,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[18505] = {id=18505,name="Mugger's Belt",source={ID=14325,SourceName="Captain Kromcrush",SourceType="Kill",DropChance="22.2",Zone="Dire Maul"}}
 items[4329] = {id=4329,name="Star Belt",source={ID=3864,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28409] = {id=28409,name="General's Silk Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28409] = {id=28409,name="General's Silk Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[24395] = {id=24395,name="Mindfire Waistband",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="30.7",Zone="The Blood Furnace"}}
-items[19826] = {id=19826,name="Zandalar Freethinker's Belt",source={ID=8054,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19826] = {id=19826,name="Zandalar Freethinker's Belt",source={ID=8054,SourceName="Paragons of Power: The Freethinker's Belt",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[29238] = {id=29238,name="Lion's Heart Girdle",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
-items[22422] = {id=22422,name="Dreadnaught Waistguard",source={ID=9041,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22422] = {id=22422,name="Dreadnaught Waistguard",source={ID=9041,SourceName="Dreadnaught Waistguard",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[19163] = {id=19163,name="Molten Belt",source={ID=23710,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10329] = {id=10329,name="Scarlet Belt",source={ID=4298,SourceName="Scarlet Defender",SourceType="Kill",DropChance="2.4",Zone="Scarlet Monastery"}}
-items[31594] = {id=31594,name="General's Kodohide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31594] = {id=31594,name="General's Kodohide Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[17750] = {id=17750,name="Chloromesh Girdle",source={ID=12258,SourceName="Razorlash",SourceType="Kill",DropChance="24.4",Zone="Maraudon"}}
 items[10412] = {id=10412,name="Belt of the Fang",source={ID=3671,SourceName="Lady Anacondra",SourceType="Kill",DropChance="9.5",Zone="Wailing Caverns"}}
-items[30942] = {id=30942,name="Manimal's Cinch",source={ID=10481,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30942] = {id=30942,name="Manimal's Cinch",source={ID=10481,SourceName="Enraged Spirits of Air",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[10403] = {id=10403,name="Blackened Defias Belt",source={ID=647,SourceName="Captain Greenskin",SourceType="Kill",DropChance="26.2",Zone="The Deadmines"}}
 items[25695] = {id=25695,name="Felstalker Belt",source={ID=32498,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22442] = {id=22442,name="Cryptstalker Girdle",source={ID=9060,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22442] = {id=22442,name="Cryptstalker Girdle",source={ID=9060,SourceName="Cryptstalker Girdle",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[27843] = {id=27843,name="Glyph-Lined Sash",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="17.2",Zone="Mana-Tombs"}}
 items[30643] = {id=30643,name="Belt of the Tracker",source={ID=15551,SourceName="Spectral Stable Hand",SourceType="Kill",DropChance="3.7",Zone="Karazhan"}}
 items[20047] = {id=20047,name="Highlander's Cloth Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[27911] = {id=27911,name="Epoch's Whispering Cinch",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="21.2",Zone="Old Hillsbrad Foothills"}}
-items[22470] = {id=22470,name="Earthshatter Girdle",source={ID=9074,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22470] = {id=22470,name="Earthshatter Girdle",source={ID=9074,SourceName="Earthshatter Girdle",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[12424] = {id=12424,name="Imperial Plate Belt",source={ID=16647,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32802] = {id=32802,name="Veteran's Leather Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22431] = {id=22431,name="Redemption Girdle",source={ID=9049,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[32802] = {id=32802,name="Veteran's Leather Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[22431] = {id=22431,name="Redemption Girdle",source={ID=9049,SourceName="Redemption Girdle",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[27795] = {id=27795,name="Sash of Serpentra",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="0",Zone="The Steamvault"}}
 items[29250] = {id=29250,name="Cord of Sanctification",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="36.7",Zone="Old Hillsbrad Foothills"}}
 items[20190] = {id=20190,name="Defiler's Leather Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[28983] = {id=28983,name="Marshal's Lamellar Belt",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[22518] = {id=22518,name="Belt of Faith",source={ID=9117,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22518] = {id=22518,name="Belt of Faith",source={ID=9117,SourceName="Belt of Faith",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[22730] = {id=22730,name="Eyestalk Waist Cord",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="33.8",Zone="Ahn'Qiraj"}}
-items[19832] = {id=19832,name="Zandalar Predator's Belt",source={ID=8066,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19832] = {id=19832,name="Zandalar Predator's Belt",source={ID=8066,SourceName="Paragons of Power: The Predator's Belt",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[15088] = {id=15088,name="Wicked Leather Belt",source={ID=19092,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30040] = {id=30040,name="Belt of Deep Shadow",source={ID=36351,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28450] = {id=28450,name="General's Chain Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28450] = {id=28450,name="General's Chain Girdle",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[24091] = {id=24091,name="Tenacious Defender",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="2.9",Zone="Hellfire Ramparts"}}
 items[6319] = {id=6319,name="Girdle of the Blindwatcher",source={ID=4279,SourceName="Odo the Blindwatcher",SourceType="Kill",DropChance="57.8",Zone="Shadowfang Keep"}}
 items[28998] = {id=28998,name="Marshal's Scaled Belt",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[32976] = {id=32976,name="Marshal's Mooncloth Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32976] = {id=32976,name="Marshal's Mooncloth Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30676] = {id=30676,name="Lurker's Grasp",source={ID=16179,SourceName="Hyakiss the Lurker",SourceType="Kill",DropChance="27.8",Zone="Unknown"}}
-items[23219] = {id=23219,name="Girdle of the Mentor",source={ID=16061,SourceName="Instructor Razuvious",SourceType="Kill",DropChance="28.0",Zone="Naxxramas"}}
-items[25637] = {id=25637,name="Ethereal Sash",source={ID=9900,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[23219] = {id=23219,name="Girdle of the Mentor",source={ID=16061,SourceName="Instructor Razuvious",SourceType="Kill",DropChance="27.8",Zone="Naxxramas"}}
+items[25637] = {id=25637,name="Ethereal Sash",source={ID=9900,SourceName="Gava'xi",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[30046] = {id=30046,name="Belt of the Black Eagle",source={ID=36352,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22510] = {id=22510,name="Plagueheart Belt",source={ID=9109,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22510] = {id=22510,name="Plagueheart Belt",source={ID=9109,SourceName="Plagueheart Belt",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[14620] = {id=14620,name="Deathbone Girdle",source={ID=10502,SourceName="Lady Illucia Barov",SourceType="Kill",DropChance="4.1",Zone="Scholomance"}}
 items[21586] = {id=21586,name="Belt of Never-ending Agony",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="25.4",Zone="Ahn'Qiraj"}}
 items[28990] = {id=28990,name="Marshal's Linked Girdle",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[30371] = {id=30371,name="Lightwarden's Girdle",source={ID=10409,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30371] = {id=30371,name="Lightwarden's Girdle",source={ID=10409,SourceName="Deathblow to the Legion",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[16685] = {id=16685,name="Magister's Belt",source={ID=10425,SourceName="Crimson Battle Mage",SourceType="Kill",DropChance="4.1",Zone="Stratholme"}}
 items[28993] = {id=28993,name="Marshal's Mail Girdle",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[22502] = {id=22502,name="Frostfire Belt",source={ID=9101,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22502] = {id=22502,name="Frostfire Belt",source={ID=9101,SourceName="Frostfire Belt",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[20041] = {id=20041,name="Highlander's Plate Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[18702] = {id=18702,name="Belt of the Ordained",source={ID=14861,SourceName="Blood Steward of Kirtonos",SourceType="Kill",DropChance="0.1",Zone="Scholomance"}}
 items[16713] = {id=16713,name="Shadowcraft Belt",source={ID=10318,SourceName="Blackhand Assassin",SourceType="Kill",DropChance="5.3",Zone="Blackrock Spire"}}
-items[19842] = {id=19842,name="Zandalar Confessor's Bindings",source={ID=8070,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19842] = {id=19842,name="Zandalar Confessor's Bindings",source={ID=8070,SourceName="Paragons of Power: The Confessor's Bindings",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[30030] = {id=30030,name="Girdle of Fallen Stars",source={ID=20031,SourceName="Bloodwarder Legionnaire",SourceType="Kill",DropChance="1.1",Zone="Unknown"}}
 items[31131] = {id=31131,name="Sash of Silent Blades",source={ID=16871,SourceName="Bleeding Hollow Grunt",SourceType="Kill",DropChance="1.0",Zone="Hellfire Peninsula"}}
 items[16723] = {id=16723,name="Lightforge Belt",source={ID=10424,SourceName="Crimson Gallant",SourceType="Kill",DropChance="3.6",Zone="Stratholme"}}
-items[30932] = {id=30932,name="Akama's Sash",source={ID=10708,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30932] = {id=30932,name="Akama's Sash",source={ID=10708,SourceName="Akama's Promise",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[30677] = {id=30677,name="Lurker's Belt",source={ID=16179,SourceName="Hyakiss the Lurker",SourceType="Kill",DropChance="28.7",Zone="Unknown"}}
-items[30380] = {id=30380,name="Girdle of the Lost Vindicator",source={ID=10381,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30380] = {id=30380,name="Girdle of the Lost Vindicator",source={ID=10381,SourceName="Aldor No More",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[19089] = {id=19089,name="Frostwolf Leather Belt",source={ID=13218,SourceName="Grunnda Wolfheart",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[11662] = {id=11662,name="Ban'thok Sash",source={ID=9030,SourceName="Ok'thor the Breaker",SourceType="Kill",DropChance="31.5",Zone="Blackrock Depths"}}
+items[11662] = {id=11662,name="Ban'thok Sash",source={ID=9030,SourceName="Ok'thor the Breaker",SourceType="Kill",DropChance="31.6",Zone="Blackrock Depths"}}
 items[6392] = {id=6392,name="Belt of Arugal",source={ID=4275,SourceName="Archmage Arugal",SourceType="Kill",DropChance="34.1",Zone="Shadowfang Keep"}}
 items[30034] = {id=30034,name="Belt of the Guardian",source={ID=36389,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30036] = {id=30036,name="Belt of the Long Road",source={ID=36316,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27755] = {id=27755,name="Girdle of Gallantry",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
 items[23666] = {id=23666,name="Belt of the Grand Crusader",source={ID=16156,SourceName="Dark Touched Warrior",SourceType="Kill",DropChance="1.0",Zone="Naxxramas"}}
-items[19829] = {id=19829,name="Zandalar Augur's Belt",source={ID=8074,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[28443] = {id=28443,name="General's Dragonhide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19829] = {id=19829,name="Zandalar Augur's Belt",source={ID=8074,SourceName="Paragons of Power: The Augur's Belt",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[28443] = {id=28443,name="General's Dragonhide Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[29180] = {id=29180,name="Blessed Scale Girdle",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[30678] = {id=30678,name="Lurker's Girdle",source={ID=16179,SourceName="Hyakiss the Lurker",SourceType="Kill",DropChance="30.7",Zone="Unknown"}}
 items[20204] = {id=20204,name="Defiler's Plate Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[6468] = {id=6468,name="Deviate Scale Belt",source={ID=7955,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32974] = {id=32974,name="General's Mooncloth Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32974] = {id=32974,name="General's Mooncloth Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[24388] = {id=24388,name="Girdle of the Gale Storm",source={ID=17381,SourceName="The Maker",SourceType="Kill",DropChance="13.3",Zone="The Blood Furnace"}}
 items[20042] = {id=20042,name="Highlander's Lamellar Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[21850] = {id=21850,name="Netherweave Belt",source={ID=26765,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[21598] = {id=21598,name="Royal Qiraji Belt",source={ID=15276,SourceName="Emperor Vek'lor",SourceType="Kill",DropChance="24.4",Zone="Ahn'Qiraj"}}
 items[21463] = {id=21463,name="Ossirian's Binding",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="28.1",Zone="Ruins of Ahn'Qiraj"}}
-items[16736] = {id=16736,name="Belt of Valor",source={ID=10414,SourceName="Patchwork Horror",SourceType="Kill",DropChance="3.2",Zone="Stratholme"}}
+items[16736] = {id=16736,name="Belt of Valor",source={ID=10414,SourceName="Patchwork Horror",SourceType="Kill",DropChance="3.3",Zone="Stratholme"}}
 items[7052] = {id=7052,name="Azure Silk Belt",source={ID=8766,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[6908] = {id=6908,name="Ghamoo-ra's Bind",source={ID=4887,SourceName="Ghamoo-ra",SourceType="Kill",DropChance="56.3",Zone="Blackfathom Deeps"}}
-items[34941] = {id=34941,name="Girdle of the Fearless",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34941] = {id=34941,name="Girdle of the Fearless",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[21582] = {id=21582,name="Grasp of the Old God",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="25.8",Zone="Ahn'Qiraj"}}
-items[15707] = {id=15707,name="Brantwood Sash",source={ID=5242,SourceName="",SourceType="Quest",DropChance="0",Zone="Felwood"}}
+items[15707] = {id=15707,name="Brantwood Sash",source={ID=5242,SourceName="A Final Blow",SourceType="Quest",DropChance="0",Zone="Felwood"}}
 items[20914] = {id=20914,name="Unadorned Chain Belt",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
 items[29004] = {id=29004,name="Marshal's Wyrmhide Belt",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[19137] = {id=19137,name="Onslaught Girdle",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="21.9",Zone="Molten Core"}}
 items[20163] = {id=20163,name="Defiler's Cloth Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[30032] = {id=30032,name="Red Belt of Battle",source={ID=36390,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19134] = {id=19134,name="Flayed Doomguard Belt",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="19.5",Zone="Searing Gorge"}}
-items[19823] = {id=19823,name="Zandalar Vindicator's Belt",source={ID=8078,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19134] = {id=19134,name="Flayed Doomguard Belt",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="18.8",Zone="Searing Gorge"}}
+items[19823] = {id=19823,name="Zandalar Vindicator's Belt",source={ID=8078,SourceName="Paragons of Power: The Vindicator's Belt",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[2911] = {id=2911,name="Keller's Girdle",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
-items[34558] = {id=34558,name="Slayer's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34558] = {id=34558,name="Slayer's Belt",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29965] = {id=29965,name="Girdle of the Righteous Path",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="28.8",Zone="Tempest Keep"}}
 items[19136] = {id=19136,name="Mana Igniting Cord",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="11.2",Zone="Molten Core"}}
 items[14553] = {id=14553,name="Sash of Mercy",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
-items[9636] = {id=9636,name="Swashbuckler Sash",source={ID=2874,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
-items[34541] = {id=34541,name="Belt of the Malefic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9636] = {id=9636,name="Swashbuckler Sash",source={ID=2874,SourceName="Deliver to MacKinley",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[34541] = {id=34541,name="Belt of the Malefic",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30064] = {id=30064,name="Cord of Screaming Terrors",source={ID=21217,SourceName="The Lurker Below",SourceType="Kill",DropChance="19.5",Zone="Serpentshrine Cavern"}}
-items[30936] = {id=30936,name="Eva's Strap",source={ID=10541,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[34546] = {id=34546,name="Onslaught Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30936] = {id=30936,name="Eva's Strap",source={ID=10541,SourceName="The Cipher of Damnation - The Second Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[34546] = {id=34546,name="Onslaught Belt",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29261] = {id=29261,name="Girdle of Ferocity",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="27.2",Zone="Shadow Labyrinth"}}
-items[31283] = {id=31283,name="Sash of Sealed Fate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31283] = {id=31283,name="Sash of Sealed Fate",source={ID=21296,SourceName="Bladespire Champion",SourceType="Kill",DropChance="0.3",Zone="Blade's Edge Mountains"}}
 items[16952] = {id=16952,name="Judgement Belt",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="22.0",Zone="Blackwing Lair"}}
 items[16680] = {id=16680,name="Beaststalker's Belt",source={ID=10366,SourceName="Rage Talon Dragon Guard",SourceType="Kill",DropChance="9.2",Zone="Blackrock Spire"}}
-items[22207] = {id=22207,name="Sash of the Grand Hunt",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="17.7",Zone="Blackrock Depths"}}
-items[35161] = {id=35161,name="Guardian's Plate Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22207] = {id=22207,name="Sash of the Grand Hunt",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="17.6",Zone="Blackrock Depths"}}
+items[35161] = {id=35161,name="Guardian's Plate Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32346] = {id=32346,name="Boneweave Girdle",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="15.0",Zone="Unknown"}}
 items[27548] = {id=27548,name="Girdle of Many Blessings",source={ID=17991,SourceName="Rokmar the Crackler",SourceType="Kill",DropChance="20.0",Zone="The Slave Pens"}}
 items[22195] = {id=22195,name="Light Obsidian Belt",source={ID=27588,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19088] = {id=19088,name="Frostwolf Mail Belt",source={ID=13218,SourceName="Grunnda Wolfheart",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16716] = {id=16716,name="Wildheart Belt",source={ID=10507,SourceName="The Ravenian",SourceType="Kill",DropChance="4.5",Zone="Scholomance"}}
 items[17755] = {id=17755,name="Satyrmane Sash",source={ID=12236,SourceName="Lord Vyletongue",SourceType="Kill",DropChance="27.1",Zone="Maraudon"}}
-items[32805] = {id=32805,name="Veteran's Plate Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32805] = {id=32805,name="Veteran's Plate Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[20043] = {id=20043,name="Highlander's Chain Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20045] = {id=20045,name="Highlander's Leather Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[13252] = {id=13252,name="Cloudrunner Girdle",source={ID=9736,SourceName="Quartermaster Zigris",SourceType="Kill",DropChance="19.3",Zone="Blackrock Spire"}}
+items[13252] = {id=13252,name="Cloudrunner Girdle",source={ID=9736,SourceName="Quartermaster Zigris",SourceType="Kill",DropChance="19.1",Zone="Blackrock Spire"}}
 items[14803] = {id=14803,name="Bloodlust Belt",source={ID=14349,SourceName="Pimgib",SourceType="Kill",DropChance="0.2",Zone="Dire Maul"}}
 items[15329] = {id=15329,name="Wrangler's Belt",source={ID=3899,SourceName="Balizar the Umbrage",SourceType="Kill",DropChance="0.8",Zone="Darkshore"}}
-items[22482] = {id=22482,name="Bonescythe Waistguard",source={ID=9083,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22482] = {id=22482,name="Bonescythe Waistguard",source={ID=9083,SourceName="Bonescythe Waistguard",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[21500] = {id=21500,name="Belt of the Inquisition",source={ID=15348,SourceName="Kurinnaxx",SourceType="Kill",DropChance="29.9",Zone="Ruins of Ahn'Qiraj"}}
 items[12406] = {id=12406,name="Thorium Belt",source={ID=16643,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20090] = {id=20090,name="Highlander's Padded Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
@@ -197,38 +197,38 @@ items[20152] = {id=20152,name="Defiler's Chain Girdle",source={ID=15126,SourceNa
 items[24257] = {id=24257,name="Black Belt of Knowledge",source={ID=31444,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[22764] = {id=22764,name="Ironvine Belt",source={ID=28463,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16702] = {id=16702,name="Dreadmist Belt",source={ID=10422,SourceName="Crimson Sorcerer",SourceType="Kill",DropChance="3.2",Zone="Stratholme"}}
-items[35154] = {id=35154,name="Guardian's Kodohide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35154] = {id=35154,name="Guardian's Kodohide Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[21606] = {id=21606,name="Belt of the Fallen Emperor",source={ID=15275,SourceName="Emperor Vek'nilash",SourceType="Kill",DropChance="14.0",Zone="Ahn'Qiraj"}}
 items[19392] = {id=19392,name="Girdle of the Fallen Crusader",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="24.4",Zone="Blackwing Lair"}}
 items[19149] = {id=19149,name="Lava Belt",source={ID=23707,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20046] = {id=20046,name="Highlander's Lizardhide Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[13956] = {id=13956,name="Clutch of Andros",source={ID=10506,SourceName="Kirtonos the Herald",SourceType="Kill",DropChance="18.4",Zone="Scholomance"}}
-items[22232] = {id=22232,name="Marksman's Girdle",source={ID=10584,SourceName="Urok Doomhowl",SourceType="Kill",DropChance="19.9",Zone="Blackrock Spire"}}
+items[22232] = {id=22232,name="Marksman's Girdle",source={ID=10584,SourceName="Urok Doomhowl",SourceType="Kill",DropChance="20.1",Zone="Blackrock Spire"}}
 items[8293] = {id=8293,name="Traveler's Belt",source={ID=1045,SourceName="Red Dragonspawn",SourceType="Kill",DropChance="1.3",Zone="Wetlands"}}
 items[20108] = {id=20108,name="Highlander's Lamellar Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20197] = {id=20197,name="Defiler's Padded Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[15110] = {id=15110,name="Rigid Belt",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
-items[35164] = {id=35164,name="Guardian's Silk Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35165] = {id=35165,name="Guardian's Wyrmhide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35164] = {id=35164,name="Guardian's Silk Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35165] = {id=35165,name="Guardian's Wyrmhide Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32265] = {id=32265,name="Shadow-walker's Cord",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="16.2",Zone="Black Temple"}}
 items[30096] = {id=30096,name="Girdle of the Invulnerable",source={ID=21215,SourceName="Leotheras the Blind",SourceType="Kill",DropChance="16.3",Zone="Serpentshrine Cavern"}}
 items[32769] = {id=32769,name="Belt of the Raven Lord",source={ID=23035,SourceName="Anzu",SourceType="Kill",DropChance="18.7",Zone="Sethekk Halls"}}
 items[12634] = {id=12634,name="Chiselbrand Girdle",source={ID=9596,SourceName="Bannok Grimaxe",SourceType="Kill",DropChance="32.1",Zone="Blackrock Spire"}}
-items[12466] = {id=12466,name="Dawnspire Cord",source={ID=5721,SourceName="Dreamscythe",SourceType="Kill",DropChance="9.5",Zone="The Temple of Atal'Hakkar"}}
+items[12466] = {id=12466,name="Dawnspire Cord",source={ID=5721,SourceName="Dreamscythe",SourceType="Kill",DropChance="9.6",Zone="The Temple of Atal'Hakkar"}}
 items[186029] = {id=186029,name="Communal Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14258] = {id=14258,name="Bloodwoven Cord",source={ID=8199,SourceName="Warleader Krazzilak",SourceType="Kill",DropChance="1.0",Zone="Tanaris"}}
 items[20192] = {id=20192,name="Defiler's Leather Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[13117] = {id=13117,name="Ogron's Sash",source={ID=7997,SourceName="Captured Sprite Darter",SourceType="Kill",DropChance="0.2",Zone="Feralas"}}
 items[13105] = {id=13105,name="Sutarn's Ring",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="40.0",Zone="Thousand Needles"}}
-items[14406] = {id=14406,name="Resilient Cord",source={ID=3414,SourceName="General Twinbraid",SourceType="Kill",DropChance="0.3",Zone="The Barrens"}}
-items[14194] = {id=14194,name="Raincaller Cord",source={ID=11656,SourceName="Warsong Peon",SourceType="Kill",DropChance="0.7",Zone="Ashenvale"}}
-items[5425] = {id=5425,name="Runescale Girdle",source={ID=3652,SourceName="Trigore the Lasher",SourceType="Kill",DropChance="62.8",Zone="Unknown"}}
-items[34557] = {id=34557,name="Belt of the Tempest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28639] = {id=28639,name="General's Mail Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14406] = {id=14406,name="Resilient Cord",source={ID=11682,SourceName="Warsong Grunt",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
+items[14194] = {id=14194,name="Raincaller Cord",source={ID=11656,SourceName="Warsong Peon",SourceType="Kill",DropChance="0.6",Zone="Ashenvale"}}
+items[5425] = {id=5425,name="Runescale Girdle",source={ID=3652,SourceName="Trigore the Lasher",SourceType="Kill",DropChance="62.7",Zone="Unknown"}}
+items[34557] = {id=34557,name="Belt of the Tempest",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[28639] = {id=28639,name="General's Mail Girdle",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28398] = {id=28398,name="The Sleeper's Cord",source={ID=20886,SourceName="Wrath-Scryer Soccothrates",SourceType="Kill",DropChance="16.5",Zone="The Arcatraz"}}
-items[27639] = {id=27639,name="Slayer's Waistguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25948] = {id=25948,name="Girdle of the Penitent",source={ID=10031,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
-items[28496] = {id=28496,name="Talonite's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27639] = {id=27639,name="Slayer's Waistguard",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[25948] = {id=25948,name="Girdle of the Penitent",source={ID=10031,SourceName="Helping the Lost Find Their Way",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[28496] = {id=28496,name="Talonite's Belt",source={ID=31800,SourceName="Outcast's Cache",SourceType="Container",DropChance="20.0",Zone="Unknown"}}
 items[10145] = {id=10145,name="Mighty Girdle",source={ID=10828,SourceName="High General Abbendis",SourceType="Kill",DropChance="6.6",Zone="Eastern Plaguelands"}}
 items[15082] = {id=15082,name="Heavy Scorpid Belt",source={ID=19070,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[186002] = {id=186002,name="Communal Plate Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -239,13 +239,13 @@ items[20164] = {id=20164,name="Defiler's Cloth Girdle",source={ID=15126,SourceNa
 items[15011] = {id=15011,name="Lupine Cord",source={ID=15811,SourceName="Faltering Silithid Flayer",SourceType="Kill",DropChance="1.4",Zone="The Barrens"}}
 items[30042] = {id=30042,name="Belt of Natural Power",source={ID=36349,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30068] = {id=30068,name="Girdle of the Tidal Call",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="22.2",Zone="Serpentshrine Cavern"}}
-items[33279] = {id=33279,name="Iron-tusk Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33524] = {id=33524,name="Girdle of the Protector",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30330] = {id=30330,name="Starcaller's Plated Belt",source={ID=10353,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[22494] = {id=22494,name="Dreamwalker Girdle",source={ID=9092,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[33279] = {id=33279,name="Iron-tusk Girdle",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33524] = {id=33524,name="Girdle of the Protector",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30330] = {id=30330,name="Starcaller's Plated Belt",source={ID=10353,SourceName="Arconus the Insatiable",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[22494] = {id=22494,name="Dreamwalker Girdle",source={ID=9092,SourceName="Dreamwalker Girdle",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[18809] = {id=18809,name="Sash of Whispered Secrets",source={ID=12018,SourceName="Majordomo Executus",SourceType="Kill",DropChance="5.0",Zone="Molten Core"}}
-items[13387] = {id=13387,name="Foresight Girdle",source={ID=10811,SourceName="Archivist Galford",SourceType="Kill",DropChance="21.1",Zone="Stratholme"}}
-items[19839] = {id=19839,name="Zandalar Haruspex's Belt",source={ID=8064,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[13387] = {id=13387,name="Foresight Girdle",source={ID=10811,SourceName="Archivist Galford",SourceType="Kill",DropChance="21.0",Zone="Stratholme"}}
+items[19839] = {id=19839,name="Zandalar Haruspex's Belt",source={ID=8064,SourceName="Paragons of Power: The Haruspex's Belt",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[6425] = {id=6425,name="Blackforge Girdle",source={ID=7290,SourceName="Shadowforge Sharpshooter",SourceType="Kill",DropChance="0.3",Zone="Uldaman"}}
 items[7438] = {id=7438,name="Twilight Belt",source={ID=14487,SourceName="Gluggle",SourceType="Kill",DropChance="4.0",Zone="Stranglethorn Vale"}}
 items[4463] = {id=4463,name="Beaded Raptor Collar",source={ID=1140,SourceName="Razormaw Matriarch",SourceType="Kill",DropChance="42.8",Zone="Wetlands"}}
@@ -253,14 +253,14 @@ items[6581] = {id=6581,name="Scouting Belt",source={ID=15813,SourceName="Qiraji 
 items[4697] = {id=4697,name="Burnished Girdle",source={ID=4064,SourceName="Blackrock Scout",SourceType="Kill",DropChance="0.7",Zone="Redridge Mountains"}}
 items[15510] = {id=15510,name="Grunt's Belt",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
 items[2283] = {id=2283,name="Rat Cloth Belt",source={ID=1177,SourceName="Tunnel Rat Surveyor",SourceType="Kill",DropChance="3.2",Zone="Loch Modan"}}
-items[35155] = {id=35155,name="Guardian's Lamellar Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34485] = {id=34485,name="Lightbringer Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34549] = {id=34549,name="Gronnstalker's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35155] = {id=35155,name="Guardian's Lamellar Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34485] = {id=34485,name="Lightbringer Girdle",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34549] = {id=34549,name="Gronnstalker's Belt",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32342] = {id=32342,name="Girdle of Mighty Resolve",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="7.5",Zone="Black Temple"}}
 items[30020] = {id=30020,name="Fire-Cord of the Magus",source={ID=20032,SourceName="Bloodwarder Vindicator",SourceType="Kill",DropChance="1.8",Zone="Unknown"}}
 items[33480] = {id=33480,name="Cord of Braided Troll Hair",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[30460] = {id=30460,name="Netherflame Belt",source={ID=36667,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[27638] = {id=27638,name="Hierophant's Sash",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27638] = {id=27638,name="Hierophant's Sash",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[21609] = {id=21609,name="Regenerating Belt of Vek'nilash",source={ID=15275,SourceName="Emperor Vek'nilash",SourceType="Kill",DropChance="23.2",Zone="Ahn'Qiraj"}}
 items[22716] = {id=22716,name="Belt of Untapped Power",source={ID=14510,SourceName="High Priestess Mar'li",SourceType="Kill",DropChance="9.4",Zone="Zul'Gurub"}}
 items[16838] = {id=16838,name="Earthfury Belt",source={ID=11664,SourceName="Flamewaker Elite",SourceType="Kill",DropChance="0.8",Zone="Molten Core"}}
@@ -268,7 +268,7 @@ items[20044] = {id=20044,name="Highlander's Mail Girdle",source={ID=15127,Source
 items[23126] = {id=23126,name="Waistband of Balzaphon",source={ID=14684,SourceName="Balzaphon",SourceType="Kill",DropChance="31.7",Zone="Stratholme"}}
 items[20103] = {id=20103,name="Highlander's Lizardhide Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[8114] = {id=8114,name="Hibernal Sash",source={ID=4469,SourceName="Emerald Ooze",SourceType="Kill",DropChance="0.1",Zone="The Hinterlands"}}
-items[8277] = {id=8277,name="Valorous Girdle",source={ID=680,SourceName="Mosh'Ogg Lord",SourceType="Kill",DropChance="0.1",Zone="Stranglethorn Vale"}}
+items[8277] = {id=8277,name="Valorous Girdle",source={ID=2447,SourceName="Narillasanz",SourceType="Kill",DropChance="0.2",Zone="Alterac Mountains"}}
 items[8140] = {id=8140,name="Chromite Girdle",source={ID=4849,SourceName="Shadowforge Archaeologist",SourceType="Kill",DropChance="0.8",Zone="Uldaman"}}
 items[20116] = {id=20116,name="Highlander's Leather Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20180] = {id=20180,name="Defiler's Lamellar Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
@@ -281,42 +281,42 @@ items[14164] = {id=14164,name="Pagan Belt",source={ID=3295,SourceName="Sludge Be
 items[14725] = {id=14725,name="War Paint Waistband",source={ID=5838,SourceName="Brokespear",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
 items[6548] = {id=6548,name="Soldier's Girdle",source={ID=15810,SourceName="Eroded Anubisath Warbringer",SourceType="Kill",DropChance="22.0",Zone="The Barrens"}}
 items[2546] = {id=2546,name="Royal Frostmane Girdle",source={ID=1260,SourceName="Great Father Arctikus",SourceType="Kill",DropChance="73.9",Zone="Dun Morogh"}}
-items[34556] = {id=34556,name="Thunderheart Waistguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33811] = {id=33811,name="Vindicator's Plate Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34556] = {id=34556,name="Thunderheart Waistguard",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33811] = {id=33811,name="Vindicator's Plate Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32519] = {id=32519,name="Belt of Divine Guidance",source={ID=22950,SourceName="High Nethermancer Zerevor",SourceType="Kill",DropChance="19.2",Zone="Unknown"}}
-items[32798] = {id=32798,name="Veteran's Dragonhide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32798] = {id=32798,name="Veteran's Dragonhide Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[33446] = {id=33446,name="Girdle of Stromgarde's Hope",source={ID=24239,SourceName="Hex Lord Malacrass",SourceType="Kill",DropChance="16.1",Zone="Unknown"}}
 items[19380] = {id=19380,name="Therazane's Link",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="33.3",Zone="Blackwing Lair"}}
 items[19388] = {id=19388,name="Angelista's Grasp",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="36.7",Zone="Blackwing Lair"}}
 items[21503] = {id=21503,name="Belt of the Sand Reaver",source={ID=15348,SourceName="Kurinnaxx",SourceType="Kill",DropChance="30.4",Zone="Ruins of Ahn'Qiraj"}}
-items[20213] = {id=20213,name="Belt of Shrunken Heads",source={ID=8201,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[20213] = {id=20213,name="Belt of Shrunken Heads",source={ID=8201,SourceName="A Collection of Heads",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[3952] = {id=3952,name="Mesh Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20261] = {id=20261,name="Shadow Panther Hide Belt",source={ID=11340,SourceName="Hakkari Blood Priest",SourceType="Kill",DropChance="0",Zone="Zul'Gurub"}}
-items[20673] = {id=20673,name="Abyssal Plate Girdle",source={ID=15220,SourceName="The Duke of Zephyrs",SourceType="Kill",DropChance="36.7",Zone="Silithus"}}
+items[20673] = {id=20673,name="Abyssal Plate Girdle",source={ID=15220,SourceName="The Duke of Zephyrs",SourceType="Kill",DropChance="36.6",Zone="Silithus"}}
 items[18393] = {id=18393,name="Warpwood Binding",source={ID=11489,SourceName="Tendris Warpwood",SourceType="Kill",DropChance="23.9",Zone="Dire Maul"}}
 items[18529] = {id=18529,name="Elemental Plate Girdle",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="2.4",Zone="Dire Maul"}}
 items[18676] = {id=18676,name="Sash of the Windreaver",source={ID=14454,SourceName="The Windreaver",SourceType="Kill",DropChance="13.7",Zone="Silithus"}}
-items[15709] = {id=15709,name="Gearforge Girdle",source={ID=5242,SourceName="",SourceType="Quest",DropChance="0",Zone="Felwood"}}
+items[15709] = {id=15709,name="Gearforge Girdle",source={ID=5242,SourceName="A Final Blow",SourceType="Quest",DropChance="0",Zone="Felwood"}}
 items[20165] = {id=20165,name="Defiler's Cloth Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[3992] = {id=3992,name="Laminated Scale Belt",source={ID=7072,SourceName="Cursed Justicar",SourceType="Kill",DropChance="44.9",Zone="Hillsbrad Foothills"}}
-items[10462] = {id=10462,name="Shadowy Belt",source={ID=3385,SourceName="",SourceType="Quest",DropChance="0",Zone="Tailoring"}}
+items[10462] = {id=10462,name="Shadowy Belt",source={ID=3385,SourceName="The Undermarket",SourceType="Quest",DropChance="0",Zone="Tailoring"}}
 items[9288] = {id=9288,name="Field Plate Girdle",source={ID=14492,SourceName="Verifonix",SourceType="Kill",DropChance="2.7",Zone="Stranglethorn Vale"}}
 items[4717] = {id=4717,name="Mail Combat Belt",source={ID=3985,SourceName="Grandpa Vishas",SourceType="Kill",DropChance="0.2",Zone="Alterac Mountains"}}
 items[6409] = {id=6409,name="Insignia Belt",source={ID=14693,SourceName="Scorn",SourceType="Kill",DropChance="0.4",Zone="Scarlet Monastery"}}
 items[15148] = {id=15148,name="Ghostwalker Belt",source={ID=14228,SourceName="Giggler",SourceType="Kill",DropChance="1.5",Zone="Desolace"}}
 items[9405] = {id=9405,name="Girdle of Golem Strength",source={ID=206,SourceName="Nightbane Vile Fang",SourceType="Kill",DropChance="0",Zone="Duskwood"}}
-items[7422] = {id=7422,name="Phalanx Girdle",source={ID=10647,SourceName="Prince Raze",SourceType="Kill",DropChance="2.8",Zone="Ashenvale"}}
-items[4699] = {id=4699,name="Seer's Belt",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.8",Zone="Ghostlands"}}
+items[7422] = {id=7422,name="Phalanx Girdle",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
+items[4699] = {id=4699,name="Seer's Belt",source={ID=22062,SourceName="Dr. Whitherlimb",SourceType="Kill",DropChance="4.5",Zone="Ghostlands"}}
 items[6539] = {id=6539,name="Willow Belt",source={ID=2186,SourceName="Carnivous the Breaker",SourceType="Kill",DropChance="9.4",Zone="Darkshore"}}
 items[152] = {id=152,name="OLDPrimitive Leather Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34528] = {id=34528,name="Cord of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34547] = {id=34547,name="Onslaught Waistguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33885] = {id=33885,name="Vindicator's Kodohide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34528] = {id=34528,name="Cord of Absolution",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34547] = {id=34547,name="Onslaught Waistguard",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33885] = {id=33885,name="Vindicator's Kodohide Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32606] = {id=32606,name="Girdle of the Lightbearer",source={ID=22873,SourceName="Coilskar General",SourceType="Kill",DropChance="2.0",Zone="Unknown"}}
 items[33211] = {id=33211,name="Bladeangel's Money Belt",source={ID=23576,SourceName="Nalorakk",SourceType="Kill",DropChance="13.3",Zone="Unknown"}}
-items[33559] = {id=33559,name="Starfire Waistband",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28446] = {id=28446,name="General's Wyrmhide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32985] = {id=32985,name="Marshal's Ornamented Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33559] = {id=33559,name="Starfire Waistband",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28446] = {id=28446,name="General's Wyrmhide Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32985] = {id=32985,name="Marshal's Ornamented Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[27783] = {id=27783,name="Moonrage Girdle",source={ID=17797,SourceName="Hydromancer Thespia",SourceType="Kill",DropChance="8.1",Zone="The Steamvault"}}
 items[30463] = {id=30463,name="Lifeblood Belt",source={ID=36670,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31199] = {id=31199,name="Voidweave Cilice",source={ID=18683,SourceName="Voidhunter Yar",SourceType="Kill",DropChance="45.4",Zone="Unknown"}}
@@ -328,46 +328,46 @@ items[16864] = {id=16864,name="Belt of Might",source={ID=11673,SourceName="Ancie
 items[14327] = {id=14327,name="Resplendent Belt",source={ID=14398,SourceName="Eldreth Darter",SourceType="Kill",DropChance="0.4",Zone="Dire Maul"}}
 items[15673] = {id=15673,name="Magnificent Belt",source={ID=10663,SourceName="Manaclaw",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
 items[11783] = {id=11783,name="Chillsteel Girdle",source={ID=9041,SourceName="Warder Stilgiss",SourceType="Kill",DropChance="25.5",Zone="Blackrock Depths"}}
-items[10166] = {id=10166,name="Templar Girdle",source={ID=10077,SourceName="Deathmaw",SourceType="Kill",DropChance="4.3",Zone="Burning Steppes"}}
+items[10166] = {id=10166,name="Templar Girdle",source={ID=10077,SourceName="Deathmaw",SourceType="Kill",DropChance="4.2",Zone="Burning Steppes"}}
 items[20088] = {id=20088,name="Highlander's Chain Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[12416] = {id=12416,name="Radiant Belt",source={ID=16645,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[186021] = {id=186021,name="Communal Sash",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14950] = {id=14950,name="Bloodforged Belt",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
 items[20089] = {id=20089,name="Highlander's Chain Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20153] = {id=20153,name="Defiler's Chain Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[3800] = {id=3800,name="Hardened Leather Belt",source={ID=4394,SourceName="Bubbling Swamp Ooze",SourceType="Kill",DropChance="1.1",Zone="Dustwallow Marsh"}}
-items[7462] = {id=7462,name="Knight's Girdle",source={ID=14231,SourceName="Drogoth the Roamer",SourceType="Kill",DropChance="4.5",Zone="Dustwallow Marsh"}}
+items[3800] = {id=3800,name="Hardened Leather Belt",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
+items[7462] = {id=7462,name="Knight's Girdle",source={ID=14231,SourceName="Drogoth the Roamer",SourceType="Kill",DropChance="4.4",Zone="Dustwallow Marsh"}}
 items[7448] = {id=7448,name="Sentinel Girdle",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
-items[3808] = {id=3808,name="Double Mail Belt",source={ID=23591,SourceName="Defias Diver",SourceType="Kill",DropChance="2.7",Zone="Dustwallow Marsh"}}
+items[3808] = {id=3808,name="Double Mail Belt",source={ID=23591,SourceName="Defias Diver",SourceType="Kill",DropChance="2.3",Zone="Dustwallow Marsh"}}
 items[20172] = {id=20172,name="Defiler's Lizardhide Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[14373] = {id=14373,name="Sanguine Belt",source={ID=3736,SourceName="Darkslayer Mordenthal",SourceType="Kill",DropChance="0.8",Zone="Ashenvale"}}
-items[3378] = {id=3378,name="Brocade Belt",source={ID=5932,SourceName="Taskmaster Whipfang",SourceType="Kill",DropChance="1.3",Zone="Stonetalon Mountains"}}
-items[14559] = {id=14559,name="Prospector's Sash",source={ID=22060,SourceName="Fenissa the Assassin",SourceType="Kill",DropChance="3.2",Zone="Bloodmyst Isle"}}
+items[3378] = {id=3378,name="Brocade Belt",source={ID=5932,SourceName="Taskmaster Whipfang",SourceType="Kill",DropChance="1.5",Zone="Stonetalon Mountains"}}
+items[14559] = {id=14559,name="Prospector's Sash",source={ID=22060,SourceName="Fenissa the Assassin",SourceType="Kill",DropChance="2.6",Zone="Bloodmyst Isle"}}
 items[832] = {id=832,name="Silver Defias Belt",source={ID=121,SourceName="Defias Pathstalker",SourceType="Kill",DropChance="3.8",Zone="Westfall"}}
 items[15480] = {id=15480,name="War Torn Girdle",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="1.0",Zone="The Barrens"}}
 items[2399] = {id=2399,name="Light Chain Belt",source={ID=2135,SourceName="Abe Winters",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[7026] = {id=7026,name="Linen Belt",source={ID=8776,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[58] = {id=58,name="OLDAcolyte's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[137] = {id=137,name="OLDNeophyte's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33891] = {id=33891,name="Vindicator's Leather Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34923] = {id=34923,name="Waistguard of Reparation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32804] = {id=32804,name="Veteran's Mail Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32808] = {id=32808,name="Veteran's Wyrmhide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33386] = {id=33386,name="Man'kin'do's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28629] = {id=28629,name="General's Linked Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33891] = {id=33891,name="Vindicator's Leather Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34923] = {id=34923,name="Waistguard of Reparation",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32804] = {id=32804,name="Veteran's Mail Girdle",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32808] = {id=32808,name="Veteran's Wyrmhide Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33386] = {id=33386,name="Man'kin'do's Belt",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28629] = {id=28629,name="General's Linked Girdle",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[25014] = {id=25014,name="Shattered Hand Belt",source={ID=17695,SourceName="Shattered Hand Assassin",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
 items[27542] = {id=27542,name="Cord of Belief",source={ID=17941,SourceName="Mennu the Betrayer",SourceType="Kill",DropChance="20.0",Zone="The Slave Pens"}}
 items[31198] = {id=31198,name="Voidhide Cord",source={ID=18683,SourceName="Voidhunter Yar",SourceType="Kill",DropChance="45.4",Zone="Unknown"}}
-items[24733] = {id=24733,name="Sunroc Waistband",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24733] = {id=24733,name="Sunroc Waistband",source={ID=17815,SourceName="Lordaeron Sentry",SourceType="Kill",DropChance="0.1",Zone="Old Hillsbrad Foothills"}}
 items[24950] = {id=24950,name="Bogslayer Belt",source={ID=17732,SourceName="Lykul Wasp",SourceType="Kill",DropChance="25.0",Zone="The Underbog"}}
 items[31228] = {id=31228,name="Feathered Belt",source={ID=18685,SourceName="Okrek",SourceType="Kill",DropChance="46.0",Zone="Terokkar Forest"}}
 items[16960] = {id=16960,name="Waistband of Wrath",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="43.1",Zone="Blackwing Lair"}}
 items[16828] = {id=16828,name="Cenarion Belt",source={ID=11661,SourceName="Flamewaker",SourceType="Kill",DropChance="2.1",Zone="Molten Core"}}
 items[16858] = {id=16858,name="Lawbringer Belt",source={ID=12119,SourceName="Flamewaker Protector",SourceType="Kill",DropChance="1.0",Zone="Molten Core"}}
-items[12589] = {id=12589,name="Dustfeather Sash",source={ID=10264,SourceName="Solakar Flamewreath",SourceType="Kill",DropChance="19.2",Zone="Blackrock Spire"}}
+items[12589] = {id=12589,name="Dustfeather Sash",source={ID=10264,SourceName="Solakar Flamewreath",SourceType="Kill",DropChance="19.3",Zone="Blackrock Spire"}}
 items[12606] = {id=12606,name="Crystallized Girdle",source={ID=10264,SourceName="Solakar Flamewreath",SourceType="Kill",DropChance="17.1",Zone="Blackrock Spire"}}
 items[14465] = {id=14465,name="Elunarian Belt",source={ID=11498,SourceName="Skarr the Unbreakable",SourceType="Kill",DropChance="0.4",Zone="Unknown"}}
-items[15683] = {id=15683,name="Triumphant Girdle",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.3",Zone="Azshara"}}
+items[15683] = {id=15683,name="Triumphant Girdle",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.2",Zone="Azshara"}}
 items[19093] = {id=19093,name="Stormpike Leather Girdle",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16696] = {id=16696,name="Devout Belt",source={ID=9818,SourceName="Blackhand Summoner",SourceType="Kill",DropChance="5.4",Zone="Blackrock Spire"}}
 items[20115] = {id=20115,name="Highlander's Leather Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
@@ -375,13 +375,13 @@ items[20124] = {id=20124,name="Highlander's Plate Girdle",source={ID=15127,Sourc
 items[20174] = {id=20174,name="Defiler's Lizardhide Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20179] = {id=20179,name="Defiler's Lamellar Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20196] = {id=20196,name="Defiler's Mail Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[9947] = {id=9947,name="Chieftain's Belt",source={ID=5346,SourceName="Bloodroar the Stalker",SourceType="Kill",DropChance="6.5",Zone="Feralas"}}
-items[10206] = {id=10206,name="Overlord's Girdle",source={ID=8202,SourceName="Cyclok the Mad",SourceType="Kill",DropChance="6.3",Zone="Tanaris"}}
+items[9947] = {id=9947,name="Chieftain's Belt",source={ID=5346,SourceName="Bloodroar the Stalker",SourceType="Kill",DropChance="6.4",Zone="Feralas"}}
+items[10206] = {id=10206,name="Overlord's Girdle",source={ID=8202,SourceName="Cyclok the Mad",SourceType="Kill",DropChance="6.2",Zone="Tanaris"}}
 items[14446] = {id=14446,name="Venomshroud Belt",source={ID=12206,SourceName="Primordial Behemoth",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
-items[11861] = {id=11861,name="Girdle of Reprisal",source={ID=4450,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[11861] = {id=11861,name="Girdle of Reprisal",source={ID=4450,SourceName="Ledger from Tanaris",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
 items[14783] = {id=14783,name="Khan's Belt",source={ID=13738,SourceName="Veng",SourceType="Kill",DropChance="1.2",Zone="Unknown"}}
 items[14652] = {id=14652,name="Scorpashi Sash",source={ID=10080,SourceName="Sandarr Dunereaver",SourceType="Kill",DropChance="0.9",Zone="Zul'Farrak"}}
-items[4131] = {id=4131,name="Belt of Corruption",source={ID=621,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[4131] = {id=4131,name="Belt of Corruption",source={ID=621,SourceName="Zanzil's Secret",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[9916] = {id=9916,name="Tracker's Belt",source={ID=15469,SourceName="Senior Sergeant T'kelah",SourceType="Kill",DropChance="4.3",Zone="Orgrimmar"}}
 items[20119] = {id=20119,name="Highlander's Mail Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20173] = {id=20173,name="Defiler's Lizardhide Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
@@ -389,17 +389,17 @@ items[20198] = {id=20198,name="Defiler's Mail Girdle",source={ID=15126,SourceNam
 items[3936] = {id=3936,name="Crochet Belt",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="1.2",Zone="Tanaris"}}
 items[14255] = {id=14255,name="Lunar Belt",source={ID=4329,SourceName="Firemane Scout",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[15606] = {id=15606,name="Ancient Belt",source={ID=5402,SourceName="Khan Hratha",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
-items[15361] = {id=15361,name="Trickster's Sash",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
-items[14217] = {id=14217,name="Geomancer's Cord",source={ID=23701,SourceName="Mirefin Ambusher",SourceType="Kill",DropChance="1.2",Zone="Dustwallow Marsh"}}
+items[15361] = {id=15361,name="Trickster's Sash",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
+items[14217] = {id=14217,name="Geomancer's Cord",source={ID=23590,SourceName="Defias Conjuror",SourceType="Kill",DropChance="1.5",Zone="Dustwallow Marsh"}}
 items[4720] = {id=4720,name="Nightsky Sash",source={ID=4285,SourceName="Scarlet Disciple",SourceType="Kill",DropChance="0.3",Zone="Tirisfal Glades"}}
 items[20105] = {id=20105,name="Highlander's Lizardhide Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[9840] = {id=9840,name="Banded Girdle",source={ID=12037,SourceName="Ursol'lok",SourceType="Kill",DropChance="6.7",Zone="Ashenvale"}}
-items[9827] = {id=9827,name="Scaled Leather Belt",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="7.5",Zone="Stonetalon Mountains"}}
+items[9840] = {id=9840,name="Banded Girdle",source={ID=12037,SourceName="Ursol'lok",SourceType="Kill",DropChance="6.6",Zone="Ashenvale"}}
+items[9827] = {id=9827,name="Scaled Leather Belt",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
 items[14578] = {id=14578,name="Dokebi Cord",source={ID=4519,SourceName="Death's Head Seer",SourceType="Kill",DropChance="0.8",Zone="Razorfen Kraul"}}
 items[4827] = {id=4827,name="Wizard's Belt",source={ID=1307,SourceName="Charys Yserian",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[2148] = {id=2148,name="Polished Scale Belt",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[13011] = {id=13011,name="Silver-lined Belt",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="9.4",Zone="The Barrens"}}
-items[5975] = {id=5975,name="Ruffian Belt",source={ID=1944,SourceName="Rot Hide Bruiser",SourceType="Kill",DropChance="67.9",Zone="Silverpine Forest"}}
+items[5975] = {id=5975,name="Ruffian Belt",source={ID=1944,SourceName="Rot Hide Bruiser",SourceType="Kill",DropChance="68.0",Zone="Silverpine Forest"}}
 items[1299] = {id=1299,name="Lesser Belt of the Spire",source={ID=436,SourceName="Blackrock Shadowcaster",SourceType="Kill",DropChance="2.3",Zone="Redridge Mountains"}}
 items[6570] = {id=6570,name="Shimmering Sash",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
 items[6576] = {id=6576,name="Defender Girdle",source={ID=10644,SourceName="Mist Howler",SourceType="Kill",DropChance="6.0",Zone="Ashenvale"}}
@@ -407,29 +407,29 @@ items[9775] = {id=9775,name="Bandit Cinch",source={ID=15813,SourceName="Qiraji O
 items[1843] = {id=1843,name="Tanned Leather Belt",source={ID=896,SourceName="Veldan Lightfoot",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[15003] = {id=15003,name="Primal Belt",source={ID=5808,SourceName="Warlord Kolkanis",SourceType="Kill",DropChance="13.5",Zone="Durotar"}}
 items[42] = {id=42,name="OLDSquire's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35156] = {id=35156,name="Guardian's Leather Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35158] = {id=35158,name="Guardian's Mail Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33877] = {id=33877,name="Vindicator's Chain Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33882] = {id=33882,name="Vindicator's Dreadweave Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33907] = {id=33907,name="Vindicator's Ringmail Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33909] = {id=33909,name="Vindicator's Scaled Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35156] = {id=35156,name="Guardian's Leather Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35158] = {id=35158,name="Guardian's Mail Girdle",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33877] = {id=33877,name="Vindicator's Chain Girdle",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33882] = {id=33882,name="Vindicator's Dreadweave Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33907] = {id=33907,name="Vindicator's Ringmail Girdle",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33909] = {id=33909,name="Vindicator's Scaled Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30919] = {id=30919,name="Valestalker Girdle",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="18.5",Zone="Hyjal Summit"}}
 items[32258] = {id=32258,name="Naturalist's Preserving Cinch",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="11.6",Zone="Black Temple"}}
 items[32333] = {id=32333,name="Girdle of Stability",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="20.6",Zone="Black Temple"}}
-items[32797] = {id=32797,name="Veteran's Chain Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32807] = {id=32807,name="Veteran's Silk Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32797] = {id=32797,name="Veteran's Chain Girdle",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32807] = {id=32807,name="Veteran's Silk Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29984] = {id=29984,name="Girdle of Zaetar",source={ID=19516,SourceName="Void Reaver",SourceType="Kill",DropChance="2.9",Zone="Tempest Keep"}}
-items[28644] = {id=28644,name="General's Scaled Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32995] = {id=32995,name="Marshal's Ringmail Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31462] = {id=31462,name="Shattrath's Champion Belt",source={ID=10704,SourceName="",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
-items[29771] = {id=29771,name="Kirin'Var Journeyman's Belt",source={ID=10188,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[28644] = {id=28644,name="General's Scaled Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32995] = {id=32995,name="Marshal's Ringmail Girdle",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31462] = {id=31462,name="Shattrath's Champion Belt",source={ID=10704,SourceName="How to Break Into the Arcatraz",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
+items[29771] = {id=29771,name="Kirin'Var Journeyman's Belt",source={ID=10188,SourceName="The Sigil of Krasus",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[31197] = {id=31197,name="Voidscale Belt",source={ID=18683,SourceName="Voidhunter Yar",SourceType="Kill",DropChance="45.4",Zone="Unknown"}}
 items[31227] = {id=31227,name="Feathered Girdle",source={ID=18685,SourceName="Okrek",SourceType="Kill",DropChance="38.0",Zone="Terokkar Forest"}}
 items[23484] = {id=23484,name="Fel Iron Plate Belt",source={ID=29547,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16933] = {id=16933,name="Nemesis Belt",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="40.6",Zone="Blackwing Lair"}}
 items[16944] = {id=16944,name="Belt of Ten Storms",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="18.0",Zone="Blackwing Lair"}}
 items[21692] = {id=21692,name="Triad Girdle",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="22.5",Zone="Ahn'Qiraj"}}
-items[20625] = {id=20625,name="Belt of the Dark Bog",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="15.2",Zone="Duskwood"}}
+items[20625] = {id=20625,name="Belt of the Dark Bog",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="15.3",Zone="Duskwood"}}
 items[10259] = {id=10259,name="Adventurer's Belt",source={ID=1851,SourceName="The Husk",SourceType="Kill",DropChance="5.4",Zone="Western Plaguelands"}}
 items[13950] = {id=13950,name="Detention Strap",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="0.8",Zone="Scholomance"}}
 items[18391] = {id=18391,name="Eyestalk Cord",source={ID=11496,SourceName="Immol'thar",SourceType="Kill",DropChance="23.8",Zone="Dire Maul"}}
@@ -444,8 +444,8 @@ items[15191] = {id=15191,name="Grand Belt",source={ID=10663,SourceName="Manaclaw
 items[15428] = {id=15428,name="Peerless Belt",source={ID=6504,SourceName="Thunderstomp Stegodon",SourceType="Kill",DropChance="1.3",Zone="Un'Goro Crater"}}
 items[3969] = {id=3969,name="Smooth Leather Belt",source={ID=7068,SourceName="Condemned Acolyte",SourceType="Kill",DropChance="2.6",Zone="Hillsbrad Foothills"}}
 items[10122] = {id=10122,name="Ornate Girdle",source={ID=10825,SourceName="Gish the Unmoving",SourceType="Kill",DropChance="3.2",Zone="Eastern Plaguelands"}}
-items[11703] = {id=11703,name="Stonewall Girdle",source={ID=9028,SourceName="Grizzle",SourceType="Kill",DropChance="30.3",Zone="Blackrock Depths"}}
-items[11909] = {id=11909,name="Excavator's Utility Belt",source={ID=3882,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[11703] = {id=11703,name="Stonewall Girdle",source={ID=9028,SourceName="Grizzle",SourceType="Kill",DropChance="30.1",Zone="Blackrock Depths"}}
+items[11909] = {id=11909,name="Excavator's Utility Belt",source={ID=3882,SourceName="Roll the Bones",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
 items[10109] = {id=10109,name="Wanderer's Belt",source={ID=9604,SourceName="Gorgon'och",SourceType="Kill",DropChance="6.6",Zone="Burning Steppes"}}
 items[15654] = {id=15654,name="Merciless Belt",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[15180] = {id=15180,name="Praetorian Girdle",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
@@ -454,18 +454,18 @@ items[186037] = {id=186037,name="Communal Belt",source={ID=0,SourceName="",Sourc
 items[14289] = {id=14289,name="Arachnidian Girdle",source={ID=6131,SourceName="Draconic Mageweaver",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
 items[14276] = {id=14276,name="Gaea's Belt",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.2",Zone="Maraudon"}}
 items[7535] = {id=7535,name="Cabalist Belt",source={ID=5343,SourceName="Lady Szallah",SourceType="Kill",DropChance="5.1",Zone="Feralas"}}
-items[7546] = {id=7546,name="Champion's Girdle",source={ID=8199,SourceName="Warleader Krazzilak",SourceType="Kill",DropChance="5.2",Zone="Tanaris"}}
+items[7546] = {id=7546,name="Champion's Girdle",source={ID=8199,SourceName="Warleader Krazzilak",SourceType="Kill",DropChance="5.0",Zone="Tanaris"}}
 items[14435] = {id=14435,name="Windchaser Cinch",source={ID=15752,SourceName="Silithid Flayer",SourceType="Kill",DropChance="0.3",Zone="Thousand Needles"}}
 items[20104] = {id=20104,name="Highlander's Lizardhide Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20107] = {id=20107,name="Highlander's Lamellar Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20206] = {id=20206,name="Defiler's Plate Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[7494] = {id=7494,name="Captain's Waistguard",source={ID=14224,SourceName="7:XT",SourceType="Kill",DropChance="4.1",Zone="Badlands"}}
-items[4727] = {id=4727,name="Chief Brigadier Girdle",source={ID=862,SourceName="Stonard Explorer",SourceType="Kill",DropChance="0.2",Zone="Swamp of Sorrows"}}
+items[4727] = {id=4727,name="Chief Brigadier Girdle",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="0.5",Zone="Uldaman"}}
 items[15154] = {id=15154,name="Nocturnal Sash",source={ID=14233,SourceName="Ripscale",SourceType="Kill",DropChance="0.4",Zone="Dustwallow Marsh"}}
 items[14235] = {id=14235,name="Embersilk Cord",source={ID=7341,SourceName="Skeletal Frostweaver",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
-items[3792] = {id=3792,name="Interlaced Belt",source={ID=1421,SourceName="Private Merle",SourceType="Kill",DropChance="1.2",Zone="Stranglethorn Vale"}}
+items[3792] = {id=3792,name="Interlaced Belt",source={ID=23593,SourceName="Grimtotem Spirit-Shifter",SourceType="Kill",DropChance="1.3",Zone="Dustwallow Marsh"}}
 items[20117] = {id=20117,name="Highlander's Leather Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[7406] = {id=7406,name="Infiltrator Cord",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="8.5",Zone="Alterac Mountains"}}
+items[7406] = {id=7406,name="Infiltrator Cord",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="8.3",Zone="Alterac Mountains"}}
 items[4712] = {id=4712,name="Glimmering Mail Girdle",source={ID=4280,SourceName="Scarlet Preserver",SourceType="Kill",DropChance="0.2",Zone="Tirisfal Glades"}}
 items[6398] = {id=6398,name="Emblazoned Belt",source={ID=462,SourceName="Vultros",SourceType="Kill",DropChance="0.6",Zone="Westfall"}}
 items[6594] = {id=6594,name="Battleforge Girdle",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="3.7",Zone="Stonetalon Mountains"}}
@@ -475,30 +475,30 @@ items[6460] = {id=6460,name="Cobrahn's Grasp",source={ID=3669,SourceName="Lord C
 items[5750] = {id=5750,name="Warchief's Girdle",source={ID=2090,SourceName="Ma'ruk Wyrmscale",SourceType="Kill",DropChance="70.1",Zone="Wetlands"}}
 items[4436] = {id=4436,name="Jewel-encrusted Sash",source={ID=1920,SourceName="Dalaran Spellscribe",SourceType="Kill",DropChance="69.8",Zone="Silverpine Forest"}}
 items[14131] = {id=14131,name="Ritual Belt",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="2.8",Zone="The Barrens"}}
-items[3376] = {id=3376,name="Canvas Belt",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="5.5",Zone="Bloodmyst Isle"}}
-items[6379] = {id=6379,name="Inscribed Leather Belt",source={ID=16321,SourceName="Wailer",SourceType="Kill",DropChance="0.6",Zone="Ghostlands"}}
-items[3344] = {id=3344,name="Captain Sander's Sash",source={ID=140,SourceName="",SourceType="Quest",DropChance="0",Zone="Westfall"}}
-items[6558] = {id=6558,name="Bard's Belt",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="4.7",Zone="Silverpine Forest"}}
+items[3376] = {id=3376,name="Canvas Belt",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="4.1",Zone="Bloodmyst Isle"}}
+items[6379] = {id=6379,name="Inscribed Leather Belt",source={ID=16321,SourceName="Wailer",SourceType="Kill",DropChance="0.5",Zone="Ghostlands"}}
+items[3344] = {id=3344,name="Captain Sander's Sash",source={ID=140,SourceName="Captain Sander's Hidden Treasure",SourceType="Quest",DropChance="0",Zone="Westfall"}}
+items[6558] = {id=6558,name="Bard's Belt",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="4.6",Zone="Silverpine Forest"}}
 items[15492] = {id=15492,name="Bloodspattered Sash",source={ID=12321,SourceName="Stormscale Toxicologist",SourceType="Kill",DropChance="1.3",Zone="Darkshore"}}
-items[3374] = {id=3374,name="Calico Belt",source={ID=13157,SourceName="Makasgar",SourceType="Kill",DropChance="5.4",Zone="Durotar"}}
-items[4693] = {id=4693,name="Ceremonial Leather Belt",source={ID=17322,SourceName="Infected Wildkin",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
-items[9742] = {id=9742,name="Simple Cord",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
-items[6147] = {id=6147,name="Ratty Old Belt",source={ID=79,SourceName="Narg the Taskmaster",SourceType="Kill",DropChance="84.1",Zone="Elwynn Forest"}}
+items[3374] = {id=3374,name="Calico Belt",source={ID=13157,SourceName="Makasgar",SourceType="Kill",DropChance="5.3",Zone="Durotar"}}
+items[4693] = {id=4693,name="Ceremonial Leather Belt",source={ID=17322,SourceName="Infected Wildkin",SourceType="Kill",DropChance="0.7",Zone="Bloodmyst Isle"}}
+items[9742] = {id=9742,name="Simple Cord",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
+items[6147] = {id=6147,name="Ratty Old Belt",source={ID=79,SourceName="Narg the Taskmaster",SourceType="Kill",DropChance="84.2",Zone="Elwynn Forest"}}
 items[1418] = {id=1418,name="Worn Leather Belt",source={ID=2162,SourceName="Agal",SourceType="Kill",DropChance="2.4",Zone="Teldrassil"}}
 items[1835] = {id=1835,name="Dirty Leather Belt",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[20920] = {id=20920,name="Sun Cured Belt",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
-items[33879] = {id=33879,name="Vindicator's Dragonhide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33879] = {id=33879,name="Vindicator's Dragonhide Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30888] = {id=30888,name="Anetheron's Noose",source={ID=17808,SourceName="Anetheron",SourceType="Kill",DropChance="18.1",Zone="Hyjal Summit"}}
 items[30895] = {id=30895,name="Angelista's Sash",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="17.2",Zone="Hyjal Summit"}}
 items[32276] = {id=32276,name="Flashfire Girdle",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="7.4",Zone="Black Temple"}}
-items[34932] = {id=34932,name="Clutch of the Soothing Breeze",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32799] = {id=32799,name="Veteran's Dreadweave Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34932] = {id=34932,name="Clutch of the Soothing Breeze",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32799] = {id=32799,name="Veteran's Dreadweave Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[31571] = {id=31571,name="Mistshroud Belt",source={ID=23161,SourceName="Darkscreecher Akkarai",SourceType="Kill",DropChance="8.8",Zone="Unknown"}}
-items[29772] = {id=29772,name="Kirin'Var Scout's Belt",source={ID=10188,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30383] = {id=30383,name="Belt of the Sage",source={ID=10198,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[25567] = {id=25567,name="Cord of the Ring",source={ID=9862,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[29772] = {id=29772,name="Kirin'Var Scout's Belt",source={ID=10188,SourceName="The Sigil of Krasus",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30383] = {id=30383,name="Belt of the Sage",source={ID=10198,SourceName="Information Gathering",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[25567] = {id=25567,name="Cord of the Ring",source={ID=9862,SourceName="Murkblood Corrupters",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[31195] = {id=31195,name="Voidplate Girdle",source={ID=18683,SourceName="Voidhunter Yar",SourceType="Kill",DropChance="45.4",Zone="Unknown"}}
-items[27637] = {id=27637,name="Shadowstalker's Sash",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27637] = {id=27637,name="Shadowstalker's Sash",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[24605] = {id=24605,name="Laughing Skull Waistguard",source={ID=17960,SourceName="Coilfang Soothsayer",SourceType="Kill",DropChance="25.0",Zone="The Slave Pens"}}
 items[24806] = {id=24806,name="Unyielding Waistband",source={ID=18975,SourceName="Wrathguard",SourceType="Kill",DropChance="0.9",Zone="Hellfire Peninsula"}}
 items[16936] = {id=16936,name="Dragonstalker's Belt",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="37.4",Zone="Blackwing Lair"}}
@@ -507,16 +507,16 @@ items[13142] = {id=13142,name="Brigam Girdle",source={ID=10363,SourceName="Gener
 items[13502] = {id=13502,name="Handcrafted Mastersmith Girdle",source={ID=10899,SourceName="Goraluk Anvilcrack",SourceType="Kill",DropChance="7.7",Zone="Blackrock Spire"}}
 items[20177] = {id=20177,name="Defiler's Lamellar Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[10269] = {id=10269,name="Masterwork Girdle",source={ID=14473,SourceName="Lapress",SourceType="Kill",DropChance="6.9",Zone="Silithus"}}
-items[13526] = {id=13526,name="Flamescarred Girdle",source={ID=10438,SourceName="Maleki the Pallid",SourceType="Kill",DropChance="11.3",Zone="Stratholme"}}
-items[10154] = {id=10154,name="Mercurial Girdle",source={ID=14401,SourceName="Master Elemental Shaper Krixix",SourceType="Kill",DropChance="7.1",Zone="Blackwing Lair"}}
+items[13526] = {id=13526,name="Flamescarred Girdle",source={ID=10438,SourceName="Maleki the Pallid",SourceType="Kill",DropChance="11.2",Zone="Stratholme"}}
+items[10154] = {id=10154,name="Mercurial Girdle",source={ID=14401,SourceName="Master Elemental Shaper Krixix",SourceType="Kill",DropChance="6.2",Zone="Blackwing Lair"}}
 items[15434] = {id=15434,name="Supreme Sash",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="5.6",Zone="Duskwood"}}
 items[18740] = {id=18740,name="Thuzadin Sash",source={ID=10437,SourceName="Nerub'enkan",SourceType="Kill",DropChance="18.2",Zone="Stratholme"}}
 items[22325] = {id=22325,name="Belt of the Trickster",source={ID=16080,SourceName="Mor Grayhoof",SourceType="Kill",DropChance="18.5",Zone="Blackrock Spire"}}
 items[14684] = {id=14684,name="Indomitable Belt",source={ID=4368,SourceName="Strashaz Myrmidon",SourceType="Kill",DropChance="1.6",Zone="Dustwallow Marsh"}}
-items[14977] = {id=14977,name="Exalted Girdle",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="4.9",Zone="Duskwood"}}
+items[14977] = {id=14977,name="Exalted Girdle",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="4.8",Zone="Duskwood"}}
 items[18475] = {id=18475,name="Oddly Magical Belt",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="3.4",Zone="Dire Maul"}}
 items[8306] = {id=8306,name="Hero's Belt",source={ID=1046,SourceName="Red Wyrmkin",SourceType="Kill",DropChance="0.3",Zone="Wetlands"}}
-items[13403] = {id=13403,name="Grimgore Noose",source={ID=10808,SourceName="Timmy the Cruel",SourceType="Kill",DropChance="18.5",Zone="Stratholme"}}
+items[13403] = {id=13403,name="Grimgore Noose",source={ID=10808,SourceName="Timmy the Cruel",SourceType="Kill",DropChance="18.7",Zone="Stratholme"}}
 items[14808] = {id=14808,name="Warstrike Belt",source={ID=9516,SourceName="Lord Banehollow",SourceType="Kill",DropChance="0.7",Zone="Felwood"}}
 items[19047] = {id=19047,name="Wisdom of the Timbermaw",source={ID=23662,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19051] = {id=19051,name="Girdle of the Dawn",source={ID=23632,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -525,9 +525,9 @@ items[10233] = {id=10233,name="Engraved Girdle",source={ID=1850,SourceName="Putr
 items[10370] = {id=10370,name="Imbued Plate Girdle",source={ID=9437,SourceName="Dark Keeper Vorfalk",SourceType="Kill",DropChance="1.2",Zone="Blackrock Depths"}}
 items[8291] = {id=8291,name="Arcane Sash",source={ID=9442,SourceName="Dark Keeper Ofgut",SourceType="Kill",DropChance="0.7",Zone="Blackrock Depths"}}
 items[14309] = {id=14309,name="Celestial Belt",source={ID=6144,SourceName="Son of Arkkoroc",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
-items[10278] = {id=10278,name="Emerald Girdle",source={ID=7851,SourceName="Nethergarde Elite",SourceType="Kill",DropChance="11.1",Zone="Blasted Lands"}}
+items[10278] = {id=10278,name="Emerald Girdle",source={ID=7851,SourceName="Nethergarde Elite",SourceType="Kill",DropChance="9.0",Zone="Blasted Lands"}}
 items[11686] = {id=11686,name="Girdle of Beastial Fury",source={ID=9029,SourceName="Eviscerator",SourceType="Kill",DropChance="19.5",Zone="Blackrock Depths"}}
-items[11866] = {id=11866,name="Nagmara's Whipping Belt",source={ID=4201,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
+items[11866] = {id=11866,name="Nagmara's Whipping Belt",source={ID=4201,SourceName="The Love Potion",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
 items[14304] = {id=14304,name="Bonecaster's Belt",source={ID=6144,SourceName="Son of Arkkoroc",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[14674] = {id=14674,name="Pridelord Girdle",source={ID=6144,SourceName="Son of Arkkoroc",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[14968] = {id=14968,name="Glorious Belt",source={ID=14522,SourceName="Ur'dan",SourceType="Kill",DropChance="3.9",Zone="Felwood"}}
@@ -581,45 +581,45 @@ items[6418] = {id=6418,name="Aurora Sash",source={ID=2753,SourceName="Barnabus",
 items[9855] = {id=9855,name="Archer's Belt",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
 items[14761] = {id=14761,name="Enduring Belt",source={ID=14228,SourceName="Giggler",SourceType="Kill",DropChance="0.5",Zone="Desolace"}}
 items[4456] = {id=4456,name="Raptor Hide Belt",source={ID=4097,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[15554] = {id=15554,name="Pillager's Girdle",source={ID=7872,SourceName="Death's Head Cultist",SourceType="Kill",DropChance="0.1",Zone="The Barrens"}}
+items[15554] = {id=15554,name="Pillager's Girdle",source={ID=7874,SourceName="Razorfen Thornweaver",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
 items[4257] = {id=4257,name="Green Leather Belt",source={ID=3774,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14205] = {id=14205,name="Thistlefur Belt",source={ID=4842,SourceName="Earthcaller Halmgar",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
 items[15549] = {id=15549,name="Thick Scale Belt",source={ID=3414,SourceName="General Twinbraid",SourceType="Kill",DropChance="0.1",Zone="The Barrens"}}
-items[1803] = {id=1803,name="Tough Leather Belt",source={ID=4517,SourceName="Death's Head Priest",SourceType="Kill",DropChance="0.7",Zone="Razorfen Kraul"}}
+items[1803] = {id=1803,name="Tough Leather Belt",source={ID=17108,SourceName="Forsaken Raider",SourceType="Kill",DropChance="1.1",Zone="Hillsbrad Foothills"}}
 items[3380] = {id=3380,name="Cross-stitched Belt",source={ID=14433,SourceName="Sludginn",SourceType="Kill",DropChance="1.6",Zone="Wetlands"}}
 items[4829] = {id=4829,name="Dreamer's Belt",source={ID=1307,SourceName="Charys Yserian",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[6611] = {id=6611,name="Sage's Sash",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="5.6",Zone="Stonetalon Mountains"}}
+items[6611] = {id=6611,name="Sage's Sash",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="5.5",Zone="Stonetalon Mountains"}}
 items[2142] = {id=2142,name="Cuirboulli Belt",source={ID=1314,SourceName="Duncan Cullen",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[4828] = {id=4828,name="Nightwind Belt",source={ID=1307,SourceName="Charys Yserian",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[14185] = {id=14185,name="Watcher's Cinch",source={ID=3900,SourceName="Caedakar the Vicious",SourceType="Kill",DropChance="0.3",Zone="Darkshore"}}
 items[1754] = {id=1754,name="Reinforced Chain Belt",source={ID=14433,SourceName="Sludginn",SourceType="Kill",DropChance="1.6",Zone="Wetlands"}}
 items[4707] = {id=4707,name="Lambent Scale Girdle",source={ID=4464,SourceName="Blackrock Gladiator",SourceType="Kill",DropChance="0.2",Zone="Redridge Mountains"}}
 items[15120] = {id=15120,name="Robust Girdle",source={ID=5799,SourceName="Hannah Bladeleaf",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
-items[15528] = {id=15528,name="Sentry's Sash",source={ID=3782,SourceName="Shadethicket Stone Mover",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
+items[15528] = {id=15528,name="Sentry's Sash",source={ID=12918,SourceName="Chief Murgut",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
 items[1746] = {id=1746,name="Linked Chain Belt",source={ID=1040,SourceName="Fen Creeper",SourceType="Kill",DropChance="4.8",Zone="Wetlands"}}
 items[9801] = {id=9801,name="Superior Belt",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="7.3",Zone="The Barrens"}}
 items[15515] = {id=15515,name="Spiked Chain Belt",source={ID=3736,SourceName="Darkslayer Mordenthal",SourceType="Kill",DropChance="0.4",Zone="Ashenvale"}}
 items[1795] = {id=1795,name="Rawhide Belt",source={ID=349,SourceName="Corporal Keeshan",SourceType="Kill",DropChance="3.5",Zone="Redridge Mountains"}}
-items[4785] = {id=4785,name="Brimstone Belt",source={ID=5849,SourceName="Digger Flameforge",SourceType="Kill",DropChance="26.4",Zone="The Barrens"}}
+items[4785] = {id=4785,name="Brimstone Belt",source={ID=5849,SourceName="Digger Flameforge",SourceType="Kill",DropChance="26.6",Zone="The Barrens"}}
 items[6382] = {id=6382,name="Forest Leather Belt",source={ID=521,SourceName="Lupos",SourceType="Kill",DropChance="0.2",Zone="Duskwood"}}
 items[14567] = {id=14567,name="Bristlebark Belt",source={ID=5864,SourceName="Swinegart Spearhide",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
-items[1215] = {id=1215,name="Support Girdle",source={ID=1398,SourceName="Boss Galgosh",SourceType="Kill",DropChance="60.1",Zone="Loch Modan"}}
+items[1215] = {id=1215,name="Support Girdle",source={ID=1398,SourceName="Boss Galgosh",SourceType="Kill",DropChance="60.3",Zone="Loch Modan"}}
 items[1849] = {id=1849,name="Cured Leather Belt",source={ID=1295,SourceName="Lara Moore",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[1853] = {id=1853,name="Scalemail Belt",source={ID=956,SourceName="Dorin Songblade",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
 items[3597] = {id=3597,name="Thick Cloth Belt",source={ID=1291,SourceName="Carla Granger",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[14173] = {id=14173,name="Buccaneer's Cord",source={ID=16246,SourceName="Knucklerot",SourceType="Kill",DropChance="1.6",Zone="Ghostlands"}}
-items[1738] = {id=1738,name="Laced Mail Belt",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="5.5",Zone="Bloodmyst Isle"}}
+items[14173] = {id=14173,name="Buccaneer's Cord",source={ID=16246,SourceName="Knucklerot",SourceType="Kill",DropChance="1.4",Zone="Ghostlands"}}
+items[1738] = {id=1738,name="Laced Mail Belt",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="4.1",Zone="Bloodmyst Isle"}}
 items[15497] = {id=15497,name="Outrunner's Cord",source={ID=5836,SourceName="Engineer Whirleygig",SourceType="Kill",DropChance="1.9",Zone="The Barrens"}}
-items[1787] = {id=1787,name="Patched Leather Belt",source={ID=16249,SourceName="Masophet the Black",SourceType="Kill",DropChance="2.1",Zone="Ghostlands"}}
+items[1787] = {id=1787,name="Patched Leather Belt",source={ID=16249,SourceName="Masophet the Black",SourceType="Kill",DropChance="1.8",Zone="Ghostlands"}}
 items[9788] = {id=9788,name="Raider's Belt",source={ID=5842,SourceName="Takk the Leaper",SourceType="Kill",DropChance="6.3",Zone="The Barrens"}}
 items[1845] = {id=1845,name="Chainmail Belt",source={ID=167,SourceName="Morhan Coppertongue",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
-items[1502] = {id=1502,name="Warped Leather Belt",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="3.2",Zone="Bloodmyst Isle"}}
-items[4678] = {id=4678,name="Veteran Girdle",source={ID=16311,SourceName="Phantasmal Watcher",SourceType="Kill",DropChance="1.1",Zone="Ghostlands"}}
+items[1502] = {id=1502,name="Warped Leather Belt",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="2.7",Zone="Bloodmyst Isle"}}
+items[4678] = {id=4678,name="Veteran Girdle",source={ID=16311,SourceName="Phantasmal Watcher",SourceType="Kill",DropChance="0.9",Zone="Ghostlands"}}
 items[4681] = {id=4681,name="Brackwater Girdle",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="1.0",Zone="The Barrens"}}
-items[4687] = {id=4687,name="Barbaric Cloth Belt",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="1.8",Zone="Bloodmyst Isle"}}
+items[4687] = {id=4687,name="Barbaric Cloth Belt",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="1.5",Zone="Bloodmyst Isle"}}
 items[4684] = {id=4684,name="Spellbinder Belt",source={ID=10359,SourceName="Sri'skulk",SourceType="Kill",DropChance="1.2",Zone="Tirisfal Glades"}}
 items[1730] = {id=1730,name="Worn Mail Belt",source={ID=6124,SourceName="Captain Beld",SourceType="Kill",DropChance="1.9",Zone="Dun Morogh"}}
-items[9750] = {id=9750,name="Gypsy Sash",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[9750] = {id=9750,name="Gypsy Sash",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[15302] = {id=15302,name="Grizzly Belt",source={ID=5823,SourceName="Death Flayer",SourceType="Kill",DropChance="1.8",Zone="Durotar"}}
 items[1839] = {id=1839,name="Rough Leather Belt",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[2371] = {id=2371,name="Battered Leather Belt",source={ID=2137,SourceName="Eliza Callen",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
@@ -627,54 +627,54 @@ items[2393] = {id=2393,name="Light Mail Belt",source={ID=1240,SourceName="Boran 
 items[3602] = {id=3602,name="Knitted Belt",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[3606] = {id=3606,name="Woven Belt",source={ID=3166,SourceName="Cutac",SourceType="Purchase",DropChance="100",Zone="Durotar"}}
 items[4237] = {id=4237,name="Handstitched Leather Belt",source={ID=3753,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[4669] = {id=4669,name="Battle Chain Girdle",source={ID=17320,SourceName="Bristlelimb Shaman",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
+items[4669] = {id=4669,name="Battle Chain Girdle",source={ID=5824,SourceName="Captain Flat Tusk",SourceType="Kill",DropChance="0.7",Zone="Durotar"}}
 items[4672] = {id=4672,name="Ancestral Belt",source={ID=2968,SourceName="Galak Outrunner",SourceType="Kill",DropChance="0.6",Zone="Mulgore"}}
 items[6509] = {id=6509,name="Infantry Belt",source={ID=10357,SourceName="Ressan the Needler",SourceType="Kill",DropChance="5.8",Zone="Tirisfal Glades"}}
 items[6513] = {id=6513,name="Disciple's Sash",source={ID=10356,SourceName="Bayne",SourceType="Kill",DropChance="8.0",Zone="Tirisfal Glades"}}
-items[6517] = {id=6517,name="Pioneer Belt",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
-items[4663] = {id=4663,name="Journeyman's Belt",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="4.6",Zone="Eversong Woods"}}
-items[4666] = {id=4666,name="Burnt Leather Belt",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
+items[6517] = {id=6517,name="Pioneer Belt",source={ID=10356,SourceName="Bayne",SourceType="Kill",DropChance="5.0",Zone="Tirisfal Glades"}}
+items[4663] = {id=4663,name="Journeyman's Belt",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="3.9",Zone="Eversong Woods"}}
+items[4666] = {id=4666,name="Burnt Leather Belt",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
 items[2635] = {id=2635,name="Loose Chain Belt",source={ID=6911,SourceName="Minion of Sethir",SourceType="Kill",DropChance="2.7",Zone="Teldrassil"}}
-items[3370] = {id=3370,name="Patchwork Belt",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="2.8",Zone="Eversong Woods"}}
+items[3370] = {id=3370,name="Patchwork Belt",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="2.2",Zone="Eversong Woods"}}
 items[4659] = {id=4659,name="Warrior's Girdle",source={ID=15937,SourceName="Mmmrrrggglll",SourceType="Kill",DropChance="0.4",Zone="Eversong Woods"}}
-items[1369] = {id=1369,name="Ragged Leather Belt",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="9.0",Zone="Azuremyst Isle"}}
+items[1369] = {id=1369,name="Ragged Leather Belt",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="8.6",Zone="Azuremyst Isle"}}
 items[2122] = {id=2122,name="Cracked Leather Belt",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[2380] = {id=2380,name="Tarnished Chain Belt",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
 items[3599] = {id=3599,name="Thin Cloth Belt",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[21009] = {id=21009,name="Scraggy Leather Belt",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
-items[21015] = {id=21015,name="Shoddy Chain Belt",source={ID=15274,SourceName="Mana Wyrm",SourceType="Kill",DropChance="1.0",Zone="Eversong Woods"}}
-items[35162] = {id=35162,name="Guardian's Ringmail Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34555] = {id=34555,name="Thunderheart Cord",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33895] = {id=33895,name="Vindicator's Linked Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21009] = {id=21009,name="Scraggy Leather Belt",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="2.0",Zone="Eversong Woods"}}
+items[21015] = {id=21015,name="Shoddy Chain Belt",source={ID=15273,SourceName="Arcane Wraith",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[35162] = {id=35162,name="Guardian's Ringmail Girdle",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34555] = {id=34555,name="Thunderheart Cord",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33895] = {id=33895,name="Vindicator's Linked Girdle",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30879] = {id=30879,name="Don Alejandro's Money Belt",source={ID=17808,SourceName="Anetheron",SourceType="Kill",DropChance="19.0",Zone="Hyjal Summit"}}
-items[32998] = {id=32998,name="Veteran's Ringmail Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32998] = {id=32998,name="Veteran's Ringmail Girdle",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[24537] = {id=24537,name="130 Epic Warrior Waistband",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33280] = {id=33280,name="War-Feathered Loop",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33536] = {id=33536,name="Stormwrap",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33280] = {id=33280,name="War-Feathered Loop",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33536] = {id=33536,name="Stormwrap",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[24685] = {id=24685,name="Elementalist Belt",source={ID=16482,SourceName="Trapped Soul",SourceType="Kill",DropChance="25.0",Zone="Karazhan"}}
 items[34793] = {id=34793,name="Cord of Reconstruction",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="14.1",Zone="Magisters' Terrace"}}
 items[23510] = {id=23510,name="Enchanted Adamantite Belt",source={ID=29608,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24773] = {id=24773,name="Boneshredder Belt",source={ID=21802,SourceName="Elekk Demolisher",SourceType="Kill",DropChance="7.6",Zone="Shadowmoon Valley"}}
 items[24653] = {id=24653,name="Consortium Sash",source={ID=18633,SourceName="Cabal Acolyte",SourceType="Kill",DropChance="7.1",Zone="Shadow Labyrinth"}}
-items[27644] = {id=27644,name="Avenger's Waistguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27644] = {id=27644,name="Avenger's Waistguard",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[24966] = {id=24966,name="Talonguard Girdle",source={ID=18317,SourceName="Ethereal Priest",SourceType="Kill",DropChance="4.7",Zone="Mana-Tombs"}}
 items[21607] = {id=21607,name="Grasp of the Fallen Emperor",source={ID=15275,SourceName="Emperor Vek'nilash",SourceType="Kill",DropChance="8.6",Zone="Ahn'Qiraj"}}
 items[24575] = {id=24575,name="Outlander's Girdle",source={ID=16905,SourceName="Unyielding Sorcerer",SourceType="Kill",DropChance="1.5",Zone="Hellfire Peninsula"}}
 items[19396] = {id=19396,name="Taut Dragonhide Belt",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="18.3",Zone="Blackwing Lair"}}
 items[18547] = {id=18547,name="Unmelting Ice Girdle",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="16.5",Zone="Azshara"}}
 items[22761] = {id=22761,name="Bramblewood Belt",source={ID=28474,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[16851] = {id=16851,name="Giantstalker's Belt",source={ID=11661,SourceName="Flamewaker",SourceType="Kill",DropChance="1.9",Zone="Molten Core"}}
+items[16851] = {id=16851,name="Giantstalker's Belt",source={ID=11661,SourceName="Flamewaker",SourceType="Kill",DropChance="1.8",Zone="Molten Core"}}
 items[20664] = {id=20664,name="Abyssal Cloth Sash",source={ID=15206,SourceName="The Duke of Cynders",SourceType="Kill",DropChance="35.3",Zone="Silithus"}}
 items[20195] = {id=20195,name="Defiler's Mail Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20778] = {id=20778,name="63 green shaman cord",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[10255] = {id=10255,name="Master's Belt",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="7.3",Zone="Searing Gorge"}}
+items[10255] = {id=10255,name="Master's Belt",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="11.3",Zone="Searing Gorge"}}
 items[18451] = {id=18451,name="Hyena Hide Belt",source={ID=14321,SourceName="Guard Fengus",SourceType="Kill",DropChance="11.8",Zone="Dire Maul"}}
 items[10216] = {id=10216,name="Elegant Belt",source={ID=1850,SourceName="Putridius",SourceType="Kill",DropChance="3.7",Zone="Western Plaguelands"}}
 items[14934] = {id=14934,name="Heroic Girdle",source={ID=10663,SourceName="Manaclaw",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
 items[15663] = {id=15663,name="Impenetrable Belt",source={ID=6585,SourceName="Uhk'loc",SourceType="Kill",DropChance="0.5",Zone="Un'Goro Crater"}}
 items[20118] = {id=20118,name="Highlander's Mail Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[10197] = {id=10197,name="Crusader's Belt",source={ID=14343,SourceName="Olm the Wise",SourceType="Kill",DropChance="6.7",Zone="Felwood"}}
-items[15388] = {id=15388,name="Jadefire Belt",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
+items[15388] = {id=15388,name="Jadefire Belt",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
 items[14661] = {id=14661,name="Keeper's Cord",source={ID=5460,SourceName="Centipaar Sandreaver",SourceType="Kill",DropChance="0.5",Zone="Tanaris"}}
 items[14847] = {id=14847,name="Sunscale Belt",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
 items[15636] = {id=15636,name="Formidable Belt",source={ID=3094,SourceName="Unseen",SourceType="Kill",DropChance="0",Zone="Duskwood"}}
@@ -688,17 +688,17 @@ items[4000] = {id=4000,name="Overlinked Chain Belt",source={ID=10120,SourceName=
 items[14906] = {id=14906,name="Brutish Belt",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
 items[10721] = {id=10721,name="Gnomish Harm Prevention Belt",source={ID=12903,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14838] = {id=14838,name="Tyrant's Belt",source={ID=5647,SourceName="Sandfury Firecaller",SourceType="Kill",DropChance="0.2",Zone="Tanaris"}}
-items[6788] = {id=6788,name="Magram Hunter's Belt",source={ID=1381,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[6788] = {id=6788,name="Magram Hunter's Belt",source={ID=1381,SourceName="Khan Hratha",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[12257] = {id=12257,name="Heavy Notched Belt",source={ID=2845,SourceName="Fargon Mortalak",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
 items[7485] = {id=7485,name="Ranger Cord",source={ID=14224,SourceName="7:XT",SourceType="Kill",DropChance="2.7",Zone="Badlands"}}
 items[8159] = {id=8159,name="Jouster's Girdle",source={ID=2421,SourceName="Muckrake",SourceType="Kill",DropChance="0.1",Zone="Alterac Mountains"}}
 items[7387] = {id=7387,name="Dusky Belt",source={ID=9206,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[14426] = {id=14426,name="Silksand Girdle",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.7",Zone="Dustwallow Marsh"}}
+items[14426] = {id=14426,name="Silksand Girdle",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
 items[14773] = {id=14773,name="Ravager's Cord",source={ID=8138,SourceName="Sul'lithuz Broodling",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
 items[14588] = {id=14588,name="Hawkeye's Cord",source={ID=14231,SourceName="Drogoth the Roamer",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
 items[15575] = {id=15575,name="Sparkleshell Belt",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
-items[33245] = {id=33245,name="Grimsby's Gaudy Girdle",source={ID=11183,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
-items[9853] = {id=9853,name="Conjurer's Cinch",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="5.4",Zone="Desolace"}}
+items[33245] = {id=33245,name="Grimsby's Gaudy Girdle",source={ID=11183,SourceName="Cleansing Witch Hill",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[9853] = {id=9853,name="Conjurer's Cinch",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="5.3",Zone="Desolace"}}
 items[14209] = {id=14209,name="Vital Sash",source={ID=5934,SourceName="Heartrazor",SourceType="Kill",DropChance="0.7",Zone="Thousand Needles"}}
 items[15349] = {id=15349,name="Headhunter's Belt",source={ID=6238,SourceName="Big Will",SourceType="Kill",DropChance="0.3",Zone="The Barrens"}}
 items[20099] = {id=20099,name="Highlander's Cloth Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
@@ -706,18 +706,18 @@ items[20191] = {id=20191,name="Defiler's Leather Girdle",source={ID=15126,Source
 items[7370] = {id=7370,name="Elder's Sash",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="37.7",Zone="The Barrens"}}
 items[15136] = {id=15136,name="Cutthroat's Belt",source={ID=4525,SourceName="Razorfen Earthbreaker",SourceType="Kill",DropChance="0.5",Zone="Razorfen Kraul"}}
 items[15539] = {id=15539,name="Wicked Chain Waistband",source={ID=3414,SourceName="General Twinbraid",SourceType="Kill",DropChance="0.3",Zone="The Barrens"}}
-items[6200] = {id=6200,name="Garneg's War Belt",source={ID=2108,SourceName="Garneg Charskull",SourceType="Kill",DropChance="65.8",Zone="Wetlands"}}
+items[6200] = {id=6200,name="Garneg's War Belt",source={ID=2108,SourceName="Garneg Charskull",SourceType="Kill",DropChance="65.7",Zone="Wetlands"}}
 items[15347] = {id=15347,name="Pathfinder Belt",source={ID=11683,SourceName="Warsong Shaman",SourceType="Kill",DropChance="0.6",Zone="Ashenvale"}}
 items[6600] = {id=6600,name="Dervish Belt",source={ID=10640,SourceName="Oakpaw",SourceType="Kill",DropChance="9.6",Zone="Ashenvale"}}
 items[9799] = {id=9799,name="Ivycloth Sash",source={ID=3773,SourceName="Akkrilus",SourceType="Kill",DropChance="5.5",Zone="Ashenvale"}}
 items[3429] = {id=3429,name="Guardsman Belt",source={ID=2427,SourceName="Jailor Eston",SourceType="Kill",DropChance="0.8",Zone="Hillsbrad Foothills"}}
-items[5967] = {id=5967,name="Girdle of Nobility",source={ID=596,SourceName="Brainwashed Noble",SourceType="Kill",DropChance="72.1",Zone="Unknown"}}
+items[5967] = {id=5967,name="Girdle of Nobility",source={ID=596,SourceName="Brainwashed Noble",SourceType="Kill",DropChance="72.0",Zone="Unknown"}}
 items[3589] = {id=3589,name="Heavy Weave Belt",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[15308] = {id=15308,name="Feral Cord",source={ID=2184,SourceName="Lady Moongazer",SourceType="Kill",DropChance="0.4",Zone="Darkshore"}}
 items[2899] = {id=2899,name="Wendigo Collar",source={ID=1271,SourceName="Old Icebeard",SourceType="Kill",DropChance="3.9",Zone="Dun Morogh"}}
 items[14113] = {id=14113,name="Aboriginal Sash",source={ID=3383,SourceName="Southsea Cutthroat",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
-items[4690] = {id=4690,name="Hunting Belt",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
-items[9758] = {id=9758,name="Cadet Belt",source={ID=10358,SourceName="Fellicent's Shade",SourceType="Kill",DropChance="4.1",Zone="Tirisfal Glades"}}
+items[4690] = {id=4690,name="Hunting Belt",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
+items[9758] = {id=9758,name="Cadet Belt",source={ID=10358,SourceName="Fellicent's Shade",SourceType="Kill",DropChance="4.2",Zone="Tirisfal Glades"}}
 items[14099] = {id=14099,name="Native Sash",source={ID=12320,SourceName="Burning Blade Crusher",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
 items[4675] = {id=4675,name="Tribal Belt",source={ID=3141,SourceName="Makrura Elder",SourceType="Kill",DropChance="0.6",Zone="Durotar"}}
 items[14093] = {id=14093,name="Beaded Cord",source={ID=3105,SourceName="Makrura Snapclaw",SourceType="Kill",DropChance="1.0",Zone="Durotar"}}
@@ -725,87 +725,87 @@ items[15472] = {id=15472,name="Charger's Belt",source={ID=6911,SourceName="Minio
 items[2387] = {id=2387,name="Rusted Chain Belt",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[3595] = {id=3595,name="Tattered Cloth Belt",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[20989] = {id=20989,name="Light Cloth Belt",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
-items[21002] = {id=21002,name="Unkempt Belt",source={ID=15298,SourceName="Tainted Arcane Wraith",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
+items[21002] = {id=21002,name="Unkempt Belt",source={ID=15298,SourceName="Tainted Arcane Wraith",SourceType="Kill",DropChance="1.8",Zone="Eversong Woods"}}
 items[2649] = {id=2649,name="Flimsy Chain Belt",source={ID=1916,SourceName="Stephen Bhartec",SourceType="Kill",DropChance="3.9",Zone="Tirisfal Glades"}}
 items[122] = {id=122,name="OLDThug Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[141] = {id=141,name="OLDBrawler's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35157] = {id=35157,name="Guardian's Linked Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34488] = {id=34488,name="Lightbringer Waistguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34543] = {id=34543,name="Skyshatter Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33898] = {id=33898,name="Vindicator's Mail Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35157] = {id=35157,name="Guardian's Linked Girdle",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34488] = {id=34488,name="Lightbringer Waistguard",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34543] = {id=34543,name="Skyshatter Belt",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33898] = {id=33898,name="Vindicator's Mail Girdle",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30915] = {id=30915,name="Belt of Seething Fury",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="18.2",Zone="Hyjal Summit"}}
 items[32256] = {id=32256,name="Waistwrap of Infinity",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="19.3",Zone="Black Temple"}}
-items[34929] = {id=34929,name="Belt of the Silent Path",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34935] = {id=34935,name="Aftershock Waistguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32988] = {id=32988,name="Veteran's Ornamented Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34929] = {id=34929,name="Belt of the Silent Path",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34935] = {id=34935,name="Aftershock Waistguard",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32988] = {id=32988,name="Veteran's Ornamented Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32390] = {id=32390,name="Soulguard Girdle",source={ID=40024,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30044] = {id=30044,name="Monsoon Belt",source={ID=36353,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32992] = {id=32992,name="General's Ringmail Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32992] = {id=32992,name="General's Ringmail Girdle",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[27835] = {id=27835,name="Stillwater Girdle",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="13.1",Zone="Mana-Tombs"}}
 items[28124] = {id=28124,name="Liar's Cord",source={ID=17991,SourceName="Rokmar the Crackler",SourceType="Kill",DropChance="20.0",Zone="The Slave Pens"}}
 items[31579] = {id=31579,name="Slatesteel Girdle",source={ID=23161,SourceName="Darkscreecher Akkarai",SourceType="Kill",DropChance="4.6",Zone="Unknown"}}
-items[24669] = {id=24669,name="Eldr'naan Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24669] = {id=24669,name="Eldr'naan Belt",source={ID=25592,SourceName="Doomfire Destroyer",SourceType="Kill",DropChance="3.8",Zone="Sunwell Plateau"}}
 items[25006] = {id=25006,name="Conqueror's Girdle",source={ID=17860,SourceName="Durnholde Veteran",SourceType="Kill",DropChance="20.0",Zone="Unknown"}}
-items[30342] = {id=30342,name="Protectorate Waistband",source={ID=10345,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[31114] = {id=31114,name="Uvuros Hide Cinch",source={ID=10647,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30342] = {id=30342,name="Protectorate Waistband",source={ID=10345,SourceName="The Flesh Lies...",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31114] = {id=31114,name="Uvuros Hide Cinch",source={ID=10647,SourceName="Wanted: Uvuros, Scourge of Shadowmoon",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[29500] = {id=29500,name="Blastguard Belt",source={ID=35537,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[24998] = {id=24998,name="Bloodfist Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24998] = {id=24998,name="Bloodfist Girdle",source={ID=20898,SourceName="Gargantuan Abyssal",SourceType="Kill",DropChance="0.2",Zone="The Arcatraz"}}
 items[29257] = {id=29257,name="Sash of Arcane Visions",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="28.5",Zone="Auchenai Crypts"}}
-items[30001] = {id=30001,name="Doc's Belt",source={ID=10199,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30516] = {id=30516,name="Chief Engineer's Belt",source={ID=10226,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[27643] = {id=27643,name="Stormbreaker's Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30001] = {id=30001,name="Doc's Belt",source={ID=10199,SourceName="That Little Extra Kick",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30516] = {id=30516,name="Chief Engineer's Belt",source={ID=10226,SourceName="Elemental Power Extraction",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[27643] = {id=27643,name="Stormbreaker's Girdle",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[24741] = {id=24741,name="Ranger Belt",source={ID=19952,SourceName="Bloodmaul Geomancer",SourceType="Kill",DropChance="25.0",Zone="Blade's Edge Mountains"}}
-items[29328] = {id=29328,name="Consortium Prince's Wrap",source={ID=10218,SourceName="",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
-items[25534] = {id=25534,name="Marsh Survivalist's Belt",source={ID=9709,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[29328] = {id=29328,name="Consortium Prince's Wrap",source={ID=10218,SourceName="Someone Else's Hard Work Pays Off",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
+items[25534] = {id=25534,name="Marsh Survivalist's Belt",source={ID=9709,SourceName="Stealing Back the Mushrooms",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[31229] = {id=31229,name="Feathered Waistband",source={ID=18685,SourceName="Okrek",SourceType="Kill",DropChance="39.5",Zone="Terokkar Forest"}}
 items[31231] = {id=31231,name="Feathered Sash",source={ID=18685,SourceName="Okrek",SourceType="Kill",DropChance="47.5",Zone="Terokkar Forest"}}
 items[24830] = {id=24830,name="Nexus-Strider Belt",source={ID=17398,SourceName="Nascent Fel Orc",SourceType="Kill",DropChance="0.8",Zone="The Blood Furnace"}}
-items[21675] = {id=21675,name="Thick Qirajihide Belt",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="22.7",Zone="Ahn'Qiraj"}}
+items[21675] = {id=21675,name="Thick Qirajihide Belt",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="22.6",Zone="Ahn'Qiraj"}}
 items[3977] = {id=3977,name="Strapped Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[18721] = {id=18721,name="Barrage Girdle",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="19.0",Zone="Stratholme"}}
+items[18721] = {id=18721,name="Barrage Girdle",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="19.1",Zone="Stratholme"}}
 items[11807] = {id=11807,name="Sash of the Burning Heart",source={ID=9016,SourceName="Bael'Gar",SourceType="Kill",DropChance="18.9",Zone="Blackrock Depths"}}
 items[19044] = {id=19044,name="Might of the Timbermaw",source={ID=23703,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[8315] = {id=8315,name="Alabaster Plate Girdle",source={ID=9018,SourceName="High Interrogator Gerstahn",SourceType="Kill",DropChance="0.1",Zone="Blackrock Depths"}}
 items[9875] = {id=9875,name="Sorcerer Sash",source={ID=2605,SourceName="Zalas Witherbark",SourceType="Kill",DropChance="4.4",Zone="Arathi Highlands"}}
 items[5780] = {id=5780,name="Murloc Scale Belt",source={ID=6702,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[41] = {id=41,name="OLDRecruit's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35163] = {id=35163,name="Guardian's Scaled Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34542] = {id=34542,name="Skyshatter Cord",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33888] = {id=33888,name="Vindicator's Lamellar Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35163] = {id=35163,name="Guardian's Scaled Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34542] = {id=34542,name="Skyshatter Cord",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33888] = {id=33888,name="Vindicator's Lamellar Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30897] = {id=30897,name="Girdle of Hope",source={ID=17842,SourceName="Azgalor",SourceType="Kill",DropChance="19.7",Zone="Hyjal Summit"}}
 items[32339] = {id=32339,name="Belt of Primal Majesty",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="15.6",Zone="Black Temple"}}
-items[32801] = {id=32801,name="Veteran's Lamellar Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32801] = {id=32801,name="Veteran's Lamellar Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[33483] = {id=33483,name="Life-step Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32982] = {id=32982,name="General's Ornamented Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32982] = {id=32982,name="General's Ornamented Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[24910] = {id=24910,name="Netherstorm Belt",source={ID=19510,SourceName="Bloodwarder Centurion",SourceType="Kill",DropChance="20.0",Zone="The Mechanar"}}
 items[24677] = {id=24677,name="Archmage Belt",source={ID=16473,SourceName="Spectral Performer",SourceType="Kill",DropChance="20.0",Zone="Karazhan"}}
 items[28375] = {id=28375,name="Rubium War-Girdle",source={ID=20870,SourceName="Zereketh the Unbound",SourceType="Kill",DropChance="18.8",Zone="The Arcatraz"}}
 items[24781] = {id=24781,name="Murkblood Belt",source={ID=20988,SourceName="Sunseeker Engineer",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
 items[24894] = {id=24894,name="Sundered Waistband",source={ID=18640,SourceName="Cabal Warlock",SourceType="Kill",DropChance="25.0",Zone="Shadow Labyrinth"}}
-items[30331] = {id=30331,name="Diviner's Cinch",source={ID=10425,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[32867] = {id=32867,name="Dragonmaw Augur's Cinch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30331] = {id=30331,name="Diviner's Cinch",source={ID=10425,SourceName="Escape from the Staging Grounds",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[32867] = {id=32867,name="Dragonmaw Augur's Cinch",source={ID=11041,SourceName="Quests",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[29494] = {id=29494,name="Flamescale Belt",source={ID=35531,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31293] = {id=31293,name="Girdle of Gale Force",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31293] = {id=31293,name="Girdle of Gale Force",source={ID=22821,SourceName="Ethereum Avenger",SourceType="Kill",DropChance="0.2",Zone="Netherstorm"}}
 items[24886] = {id=24886,name="Skettis Belt",source={ID=18318,SourceName="Sethekk Initiate",SourceType="Kill",DropChance="8.3",Zone="Sethekk Halls"}}
-items[30285] = {id=30285,name="B.O.O.M. Operative's Belt",source={ID=10435,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30950] = {id=30950,name="Darkhunter's Cinch",source={ID=10626,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[30962] = {id=30962,name="Borak's Belt of Bravery",source={ID=10579,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30285] = {id=30285,name="B.O.O.M. Operative's Belt",source={ID=10435,SourceName="Retrieving the Goods",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30950] = {id=30950,name="Darkhunter's Cinch",source={ID=10626,SourceName="Capture the Weapons",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30962] = {id=30962,name="Borak's Belt of Bravery",source={ID=10579,SourceName="The Cipher of Damnation - The Third Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[24878] = {id=24878,name="Der'izu Belt",source={ID=19429,SourceName="Avian Darkhawk",SourceType="Kill",DropChance="6.6",Zone="Sethekk Halls"}}
 items[24990] = {id=24990,name="Warmaul Belt",source={ID=184937,SourceName="Solid Adamantite Chest",SourceType="Container",DropChance="14.2",Zone="Auchenai Crypts"}}
 items[24645] = {id=24645,name="Astralaan Belt",source={ID=18864,SourceName="Mana Wraith",SourceType="Kill",DropChance="0",Zone="Netherstorm"}}
-items[24982] = {id=24982,name="Boulderfist Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25583] = {id=25583,name="Eighty Silver Links",source={ID=9867,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[31512] = {id=31512,name="Tree Warden's Belt",source={ID=10713,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
-items[31202] = {id=31202,name="Girdle of Divine Blessing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24629] = {id=24629,name="Feralfen Sash",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24854] = {id=24854,name="Marshcreeper Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24982] = {id=24982,name="Boulderfist Belt",source={ID=19756,SourceName="Deathforge Smith",SourceType="Kill",DropChance="0.4",Zone="Shadowmoon Valley"}}
+items[25583] = {id=25583,name="Eighty Silver Links",source={ID=9867,SourceName="Murkblood Leaders...",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[31512] = {id=31512,name="Tree Warden's Belt",source={ID=10713,SourceName="...and a Time for Action",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31202] = {id=31202,name="Girdle of Divine Blessing",source={ID=17723,SourceName="Bog Giant",SourceType="Kill",DropChance="0",Zone="The Underbog"}}
+items[24629] = {id=24629,name="Feralfen Sash",source={ID=22275,SourceName="Apexis Guardian",SourceType="Kill",DropChance="0.1",Zone="Blade's Edge Mountains"}}
+items[24854] = {id=24854,name="Marshcreeper Belt",source={ID=18647,SourceName="Deathskitter",SourceType="Kill",DropChance="1.2",Zone="Terokkar Forest"}}
 items[24621] = {id=24621,name="Slavehandler Belt",source={ID=18452,SourceName="Skithian Dreadhawk",SourceType="Kill",DropChance="1.2",Zone="Terokkar Forest"}}
 items[24958] = {id=24958,name="Khan'aish Girdle",source={ID=18120,SourceName="Ango'rosh Mauler",SourceType="Kill",DropChance="1.7",Zone="Zangarmarsh"}}
-items[24717] = {id=24717,name="Dreghood Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24942] = {id=24942,name="Bloodscale Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31138] = {id=31138,name="Storm Lord's Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24717] = {id=24717,name="Dreghood Belt",source={ID=20280,SourceName="Ragestone Trampler",SourceType="Kill",DropChance="0.1",Zone="Zangarmarsh"}}
+items[24942] = {id=24942,name="Bloodscale Belt",source={ID=20477,SourceName="Terrorclaw",SourceType="Kill",DropChance="0.1",Zone="Zangarmarsh"}}
+items[31138] = {id=31138,name="Storm Lord's Girdle",source={ID=16906,SourceName="Unyielding Knight",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[24597] = {id=24597,name="Starfire Sash",source={ID=17397,SourceName="Shadowmoon Adept",SourceType="Kill",DropChance="0.9",Zone="The Blood Furnace"}}
-items[24934] = {id=24934,name="Darkcrest Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24934] = {id=24934,name="Darkcrest Belt",source={ID=17400,SourceName="Felguard Annihilator",SourceType="Kill",DropChance="0.1",Zone="The Blood Furnace"}}
 items[24589] = {id=24589,name="Fireheart Girdle",source={ID=18132,SourceName="Umbraglow Stinger",SourceType="Kill",DropChance="0.4",Zone="Zangarmarsh"}}
 items[24701] = {id=24701,name="Haal'eshi Cord",source={ID=18981,SourceName="Doomwhisperer",SourceType="Kill",DropChance="2.3",Zone="Hellfire Peninsula"}}
 items[24814] = {id=24814,name="Felstone Waistband",source={ID=18952,SourceName="Bonechewer Scavenger",SourceType="Kill",DropChance="0.6",Zone="Hellfire Peninsula"}}
@@ -818,23 +818,23 @@ items[25350] = {id=25350,name="Moldy Leather Belt",source={ID=18457,SourceName="
 items[25366] = {id=25366,name="Eroded Mail Belt",source={ID=18331,SourceName="Ethereal Darkcaster",SourceType="Kill",DropChance="6.6",Zone="Mana-Tombs"}}
 items[25381] = {id=25381,name="Tarnished Plate Belt",source={ID=18314,SourceName="Nexus Stalker",SourceType="Kill",DropChance="18.1",Zone="Mana-Tombs"}}
 items[21045] = {id=21045,name="63 Blue Fire Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[14502] = {id=14502,name="Frostbite Girdle",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="15.7",Zone="Scholomance"}}
+items[14502] = {id=14502,name="Frostbite Girdle",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="15.6",Zone="Scholomance"}}
 items[18405] = {id=18405,name="Belt of the Archmage",source={ID=22866,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14143] = {id=14143,name="Ghostweave Belt",source={ID=18410,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[10768] = {id=10768,name="Boar Champion's Belt",source={ID=7354,SourceName="Ragglesnout",SourceType="Kill",DropChance="38.1",Zone="Razorfen Downs"}}
-items[33255] = {id=33255,name="Rustproof Waistguard",source={ID=11174,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
-items[3229] = {id=3229,name="Tarantula Silk Sash",source={ID=616,SourceName="Chatter",SourceType="Kill",DropChance="21.3",Zone="Redridge Mountains"}}
+items[10768] = {id=10768,name="Boar Champion's Belt",source={ID=7354,SourceName="Ragglesnout",SourceType="Kill",DropChance="37.9",Zone="Razorfen Downs"}}
+items[33255] = {id=33255,name="Rustproof Waistguard",source={ID=11174,SourceName="Corrosion Prevention",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[3229] = {id=3229,name="Tarantula Silk Sash",source={ID=616,SourceName="Chatter",SourceType="Kill",DropChance="21.5",Zone="Redridge Mountains"}}
 items[24227] = {id=24227,name="Soft Leather Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[3363] = {id=3363,name="Frayed Belt",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="9.0",Zone="Azuremyst Isle"}}
+items[3363] = {id=3363,name="Frayed Belt",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="8.6",Zone="Azuremyst Isle"}}
 items[46] = {id=46,name="OLDFootpad's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[50] = {id=50,name="OLDInitiate's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35153] = {id=35153,name="Guardian's Dreadweave Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34527] = {id=34527,name="Belt of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33903] = {id=33903,name="Vindicator's Ornamented Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33915] = {id=33915,name="Vindicator's Wyrmhide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35153] = {id=35153,name="Guardian's Dreadweave Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34527] = {id=34527,name="Belt of Absolution",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33903] = {id=33903,name="Vindicator's Ornamented Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33915] = {id=33915,name="Vindicator's Wyrmhide Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32512] = {id=32512,name="Girdle of Lordaeron's Fallen",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="39.2",Zone="Unknown"}}
-items[34944] = {id=34944,name="Girdle of Seething Rage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32800] = {id=32800,name="Veteran's Kodohide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34944] = {id=34944,name="Girdle of Seething Rage",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32800] = {id=32800,name="Veteran's Kodohide Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32397] = {id=32397,name="Waistguard of Shackled Souls",source={ID=40002,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32401] = {id=32401,name="Shadesteel Girdle",source={ID=40036,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24902] = {id=24902,name="Talhide Stitched-Belt",source={ID=17695,SourceName="Shattered Hand Assassin",SourceType="Kill",DropChance="25.0",Zone="The Shattered Halls"}}
@@ -843,17 +843,17 @@ items[27742] = {id=27742,name="Mage-Fury Girdle",source={ID=17942,SourceName="Qu
 items[31555] = {id=31555,name="Windchanneller's Ceinture",source={ID=23161,SourceName="Darkscreecher Akkarai",SourceType="Kill",DropChance="4.4",Zone="Unknown"}}
 items[23524] = {id=23524,name="Khorium Belt",source={ID=29628,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25794] = {id=25794,name="Bone Studded Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30254] = {id=30254,name="Zephyrion's Belt",source={ID=10335,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[24661] = {id=24661,name="Shadow Council Chain",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30254] = {id=30254,name="Zephyrion's Belt",source={ID=10335,SourceName="Surveying the Ruins",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[24661] = {id=24661,name="Shadow Council Chain",source={ID=20132,SourceName="Socrethar",SourceType="Kill",DropChance="0.8",Zone="Netherstorm"}}
 items[24765] = {id=24765,name="Clefthoof Belt",source={ID=17860,SourceName="Durnholde Veteran",SourceType="Kill",DropChance="33.3",Zone="Unknown"}}
 items[25694] = {id=25694,name="Netherfury Belt",source={ID=32501,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24757] = {id=24757,name="Umbrafen Waistband",source={ID=21408,SourceName="Felfire Diemetradon",SourceType="Kill",DropChance="0.9",Zone="Shadowmoon Valley"}}
 items[24870] = {id=24870,name="Ironspine Belt",source={ID=18880,SourceName="Nether Ray",SourceType="Kill",DropChance="2.1",Zone="Netherstorm"}}
 items[24637] = {id=24637,name="Mistyreed Belt",source={ID=18318,SourceName="Sethekk Initiate",SourceType="Kill",DropChance="11.1",Zone="Sethekk Halls"}}
-items[24749] = {id=24749,name="Daggerfen Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24749] = {id=24749,name="Daggerfen Belt",source={ID=21326,SourceName="Raven's Wood Leafbeard",SourceType="Kill",DropChance="0.2",Zone="Blade's Edge Mountains"}}
 items[24974] = {id=24974,name="Reaver Girdle",source={ID=21891,SourceName="Avian Ripper",SourceType="Kill",DropChance="2.7",Zone="Sethekk Halls"}}
 items[24613] = {id=24613,name="Vindicator Belt",source={ID=18437,SourceName="Vicious Teromoth",SourceType="Kill",DropChance="1.3",Zone="Terokkar Forest"}}
-items[24693] = {id=24693,name="Bonechewer Pelt-Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24693] = {id=24693,name="Bonechewer Pelt-Girdle",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.2",Zone="Hellfire Peninsula"}}
 items[25341] = {id=25341,name="Dilapidated Cloth Belt",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="9.0",Zone="Mana-Tombs"}}
 items[25374] = {id=25374,name="Corroded Mail Belt",source={ID=21189,SourceName="Crystal Flayer",SourceType="Kill",DropChance="20.0",Zone="Blade's Edge Mountains"}}
 items[21494] = {id=21494,name="Southwind's Grasp",source={ID=15341,SourceName="General Rajaxx",SourceType="Kill",DropChance="38.1",Zone="Ruins of Ahn'Qiraj"}}
@@ -869,126 +869,126 @@ items[4250] = {id=4250,name="Hillman's Belt",source={ID=3767,SourceName="",Sourc
 items[24442] = {id=24442,name="Mail Belt of the Silverpine",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[54] = {id=54,name="OLDNovice's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[90] = {id=90,name="OLDDwarven Initiate's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34487] = {id=34487,name="Lightbringer Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34545] = {id=34545,name="Skyshatter Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34487] = {id=34487,name="Lightbringer Belt",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34545] = {id=34545,name="Skyshatter Girdle",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30914] = {id=30914,name="Belt of the Crescent Moon",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="7.8",Zone="Hyjal Summit"}}
-items[33331] = {id=33331,name="Chain of Unleashed Rage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28641] = {id=28641,name="General's Lamellar Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33331] = {id=33331,name="Chain of Unleashed Rage",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28641] = {id=28641,name="General's Lamellar Belt",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[24798] = {id=24798,name="Dragonhawk Belt",source={ID=23333,SourceName="The Grand Collector",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
 items[27478] = {id=27478,name="Girdle of the Blasted Reaches",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="18.9",Zone="Hellfire Ramparts"}}
 items[27743] = {id=27743,name="Girdle of Living Flame",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
 items[31563] = {id=31563,name="Skystalker's Cord",source={ID=23161,SourceName="Darkscreecher Akkarai",SourceType="Kill",DropChance="4.1",Zone="Unknown"}}
 items[30289] = {id=30289,name="Cenarion Warden's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25582] = {id=25582,name="QR 9867 Druid Moonkin Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27726] = {id=27726,name="Hearty Cenarion Cincture",source={ID=9730,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[27726] = {id=27726,name="Hearty Cenarion Cincture",source={ID=9730,SourceName="Leader of the Darkcrest",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[24360] = {id=24360,name="Tracker's Belt",source={ID=17941,SourceName="Mennu the Betrayer",SourceType="Kill",DropChance="16.6",Zone="The Slave Pens"}}
 items[19393] = {id=19393,name="Primalist's Linked Waistguard",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="16.1",Zone="Blackwing Lair"}}
-items[20217] = {id=20217,name="Belt of Tiny Heads",source={ID=8201,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[18104] = {id=18104,name="Feralsurge Girdle",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="18.7",Zone="Blackrock Spire"}}
+items[20217] = {id=20217,name="Belt of Tiny Heads",source={ID=8201,SourceName="A Collection of Heads",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[18104] = {id=18104,name="Feralsurge Girdle",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="18.6",Zone="Blackrock Spire"}}
 items[15093] = {id=15093,name="Runic Leather Belt",source={ID=19072,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22242] = {id=22242,name="Verek's Leash",source={ID=9042,SourceName="Verek",SourceType="Kill",DropChance="10.1",Zone="Blackrock Depths"}}
+items[22242] = {id=22242,name="Verek's Leash",source={ID=9042,SourceName="Verek",SourceType="Kill",DropChance="10.0",Zone="Blackrock Depths"}}
 items[20097] = {id=20097,name="Highlander's Cloth Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[12258] = {id=12258,name="Serpent Clasp Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12258] = {id=12258,name="Serpent Clasp Belt",source={ID=12040,SourceName="Brannik Ironbelly",SourceType="Purchase",DropChance="100",Zone="The Hinterlands"}}
 items[20166] = {id=20166,name="Defiler's Cloth Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[4262] = {id=4262,name="Gem-studded Leather Belt",source={ID=3778,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20178] = {id=20178,name="Defiler's Lamellar Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[6911] = {id=6911,name="Moss Cinch",source={ID=4829,SourceName="Aku'mai",SourceType="Kill",DropChance="38.4",Zone="Blackfathom Deeps"}}
+items[6911] = {id=6911,name="Moss Cinch",source={ID=4829,SourceName="Aku'mai",SourceType="Kill",DropChance="38.3",Zone="Blackfathom Deeps"}}
 items[4786] = {id=4786,name="Wise Man's Belt",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[2851] = {id=2851,name="Copper Chain Belt",source={ID=2661,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[146] = {id=146,name="OLDRugged Trapper's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[38285] = {id=38285,name="Soul-Trader's Waistband",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34554] = {id=34554,name="Thunderheart Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33900] = {id=33900,name="Vindicator's Mooncloth Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33291] = {id=33291,name="Voodoo-woven Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33583] = {id=33583,name="Waistguard of the Great Beast",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34554] = {id=34554,name="Thunderheart Belt",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33900] = {id=33900,name="Vindicator's Mooncloth Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33291] = {id=33291,name="Voodoo-woven Belt",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33583] = {id=33583,name="Waistguard of the Great Beast",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[30708] = {id=30708,name="Belt of Flowing Thought",source={ID=20923,SourceName="Blood Guard Porung",SourceType="Kill",DropChance="19.2",Zone="The Shattered Halls"}}
-items[30923] = {id=30923,name="Grom'tor's Bloodied Bandage",source={ID=10523,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[29319] = {id=29319,name="Tarren Mill Defender's Cinch",source={ID=10285,SourceName="",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
-items[24862] = {id=24862,name="Blood Knight Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30923] = {id=30923,name="Grom'tor's Bloodied Bandage",source={ID=10523,SourceName="The Cipher of Damnation - The First Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[29319] = {id=29319,name="Tarren Mill Defender's Cinch",source={ID=10285,SourceName="Return to Andormu",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
+items[24862] = {id=24862,name="Blood Knight Girdle",source={ID=18694,SourceName="Collidus the Warp-Watcher",SourceType="Kill",DropChance="0.1",Zone="Shadowmoon Valley"}}
 items[28495] = {id=28495,name="Windwalker's Sash",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16827] = {id=16827,name="Nightslayer Belt",source={ID=11673,SourceName="Ancient Core Hound",SourceType="Kill",DropChance="1.9",Zone="Molten Core"}}
 items[20667] = {id=20667,name="Abyssal Leather Belt",source={ID=15207,SourceName="The Duke of Fathoms",SourceType="Kill",DropChance="33.8",Zone="Silithus"}}
-items[20670] = {id=20670,name="Abyssal Mail Clutch",source={ID=15208,SourceName="The Duke of Shards",SourceType="Kill",DropChance="32.8",Zone="Silithus"}}
+items[20670] = {id=20670,name="Abyssal Mail Clutch",source={ID=15208,SourceName="The Duke of Shards",SourceType="Kill",DropChance="32.9",Zone="Silithus"}}
 items[20171] = {id=20171,name="Defiler's Lizardhide Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[14614] = {id=14614,name="Bloodmail Belt",source={ID=10505,SourceName="Instructor Malicia",SourceType="Kill",DropChance="3.8",Zone="Scholomance"}}
+items[14614] = {id=14614,name="Bloodmail Belt",source={ID=10507,SourceName="The Ravenian",SourceType="Kill",DropChance="3.8",Zone="Scholomance"}}
 items[22306] = {id=22306,name="Ironweave Belt",source={ID=16080,SourceName="Mor Grayhoof",SourceType="Kill",DropChance="21.8",Zone="Blackrock Spire"}}
-items[15813] = {id=15813,name="Gold Link Belt",source={ID=4971,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[15813] = {id=15813,name="Gold Link Belt",source={ID=4971,SourceName="A Matter of Time",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
 items[13144] = {id=13144,name="Serenity Belt",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[20151] = {id=20151,name="Defiler's Chain Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20205] = {id=20205,name="Defiler's Plate Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20126] = {id=20126,name="Highlander's Mail Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20207] = {id=20207,name="Defiler's Mail Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[35160] = {id=35160,name="Guardian's Ornamented Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32979] = {id=32979,name="Veteran's Mooncloth Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35160] = {id=35160,name="Guardian's Ornamented Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32979] = {id=32979,name="Veteran's Mooncloth Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32393] = {id=32393,name="Redeemed Soul Cinch",source={ID=40006,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27521] = {id=27521,name="Telaari Hunting Girdle",source={ID=16807,SourceName="Grand Warlock Nethekurse",SourceType="Kill",DropChance="40.0",Zone="The Shattered Halls"}}
-items[29807] = {id=29807,name="Engraved Cattleman's Buckle",source={ID=10337,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[28497] = {id=28497,name="Dreadhawk's Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28498] = {id=28498,name="Ravenguard's Baldric",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31151] = {id=31151,name="Girdle of Siege",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29807] = {id=29807,name="Engraved Cattleman's Buckle",source={ID=10337,SourceName="When the Cows Come Home",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[28497] = {id=28497,name="Dreadhawk's Girdle",source={ID=31800,SourceName="Outcast's Cache",SourceType="Container",DropChance="19.8",Zone="Unknown"}}
+items[28498] = {id=28498,name="Ravenguard's Baldric",source={ID=31800,SourceName="Outcast's Cache",SourceType="Container",DropChance="18.9",Zone="Unknown"}}
+items[31151] = {id=31151,name="Girdle of Siege",source={ID=19730,SourceName="Ironspine Gazer",SourceType="Kill",DropChance="0.1",Zone="Zangarmarsh"}}
 items[20789] = {id=20789,name="90 green shaman cord",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23663] = {id=23663,name="Girdle of Elemental Fury",source={ID=16156,SourceName="Dark Touched Warrior",SourceType="Kill",DropChance="1.0",Zone="Naxxramas"}}
-items[20215] = {id=20215,name="Belt of Shriveled Heads",source={ID=8201,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[20215] = {id=20215,name="Belt of Shriveled Heads",source={ID=8201,SourceName="A Collection of Heads",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[16802] = {id=16802,name="Arcanist Belt",source={ID=11673,SourceName="Ancient Core Hound",SourceType="Kill",DropChance="1.9",Zone="Molten Core"}}
 items[4008] = {id=4008,name="Sterling Chain Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[19087] = {id=19087,name="Frostwolf Plate Belt",source={ID=13218,SourceName="Grunnda Wolfheart",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[13118] = {id=13118,name="Serpentine Sash",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[13134] = {id=13134,name="Belt of the Gladiator",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[9814] = {id=9814,name="Fortified Belt",source={ID=14425,SourceName="Gnawbone",SourceType="Kill",DropChance="13.5",Zone="Wetlands"}}
-items[32803] = {id=32803,name="Veteran's Linked Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32803] = {id=32803,name="Veteran's Linked Girdle",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27768] = {id=27768,name="Oracle Belt of Timeless Mystery",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
 items[24822] = {id=24822,name="Netherstalker Belt",source={ID=17962,SourceName="Coilfang Collaborator",SourceType="Kill",DropChance="7.6",Zone="The Slave Pens"}}
 items[16925] = {id=16925,name="Belt of Transcendence",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="39.1",Zone="Blackwing Lair"}}
 items[20539] = {id=20539,name="Runed Stygian Belt",source={ID=24902,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[13384] = {id=13384,name="Rainbow Girdle",source={ID=10558,SourceName="Hearthsinger Forresten",SourceType="Kill",DropChance="17.8",Zone="Stratholme"}}
+items[13384] = {id=13384,name="Rainbow Girdle",source={ID=10558,SourceName="Hearthsinger Forresten",SourceType="Kill",DropChance="17.5",Zone="Stratholme"}}
 items[20098] = {id=20098,name="Highlander's Cloth Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[6726] = {id=6726,name="Razzeric's Customized Seatbelt",source={ID=1189,SourceName="",SourceType="Quest",DropChance="0",Zone="Thousand Needles"}}
+items[6726] = {id=6726,name="Razzeric's Customized Seatbelt",source={ID=1189,SourceName="Safety First",SourceType="Quest",DropChance="0",Zone="Thousand Needles"}}
 items[9869] = {id=9869,name="Renegade Belt",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
 items[14414] = {id=14414,name="Stonecloth Belt",source={ID=6068,SourceName="Warug's Bodyguard",SourceType="Kill",DropChance="0.5",Zone="Desolace"}}
 items[14025] = {id=14025,name="Mystic's Belt",source={ID=12321,SourceName="Stormscale Toxicologist",SourceType="Kill",DropChance="0.6",Zone="Darkshore"}}
 items[28155] = {id=28155,name="Apothecary's Waistband",source={ID=16528,SourceName="Provisioner Vredigar",SourceType="Purchase",DropChance="100",Zone="Ghostlands"}}
 items[28162] = {id=28162,name="Tranquillien Defender's Girdle",source={ID=16528,SourceName="Provisioner Vredigar",SourceType="Purchase",DropChance="100",Zone="Ghostlands"}}
-items[35159] = {id=35159,name="Guardian's Mooncloth Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32806] = {id=32806,name="Veteran's Scaled Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35159] = {id=35159,name="Guardian's Mooncloth Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32806] = {id=32806,name="Veteran's Scaled Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29244] = {id=29244,name="Wave-Song Girdle",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="11.8",Zone="Auchenai Crypts"}}
-items[31513] = {id=31513,name="Blackwhelp Belt",source={ID=10747,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
-items[27645] = {id=27645,name="Dreamstalker Sash",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31725] = {id=31725,name="Cilice of Suffering",source={ID=10031,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[31513] = {id=31513,name="Blackwhelp Belt",source={ID=10747,SourceName="Whelps of the Wyrmcult",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[27645] = {id=27645,name="Dreamstalker Sash",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[31725] = {id=31725,name="Cilice of Suffering",source={ID=10031,SourceName="Helping the Lost Find Their Way",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[24838] = {id=24838,name="Wrathfin Waistband",source={ID=17306,SourceName="Watchkeeper Gargolmar",SourceType="Kill",DropChance="3.1",Zone="Hellfire Ramparts"}}
 items[24709] = {id=24709,name="Vengeance Belt",source={ID=17270,SourceName="Bleeding Hollow Archer",SourceType="Kill",DropChance="3.2",Zone="Hellfire Ramparts"}}
 items[16806] = {id=16806,name="Felheart Belt",source={ID=11673,SourceName="Ancient Core Hound",SourceType="Kill",DropChance="1.9",Zone="Molten Core"}}
-items[10387] = {id=10387,name="Hyperion Girdle",source={ID=10828,SourceName="High General Abbendis",SourceType="Kill",DropChance="4.4",Zone="Eastern Plaguelands"}}
+items[10387] = {id=10387,name="Hyperion Girdle",source={ID=1838,SourceName="Scarlet Interrogator",SourceType="Kill",DropChance="4.8",Zone="Western Plaguelands"}}
 items[10221] = {id=10221,name="Nightshade Girdle",source={ID=10202,SourceName="Azurous",SourceType="Kill",DropChance="3.4",Zone="Winterspring"}}
 items[13077] = {id=13077,name="Girdle of Uther",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="7.3",Zone="Duskwood"}}
 items[3944] = {id=3944,name="Twill Belt",source={ID=1045,SourceName="Red Dragonspawn",SourceType="Kill",DropChance="1.3",Zone="Wetlands"}}
-items[4117] = {id=4117,name="Scorching Sash",source={ID=617,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[4117] = {id=4117,name="Scorching Sash",source={ID=617,SourceName="Akiris by the Bundle",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[20125] = {id=20125,name="Highlander's Plate Girdle",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[7476] = {id=7476,name="Regal Sash",source={ID=14226,SourceName="Kaskk",SourceType="Kill",DropChance="4.0",Zone="Desolace"}}
 items[14746] = {id=14746,name="Hulking Belt",source={ID=5864,SourceName="Swinegart Spearhide",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
 items[28158] = {id=28158,name="Batskin Belt",source={ID=16528,SourceName="Provisioner Vredigar",SourceType="Purchase",DropChance="100",Zone="Ghostlands"}}
-items[35151] = {id=35151,name="Guardian's Chain Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35152] = {id=35152,name="Guardian's Dragonhide Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33912] = {id=33912,name="Vindicator's Silk Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35151] = {id=35151,name="Guardian's Chain Girdle",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35152] = {id=35152,name="Guardian's Dragonhide Belt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33912] = {id=33912,name="Vindicator's Silk Belt",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[25022] = {id=25022,name="Warlord's Iron-Girdle",source={ID=16544,SourceName="Ethereal Thief",SourceType="Kill",DropChance="20.0",Zone="Karazhan"}}
 items[24790] = {id=24790,name="Expedition Girdle",source={ID=16544,SourceName="Ethereal Thief",SourceType="Kill",DropChance="20.0",Zone="Karazhan"}}
 items[27547] = {id=27547,name="Coldwhisper Cord",source={ID=17991,SourceName="Rokmar the Crackler",SourceType="Kill",DropChance="40.0",Zone="The Slave Pens"}}
-items[27646] = {id=27646,name="Marksman's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27646] = {id=27646,name="Marksman's Belt",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[24846] = {id=24846,name="Fenclaw Waistband",source={ID=21285,SourceName="Auchenai Doomsayer",SourceType="Kill",DropChance="5.2",Zone="Terokkar Forest"}}
 items[24458] = {id=24458,name="Studded Girdle of Virtue",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="28.5",Zone="The Underbog"}}
 items[16903] = {id=16903,name="Stormrage Belt",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="41.1",Zone="Blackwing Lair"}}
 items[10381] = {id=10381,name="Commander's Girdle",source={ID=1841,SourceName="Scarlet Executioner",SourceType="Kill",DropChance="3.8",Zone="Western Plaguelands"}}
-items[12083] = {id=12083,name="Valconian Sash",source={ID=4024,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
+items[12083] = {id=12083,name="Valconian Sash",source={ID=4024,SourceName="A Taste of Flame",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
 items[14454] = {id=14454,name="Highborne Cord",source={ID=11552,SourceName="Timbermaw Mystic",SourceType="Kill",DropChance="0.3",Zone="Felwood"}}
 items[8253] = {id=8253,name="Imperial Red Sash",source={ID=5401,SourceName="Kazkaz the Unholy",SourceType="Kill",DropChance="0.3",Zone="Unknown"}}
 items[13145] = {id=13145,name="Enormous Ogre Belt",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
 items[9891] = {id=9891,name="Huntsman's Belt",source={ID=14231,SourceName="Drogoth the Roamer",SourceType="Kill",DropChance="5.0",Zone="Dustwallow Marsh"}}
-items[10404] = {id=10404,name="Durable Belt",source={ID=14433,SourceName="Sludginn",SourceType="Kill",DropChance="6.5",Zone="Wetlands"}}
+items[10404] = {id=10404,name="Durable Belt",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
 items[12978] = {id=12978,name="Stormbringer Belt",source={ID=2159,SourceName="Gravelflint Bonesnapper",SourceType="Kill",DropChance="0.1",Zone="Darkshore"}}
 items[16910] = {id=16910,name="Bloodfang Belt",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="42.9",Zone="Blackwing Lair"}}
 items[18504] = {id=18504,name="Girdle of Insight",source={ID=22921,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20193] = {id=20193,name="Defiler's Leather Girdle",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[19125] = {id=19125,name="Seared Mail Girdle",source={ID=7724,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
-items[21312] = {id=21312,name="Belt of the Den Watcher",source={ID=8460,SourceName="",SourceType="Quest",DropChance="0",Zone="Felwood"}}
+items[19125] = {id=19125,name="Seared Mail Girdle",source={ID=7724,SourceName="Fiery Menace!",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[21312] = {id=21312,name="Belt of the Den Watcher",source={ID=8460,SourceName="Timbermaw Ally",SourceType="Quest",DropChance="0",Zone="Felwood"}}
 items[7055] = {id=7055,name="Crimson Silk Belt",source={ID=8772,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4951] = {id=4951,name="Squealer's Belt",source={ID=3229,SourceName="\"Squealer\" Thornmantle",SourceType="Kill",DropChance="97.1",Zone="Mulgore"}}
 

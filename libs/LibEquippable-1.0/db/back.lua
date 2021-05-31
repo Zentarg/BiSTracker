@@ -27,7 +27,7 @@ items[27981] = {id=27981,name="Sethekk Oracle Cloak",source={ID=18473,SourceName
 items[28377] = {id=28377,name="Sergeant's Heavy Cloak",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[28378] = {id=28378,name="Sergeant's Heavy Cape",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[28660] = {id=28660,name="Gilded Thorium Cloak",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="37.5",Zone="Karazhan"}}
-items[31329] = {id=31329,name="Lifegiving Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31329] = {id=31329,name="Lifegiving Cloak",source={ID=16523,SourceName="Shattered Hand Savage",SourceType="Kill",DropChance="0",Zone="The Shattered Halls"}}
 items[28570] = {id=28570,name="Shadow-Cloak of Dalaran",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="25.0",Zone="Karazhan"}}
 items[27892] = {id=27892,name="Cloak of the Inciter",source={ID=18667,SourceName="Blackheart the Inciter",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
 items[22990] = {id=22990,name="Tranquillien Champion's Cloak",source={ID=12225,SourceName="Celebras the Cursed",SourceType="Kill",DropChance="5.1",Zone="Maraudon"}}
@@ -36,151 +36,151 @@ items[19086] = {id=19086,name="Stormpike Sage's Cloak",source={ID=13216,SourceNa
 items[28529] = {id=28529,name="Royal Cloak of Arathi Kings",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
 items[30735] = {id=30735,name="Ancient Spellcloak of the Highborne",source={ID=18728,SourceName="Doom Lord Kazzak",SourceType="Kill",DropChance="14.3",Zone="Unknown"}}
 items[24252] = {id=24252,name="Cloak of the Black Void",source={ID=31438,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28379] = {id=28379,name="Sergeant's Heavy Cape",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28379] = {id=28379,name="Sergeant's Heavy Cape",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[28256] = {id=28256,name="Thoriumweave Cloak",source={ID=19219,SourceName="Mechano-Lord Capacitus",SourceType="Kill",DropChance="21.0",Zone="The Mechanar"}}
-items[23050] = {id=23050,name="Cloak of the Necropolis",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="30.1",Zone="Naxxramas"}}
+items[23050] = {id=23050,name="Cloak of the Necropolis",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="28.9",Zone="Naxxramas"}}
 items[33122] = {id=33122,name="Cloak of Darkness",source={ID=42546,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24254] = {id=24254,name="White Remedy Cape",source={ID=31441,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[21403] = {id=21403,name="Cloak of the Unseen Path",source={ID=8696,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21403] = {id=21403,name="Cloak of the Unseen Path",source={ID=8696,SourceName="Cloak of the Unseen Path",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[24253] = {id=24253,name="Cloak of Eternity",source={ID=31440,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28582] = {id=28582,name="Red Riding Hood's Cloak",source={ID=17521,SourceName="The Big Bad Wolf",SourceType="Kill",DropChance="17.7",Zone="Karazhan"}}
 items[30642] = {id=30642,name="Drape of the Righteous",source={ID=16411,SourceName="Spectral Chef",SourceType="Kill",DropChance="1.3",Zone="Karazhan"}}
 items[29369] = {id=29369,name="Shawl of Shifting Probabilities",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[29385] = {id=29385,name="Farstrider Defender's Cloak",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[22658] = {id=22658,name="Glacial Cloak",source={ID=28208,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28032] = {id=28032,name="Delicate Green Poncho",source={ID=10111,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[28032] = {id=28032,name="Delicate Green Poncho",source={ID=10111,SourceName="Bring Me The Egg!",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[7053] = {id=7053,name="Azure Silk Cloak",source={ID=8786,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[21710] = {id=21710,name="Cloak of the Fallen God",source={ID=8802,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21710] = {id=21710,name="Cloak of the Fallen God",source={ID=8802,SourceName="The Savior of Kalimdor",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[28764] = {id=28764,name="Farstrider Wildercloak",source={ID=15690,SourceName="Prince Malchezaar",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
 items[28653] = {id=28653,name="Shadowvine Cloak of Infusion",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="12.5",Zone="Karazhan"}}
 items[10518] = {id=10518,name="Parachute Cloak",source={ID=12616,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[25777] = {id=25777,name="Ogre Slayer's Cover",source={ID=9946,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[18204] = {id=18204,name="Eskhandar's Pelt",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="17.1",Zone="Blasted Lands"}}
+items[25777] = {id=25777,name="Ogre Slayer's Cover",source={ID=9946,SourceName="Cho'war the Pillager",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[18204] = {id=18204,name="Eskhandar's Pelt",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="18.8",Zone="Searing Gorge"}}
 items[15138] = {id=15138,name="Onyxia Scale Cloak",source={ID=19093,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[7276] = {id=7276,name="Handstitched Leather Cloak",source={ID=9058,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31255] = {id=31255,name="Cloak of the Craft",source={ID=17840,SourceName="Durnholde Tracking Hound",SourceType="Kill",DropChance="33.3",Zone="Unknown"}}
 items[29354] = {id=29354,name="Light-Touched Stole of Altruism",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="6.1",Zone="Auchenai Crypts"}}
-items[23045] = {id=23045,name="Shroud of Dominion",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="47.1",Zone="Naxxramas"}}
+items[23045] = {id=23045,name="Shroud of Dominion",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="46.4",Zone="Naxxramas"}}
 items[27946] = {id=27946,name="Avian Cloak of Feathers",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="21.4",Zone="Sethekk Halls"}}
 items[24379] = {id=24379,name="Bogstrok Scale Cloak",source={ID=17991,SourceName="Rokmar the Crackler",SourceType="Kill",DropChance="25.0",Zone="The Slave Pens"}}
 items[31201] = {id=31201,name="Illidari Cloak",source={ID=18697,SourceName="Chief Engineer Lorthander",SourceType="Kill",DropChance="97.6",Zone="Unknown"}}
 items[32524] = {id=32524,name="Shroud of the Highborne",source={ID=22917,SourceName="Illidan Stormrage",SourceType="Kill",DropChance="37.4",Zone="Black Temple"}}
-items[33484] = {id=33484,name="Dory's Embrace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31140] = {id=31140,name="Cloak of Entropy",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28380] = {id=28380,name="Sergeant's Heavy Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33484] = {id=33484,name="Dory's Embrace",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31140] = {id=31140,name="Cloak of Entropy",source={ID=16972,SourceName="Bonestripper Buzzard",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
+items[28380] = {id=28380,name="Sergeant's Heavy Cloak",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[22731] = {id=22731,name="Cloak of the Devoured",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="31.3",Zone="Ahn'Qiraj"}}
 items[30729] = {id=30729,name="Black-Iron Battlecloak",source={ID=17711,SourceName="Doomwalker",SourceType="Kill",DropChance="16.3",Zone="Unknown"}}
 items[29375] = {id=29375,name="Bishop's Cloak",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[3475] = {id=3475,name="Cloak of Flames",source={ID=15740,SourceName="Colossus of Zora",SourceType="Kill",DropChance="41.6",Zone="Silithus"}}
 items[29994] = {id=29994,name="Thalassian Wildercloak",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="25.0",Zone="Tempest Keep"}}
-items[29813] = {id=29813,name="Cloak of Woven Energy",source={ID=10293,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29813] = {id=29813,name="Cloak of Woven Energy",source={ID=10293,SourceName="Hitting the Motherlode",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[19857] = {id=19857,name="Cloak of Consumption",source={ID=14834,SourceName="Hakkar",SourceType="Kill",DropChance="19.9",Zone="Zul'Gurub"}}
-items[21187] = {id=21187,name="Earthweave Cloak",source={ID=8548,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
-items[28031] = {id=28031,name="Nomad's Woven Cloak",source={ID=10111,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[21187] = {id=21187,name="Earthweave Cloak",source={ID=8548,SourceName="Volunteer's Battlegear",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[28031] = {id=28031,name="Nomad's Woven Cloak",source={ID=10111,SourceName="Bring Me The Egg!",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[16342] = {id=16342,name="Sergeant's Cape",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[18495] = {id=18495,name="Redoubt Cloak",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="1.1",Zone="Dire Maul"}}
 items[20697] = {id=20697,name="Crystalline Threaded Cape",source={ID=20601,SourceName="Sack of Spoils",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
-items[10843] = {id=10843,name="Featherskin Cape",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="34.7",Zone="The Temple of Atal'Hakkar"}}
+items[10843] = {id=10843,name="Featherskin Cape",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="34.8",Zone="The Temple of Atal'Hakkar"}}
 items[19083] = {id=19083,name="Frostwolf Legionnaire's Cloak",source={ID=13218,SourceName="Grunnda Wolfheart",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[23178] = {id=23178,name="Mantle of Lady Falther'ess",source={ID=14686,SourceName="Lady Falther'ess",SourceType="Kill",DropChance="42.3",Zone="Razorfen Downs"}}
 items[29989] = {id=29989,name="Sunshower Light Cloak",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="22.2",Zone="Tempest Keep"}}
 items[24258] = {id=24258,name="Resolute Cape",source={ID=31448,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19982] = {id=19982,name="Duskbat Drape",source={ID=8236,SourceName="",SourceType="Quest",DropChance="0",Zone="Rogue"}}
-items[22960] = {id=22960,name="Cloak of Suturing",source={ID=16028,SourceName="Patchwerk",SourceType="Kill",DropChance="39.9",Zone="Naxxramas"}}
+items[19982] = {id=19982,name="Duskbat Drape",source={ID=8236,SourceName="The Azure Key",SourceType="Quest",DropChance="0",Zone="Rogue"}}
+items[22960] = {id=22960,name="Cloak of Suturing",source={ID=16028,SourceName="Patchwerk",SourceType="Kill",DropChance="39.8",Zone="Naxxramas"}}
 items[29992] = {id=29992,name="Royal Cloak of the Sunstriders",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="21.7",Zone="Tempest Keep"}}
-items[21400] = {id=21400,name="Cloak of the Gathering Storm",source={ID=8690,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21400] = {id=21400,name="Cloak of the Gathering Storm",source={ID=8690,SourceName="Cloak of the Gathering Storm",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[19526] = {id=19526,name="Battle Healer's Cloak",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[14044] = {id=14044,name="Cindercloth Cloak",source={ID=18418,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27448] = {id=27448,name="Cloak of the Everliving",source={ID=17306,SourceName="Watchkeeper Gargolmar",SourceType="Kill",DropChance="20.5",Zone="Hellfire Ramparts"}}
-items[22938] = {id=22938,name="Cryptfiend Silk Cloak",source={ID=15956,SourceName="Anub'Rekhan",SourceType="Kill",DropChance="35.9",Zone="Naxxramas"}}
-items[13340] = {id=13340,name="Cape of the Black Baron",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="14.6",Zone="Stratholme"}}
-items[6632] = {id=6632,name="Feyscale Cloak",source={ID=5912,SourceName="Deviate Faerie Dragon",SourceType="Kill",DropChance="45.5",Zone="Wailing Caverns"}}
+items[22938] = {id=22938,name="Cryptfiend Silk Cloak",source={ID=15956,SourceName="Anub'Rekhan",SourceType="Kill",DropChance="35.8",Zone="Naxxramas"}}
+items[13340] = {id=13340,name="Cape of the Black Baron",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="14.7",Zone="Stratholme"}}
+items[6632] = {id=6632,name="Feyscale Cloak",source={ID=5912,SourceName="Deviate Faerie Dragon",SourceType="Kill",DropChance="45.4",Zone="Wailing Caverns"}}
 items[18511] = {id=18511,name="Shifting Cloak",source={ID=22928,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19084] = {id=19084,name="Stormpike Soldier's Cloak",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[21456] = {id=21456,name="Sandstorm Cloak",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="31.2",Zone="Ruins of Ahn'Qiraj"}}
-items[21418] = {id=21418,name="Shroud of Unspoken Names",source={ID=8694,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21418] = {id=21418,name="Shroud of Unspoken Names",source={ID=8694,SourceName="Shroud of Unspoken Names",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[13860] = {id=13860,name="Runecloth Cloak",source={ID=18409,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20427] = {id=20427,name="Battle Healer's Cloak",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[29925] = {id=29925,name="Phoenix-Wing Cloak",source={ID=19514,SourceName="Al'ar",SourceType="Kill",DropChance="31.2",Zone="Tempest Keep"}}
-items[17739] = {id=17739,name="Grovekeeper's Drape",source={ID=12225,SourceName="Celebras the Cursed",SourceType="Kill",DropChance="32.4",Zone="Maraudon"}}
+items[17739] = {id=17739,name="Grovekeeper's Drape",source={ID=12225,SourceName="Celebras the Cursed",SourceType="Kill",DropChance="32.3",Zone="Maraudon"}}
 items[34242] = {id=34242,name="Tattered Cape of Antonidas",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
-items[29777] = {id=29777,name="Cloak of the Valiant Defender",source={ID=10176,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29777] = {id=29777,name="Cloak of the Valiant Defender",source={ID=10176,SourceName="Ar'kelos the Guardian",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[24150] = {id=24150,name="Mok'Nathal Wildercloak",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="29.4",Zone="Hellfire Ramparts"}}
-items[15421] = {id=15421,name="Shroud of the Exile",source={ID=5944,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[15421] = {id=15421,name="Shroud of the Exile",source={ID=5944,SourceName="In Dreams",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
 items[32323] = {id=32323,name="Shadowmoon Destroyer's Drape",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="39.2",Zone="Unknown"}}
-items[21394] = {id=21394,name="Drape of Unyielding Strength",source={ID=8557,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21394] = {id=21394,name="Drape of Unyielding Strength",source={ID=8557,SourceName="Drape of Unyielding Strength",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[13108] = {id=13108,name="Tigerstrike Mantle",source={ID=977,SourceName="Kurzen War Panther",SourceType="Kill",DropChance="0.2",Zone="Stranglethorn Vale"}}
-items[14149] = {id=14149,name="Subterranean Cape",source={ID=11520,SourceName="Taragaman the Hungerer",SourceType="Kill",DropChance="32.4",Zone="Ragefire Chasm"}}
+items[14149] = {id=14149,name="Subterranean Cape",source={ID=11520,SourceName="Taragaman the Hungerer",SourceType="Kill",DropChance="32.5",Zone="Ragefire Chasm"}}
 items[34241] = {id=34241,name="Cloak of Unforgivable Sin",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
 items[27550] = {id=27550,name="Ironscale War Cloak",source={ID=17991,SourceName="Rokmar the Crackler",SourceType="Kill",DropChance="20.0",Zone="The Slave Pens"}}
 items[27988] = {id=27988,name="Burnoose of Shifting Ages",source={ID=17879,SourceName="Chrono Lord Deja",SourceType="Kill",DropChance="0",Zone="The Black Morass"}}
 items[21583] = {id=21583,name="Cloak of Clarity",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="32.3",Zone="Ahn'Qiraj"}}
 items[19378] = {id=19378,name="Cloak of the Brood Lord",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="34.9",Zone="Blackwing Lair"}}
 items[22711] = {id=22711,name="Cloak of the Hakkari Worshippers",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="9.8",Zone="Zul'Gurub"}}
-items[4854] = {id=4854,name="Demon Scarred Cloak",source={ID=3056,SourceName="Ghost Howl",SourceType="Kill",DropChance="89.9",Zone="Mulgore"}}
-items[6449] = {id=6449,name="Glowing Lizardscale Cloak",source={ID=3674,SourceName="Skum",SourceType="Kill",DropChance="45.6",Zone="Wailing Caverns"}}
-items[35321] = {id=35321,name="Cloak of Arcane Alacrity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[21397] = {id=21397,name="Cape of Eternal Justice",source={ID=8695,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[4854] = {id=4854,name="Demon Scarred Cloak",source={ID=3056,SourceName="Ghost Howl",SourceType="Kill",DropChance="89.8",Zone="Mulgore"}}
+items[6449] = {id=6449,name="Glowing Lizardscale Cloak",source={ID=3674,SourceName="Skum",SourceType="Kill",DropChance="45.7",Zone="Wailing Caverns"}}
+items[35321] = {id=35321,name="Cloak of Arcane Alacrity",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[21397] = {id=21397,name="Cape of Eternal Justice",source={ID=8695,SourceName="Cape of Eternal Justice",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[34792] = {id=34792,name="Cloak of the Betrayed",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="19.0",Zone="Magisters' Terrace"}}
 items[32540] = {id=32540,name="Terokk's Might",source={ID=21838,SourceName="Terokk",SourceType="Kill",DropChance="8.3",Zone="Unknown"}}
 items[21701] = {id=21701,name="Cloak of Concentrated Hatred",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="22.7",Zone="Ahn'Qiraj"}}
 items[19888] = {id=19888,name="Overlord's Embrace",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="16.8",Zone="Zul'Gurub"}}
-items[21412] = {id=21412,name="Shroud of Infinite Wisdom",source={ID=8689,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21412] = {id=21412,name="Shroud of Infinite Wisdom",source={ID=8689,SourceName="Shroud of Infinite Wisdom",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[18413] = {id=18413,name="Cloak of Warding",source={ID=22870,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[18734] = {id=18734,name="Pale Moon Cloak",source={ID=10438,SourceName="Maleki the Pallid",SourceType="Kill",DropChance="18.1",Zone="Stratholme"}}
-items[21409] = {id=21409,name="Cloak of Unending Life",source={ID=8692,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21409] = {id=21409,name="Cloak of Unending Life",source={ID=8692,SourceName="Cloak of Unending Life",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[2059] = {id=2059,name="Sentry Cloak",source={ID=15812,SourceName="Qiraji Officer",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
 items[33590] = {id=33590,name="Cloak of Fiends",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25540] = {id=25540,name="Dark Cloak of the Marsh",source={ID=9738,SourceName="",SourceType="Quest",DropChance="0",Zone="Serpentshrine Cavern"}}
-items[21406] = {id=21406,name="Cloak of Veiled Shadows",source={ID=8693,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[25540] = {id=25540,name="Dark Cloak of the Marsh",source={ID=9738,SourceName="Lost in Action",SourceType="Quest",DropChance="0",Zone="Serpentshrine Cavern"}}
+items[21406] = {id=21406,name="Cloak of Veiled Shadows",source={ID=8693,SourceName="Cloak of Veiled Shadows",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[20691] = {id=20691,name="Windshear Cape",source={ID=15204,SourceName="High Marshal Whirlaxis",SourceType="Kill",DropChance="30.3",Zone="Silithus"}}
 items[19530] = {id=19530,name="Caretaker's Cape",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[11623] = {id=11623,name="Spritecaster Cape",source={ID=9319,SourceName="Houndmaster Grebmar",SourceType="Kill",DropChance="27.5",Zone="Blackrock Depths"}}
+items[11623] = {id=11623,name="Spritecaster Cape",source={ID=9319,SourceName="Houndmaster Grebmar",SourceType="Kill",DropChance="28.2",Zone="Blackrock Depths"}}
 items[2316] = {id=2316,name="Dark Leather Cloak",source={ID=2168,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28269] = {id=28269,name="Baba's Cloak of Arcanistry",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
 items[3322] = {id=3322,name="Wispy Cloak",source={ID=1531,SourceName="Lost Soul",SourceType="Kill",DropChance="97.1",Zone="Tirisfal Glades"}}
 items[18461] = {id=18461,name="Sergeant's Cloak",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
-items[10224] = {id=10224,name="Nightshade Cloak",source={ID=6583,SourceName="Gruff",SourceType="Kill",DropChance="5.8",Zone="Un'Goro Crater"}}
+items[10224] = {id=10224,name="Nightshade Cloak",source={ID=6583,SourceName="Gruff",SourceType="Kill",DropChance="5.7",Zone="Un'Goro Crater"}}
 items[32590] = {id=32590,name="Nethervoid Cloak",source={ID=17907,SourceName="Frost Wyrm",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
 items[33591] = {id=33591,name="Shadowcaster's Drape",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27519] = {id=27519,name="Cloak of Malice",source={ID=16807,SourceName="Grand Warlock Nethekurse",SourceType="Kill",DropChance="40.0",Zone="The Shattered Halls"}}
-items[29792] = {id=29792,name="Dawnstrike's Cloak",source={ID=10223,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29792] = {id=29792,name="Dawnstrike's Cloak",source={ID=10223,SourceName="Down With Daellis",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[9512] = {id=9512,name="Blackmetal Cape",source={ID=7604,SourceName="Sergeant Bly",SourceType="Kill",DropChance="0",Zone="Zul'Farrak"}}
 items[18811] = {id=18811,name="Fireproof Cloak",source={ID=12018,SourceName="Majordomo Executus",SourceType="Kill",DropChance="5.0",Zone="Molten Core"}}
 items[14103] = {id=14103,name="Brightcloth Cloak",source={ID=18420,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[1355] = {id=1355,name="Buckskin Cape",source={ID=5837,SourceName="Stonearm",SourceType="Kill",DropChance="21.7",Zone="The Barrens"}}
+items[1355] = {id=1355,name="Buckskin Cape",source={ID=5837,SourceName="Stonearm",SourceType="Kill",DropChance="21.8",Zone="The Barrens"}}
 items[32331] = {id=32331,name="Cloak of the Illidari Council",source={ID=22950,SourceName="High Nethermancer Zerevor",SourceType="Kill",DropChance="21.3",Zone="Unknown"}}
-items[33304] = {id=33304,name="Cloak of Subjugated Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29140] = {id=29140,name="Cloak of the Ancient Spirits",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33304] = {id=33304,name="Cloak of Subjugated Power",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29140] = {id=29140,name="Cloak of the Ancient Spirits",source={ID=20240,SourceName="Trader Narasu",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[19430] = {id=19430,name="Shroud of Pure Thought",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="43.9",Zone="Blackwing Lair"}}
-items[20579] = {id=20579,name="Green Dragonskin Cloak",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="16.2",Zone="Duskwood"}}
+items[20579] = {id=20579,name="Green Dragonskin Cloak",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="16.0",Zone="Duskwood"}}
 items[19436] = {id=19436,name="Cloak of Draconic Might",source={ID=12467,SourceName="Death Talon Captain",SourceType="Kill",DropChance="14.4",Zone="Blackwing Lair"}}
 items[10159] = {id=10159,name="Mercurial Cloak",source={ID=10823,SourceName="Zul'Brin Warpbranch",SourceType="Kill",DropChance="6.6",Zone="Eastern Plaguelands"}}
 items[13007] = {id=13007,name="Mageflame Cloak",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
-items[7356] = {id=7356,name="Elder's Cloak",source={ID=14276,SourceName="Scargil",SourceType="Kill",DropChance="3.9",Zone="Hillsbrad Foothills"}}
-items[6667] = {id=6667,name="Engineer's Cloak",source={ID=1096,SourceName="",SourceType="Quest",DropChance="0",Zone="Stonetalon Mountains"}}
+items[7356] = {id=7356,name="Elder's Cloak",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
+items[6667] = {id=6667,name="Engineer's Cloak",source={ID=1096,SourceName="Gerenzo Wrenchwhistle",SourceType="Quest",DropChance="0",Zone="Stonetalon Mountains"}}
 items[21470] = {id=21470,name="Cloak of the Savior",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="31.2",Zone="Ruins of Ahn'Qiraj"}}
 items[19907] = {id=19907,name="Zulian Tigerhide Cloak",source={ID=14507,SourceName="High Priest Venoxis",SourceType="Kill",DropChance="18.4",Zone="Zul'Gurub"}}
 items[15681] = {id=15681,name="Triumphant Cloak",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="5.1",Zone="Duskwood"}}
-items[3995] = {id=3995,name="Laminated Scale Cloak",source={ID=6003,SourceName="Nethergarde Officer",SourceType="Kill",DropChance="5.2",Zone="Blasted Lands"}}
-items[11677] = {id=11677,name="Graverot Cape",source={ID=9031,SourceName="Anub'shiah",SourceType="Kill",DropChance="30.8",Zone="Blackrock Depths"}}
-items[5257] = {id=5257,name="Dark Hooded Cape",source={ID=2606,SourceName="Nimar the Slayer",SourceType="Kill",DropChance="9.0",Zone="Arathi Highlands"}}
-items[4462] = {id=4462,name="Cloak of Rot",source={ID=503,SourceName="Lord Malathrom",SourceType="Kill",DropChance="19.1",Zone="Duskwood"}}
+items[3995] = {id=3995,name="Laminated Scale Cloak",source={ID=6003,SourceName="Nethergarde Officer",SourceType="Kill",DropChance="3.1",Zone="Blasted Lands"}}
+items[11677] = {id=11677,name="Graverot Cape",source={ID=9031,SourceName="Anub'shiah",SourceType="Kill",DropChance="30.7",Zone="Blackrock Depths"}}
+items[5257] = {id=5257,name="Dark Hooded Cape",source={ID=2606,SourceName="Nimar the Slayer",SourceType="Kill",DropChance="9.3",Zone="Arathi Highlands"}}
+items[4462] = {id=4462,name="Cloak of Rot",source={ID=503,SourceName="Lord Malathrom",SourceType="Kill",DropChance="19.2",Zone="Duskwood"}}
 items[6314] = {id=6314,name="Wolfmaster Cape",source={ID=3927,SourceName="Wolf Master Nandos",SourceType="Kill",DropChance="38.0",Zone="Shadowfang Keep"}}
 items[6340] = {id=6340,name="Fenrus' Hide",source={ID=4274,SourceName="Fenrus the Devourer",SourceType="Kill",DropChance="74.1",Zone="Shadowfang Keep"}}
 items[14179] = {id=14179,name="Watcher's Cape",source={ID=5800,SourceName="Marcus Bel",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
 items[2584] = {id=2584,name="Woolen Cape",source={ID=2402,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[2580] = {id=2580,name="Reinforced Linen Cape",source={ID=2397,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[33593] = {id=33593,name="Slikk's Cloak of Placation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33593] = {id=33593,name="Slikk's Cloak of Placation",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[32541] = {id=32541,name="Terokk's Wisdom",source={ID=21838,SourceName="Terokk",SourceType="Kill",DropChance="6.5",Zone="Unknown"}}
-items[25489] = {id=25489,name="Windtalker's Cloak",source={ID=9418,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
-items[13397] = {id=13397,name="Stoneskin Gargoyle Cape",source={ID=10809,SourceName="Stonespine",SourceType="Kill",DropChance="31.0",Zone="Stratholme"}}
-items[20218] = {id=20218,name="Faded Hakkari Cloak",source={ID=8181,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[25489] = {id=25489,name="Windtalker's Cloak",source={ID=9418,SourceName="Avruu's Orb",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[13397] = {id=13397,name="Stoneskin Gargoyle Cape",source={ID=10809,SourceName="Stonespine",SourceType="Kill",DropChance="31.1",Zone="Stratholme"}}
+items[20218] = {id=20218,name="Faded Hakkari Cloak",source={ID=8181,SourceName="Confront Yeh'kinya",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[14321] = {id=14321,name="Resplendent Cloak",source={ID=6646,SourceName="Monnos the Elder",SourceType="Kill",DropChance="0.6",Zone="Azshara"}}
 items[7056] = {id=7056,name="Crimson Silk Cloak",source={ID=8789,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[34010] = {id=34010,name="Pepe's Shroud of Pacification",source={ID=17897,SourceName="Crypt Fiend",SourceType="Kill",DropChance="1.5",Zone="Unknown"}}
 items[21697] = {id=21697,name="Cape of the Trinity",source={ID=15543,SourceName="Princess Yauj",SourceType="Kill",DropChance="24.6",Zone="Ahn'Qiraj"}}
-items[10267] = {id=10267,name="Masterwork Cape",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="14.6",Zone="Searing Gorge"}}
+items[10267] = {id=10267,name="Masterwork Cape",source={ID=8976,SourceName="Hematos",SourceType="Kill",DropChance="12.1",Zone="Burning Steppes"}}
 items[15437] = {id=15437,name="Supreme Cape",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.7",Zone="Azshara"}}
 items[19531] = {id=19531,name="Caretaker's Cape",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[186047] = {id=186047,name="Communal Cape",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -191,14 +191,14 @@ items[15483] = {id=15483,name="War Torn Cape",source={ID=2973,SourceName="Kodo B
 items[34190] = {id=34190,name="Crimson Paragon's Cover",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="10.1",Zone="Unknown"}}
 items[34205] = {id=34205,name="Shroud of Redeemed Souls",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="11.6",Zone="Unknown"}}
 items[34012] = {id=34012,name="Shroud of the Final Stand",source={ID=22846,SourceName="Ashtongue Stormcaller",SourceType="Kill",DropChance="2.0",Zone="Unknown"}}
-items[28249] = {id=28249,name="Capacitus' Cloak of Calibration",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28249] = {id=28249,name="Capacitus' Cloak of Calibration",source={ID=184465,SourceName="Cache of the Legion",SourceType="Container",DropChance="27.9",Zone="The Mechanar"}}
 items[35497] = {id=35497,name="Cloak of the Frigid Winds",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25827] = {id=25827,name="Muck-Covered Drape",source={ID=18382,SourceName="Mycah",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[22269] = {id=22269,name="Shadow Prowler's Cloak",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="21.0",Zone="Blackrock Spire"}}
 items[13386] = {id=13386,name="Archivist Cape",source={ID=10811,SourceName="Archivist Galford",SourceType="Kill",DropChance="21.4",Zone="Stratholme"}}
 items[18677] = {id=18677,name="Zephyr Cloak",source={ID=14454,SourceName="The Windreaver",SourceType="Kill",DropChance="67.8",Zone="Silithus"}}
 items[10148] = {id=10148,name="Mighty Cloak",source={ID=14477,SourceName="Grubthor",SourceType="Kill",DropChance="4.1",Zone="Silithus"}}
-items[12066] = {id=12066,name="Shaleskin Cape",source={ID=4024,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
+items[12066] = {id=12066,name="Shaleskin Cape",source={ID=4024,SourceName="A Taste of Flame",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
 items[15671] = {id=15671,name="Magnificent Cloak",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.1",Zone="Winterspring"}}
 items[15190] = {id=15190,name="Grand Cloak",source={ID=6144,SourceName="Son of Arkkoroc",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
 items[14313] = {id=14313,name="Celestial Cape",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
@@ -210,7 +210,7 @@ items[7544] = {id=7544,name="Champion's Cape",source={ID=5352,SourceName="Old Gr
 items[15611] = {id=15611,name="Bonelink Cape",source={ID=7608,SourceName="Murta Grimgut",SourceType="Kill",DropChance="0.4",Zone="Zul'Farrak"}}
 items[4326] = {id=4326,name="Long Silken Cloak",source={ID=3861,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[7283] = {id=7283,name="Black Whelp Cloak",source={ID=9070,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[5343] = {id=5343,name="Barkeeper's Cloak",source={ID=865,SourceName="",SourceType="Quest",DropChance="0",Zone="The Barrens"}}
+items[5343] = {id=5343,name="Barkeeper's Cloak",source={ID=865,SourceName="Raptor Horns",SourceType="Quest",DropChance="0",Zone="The Barrens"}}
 items[9786] = {id=9786,name="Raider's Cloak",source={ID=7015,SourceName="Flagglemurk the Cruel",SourceType="Kill",DropChance="11.1",Zone="Darkshore"}}
 items[32420] = {id=32420,name="Night's End",source={ID=40060,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27485] = {id=27485,name="Embroidered Cape of Mysteries",source={ID=17381,SourceName="The Maker",SourceType="Kill",DropChance="16.1",Zone="The Blood Furnace"}}
@@ -218,26 +218,26 @@ items[28371] = {id=28371,name="Netherfury Cape",source={ID=17977,SourceName="War
 items[34810] = {id=34810,name="Cloak of Blade Turning",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="15.6",Zone="Magisters' Terrace"}}
 items[27423] = {id=27423,name="Cloak of Impulsiveness",source={ID=17848,SourceName="Lieutenant Drake",SourceType="Kill",DropChance="15.3",Zone="Old Hillsbrad Foothills"}}
 items[25945] = {id=25945,name="Cloak of Revival",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="28.5",Zone="Mana-Tombs"}}
-items[31143] = {id=31143,name="Shroud of Frenzy",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[23017] = {id=23017,name="Veil of Eclipse",source={ID=16061,SourceName="Instructor Razuvious",SourceType="Kill",DropChance="26.6",Zone="Naxxramas"}}
-items[12968] = {id=12968,name="Frostweaver Cape",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="20.0",Zone="Blackrock Spire"}}
-items[10249] = {id=10249,name="Master's Cloak",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="4.2",Zone="Blasted Lands"}}
+items[31143] = {id=31143,name="Shroud of Frenzy",source={ID=16927,SourceName="Stonescythe Whelp",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
+items[23017] = {id=23017,name="Veil of Eclipse",source={ID=16061,SourceName="Instructor Razuvious",SourceType="Kill",DropChance="26.8",Zone="Naxxramas"}}
+items[12968] = {id=12968,name="Frostweaver Cape",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="19.9",Zone="Blackrock Spire"}}
+items[10249] = {id=10249,name="Master's Cloak",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="4.1",Zone="Blasted Lands"}}
 items[10212] = {id=10212,name="Elegant Cloak",source={ID=1850,SourceName="Putridius",SourceType="Kill",DropChance="5.0",Zone="Western Plaguelands"}}
 items[10231] = {id=10231,name="Engraved Cape",source={ID=9604,SourceName="Gorgon'och",SourceType="Kill",DropChance="3.3",Zone="Burning Steppes"}}
 items[15661] = {id=15661,name="Impenetrable Cloak",source={ID=15756,SourceName="Greater Silithid Flayer",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
 items[10174] = {id=10174,name="Mystical Cape",source={ID=13896,SourceName="Scalebeard",SourceType="Kill",DropChance="3.6",Zone="Azshara"}}
 items[15652] = {id=15652,name="Merciless Cloak",source={ID=9861,SourceName="Moora",SourceType="Kill",DropChance="0.3",Zone="Felwood"}}
-items[4113] = {id=4113,name="Medicine Blanket",source={ID=348,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[4113] = {id=4113,name="Medicine Blanket",source={ID=348,SourceName="Stranglethorn Fever",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[14781] = {id=14781,name="Khan's Cloak",source={ID=4390,SourceName="Elder Murk Thresher",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
 items[19528] = {id=19528,name="Battle Healer's Cloak",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
-items[4114] = {id=4114,name="Darktide Cape",source={ID=576,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[4114] = {id=4114,name="Darktide Cape",source={ID=576,SourceName="Keep An Eye Out",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[9929] = {id=9929,name="Brigade Cloak",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
 items[9860] = {id=9860,name="Archer's Cloak",source={ID=7800,SourceName="Mekgineer Thermaplugg",SourceType="Kill",DropChance="2.1",Zone="Gnomeregan"}}
 items[14219] = {id=14219,name="Geomancer's Cloak",source={ID=7872,SourceName="Death's Head Cultist",SourceType="Kill",DropChance="0.1",Zone="The Barrens"}}
-items[5181] = {id=5181,name="Vibrant Silk Cape",source={ID=2600,SourceName="Singer",SourceType="Kill",DropChance="72.2",Zone="Arathi Highlands"}}
+items[5181] = {id=5181,name="Vibrant Silk Cape",source={ID=2600,SourceName="Singer",SourceType="Kill",DropChance="72.1",Zone="Arathi Highlands"}}
 items[20428] = {id=20428,name="Caretaker's Cape",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[14116] = {id=14116,name="Aboriginal Cape",source={ID=3470,SourceName="Rathorian",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
-items[29139] = {id=29139,name="Ceremonial Cover",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14116] = {id=14116,name="Aboriginal Cape",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="1.0",Zone="The Barrens"}}
+items[29139] = {id=29139,name="Ceremonial Cover",source={ID=20241,SourceName="Provisioner Nasela",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[24362] = {id=24362,name="Spore-Soaked Vaneer",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="25.0",Zone="The Slave Pens"}}
 items[18389] = {id=18389,name="Cloak of the Cosmos",source={ID=11496,SourceName="Immol'thar",SourceType="Kill",DropChance="19.5",Zone="Dire Maul"}}
 items[14683] = {id=14683,name="Indomitable Cloak",source={ID=10663,SourceName="Manaclaw",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
@@ -245,29 +245,29 @@ items[14331] = {id=14331,name="Eternal Cloak",source={ID=14887,SourceName="Ysond
 items[12552] = {id=12552,name="Blisterbane Wrap",source={ID=8905,SourceName="Warbringer Construct",SourceType="Kill",DropChance="0",Zone="Blackrock Depths"}}
 items[14261] = {id=14261,name="Bloodwoven Cloak",source={ID=7605,SourceName="Raven",SourceType="Kill",DropChance="1.6",Zone="Zul'Farrak"}}
 items[10776] = {id=10776,name="Silky Spider Cape",source={ID=7355,SourceName="Tuten'kash",SourceType="Kill",DropChance="34.1",Zone="Razorfen Downs"}}
-items[7419] = {id=7419,name="Phalanx Cloak",source={ID=5851,SourceName="Captain Gerogg Hammertoe",SourceType="Kill",DropChance="6.6",Zone="The Barrens"}}
+items[7419] = {id=7419,name="Phalanx Cloak",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
 items[4790] = {id=4790,name="Inferno Cloak",source={ID=1454,SourceName="Jennabink Powerseam",SourceType="Purchase",DropChance="100",Zone="Wetlands"}}
 items[4311] = {id=4311,name="Heavy Woolen Cloak",source={ID=3844,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[6564] = {id=6564,name="Shimmering Cloak",source={ID=14269,SourceName="Seeker Aqualon",SourceType="Kill",DropChance="7.8",Zone="Redridge Mountains"}}
-items[2644] = {id=2644,name="Loose Chain Cloak",source={ID=6846,SourceName="Defias Dockmaster",SourceType="Kill",DropChance="1.9",Zone="Elwynn Forest"}}
+items[2644] = {id=2644,name="Loose Chain Cloak",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="2.2",Zone="Eversong Woods"}}
 items[28373] = {id=28373,name="Cloak of Scintillating Auras",source={ID=20870,SourceName="Zereketh the Unbound",SourceType="Kill",DropChance="0",Zone="The Arcatraz"}}
 items[32539] = {id=32539,name="Skyguard's Drape",source={ID=23367,SourceName="Grella",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
-items[17102] = {id=17102,name="Cloak of the Shrouded Mists",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="32.7",Zone="Molten Core"}}
-items[18541] = {id=18541,name="Puissant Cape",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="17.7",Zone="Azshara"}}
+items[17102] = {id=17102,name="Cloak of the Shrouded Mists",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="33.3",Zone="Molten Core"}}
+items[18541] = {id=18541,name="Puissant Cape",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="17.8",Zone="Azshara"}}
 items[22712] = {id=22712,name="Might of the Tribe",source={ID=14510,SourceName="High Priestess Mar'li",SourceType="Kill",DropChance="9.6",Zone="Zul'Gurub"}}
 items[18208] = {id=18208,name="Drape of Benediction",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="15.5",Zone="Azshara"}}
-items[21415] = {id=21415,name="Drape of Vaulted Secrets",source={ID=8691,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21415] = {id=21415,name="Drape of Vaulted Secrets",source={ID=8691,SourceName="Drape of Vaulted Secrets",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[12608] = {id=12608,name="Butcher's Apron",source={ID=9219,SourceName="Spirestone Butcher",SourceType="Kill",DropChance="59.0",Zone="Blackrock Spire"}}
 items[15427] = {id=15427,name="Peerless Cloak",source={ID=8409,SourceName="Caravan Master Tset",SourceType="Kill",DropChance="0.3",Zone="Azshara"}}
-items[10098] = {id=10098,name="Councillor's Cloak",source={ID=10077,SourceName="Deathmaw",SourceType="Kill",DropChance="4.3",Zone="Burning Steppes"}}
+items[10098] = {id=10098,name="Councillor's Cloak",source={ID=10077,SourceName="Deathmaw",SourceType="Kill",DropChance="4.2",Zone="Burning Steppes"}}
 items[10120] = {id=10120,name="Ornate Cloak",source={ID=14343,SourceName="Olm the Wise",SourceType="Kill",DropChance="2.9",Zone="Felwood"}}
 items[14300] = {id=14300,name="Bonecaster's Cape",source={ID=6189,SourceName="Timbermaw Ursa",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[13109] = {id=13109,name="Blackflame Cape",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[8195] = {id=8195,name="Nightscape Cloak",source={ID=10550,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[8120] = {id=8120,name="Heraldic Cloak",source={ID=4339,SourceName="Brimgore",SourceType="Kill",DropChance="3.7",Zone="Dustwallow Marsh"}}
-items[9959] = {id=9959,name="Warmonger's Cloak",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="3.7",Zone="Tanaris"}}
+items[9959] = {id=9959,name="Warmonger's Cloak",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="3.6",Zone="Tanaris"}}
 items[5965] = {id=5965,name="Guardian Cloak",source={ID=7153,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[6417] = {id=6417,name="Aurora Cloak",source={ID=17115,SourceName="Cursed Lost One",SourceType="Kill",DropChance="0.7",Zone="Swamp of Sorrows"}}
+items[6417] = {id=6417,name="Aurora Cloak",source={ID=17115,SourceName="Cursed Lost One",SourceType="Kill",DropChance="0.6",Zone="Swamp of Sorrows"}}
 items[7436] = {id=7436,name="Twilight Cape",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="9.5",Zone="Thousand Needles"}}
 items[18427] = {id=18427,name="Sergeant's Cloak",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[9838] = {id=9838,name="Banded Cloak",source={ID=14276,SourceName="Scargil",SourceType="Kill",DropChance="7.4",Zone="Hillsbrad Foothills"}}
@@ -275,25 +275,25 @@ items[14400] = {id=14400,name="Resilient Cape",source={ID=5859,SourceName="Hagg 
 items[4715] = {id=4715,name="Emblazoned Cloak",source={ID=15806,SourceName="Qiraji Lieutenant",SourceType="Kill",DropChance="16.3",Zone="The Barrens"}}
 items[4447] = {id=4447,name="Cloak of Night",source={ID=947,SourceName="Rohh the Silent",SourceType="Kill",DropChance="64.6",Zone="Redridge Mountains"}}
 items[4799] = {id=4799,name="Antiquated Cloak",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
-items[5969] = {id=5969,name="Regent's Cloak",source={ID=2283,SourceName="Ravenclaw Regent",SourceType="Kill",DropChance="73.4",Zone="Silverpine Forest"}}
+items[5969] = {id=5969,name="Regent's Cloak",source={ID=2283,SourceName="Ravenclaw Regent",SourceType="Kill",DropChance="73.7",Zone="Silverpine Forest"}}
 items[4710] = {id=4710,name="Forest Cloak",source={ID=1944,SourceName="Rot Hide Bruiser",SourceType="Kill",DropChance="0.6",Zone="Silverpine Forest"}}
 items[14745] = {id=14745,name="Hulking Cloak",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
 items[4771] = {id=4771,name="Harvest Cloak",source={ID=3270,SourceName="Elder Mystic Razorsnout",SourceType="Kill",DropChance="46.4",Zone="The Barrens"}}
-items[5111] = {id=5111,name="Rathorian's Cape",source={ID=3470,SourceName="Rathorian",SourceType="Kill",DropChance="71.2",Zone="The Barrens"}}
+items[5111] = {id=5111,name="Rathorian's Cape",source={ID=3470,SourceName="Rathorian",SourceType="Kill",DropChance="71.3",Zone="The Barrens"}}
 items[34702] = {id=34702,name="Cloak of Swift Mending",source={ID=24723,SourceName="Selin Fireheart",SourceType="Kill",DropChance="18.0",Zone="Magisters' Terrace"}}
-items[23030] = {id=23030,name="Cloak of the Scourge",source={ID=15954,SourceName="Noth the Plaguebringer",SourceType="Kill",DropChance="35.4",Zone="Naxxramas"}}
+items[23030] = {id=23030,name="Cloak of the Scourge",source={ID=15954,SourceName="Noth the Plaguebringer",SourceType="Kill",DropChance="35.3",Zone="Naxxramas"}}
 items[21621] = {id=21621,name="Cloak of the Golden Hive",source={ID=15509,SourceName="Princess Huhuran",SourceType="Kill",DropChance="22.6",Zone="Ahn'Qiraj"}}
 items[19386] = {id=19386,name="Elementium Threaded Cloak",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="33.6",Zone="Blackwing Lair"}}
-items[12967] = {id=12967,name="Bloodmoon Cloak",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="24.7",Zone="Blackrock Spire"}}
+items[12967] = {id=12967,name="Bloodmoon Cloak",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="24.6",Zone="Blackrock Spire"}}
 items[12905] = {id=12905,name="Wildfire Cape",source={ID=9816,SourceName="Pyroguard Emberseer",SourceType="Kill",DropChance="26.0",Zone="Blackrock Spire"}}
 items[13203] = {id=13203,name="Armswake Cloak",source={ID=9718,SourceName="Ghok Bashguud",SourceType="Kill",DropChance="38.0",Zone="Blackrock Spire"}}
 items[13122] = {id=13122,name="Dark Phantom Cape",source={ID=1045,SourceName="Red Dragonspawn",SourceType="Kill",DropChance="0.6",Zone="Wetlands"}}
-items[3947] = {id=3947,name="Twill Cloak",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="2.0",Zone="Azshara"}}
+items[3947] = {id=3947,name="Twill Cloak",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="2.3",Zone="Azshara"}}
 items[8216] = {id=8216,name="Big Voodoo Cloak",source={ID=10562,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15632] = {id=15632,name="Formidable Cape",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
 items[7524] = {id=7524,name="Gossamer Cape",source={ID=5345,SourceName="Diamond Head",SourceType="Kill",DropChance="7.1",Zone="Feralas"}}
 items[15165] = {id=15165,name="Imposing Cape",source={ID=15752,SourceName="Silithid Flayer",SourceType="Kill",DropChance="0.3",Zone="Thousand Needles"}}
-items[15603] = {id=15603,name="Ancient Cloak",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.7",Zone="Dustwallow Marsh"}}
+items[15603] = {id=15603,name="Ancient Cloak",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
 items[7483] = {id=7483,name="Ranger Cloak",source={ID=2605,SourceName="Zalas Witherbark",SourceType="Kill",DropChance="4.4",Zone="Arathi Highlands"}}
 items[7492] = {id=7492,name="Captain's Cloak",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
 items[19529] = {id=19529,name="Battle Healer's Cloak",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
@@ -303,23 +303,23 @@ items[9794] = {id=9794,name="Ivycloth Cloak",source={ID=14424,SourceName="Mirelo
 items[15526] = {id=15526,name="Sentry's Cape",source={ID=3898,SourceName="Aligar the Tormentor",SourceType="Kill",DropChance="0.8",Zone="Darkshore"}}
 items[5542] = {id=5542,name="Pearl-clasped Cloak",source={ID=6521,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14563] = {id=14563,name="Prospector's Cloak",source={ID=17324,SourceName="Irradiated Wildkin",SourceType="Kill",DropChance="0.3",Zone="Bloodmyst Isle"}}
-items[15015] = {id=15015,name="Lupine Cloak",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
+items[15015] = {id=15015,name="Lupine Cloak",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="0.7",Zone="Bloodmyst Isle"}}
 items[15007] = {id=15007,name="Primal Cape",source={ID=5808,SourceName="Warlord Kolkanis",SourceType="Kill",DropChance="13.8",Zone="Durotar"}}
-items[2652] = {id=2652,name="Flimsy Chain Cloak",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="5.8",Zone="Eversong Woods"}}
+items[2652] = {id=2652,name="Flimsy Chain Cloak",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
 items[3261] = {id=3261,name="Webbed Cloak",source={ID=1688,SourceName="Night Web Matriarch",SourceType="Kill",DropChance="79.6",Zone="Tirisfal Glades"}}
 items[28328] = {id=28328,name="Mithril-Bark Cloak",source={ID=17980,SourceName="Laj",SourceType="Kill",DropChance="33.3",Zone="The Botanica"}}
 items[25041] = {id=25041,name="Ambusher's Cloak",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
 items[24260] = {id=24260,name="Manaweave Cloak",source={ID=31450,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[25780] = {id=25780,name="Warmaul Defender's Cloak",source={ID=9948,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25780] = {id=25780,name="Warmaul Defender's Cloak",source={ID=9948,SourceName="Finding the Survivors",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[24454] = {id=24454,name="Cloak of Enduring Swiftness",source={ID=17826,SourceName="Swamplord Musel'ek",SourceType="Kill",DropChance="33.3",Zone="The Underbog"}}
-items[27730] = {id=27730,name="Watcher's Cloak of Vigilance",source={ID=9731,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[27730] = {id=27730,name="Watcher's Cloak of Vigilance",source={ID=9731,SourceName="Drain Schematics",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[28045] = {id=28045,name="Cloak of the Demon Stalker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23127] = {id=23127,name="Cloak of Revanchion",source={ID=14690,SourceName="Revanchion",SourceType="Kill",DropChance="33.3",Zone="Dire Maul"}}
 items[18350] = {id=18350,name="Amplifying Cloak",source={ID=11487,SourceName="Magister Kalendris",SourceType="Kill",DropChance="25.0",Zone="Dire Maul"}}
 items[13376] = {id=13376,name="Royal Tribunal Cloak",source={ID=10435,SourceName="Magistrate Barthilas",SourceType="Kill",DropChance="14.6",Zone="Stratholme"}}
 items[18328] = {id=18328,name="Shadewood Cloak",source={ID=11492,SourceName="Alzzin the Wildshaper",SourceType="Kill",DropChance="18.9",Zone="Dire Maul"}}
-items[11626] = {id=11626,name="Blackveil Cape",source={ID=9018,SourceName="High Interrogator Gerstahn",SourceType="Kill",DropChance="16.4",Zone="Blackrock Depths"}}
-items[12465] = {id=12465,name="Nightfall Drape",source={ID=5721,SourceName="Dreamscythe",SourceType="Kill",DropChance="10.0",Zone="The Temple of Atal'Hakkar"}}
+items[11626] = {id=11626,name="Blackveil Cape",source={ID=9018,SourceName="High Interrogator Gerstahn",SourceType="Kill",DropChance="16.7",Zone="Blackrock Depths"}}
+items[12465] = {id=12465,name="Nightfall Drape",source={ID=5721,SourceName="Dreamscythe",SourceType="Kill",DropChance="9.9",Zone="The Temple of Atal'Hakkar"}}
 items[8248] = {id=8248,name="Imperial Red Cloak",source={ID=5280,SourceName="Nightmare Wyrmkin",SourceType="Kill",DropChance="0.3",Zone="The Temple of Atal'Hakkar"}}
 items[8259] = {id=8259,name="Serpentskin Cloak",source={ID=5277,SourceName="Nightmare Scalebane",SourceType="Kill",DropChance="0.3",Zone="The Temple of Atal'Hakkar"}}
 items[10194] = {id=10194,name="Crusader's Cloak",source={ID=14344,SourceName="Mongress",SourceType="Kill",DropChance="3.6",Zone="Felwood"}}
@@ -332,18 +332,18 @@ items[9938] = {id=9938,name="Abjurer's Cloak",source={ID=8212,SourceName="The Re
 items[3939] = {id=3939,name="Crochet Cloak",source={ID=4403,SourceName="Muckshell Pincer",SourceType="Kill",DropChance="1.7",Zone="Dustwallow Marsh"}}
 items[8127] = {id=8127,name="Myrmidon's Cape",source={ID=2752,SourceName="Rumbler",SourceType="Kill",DropChance="0.2",Zone="Badlands"}}
 items[12254] = {id=12254,name="Well Oiled Cloak",source={ID=8159,SourceName="Worb Strongstitch",SourceType="Purchase",DropChance="100",Zone="Feralas"}}
-items[6789] = {id=6789,name="Ceremonial Centaur Blanket",source={ID=1381,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
-items[15371] = {id=15371,name="Wolf Rider's Cloak",source={ID=6069,SourceName="Maraudine Khan Guard",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[6789] = {id=6789,name="Ceremonial Centaur Blanket",source={ID=1381,SourceName="Khan Hratha",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[15371] = {id=15371,name="Wolf Rider's Cloak",source={ID=23594,SourceName="Grimtotem Destroyer",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[14251] = {id=14251,name="Lunar Cloak",source={ID=14226,SourceName="Kaskk",SourceType="Kill",DropChance="1.0",Zone="Desolace"}}
 items[7446] = {id=7446,name="Sentinel Cloak",source={ID=2850,SourceName="Broken Tooth",SourceType="Kill",DropChance="4.5",Zone="Badlands"}}
 items[14593] = {id=14593,name="Hawkeye's Cloak",source={ID=7329,SourceName="Withered Quilguard",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
 items[9867] = {id=9867,name="Renegade Cloak",source={ID=14225,SourceName="Prince Kellen",SourceType="Kill",DropChance="2.6",Zone="Desolace"}}
 items[1757] = {id=1757,name="Reinforced Chain Cloak",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="1.8",Zone="Stonetalon Mountains"}}
 items[14582] = {id=14582,name="Dokebi Cape",source={ID=11683,SourceName="Warsong Shaman",SourceType="Kill",DropChance="0.6",Zone="Ashenvale"}}
-items[4713] = {id=4713,name="Silver-thread Cloak",source={ID=2404,SourceName="Blacksmith Verringtan",SourceType="Kill",DropChance="0.2",Zone="Hillsbrad Foothills"}}
+items[4713] = {id=4713,name="Silver-thread Cloak",source={ID=334,SourceName="Gath'Ilzogg",SourceType="Kill",DropChance="0.2",Zone="Redridge Mountains"}}
 items[6604] = {id=6604,name="Dervish Cape",source={ID=10641,SourceName="Branch Snapper",SourceType="Kill",DropChance="8.4",Zone="Ashenvale"}}
 items[15124] = {id=15124,name="Robust Cloak",source={ID=5828,SourceName="Humar the Pridelord",SourceType="Kill",DropChance="1.5",Zone="The Barrens"}}
-items[3018] = {id=3018,name="Hide of Lupos",source={ID=521,SourceName="Lupos",SourceType="Kill",DropChance="75.5",Zone="Duskwood"}}
+items[3018] = {id=3018,name="Hide of Lupos",source={ID=521,SourceName="Lupos",SourceType="Kill",DropChance="75.6",Zone="Duskwood"}}
 items[6629] = {id=6629,name="Sporid Cape",source={ID=5775,SourceName="Verdan the Everliving",SourceType="Kill",DropChance="19.6",Zone="Wailing Caverns"}}
 items[1798] = {id=1798,name="Rawhide Cloak",source={ID=7843,SourceName="Gnomeregan Evacuee",SourceType="Kill",DropChance="1.8",Zone="Dun Morogh"}}
 items[9812] = {id=9812,name="Fortified Cloak",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
@@ -351,26 +351,26 @@ items[14571] = {id=14571,name="Bristlebark Cape",source={ID=3295,SourceName="Slu
 items[6575] = {id=6575,name="Defender Cloak",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="14.2",Zone="The Barrens"}}
 items[15114] = {id=15114,name="Rigid Cape",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="3.2",Zone="The Barrens"}}
 items[4695] = {id=4695,name="Burnished Cloak",source={ID=2106,SourceName="Apothecary Berard",SourceType="Kill",DropChance="1.5",Zone="Silverpine Forest"}}
-items[9779] = {id=9779,name="Bandit Cloak",source={ID=14272,SourceName="Snarlflare",SourceType="Kill",DropChance="8.9",Zone="Redridge Mountains"}}
+items[9779] = {id=9779,name="Bandit Cloak",source={ID=14272,SourceName="Snarlflare",SourceType="Kill",DropChance="9.2",Zone="Redridge Mountains"}}
 items[6549] = {id=6549,name="Soldier's Cloak",source={ID=12432,SourceName="Old Vicejaw",SourceType="Kill",DropChance="10.3",Zone="Silverpine Forest"}}
-items[1505] = {id=1505,name="Warped Cloak",source={ID=17333,SourceName="Wrathscale Screamer",SourceType="Kill",DropChance="2.0",Zone="Bloodmyst Isle"}}
-items[1421] = {id=1421,name="Worn Hide Cloak",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
+items[1505] = {id=1505,name="Warped Cloak",source={ID=17333,SourceName="Wrathscale Screamer",SourceType="Kill",DropChance="2.1",Zone="Bloodmyst Isle"}}
+items[1421] = {id=1421,name="Worn Hide Cloak",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="2.2",Zone="Eversong Woods"}}
 items[3008] = {id=3008,name="Wendigo Fur Cloak",source={ID=1137,SourceName="Edan the Howler",SourceType="Kill",DropChance="71.9",Zone="Dun Morogh"}}
-items[4671] = {id=4671,name="Ancestral Cloak",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.4",Zone="Eversong Woods"}}
-items[4674] = {id=4674,name="Tribal Cloak",source={ID=17320,SourceName="Bristlelimb Shaman",SourceType="Kill",DropChance="0.7",Zone="Bloodmyst Isle"}}
-items[6508] = {id=6508,name="Infantry Cloak",source={ID=5786,SourceName="Snagglespear",SourceType="Kill",DropChance="20.4",Zone="Mulgore"}}
-items[6520] = {id=6520,name="Pioneer Cloak",source={ID=5786,SourceName="Snagglespear",SourceType="Kill",DropChance="26.1",Zone="Mulgore"}}
-items[4662] = {id=4662,name="Journeyman's Cloak",source={ID=16307,SourceName="Deathcage Scryer",SourceType="Kill",DropChance="2.1",Zone="Ghostlands"}}
+items[4671] = {id=4671,name="Ancestral Cloak",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[4674] = {id=4674,name="Tribal Cloak",source={ID=17320,SourceName="Bristlelimb Shaman",SourceType="Kill",DropChance="0.6",Zone="Bloodmyst Isle"}}
+items[6508] = {id=6508,name="Infantry Cloak",source={ID=5786,SourceName="Snagglespear",SourceType="Kill",DropChance="20.3",Zone="Mulgore"}}
+items[6520] = {id=6520,name="Pioneer Cloak",source={ID=5786,SourceName="Snagglespear",SourceType="Kill",DropChance="26.2",Zone="Mulgore"}}
+items[4662] = {id=4662,name="Journeyman's Cloak",source={ID=16307,SourceName="Deathcage Scryer",SourceType="Kill",DropChance="1.8",Zone="Ghostlands"}}
 items[4665] = {id=4665,name="Burnt Cloak",source={ID=583,SourceName="Defias Ambusher",SourceType="Kill",DropChance="0.3",Zone="Elwynn Forest"}}
-items[15475] = {id=15475,name="Charger's Cloak",source={ID=15637,SourceName="Withered Green Keeper",SourceType="Kill",DropChance="0.5",Zone="Eversong Woods"}}
-items[1372] = {id=1372,name="Ragged Cloak",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.0",Zone="Durotar"}}
+items[15475] = {id=15475,name="Charger's Cloak",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[1372] = {id=1372,name="Ragged Cloak",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="3.9",Zone="Durotar"}}
 items[25032] = {id=25032,name="Hellfire Cloak",source={ID=17624,SourceName="Laughing Skull Warden",SourceType="Kill",DropChance="14.2",Zone="The Blood Furnace"}}
 items[19398] = {id=19398,name="Cloak of Firemaw",source={ID=11983,SourceName="Firemaw",SourceType="Kill",DropChance="28.5",Zone="Blackwing Lair"}}
 items[22660] = {id=22660,name="Gaea's Embrace",source={ID=28210,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[3955] = {id=3955,name="Mesh Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[18509] = {id=18509,name="Chromatic Cloak",source={ID=22926,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20693] = {id=20693,name="Weighted Cloak",source={ID=20603,SourceName="Bag of Spoils",SourceType="Container",DropChance="2.9",Zone="Unknown"}}
-items[20219] = {id=20219,name="Tattered Hakkari Cape",source={ID=8181,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[20219] = {id=20219,name="Tattered Hakkari Cape",source={ID=8181,SourceName="Confront Yeh'kinya",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[11812] = {id=11812,name="Cape of the Fire Salamander",source={ID=9156,SourceName="Ambassador Flamelash",SourceType="Kill",DropChance="38.6",Zone="Blackrock Depths"}}
 items[3972] = {id=3972,name="Smooth Cloak",source={ID=12339,SourceName="Demetria",SourceType="Kill",DropChance="1.3",Zone="Eastern Plaguelands"}}
 items[8286] = {id=8286,name="Arcane Cloak",source={ID=9677,SourceName="Ograbisi",SourceType="Kill",DropChance="0.3",Zone="Blackrock Depths"}}
@@ -379,36 +379,36 @@ items[10108] = {id=10108,name="Wanderer's Cloak",source={ID=6646,SourceName="Mon
 items[8266] = {id=8266,name="Ebonhold Cloak",source={ID=5983,SourceName="Bonepicker",SourceType="Kill",DropChance="0.1",Zone="Blasted Lands"}}
 items[14280] = {id=14280,name="Opulent Cape",source={ID=6185,SourceName="Timbermaw Warrior",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[14665] = {id=14665,name="Keeper's Cloak",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
-items[9951] = {id=9951,name="Chieftain's Cloak",source={ID=8280,SourceName="Shleipnarr",SourceType="Kill",DropChance="6.2",Zone="Searing Gorge"}}
+items[9951] = {id=9951,name="Chieftain's Cloak",source={ID=8280,SourceName="Shleipnarr",SourceType="Kill",DropChance="6.1",Zone="Searing Gorge"}}
 items[15624] = {id=15624,name="Gryphon Cloak",source={ID=15685,SourceName="Southsea Kidnapper",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
-items[7474] = {id=7474,name="Regal Cloak",source={ID=14488,SourceName="Roloch",SourceType="Kill",DropChance="3.5",Zone="Stranglethorn Vale"}}
+items[7474] = {id=7474,name="Regal Cloak",source={ID=14488,SourceName="Roloch",SourceType="Kill",DropChance="3.4",Zone="Stranglethorn Vale"}}
 items[14602] = {id=14602,name="Warden's Cloak",source={ID=4348,SourceName="Noxious Shredder",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
-items[33261] = {id=33261,name="Destroyer's Cloak",source={ID=11156,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[33261] = {id=33261,name="Destroyer's Cloak",source={ID=11156,SourceName="Direhorn Raiders",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
 items[3803] = {id=3803,name="Hardened Cloak",source={ID=6232,SourceName="Arcane Nullifier X-21",SourceType="Kill",DropChance="3.5",Zone="Gnomeregan"}}
 items[9877] = {id=9877,name="Sorcerer Cloak",source={ID=14222,SourceName="Araga",SourceType="Kill",DropChance="4.8",Zone="Alterac Mountains"}}
 items[3811] = {id=3811,name="Double-stitched Cloak",source={ID=3792,SourceName="Terrowulf Packlord",SourceType="Kill",DropChance="0.9",Zone="Ashenvale"}}
 items[15594] = {id=15594,name="Steadfast Cloak",source={ID=14231,SourceName="Drogoth the Roamer",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
 items[3795] = {id=3795,name="Interlaced Cloak",source={ID=12865,SourceName="Ambassador Malcin",SourceType="Kill",DropChance="1.4",Zone="The Barrens"}}
 items[4726] = {id=4726,name="Chief Brigadier Cloak",source={ID=14487,SourceName="Gluggle",SourceType="Kill",DropChance="1.0",Zone="Stranglethorn Vale"}}
-items[14229] = {id=14229,name="Embersilk Cloak",source={ID=4387,SourceName="Withervine Mire Beast",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
+items[14229] = {id=14229,name="Embersilk Cloak",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[9847] = {id=9847,name="Conjurer's Cloak",source={ID=15748,SourceName="Lesser Anubisath Warbringer",SourceType="Kill",DropChance="1.8",Zone="Thousand Needles"}}
 items[15147] = {id=15147,name="Ghostwalker Cloak",source={ID=4066,SourceName="Nal'taszar",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
 items[15568] = {id=15568,name="Marauder's Cloak",source={ID=4422,SourceName="Agathelos the Raging",SourceType="Kill",DropChance="0.1",Zone="Razorfen Kraul"}}
 items[4719] = {id=4719,name="Nightsky Cloak",source={ID=6392,SourceName="Holdout Medic",SourceType="Kill",DropChance="0.3",Zone="Gnomeregan"}}
 items[4722] = {id=4722,name="Insignia Cloak",source={ID=1200,SourceName="Morbent Fel",SourceType="Kill",DropChance="0.4",Zone="Duskwood"}}
 items[14210] = {id=14210,name="Vital Cape",source={ID=4425,SourceName="Blind Hunter",SourceType="Kill",DropChance="0.5",Zone="Razorfen Kraul"}}
-items[7411] = {id=7411,name="Infiltrator Cloak",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="6.3",Zone="Alterac Mountains"}}
+items[7411] = {id=7411,name="Infiltrator Cloak",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
 items[15559] = {id=15559,name="Pillager's Cloak",source={ID=5934,SourceName="Heartrazor",SourceType="Kill",DropChance="0.3",Zone="Thousand Needles"}}
-items[1782] = {id=1782,name="Cross-stitched Cloak",source={ID=11682,SourceName="Warsong Grunt",SourceType="Kill",DropChance="2.9",Zone="Ashenvale"}}
+items[1782] = {id=1782,name="Cross-stitched Cloak",source={ID=11682,SourceName="Warsong Grunt",SourceType="Kill",DropChance="2.8",Zone="Ashenvale"}}
 items[15547] = {id=15547,name="Thick Scale Cloak",source={ID=4525,SourceName="Razorfen Earthbreaker",SourceType="Kill",DropChance="0.5",Zone="Razorfen Kraul"}}
 items[1806] = {id=1806,name="Tough Cloak",source={ID=5859,SourceName="Hagg Taurenbane",SourceType="Kill",DropChance="1.6",Zone="The Barrens"}}
 items[15537] = {id=15537,name="Wicked Chain Cloak",source={ID=12902,SourceName="Lorgus Jett",SourceType="Kill",DropChance="0.2",Zone="Blackfathom Deeps"}}
 items[14188] = {id=14188,name="Raincaller Cloak",source={ID=4442,SourceName="Razorfen Defender",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
 items[14752] = {id=14752,name="Slayer's Cape",source={ID=5928,SourceName="Sorrow Wing",SourceType="Kill",DropChance="0.7",Zone="Stonetalon Mountains"}}
 items[1774] = {id=1774,name="Brocade Cloak",source={ID=3857,SourceName="Shadowfang Glutton",SourceType="Kill",DropChance="1.5",Zone="Shadowfang Keep"}}
-items[1749] = {id=1749,name="Linked Chain Cloak",source={ID=5931,SourceName="Foreman Rigger",SourceType="Kill",DropChance="1.1",Zone="Stonetalon Mountains"}}
+items[1749] = {id=1749,name="Linked Chain Cloak",source={ID=5931,SourceName="Foreman Rigger",SourceType="Kill",DropChance="1.0",Zone="Stonetalon Mountains"}}
 items[4792] = {id=4792,name="Spirit Cloak",source={ID=1454,SourceName="Jennabink Powerseam",SourceType="Purchase",DropChance="100",Zone="Wetlands"}}
-items[6381] = {id=6381,name="Bright Cloak",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.7",Zone="Bloodmyst Isle"}}
+items[6381] = {id=6381,name="Bright Cloak",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
 items[1190] = {id=1190,name="Overseer's Cloak",source={ID=125,SourceName="Riverpaw Overseer",SourceType="Kill",DropChance="2.6",Zone="Westfall"}}
 items[2241] = {id=2241,name="Desperado Cape",source={ID=1399,SourceName="Magosh",SourceType="Kill",DropChance="54.0",Zone="Loch Modan"}}
 items[6585] = {id=6585,name="Scouting Cloak",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
@@ -417,39 +417,39 @@ items[15508] = {id=15508,name="Grunt's Cape",source={ID=11914,SourceName="Goreho
 items[14161] = {id=14161,name="Pagan Cape",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.1",Zone="The Barrens"}}
 items[1741] = {id=1741,name="Laced Cloak",source={ID=2477,SourceName="Gradok",SourceType="Kill",DropChance="2.2",Zone="Loch Modan"}}
 items[14123] = {id=14123,name="Ritual Cape",source={ID=11914,SourceName="Gorehoof the Black",SourceType="Kill",DropChance="0.5",Zone="Stonetalon Mountains"}}
-items[1790] = {id=1790,name="Patched Cloak",source={ID=16249,SourceName="Masophet the Black",SourceType="Kill",DropChance="2.1",Zone="Ghostlands"}}
-items[14724] = {id=14724,name="War Paint Cloak",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
-items[6542] = {id=6542,name="Willow Cape",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="5.3",Zone="Silverpine Forest"}}
+items[1790] = {id=1790,name="Patched Cloak",source={ID=16249,SourceName="Masophet the Black",SourceType="Kill",DropChance="1.8",Zone="Ghostlands"}}
+items[14724] = {id=14724,name="War Paint Cloak",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="0.7",Zone="Bloodmyst Isle"}}
+items[6542] = {id=6542,name="Willow Cape",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="5.2",Zone="Silverpine Forest"}}
 items[14365] = {id=14365,name="Mystic's Cape",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="1.0",Zone="The Barrens"}}
 items[15309] = {id=15309,name="Feral Cloak",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="1.0",Zone="The Barrens"}}
 items[1497] = {id=1497,name="Calico Cloak",source={ID=1911,SourceName="Deeb",SourceType="Kill",DropChance="2.8",Zone="Tirisfal Glades"}}
 items[6555] = {id=6555,name="Bard's Cloak",source={ID=2191,SourceName="Licillin",SourceType="Kill",DropChance="8.8",Zone="Darkshore"}}
-items[15490] = {id=15490,name="Bloodspattered Cloak",source={ID=17338,SourceName="Nazzivus Rogue",SourceType="Kill",DropChance="0.5",Zone="Bloodmyst Isle"}}
-items[4680] = {id=4680,name="Brackwater Cloak",source={ID=17333,SourceName="Wrathscale Screamer",SourceType="Kill",DropChance="0.6",Zone="Bloodmyst Isle"}}
-items[4683] = {id=4683,name="Spellbinder Cloak",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[15490] = {id=15490,name="Bloodspattered Cloak",source={ID=5865,SourceName="Dishu",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
+items[4680] = {id=4680,name="Brackwater Cloak",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="0.7",Zone="Bloodmyst Isle"}}
+items[4683] = {id=4683,name="Spellbinder Cloak",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[3331] = {id=3331,name="Melrache's Cape",source={ID=1665,SourceName="Captain Melrache",SourceType="Kill",DropChance="4.5",Zone="Tirisfal Glades"}}
-items[4692] = {id=4692,name="Ceremonial Cloak",source={ID=13157,SourceName="Makasgar",SourceType="Kill",DropChance="1.8",Zone="Durotar"}}
-items[4772] = {id=4772,name="Warm Cloak",source={ID=5785,SourceName="Sister Hatelash",SourceType="Kill",DropChance="48.2",Zone="Mulgore"}}
+items[4692] = {id=4692,name="Ceremonial Cloak",source={ID=13157,SourceName="Makasgar",SourceType="Kill",DropChance="1.7",Zone="Durotar"}}
+items[4772] = {id=4772,name="Warm Cloak",source={ID=5785,SourceName="Sister Hatelash",SourceType="Kill",DropChance="48.5",Zone="Mulgore"}}
 items[9745] = {id=9745,name="Simple Cape",source={ID=5823,SourceName="Death Flayer",SourceType="Kill",DropChance="7.5",Zone="Durotar"}}
-items[9761] = {id=9761,name="Cadet Cloak",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="10.0",Zone="Eversong Woods"}}
+items[9761] = {id=9761,name="Cadet Cloak",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="9.0",Zone="Eversong Woods"}}
 items[14098] = {id=14098,name="Native Cloak",source={ID=6911,SourceName="Minion of Sethir",SourceType="Kill",DropChance="1.1",Zone="Teldrassil"}}
 items[4668] = {id=4668,name="Battle Chain Cloak",source={ID=3105,SourceName="Makrura Snapclaw",SourceType="Kill",DropChance="1.0",Zone="Durotar"}}
-items[14088] = {id=14088,name="Beaded Cloak",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.4",Zone="Eversong Woods"}}
-items[1429] = {id=1429,name="Patchwork Cloak",source={ID=1135,SourceName="Wendigo",SourceType="Kill",DropChance="1.4",Zone="Dun Morogh"}}
-items[21004] = {id=21004,name="Unkempt Cloak",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
+items[14088] = {id=14088,name="Beaded Cloak",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[1429] = {id=1429,name="Patchwork Cloak",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="1.6",Zone="Eversong Woods"}}
+items[21004] = {id=21004,name="Unkempt Cloak",source={ID=15298,SourceName="Tainted Arcane Wraith",SourceType="Kill",DropChance="2.1",Zone="Eversong Woods"}}
 items[32337] = {id=32337,name="Shroud of Forgiveness",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="19.7",Zone="Black Temple"}}
 items[30098] = {id=30098,name="Razor-Scale Battlecloak",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="32.4",Zone="Serpentshrine Cavern"}}
 items[31942] = {id=31942,name="Deathwing Brood Cloak",source={ID=40764,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32665] = {id=32665,name="Crystalweave Cape",source={ID=40747,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[34708] = {id=34708,name="Cloak of the Coming Night",source={ID=24744,SourceName="Vexallus",SourceType="Kill",DropChance="18.5",Zone="Magisters' Terrace"}}
-items[31935] = {id=31935,name="Frigid Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25636] = {id=25636,name="Talbuk Cape",source={ID=9859,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[31935] = {id=31935,name="Frigid Cloak",source={ID=20520,SourceName="Ethereum Prisoner",SourceType="Kill",DropChance="0.9",Zone="Netherstorm"}}
+items[25636] = {id=25636,name="Talbuk Cape",source={ID=9859,SourceName="Talbuk Mastery",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[24459] = {id=24459,name="Cloak of Healing Rays",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="28.5",Zone="The Underbog"}}
 items[20785] = {id=20785,name="90 green shaman back",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25033] = {id=25033,name="Scavenger's Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25031] = {id=25031,name="Silvermoon Royal Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25030] = {id=25030,name="Silky Velvet Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[10258] = {id=10258,name="Adventurer's Cape",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="9.3",Zone="Searing Gorge"}}
+items[25033] = {id=25033,name="Scavenger's Cloak",source={ID=16805,SourceName="Broken Skeleton",SourceType="Kill",DropChance="0",Zone="Terokkar Forest"}}
+items[25031] = {id=25031,name="Silvermoon Royal Cloak",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.1",Zone="Hellfire Peninsula"}}
+items[25030] = {id=25030,name="Silky Velvet Cloak",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.1",Zone="Hellfire Peninsula"}}
+items[10258] = {id=10258,name="Adventurer's Cape",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="5.6",Zone="Searing Gorge"}}
 items[18339] = {id=18339,name="Eidolon Cloak",source={ID=11473,SourceName="Eldreth Spectre",SourceType="Kill",DropChance="1.1",Zone="Dire Maul"}}
 items[18743] = {id=18743,name="Gracious Cape",source={ID=10422,SourceName="Crimson Sorcerer",SourceType="Kill",DropChance="0",Zone="Stratholme"}}
 items[8304] = {id=8304,name="Hero's Cape",source={ID=7042,SourceName="Flamescale Dragonspawn",SourceType="Kill",DropChance="0.6",Zone="Burning Steppes"}}
@@ -469,18 +469,18 @@ items[15382] = {id=15382,name="Rageclaw Cloak",source={ID=7848,SourceName="Lurki
 items[9919] = {id=9919,name="Tracker's Cloak",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="40.0",Zone="Thousand Needles"}}
 items[19532] = {id=19532,name="Caretaker's Cape",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[6424] = {id=6424,name="Blackforge Cape",source={ID=743,SourceName="Wyrmkin Dreamwalker",SourceType="Kill",DropChance="0.2",Zone="Swamp of Sorrows"}}
-items[14430] = {id=14430,name="Windchaser Cloak",source={ID=11782,SourceName="Ambershard Destroyer",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
+items[14430] = {id=14430,name="Windchaser Cloak",source={ID=5402,SourceName="Khan Hratha",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
 items[6432] = {id=6432,name="Imperial Cloak",source={ID=2763,SourceName="Thenan",SourceType="Kill",DropChance="0.1",Zone="Arathi Highlands"}}
 items[12253] = {id=12253,name="Brilliant Red Cloak",source={ID=8159,SourceName="Worb Strongstitch",SourceType="Purchase",DropChance="100",Zone="Feralas"}}
 items[14239] = {id=14239,name="Darkmist Cape",source={ID=4658,SourceName="Maraudine Stormer",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
 items[14771] = {id=14771,name="Ravager's Cloak",source={ID=6070,SourceName="Maraudine Khan Advisor",SourceType="Kill",DropChance="0.4",Zone="Desolace"}}
 items[9890] = {id=9890,name="Huntsman's Cape",source={ID=14231,SourceName="Drogoth the Roamer",SourceType="Kill",DropChance="3.9",Zone="Dustwallow Marsh"}}
-items[9898] = {id=9898,name="Jazeraint Cloak",source={ID=2753,SourceName="Barnabus",SourceType="Kill",DropChance="3.6",Zone="Badlands"}}
+items[9898] = {id=9898,name="Jazeraint Cloak",source={ID=2753,SourceName="Barnabus",SourceType="Kill",DropChance="4.5",Zone="Badlands"}}
 items[13121] = {id=13121,name="Wing of the Whelpling",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
 items[14420] = {id=14420,name="Silksand Cape",source={ID=4385,SourceName="Withervine Rager",SourceType="Kill",DropChance="0.6",Zone="Dustwallow Marsh"}}
 items[4732] = {id=4732,name="Glyphed Cloak",source={ID=1106,SourceName="Lost One Cook",SourceType="Kill",DropChance="0.3",Zone="Swamp of Sorrows"}}
 items[15153] = {id=15153,name="Nocturnal Cloak",source={ID=4382,SourceName="Withervine Creeper",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
-items[15364] = {id=15364,name="Trickster's Cloak",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[15364] = {id=15364,name="Trickster's Cloak",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[15579] = {id=15579,name="Sparkleshell Cloak",source={ID=4842,SourceName="Earthcaller Halmgar",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
 items[18440] = {id=18440,name="Sergeant's Cape",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[14409] = {id=14409,name="Stonecloth Cape",source={ID=7873,SourceName="Razorfen Battleguard",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
@@ -496,59 +496,59 @@ items[4706] = {id=4706,name="Lambent Scale Cloak",source={ID=4464,SourceName="Bl
 items[15519] = {id=15519,name="Spiked Chain Cloak",source={ID=5931,SourceName="Foreman Rigger",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
 items[1766] = {id=1766,name="Canvas Cloak",source={ID=2159,SourceName="Gravelflint Bonesnapper",SourceType="Kill",DropChance="1.4",Zone="Darkshore"}}
 items[1930] = {id=1930,name="Stonemason Cloak",source={ID=598,SourceName="Defias Miner",SourceType="Kill",DropChance="2.5",Zone="The Deadmines"}}
-items[6378] = {id=6378,name="Seer's Cape",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="4.0",Zone="Ghostlands"}}
+items[6378] = {id=6378,name="Seer's Cape",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.0",Zone="Ghostlands"}}
 items[15501] = {id=15501,name="Outrunner's Cloak",source={ID=17323,SourceName="Contaminated Wildkin",SourceType="Kill",DropChance="0.3",Zone="Bloodmyst Isle"}}
 items[4701] = {id=4701,name="Inscribed Cloak",source={ID=12431,SourceName="Gorefang",SourceType="Kill",DropChance="0.9",Zone="Silverpine Forest"}}
 items[1733] = {id=1733,name="Worn Cloak",source={ID=3578,SourceName="Dalaran Miner",SourceType="Kill",DropChance="2.5",Zone="Silverpine Forest"}}
-items[2284] = {id=2284,name="Rat Cloth Cloak",source={ID=1425,SourceName="Grizlak",SourceType="Kill",DropChance="54.3",Zone="Loch Modan"}}
-items[4689] = {id=4689,name="Hunting Cloak",source={ID=15407,SourceName="Chieftain Zul'Marosh",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
-items[4677] = {id=4677,name="Veteran Cloak",source={ID=16327,SourceName="Ravening Apparition",SourceType="Kill",DropChance="0.7",Zone="Ghostlands"}}
+items[2284] = {id=2284,name="Rat Cloth Cloak",source={ID=1425,SourceName="Grizlak",SourceType="Kill",DropChance="54.1",Zone="Loch Modan"}}
+items[4689] = {id=4689,name="Hunting Cloak",source={ID=15407,SourceName="Chieftain Zul'Marosh",SourceType="Kill",DropChance="1.0",Zone="Eversong Woods"}}
+items[4677] = {id=4677,name="Veteran Cloak",source={ID=16327,SourceName="Ravening Apparition",SourceType="Kill",DropChance="0.6",Zone="Ghostlands"}}
 items[4686] = {id=4686,name="Barbaric Cloth Cloak",source={ID=2167,SourceName="Blackwood Pathfinder",SourceType="Kill",DropChance="0.2",Zone="Darkshore"}}
-items[9754] = {id=9754,name="Gypsy Cloak",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[9754] = {id=9754,name="Gypsy Cloak",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[6514] = {id=6514,name="Disciple's Cloak",source={ID=10356,SourceName="Bayne",SourceType="Kill",DropChance="6.1",Zone="Tirisfal Glades"}}
-items[4658] = {id=4658,name="Warrior's Cloak",source={ID=16307,SourceName="Deathcage Scryer",SourceType="Kill",DropChance="2.1",Zone="Ghostlands"}}
+items[4658] = {id=4658,name="Warrior's Cloak",source={ID=16307,SourceName="Deathcage Scryer",SourceType="Kill",DropChance="1.8",Zone="Ghostlands"}}
 items[1376] = {id=1376,name="Frayed Cloak",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.8",Zone="Durotar"}}
 items[25042] = {id=25042,name="Nether Cloak",source={ID=16507,SourceName="Shattered Hand Sentry",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
-items[30338] = {id=30338,name="Diviner's Cloak",source={ID=10413,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30338] = {id=30338,name="Diviner's Cloak",source={ID=10413,SourceName="The Horrors of Pollution",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[35494] = {id=35494,name="Shroud of Winter's Chill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35495] = {id=35495,name="The Frost Lord's War Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35496] = {id=35496,name="Icebound Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25039] = {id=25039,name="Farseer Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31341] = {id=31341,name="Wyrmcultist's Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25034] = {id=25034,name="Elementalist Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25039] = {id=25039,name="Farseer Cloak",source={ID=18983,SourceName="Blackfang Tarantula",SourceType="Kill",DropChance="0.1",Zone="The Black Morass"}}
+items[31341] = {id=31341,name="Wyrmcultist's Cloak",source={ID=22099,SourceName="Wyrmcult Provisioner",SourceType="Purchase",DropChance="100",Zone="Blade's Edge Mountains"}}
+items[25034] = {id=25034,name="Elementalist Cloak",source={ID=19458,SourceName="Ripp",SourceType="Kill",DropChance="0.4",Zone="Hellfire Peninsula"}}
 items[20782] = {id=20782,name="63 green shaman back",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3980] = {id=3980,name="Strapped Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[18496] = {id=18496,name="Heliotrope Cloak",source={ID=14323,SourceName="Guard Slip'kik",SourceType="Kill",DropChance="6.4",Zone="Dire Maul"}}
 items[186044] = {id=186044,name="Communal Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[6901] = {id=6901,name="Glowing Thresher Cape",source={ID=4830,SourceName="Old Serra'kis",SourceType="Kill",DropChance="39.7",Zone="Blackfathom Deeps"}}
+items[6901] = {id=6901,name="Glowing Thresher Cape",source={ID=4830,SourceName="Old Serra'kis",SourceType="Kill",DropChance="39.6",Zone="Blackfathom Deeps"}}
 items[5193] = {id=5193,name="Cape of the Brotherhood",source={ID=639,SourceName="Edwin VanCleef",SourceType="Kill",DropChance="22.9",Zone="The Deadmines"}}
 items[12979] = {id=12979,name="Firebane Cloak",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
 items[14385] = {id=14385,name="Durability Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33333] = {id=33333,name="Kharmaa's Shroud of Hope",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33333] = {id=33333,name="Kharmaa's Shroud of Hope",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[24528] = {id=24528,name="130 Epic Warrior Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33592] = {id=33592,name="Cloak of Ancient Rituals",source={ID=24239,SourceName="Hex Lord Malacrass",SourceType="Kill",DropChance="11.3",Zone="Unknown"}}
 items[25043] = {id=25043,name="Amber Cape",source={ID=21304,SourceName="Warder Corpse",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
 items[25040] = {id=25040,name="Murkblood Cape",source={ID=18633,SourceName="Cabal Acolyte",SourceType="Kill",DropChance="8.3",Zone="Shadow Labyrinth"}}
-items[25038] = {id=25038,name="Forest Shroud",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25038] = {id=25038,name="Forest Shroud",source={ID=23154,SourceName="Mana-Debt Slave",SourceType="Kill",DropChance="0.4",Zone="Blade's Edge Mountains"}}
 items[25036] = {id=25036,name="Boulderfist Cloak",source={ID=17137,SourceName="Boulderfist Mage",SourceType="Kill",DropChance="2.0",Zone="Nagrand"}}
 items[25035] = {id=25035,name="Silver-Lined Cloak",source={ID=21661,SourceName="Cabal Skirmisher",SourceType="Kill",DropChance="0.9",Zone="Terokkar Forest"}}
 items[21627] = {id=21627,name="Cloak of Untold Secrets",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="22.4",Zone="Ahn'Qiraj"}}
 items[17078] = {id=17078,name="Sapphiron Drape",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="31.5",Zone="Unknown"}}
 items[4011] = {id=4011,name="Sterling Chain Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[15815] = {id=15815,name="Hameya's Cloak",source={ID=6024,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[15815] = {id=15815,name="Hameya's Cloak",source={ID=6024,SourceName="Hameya's Plea",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
 items[10802] = {id=10802,name="Wingveil Cloak",source={ID=5708,SourceName="Spawn of Hakkar",SourceType="Kill",DropChance="23.2",Zone="The Temple of Atal'Hakkar"}}
 items[4327] = {id=4327,name="Icy Cloak",source={ID=3862,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4716] = {id=4716,name="Combat Cloak",source={ID=4062,SourceName="Dark Iron Bombardier",SourceType="Kill",DropChance="0.3",Zone="Arathi Highlands"}}
-items[31465] = {id=31465,name="Sha'tari Anchorite's Cloak",source={ID=10704,SourceName="",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
+items[31465] = {id=31465,name="Sha'tari Anchorite's Cloak",source={ID=10704,SourceName="How to Break Into the Arcatraz",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
 items[32538] = {id=32538,name="Skywitch's Drape",source={ID=23367,SourceName="Grella",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
-items[30971] = {id=30971,name="Torn-heart Cloak",source={ID=10541,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30971] = {id=30971,name="Torn-heart Cloak",source={ID=10541,SourceName="The Cipher of Damnation - The Second Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[30831] = {id=30831,name="Cloak of Arcane Evasion",source={ID=37873,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31939] = {id=31939,name="Dark Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31792] = {id=31792,name="Evergrove Ranger's Cloak",source={ID=10821,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
-items[25037] = {id=25037,name="Patched Cape",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25927] = {id=25927,name="Consortium Cloak of the Quick",source={ID=10112,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
-items[28030] = {id=28030,name="Spell-slinger's Protector",source={ID=10111,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[25965] = {id=25965,name="Cloak of Grasping Talons",source={ID=10874,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[31939] = {id=31939,name="Dark Cloak",source={ID=20520,SourceName="Ethereum Prisoner",SourceType="Kill",DropChance="1.0",Zone="Netherstorm"}}
+items[31792] = {id=31792,name="Evergrove Ranger's Cloak",source={ID=10821,SourceName="You're Fired!",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[25037] = {id=25037,name="Patched Cape",source={ID=22081,SourceName="Shadowmoon Darkweaver",SourceType="Kill",DropChance="0.2",Zone="Shadowmoon Valley"}}
+items[25927] = {id=25927,name="Consortium Cloak of the Quick",source={ID=10112,SourceName="A Personal Favor",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[28030] = {id=28030,name="Spell-slinger's Protector",source={ID=10111,SourceName="Bring Me The Egg!",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25965] = {id=25965,name="Cloak of Grasping Talons",source={ID=10874,SourceName="Veil Shalas: Signal Fires",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[21068] = {id=21068,name="66 Epic Fire Shroud",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[21096] = {id=21096,name="66 Epic Shadow Shroud",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[21055] = {id=21055,name="63 Blue Fire Shroud",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -565,37 +565,37 @@ items[14656] = {id=14656,name="Scorpashi Cape",source={ID=5352,SourceName="Old G
 items[4797] = {id=4797,name="Fiery Cloak",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[15333] = {id=15333,name="Wrangler's Cloak",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
 items[27789] = {id=27789,name="Cloak of Whispering Shells",source={ID=17797,SourceName="Hydromancer Thespia",SourceType="Kill",DropChance="32.0",Zone="The Steamvault"}}
-items[31936] = {id=31936,name="Fiery Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31936] = {id=31936,name="Fiery Cloak",source={ID=20520,SourceName="Ethereum Prisoner",SourceType="Kill",DropChance="0.8",Zone="Netherstorm"}}
 items[17107] = {id=17107,name="Dragon's Blood Cape",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="29.8",Zone="Molten Core"}}
 items[10138] = {id=10138,name="High Councillor's Cloak",source={ID=10202,SourceName="Azurous",SourceType="Kill",DropChance="4.3",Zone="Winterspring"}}
 items[17061] = {id=17061,name="Juno's Shadow",source={ID=10400,SourceName="Thuzadin Necromancer",SourceType="Kill",DropChance="0",Zone="Stratholme"}}
-items[15789] = {id=15789,name="Deep River Cloak",source={ID=4842,SourceName="",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
-items[9648] = {id=9648,name="Chainlink Towel",source={ID=2767,SourceName="",SourceType="Quest",DropChance="0",Zone="Feralas"}}
+items[15789] = {id=15789,name="Deep River Cloak",source={ID=4842,SourceName="Strange Sources",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
+items[9648] = {id=9648,name="Chainlink Towel",source={ID=2767,SourceName="Rescue OOX-22/FE!",SourceType="Quest",DropChance="0",Zone="Feralas"}}
 items[14270] = {id=14270,name="Gaea's Cloak",source={ID=4390,SourceName="Elder Murk Thresher",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
 items[9908] = {id=9908,name="Royal Cape",source={ID=14235,SourceName="The Rot",SourceType="Kill",DropChance="5.2",Zone="Dustwallow Marsh"}}
 items[6593] = {id=6593,name="Battleforge Cloak",source={ID=6209,SourceName="Caverndeep Looter",SourceType="Kill",DropChance="9.5",Zone="Unknown"}}
-items[35324] = {id=35324,name="Cloak of Swift Reprieve",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31937] = {id=31937,name="Living Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19870] = {id=19870,name="Hakkari Loa Cloak",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="18.0",Zone="Zul'Gurub"}}
+items[35324] = {id=35324,name="Cloak of Swift Reprieve",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31937] = {id=31937,name="Living Cloak",source={ID=20520,SourceName="Ethereum Prisoner",SourceType="Kill",DropChance="0.9",Zone="Netherstorm"}}
+items[19870] = {id=19870,name="Hakkari Loa Cloak",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="17.9",Zone="Zul'Gurub"}}
 items[18689] = {id=18689,name="Phantasmal Cloak",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="9.9",Zone="Scholomance"}}
 items[9397] = {id=9397,name="Energy Cloak",source={ID=4872,SourceName="Obsidian Golem",SourceType="Kill",DropChance="0.1",Zone="Badlands"}}
 items[4793] = {id=4793,name="Sylvan Cloak",source={ID=1454,SourceName="Jennabink Powerseam",SourceType="Purchase",DropChance="100",Zone="Wetlands"}}
-items[6179] = {id=6179,name="Privateer's Cape",source={ID=520,SourceName="Brack",SourceType="Kill",DropChance="57.2",Zone="Westfall"}}
-items[17523] = {id=17523,name="Smokey's Drape",source={ID=6041,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[6179] = {id=6179,name="Privateer's Cape",source={ID=520,SourceName="Brack",SourceType="Kill",DropChance="57.1",Zone="Westfall"}}
+items[17523] = {id=17523,name="Smokey's Drape",source={ID=6041,SourceName="When Smokey Sings, I Get Violent",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
 items[186045] = {id=186045,name="Communal Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33260] = {id=33260,name="Spellbound Cloak",source={ID=11173,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
-items[5751] = {id=5751,name="Webwing Cloak",source={ID=4015,SourceName="Pridewing Patriarch",SourceType="Kill",DropChance="77.1",Zone="Stonetalon Mountains"}}
+items[33260] = {id=33260,name="Spellbound Cloak",source={ID=11173,SourceName="The Reagent Thief",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[5751] = {id=5751,name="Webwing Cloak",source={ID=4015,SourceName="Pridewing Patriarch",SourceType="Kill",DropChance="77.2",Zone="Stonetalon Mountains"}}
 items[2570] = {id=2570,name="Linen Cloak",source={ID=2387,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28026] = {id=28026,name="Crazy Cenarion Cloak",source={ID=9951,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[28026] = {id=28026,name="Crazy Cenarion Cloak",source={ID=9951,SourceName="It's Watching You!",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[186046] = {id=186046,name="Communal Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[186075] = {id=186075,name="Communal Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14450] = {id=14450,name="Highborne Cloak",source={ID=6651,SourceName="Gatekeeper Rageroar",SourceType="Kill",DropChance="0.8",Zone="Azshara"}}
 items[7460] = {id=7460,name="Knight's Cloak",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="9.5",Zone="Thousand Needles"}}
-items[14376] = {id=14376,name="Sanguine Cape",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
+items[14376] = {id=14376,name="Sanguine Cape",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="4.1",Zone="Bloodmyst Isle"}}
 items[5444] = {id=5444,name="Miner's Cape",source={ID=3586,SourceName="Miner Johnson",SourceType="Kill",DropChance="55.0",Zone="The Deadmines"}}
-items[14167] = {id=14167,name="Buccaneer's Cape",source={ID=125,SourceName="Riverpaw Overseer",SourceType="Kill",DropChance="1.3",Zone="Westfall"}}
-items[31938] = {id=31938,name="Enigmatic Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25966] = {id=25966,name="Arakkoa Sage's Shawl",source={ID=10874,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[14167] = {id=14167,name="Buccaneer's Cape",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.0",Zone="Ghostlands"}}
+items[31938] = {id=31938,name="Enigmatic Cloak",source={ID=20520,SourceName="Ethereum Prisoner",SourceType="Kill",DropChance="1.1",Zone="Netherstorm"}}
+items[25966] = {id=25966,name="Arakkoa Sage's Shawl",source={ID=10874,SourceName="Veil Shalas: Signal Fires",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[22337] = {id=22337,name="Shroud of Domination",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="25.9",Zone="Blackrock Spire"}}
 items[14813] = {id=14813,name="Warstrike Cape",source={ID=6583,SourceName="Gruff",SourceType="Kill",DropChance="0.6",Zone="Un'Goro Crater"}}
 items[11311] = {id=11311,name="Emberscale Cape",source={ID=7291,SourceName="Galgann Firehammer",SourceType="Kill",DropChance="38.2",Zone="Uldaman"}}
@@ -605,7 +605,7 @@ items[13005] = {id=13005,name="Amy's Blanket",source={ID=15814,SourceName="Qiraj
 items[9805] = {id=9805,name="Superior Cloak",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="14.3",Zone="The Barrens"}}
 items[31254] = {id=31254,name="Striderhide Cloak",source={ID=18680,SourceName="Marticar",SourceType="Kill",DropChance="92.0",Zone="Unknown"}}
 items[18382] = {id=18382,name="Fluctuating Cloak",source={ID=11486,SourceName="Prince Tortheldrin",SourceType="Kill",DropChance="23.6",Zone="Dire Maul"}}
-items[10185] = {id=10185,name="Swashbuckler's Cape",source={ID=14345,SourceName="The Ongar",SourceType="Kill",DropChance="5.3",Zone="Felwood"}}
+items[10185] = {id=10185,name="Swashbuckler's Cape",source={ID=14345,SourceName="The Ongar",SourceType="Kill",DropChance="5.2",Zone="Felwood"}}
 items[8215] = {id=8215,name="Wild Leather Cloak",source={ID=10574,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[22782] = {id=22782,name="Sin'dorei Cloak of Warding",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 

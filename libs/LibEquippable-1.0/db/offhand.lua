@@ -16,7 +16,7 @@ items[28307] = {id=28307,name="Gladiator's Quickblade",source={ID=20278,SourceNa
 items[28315] = {id=28315,name="Stormreaver Warblades",source={ID=17975,SourceName="High Botanist Freywinn",SourceType="Kill",DropChance="18.2",Zone="The Botanica"}}
 items[29372] = {id=29372,name="Void-Talon",source={ID=19536,SourceName="Dealer Jadyan",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[34346] = {id=34346,name="Mounting Vengeance",source={ID=25368,SourceName="Sunblade Slayer",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
-items[23242] = {id=23242,name="Claw of the Frost Wyrm",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="42.0",Zone="Naxxramas"}}
+items[23242] = {id=23242,name="Claw of the Frost Wyrm",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="43.1",Zone="Naxxramas"}}
 items[27747] = {id=27747,name="Boggspine Knuckles",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
 items[28310] = {id=28310,name="Gladiator's Shiv",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32945] = {id=32945,name="Fist of Molten Fury",source={ID=17907,SourceName="Frost Wyrm",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
@@ -25,56 +25,56 @@ items[29948] = {id=29948,name="Claw of the Phoenix",source={ID=19514,SourceName=
 items[33640] = {id=33640,name="Fury",source={ID=23576,SourceName="Nalorakk",SourceType="Kill",DropChance="13.8",Zone="Unknown"}}
 items[19866] = {id=19866,name="Warblade of the Hakkari",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="8.9",Zone="Zul'Gurub"}}
 items[18847] = {id=18847,name="Grand Marshal's Left Hand Blade",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[34951] = {id=34951,name="Vanir's Left Fist of Brutality",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34951] = {id=34951,name="Vanir's Left Fist of Brutality",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[28947] = {id=28947,name="Grand Marshal's Left Ripper",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28309] = {id=28309,name="Gladiator's Hacker",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[34203] = {id=34203,name="Grip of Mannoroth",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="20.3",Zone="Unknown"}}
-items[35072] = {id=35072,name="Brutal Gladiator's Quickblade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32027] = {id=32027,name="Merciless Gladiator's Quickblade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[18392] = {id=18392,name="Distracting Dagger",source={ID=11486,SourceName="Prince Tortheldrin",SourceType="Kill",DropChance="19.1",Zone="Dire Maul"}}
-items[35017] = {id=35017,name="Brutal Gladiator's Hacker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31958] = {id=31958,name="Merciless Gladiator's Bonecracker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35072] = {id=35072,name="Brutal Gladiator's Quickblade",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32027] = {id=32027,name="Merciless Gladiator's Quickblade",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[18392] = {id=18392,name="Distracting Dagger",source={ID=11486,SourceName="Prince Tortheldrin",SourceType="Kill",DropChance="19.0",Zone="Dire Maul"}}
+items[35017] = {id=35017,name="Brutal Gladiator's Hacker",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31958] = {id=31958,name="Merciless Gladiator's Bonecracker",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[12939] = {id=12939,name="Dal'Rend's Tribal Guardian",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="11.0",Zone="Blackrock Spire"}}
 items[18848] = {id=18848,name="High Warlord's Left Claw",source={ID=14581,SourceName="Sergeant Thunderhorn",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28314] = {id=28314,name="Gladiator's Left Ripper",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
-items[32046] = {id=32046,name="Merciless Gladiator's Shiv",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32046] = {id=32046,name="Merciless Gladiator's Shiv",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28922] = {id=28922,name="High Warlord's Left Ripper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34950] = {id=34950,name="Vanir's Left Fist of Savagery",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34950] = {id=34950,name="Vanir's Left Fist of Savagery",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[186682] = {id=186682,name="Communal Left Claw",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[15907] = {id=15907,name="Left-Handed Claw",source={ID=3361,SourceName="Shoma",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
-items[19910] = {id=19910,name="Arlokk's Grasp",source={ID=14515,SourceName="High Priestess Arlokk",SourceType="Kill",DropChance="9.5",Zone="Zul'Gurub"}}
-items[25189] = {id=25189,name="Ironspine Point",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[17738] = {id=17738,name="Claw of Celebras",source={ID=12225,SourceName="Celebras the Cursed",SourceType="Kill",DropChance="31.9",Zone="Maraudon"}}
-items[34952] = {id=34952,name="The Mutilator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[13399] = {id=13399,name="Gargoyle Shredder Talons",source={ID=10809,SourceName="Stonespine",SourceType="Kill",DropChance="33.8",Zone="Stratholme"}}
+items[19910] = {id=19910,name="Arlokk's Grasp",source={ID=14515,SourceName="High Priestess Arlokk",SourceType="Kill",DropChance="9.6",Zone="Zul'Gurub"}}
+items[25189] = {id=25189,name="Ironspine Point",source={ID=21963,SourceName="Enslaved Doomguard",SourceType="Kill",DropChance="0.3",Zone="Terokkar Forest"}}
+items[17738] = {id=17738,name="Claw of Celebras",source={ID=12225,SourceName="Celebras the Cursed",SourceType="Kill",DropChance="31.8",Zone="Maraudon"}}
+items[34952] = {id=34952,name="The Mutilator",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[13399] = {id=13399,name="Gargoyle Shredder Talons",source={ID=10809,SourceName="Stonespine",SourceType="Kill",DropChance="33.7",Zone="Stratholme"}}
 items[32504] = {id=32504,name="Monster - Silithid Claw (Offhand)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35058] = {id=35058,name="Brutal Gladiator's Mutilator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34949] = {id=34949,name="Swift Blade of Uncertainty",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25191] = {id=25191,name="Dread Fangs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35058] = {id=35058,name="Brutal Gladiator's Mutilator",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34949] = {id=34949,name="Swift Blade of Uncertainty",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[25191] = {id=25191,name="Dread Fangs",source={ID=23390,SourceName="Bash'ir's Harbinger",SourceType="Kill",DropChance="0.7",Zone="Blade's Edge Mountains"}}
 items[15909] = {id=15909,name="Left-Handed Blades",source={ID=3361,SourceName="Shoma",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
-items[35037] = {id=35037,name="Brutal Gladiator's Left Render",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33801] = {id=33801,name="Vengeful Gladiator's Mutilator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[18202] = {id=18202,name="Eskhandar's Left Claw",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="16.6",Zone="Azshara"}}
-items[34988] = {id=34988,name="Brutal Gladiator's Bonecracker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34995] = {id=34995,name="Brutal Gladiator's Chopper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34015] = {id=34015,name="Vengeful Gladiator's Chopper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35038] = {id=35038,name="Brutal Gladiator's Left Ripper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35037] = {id=35037,name="Brutal Gladiator's Left Render",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33801] = {id=33801,name="Vengeful Gladiator's Mutilator",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[18202] = {id=18202,name="Eskhandar's Left Claw",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="16.5",Zone="Azshara"}}
+items[34988] = {id=34988,name="Brutal Gladiator's Bonecracker",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34995] = {id=34995,name="Brutal Gladiator's Chopper",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34015] = {id=34015,name="Vengeful Gladiator's Chopper",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35038] = {id=35038,name="Brutal Gladiator's Left Ripper",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30209] = {id=30209,name="Monster - Glaive - Demonhunter Black Offhand (Red Flame)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33662] = {id=33662,name="Vengeful Gladiator's Bonecracker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33662] = {id=33662,name="Vengeful Gladiator's Bonecracker",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[15906] = {id=15906,name="Left-Handed Brass Knuckles",source={ID=3361,SourceName="Shoma",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
-items[33734] = {id=33734,name="Vengeful Gladiator's Quickblade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33734] = {id=33734,name="Vengeful Gladiator's Quickblade",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[25197] = {id=25197,name="Razor Scythes",source={ID=21303,SourceName="Defender Corpse",SourceType="Kill",DropChance="5.3",Zone="Unknown"}}
-items[36737] = {id=36737,name="Brutal Gladiator's Hatchet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32003] = {id=32003,name="Merciless Gladiator's Left Ripper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33705] = {id=33705,name="Vengeful Gladiator's Left Ripper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[36737] = {id=36737,name="Brutal Gladiator's Hatchet",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32003] = {id=32003,name="Merciless Gladiator's Left Ripper",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33705] = {id=33705,name="Vengeful Gladiator's Left Ripper",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[25187] = {id=25187,name="Shekketh Talons",source={ID=17371,SourceName="Shadowmoon Warlock",SourceType="Kill",DropChance="1.0",Zone="The Blood Furnace"}}
-items[35095] = {id=35095,name="Brutal Gladiator's Shiv",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33756] = {id=33756,name="Vengeful Gladiator's Shiv",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31985] = {id=31985,name="Merciless Gladiator's Hacker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34016] = {id=34016,name="Vengeful Gladiator's Left Render",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25185] = {id=25185,name="Thrasher Blades",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35095] = {id=35095,name="Brutal Gladiator's Shiv",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33756] = {id=33756,name="Vengeful Gladiator's Shiv",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31985] = {id=31985,name="Merciless Gladiator's Hacker",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34016] = {id=34016,name="Vengeful Gladiator's Left Render",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[25185] = {id=25185,name="Thrasher Blades",source={ID=16873,SourceName="Bleeding Hollow Dark Shaman",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[32066] = {id=32066,name="Monster - Glaive - Demonhunter Black Offhand (Black Glow - Illidan)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33689] = {id=33689,name="Vengeful Gladiator's Hacker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33689] = {id=33689,name="Vengeful Gladiator's Hacker",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 
 
 -- Name Data

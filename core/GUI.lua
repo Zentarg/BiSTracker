@@ -69,7 +69,6 @@ local function AddSourceToTooltip(value)
     elseif (sourceType == "Purchase") then
         GameTooltip:AddDoubleLine("Sold by:", value.source.SourceName .. " |cffffffff(ID: " .. value.source.ID ..")")
         GameTooltip:AddDoubleLine("Located in: ", value.source.Zone)
-        GameTooltip:AddDoubleLine("Drop chance: ", value.source.DropChance .. "%")
         GameTooltip:AddLine(" ")
     elseif (sourceType == "Quest") then
         local questTitle = value.source.SourceName

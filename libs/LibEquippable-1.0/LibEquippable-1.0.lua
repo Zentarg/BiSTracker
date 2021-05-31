@@ -11,6 +11,12 @@
 --  Container                                                                                      --
 --  Purchase                                                                                       --
 --  Unknown                                                                                        --
+--                                                                                                 --
+--                                           DISCLAIMER!                                           --
+--                                                                                                 --
+-- All the items are scraped directly from wowhead, prioritising "tbc.wowhead.com". Should this    --
+-- website not have any information on the source of the item, it will fall back to "wowhead.com". --
+--                                                                                                 --
 -------------------------------------**  All Rights Reserved  **-------------------------------------
 
 local LE_MAJOR, LE_MINOR = "LibEquippable-1.0", 1

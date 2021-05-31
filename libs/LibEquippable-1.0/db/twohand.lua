@@ -16,12 +16,12 @@ items[28429] = {id=28429,name="Lionheart Champion",source={ID=34540,SourceName="
 items[28440] = {id=28440,name="Thunder",source={ID=34547,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28435] = {id=28435,name="Mooncleaver",source={ID=34544,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28428] = {id=28428,name="Lionheart Blade",source={ID=34538,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19106] = {id=19106,name="Ice Barbed Spear",source={ID=7181,SourceName="",SourceType="Quest",DropChance="0",Zone="Alterac Valley"}}
+items[19106] = {id=19106,name="Ice Barbed Spear",source={ID=7181,SourceName="The Legend of Korrak",SourceType="Quest",DropChance="0",Zone="Alterac Valley"}}
 items[19323] = {id=19323,name="The Unstoppable Force",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28430] = {id=28430,name="Lionheart Executioner",source={ID=36259,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[9449] = {id=9449,name="Manual Crowd Pummeler",source={ID=6229,SourceName="Crowd Pummeler 9-60",SourceType="Kill",DropChance="33.2",Zone="Gnomeregan"}}
+items[9449] = {id=9449,name="Manual Crowd Pummeler",source={ID=6229,SourceName="Crowd Pummeler 9-60",SourceType="Kill",DropChance="33.3",Zone="Gnomeregan"}}
 items[29171] = {id=29171,name="Earthwarden",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
-items[31334] = {id=31334,name="Staff of Natural Fury",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31334] = {id=31334,name="Staff of Natural Fury",source={ID=16472,SourceName="Phantom Stagehand",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[28773] = {id=28773,name="Gorehowl",source={ID=15690,SourceName="Prince Malchezaar",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
 items[18876] = {id=18876,name="Grand Marshal's Claymore",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[27903] = {id=27903,name="Sonic Spear",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="66.6",Zone="Shadow Labyrinth"}}
@@ -38,37 +38,37 @@ items[28794] = {id=28794,name="Axe of the Gronn Lords",source={ID=19044,SourceNa
 items[24044] = {id=24044,name="Hellreaver",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="17.6",Zone="Hellfire Ramparts"}}
 items[6367] = {id=6367,name="Big Iron Fishing Pole",source={ID=176582,SourceName="Shellfish Trap",SourceType="Container",DropChance="1.2",Zone="Desolace"}}
 items[18873] = {id=18873,name="Grand Marshal's Stave",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[22630] = {id=22630,name="Atiesh, Greatstaff of the Guardian",source={ID=9271,SourceName="",SourceType="Quest",DropChance="0",Zone="Legendary"}}
+items[22630] = {id=22630,name="Atiesh, Greatstaff of the Guardian",source={ID=9271,SourceName="Atiesh, Greatstaff of the Guardian",SourceType="Quest",DropChance="0",Zone="Legendary"}}
 items[29993] = {id=29993,name="Twinblade of the Phoenix",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="23.3",Zone="Tempest Keep"}}
 items[6687] = {id=6687,name="Corpsemaker",source={ID=4420,SourceName="Overlord Ramtusk",SourceType="Kill",DropChance="33.7",Zone="Razorfen Kraul"}}
-items[24557] = {id=24557,name="Gladiator's War Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24557] = {id=24557,name="Gladiator's War Staff",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[7717] = {id=7717,name="Ravager",source={ID=3975,SourceName="Herod",SourceType="Kill",DropChance="13.8",Zone="Scarlet Monastery"}}
 items[28573] = {id=28573,name="Despair",source={ID=17534,SourceName="Julianne",SourceType="Kill",DropChance="24.8",Zone="Karazhan"}}
 items[18877] = {id=18877,name="High Warlord's Greatsword",source={ID=14581,SourceName="Sergeant Thunderhorn",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[25762] = {id=25762,name="Honed Voidaxe",source={ID=9977,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25762] = {id=25762,name="Honed Voidaxe",source={ID=9977,SourceName="The Ring of Blood: The Final Challenge",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[28943] = {id=28943,name="Grand Marshal's Warblade",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[32374] = {id=32374,name="Zhar'doom, Greatstaff of the Devourer",source={ID=22917,SourceName="Illidan Stormrage",SourceType="Kill",DropChance="37.4",Zone="Black Temple"}}
-items[22589] = {id=22589,name="Atiesh, Greatstaff of the Guardian",source={ID=9270,SourceName="",SourceType="Quest",DropChance="0",Zone="Legendary"}}
-items[22632] = {id=22632,name="Atiesh, Greatstaff of the Guardian",source={ID=9269,SourceName="",SourceType="Quest",DropChance="0",Zone="Legendary"}}
+items[22589] = {id=22589,name="Atiesh, Greatstaff of the Guardian",source={ID=9270,SourceName="Atiesh, Greatstaff of the Guardian",SourceType="Quest",DropChance="0",Zone="Legendary"}}
+items[22632] = {id=22632,name="Atiesh, Greatstaff of the Guardian",source={ID=9269,SourceName="Atiesh, Greatstaff of the Guardian",SourceType="Quest",DropChance="0",Zone="Legendary"}}
 items[29359] = {id=29359,name="Feral Staff of Lashing",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="10.1",Zone="The Botanica"}}
 items[3853] = {id=3853,name="Moonsteel Broadsword",source={ID=3496,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32824] = {id=32824,name="Trashbringer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[18608] = {id=18608,name="Benediction",source={ID=23151,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28476] = {id=28476,name="Gladiator's Maul",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28476] = {id=28476,name="Gladiator's Maul",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[18831] = {id=18831,name="High Warlord's Battle Axe",source={ID=14581,SourceName="Sergeant Thunderhorn",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29356] = {id=29356,name="Quantum Blade",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="14.0",Zone="The Black Morass"}}
 items[18874] = {id=18874,name="High Warlord's War Staff",source={ID=14581,SourceName="Sergeant Thunderhorn",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[24550] = {id=24550,name="Gladiator's Greatsword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24550] = {id=24550,name="Gladiator's Greatsword",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[29355] = {id=29355,name="Terokk's Shadowstaff",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="10.3",Zone="Sethekk Halls"}}
-items[25760] = {id=25760,name="Battle Mage's Baton",source={ID=9977,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25760] = {id=25760,name="Battle Mage's Baton",source={ID=9977,SourceName="The Ring of Blood: The Final Challenge",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[28436] = {id=28436,name="Bloodmoon",source={ID=36261,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28935] = {id=28935,name="High Warlord's War Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[9425] = {id=9425,name="Pendulum of Doom",source={ID=4855,SourceName="Stonevault Brawler",SourceType="Kill",DropChance="0",Zone="Uldaman"}}
 items[24394] = {id=24394,name="Warsong Howling Axe",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="11.5",Zone="The Blood Furnace"}}
-items[22798] = {id=22798,name="Might of Menethil",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="50.4",Zone="Naxxramas"}}
-items[22691] = {id=22691,name="Corrupted Ashbringer",source={ID=181366,SourceName="Four Horsemen Chest",SourceType="Container",DropChance="10.8",Zone="Naxxramas"}}
+items[22798] = {id=22798,name="Might of Menethil",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="50.2",Zone="Naxxramas"}}
+items[22691] = {id=22691,name="Corrupted Ashbringer",source={ID=181366,SourceName="Four Horsemen Chest",SourceType="Container",DropChance="10.6",Zone="Naxxramas"}}
 items[27986] = {id=27986,name="Crow Wing Reaper",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="14.2",Zone="Sethekk Halls"}}
-items[25761] = {id=25761,name="Staff of Beasts",source={ID=9977,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25761] = {id=25761,name="Staff of Beasts",source={ID=9977,SourceName="The Ring of Blood: The Final Challenge",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[28948] = {id=28948,name="Grand Marshal's Maul",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[24069] = {id=24069,name="Crystalfire Staff",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="17.6",Zone="Hellfire Ramparts"}}
 items[30902] = {id=30902,name="Cataclysm's Edge",source={ID=17968,SourceName="Archimonde",SourceType="Kill",DropChance="16.6",Zone="Hyjal Summit"}}
@@ -79,18 +79,18 @@ items[3855] = {id=3855,name="Massive Iron Axe",source={ID=3498,SourceName="",Sou
 items[9413] = {id=9413,name="The Rockpounder",source={ID=2748,SourceName="Archaedas",SourceType="Kill",DropChance="13.5",Zone="Uldaman"}}
 items[30722] = {id=30722,name="Ethereum Nexus-Reaver",source={ID=17711,SourceName="Doomwalker",SourceType="Kill",DropChance="12.3",Zone="Unknown"}}
 items[34247] = {id=34247,name="Apolyon, the Soul-Render",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
-items[23039] = {id=23039,name="The Eye of Nerub",source={ID=16011,SourceName="Loatheb",SourceType="Kill",DropChance="30.0",Zone="Naxxramas"}}
+items[23039] = {id=23039,name="The Eye of Nerub",source={ID=16011,SourceName="Loatheb",SourceType="Kill",DropChance="30.2",Zone="Naxxramas"}}
 items[28164] = {id=28164,name="Tranquillien Flamberge",source={ID=16528,SourceName="Provisioner Vredigar",SourceType="Purchase",DropChance="100",Zone="Ghostlands"}}
-items[6641] = {id=6641,name="Haunting Blade",source={ID=3872,SourceName="Deathsworn Captain",SourceType="Kill",DropChance="57.0",Zone="Shadowfang Keep"}}
-items[6975] = {id=6975,name="Whirlwind Axe",source={ID=1792,SourceName="",SourceType="Quest",DropChance="0",Zone="Warrior"}}
-items[20536] = {id=20536,name="Soul Harvester",source={ID=8422,SourceName="",SourceType="Quest",DropChance="0",Zone="Warlock"}}
+items[6641] = {id=6641,name="Haunting Blade",source={ID=3872,SourceName="Deathsworn Captain",SourceType="Kill",DropChance="57.2",Zone="Shadowfang Keep"}}
+items[6975] = {id=6975,name="Whirlwind Axe",source={ID=1792,SourceName="Whirlwind Weapon",SourceType="Quest",DropChance="0",Zone="Warrior"}}
+items[20536] = {id=20536,name="Soul Harvester",source={ID=8422,SourceName="Trolls of a Feather",SourceType="Quest",DropChance="0",Zone="Warlock"}}
 items[18867] = {id=18867,name="Grand Marshal's Battle Hammer",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[6327] = {id=6327,name="The Pacifier",source={ID=2453,SourceName="Lo'Grosh",SourceType="Kill",DropChance="12.6",Zone="Alterac Mountains"}}
 items[873] = {id=873,name="Staff of Jordan",source={ID=5771,SourceName="Jugkar Grim'rod",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
 items[27791] = {id=27791,name="Serpentcrest Life-Staff",source={ID=17796,SourceName="Mekgineer Steamrigger",SourceType="Kill",DropChance="6.1",Zone="The Steamvault"}}
 items[18609] = {id=18609,name="Anathema",source={ID=23041,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[17113] = {id=17113,name="Amberseal Keeper",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="28.1",Zone="Searing Gorge"}}
-items[29329] = {id=29329,name="Terokk's Quill",source={ID=10098,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[17113] = {id=17113,name="Amberseal Keeper",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="18.8",Zone="Searing Gorge"}}
+items[29329] = {id=29329,name="Terokk's Quill",source={ID=10098,SourceName="Terokk's Legacy",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[186057] = {id=186057,name="Communal Warmaul",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[30732] = {id=30732,name="Exodar Life-Staff",source={ID=18728,SourceName="Doom Lord Kazzak",SourceType="Kill",DropChance="15.1",Zone="Unknown"}}
 items[34182] = {id=34182,name="Grand Magister's Staff of Torrents",source={ID=25038,SourceName="Felmyst",SourceType="Kill",DropChance="29.3",Zone="Sunwell Plateau"}}
@@ -98,12 +98,12 @@ items[30830] = {id=30830,name="Trident of the Outcast Tribe",source={ID=21655,So
 items[28293] = {id=28293,name="High Warlord's Claymore",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[6366] = {id=6366,name="Darkwood Fishing Pole",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23541] = {id=23541,name="Khorium Champion",source={ID=29693,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30011] = {id=30011,name="Ameer's Impulse Taser",source={ID=10408,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[31186] = {id=31186,name="Braxxis' Staff of Slumber",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22631] = {id=22631,name="Atiesh, Greatstaff of the Guardian",source={ID=9257,SourceName="",SourceType="Quest",DropChance="0",Zone="Legendary"}}
+items[30011] = {id=30011,name="Ameer's Impulse Taser",source={ID=10408,SourceName="Nexus-King Salhadaar",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31186] = {id=31186,name="Braxxis' Staff of Slumber",source={ID=20090,SourceName="Bloodscale Sentry",SourceType="Kill",DropChance="0.7",Zone="Zangarmarsh"}}
+items[22631] = {id=22631,name="Atiesh, Greatstaff of the Guardian",source={ID=9257,SourceName="Atiesh, Greatstaff of the Guardian",SourceType="Quest",DropChance="0",Zone="Legendary"}}
 items[7723] = {id=7723,name="Mograine's Might",source={ID=3976,SourceName="Scarlet Commander Mograine",SourceType="Kill",DropChance="18.9",Zone="Scarlet Monastery"}}
 items[30021] = {id=30021,name="Wildfury Greatstaff",source={ID=21218,SourceName="Vashj'ir Honor Guard",SourceType="Kill",DropChance="1.5",Zone="Unknown"}}
-items[22348] = {id=22348,name="Doomulus Prime",source={ID=9023,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[22348] = {id=22348,name="Doomulus Prime",source={ID=9023,SourceName="The Perfect Poison",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[29988] = {id=29988,name="The Nexus Key",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="23.0",Zone="Tempest Keep"}}
 items[943] = {id=943,name="Warden Staff",source={ID=1783,SourceName="Skeletal Flayer",SourceType="Kill",DropChance="0",Zone="Western Plaguelands"}}
 items[24461] = {id=24461,name="Hatebringer",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="28.5",Zone="The Underbog"}}
@@ -113,7 +113,7 @@ items[34337] = {id=34337,name="Golden Staff of the Sin'dorei",source={ID=25315,S
 items[1982] = {id=1982,name="Nightblade",source={ID=672,SourceName="Skullsplitter Spiritchaser",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
 items[28942] = {id=28942,name="Grand Marshal's Bonegrinder",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29166] = {id=29166,name="Hellforged Halberd",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
-items[30010] = {id=30010,name="Fleshling Simulation Staff",source={ID=10408,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30010] = {id=30010,name="Fleshling Simulation Staff",source={ID=10408,SourceName="Nexus-King Salhadaar",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[13018] = {id=13018,name="Executioner's Cleaver",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[28919] = {id=28919,name="High Warlord's Maul",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[28945] = {id=28945,name="Grand Marshal's Decapitator",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -133,30 +133,30 @@ items[2291] = {id=2291,name="Kang the Decapitator",source={ID=193,SourceName="Bl
 items[2280] = {id=2280,name="Kam's Walking Stick",source={ID=1666,SourceName="Kam Deepfury",SourceType="Kill",DropChance="0.9",Zone="The Stockade"}}
 items[30316] = {id=30316,name="Devastation",source={ID=21269,SourceName="Devastation",SourceType="Kill",DropChance="100.0",Zone="Unknown"}}
 items[29167] = {id=29167,name="Blackened Spear",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
-items[34891] = {id=34891,name="The Blade of Harbingers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34891] = {id=34891,name="The Blade of Harbingers",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[17182] = {id=17182,name="Sulfuras, Hand of Ragnaros",source={ID=21160,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[18871] = {id=18871,name="High Warlord's Pig Sticker",source={ID=14581,SourceName="Sergeant Thunderhorn",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[34198] = {id=34198,name="Stanchion of Primal Instinct",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="13.3",Zone="Unknown"}}
 items[18868] = {id=18868,name="High Warlord's Pulverizer",source={ID=14581,SourceName="Sergeant Thunderhorn",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[18420] = {id=18420,name="Bonecrusher",source={ID=7462,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[18420] = {id=18420,name="Bonecrusher",source={ID=7462,SourceName="The Treasure of the Shen'dralar",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
 items[13047] = {id=13047,name="Twig of the World Tree",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
-items[1604] = {id=1604,name="Chromatic Sword",source={ID=1552,SourceName="Scale Belly",SourceType="Kill",DropChance="22.7",Zone="Stranglethorn Vale"}}
-items[22815] = {id=22815,name="Severance",source={ID=16028,SourceName="Patchwerk",SourceType="Kill",DropChance="36.9",Zone="Naxxramas"}}
+items[1604] = {id=1604,name="Chromatic Sword",source={ID=1552,SourceName="Scale Belly",SourceType="Kill",DropChance="22.5",Zone="Stranglethorn Vale"}}
+items[22815] = {id=22815,name="Severance",source={ID=16028,SourceName="Patchwerk",SourceType="Kill",DropChance="37.0",Zone="Naxxramas"}}
 items[18534] = {id=18534,name="Rod of the Ogre Magi",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="1.6",Zone="Dire Maul"}}
 items[34183] = {id=34183,name="Shivering Felspine",source={ID=25367,SourceName="Sunblade Arch Mage",SourceType="Kill",DropChance="1.6",Zone="Unknown"}}
 items[32854] = {id=32854,name="Hammer of Righteous Might",source={ID=43846,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[10758] = {id=10758,name="X'caliboar",source={ID=7354,SourceName="Ragglesnout",SourceType="Kill",DropChance="19.7",Zone="Razorfen Downs"}}
+items[10758] = {id=10758,name="X'caliboar",source={ID=7354,SourceName="Ragglesnout",SourceType="Kill",DropChance="19.8",Zone="Razorfen Downs"}}
 items[32348] = {id=32348,name="Soul Cleaver",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="39.2",Zone="Unknown"}}
-items[31291] = {id=31291,name="Crystalforged War Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31291] = {id=31291,name="Crystalforged War Axe",source={ID=19881,SourceName="Severed Spirit",SourceType="Kill",DropChance="0.2",Zone="Netherstorm"}}
 items[18830] = {id=18830,name="Grand Marshal's Sunderer",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[30009] = {id=30009,name="The Burning Crusader",source={ID=10408,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30009] = {id=30009,name="The Burning Crusader",source={ID=10408,SourceName="Nexus-King Salhadaar",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[20069] = {id=20069,name="Ironbark Staff",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[9418] = {id=9418,name="Stoneslayer",source={ID=2748,SourceName="Archaedas",SourceType="Kill",DropChance="13.1",Zone="Uldaman"}}
+items[9418] = {id=9418,name="Stoneslayer",source={ID=2748,SourceName="Archaedas",SourceType="Kill",DropChance="13.2",Zone="Uldaman"}}
 items[870] = {id=870,name="Fiery War Axe",source={ID=2473,SourceName="Granistad",SourceType="Kill",DropChance="0.1",Zone="Hillsbrad Foothills"}}
-items[7689] = {id=7689,name="Morbid Dawn",source={ID=6488,SourceName="Fallen Champion",SourceType="Kill",DropChance="18.1",Zone="Scarlet Monastery"}}
-items[6909] = {id=6909,name="Strike of the Hydra",source={ID=4829,SourceName="Aku'mai",SourceType="Kill",DropChance="20.0",Zone="Blackfathom Deeps"}}
-items[30789] = {id=30789,name="Illidari-Bane Claymore",source={ID=10679,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[31318] = {id=31318,name="Singing Crystal Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7689] = {id=7689,name="Morbid Dawn",source={ID=6488,SourceName="Fallen Champion",SourceType="Kill",DropChance="18.0",Zone="Scarlet Monastery"}}
+items[6909] = {id=6909,name="Strike of the Hydra",source={ID=4829,SourceName="Aku'mai",SourceType="Kill",DropChance="20.1",Zone="Blackfathom Deeps"}}
+items[30789] = {id=30789,name="Illidari-Bane Claymore",source={ID=10679,SourceName="Quenching the Blade",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31318] = {id=31318,name="Singing Crystal Axe",source={ID=16410,SourceName="Spectral Retainer",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[19169] = {id=19169,name="Nightfall",source={ID=23653,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[6679] = {id=6679,name="Armor Piercer",source={ID=4438,SourceName="Razorfen Spearhide",SourceType="Kill",DropChance="60.6",Zone="Razorfen Kraul"}}
 items[17193] = {id=17193,name="Sulfuron Hammer",source={ID=21161,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -164,38 +164,38 @@ items[19101] = {id=19101,name="Whiteout Staff",source={ID=13218,SourceName="Grun
 items[18538] = {id=18538,name="Treant's Bane",source={ID=179564,SourceName="Gordok Tribute",SourceType="Container",DropChance="0.5",Zone="Dire Maul"}}
 items[31134] = {id=31134,name="Blade of Misfortune",source={ID=16846,SourceName="Mag'har Grunt",SourceType="Kill",DropChance="2.2",Zone="Hellfire Peninsula"}}
 items[27524] = {id=27524,name="Firemaul of Destruction",source={ID=16809,SourceName="Warbringer O'mrogg",SourceType="Kill",DropChance="13.1",Zone="The Shattered Halls"}}
-items[29137] = {id=29137,name="Hellscream's Will",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29137] = {id=29137,name="Hellscream's Will",source={ID=20241,SourceName="Provisioner Nasela",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[812] = {id=812,name="Glowing Brightwood Staff",source={ID=7135,SourceName="Infernal Bodyguard",SourceType="Kill",DropChance="0.1",Zone="Felwood"}}
 items[7230] = {id=7230,name="Smite's Mighty Hammer",source={ID=646,SourceName="Mr. Smite",SourceType="Kill",DropChance="18.4",Zone="The Deadmines"}}
-items[25987] = {id=25987,name="Helboar Carving Blade",source={ID=10255,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
-items[31984] = {id=31984,name="Merciless Gladiator's Greatsword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31308] = {id=31308,name="The Bringer of Death",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25987] = {id=25987,name="Helboar Carving Blade",source={ID=10255,SourceName="Testing the Antidote",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[31984] = {id=31984,name="Merciless Gladiator's Greatsword",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31308] = {id=31308,name="The Bringer of Death",source={ID=22876,SourceName="Coilskar Soothsayer",SourceType="Kill",DropChance="0.2",Zone="Black Temple"}}
 items[13052] = {id=13052,name="Warmonger",source={ID=1785,SourceName="Skeletal Terror",SourceType="Kill",DropChance="0",Zone="Western Plaguelands"}}
 items[29133] = {id=29133,name="Seer's Cane",source={ID=19331,SourceName="Quartermaster Enuril",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[35514] = {id=35514,name="Frostscythe of Lord Ahune",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[1484] = {id=1484,name="Witching Stave",source={ID=3851,SourceName="Shadowfang Whitescalp",SourceType="Kill",DropChance="0",Zone="Shadowfang Keep"}}
 items[27877] = {id=27877,name="Draenic Wildstaff",source={ID=18478,SourceName="Avatar of the Martyred",SourceType="Kill",DropChance="6.5",Zone="Auchenai Crypts"}}
-items[31322] = {id=31322,name="The Hammer of Destiny",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31322] = {id=31322,name="The Hammer of Destiny",source={ID=16544,SourceName="Ethereal Thief",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[25402] = {id=25402,name="The Stoppable Force",source={ID=18497,SourceName="Auchenai Monk",SourceType="Kill",DropChance="12.5",Zone="Auchenai Crypts"}}
-items[33688] = {id=33688,name="Vengeful Gladiator's Greatsword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29138] = {id=29138,name="Arechron's Gift",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22800] = {id=22800,name="Brimstone Staff",source={ID=16011,SourceName="Loatheb",SourceType="Kill",DropChance="29.8",Zone="Naxxramas"}}
-items[22208] = {id=22208,name="Lavastone Hammer",source={ID=9938,SourceName="Magmus",SourceType="Kill",DropChance="22.7",Zone="Blackrock Depths"}}
+items[33688] = {id=33688,name="Vengeful Gladiator's Greatsword",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[29138] = {id=29138,name="Arechron's Gift",source={ID=20240,SourceName="Trader Narasu",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[22800] = {id=22800,name="Brimstone Staff",source={ID=16011,SourceName="Loatheb",SourceType="Kill",DropChance="29.7",Zone="Naxxramas"}}
+items[22208] = {id=22208,name="Lavastone Hammer",source={ID=9938,SourceName="Magmus",SourceType="Kill",DropChance="22.8",Zone="Blackrock Depths"}}
 items[33492] = {id=33492,name="Trollbane",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[19854] = {id=19854,name="Zin'rokh, Destroyer of Worlds",source={ID=14834,SourceName="Hakkar",SourceType="Kill",DropChance="12.2",Zone="Zul'Gurub"}}
 items[32248] = {id=32248,name="Halberd of Desolation",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="17.7",Zone="Black Temple"}}
 items[186055] = {id=186055,name="Communal Stave",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[9459] = {id=9459,name="Thermaplugg's Left Arm",source={ID=7800,SourceName="Mekgineer Thermaplugg",SourceType="Kill",DropChance="18.2",Zone="Gnomeregan"}}
 items[6905] = {id=6905,name="Reef Axe",source={ID=6243,SourceName="Gelihast",SourceType="Kill",DropChance="47.4",Zone="Blackfathom Deeps"}}
-items[28298] = {id=28298,name="Gladiator's Decapitator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28298] = {id=28298,name="Gladiator's Decapitator",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[24094] = {id=24094,name="Heart Fire Warhammer",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="23.5",Zone="Hellfire Ramparts"}}
 items[7713] = {id=7713,name="Illusionary Rod",source={ID=6487,SourceName="Arcanist Doan",SourceType="Kill",DropChance="46.7",Zone="Scarlet Monastery"}}
 items[30883] = {id=30883,name="Pillar of Ferocity",source={ID=17808,SourceName="Anetheron",SourceType="Kill",DropChance="17.6",Zone="Hyjal Summit"}}
-items[28299] = {id=28299,name="Gladiator's Bonegrinder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28299] = {id=28299,name="Gladiator's Bonegrinder",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[27757] = {id=27757,name="Greatstaff of the Leviathan",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
-items[13249] = {id=13249,name="Argent Crusader",source={ID=5265,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[13249] = {id=13249,name="Argent Crusader",source={ID=5265,SourceName="The Argent Hold",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
 items[13505] = {id=13505,name="Runeblade of Baron Rivendare",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="0",Zone="Stratholme"}}
-items[34898] = {id=34898,name="Staff of the Forest Lord",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34898] = {id=34898,name="Staff of the Forest Lord",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29981] = {id=29981,name="Ethereum Life-Staff",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="34.0",Zone="Tempest Keep"}}
 items[28341] = {id=28341,name="Warpstaff of Arcanum",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
 items[25944] = {id=25944,name="Shaarde the Greater",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="7.1",Zone="Mana-Tombs"}}
@@ -203,16 +203,16 @@ items[17076] = {id=17076,name="Bonereaver's Edge",source={ID=11502,SourceName="R
 items[19102] = {id=19102,name="Crackling Staff",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[23455] = {id=23455,name="Grand Marshal's Demolisher",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28918] = {id=28918,name="High Warlord's Decapitator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22809] = {id=22809,name="Maul of the Redeemed Crusader",source={ID=181366,SourceName="Four Horsemen Chest",SourceType="Container",DropChance="18.6",Zone="Naxxramas"}}
+items[22809] = {id=22809,name="Maul of the Redeemed Crusader",source={ID=181366,SourceName="Four Horsemen Chest",SourceType="Container",DropChance="17.0",Zone="Naxxramas"}}
 items[7960] = {id=7960,name="Truesilver Champion",source={ID=10015,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[12251] = {id=12251,name="Big Stick",source={ID=2482,SourceName="Zarena Cromwind",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
-items[20724] = {id=20724,name="Corrupted Blackwood Staff",source={ID=8306,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[20724] = {id=20724,name="Corrupted Blackwood Staff",source={ID=8306,SourceName="Into The Maw of Madness",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[18082] = {id=18082,name="Zum'rah's Vexing Cane",source={ID=7271,SourceName="Witch Doctor Zum'rah",SourceType="Kill",DropChance="15.3",Zone="Zul'Farrak"}}
-items[34989] = {id=34989,name="Brutal Gladiator's Bonegrinder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34989] = {id=34989,name="Brutal Gladiator's Bonegrinder",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28949] = {id=28949,name="Grand Marshal's Painsaw",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[31009] = {id=31009,name="Wildcaller",source={ID=10651,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31009] = {id=31009,name="Wildcaller",source={ID=10651,SourceName="Varedis Must Be Stopped",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[32344] = {id=32344,name="Staff of Immaculate Recovery",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="20.8",Zone="Black Temple"}}
-items[27749] = {id=27749,name="Staff of the Wild",source={ID=9726,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[27749] = {id=27749,name="Staff of the Wild",source={ID=9726,SourceName="Now That We're Friends...",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[13043] = {id=13043,name="Blade of the Titans",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[12592] = {id=12592,name="Blackblade of Shahram",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="1.5",Zone="Blackrock Spire"}}
 items[2915] = {id=2915,name="Taran Icebreaker",source={ID=9680,SourceName="Crest Killer",SourceType="Kill",DropChance="0.1",Zone="Blackrock Depths"}}
@@ -220,16 +220,16 @@ items[21134] = {id=21134,name="Dark Edge of Insanity",source={ID=15727,SourceNam
 items[18869] = {id=18869,name="Grand Marshal's Glaive",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[10626] = {id=10626,name="Ragehammer",source={ID=8497,SourceName="Nightmare Suppressor",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
 items[10570] = {id=10570,name="Manslayer",source={ID=7356,SourceName="Plaguemaw the Rotting",SourceType="Kill",DropChance="0.1",Zone="Razorfen Downs"}}
-items[35015] = {id=35015,name="Brutal Gladiator's Greatsword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35015] = {id=35015,name="Brutal Gladiator's Greatsword",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[13285] = {id=13285,name="The Blackrock Slicer",source={ID=9218,SourceName="Spirestone Battle Lord",SourceType="Kill",DropChance="38.0",Zone="Blackrock Spire"}}
-items[9416] = {id=9416,name="Grimlok's Charge",source={ID=4854,SourceName="Grimlok",SourceType="Kill",DropChance="19.2",Zone="Uldaman"}}
+items[9416] = {id=9416,name="Grimlok's Charge",source={ID=4854,SourceName="Grimlok",SourceType="Kill",DropChance="19.1",Zone="Uldaman"}}
 items[13051] = {id=13051,name="Witchfury",source={ID=14446,SourceName="Fingat",SourceType="Kill",DropChance="0.4",Zone="Swamp of Sorrows"}}
-items[33663] = {id=33663,name="Vengeful Gladiator's Bonegrinder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33663] = {id=33663,name="Vengeful Gladiator's Bonegrinder",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[31299] = {id=31299,name="The Oathkeeper",source={ID=16414,SourceName="Ghostly Steward",SourceType="Kill",DropChance="1.3",Zone="Karazhan"}}
 items[18531] = {id=18531,name="Unyielding Maul",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="1.7",Zone="Dire Maul"}}
 items[2205] = {id=2205,name="Duskbringer",source={ID=2529,SourceName="Son of Arugal",SourceType="Kill",DropChance="0",Zone="Shadowfang Keep"}}
-items[32055] = {id=32055,name="Merciless Gladiator's War Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[13982] = {id=13982,name="Warblade of Caer Darrow",source={ID=5466,SourceName="",SourceType="Quest",DropChance="0",Zone="Scholomance"}}
+items[32055] = {id=32055,name="Merciless Gladiator's War Staff",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[13982] = {id=13982,name="Warblade of Caer Darrow",source={ID=5466,SourceName="The Lich, Ras Frostwhisper",SourceType="Quest",DropChance="0",Zone="Scholomance"}}
 items[1263] = {id=1263,name="Brain Hacker",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[13045] = {id=13045,name="Viscous Hammer",source={ID=15806,SourceName="Qiraji Lieutenant",SourceType="Kill",DropChance="0.6",Zone="The Barrens"}}
 items[7753] = {id=7753,name="Bloodspiller",source={ID=4303,SourceName="Scarlet Abbot",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
@@ -245,30 +245,30 @@ items[16039] = {id=16039,name="Ta'Kierthan Songblade",source={ID=10826,SourceNam
 items[890] = {id=890,name="Twisted Chanter's Staff",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
 items[11809] = {id=11809,name="Flame Wrath",source={ID=9156,SourceName="Ambassador Flamelash",SourceType="Kill",DropChance="10.3",Zone="Blackrock Depths"}}
 items[25950] = {id=25950,name="Staff of Polarities",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="7.1",Zone="Mana-Tombs"}}
-items[15418] = {id=15418,name="Shimmering Platinum Warhammer",source={ID=5944,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
-items[9517] = {id=9517,name="Celestial Stave",source={ID=1958,SourceName="",SourceType="Quest",DropChance="0",Zone="Mage"}}
+items[15418] = {id=15418,name="Shimmering Platinum Warhammer",source={ID=5944,SourceName="In Dreams",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[9517] = {id=9517,name="Celestial Stave",source={ID=1958,SourceName="Celestial Power",SourceType="Quest",DropChance="0",Zone="Mage"}}
 items[3203] = {id=3203,name="Dense Triangle Mace",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
 items[30908] = {id=30908,name="Apostle of Argus",source={ID=17968,SourceName="Archimonde",SourceType="Kill",DropChance="18.7",Zone="Hyjal Summit"}}
 items[27842] = {id=27842,name="Grand Scepter of the Nexus-Kings",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="13.6",Zone="Mana-Tombs"}}
-items[30597] = {id=30597,name="Halaani Claymore",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30597] = {id=30597,name="Halaani Claymore",source={ID=21485,SourceName="Aldraan",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[19944] = {id=19944,name="Nat Pagle's Fish Terminator",source={ID=15114,SourceName="Gahz'ranka",SourceType="Kill",DropChance="6.4",Zone="Zul'Gurub"}}
-items[34014] = {id=34014,name="Vengeful Gladiator's Waraxe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34014] = {id=34014,name="Vengeful Gladiator's Waraxe",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[18520] = {id=18520,name="Barbarous Blade",source={ID=11501,SourceName="King Gordok",SourceType="Kill",DropChance="23.6",Zone="Dire Maul"}}
 items[12782] = {id=12782,name="Corruption",source={ID=16985,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[13044] = {id=13044,name="Demonslayer",source={ID=19214,SourceName="Hand of the Highlord",SourceType="Kill",DropChance="4.0",Zone="Searing Gorge"}}
+items[13044] = {id=13044,name="Demonslayer",source={ID=11498,SourceName="Skarr the Unbreakable",SourceType="Kill",DropChance="2.9",Zone="Unknown"}}
 items[28188] = {id=28188,name="Bloodfire Greatstaff",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="10.0",Zone="The Black Morass"}}
 items[23543] = {id=23543,name="Felsteel Reaper",source={ID=29695,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[25986] = {id=25986,name="Dreadtusk's Fury",source={ID=10255,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[25986] = {id=25986,name="Dreadtusk's Fury",source={ID=10255,SourceName="Testing the Antidote",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
 items[18715] = {id=18715,name="Lok'delar, Stave of the Ancient Keepers",source={ID=24872,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[4128] = {id=4128,name="Silver Spade",source={ID=600,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
-items[15106] = {id=15106,name="Staff of Dar'Orahil",source={ID=4964,SourceName="",SourceType="Quest",DropChance="0",Zone="Warlock"}}
+items[4128] = {id=4128,name="Silver Spade",source={ID=600,SourceName="Venture Company Mining",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[15106] = {id=15106,name="Staff of Dar'Orahil",source={ID=4964,SourceName="The Completed Orb of Dar'Orahil",SourceType="Quest",DropChance="0",Zone="Warlock"}}
 items[1155] = {id=1155,name="Rod of the Sleepwalker",source={ID=4832,SourceName="Twilight Lord Kelris",SourceType="Kill",DropChance="48.9",Zone="Blackfathom Deeps"}}
 items[9490] = {id=9490,name="Gizmotron Megachopper",source={ID=6228,SourceName="Dark Iron Ambassador",SourceType="Kill",DropChance="0.3",Zone="Gnomeregan"}}
 items[3194] = {id=3194,name="Black Malice",source={ID=3854,SourceName="Shadowfang Wolfguard",SourceType="Kill",DropChance="0",Zone="Shadowfang Keep"}}
-items[33766] = {id=33766,name="Vengeful Gladiator's War Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33766] = {id=33766,name="Vengeful Gladiator's War Staff",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28222] = {id=28222,name="Reaver of the Infinites",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="24.1",Zone="Old Hillsbrad Foothills"}}
 items[28367] = {id=28367,name="Greatsword of Forlorn Visions",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
-items[25985] = {id=25985,name="Cenarion Naturalist's Staff",source={ID=10255,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[25985] = {id=25985,name="Cenarion Naturalist's Staff",source={ID=10255,SourceName="Testing the Antidote",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
 items[25835] = {id=25835,name="Explorer's Walking Stick",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[2531] = {id=2531,name="Great Axe",source={ID=981,SourceName="Hartash",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
 items[2271] = {id=2271,name="Staff of the Blessed Seer",source={ID=4788,SourceName="Fallenroot Satyr",SourceType="Kill",DropChance="0.2",Zone="Unknown"}}
@@ -280,84 +280,84 @@ items[13041] = {id=13041,name="Guardian Blade",source={ID=15814,SourceName="Qira
 items[1318] = {id=1318,name="Night Reaver",source={ID=3854,SourceName="Shadowfang Wolfguard",SourceType="Kill",DropChance="0",Zone="Shadowfang Keep"}}
 items[30086] = {id=30086,name="Stoneforged Claymore",source={ID=36133,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[11931] = {id=11931,name="Dreadforge Retaliator",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="18.3",Zone="Blackrock Depths"}}
-items[20083] = {id=20083,name="Hunting Spear",source={ID=8232,SourceName="",SourceType="Quest",DropChance="0",Zone="Hunter"}}
+items[20083] = {id=20083,name="Hunting Spear",source={ID=8232,SourceName="The Green Drake",SourceType="Quest",DropChance="0",Zone="Hunter"}}
 items[1722] = {id=1722,name="Thornstone Sledgehammer",source={ID=743,SourceName="Wyrmkin Dreamwalker",SourceType="Kill",DropChance="0.5",Zone="Swamp of Sorrows"}}
-items[4548] = {id=4548,name="Servomechanic Sledgehammer",source={ID=666,SourceName="",SourceType="Quest",DropChance="0",Zone="Arathi Highlands"}}
+items[4548] = {id=4548,name="Servomechanic Sledgehammer",source={ID=666,SourceName="Sunken Treasure",SourceType="Quest",DropChance="0",Zone="Arathi Highlands"}}
 items[19356] = {id=19356,name="Staff of the Shadow Flame",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="17.1",Zone="Blackwing Lair"}}
 items[18725] = {id=18725,name="Peacemaker",source={ID=10435,SourceName="Magistrate Barthilas",SourceType="Kill",DropChance="14.9",Zone="Stratholme"}}
-items[31010] = {id=31010,name="Slayer's Axe",source={ID=10651,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31010] = {id=31010,name="Slayer's Axe",source={ID=10651,SourceName="Varedis Must Be Stopped",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[4778] = {id=4778,name="Heavy Spiked Mace",source={ID=222,SourceName="Nillen Andemar",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[28253] = {id=28253,name="Plasma Rat's Hyper-Scythe",source={ID=19219,SourceName="Mechano-Lord Capacitus",SourceType="Kill",DropChance="20.7",Zone="The Mechanar"}}
 items[28917] = {id=28917,name="High Warlord's Bonegrinder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[13059] = {id=13059,name="Stoneraven",source={ID=1793,SourceName="Rotting Ghoul",SourceType="Kill",DropChance="0",Zone="Western Plaguelands"}}
 items[33490] = {id=33490,name="Staff of Dark Mending",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33494] = {id=33494,name="Amani Divining Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[21273] = {id=21273,name="Blessed Qiraji Acolyte Staff",source={ID=8790,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21273] = {id=21273,name="Blessed Qiraji Acolyte Staff",source={ID=8790,SourceName="Imperial Qiraji Regalia",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[18717] = {id=18717,name="Hammer of the Grand Crusader",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="19.3",Zone="Stratholme"}}
 items[20654] = {id=20654,name="Amethyst War Staff",source={ID=15211,SourceName="Azure Templar",SourceType="Kill",DropChance="2.1",Zone="Silithus"}}
 items[2299] = {id=2299,name="Burning War Axe",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
 items[13016] = {id=13016,name="Killmaim",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
 items[6631] = {id=6631,name="Living Root",source={ID=5775,SourceName="Verdan the Everliving",SourceType="Kill",DropChance="37.9",Zone="Wailing Caverns"}}
 items[4818] = {id=4818,name="Executioner's Sword",source={ID=844,SourceName="Antonio Perelli",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[31414] = {id=31414,name="Wild Wood Staff",source={ID=10771,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
-items[22801] = {id=22801,name="Spire of Twilight",source={ID=15928,SourceName="Thaddius",SourceType="Kill",DropChance="34.0",Zone="Naxxramas"}}
+items[31414] = {id=31414,name="Wild Wood Staff",source={ID=10771,SourceName="From the Ashes",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[22801] = {id=22801,name="Spire of Twilight",source={ID=15928,SourceName="Thaddius",SourceType="Kill",DropChance="33.9",Zone="Naxxramas"}}
 items[20696] = {id=20696,name="Crystal Spiked Maul",source={ID=20601,SourceName="Sack of Spoils",SourceType="Container",DropChance="4.9",Zone="Unknown"}}
 items[13042] = {id=13042,name="Sword of the Magistrate",source={ID=667,SourceName="Skullsplitter Warrior",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
 items[2013] = {id=2013,name="Cryptbone Staff",source={ID=787,SourceName="Skeletal Healer",SourceType="Kill",DropChance="1.3",Zone="Duskwood"}}
-items[32014] = {id=32014,name="Merciless Gladiator's Maul",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32014] = {id=32014,name="Merciless Gladiator's Maul",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[21452] = {id=21452,name="Staff of the Ruins",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="18.8",Zone="Ruins of Ahn'Qiraj"}}
 items[23171] = {id=23171,name="The Axe of Severing",source={ID=14682,SourceName="Sever",SourceType="Kill",DropChance="44.2",Zone="Shadowfang Keep"}}
 items[34608] = {id=34608,name="Rod of the Blazing Light",source={ID=24744,SourceName="Vexallus",SourceType="Kill",DropChance="7.6",Zone="Magisters' Terrace"}}
 items[11921] = {id=11921,name="Impervious Giant",source={ID=9035,SourceName="Anger'rel",SourceType="Kill",DropChance="33.2",Zone="Blackrock Depths"}}
 items[2877] = {id=2877,name="Combatant Claymore",source={ID=15508,SourceName="Batrider Pele'keiki",SourceType="Kill",DropChance="2.5",Zone="Orgrimmar"}}
-items[15269] = {id=15269,name="Massive Battle Axe",source={ID=5799,SourceName="Hannah Bladeleaf",SourceType="Kill",DropChance="1.7",Zone="The Barrens"}}
-items[34540] = {id=34540,name="Vengeful Gladiator's Battle Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[15269] = {id=15269,name="Massive Battle Axe",source={ID=5799,SourceName="Hannah Bladeleaf",SourceType="Kill",DropChance="1.6",Zone="The Barrens"}}
+items[34540] = {id=34540,name="Vengeful Gladiator's Battle Staff",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[22813] = {id=22813,name="Claymore of Unholy Might",source={ID=15932,SourceName="Gluth",SourceType="Kill",DropChance="40.3",Zone="Naxxramas"}}
 items[11750] = {id=11750,name="Kindling Stave",source={ID=9024,SourceName="Pyromancer Loregrain",SourceType="Kill",DropChance="19.7",Zone="Blackrock Depths"}}
 items[12469] = {id=12469,name="Mutilator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[7758] = {id=7758,name="Ruthless Shiv",source={ID=3975,SourceName="Herod",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
 items[5423] = {id=5423,name="Boahn's Fang",source={ID=3672,SourceName="Boahn",SourceType="Kill",DropChance="31.3",Zone="Unknown"}}
-items[30570] = {id=30570,name="Arkadian Claymore",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30012] = {id=30012,name="Ameer's Judgement",source={ID=10408,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30570] = {id=30570,name="Arkadian Claymore",source={ID=21474,SourceName="Coreiel",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[30012] = {id=30012,name="Ameer's Judgement",source={ID=10408,SourceName="Nexus-King Salhadaar",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[31289] = {id=31289,name="Staff of Divine Infusion",source={ID=19428,SourceName="Cobalt Serpent",SourceType="Kill",DropChance="11.1",Zone="Sethekk Halls"}}
 items[23465] = {id=23465,name="High Warlord's Destroyer",source={ID=14581,SourceName="Sergeant Thunderhorn",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[20581] = {id=20581,name="Staff of Rampant Growth",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="15.0",Zone="Duskwood"}}
+items[20581] = {id=20581,name="Staff of Rampant Growth",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="15.1",Zone="Duskwood"}}
 items[17730] = {id=17730,name="Gatorbite Axe",source={ID=13596,SourceName="Rotgrip",SourceType="Kill",DropChance="24.0",Zone="Maraudon"}}
 items[9423] = {id=9423,name="The Jackhammer",source={ID=4853,SourceName="Stonevault Geomancer",SourceType="Kill",DropChance="0",Zone="Uldaman"}}
 items[2549] = {id=2549,name="Staff of the Shade",source={ID=4519,SourceName="Death's Head Seer",SourceType="Kill",DropChance="0.1",Zone="Razorfen Kraul"}}
-items[5201] = {id=5201,name="Emberstone Staff",source={ID=647,SourceName="Captain Greenskin",SourceType="Kill",DropChance="37.9",Zone="The Deadmines"}}
-items[28393] = {id=28393,name="Warmaul of Infused Light",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5201] = {id=5201,name="Emberstone Staff",source={ID=647,SourceName="Captain Greenskin",SourceType="Kill",DropChance="38.0",Zone="The Deadmines"}}
+items[28393] = {id=28393,name="Warmaul of Infused Light",source={ID=20886,SourceName="Wrath-Scryer Soccothrates",SourceType="Kill",DropChance="10.0",Zone="The Arcatraz"}}
 items[19884] = {id=19884,name="Jin'do's Judgement",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="14.4",Zone="Zul'Gurub"}}
 items[22406] = {id=22406,name="Redemption",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="9.2",Zone="Stratholme"}}
-items[22458] = {id=22458,name="Moonshadow Stave",source={ID=9053,SourceName="",SourceType="Quest",DropChance="0",Zone="Druid"}}
+items[22458] = {id=22458,name="Moonshadow Stave",source={ID=9053,SourceName="A Better Ingredient",SourceType="Quest",DropChance="0",Zone="Druid"}}
 items[9385] = {id=9385,name="Archaic Defender",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
 items[1976] = {id=1976,name="Slaghammer",source={ID=4440,SourceName="Razorfen Totemic",SourceType="Kill",DropChance="0.6",Zone="Razorfen Kraul"}}
 items[24525] = {id=24525,name="zzold",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27412] = {id=27412,name="Ironstaff of Regeneration",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="14.2",Zone="Auchenai Crypts"}}
-items[27752] = {id=27752,name="Zangarmarsh Claymore",source={ID=9726,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[27752] = {id=27752,name="Zangarmarsh Claymore",source={ID=9726,SourceName="Now That We're Friends...",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[19167] = {id=19167,name="Blackfury",source={ID=23639,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19909] = {id=19909,name="Will of Arlokk",source={ID=14515,SourceName="High Priestess Arlokk",SourceType="Kill",DropChance="9.5",Zone="Zul'Gurub"}}
+items[19909] = {id=19909,name="Will of Arlokk",source={ID=14515,SourceName="High Priestess Arlokk",SourceType="Kill",DropChance="9.6",Zone="Zul'Gurub"}}
 items[12528] = {id=12528,name="The Judge's Gavel",source={ID=9678,SourceName="Shill Dinger",SourceType="Kill",DropChance="0.1",Zone="Blackrock Depths"}}
 items[13046] = {id=13046,name="Blanchard's Stout",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[9391] = {id=9391,name="The Shoveler",source={ID=4853,SourceName="Stonevault Geomancer",SourceType="Kill",DropChance="0",Zone="Uldaman"}}
 items[5200] = {id=5200,name="Impaling Harpoon",source={ID=647,SourceName="Captain Greenskin",SourceType="Kill",DropChance="28.0",Zone="The Deadmines"}}
 items[12983] = {id=12983,name="Rakzur Club",source={ID=15810,SourceName="Eroded Anubisath Warbringer",SourceType="Kill",DropChance="0.1",Zone="The Barrens"}}
-items[5187] = {id=5187,name="Rhahk'Zor's Hammer",source={ID=644,SourceName="Rhahk'Zor",SourceType="Kill",DropChance="73.8",Zone="The Deadmines"}}
+items[5187] = {id=5187,name="Rhahk'Zor's Hammer",source={ID=644,SourceName="Rhahk'Zor",SourceType="Kill",DropChance="73.9",Zone="The Deadmines"}}
 items[1933] = {id=1933,name="Staff of Conjuring",source={ID=619,SourceName="Defias Conjurer",SourceType="Kill",DropChance="5.6",Zone="Westfall"}}
-items[34987] = {id=34987,name="Brutal Gladiator's Battle Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34997] = {id=34997,name="Brutal Gladiator's Decapitator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34987] = {id=34987,name="Brutal Gladiator's Battle Staff",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34997] = {id=34997,name="Brutal Gladiator's Decapitator",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28923] = {id=28923,name="High Warlord's Painsaw",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27751] = {id=27751,name="Survivalist's Pike",source={ID=9726,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
-items[19358] = {id=19358,name="Draconic Maul",source={ID=12467,SourceName="Death Talon Captain",SourceType="Kill",DropChance="13.2",Zone="Blackwing Lair"}}
-items[12463] = {id=12463,name="Drakefang Butcher",source={ID=5720,SourceName="Weaver",SourceType="Kill",DropChance="10.2",Zone="The Temple of Atal'Hakkar"}}
-items[6976] = {id=6976,name="Whirlwind Warhammer",source={ID=1792,SourceName="",SourceType="Quest",DropChance="0",Zone="Warrior"}}
-items[6977] = {id=6977,name="Whirlwind Sword",source={ID=1792,SourceName="",SourceType="Quest",DropChance="0",Zone="Warrior"}}
-items[5182] = {id=5182,name="Shiver Blade",source={ID=3398,SourceName="Gesharahan",SourceType="Kill",DropChance="72.0",Zone="The Barrens"}}
-items[35103] = {id=35103,name="Brutal Gladiator's Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27751] = {id=27751,name="Survivalist's Pike",source={ID=9726,SourceName="Now That We're Friends...",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[19358] = {id=19358,name="Draconic Maul",source={ID=12467,SourceName="Death Talon Captain",SourceType="Kill",DropChance="13.1",Zone="Blackwing Lair"}}
+items[12463] = {id=12463,name="Drakefang Butcher",source={ID=5720,SourceName="Weaver",SourceType="Kill",DropChance="10.1",Zone="The Temple of Atal'Hakkar"}}
+items[6976] = {id=6976,name="Whirlwind Warhammer",source={ID=1792,SourceName="Whirlwind Weapon",SourceType="Quest",DropChance="0",Zone="Warrior"}}
+items[6977] = {id=6977,name="Whirlwind Sword",source={ID=1792,SourceName="Whirlwind Weapon",SourceType="Quest",DropChance="0",Zone="Warrior"}}
+items[5182] = {id=5182,name="Shiver Blade",source={ID=3398,SourceName="Gesharahan",SourceType="Kill",DropChance="72.1",Zone="The Barrens"}}
+items[35103] = {id=35103,name="Brutal Gladiator's Staff",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30088] = {id=30088,name="Skyforged Great Axe",source={ID=36135,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[21679] = {id=21679,name="Kalimdor's Revenge",source={ID=15275,SourceName="Emperor Vek'nilash",SourceType="Kill",DropChance="12.5",Zone="Ahn'Qiraj"}}
 items[18803] = {id=18803,name="Finkle's Lava Dredger",source={ID=179703,SourceName="Cache of the Firelord",SourceType="Container",DropChance="18.5",Zone="Molten Core"}}
-items[21188] = {id=21188,name="Fist of Cenarius",source={ID=8573,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[21188] = {id=21188,name="Fist of Cenarius",source={ID=8573,SourceName="Champion's Battlegear",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[10573] = {id=10573,name="Boneslasher",source={ID=7345,SourceName="Splinterbone Captain",SourceType="Kill",DropChance="0",Zone="Razorfen Downs"}}
 items[3417] = {id=3417,name="Onyx Claymore",source={ID=4978,SourceName="Aku'mai Servant",SourceType="Kill",DropChance="0.1",Zone="Blackfathom Deeps"}}
 items[872] = {id=872,name="Rockslicer",source={ID=644,SourceName="Rhahk'Zor",SourceType="Kill",DropChance="3.8",Zone="The Deadmines"}}
@@ -368,59 +368,59 @@ items[12796] = {id=12796,name="Hammer of the Titans",source={ID=16988,SourceName
 items[18502] = {id=18502,name="Monstrous Glaive",source={ID=14325,SourceName="Captain Kromcrush",SourceType="Kill",DropChance="22.0",Zone="Dire Maul"}}
 items[2014] = {id=2014,name="Black Metal Greatsword",source={ID=1270,SourceName="Fetid Corpse",SourceType="Kill",DropChance="0.7",Zone="Duskwood"}}
 items[13057] = {id=13057,name="Bloodpike",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="1.8",Zone="The Barrens"}}
-items[25327] = {id=25327,name="Frenzied Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25327] = {id=25327,name="Frenzied Staff",source={ID=18114,SourceName="Feralfen Mystic",SourceType="Kill",DropChance="0.1",Zone="Zangarmarsh"}}
 items[13056] = {id=13056,name="Frenzied Striker",source={ID=15817,SourceName="Qiraji Brigadier General Pax-lish",SourceType="Kill",DropChance="5.2",Zone="Silithus"}}
 items[17766] = {id=17766,name="Princess Theradras' Scepter",source={ID=12201,SourceName="Princess Theradras",SourceType="Kill",DropChance="19.6",Zone="Maraudon"}}
 items[1640] = {id=1640,name="Monstrous War Axe",source={ID=14237,SourceName="Oozeworm",SourceType="Kill",DropChance="1.3",Zone="Dustwallow Marsh"}}
 items[9383] = {id=9383,name="Obsidian Cleaver",source={ID=6906,SourceName="Baelog",SourceType="Kill",DropChance="0.1",Zone="Uldaman"}}
-items[33716] = {id=33716,name="Vengeful Gladiator's Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30522] = {id=30522,name="Conjurer's Staff",source={ID=10341,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[31417] = {id=31417,name="Staff of the Ashtongue Deathsworn",source={ID=10708,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[25331] = {id=25331,name="Vengeance Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31816] = {id=31816,name="Dragonbone Greatsword",source={ID=10923,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[33716] = {id=33716,name="Vengeful Gladiator's Staff",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30522] = {id=30522,name="Conjurer's Staff",source={ID=10341,SourceName="Kick Them While They're Down",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31417] = {id=31417,name="Staff of the Ashtongue Deathsworn",source={ID=10708,SourceName="Akama's Promise",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[25331] = {id=25331,name="Vengeance Staff",source={ID=20924,SourceName="Grishnath Basilisk",SourceType="Kill",DropChance="0.3",Zone="Blade's Edge Mountains"}}
+items[31816] = {id=31816,name="Dragonbone Greatsword",source={ID=10923,SourceName="Evil Draws Near",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[19334] = {id=19334,name="The Untamed Blade",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="10.3",Zone="Blackwing Lair"}}
-items[11932] = {id=11932,name="Guiding Stave of Wisdom",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="18.3",Zone="Blackrock Depths"}}
+items[11932] = {id=11932,name="Guiding Stave of Wisdom",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="18.1",Zone="Blackrock Depths"}}
 items[11607] = {id=11607,name="Dark Iron Sunderer",source={ID=15294,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[13054] = {id=13054,name="Grim Reaper",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
-items[9452] = {id=9452,name="Hydrocane",source={ID=7079,SourceName="Viscous Fallout",SourceType="Kill",DropChance="19.2",Zone="Gnomeregan"}}
+items[9452] = {id=9452,name="Hydrocane",source={ID=7079,SourceName="Viscous Fallout",SourceType="Kill",DropChance="19.3",Zone="Gnomeregan"}}
 items[25239] = {id=25239,name="Legend's Glaive",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="6.6",Zone="Karazhan"}}
 items[944] = {id=944,name="Elemental Mage Staff",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
-items[9480] = {id=9480,name="Eyegouger",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9480] = {id=9480,name="Eyegouger",source={ID=10080,SourceName="Sandarr Dunereaver",SourceType="Kill",DropChance="5.6",Zone="Zul'Farrak"}}
 items[924] = {id=924,name="Maul",source={ID=225,SourceName="Gavin Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
-items[15109] = {id=15109,name="Staff of Soran'ruk",source={ID=1740,SourceName="",SourceType="Quest",DropChance="0",Zone="Warlock"}}
+items[15109] = {id=15109,name="Staff of Soran'ruk",source={ID=1740,SourceName="The Orb of Soran'ruk",SourceType="Quest",DropChance="0",Zone="Warlock"}}
 items[21635] = {id=21635,name="Barb of the Sand Reaver",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="13.1",Zone="Ahn'Qiraj"}}
 items[18542] = {id=18542,name="Typhoon",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="16.7",Zone="Azshara"}}
-items[22394] = {id=22394,name="Staff of Metanoia",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="10.4",Zone="Scholomance"}}
-items[10698] = {id=10698,name="Enchanted Azsharite Felbane Staff",source={ID=3625,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[22394] = {id=22394,name="Staff of Metanoia",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="10.3",Zone="Scholomance"}}
+items[10698] = {id=10698,name="Enchanted Azsharite Felbane Staff",source={ID=3625,SourceName="Enchanted Azsharite Fel Weaponry",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[13060] = {id=13060,name="The Needler",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[11803] = {id=11803,name="Force of Magma",source={ID=9016,SourceName="Bael'Gar",SourceType="Kill",DropChance="33.2",Zone="Blackrock Depths"}}
 items[15250] = {id=15250,name="Glimmering Flamberge",source={ID=6233,SourceName="Mechanized Sentry",SourceType="Kill",DropChance="1.6",Zone="Gnomeregan"}}
 items[791] = {id=791,name="Gnarled Ash Staff",source={ID=2575,SourceName="Dark Iron Supplier",SourceType="Kill",DropChance="0.1",Zone="Arathi Highlands"}}
 items[15249] = {id=15249,name="Polished Zweihander",source={ID=462,SourceName="Vultros",SourceType="Kill",DropChance="0.6",Zone="Westfall"}}
 items[2030] = {id=2030,name="Gnarled Staff",source={ID=225,SourceName="Gavin Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
-items[1387] = {id=1387,name="Ghoulfang",source={ID=572,SourceName="Leprithus",SourceType="Kill",DropChance="20.7",Zone="Westfall"}}
+items[1387] = {id=1387,name="Ghoulfang",source={ID=572,SourceName="Leprithus",SourceType="Kill",DropChance="20.6",Zone="Westfall"}}
 items[1959] = {id=1959,name="Cold Iron Pick",source={ID=623,SourceName="Skeletal Miner",SourceType="Kill",DropChance="4.8",Zone="Unknown"}}
-items[6206] = {id=6206,name="Rock Chipper",source={ID=1424,SourceName="Master Digger",SourceType="Kill",DropChance="71.2",Zone="Westfall"}}
-items[33670] = {id=33670,name="Vengeful Gladiator's Decapitator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31959] = {id=31959,name="Merciless Gladiator's Bonegrinder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6206] = {id=6206,name="Rock Chipper",source={ID=1424,SourceName="Master Digger",SourceType="Kill",DropChance="71.1",Zone="Westfall"}}
+items[33670] = {id=33670,name="Vengeful Gladiator's Decapitator",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31959] = {id=31959,name="Merciless Gladiator's Bonegrinder",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[25333] = {id=25333,name="Purification Staff",source={ID=20136,SourceName="Sunfury Researcher",SourceType="Kill",DropChance="6.2",Zone="Netherstorm"}}
 items[23499] = {id=23499,name="Fel Iron Greatsword",source={ID=29565,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[27750] = {id=27750,name="Hammer of the Sporelings",source={ID=9726,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[27750] = {id=27750,name="Hammer of the Sporelings",source={ID=9726,SourceName="Now That We're Friends...",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[19357] = {id=19357,name="Herald of Woe",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="19.5",Zone="Blackwing Lair"}}
 items[18842] = {id=18842,name="Staff of Dominance",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="36.4",Zone="Molten Core"}}
 items[23124] = {id=23124,name="Staff of Balzaphon",source={ID=14684,SourceName="Balzaphon",SourceType="Kill",DropChance="29.0",Zone="Stratholme"}}
 items[3779] = {id=3779,name="Hefty War Axe",source={ID=5085,SourceName="Sentry Point Guard",SourceType="Kill",DropChance="3.5",Zone="Dustwallow Marsh"}}
-items[6689] = {id=6689,name="Wind Spirit Staff",source={ID=4842,SourceName="Earthcaller Halmgar",SourceType="Kill",DropChance="48.8",Zone="Razorfen Kraul"}}
+items[6689] = {id=6689,name="Wind Spirit Staff",source={ID=4842,SourceName="Earthcaller Halmgar",SourceType="Kill",DropChance="48.9",Zone="Razorfen Kraul"}}
 items[3487] = {id=3487,name="Heavy Copper Broadsword",source={ID=3292,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[2204] = {id=2204,name="Brashclaw's Skewer",source={ID=506,SourceName="Sergeant Brashclaw",SourceType="Kill",DropChance="68.1",Zone="Westfall"}}
+items[2204] = {id=2204,name="Brashclaw's Skewer",source={ID=506,SourceName="Sergeant Brashclaw",SourceType="Kill",DropChance="68.3",Zone="Westfall"}}
 items[27829] = {id=27829,name="Axe of the Nexus-Kings",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="10.6",Zone="Mana-Tombs"}}
 items[29748] = {id=29748,name="Monster - Staff, Blooming Druid Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23503] = {id=23503,name="Adamantite Cleaver",source={ID=29568,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[25216] = {id=25216,name="Ogre Splitting Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[20669] = {id=20669,name="Darkstone Claymore",source={ID=15207,SourceName="The Duke of Fathoms",SourceType="Kill",DropChance="30.9",Zone="Silithus"}}
+items[25216] = {id=25216,name="Ogre Splitting Axe",source={ID=16769,SourceName="Firewing Warlock",SourceType="Kill",DropChance="0.7",Zone="Terokkar Forest"}}
+items[20669] = {id=20669,name="Darkstone Claymore",source={ID=15207,SourceName="The Duke of Fathoms",SourceType="Kill",DropChance="31.0",Zone="Silithus"}}
 items[15256] = {id=15256,name="Massacre Sword",source={ID=11885,SourceName="Blighthound",SourceType="Kill",DropChance="1.1",Zone="Eastern Plaguelands"}}
 items[15270] = {id=15270,name="Gigantic War Axe",source={ID=6185,SourceName="Timbermaw Warrior",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
-items[1680] = {id=1680,name="Headchopper",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="29.5",Zone="Stranglethorn Vale"}}
+items[1680] = {id=1680,name="Headchopper",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="31.1",Zone="Stranglethorn Vale"}}
 items[4018] = {id=4018,name="Whetted Claymore",source={ID=8212,SourceName="The Reak",SourceType="Kill",DropChance="4.2",Zone="The Hinterlands"}}
 items[19573] = {id=19573,name="Lorekeeper's Staff",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[913] = {id=913,name="Huge Ogre Sword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -429,27 +429,27 @@ items[1818] = {id=1818,name="Standard Claymore",source={ID=3735,SourceName="Apot
 items[3198] = {id=3198,name="Battering Hammer",source={ID=335,SourceName="Singe",SourceType="Kill",DropChance="0.8",Zone="Redridge Mountains"}}
 items[20425] = {id=20425,name="Advisor's Gnarled Staff",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[20434] = {id=20434,name="Lorekeeper's Staff",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[3193] = {id=3193,name="Oak Mallet",source={ID=17683,SourceName="Zarakh",SourceType="Kill",DropChance="1.3",Zone="Bloodmyst Isle"}}
+items[3193] = {id=3193,name="Oak Mallet",source={ID=125,SourceName="Riverpaw Overseer",SourceType="Kill",DropChance="1.3",Zone="Westfall"}}
 items[6214] = {id=6214,name="Heavy Copper Maul",source={ID=7408,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[3188] = {id=3188,name="Coral Claymore",source={ID=519,SourceName="Slark",SourceType="Kill",DropChance="38.2",Zone="Westfall"}}
-items[31966] = {id=31966,name="Merciless Gladiator's Decapitator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30395] = {id=30395,name="Warp-Master's Maul",source={ID=10341,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[3188] = {id=3188,name="Coral Claymore",source={ID=519,SourceName="Slark",SourceType="Kill",DropChance="38.3",Zone="Westfall"}}
+items[31966] = {id=31966,name="Merciless Gladiator's Decapitator",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30395] = {id=30395,name="Warp-Master's Maul",source={ID=10341,SourceName="Kick Them While They're Down",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[25162] = {id=25162,name="Darkened Broadsword",source={ID=17131,SourceName="Talbuk Thorngrazer",SourceType="Kill",DropChance="1.4",Zone="Nagrand"}}
 items[25326] = {id=25326,name="Primal Lore-Staff",source={ID=17816,SourceName="Bogstrok",SourceType="Kill",DropChance="4.3",Zone="The Slave Pens"}}
-items[25324] = {id=25324,name="Angerstaff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25324] = {id=25324,name="Angerstaff",source={ID=16846,SourceName="Mag'har Grunt",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[19355] = {id=19355,name="Shadow Wing Focus Staff",source={ID=11983,SourceName="Firemaw",SourceType="Kill",DropChance="7.1",Zone="Blackwing Lair"}}
 items[19946] = {id=19946,name="Tigule's Harpoon",source={ID=15114,SourceName="Gahz'ranka",SourceType="Kill",DropChance="39.4",Zone="Zul'Gurub"}}
-items[19874] = {id=19874,name="Halberd of Smiting",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="9.0",Zone="Zul'Gurub"}}
+items[19874] = {id=19874,name="Halberd of Smiting",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="8.9",Zone="Zul'Gurub"}}
 items[13000] = {id=13000,name="Staff of Hale Magefire",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[13983] = {id=13983,name="Gravestone War Axe",source={ID=10506,SourceName="Kirtonos the Herald",SourceType="Kill",DropChance="14.1",Zone="Scholomance"}}
-items[13148] = {id=13148,name="Chillpike",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="1.3",Zone="Blackrock Spire"}}
+items[13148] = {id=13148,name="Chillpike",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="1.2",Zone="Blackrock Spire"}}
 items[12532] = {id=12532,name="Spire of the Stoneshaper",source={ID=9678,SourceName="Shill Dinger",SourceType="Kill",DropChance="0.1",Zone="Blackrock Depths"}}
 items[12776] = {id=12776,name="Enchanted Battlehammer",source={ID=16973,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15274] = {id=15274,name="Diviner Long Staff",source={ID=6131,SourceName="Draconic Mageweaver",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
 items[13823] = {id=13823,name="Stout War Staff",source={ID=1045,SourceName="Red Dragonspawn",SourceType="Kill",DropChance="3.3",Zone="Wetlands"}}
 items[1664] = {id=1664,name="Spellforce Rod",source={ID=676,SourceName="Venture Co. Surveyor",SourceType="Kill",DropChance="0.7",Zone="Stranglethorn Vale"}}
 items[12252] = {id=12252,name="Staff of Protection",source={ID=2482,SourceName="Zarena Cromwind",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
-items[3197] = {id=3197,name="Stonecutter Claymore",source={ID=23620,SourceName="Privateer",SourceType="Kill",DropChance="1.9",Zone="Dustwallow Marsh"}}
+items[3197] = {id=3197,name="Stonecutter Claymore",source={ID=23620,SourceName="Privateer",SourceType="Kill",DropChance="1.7",Zone="Dustwallow Marsh"}}
 items[3782] = {id=3782,name="Large War Club",source={ID=5085,SourceName="Sentry Point Guard",SourceType="Kill",DropChance="3.5",Zone="Dustwallow Marsh"}}
 items[3185] = {id=3185,name="Acrobatic Staff",source={ID=5937,SourceName="Vile Sting",SourceType="Kill",DropChance="1.0",Zone="Thousand Needles"}}
 items[1975] = {id=1975,name="Pysan's Old Greatsword",source={ID=4522,SourceName="Razorfen Dustweaver",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
@@ -460,30 +460,30 @@ items[1824] = {id=1824,name="Shiny War Axe",source={ID=7053,SourceName="Klaven M
 items[2026] = {id=2026,name="Rock Hammer",source={ID=225,SourceName="Gavin Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[1928] = {id=1928,name="Defias Mage Staff",source={ID=1726,SourceName="Defias Magician",SourceType="Kill",DropChance="5.1",Zone="Unknown"}}
 items[32421] = {id=32421,name="Tom's Axe A",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25129] = {id=25129,name="Giant's Leg Bone",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25129] = {id=25129,name="Giant's Leg Bone",source={ID=16844,SourceName="Crust Burster",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[17104] = {id=17104,name="Spinal Reaper",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="7.0",Zone="Molten Core"}}
-items[17073] = {id=17073,name="Earthshaker",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="35.8",Zone="Molten Core"}}
+items[17073] = {id=17073,name="Earthshaker",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="35.7",Zone="Molten Core"}}
 items[19566] = {id=19566,name="Advisor's Gnarled Staff",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[13053] = {id=13053,name="Doombringer",source={ID=11497,SourceName="The Razza",SourceType="Kill",DropChance="9.0",Zone="Unknown"}}
 items[12769] = {id=12769,name="Bleakwood Hew",source={ID=16965,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[3852] = {id=3852,name="Golden Iron Destroyer",source={ID=3495,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[1826] = {id=1826,name="Rock Maul",source={ID=5851,SourceName="Captain Gerogg Hammertoe",SourceType="Kill",DropChance="2.2",Zone="The Barrens"}}
 items[926] = {id=926,name="Battle Axe",source={ID=225,SourceName="Gavin Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
-items[15259] = {id=15259,name="Hefty Battlehammer",source={ID=11656,SourceName="Warsong Peon",SourceType="Kill",DropChance="0.7",Zone="Ashenvale"}}
+items[15259] = {id=15259,name="Hefty Battlehammer",source={ID=11656,SourceName="Warsong Peon",SourceType="Kill",DropChance="0.6",Zone="Ashenvale"}}
 items[32663] = {id=32663,name="Apexis Cleaver",source={ID=40757,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31700] = {id=31700,name="Runed Silver Staff",source={ID=10857,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[31701] = {id=31701,name="Saboteur's Axe",source={ID=10857,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31700] = {id=31700,name="Runed Silver Staff",source={ID=10857,SourceName="Teleport This!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31701] = {id=31701,name="Saboteur's Axe",source={ID=10857,SourceName="Teleport This!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[30093] = {id=30093,name="Great Earthforged Hammer",source={ID=36137,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25330] = {id=25330,name="Starshine Staff",source={ID=18315,SourceName="Ethereal Theurgist",SourceType="Kill",DropChance="25.0",Zone="Mana-Tombs"}}
-items[25174] = {id=25174,name="Hanbo Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25174] = {id=25174,name="Hanbo Staff",source={ID=16927,SourceName="Stonescythe Whelp",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[21806] = {id=21806,name="Gavel of Qiraji Authority",source={ID=15385,SourceName="Colonel Zerran",SourceType="Kill",DropChance="11.9",Zone="Ruins of Ahn'Qiraj"}}
 items[17223] = {id=17223,name="Thunderstrike",source={ID=21180,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[22335] = {id=22335,name="Lord Valthalak's Staff of Command",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="26.6",Zone="Blackrock Spire"}}
-items[14541] = {id=14541,name="Barovian Family Sword",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="10.1",Zone="Scholomance"}}
+items[14541] = {id=14541,name="Barovian Family Sword",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="10.4",Zone="Scholomance"}}
 items[15278] = {id=15278,name="Solstice Staff",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.8",Zone="Azshara"}}
 items[20660] = {id=20660,name="Stonecutting Glaive",source={ID=15212,SourceName="Hoary Templar",SourceType="Kill",DropChance="2.7",Zone="Silithus"}}
 items[15253] = {id=15253,name="Beheading Blade",source={ID=1847,SourceName="Foulmane",SourceType="Kill",DropChance="0.4",Zone="Western Plaguelands"}}
-items[10826] = {id=10826,name="Staff of Lore",source={ID=3161,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[10826] = {id=10826,name="Staff of Lore",source={ID=3161,SourceName="Gahz'ridian",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
 items[9482] = {id=9482,name="Witch Doctor's Cane",source={ID=7604,SourceName="Sergeant Bly",SourceType="Kill",DropChance="0",Zone="Zul'Farrak"}}
 items[15262] = {id=15262,name="Greater Maul",source={ID=9397,SourceName="Living Storm",SourceType="Kill",DropChance="0.6",Zone="Tanaris"}}
 items[1625] = {id=1625,name="Exquisite Flamberge",source={ID=2781,SourceName="Caretaker Weston",SourceType="Kill",DropChance="1.3",Zone="Arathi Highlands"}}
@@ -494,11 +494,11 @@ items[7957] = {id=7957,name="Bronze Greatsword",source={ID=9986,SourceName="",So
 items[3196] = {id=3196,name="Edged Bastard Sword",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="2.4",Zone="The Barrens"}}
 items[32422] = {id=32422,name="Tom's Axe B",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25167] = {id=25167,name="Nethersteel Claymore",source={ID=18493,SourceName="Auchenai Soulpriest",SourceType="Kill",DropChance="8.6",Zone="Auchenai Crypts"}}
-items[25622] = {id=25622,name="Staff of the Four Golden Coins",source={ID=9907,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25622] = {id=25622,name="Staff of the Four Golden Coins",source={ID=9907,SourceName="An Audacious Advance",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[25131] = {id=25131,name="Hateful Bludgeon",source={ID=17940,SourceName="Coilfang Technician",SourceType="Kill",DropChance="6.2",Zone="The Slave Pens"}}
 items[13348] = {id=13348,name="Demonshear",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="16.6",Zone="Stratholme"}}
 items[19570] = {id=19570,name="Lorekeeper's Staff",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[18759] = {id=18759,name="Malicious Axe",source={ID=14516,SourceName="Death Knight Darkreaver",SourceType="Kill",DropChance="22.6",Zone="Scholomance"}}
+items[18759] = {id=18759,name="Malicious Axe",source={ID=14516,SourceName="Death Knight Darkreaver",SourceType="Kill",DropChance="22.9",Zone="Scholomance"}}
 items[18353] = {id=18353,name="Stoneflower Staff",source={ID=11489,SourceName="Tendris Warpwood",SourceType="Kill",DropChance="23.8",Zone="Dire Maul"}}
 items[13167] = {id=13167,name="Fist of Omokk",source={ID=9196,SourceName="Highlord Omokk",SourceType="Kill",DropChance="13.4",Zone="Blackrock Spire"}}
 items[13819] = {id=13819,name="Balanced War Axe",source={ID=868,SourceName="Stonard Shaman",SourceType="Kill",DropChance="16.6",Zone="Swamp of Sorrows"}}
@@ -506,9 +506,9 @@ items[14531] = {id=14531,name="Frightskull Shaft",source={ID=11622,SourceName="R
 items[1639] = {id=1639,name="Grinning Axe",source={ID=6650,SourceName="General Fangferror",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
 items[4020] = {id=4020,name="Splintering Battle Axe",source={ID=5400,SourceName="Zekkis",SourceType="Kill",DropChance="3.4",Zone="Unknown"}}
 items[13055] = {id=13055,name="Bonechewer",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
-items[9527] = {id=9527,name="Spellshifter Rod",source={ID=2846,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Farrak"}}
+items[9527] = {id=9527,name="Spellshifter Rod",source={ID=2846,SourceName="Tiara of the Deep",SourceType="Quest",DropChance="0",Zone="Zul'Farrak"}}
 items[13058] = {id=13058,name="Khoo's Point",source={ID=672,SourceName="Skullsplitter Spiritchaser",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
-items[9408] = {id=9408,name="Ironshod Bludgeon",source={ID=7228,SourceName="Ironaya",SourceType="Kill",DropChance="20.2",Zone="Uldaman"}}
+items[9408] = {id=9408,name="Ironshod Bludgeon",source={ID=7228,SourceName="Ironaya",SourceType="Kill",DropChance="20.3",Zone="Uldaman"}}
 items[2527] = {id=2527,name="Battle Staff",source={ID=1146,SourceName="Vharr",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
 items[2525] = {id=2525,name="War Hammer",source={ID=1146,SourceName="Vharr",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
 items[2084] = {id=2084,name="Darksteel Bastard Sword",source={ID=1054,SourceName="Dark Iron Demolitionist",SourceType="Kill",DropChance="3.8",Zone="Wetlands"}}
@@ -517,25 +517,25 @@ items[3201] = {id=3201,name="Barbarian War Axe",source={ID=5930,SourceName="Sist
 items[928] = {id=928,name="Long Staff",source={ID=225,SourceName="Gavin Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[880] = {id=880,name="Staff of Horrors",source={ID=202,SourceName="Skeletal Horror",SourceType="Kill",DropChance="1.6",Zone="Duskwood"}}
 items[2175] = {id=2175,name="Shadowhide Battle Axe",source={ID=568,SourceName="Shadowhide Warrior",SourceType="Kill",DropChance="2.0",Zone="Redridge Mountains"}}
-items[3199] = {id=3199,name="Battle Slayer",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.8",Zone="Bloodmyst Isle"}}
+items[3199] = {id=3199,name="Battle Slayer",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
 items[1218] = {id=1218,name="Heavy Gnoll War Club",source={ID=445,SourceName="Redridge Alpha",SourceType="Kill",DropChance="2.7",Zone="Redridge Mountains"}}
 items[2024] = {id=2024,name="Espadon",source={ID=225,SourceName="Gavin Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[2025] = {id=2025,name="Bearded Axe",source={ID=225,SourceName="Gavin Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[4437] = {id=4437,name="Channeler's Staff",source={ID=1920,SourceName="Dalaran Spellscribe",SourceType="Kill",DropChance="23.5",Zone="Silverpine Forest"}}
-items[28300] = {id=28300,name="Gladiator's Painsaw",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30396] = {id=30396,name="Jeweled Halberd",source={ID=10341,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[25166] = {id=25166,name="Mok'Nathal Warblade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25231] = {id=25231,name="Fel-Wrought Halberd",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28300] = {id=28300,name="Gladiator's Painsaw",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30396] = {id=30396,name="Jeweled Halberd",source={ID=10341,SourceName="Kick Them While They're Down",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[25166] = {id=25166,name="Mok'Nathal Warblade",source={ID=17814,SourceName="Lordaeron Watchman",SourceType="Kill",DropChance="0.1",Zone="Old Hillsbrad Foothills"}}
+items[25231] = {id=25231,name="Fel-Wrought Halberd",source={ID=17380,SourceName="Broggok",SourceType="Kill",DropChance="0.1",Zone="The Blood Furnace"}}
 items[23457] = {id=23457,name="High Warlord's Destroyer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[2801] = {id=2801,name="Blade of Hanna",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
-items[15267] = {id=15267,name="Brutehammer",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="6.1",Zone="Duskwood"}}
+items[15267] = {id=15267,name="Brutehammer",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="6.2",Zone="Duskwood"}}
 items[17074] = {id=17074,name="Shadowstrike",source={ID=12098,SourceName="Sulfuron Harbinger",SourceType="Kill",DropChance="45.2",Zone="Molten Core"}}
 items[12802] = {id=12802,name="Darkspear",source={ID=16987,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15265] = {id=15265,name="Painbringer",source={ID=10680,SourceName="Summoned Blackhand Dreadweaver",SourceType="Kill",DropChance="3.8",Zone="Blackrock Spire"}}
-items[18410] = {id=18410,name="Sprinter's Sword",source={ID=7441,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
-items[11907] = {id=11907,name="Beastslayer",source={ID=4301,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
-items[12243] = {id=12243,name="Smoldering Claw",source={ID=5720,SourceName="Weaver",SourceType="Kill",DropChance="9.9",Zone="The Temple of Atal'Hakkar"}}
-items[10799] = {id=10799,name="Headspike",source={ID=8580,SourceName="Atal'alarion",SourceType="Kill",DropChance="18.2",Zone="The Temple of Atal'Hakkar"}}
+items[18410] = {id=18410,name="Sprinter's Sword",source={ID=7441,SourceName="Pusillin and the Elder Azj'Tordin",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[11907] = {id=11907,name="Beastslayer",source={ID=4301,SourceName="The Mighty U'cha",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[12243] = {id=12243,name="Smoldering Claw",source={ID=5720,SourceName="Weaver",SourceType="Kill",DropChance="10.0",Zone="The Temple of Atal'Hakkar"}}
+items[10799] = {id=10799,name="Headspike",source={ID=8580,SourceName="Atal'alarion",SourceType="Kill",DropChance="18.3",Zone="The Temple of Atal'Hakkar"}}
 items[9477] = {id=9477,name="The Chief's Enforcer",source={ID=7267,SourceName="Chief Ukorz Sandscalp",SourceType="Kill",DropChance="23.4",Zone="Zul'Farrak"}}
 items[9475] = {id=9475,name="Diabolic Skiver",source={ID=7275,SourceName="Shadowpriest Sezz'ziz",SourceType="Kill",DropChance="21.9",Zone="Zul'Farrak"}}
 items[4024] = {id=4024,name="Heavy War Staff",source={ID=8212,SourceName="The Reak",SourceType="Kill",DropChance="5.6",Zone="The Hinterlands"}}
@@ -551,29 +551,29 @@ items[1820] = {id=1820,name="Wooden Maul",source={ID=5799,SourceName="Hannah Bla
 items[1406] = {id=1406,name="Pearl-encrusted Spear",source={ID=544,SourceName="Murloc Nightcrawler",SourceType="Kill",DropChance="1.6",Zone="Redridge Mountains"}}
 items[1300] = {id=1300,name="Lesser Staff of the Spire",source={ID=436,SourceName="Blackrock Shadowcaster",SourceType="Kill",DropChance="0.9",Zone="Redridge Mountains"}}
 items[1473] = {id=1473,name="Riverside Staff",source={ID=545,SourceName="Murloc Tidecaller",SourceType="Kill",DropChance="0.8",Zone="Redridge Mountains"}}
-items[1814] = {id=1814,name="Battered Mallet",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="19.2",Zone="Ghostlands"}}
+items[1814] = {id=1814,name="Battered Mallet",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="15.1",Zone="Ghostlands"}}
 items[2823] = {id=2823,name="Mo'grosh Can Opener",source={ID=1180,SourceName="Mo'grosh Brute",SourceType="Kill",DropChance="4.3",Zone="Loch Modan"}}
-items[1813] = {id=1813,name="Chipped Quarterstaff",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.7",Zone="Bloodmyst Isle"}}
+items[1813] = {id=1813,name="Chipped Quarterstaff",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.0",Zone="Bloodmyst Isle"}}
 items[1405] = {id=1405,name="Foamspittle Staff",source={ID=517,SourceName="Murloc Oracle",SourceType="Kill",DropChance="1.4",Zone="Westfall"}}
-items[1811] = {id=1811,name="Blunt Claymore",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="6.2",Zone="Bloodmyst Isle"}}
-items[1812] = {id=1812,name="Short-handled Battle Axe",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.7",Zone="Bloodmyst Isle"}}
-items[25225] = {id=25225,name="Deepforge Broadaxe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25328] = {id=25328,name="Faerie-Kind Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25170] = {id=25170,name="Rattan Bo Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1811] = {id=1811,name="Blunt Claymore",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="4.1",Zone="Bloodmyst Isle"}}
+items[1812] = {id=1812,name="Short-handled Battle Axe",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.0",Zone="Bloodmyst Isle"}}
+items[25225] = {id=25225,name="Deepforge Broadaxe",source={ID=23354,SourceName="Mo'arg Incinerator",SourceType="Kill",DropChance="1.1",Zone="Blade's Edge Mountains"}}
+items[25328] = {id=25328,name="Faerie-Kind Staff",source={ID=17964,SourceName="Wastewalker Worker",SourceType="Kill",DropChance="0.1",Zone="The Slave Pens"}}
+items[25170] = {id=25170,name="Rattan Bo Staff",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.1",Zone="Hellfire Peninsula"}}
 items[25226] = {id=25226,name="War Scythe",source={ID=17264,SourceName="Bonechewer Ravener",SourceType="Kill",DropChance="2.7",Zone="Hellfire Ramparts"}}
-items[21275] = {id=21275,name="Blessed Qiraji Augur Staff",source={ID=8790,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21275] = {id=21275,name="Blessed Qiraji Augur Staff",source={ID=8790,SourceName="Imperial Qiraji Regalia",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[19353] = {id=19353,name="Drake Talon Cleaver",source={ID=14601,SourceName="Ebonroc",SourceType="Kill",DropChance="8.8",Zone="Blackwing Lair"}}
 items[21125] = {id=21125,name="Ahn'Qiraj Staff [PH]",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22333] = {id=22333,name="Hammer of Divine Might",source={ID=16118,SourceName="Kormok",SourceType="Kill",DropChance="34.1",Zone="Scholomance"}}
-items[13817] = {id=13817,name="Tapered Greatsword",source={ID=7851,SourceName="Nethergarde Elite",SourceType="Kill",DropChance="11.1",Zone="Blasted Lands"}}
+items[22333] = {id=22333,name="Hammer of Divine Might",source={ID=16118,SourceName="Kormok",SourceType="Kill",DropChance="33.8",Zone="Scholomance"}}
+items[13817] = {id=13817,name="Tapered Greatsword",source={ID=7851,SourceName="Nethergarde Elite",SourceType="Kill",DropChance="9.0",Zone="Blasted Lands"}}
 items[13821] = {id=13821,name="Bulky Maul",source={ID=9520,SourceName="Grark Lorkrub",SourceType="Kill",DropChance="14.2",Zone="Burning Steppes"}}
 items[11816] = {id=11816,name="Angerforge's Battle Axe",source={ID=9033,SourceName="General Angerforge",SourceType="Kill",DropChance="23.6",Zone="Blackrock Depths"}}
 items[12775] = {id=12775,name="Huge Thorium Battleaxe",source={ID=16971,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19567] = {id=19567,name="Advisor's Gnarled Staff",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[9685] = {id=9685,name="Will of the Mountain Giant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[4022] = {id=4022,name="Crushing Maul",source={ID=8212,SourceName="The Reak",SourceType="Kill",DropChance="2.8",Zone="The Hinterlands"}}
-items[15263] = {id=15263,name="Royal Mallet",source={ID=6131,SourceName="Draconic Mageweaver",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
-items[9481] = {id=9481,name="The Minotaur",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[15263] = {id=15263,name="Royal Mallet",source={ID=5280,SourceName="Nightmare Wyrmkin",SourceType="Kill",DropChance="0.5",Zone="The Temple of Atal'Hakkar"}}
+items[9481] = {id=9481,name="The Minotaur",source={ID=10080,SourceName="Sandarr Dunereaver",SourceType="Kill",DropChance="7.6",Zone="Zul'Farrak"}}
 items[15252] = {id=15252,name="Tusker Sword",source={ID=8760,SourceName="Mosshoof Stag",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
 items[3208] = {id=3208,name="Conk Hammer",source={ID=6186,SourceName="Timbermaw Totemic",SourceType="Kill",DropChance="0.6",Zone="Azshara"}}
 items[2529] = {id=2529,name="Zweihander",source={ID=981,SourceName="Hartash",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
@@ -581,7 +581,7 @@ items[2533] = {id=2533,name="War Maul",source={ID=981,SourceName="Hartash",Sourc
 items[2535] = {id=2535,name="War Staff",source={ID=981,SourceName="Hartash",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
 items[3854] = {id=3854,name="Frost Tiger Blade",source={ID=3497,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[13017] = {id=13017,name="Hellslayer Battle Axe",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
-items[3784] = {id=3784,name="Metal Stave",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="1.8",Zone="Desolace"}}
+items[3784] = {id=3784,name="Metal Stave",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="1.7",Zone="Desolace"}}
 items[7757] = {id=7757,name="Windweaver Staff",source={ID=3975,SourceName="Herod",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
 items[1679] = {id=1679,name="Korg Bat",source={ID=1142,SourceName="Mosh'Ogg Brute",SourceType="Kill",DropChance="1.0",Zone="Stranglethorn Vale"}}
 items[3781] = {id=3781,name="Broad Claymore",source={ID=2602,SourceName="Ruul Onestone",SourceType="Kill",DropChance="2.2",Zone="Arathi Highlands"}}
@@ -595,21 +595,21 @@ items[1460] = {id=1460,name="Shadowhide Two-handed Sword",source={ID=434,SourceN
 items[1539] = {id=1539,name="Gnarled Hermit's Staff",source={ID=5863,SourceName="Geopriest Gukk'rok",SourceType="Kill",DropChance="24.0",Zone="The Barrens"}}
 items[1391] = {id=1391,name="Riverpaw Mystic Staff",source={ID=453,SourceName="Riverpaw Mystic",SourceType="Kill",DropChance="1.7",Zone="Westfall"}}
 items[2822] = {id=2822,name="Mo'grosh Toothpick",source={ID=1178,SourceName="Mo'grosh Ogre",SourceType="Kill",DropChance="3.6",Zone="Loch Modan"}}
-items[35064] = {id=35064,name="Brutal Gladiator's Painsaw",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35064] = {id=35064,name="Brutal Gladiator's Painsaw",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32662] = {id=32662,name="Flaming Quartz Staff",source={ID=40755,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[34794] = {id=34794,name="Axe of Shattered Dreams",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="13.8",Zone="Magisters' Terrace"}}
-items[25237] = {id=25237,name="Nether Trident",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25237] = {id=25237,name="Nether Trident",source={ID=25506,SourceName="Shadowsword Lifeshaper",SourceType="Kill",DropChance="0.4",Zone="Sunwell Plateau"}}
 items[25335] = {id=25335,name="Feral Warp-Staff",source={ID=15547,SourceName="Spectral Charger",SourceType="Kill",DropChance="9.0",Zone="Karazhan"}}
-items[30394] = {id=30394,name="Sunfury Blade",source={ID=10341,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30394] = {id=30394,name="Sunfury Blade",source={ID=10341,SourceName="Kick Them While They're Down",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[25334] = {id=25334,name="Intimidating Greatstaff",source={ID=16409,SourceName="Phantom Guest",SourceType="Kill",DropChance="0.8",Zone="Karazhan"}}
 items[25136] = {id=25136,name="Blood Stained Hammer",source={ID=18857,SourceName="Sunfury Warp-Master",SourceType="Kill",DropChance="7.6",Zone="Netherstorm"}}
-items[25164] = {id=25164,name="Crude Umbrafen Blade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25178] = {id=25178,name="Bata Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25164] = {id=25164,name="Crude Umbrafen Blade",source={ID=18524,SourceName="Angered Skeleton",SourceType="Kill",DropChance="0.1",Zone="Auchenai Crypts"}}
+items[25178] = {id=25178,name="Bata Staff",source={ID=19760,SourceName="Cooling Infernal",SourceType="Kill",DropChance="1.3",Zone="Shadowmoon Valley"}}
 items[25220] = {id=25220,name="Glorious War-Axe",source={ID=17160,SourceName="Living Cyclone",SourceType="Kill",DropChance="6.6",Zone="Nagrand"}}
 items[25218] = {id=25218,name="Silver-Edged Axe",source={ID=18331,SourceName="Ethereal Darkcaster",SourceType="Kill",DropChance="6.6",Zone="Mana-Tombs"}}
-items[25232] = {id=25232,name="War Glaive",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25232] = {id=25232,name="War Glaive",source={ID=23165,SourceName="Karrog",SourceType="Kill",DropChance="0.1",Zone="Terokkar Forest"}}
 items[25133] = {id=25133,name="Stormwind Maul",source={ID=18317,SourceName="Ethereal Priest",SourceType="Kill",DropChance="4.7",Zone="Mana-Tombs"}}
-items[25329] = {id=25329,name="Tranquility Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25329] = {id=25329,name="Tranquility Staff",source={ID=21941,SourceName="Accursed Apparition",SourceType="Kill",DropChance="1.1",Zone="Terokkar Forest"}}
 items[25325] = {id=25325,name="Brutal Scar-Limb",source={ID=17370,SourceName="Laughing Skull Enforcer",SourceType="Kill",DropChance="0.8",Zone="The Blood Furnace"}}
 items[25404] = {id=25404,name="Dense War Staff",source={ID=19997,SourceName="Bladespire Enforcer",SourceType="Kill",DropChance="33.3",Zone="Blade's Edge Mountains"}}
 items[19918] = {id=19918,name="Jeklik's Crusher",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="9.8",Zone="Zul'Gurub"}}
@@ -624,49 +624,49 @@ items[15811] = {id=15811,name="Heavy Spear",source={ID=1289,SourceName="Gunther 
 items[3851] = {id=3851,name="Solid Iron Maul",source={ID=3494,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4817] = {id=4817,name="Blessed Claymore",source={ID=844,SourceName="Antonio Perelli",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[4575] = {id=4575,name="Medicine Staff",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="4.3",Zone="The Barrens"}}
-items[33727] = {id=33727,name="Vengeful Gladiator's Painsaw",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32025] = {id=32025,name="Merciless Gladiator's Painsaw",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34673] = {id=34673,name="Legionfoe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33727] = {id=33727,name="Vengeful Gladiator's Painsaw",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32025] = {id=32025,name="Merciless Gladiator's Painsaw",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34673] = {id=34673,name="Legionfoe",source={ID=25032,SourceName="Eldara Dawnrunner",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[34797] = {id=34797,name="Sun-infused Focus Staff",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="17.7",Zone="Magisters' Terrace"}}
-items[32829] = {id=32829,name="Windcharger's Lance",source={ID=11073,SourceName="",SourceType="Quest",DropChance="0",Zone="Skettis"}}
-items[25165] = {id=25165,name="Boulderfist Claymore",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25179] = {id=25179,name="Nguni Stick",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32829] = {id=32829,name="Windcharger's Lance",source={ID=11073,SourceName="Terokk's Downfall",SourceType="Quest",DropChance="0",Zone="Skettis"}}
+items[25165] = {id=25165,name="Boulderfist Claymore",source={ID=18885,SourceName="Farahlon Giant",SourceType="Kill",DropChance="0.1",Zone="Netherstorm"}}
+items[25179] = {id=25179,name="Nguni Stick",source={ID=21057,SourceName="Nexus-Prince Razaan",SourceType="Kill",DropChance="0.2",Zone="Blade's Edge Mountains"}}
 items[25234] = {id=25234,name="Telaari Polearm",source={ID=18064,SourceName="Warmaul Shaman",SourceType="Kill",DropChance="3.2",Zone="Nagrand"}}
-items[25134] = {id=25134,name="Highmountain Hammer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25175] = {id=25175,name="Demoniac Longstaff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25171] = {id=25171,name="Straight Hardwood Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25134] = {id=25134,name="Highmountain Hammer",source={ID=18352,SourceName="Boulderfist Hunter",SourceType="Kill",DropChance="0.1",Zone="Nagrand"}}
+items[25175] = {id=25175,name="Demoniac Longstaff",source={ID=16867,SourceName="Shattered Hand Grunt",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
+items[25171] = {id=25171,name="Straight Hardwood Staff",source={ID=16876,SourceName="Bonechewer Mutant",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[30750] = {id=30750,name="Draenic Warblade",source={ID=18997,SourceName="Fallesh Sunfallow",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[30752] = {id=30752,name="Mag'hari Battleaxe",source={ID=18997,SourceName="Fallesh Sunfallow",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[25400] = {id=25400,name="Tarnished Claymore",source={ID=18632,SourceName="Cabal Executioner",SourceType="Kill",DropChance="25.0",Zone="Shadow Labyrinth"}}
-items[12583] = {id=12583,name="Blackhand Doomsaw",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="9.6",Zone="Blackrock Spire"}}
+items[12583] = {id=12583,name="Blackhand Doomsaw",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="9.5",Zone="Blackrock Spire"}}
 items[15276] = {id=15276,name="Magus Long Staff",source={ID=7046,SourceName="Searscale Drake",SourceType="Kill",DropChance="0.8",Zone="Burning Steppes"}}
 items[7959] = {id=7959,name="Blight",source={ID=10011,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[1986] = {id=1986,name="Gutrender",source={ID=709,SourceName="Mosh'Ogg Warmonger",SourceType="Kill",DropChance="3.1",Zone="Stranglethorn Vale"}}
 items[1726] = {id=1726,name="Poison-tipped Bone Spear",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
 items[13049] = {id=13049,name="Deanship Claymore",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
 items[7956] = {id=7956,name="Bronze Warhammer",source={ID=9985,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[3227] = {id=3227,name="Nightbane Staff",source={ID=521,SourceName="Lupos",SourceType="Kill",DropChance="19.8",Zone="Duskwood"}}
+items[3227] = {id=3227,name="Nightbane Staff",source={ID=521,SourceName="Lupos",SourceType="Kill",DropChance="19.7",Zone="Duskwood"}}
 items[6174] = {id=6174,name="Twain Random Sword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[7170] = {id=7170,name="Twain Random Sword FOO",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[1197] = {id=1197,name="Giant Mace",source={ID=222,SourceName="Nillen Andemar",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[25141] = {id=25141,name="Halaani Hammer",source={ID=23390,SourceName="Bash'ir's Harbinger",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
 items[25140] = {id=25140,name="Commanding Mallet",source={ID=16425,SourceName="Phantom Guardsman",SourceType="Kill",DropChance="10.0",Zone="Karazhan"}}
-items[25224] = {id=25224,name="Slavemaster Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25181] = {id=25181,name="Tapered Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25224] = {id=25224,name="Slavemaster Axe",source={ID=22093,SourceName="Illidari Watcher",SourceType="Kill",DropChance="0.3",Zone="Shadowmoon Valley"}}
+items[25181] = {id=25181,name="Tapered Staff",source={ID=19546,SourceName="Abjurist Belmara",SourceType="Kill",DropChance="0.7",Zone="Netherstorm"}}
 items[25223] = {id=25223,name="Windcaller Hatchet",source={ID=18635,SourceName="Cabal Deathsworn",SourceType="Kill",DropChance="8.3",Zone="Shadow Labyrinth"}}
-items[25180] = {id=25180,name="Calenda Fighting Stick",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25137] = {id=25137,name="Draenethyst Mallet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25221] = {id=25221,name="Ghostly Battle Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25235] = {id=25235,name="Ethereal-Etched Glaive",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25180] = {id=25180,name="Calenda Fighting Stick",source={ID=18859,SourceName="Wrath Priestess",SourceType="Kill",DropChance="0.2",Zone="Netherstorm"}}
+items[25137] = {id=25137,name="Draenethyst Mallet",source={ID=18290,SourceName="Tusker",SourceType="Kill",DropChance="0.1",Zone="Nagrand"}}
+items[25221] = {id=25221,name="Ghostly Battle Axe",source={ID=19980,SourceName="Void Terror",SourceType="Kill",DropChance="1.3",Zone="Blade's Edge Mountains"}}
+items[25235] = {id=25235,name="Ethereal-Etched Glaive",source={ID=22072,SourceName="Shadowsworn Drakonid",SourceType="Kill",DropChance="0.5",Zone="Shadowmoon Valley"}}
 items[25332] = {id=25332,name="Reflective Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25135] = {id=25135,name="Clefthoof Mace",source={ID=18314,SourceName="Nexus Stalker",SourceType="Kill",DropChance="9.0",Zone="Mana-Tombs"}}
-items[25177] = {id=25177,name="Tanjo Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25219] = {id=25219,name="Rending Claw",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25176] = {id=25176,name="Taiji Quarterstaff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25217] = {id=25217,name="Sundering Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25172] = {id=25172,name="Jinbali Warp-Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25227] = {id=25227,name="Sha'tari Longspear",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25128] = {id=25128,name="Shining Mace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25177] = {id=25177,name="Tanjo Staff",source={ID=19183,SourceName="Clefthoof Calf",SourceType="Kill",DropChance="0.3",Zone="Nagrand"}}
+items[25219] = {id=25219,name="Rending Claw",source={ID=22307,SourceName="Rotting Forest-Rager",SourceType="Kill",DropChance="0.1",Zone="Terokkar Forest"}}
+items[25176] = {id=25176,name="Taiji Quarterstaff",source={ID=22148,SourceName="Gordunni Head-Splitter",SourceType="Kill",DropChance="0.1",Zone="Terokkar Forest"}}
+items[25217] = {id=25217,name="Sundering Axe",source={ID=20747,SourceName="Silkwing Larva",SourceType="Kill",DropChance="0.1",Zone="Blade's Edge Mountains"}}
+items[25172] = {id=25172,name="Jinbali Warp-Staff",source={ID=19458,SourceName="Ripp",SourceType="Kill",DropChance="0.5",Zone="Hellfire Peninsula"}}
+items[25227] = {id=25227,name="Sha'tari Longspear",source={ID=19190,SourceName="Fel Handler",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
+items[25128] = {id=25128,name="Shining Mace",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.2",Zone="Hellfire Peninsula"}}
 items[21703] = {id=21703,name="Hammer of Ji'zhi",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="12.5",Zone="Ahn'Qiraj"}}
 items[19354] = {id=19354,name="Draconic Avenger",source={ID=12460,SourceName="Death Talon Wyrmguard",SourceType="Kill",DropChance="16.3",Zone="Blackwing Lair"}}
 items[21856] = {id=21856,name="Neretzek, The Blood Drinker",source={ID=15233,SourceName="Vekniss Guardian",SourceType="Kill",DropChance="0.3",Zone="Ahn'Qiraj"}}
@@ -675,16 +675,16 @@ items[20258] = {id=20258,name="Zulian Ceremonial Staff",source={ID=11340,SourceN
 items[21056] = {id=21056,name="63 Blue Fire Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[21084] = {id=21084,name="63 Blue Shadow Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[13163] = {id=13163,name="Relentless Scythe",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="15.0",Zone="Blackrock Spire"}}
-items[13393] = {id=13393,name="Malown's Slam",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="18.4",Zone="Stratholme"}}
-items[22314] = {id=22314,name="Huntsman's Harpoon",source={ID=16097,SourceName="Isalien",SourceType="Kill",DropChance="21.6",Zone="Dire Maul"}}
-items[15854] = {id=15854,name="Dancing Sliver",source={ID=4771,SourceName="",SourceType="Quest",DropChance="0",Zone="Scholomance"}}
+items[13393] = {id=13393,name="Malown's Slam",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="17.2",Zone="Stratholme"}}
+items[22314] = {id=22314,name="Huntsman's Harpoon",source={ID=16097,SourceName="Isalien",SourceType="Kill",DropChance="21.7",Zone="Dire Maul"}}
+items[15854] = {id=15854,name="Dancing Sliver",source={ID=4771,SourceName="Dawn's Gambit",SourceType="Quest",DropChance="0",Zone="Scholomance"}}
 items[15254] = {id=15254,name="Dark Espadon",source={ID=9680,SourceName="Crest Killer",SourceType="Kill",DropChance="0.9",Zone="Blackrock Depths"}}
 items[10627] = {id=10627,name="Bludgeon of the Grinning Dog",source={ID=5283,SourceName="Nightmare Wanderer",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
 items[19568] = {id=19568,name="Advisor's Gnarled Staff",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[3856] = {id=3856,name="Shadow Crescent Axe",source={ID=3500,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[3195] = {id=3195,name="Barbaric Battle Axe",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="2.4",Zone="The Barrens"}}
-items[25183] = {id=25183,name="Voodoo Hex-Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25337] = {id=25337,name="Swarming Sting-Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25183] = {id=25183,name="Voodoo Hex-Staff",source={ID=23390,SourceName="Bash'ir's Harbinger",SourceType="Kill",DropChance="5.2",Zone="Blade's Edge Mountains"}}
+items[25337] = {id=25337,name="Swarming Sting-Staff",source={ID=23354,SourceName="Mo'arg Incinerator",SourceType="Kill",DropChance="2.0",Zone="Blade's Edge Mountains"}}
 items[19963] = {id=19963,name="Pitchfork of Madness",source={ID=15084,SourceName="Renataki",SourceType="Kill",DropChance="49.7",Zone="Zul'Gurub"}}
 items[18481] = {id=18481,name="Skullcracking Mace",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="2.9",Zone="Dire Maul"}}
 items[30418] = {id=30418,name="Darkspear (Purple Glow)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -694,47 +694,47 @@ items[1521] = {id=1521,name="Lumbering Ogre Axe",source={ID=2719,SourceName="Dus
 items[2077] = {id=2077,name="Magician Staff",source={ID=6225,SourceName="Mechano-Tank",SourceType="Kill",DropChance="0.6",Zone="Gnomeregan"}}
 items[15810] = {id=15810,name="Short Spear",source={ID=1289,SourceName="Gunther Weller",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[1220] = {id=1220,name="Lupine Axe",source={ID=580,SourceName="Redridge Drudger",SourceType="Kill",DropChance="1.7",Zone="Redridge Mountains"}}
-items[15268] = {id=15268,name="Twin-bladed Axe",source={ID=17341,SourceName="Axxarien Trickster",SourceType="Kill",DropChance="0.9",Zone="Bloodmyst Isle"}}
+items[15268] = {id=15268,name="Twin-bladed Axe",source={ID=17341,SourceName="Axxarien Trickster",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
 items[4570] = {id=4570,name="Birchwood Maul",source={ID=2065,SourceName="Councilman Cooper",SourceType="Kill",DropChance="1.5",Zone="Silverpine Forest"}}
 items[24524] = {id=24524,name="130 Epic Warrior Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25169] = {id=25169,name="Fel Orc Brute Sword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25169] = {id=25169,name="Fel Orc Brute Sword",source={ID=23355,SourceName="Zarcsin",SourceType="Kill",DropChance="1.2",Zone="Blade's Edge Mountains"}}
 items[25182] = {id=25182,name="Crystal-Etched Warstaff",source={ID=17800,SourceName="Coilfang Myrmidon",SourceType="Kill",DropChance="25.0",Zone="The Steamvault"}}
 items[25138] = {id=25138,name="Blood Knight Maul",source={ID=16468,SourceName="Spectral Patron",SourceType="Kill",DropChance="6.6",Zone="Karazhan"}}
-items[25132] = {id=25132,name="Thrallmar War Hammer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25132] = {id=25132,name="Thrallmar War Hammer",source={ID=16769,SourceName="Firewing Warlock",SourceType="Kill",DropChance="0",Zone="Terokkar Forest"}}
 items[25159] = {id=25159,name="Thunderstrike Falchion",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25173] = {id=25173,name="Master's Bo Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25228] = {id=25228,name="Halberd Polearm",source={ID=19527,SourceName="Vacillating Voidcaller",SourceType="Kill",DropChance="4.5",Zone="Hellfire Peninsula"}}
 items[20487] = {id=20487,name="Lok'delar, Stave of the Ancient Keepers DEP",source={ID=23193,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30455] = {id=30455,name="Monster - 2H Typhoon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[12790] = {id=12790,name="Arcanite Champion",source={ID=16990,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[10844] = {id=10844,name="Spire of Hakkar",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="17.7",Zone="The Temple of Atal'Hakkar"}}
+items[10844] = {id=10844,name="Spire of Hakkar",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="17.6",Zone="The Temple of Atal'Hakkar"}}
 items[12772] = {id=12772,name="Inlaid Thorium Hammer",source={ID=16967,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[186051] = {id=186051,name="Communal Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[15105] = {id=15105,name="Staff of Noh'Orahil",source={ID=4975,SourceName="",SourceType="Quest",DropChance="0",Zone="Warlock"}}
+items[15105] = {id=15105,name="Staff of Noh'Orahil",source={ID=4975,SourceName="The Completed Orb of Noh'Orahil",SourceType="Quest",DropChance="0",Zone="Warlock"}}
 items[19569] = {id=19569,name="Advisor's Gnarled Staff",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[9486] = {id=9486,name="Supercharger Battle Axe",source={ID=6391,SourceName="Holdout Warrior",SourceType="Kill",DropChance="0.1",Zone="Gnomeregan"}}
 items[1198] = {id=1198,name="Claymore",source={ID=1287,SourceName="Marda Weller",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[6205] = {id=6205,name="Burrowing Shovel",source={ID=1424,SourceName="Master Digger",SourceType="Kill",DropChance="24.8",Zone="Westfall"}}
-items[35109] = {id=35109,name="Brutal Gladiator's War Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32830] = {id=32830,name="Severin's Cane",source={ID=11073,SourceName="",SourceType="Quest",DropChance="0",Zone="Skettis"}}
+items[6205] = {id=6205,name="Burrowing Shovel",source={ID=1424,SourceName="Master Digger",SourceType="Kill",DropChance="24.9",Zone="Westfall"}}
+items[35109] = {id=35109,name="Brutal Gladiator's War Staff",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32830] = {id=32830,name="Severin's Cane",source={ID=11073,SourceName="Terokk's Downfall",SourceType="Quest",DropChance="0",Zone="Skettis"}}
 items[23502] = {id=23502,name="Adamantite Maul",source={ID=29566,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[25163] = {id=25163,name="Elexorien Blade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25161] = {id=25161,name="Dragon Wing Blade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25163] = {id=25163,name="Elexorien Blade",source={ID=19980,SourceName="Void Terror",SourceType="Kill",DropChance="0.1",Zone="Blade's Edge Mountains"}}
+items[25161] = {id=25161,name="Dragon Wing Blade",source={ID=23163,SourceName="Gezzarak the Huntress",SourceType="Kill",DropChance="0.1",Zone="Terokkar Forest"}}
 items[25230] = {id=25230,name="Voulge Blade",source={ID=19350,SourceName="Thornfang Venomspitter",SourceType="Kill",DropChance="1.5",Zone="Hellfire Peninsula"}}
-items[25158] = {id=25158,name="Skeletal Broadsword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25158] = {id=25158,name="Skeletal Broadsword",source={ID=16847,SourceName="Debilitated Mag'har Grunt",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[25214] = {id=25214,name="Mok'Nathal Battleaxe",source={ID=16867,SourceName="Shattered Hand Grunt",SourceType="Kill",DropChance="1.4",Zone="Hellfire Peninsula"}}
 items[30753] = {id=30753,name="Warphorn Spear",source={ID=19001,SourceName="Talaara",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
-items[25156] = {id=25156,name="Royal Crusader Sword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25156] = {id=25156,name="Royal Crusader Sword",source={ID=25084,SourceName="Greengill Slave",SourceType="Kill",DropChance="0.1",Zone="Isle of Quel'Danas"}}
 items[19962] = {id=19962,name="Gri'lek's Carver",source={ID=15082,SourceName="Gri'lek",SourceType="Kill",DropChance="49.6",Zone="Zul'Gurub"}}
-items[15258] = {id=15258,name="Divine Warblade",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="7.6",Zone="Duskwood"}}
-items[13161] = {id=13161,name="Trindlehaven Staff",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="15.9",Zone="Blackrock Spire"}}
+items[15258] = {id=15258,name="Divine Warblade",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="7.7",Zone="Duskwood"}}
+items[13161] = {id=13161,name="Trindlehaven Staff",source={ID=9568,SourceName="Overlord Wyrmthalak",SourceType="Kill",DropChance="15.7",Zone="Blackrock Spire"}}
 items[18311] = {id=18311,name="Quel'dorai Channeling Rod",source={ID=14327,SourceName="Lethtendris",SourceType="Kill",DropChance="9.2",Zone="Dire Maul"}}
 items[2072] = {id=2072,name="Dwarven Magestaff",source={ID=11680,SourceName="Horde Scout",SourceType="Kill",DropChance="1.0",Zone="Ashenvale"}}
 items[2227] = {id=2227,name="Heavy Ogre War Axe",source={ID=892,SourceName="Splinter Fist Taskmaster",SourceType="Kill",DropChance="1.1",Zone="Duskwood"}}
 items[1485] = {id=1485,name="Pitchfork",source={ID=232,SourceName="Farmer Ray",SourceType="Kill",DropChance="16.0",Zone="Hillsbrad Foothills"}}
-items[25238] = {id=25238,name="Hellfire War Spear",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25238] = {id=25238,name="Hellfire War Spear",source={ID=22953,SourceName="Wrathbone Flayer",SourceType="Kill",DropChance="0.1",Zone="Black Temple"}}
 items[31082] = {id=31082,name="Monster - Mace, 2H Fathom-Lord Karathress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25139] = {id=25139,name="Algaz Battle Hammer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25139] = {id=25139,name="Algaz Battle Hammer",source={ID=21246,SourceName="Serpentshrine Sporebat",SourceType="Kill",DropChance="0.3",Zone="Serpentshrine Cavern"}}
 items[25222] = {id=25222,name="Ceremonial Slayer's Axe",source={ID=20394,SourceName="Eye of Culuthas",SourceType="Kill",DropChance="4.7",Zone="Netherstorm"}}
 items[25215] = {id=25215,name="Spiked Battle Axe",source={ID=17398,SourceName="Nascent Fel Orc",SourceType="Kill",DropChance="0.8",Zone="The Blood Furnace"}}
 items[25130] = {id=25130,name="Gronn-Bone Club",source={ID=17397,SourceName="Shadowmoon Adept",SourceType="Kill",DropChance="0.9",Zone="The Blood Furnace"}}
@@ -743,7 +743,7 @@ items[25212] = {id=25212,name="Lucky Strike Axe",source={ID=16847,SourceName="De
 items[21128] = {id=21128,name="Staff of the Qiraji Prophets",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="12.5",Zone="Ahn'Qiraj"}}
 items[19900] = {id=19900,name="Zulian Stone Axe",source={ID=14507,SourceName="High Priest Venoxis",SourceType="Kill",DropChance="18.5",Zone="Zul'Gurub"}}
 items[15273] = {id=15273,name="Death Striker",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.8",Zone="Azshara"}}
-items[11786] = {id=11786,name="Stone of the Earth",source={ID=8923,SourceName="Panzor the Invincible",SourceType="Kill",DropChance="24.9",Zone="Blackrock Depths"}}
+items[11786] = {id=11786,name="Stone of the Earth",source={ID=8923,SourceName="Panzor the Invincible",SourceType="Kill",DropChance="25.3",Zone="Blackrock Depths"}}
 items[15271] = {id=15271,name="Colossal Great Axe",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="2.3",Zone="Winterspring"}}
 items[15275] = {id=15275,name="Thaumaturgist Staff",source={ID=9677,SourceName="Ograbisi",SourceType="Kill",DropChance="0.4",Zone="Blackrock Depths"}}
 items[12764] = {id=12764,name="Thorium Greatsword",source={ID=16960,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -763,8 +763,8 @@ items[1991] = {id=1991,name="Goblin Power Shovel",source={ID=1094,SourceName="Ve
 items[2058] = {id=2058,name="Kazon's Maul",source={ID=584,SourceName="Kazon",SourceType="Kill",DropChance="24.1",Zone="Redridge Mountains"}}
 items[5194] = {id=5194,name="Taskmaster Axe",source={ID=643,SourceName="Sneed",SourceType="Kill",DropChance="27.8",Zone="The Deadmines"}}
 items[5749] = {id=5749,name="Scythe Axe",source={ID=2090,SourceName="Ma'ruk Wyrmscale",SourceType="Kill",DropChance="26.1",Zone="Wetlands"}}
-items[15248] = {id=15248,name="Gleaming Claymore",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.7",Zone="Bloodmyst Isle"}}
-items[25168] = {id=25168,name="Sha'tari Longsword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[15248] = {id=15248,name="Gleaming Claymore",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
+items[25168] = {id=25168,name="Sha'tari Longsword",source={ID=16504,SourceName="Arcane Protector",SourceType="Kill",DropChance="1.0",Zone="Karazhan"}}
 items[25336] = {id=25336,name="Splintering Greatstaff",source={ID=22143,SourceName="Gordunni Back-Breaker",SourceType="Kill",DropChance="10.0",Zone="Terokkar Forest"}}
 items[25236] = {id=25236,name="Grim Scythe",source={ID=18794,SourceName="Cabal Ritualist",SourceType="Kill",DropChance="12.5",Zone="Shadow Labyrinth"}}
 items[29377] = {id=29377,name="Ethereum Phase-Spear",source={ID=19536,SourceName="Dealer Jadyan",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
@@ -775,38 +775,38 @@ items[15264] = {id=15264,name="Backbreaker",source={ID=10662,SourceName="Spellma
 items[19572] = {id=19572,name="Lorekeeper's Staff",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[1523] = {id=1523,name="Huge Stone Club",source={ID=597,SourceName="Bloodscalp Berserker",SourceType="Kill",DropChance="0.9",Zone="Stranglethorn Vale"}}
 items[854] = {id=854,name="Quarter Staff",source={ID=1287,SourceName="Marda Weller",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[25229] = {id=25229,name="Partisan Polearm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25213] = {id=25213,name="Fel-Touched Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[3902] = {id=3902,name="Staff of Nobles",source={ID=596,SourceName="Brainwashed Noble",SourceType="Kill",DropChance="23.5",Zone="Unknown"}}
+items[25229] = {id=25229,name="Partisan Polearm",source={ID=16857,SourceName="Marauding Crust Burster",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
+items[25213] = {id=25213,name="Fel-Touched Axe",source={ID=17281,SourceName="Bonechewer Ripper",SourceType="Kill",DropChance="0.1",Zone="Hellfire Ramparts"}}
+items[3902] = {id=3902,name="Staff of Nobles",source={ID=596,SourceName="Brainwashed Noble",SourceType="Kill",DropChance="23.6",Zone="Unknown"}}
 items[4567] = {id=4567,name="Merc Sword",source={ID=2068,SourceName="Lord Mayor Morrison",SourceType="Kill",DropChance="1.5",Zone="Silverpine Forest"}}
-items[19970] = {id=19970,name="Arcanite Fishing Pole",source={ID=8193,SourceName="",SourceType="Quest",DropChance="0",Zone="Fishing"}}
-items[25978] = {id=25978,name="Seth's Graphite Fishing Pole",source={ID=10037,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[19970] = {id=19970,name="Arcanite Fishing Pole",source={ID=8193,SourceName="Master Angler",SourceType="Quest",DropChance="0",Zone="Fishing"}}
+items[25978] = {id=25978,name="Seth's Graphite Fishing Pole",source={ID=10037,SourceName="Rather Be Fishin'",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[32951] = {id=32951,name="Unusually Slow Two-Hander",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[6365] = {id=6365,name="Strong Fishing Pole",source={ID=1678,SourceName="Vernon Hale",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
-items[31062] = {id=31062,name="Torn-heart Axe of Battle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31038] = {id=31038,name="Staff of the Redeemer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[6256] = {id=6256,name="Fishing Pole",source={ID=9452,SourceName="",SourceType="Quest",DropChance="0",Zone="Azuremyst Isle"}}
-items[31036] = {id=31036,name="Oronok's Ancient Scepter",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25537] = {id=25537,name="Hewing Axe of the Marsh",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31062] = {id=31062,name="Torn-heart Axe of Battle",source={ID=10588,SourceName="The Cipher of Damnation",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31038] = {id=31038,name="Staff of the Redeemer",source={ID=10588,SourceName="The Cipher of Damnation",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[6256] = {id=6256,name="Fishing Pole",source={ID=9452,SourceName="Red Snapper - Very Tasty!",SourceType="Quest",DropChance="0",Zone="Azuremyst Isle"}}
+items[31036] = {id=31036,name="Oronok's Ancient Scepter",source={ID=10588,SourceName="The Cipher of Damnation",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[25537] = {id=25537,name="Hewing Axe of the Marsh",source={ID=9729,SourceName="Quests",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[2495] = {id=2495,name="Walking Stick",source={ID=54,SourceName="Corina Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[2489] = {id=2489,name="Two-handed Sword",source={ID=54,SourceName="Corina Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[20522] = {id=20522,name="Feral Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3488] = {id=3488,name="Copper Battle Axe",source={ID=3293,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[3335] = {id=3335,name="Farmer's Broom",source={ID=1935,SourceName="Tirisfal Farmhand",SourceType="Kill",DropChance="6.8",Zone="Tirisfal Glades"}}
 items[2493] = {id=2493,name="Wooden Mallet",source={ID=54,SourceName="Corina Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[2254] = {id=2254,name="Icepane Warhammer",source={ID=1119,SourceName="Hammerspine",SourceType="Kill",DropChance="21.5",Zone="Dun Morogh"}}
+items[2254] = {id=2254,name="Icepane Warhammer",source={ID=1119,SourceName="Hammerspine",SourceType="Kill",DropChance="21.4",Zone="Dun Morogh"}}
 items[2499] = {id=2499,name="Double-bladed Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[1195] = {id=1195,name="Kobold Mining Shovel",source={ID=475,SourceName="Kobold Tunneler",SourceType="Kill",DropChance="5.0",Zone="Elwynn Forest"}}
 items[35] = {id=35,name="Bent Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[7955] = {id=7955,name="Copper Claymore",source={ID=9983,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[4566] = {id=4566,name="Sturdy Quarterstaff",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
-items[1512] = {id=1512,name="Crude Battle Axe",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="3.0",Zone="Bloodmyst Isle"}}
+items[4566] = {id=4566,name="Sturdy Quarterstaff",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
+items[1512] = {id=1512,name="Crude Battle Axe",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="2.7",Zone="Bloodmyst Isle"}}
 items[2491] = {id=2491,name="Large Axe",source={ID=54,SourceName="Corina Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[2480] = {id=2480,name="Large Club",source={ID=78,SourceName="Janos Hammerknuckle",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[28365] = {id=28365,name="Monster - Glaive - Magtheridon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[1196] = {id=1196,name="Tabar",source={ID=1287,SourceName="Marda Weller",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[4938] = {id=4938,name="Blemished Wooden Staff",source={ID=835,SourceName="",SourceType="Quest",DropChance="0",Zone="Durotar"}}
-items[1411] = {id=1411,name="Withered Staff",source={ID=17279,SourceName="Venture Co. Gemologist",SourceType="Kill",DropChance="3.4",Zone="Azuremyst Isle"}}
+items[4938] = {id=4938,name="Blemished Wooden Staff",source={ID=835,SourceName="Securing the Lines",SourceType="Quest",DropChance="0",Zone="Durotar"}}
+items[1411] = {id=1411,name="Withered Staff",source={ID=2166,SourceName="Oakenscowl",SourceType="Kill",DropChance="3.4",Zone="Teldrassil"}}
 items[1386] = {id=1386,name="Thistlewood Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20853] = {id=20853,name="Mana Gathering Staff",source={ID=15289,SourceName="Raelis Dawnstar",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
 items[28916] = {id=28916,name="Monster - Sword2H, Sin'dorei Warblade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -815,24 +815,24 @@ items[34297] = {id=34297,name="Monster - Sword, 2H Blood Elf B01 Silver",source=
 items[2754] = {id=2754,name="Tarnished Bastard Sword",source={ID=1506,SourceName="Scarlet Convert",SourceType="Kill",DropChance="1.2",Zone="Tirisfal Glades"}}
 items[29662] = {id=29662,name="Monster - Axe, 2H Draenei D01 Pink",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32272] = {id=32272,name="Monster - Sword, Chromatically Tempered",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[1513] = {id=1513,name="Old Greatsword",source={ID=17210,SourceName="Sentinel Leader",SourceType="Kill",DropChance="5.1",Zone="Ghostlands"}}
-items[1515] = {id=1515,name="Rough Wooden Staff",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="5.3",Zone="The Barrens"}}
+items[1513] = {id=1513,name="Old Greatsword",source={ID=17210,SourceName="Sentinel Leader",SourceType="Kill",DropChance="6.6",Zone="Ghostlands"}}
+items[1515] = {id=1515,name="Rough Wooden Staff",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="5.2",Zone="The Barrens"}}
 items[2257] = {id=2257,name="Frostmane Staff",source={ID=1124,SourceName="Frostmane Shadowcaster",SourceType="Kill",DropChance="6.7",Zone="Dun Morogh"}}
 items[7094] = {id=7094,name="Driftwood Branch",source={ID=2030,SourceName="Elder Timberling",SourceType="Kill",DropChance="3.2",Zone="Teldrassil"}}
-items[8178] = {id=8178,name="Training Sword",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[8178] = {id=8178,name="Training Sword",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[3327] = {id=3327,name="Vile Fin Oracle Staff",source={ID=1544,SourceName="Vile Fin Minor Oracle",SourceType="Kill",DropChance="5.6",Zone="Tirisfal Glades"}}
 items[767] = {id=767,name="Long Bo Staff",source={ID=3141,SourceName="Makrura Elder",SourceType="Kill",DropChance="2.5",Zone="Durotar"}}
-items[1417] = {id=1417,name="Beaten Battle Axe",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="5.9",Zone="Eversong Woods"}}
+items[1417] = {id=1417,name="Beaten Battle Axe",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[23346] = {id=23346,name="Battleworn Claymore",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24321] = {id=24321,name="Monster - Staff, Blood Elf A02 Red",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24409] = {id=24409,name="Monster - Axe, 2H Grom's",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20784] = {id=20784,name="63 green shaman weapon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[1514] = {id=1514,name="Rusty Warhammer",source={ID=17528,SourceName="Tzerak",SourceType="Kill",DropChance="4.1",Zone="Bloodmyst Isle"}}
+items[1514] = {id=1514,name="Rusty Warhammer",source={ID=846,SourceName="Rotten Ghoul",SourceType="Kill",DropChance="3.3",Zone="Westfall"}}
 items[2067] = {id=2067,name="Frostbit Staff",source={ID=1117,SourceName="Rockjaw Bonesnapper",SourceType="Kill",DropChance="5.9",Zone="Dun Morogh"}}
-items[1414] = {id=1414,name="Cracked Sledge",source={ID=2166,SourceName="Oakenscowl",SourceType="Kill",DropChance="2.8",Zone="Teldrassil"}}
+items[1414] = {id=1414,name="Cracked Sledge",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="3.4",Zone="Eversong Woods"}}
 items[3325] = {id=3325,name="Vile Fin Battle Axe",source={ID=1545,SourceName="Vile Fin Muckdweller",SourceType="Kill",DropChance="5.0",Zone="Tirisfal Glades"}}
-items[3189] = {id=3189,name="Wood Chopper",source={ID=15641,SourceName="Amani Axe Thrower",SourceType="Kill",DropChance="0.9",Zone="Eversong Woods"}}
-items[1412] = {id=1412,name="Crude Bastard Sword",source={ID=15958,SourceName="Gharsul the Remorseless",SourceType="Kill",DropChance="3.7",Zone="Eversong Woods"}}
+items[3189] = {id=3189,name="Wood Chopper",source={ID=5809,SourceName="Watch Commander Zalaphil",SourceType="Kill",DropChance="0.9",Zone="Durotar"}}
+items[1412] = {id=1412,name="Crude Bastard Sword",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="3.4",Zone="Eversong Woods"}}
 items[2361] = {id=2361,name="Battleworn Hammer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3661] = {id=3661,name="Handcrafted Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[12282] = {id=12282,name="Worn Battleaxe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -853,7 +853,7 @@ items[30625] = {id=30625,name="Monster - Axe, 2H Arcanite Reaper (Green Glow)",s
 items[34310] = {id=34310,name="Monster - Sword, 2H Blood Elf C03 Green",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20796] = {id=20796,name="90 green shaman weapon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33979] = {id=33979,name="Monster - Zul'Aman - Hammer, 2H - Amani'shi Guardian",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[23553] = {id=23553,name="Living Branch",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="13.4",Zone="Eversong Woods"}}
+items[23553] = {id=23553,name="Living Branch",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="16.0",Zone="Eversong Woods"}}
 items[2501] = {id=2501,name="Wooden Warhammer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[1194] = {id=1194,name="Bastard Sword",source={ID=78,SourceName="Janos Hammerknuckle",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[2132] = {id=2132,name="Short Staff",source={ID=78,SourceName="Janos Hammerknuckle",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
@@ -875,10 +875,10 @@ items[35220] = {id=35220,name="Monster - Staff, Sunwell D02",source={ID=0,Source
 items[35714] = {id=35714,name="Monster - Staff, Velen",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23420] = {id=23420,name="Engraved Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23432] = {id=23432,name="Engraved Greatsword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[4562] = {id=4562,name="Severing Axe",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="15.0",Zone="Eversong Woods"}}
+items[4562] = {id=4562,name="Severing Axe",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="13.6",Zone="Eversong Woods"}}
 items[2487] = {id=2487,name="Acolyte Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[2486] = {id=2486,name="Large Stone Mace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[20978] = {id=20978,name="Apprentice's Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20978] = {id=20978,name="Apprentice's Staff",source={ID=24539,SourceName="\"Silvermoon\" Harry",SourceType="Purchase",DropChance="100",Zone="Zones"}}
 items[4760] = {id=4760,name="OLDThunderhorn Cleansing Totem",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[4762] = {id=4762,name="OLDWildmane Cleansing Totem",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23335] = {id=23335,name="Monster - Staff, (Thiah Redmane)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -1003,7 +1003,7 @@ items[30439] = {id=30439,name="Monster - Polearm, 2H Ruul",source={ID=0,SourceNa
 items[30636] = {id=30636,name="Monster - Sword, 2H Blood Elf A01 Yellow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32614] = {id=32614,name="Monster - Black Temple - Sword, 2H - Shadowmoon Weapon Master",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32924] = {id=32924,name="Monster - Axe, Afrasiabi Particle Glaive Polearm Magtheridon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[4564] = {id=4564,name="Spiked Club",source={ID=15407,SourceName="Chieftain Zul'Marosh",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
+items[4564] = {id=4564,name="Spiked Club",source={ID=15407,SourceName="Chieftain Zul'Marosh",SourceType="Kill",DropChance="1.7",Zone="Eversong Woods"}}
 items[9602] = {id=9602,name="Brushwood Blade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25520] = {id=25520,name="Monster - Polearm, Lantresor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[28739] = {id=28739,name="Monster - Staff, Anathema",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -1015,7 +1015,7 @@ items[34298] = {id=34298,name="Monster - Sword, 2H Blood Elf B02",source={ID=0,S
 items[34302] = {id=34302,name="Monster - Sword, 2H Blood Elf C01 Black",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34876] = {id=34876,name="Monster - Sunwell Raid - Sword, 2H DarkRed",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3738] = {id=3738,name="Brewing Rod",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[3192] = {id=3192,name="Short Bastard Sword",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[3192] = {id=3192,name="Short Bastard Sword",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[8177] = {id=8177,name="Practice Sword",source={ID=17217,SourceName="Barbed Crawler",SourceType="Kill",DropChance="1.6",Zone="Azuremyst Isle"}}
 items[2479] = {id=2479,name="Broad Axe",source={ID=78,SourceName="Janos Hammerknuckle",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[14083] = {id=14083,name="Tyrande's Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -1044,7 +1044,7 @@ items[34289] = {id=34289,name="Monster - Sword, 2H Blood Elf A01 Blue",source={I
 items[35712] = {id=35712,name="Monster - Sword, 2H Blood Elf C03 Blue (Med Blue Glow)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33983] = {id=33983,name="Monster - Zul'Aman - Staff, 2H - Amani'shi Flame Caster",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[2503] = {id=2503,name="Adept Short Staff",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[3190] = {id=3190,name="Beatstick",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="2.8",Zone="Eversong Woods"}}
+items[3190] = {id=3190,name="Beatstick",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="2.2",Zone="Eversong Woods"}}
 items[24512] = {id=24512,name="Monster - Axe, 2H Zul'Gurub Red",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[28067] = {id=28067,name="Monster - Staff, Atiesh (Medivh's)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[28125] = {id=28125,name="Monster - Sword2H, Vazruden",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}

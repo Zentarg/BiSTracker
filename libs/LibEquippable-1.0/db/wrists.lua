@@ -13,21 +13,21 @@ local names = {}
 items[19595] = {id=19595,name="Dryad's Wrist Bindings",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[19587] = {id=19587,name="Forest Stalker's Bracers",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[24250] = {id=24250,name="Bracers of Havok",source={ID=31435,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28411] = {id=28411,name="General's Silk Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28411] = {id=28411,name="General's Silk Cuffs",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[29527] = {id=29527,name="Primalstrike Bracers",source={ID=35591,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29246] = {id=29246,name="Nightfall Wristguards",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="37.4",Zone="Old Hillsbrad Foothills"}}
 items[19578] = {id=19578,name="Berserker Bracers",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[28978] = {id=28978,name="Marshal's Dragonhide Bracers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[28424] = {id=28424,name="General's Leather Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28424] = {id=28424,name="General's Leather Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28795] = {id=28795,name="Bladespire Warbands",source={ID=18831,SourceName="High King Maulgar",SourceType="Kill",DropChance="14.6",Zone="Gruul's Lair"}}
 items[29523] = {id=29523,name="Windhawk Bracers",source={ID=35588,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29002] = {id=29002,name="Marshal's Silk Cuffs",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[15084] = {id=15084,name="Wicked Leather Bracers",source={ID=19052,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[21186] = {id=21186,name="Rockfury Bracers",source={ID=8574,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
-items[28445] = {id=28445,name="General's Dragonhide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21186] = {id=21186,name="Rockfury Bracers",source={ID=8574,SourceName="Stalwart's Battlegear",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[28445] = {id=28445,name="General's Dragonhide Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[29521] = {id=29521,name="Netherstrike Bracers",source={ID=35584,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28381] = {id=28381,name="General's Plate Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28171] = {id=28171,name="Spymistress's Wristguards",source={ID=10091,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[28381] = {id=28381,name="General's Plate Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[28171] = {id=28171,name="Spymistress's Wristguards",source={ID=10091,SourceName="The Soul Devices",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[24249] = {id=24249,name="Unyielding Bracers",source={ID=31434,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29517] = {id=29517,name="Ebon Netherscale Bracers",source={ID=35577,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28515] = {id=28515,name="Bands of Nefarious Deeds",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="6.6",Zone="Karazhan"}}
@@ -41,45 +41,45 @@ items[28514] = {id=28514,name="Bracers of Maliciousness",source={ID=16457,Source
 items[28981] = {id=28981,name="Marshal's Dreadweave Cuffs",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[12425] = {id=12425,name="Imperial Plate Bracers",source={ID=16649,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28511] = {id=28511,name="Bands of Indwelling",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="6.6",Zone="Karazhan"}}
-items[28167] = {id=28167,name="Sha'tari Wrought Armguards",source={ID=10091,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[28167] = {id=28167,name="Sha'tari Wrought Armguards",source={ID=10091,SourceName="The Soul Devices",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[29183] = {id=29183,name="Bindings of the Timewalker",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
 items[30684] = {id=30684,name="Ravager's Cuffs",source={ID=16181,SourceName="Rokad the Ravager",SourceType="Kill",DropChance="52.9",Zone="Karazhan"}}
-items[28174] = {id=28174,name="Shattrath Wraps",source={ID=10091,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[28174] = {id=28174,name="Shattrath Wraps",source={ID=10091,SourceName="The Soul Devices",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[25697] = {id=25697,name="Felstalker Bracers",source={ID=32499,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28996] = {id=28996,name="Marshal's Plate Bracers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28477] = {id=28477,name="Harbinger Bands",source={ID=15550,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="11.8",Zone="Karazhan"}}
 items[28454] = {id=28454,name="Stalker's War Bands",source={ID=15550,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="13.1",Zone="Karazhan"}}
 items[19597] = {id=19597,name="Dryad's Wrist Bindings",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[16722] = {id=16722,name="Lightforge Bracers",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="4.3",Zone="Scholomance"}}
-items[32820] = {id=32820,name="Veteran's Silk Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32820] = {id=32820,name="Veteran's Silk Cuffs",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[28503] = {id=28503,name="Whirlwind Bracers",source={ID=15550,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="19.8",Zone="Karazhan"}}
 items[22671] = {id=22671,name="Icebane Bracers",source={ID=28244,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19582] = {id=19582,name="Windtalker's Wristguards",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[29252] = {id=29252,name="Bracers of Dignity",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="12.6",Zone="The Arcatraz"}}
 items[28453] = {id=28453,name="Bracers of the White Stag",source={ID=16152,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="15.7",Zone="Karazhan"}}
 items[19596] = {id=19596,name="Dryad's Wrist Bindings",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[30944] = {id=30944,name="Umberhowl's Collar",source={ID=10579,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[22424] = {id=22424,name="Redemption Wristguards",source={ID=9050,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[30944] = {id=30944,name="Umberhowl's Collar",source={ID=10579,SourceName="The Cipher of Damnation - The Third Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[22424] = {id=22424,name="Redemption Wristguards",source={ID=9050,SourceName="Redemption Wristguards",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[19687] = {id=19687,name="Primal Batskin Bracers",source={ID=24123,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28512] = {id=28512,name="Bracers of Justice",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="13.3",Zone="Karazhan"}}
 items[31599] = {id=31599,name="Marshal's Kodohide Bracers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[30399] = {id=30399,name="Nightstalker's Wristguards",source={ID=10223,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30399] = {id=30399,name="Nightstalker's Wristguards",source={ID=10223,SourceName="Down With Daellis",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[29249] = {id=29249,name="Bands of the Benevolent",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="21.4",Zone="Sethekk Halls"}}
 items[29463] = {id=29463,name="Amber Bands of the Aggressor",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="21.3",Zone="The Steamvault"}}
 items[32647] = {id=32647,name="Shard-bound Bracers",source={ID=23428,SourceName="Jho'nass",SourceType="Purchase",DropChance="100",Zone="Blade's Edge Mountains"}}
-items[9388] = {id=9388,name="Revelosh's Armguards",source={ID=6910,SourceName="Revelosh",SourceType="Kill",DropChance="21.0",Zone="Uldaman"}}
+items[9388] = {id=9388,name="Revelosh's Armguards",source={ID=6910,SourceName="Revelosh",SourceType="Kill",DropChance="21.1",Zone="Uldaman"}}
 items[29263] = {id=29263,name="Forestheart Bracers",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="23.7",Zone="The Shattered Halls"}}
-items[22471] = {id=22471,name="Earthshatter Wristguards",source={ID=9075,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22471] = {id=22471,name="Earthshatter Wristguards",source={ID=9075,SourceName="Earthshatter Wristguards",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[13106] = {id=13106,name="Glowing Magical Bracelets",source={ID=570,SourceName="Brain Eater",SourceType="Kill",DropChance="0",Zone="Duskwood"}}
-items[19827] = {id=19827,name="Zandalar Freethinker's Armguards",source={ID=8053,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19827] = {id=19827,name="Zandalar Freethinker's Armguards",source={ID=8053,SourceName="Paragons of Power: The Freethinker's Armguards",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[29966] = {id=29966,name="Vambraces of Ending",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="30.7",Zone="Tempest Keep"}}
 items[23539] = {id=23539,name="Blessed Bracers",source={ID=29672,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30685] = {id=30685,name="Ravager's Wrist-Wraps",source={ID=16181,SourceName="Rokad the Ravager",SourceType="Kill",DropChance="50.0",Zone="Karazhan"}}
-items[28405] = {id=28405,name="General's Dreadweave Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[16681] = {id=16681,name="Beaststalker's Bindings",source={ID=9096,SourceName="Rage Talon Dragonspawn",SourceType="Kill",DropChance="6.8",Zone="Blackrock Spire"}}
-items[16703] = {id=16703,name="Dreadmist Bracers",source={ID=9817,SourceName="Blackhand Dreadweaver",SourceType="Kill",DropChance="5.6",Zone="Blackrock Spire"}}
-items[22423] = {id=22423,name="Dreadnaught Bracers",source={ID=9042,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[22443] = {id=22443,name="Cryptstalker Wristguards",source={ID=9061,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[28405] = {id=28405,name="General's Dreadweave Cuffs",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[16681] = {id=16681,name="Beaststalker's Bindings",source={ID=9096,SourceName="Rage Talon Dragonspawn",SourceType="Kill",DropChance="6.9",Zone="Blackrock Spire"}}
+items[16703] = {id=16703,name="Dreadmist Bracers",source={ID=9817,SourceName="Blackhand Dreadweaver",SourceType="Kill",DropChance="5.7",Zone="Blackrock Spire"}}
+items[22423] = {id=22423,name="Dreadnaught Bracers",source={ID=9042,SourceName="Dreadnaught Bracers",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22443] = {id=22443,name="Cryptstalker Wristguards",source={ID=9061,SourceName="Cryptstalker Wristguards",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[29918] = {id=29918,name="Mindstorm Wristbands",source={ID=19514,SourceName="Al'ar",SourceType="Kill",DropChance="31.2",Zone="Tempest Keep"}}
 items[6407] = {id=6407,name="Nightsky Wristbands",source={ID=977,SourceName="Kurzen War Panther",SourceType="Kill",DropChance="0.1",Zone="Stranglethorn Vale"}}
 items[28984] = {id=28984,name="Marshal's Lamellar Bracers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -87,9 +87,9 @@ items[24023] = {id=24023,name="Bracers of Finesse",source={ID=17306,SourceName="
 items[16735] = {id=16735,name="Bracers of Valor",source={ID=10319,SourceName="Blackhand Iron Guard",SourceType="Kill",DropChance="5.8",Zone="Blackrock Spire"}}
 items[10333] = {id=10333,name="Scarlet Wristguards",source={ID=4290,SourceName="Scarlet Guardsman",SourceType="Kill",DropChance="2.5",Zone="Scarlet Monastery"}}
 items[14148] = {id=14148,name="Crystalline Cuffs",source={ID=11520,SourceName="Taragaman the Hungerer",SourceType="Kill",DropChance="30.3",Zone="Ragefire Chasm"}}
-items[28638] = {id=28638,name="General's Mail Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28638] = {id=28638,name="General's Mail Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28973] = {id=28973,name="Marshal's Chain Bracers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[16671] = {id=16671,name="Bindings of Elements",source={ID=11043,SourceName="Crimson Monk",SourceType="Kill",DropChance="4.1",Zone="Stratholme"}}
+items[16671] = {id=16671,name="Bindings of Elements",source={ID=11043,SourceName="Crimson Monk",SourceType="Kill",DropChance="4.2",Zone="Stratholme"}}
 items[24692] = {id=24692,name="Elementalist Bracelets",source={ID=22281,SourceName="Galvanoth",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
 items[30686] = {id=30686,name="Ravager's Bands",source={ID=16181,SourceName="Rokad the Ravager",SourceType="Kill",DropChance="50.5",Zone="Karazhan"}}
 items[22655] = {id=22655,name="Glacial Wrists",source={ID=28209,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -102,155 +102,155 @@ items[27827] = {id=27827,name="Lucid Dream Bracers",source={ID=18344,SourceName=
 items[28194] = {id=28194,name="Primal Surge Bracers",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="18.6",Zone="The Black Morass"}}
 items[16710] = {id=16710,name="Shadowcraft Bracers",source={ID=10505,SourceName="Instructor Malicia",SourceType="Kill",DropChance="4.5",Zone="Scholomance"}}
 items[19590] = {id=19590,name="Forest Stalker's Bracers",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[32810] = {id=32810,name="Veteran's Dragonhide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32977] = {id=32977,name="Marshal's Mooncloth Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32810] = {id=32810,name="Veteran's Dragonhide Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32977] = {id=32977,name="Marshal's Mooncloth Cuffs",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[29240] = {id=29240,name="Bands of Negation",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="18.1",Zone="Mana-Tombs"}}
 items[32655] = {id=32655,name="Crystalweave Bracers",source={ID=40748,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22668] = {id=22668,name="Bracers of Subterfuge",source={ID=9222,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[22668] = {id=22668,name="Bracers of Subterfuge",source={ID=9222,SourceName="Epic Armaments of Battle - Friend of the Dawn",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
 items[9409] = {id=9409,name="Ironaya's Bracers",source={ID=7228,SourceName="Ironaya",SourceType="Kill",DropChance="37.4",Zone="Uldaman"}}
-items[28029] = {id=28029,name="Goldenvine Wraps",source={ID=9738,SourceName="",SourceType="Quest",DropChance="0",Zone="Serpentshrine Cavern"}}
+items[28029] = {id=28029,name="Goldenvine Wraps",source={ID=9738,SourceName="Lost in Action",SourceType="Quest",DropChance="0",Zone="Serpentshrine Cavern"}}
 items[13969] = {id=13969,name="Loomguard Armbraces",source={ID=10506,SourceName="Kirtonos the Herald",SourceType="Kill",DropChance="18.6",Zone="Scholomance"}}
 items[32586] = {id=32586,name="Bracers of Nimble Thought",source={ID=41205,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[21604] = {id=21604,name="Bracelets of Royal Redemption",source={ID=15275,SourceName="Emperor Vek'nilash",SourceType="Kill",DropChance="20.8",Zone="Ahn'Qiraj"}}
-items[31598] = {id=31598,name="General's Kodohide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19830] = {id=19830,name="Zandalar Augur's Bracers",source={ID=8056,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[22519] = {id=22519,name="Bindings of Faith",source={ID=9118,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[31598] = {id=31598,name="General's Kodohide Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[19830] = {id=19830,name="Zandalar Augur's Bracers",source={ID=8056,SourceName="Paragons of Power: The Augur's Bracers",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[22519] = {id=22519,name="Bindings of Faith",source={ID=9118,SourceName="Bindings of Faith",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[22663] = {id=22663,name="Polar Bracers",source={ID=28221,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[21849] = {id=21849,name="Netherweave Bracers",source={ID=26764,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22511] = {id=22511,name="Plagueheart Bindings",source={ID=9110,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22511] = {id=22511,name="Plagueheart Bindings",source={ID=9110,SourceName="Plagueheart Bindings",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[24392] = {id=24392,name="Arcing Bracers",source={ID=17380,SourceName="Broggok",SourceType="Kill",DropChance="10.0",Zone="The Blood Furnace"}}
 items[30687] = {id=30687,name="Ravager's Bracers",source={ID=16181,SourceName="Rokad the Ravager",SourceType="Kill",DropChance="61.2",Zone="Karazhan"}}
-items[28646] = {id=28646,name="General's Scaled Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28646] = {id=28646,name="General's Scaled Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28999] = {id=28999,name="Marshal's Scaled Bracers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[30026] = {id=30026,name="Bands of the Celestial Archer",source={ID=20031,SourceName="Bloodwarder Legionnaire",SourceType="Kill",DropChance="1.2",Zone="Unknown"}}
 items[30057] = {id=30057,name="Bracers of Eradication",source={ID=21217,SourceName="The Lurker Below",SourceType="Kill",DropChance="25.8",Zone="Serpentshrine Cavern"}}
-items[32811] = {id=32811,name="Veteran's Dreadweave Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32811] = {id=32811,name="Veteran's Dreadweave Cuffs",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29255] = {id=29255,name="Bands of Rarefied Magic",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
-items[30225] = {id=30225,name="Junior Technician 3rd Grade Bracers",source={ID=10186,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[22503] = {id=22503,name="Frostfire Bindings",source={ID=9102,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[30225] = {id=30225,name="Junior Technician 3rd Grade Bracers",source={ID=10186,SourceName="You're Hired!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[22503] = {id=22503,name="Frostfire Bindings",source={ID=9102,SourceName="Frostfire Bindings",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[19584] = {id=19584,name="Windtalker's Wristguards",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[4118] = {id=4118,name="Poobah's Nose Ring",source={ID=630,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[4118] = {id=4118,name="Poobah's Nose Ring",source={ID=630,SourceName="Message in a Bottle",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[30047] = {id=30047,name="Blackfathom Warbands",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="33.2",Zone="Serpentshrine Cavern"}}
 items[21602] = {id=21602,name="Qiraji Execution Bracers",source={ID=15276,SourceName="Emperor Vek'lor",SourceType="Kill",DropChance="19.7",Zone="Ahn'Qiraj"}}
 items[22665] = {id=22665,name="Icy Scale Bracers",source={ID=28224,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19135] = {id=19135,name="Blacklight Bracer",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="16.8",Zone="Blasted Lands"}}
-items[19833] = {id=19833,name="Zandalar Predator's Bracers",source={ID=8062,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19840] = {id=19840,name="Zandalar Haruspex's Bracers",source={ID=8057,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19833] = {id=19833,name="Zandalar Predator's Bracers",source={ID=8062,SourceName="Paragons of Power: The Predator's Bracers",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19840] = {id=19840,name="Zandalar Haruspex's Bracers",source={ID=8057,SourceName="Paragons of Power: The Haruspex's Bracers",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[28992] = {id=28992,name="Marshal's Mail Bracers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[22495] = {id=22495,name="Dreamwalker Wristguards",source={ID=9093,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[30400] = {id=30400,name="Thadell's Bracers",source={ID=10337,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[9455] = {id=9455,name="Emissary Cuffs",source={ID=6228,SourceName="Dark Iron Ambassador",SourceType="Kill",DropChance="42.6",Zone="Gnomeregan"}}
-items[28643] = {id=28643,name="General's Lamellar Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22495] = {id=22495,name="Dreamwalker Wristguards",source={ID=9093,SourceName="Dreamwalker Wristguards",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[30400] = {id=30400,name="Thadell's Bracers",source={ID=10337,SourceName="When the Cows Come Home",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[9455] = {id=9455,name="Emissary Cuffs",source={ID=6228,SourceName="Dark Iron Ambassador",SourceType="Kill",DropChance="42.0",Zone="Gnomeregan"}}
+items[28643] = {id=28643,name="General's Lamellar Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[9433] = {id=9433,name="Forgotten Wraps",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[7924] = {id=7924,name="Mithril Scale Bracers",source={ID=9937,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30091] = {id=30091,name="True-Aim Stalker Bands",source={ID=21215,SourceName="Leotheras the Blind",SourceType="Kill",DropChance="17.7",Zone="Serpentshrine Cavern"}}
 items[3971] = {id=3971,name="Smooth Leather Bracers",source={ID=13576,SourceName="Stormpike Ram Rider",SourceType="Kill",DropChance="1.8",Zone="Alterac Valley"}}
 items[20916] = {id=20916,name="Unadorned Chain Bracers",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
-items[22483] = {id=22483,name="Bonescythe Bracers",source={ID=9084,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22483] = {id=22483,name="Bonescythe Bracers",source={ID=9084,SourceName="Bonescythe Bracers",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[18497] = {id=18497,name="Sublime Wristguards",source={ID=14323,SourceName="Guard Slip'kik",SourceType="Kill",DropChance="5.9",Zone="Dire Maul"}}
 items[28989] = {id=28989,name="Marshal's Linked Bracers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[18445] = {id=18445,name="Sergeant Major's Plate Wristguards",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[19824] = {id=19824,name="Zandalar Vindicator's Armguards",source={ID=8058,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19824] = {id=19824,name="Zandalar Vindicator's Armguards",source={ID=8058,SourceName="Paragons of Power: The Vindicator's Armguards",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[15077] = {id=15077,name="Heavy Scorpid Bracers",source={ID=19048,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[6040] = {id=6040,name="Golden Scale Bracers",source={ID=7223,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[18948] = {id=18948,name="Barbaric Bracers",source={ID=23399,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[13012] = {id=13012,name="Yorgen Bracers",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
-items[30927] = {id=30927,name="Earthmender's Bracer of Shattering",source={ID=10451,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30927] = {id=30927,name="Earthmender's Bracer of Shattering",source={ID=10451,SourceName="Escape from Coilskar Cistern",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[19374] = {id=19374,name="Bracers of Arcane Accuracy",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="26.6",Zone="Blackwing Lair"}}
-items[19843] = {id=19843,name="Zandalar Confessor's Wraps",source={ID=8061,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19843] = {id=19843,name="Zandalar Confessor's Wraps",source={ID=8061,SourceName="Paragons of Power: The Confessor's Wraps",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[13119] = {id=13119,name="Enchanted Kodo Bracers",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
 items[4796] = {id=4796,name="Owl Bracers",source={ID=844,SourceName="Antonio Perelli",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[32989] = {id=32989,name="Veteran's Ornamented Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32989] = {id=32989,name="Veteran's Ornamented Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27494] = {id=27494,name="Emerald Eye Bracer",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="22.2",Zone="The Blood Furnace"}}
 items[20481] = {id=20481,name="Spitfire Bracers",source={ID=24846,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19836] = {id=19836,name="Zandalar Madcap's Bracers",source={ID=8063,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19848] = {id=19848,name="Zandalar Demoniac's Wraps",source={ID=8059,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19836] = {id=19836,name="Zandalar Madcap's Bracers",source={ID=8063,SourceName="Paragons of Power: The Madcap's Bracers",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19848] = {id=19848,name="Zandalar Demoniac's Wraps",source={ID=8059,SourceName="Paragons of Power: The Demoniac's Wraps",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[18459] = {id=18459,name="Gallant's Wristguards",source={ID=14321,SourceName="Guard Fengus",SourceType="Kill",DropChance="12.5",Zone="Dire Maul"}}
 items[15331] = {id=15331,name="Wrangler's Wristbands",source={ID=5931,SourceName="Foreman Rigger",SourceType="Kill",DropChance="0.6",Zone="Stonetalon Mountains"}}
-items[14147] = {id=14147,name="Cavedweller Bracers",source={ID=11518,SourceName="Jergosh the Invoker",SourceType="Kill",DropChance="33.8",Zone="Ragefire Chasm"}}
-items[30332] = {id=30332,name="Ferocious Bands",source={ID=10425,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[14147] = {id=14147,name="Cavedweller Bracers",source={ID=11518,SourceName="Jergosh the Invoker",SourceType="Kill",DropChance="33.7",Zone="Ragefire Chasm"}}
+items[30332] = {id=30332,name="Ferocious Bands",source={ID=10425,SourceName="Escape from the Staging Grounds",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[16861] = {id=16861,name="Bracers of Might",source={ID=11673,SourceName="Ancient Core Hound",SourceType="Kill",DropChance="1.8",Zone="Molten Core"}}
 items[12626] = {id=12626,name="Funeral Cuffs",source={ID=9236,SourceName="Shadow Hunter Vosh'gajin",SourceType="Kill",DropChance="18.5",Zone="Blackrock Spire"}}
 items[13120] = {id=13120,name="Deepfury Bracers",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[19583] = {id=19583,name="Windtalker's Wristguards",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[30863] = {id=30863,name="Deadly Cuffs",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="14.8",Zone="Hyjal Summit"}}
 items[29006] = {id=29006,name="Marshal's Wyrmhide Bracers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[21611] = {id=21611,name="Burrower Bracers",source={ID=15517,SourceName="Ouro",SourceType="Kill",DropChance="17.9",Zone="Ahn'Qiraj"}}
+items[21611] = {id=21611,name="Burrower Bracers",source={ID=15517,SourceName="Ouro",SourceType="Kill",DropChance="18.0",Zone="Ahn'Qiraj"}}
 items[16951] = {id=16951,name="Judgement Bindings",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="12.9",Zone="Blackwing Lair"}}
 items[13107] = {id=13107,name="Magiskull Cuffs",source={ID=15740,SourceName="Colossus of Zora",SourceType="Kill",DropChance="75.0",Zone="Silithus"}}
 items[16714] = {id=16714,name="Wildheart Bracers",source={ID=10426,SourceName="Crimson Inquisitor",SourceType="Kill",DropChance="3.5",Zone="Stratholme"}}
 items[19589] = {id=19589,name="Forest Stalker's Bracers",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[32515] = {id=32515,name="Wristguards of Determination",source={ID=19516,SourceName="Void Reaver",SourceType="Kill",DropChance="3.5",Zone="Tempest Keep"}}
 items[32516] = {id=32516,name="Wraps of Purification",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="21.7",Zone="Serpentshrine Cavern"}}
-items[32818] = {id=32818,name="Veteran's Plate Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25778] = {id=25778,name="Manacles of Remembrance",source={ID=9948,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[32818] = {id=32818,name="Veteran's Plate Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[25778] = {id=25778,name="Manacles of Remembrance",source={ID=9948,SourceName="Finding the Survivors",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[23021] = {id=23021,name="The Soul Harvester's Bindings",source={ID=16060,SourceName="Gothik the Harvester",SourceType="Kill",DropChance="44.2",Zone="Naxxramas"}}
 items[12966] = {id=12966,name="Blackmist Armguards",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="20.2",Zone="Blackrock Spire"}}
-items[10391] = {id=10391,name="Hyperion Vambraces",source={ID=10198,SourceName="Kashoch the Reaver",SourceType="Kill",DropChance="9.2",Zone="Winterspring"}}
-items[11764] = {id=11764,name="Cinderhide Armsplints",source={ID=9017,SourceName="Lord Incendius",SourceType="Kill",DropChance="13.6",Zone="Blackrock Depths"}}
+items[10391] = {id=10391,name="Hyperion Vambraces",source={ID=10198,SourceName="Kashoch the Reaver",SourceType="Kill",DropChance="9.1",Zone="Winterspring"}}
+items[11764] = {id=11764,name="Cinderhide Armsplints",source={ID=9017,SourceName="Lord Incendius",SourceType="Kill",DropChance="13.7",Zone="Blackrock Depths"}}
 items[19580] = {id=19580,name="Berserker Bracers",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[3835] = {id=3835,name="Green Iron Bracers",source={ID=3501,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[3230] = {id=3230,name="Black Wolf Bracers",source={ID=4274,SourceName="Fenrus the Devourer",SourceType="Kill",DropChance="17.4",Zone="Shadowfang Keep"}}
-items[35170] = {id=35170,name="Guardian's Lamellar Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3230] = {id=3230,name="Black Wolf Bracers",source={ID=4274,SourceName="Fenrus the Devourer",SourceType="Kill",DropChance="17.3",Zone="Shadowfang Keep"}}
+items[35170] = {id=35170,name="Guardian's Lamellar Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30062] = {id=30062,name="Grove-Bands of Remulos",source={ID=21217,SourceName="The Lurker Below",SourceType="Kill",DropChance="25.3",Zone="Serpentshrine Cavern"}}
-items[28451] = {id=28451,name="General's Chain Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28451] = {id=28451,name="General's Chain Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[23093] = {id=23093,name="Wristwraps of Undead Slaying",source={ID=14697,SourceName="Lumbering Horror",SourceType="Kill",DropChance="23.6",Zone="Burning Steppes"}}
-items[22667] = {id=22667,name="Bracers of Hope",source={ID=9222,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[22667] = {id=22667,name="Bracers of Hope",source={ID=9222,SourceName="Epic Armaments of Battle - Friend of the Dawn",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
 items[11766] = {id=11766,name="Flameweave Cuffs",source={ID=9017,SourceName="Lord Incendius",SourceType="Kill",DropChance="13.4",Zone="Blackrock Depths"}}
 items[8264] = {id=8264,name="Ebonhold Wristguards",source={ID=5717,SourceName="Mijan",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
 items[10800] = {id=10800,name="Darkwater Bracers",source={ID=8580,SourceName="Atal'alarion",SourceType="Kill",DropChance="37.2",Zone="The Temple of Atal'Hakkar"}}
-items[34446] = {id=34446,name="Thunderheart Bands",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34446] = {id=34446,name="Thunderheart Bands",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32392] = {id=32392,name="Soulguard Bracers",source={ID=40021,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27452] = {id=27452,name="Light Scribe Bands",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
 items[23090] = {id=23090,name="Bracers of Undead Slaying",source={ID=16379,SourceName="Spirit of the Damned",SourceType="Kill",DropChance="22.3",Zone="Burning Steppes"}}
 items[10248] = {id=10248,name="Master's Bracers",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="4.8",Zone="Blasted Lands"}}
 items[14561] = {id=14561,name="Prospector's Cuffs",source={ID=5841,SourceName="Rocklance",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
 items[32584] = {id=32584,name="Swiftheal Wraps",source={ID=41207,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32809] = {id=32809,name="Veteran's Chain Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32980] = {id=32980,name="Veteran's Mooncloth Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28605] = {id=28605,name="General's Linked Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22936] = {id=22936,name="Wristguards of Vengeance",source={ID=15956,SourceName="Anub'Rekhan",SourceType="Kill",DropChance="33.8",Zone="Naxxramas"}}
-items[20616] = {id=20616,name="Dragonbone Wristguards",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="16.1",Zone="Duskwood"}}
-items[18375] = {id=18375,name="Bracers of the Eclipse",source={ID=11486,SourceName="Prince Tortheldrin",SourceType="Kill",DropChance="17.1",Zone="Dire Maul"}}
+items[32809] = {id=32809,name="Veteran's Chain Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32980] = {id=32980,name="Veteran's Mooncloth Cuffs",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[28605] = {id=28605,name="General's Linked Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[22936] = {id=22936,name="Wristguards of Vengeance",source={ID=15956,SourceName="Anub'Rekhan",SourceType="Kill",DropChance="33.7",Zone="Naxxramas"}}
+items[20616] = {id=20616,name="Dragonbone Wristguards",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="16.2",Zone="Duskwood"}}
+items[18375] = {id=18375,name="Bracers of the Eclipse",source={ID=11486,SourceName="Prince Tortheldrin",SourceType="Kill",DropChance="17.2",Zone="Dire Maul"}}
 items[20476] = {id=20476,name="Sandstalker Bracers",source={ID=24849,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14320] = {id=14320,name="Resplendent Bracelets",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.1",Zone="Winterspring"}}
 items[10096] = {id=10096,name="Councillor's Cuffs",source={ID=9602,SourceName="Hahk'Zor",SourceType="Kill",DropChance="3.8",Zone="Burning Steppes"}}
 items[18455] = {id=18455,name="Sergeant Major's Dragonhide Armsplints",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[5943] = {id=5943,name="Rift Bracers",source={ID=4627,SourceName="Arugal's Voidwalker",SourceType="Kill",DropChance="2.3",Zone="Shadowfang Keep"}}
-items[3202] = {id=3202,name="Forest Leather Bracers",source={ID=16246,SourceName="Knucklerot",SourceType="Kill",DropChance="0.8",Zone="Ghostlands"}}
-items[34444] = {id=34444,name="Thunderheart Wristguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35174] = {id=35174,name="Guardian's Mooncloth Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3202] = {id=3202,name="Forest Leather Bracers",source={ID=16246,SourceName="Knucklerot",SourceType="Kill",DropChance="0.7",Zone="Ghostlands"}}
+items[34444] = {id=34444,name="Thunderheart Wristguards",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[35174] = {id=35174,name="Guardian's Mooncloth Cuffs",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32324] = {id=32324,name="Insidious Bands",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="39.2",Zone="Unknown"}}
 items[27746] = {id=27746,name="Arcanium Signet Bands",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
 items[23515] = {id=23515,name="Flamebane Bracers",source={ID=29614,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27517] = {id=27517,name="Bands of Nethekurse",source={ID=16807,SourceName="Grand Warlock Nethekurse",SourceType="Kill",DropChance="20.0",Zone="The Shattered Halls"}}
-items[18754] = {id=18754,name="Fel Hardened Bracers",source={ID=14506,SourceName="Lord Hel'nurath",SourceType="Kill",DropChance="23.6",Zone="Dire Maul"}}
+items[18754] = {id=18754,name="Fel Hardened Bracers",source={ID=14506,SourceName="Lord Hel'nurath",SourceType="Kill",DropChance="23.4",Zone="Dire Maul"}}
 items[10136] = {id=10136,name="High Councillor's Bracers",source={ID=10198,SourceName="Kashoch the Reaver",SourceType="Kill",DropChance="5.2",Zone="Winterspring"}}
 items[13135] = {id=13135,name="Lordly Armguards",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[8083] = {id=8083,name="Light Plate Bracers",source={ID=14285,SourceName="Frostwolf Battleguard",SourceType="Kill",DropChance="0.8",Zone="Alterac Valley"}}
 items[14301] = {id=14301,name="Bonecaster's Bindings",source={ID=6189,SourceName="Timbermaw Ursa",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
 items[18436] = {id=18436,name="First Sergeant's Dragonhide Armguards",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[19581] = {id=19581,name="Berserker Bracers",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[7355] = {id=7355,name="Elder's Bracers",source={ID=6523,SourceName="Dark Iron Rifleman",SourceType="Kill",DropChance="23.1",Zone="Wetlands"}}
+items[7355] = {id=7355,name="Elder's Bracers",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
 items[1974] = {id=1974,name="Mindthrust Bracers",source={ID=3854,SourceName="Shadowfang Wolfguard",SourceType="Kill",DropChance="0",Zone="Shadowfang Keep"}}
 items[7281] = {id=7281,name="Light Leather Bracers",source={ID=9065,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[34448] = {id=34448,name="Slayer's Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34448] = {id=34448,name="Slayer's Bracers",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32351] = {id=32351,name="Elunite Empowered Bracers",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
-items[33901] = {id=33901,name="Vindicator's Mooncloth Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32973] = {id=32973,name="General's Mooncloth Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33901] = {id=33901,name="Vindicator's Mooncloth Cuffs",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32973] = {id=32973,name="General's Mooncloth Cuffs",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[21464] = {id=21464,name="Shackles of the Unscarred",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="30.3",Zone="Ruins of Ahn'Qiraj"}}
-items[20681] = {id=20681,name="Abyssal Leather Bracers",source={ID=15203,SourceName="Prince Skaldrenox",SourceType="Kill",DropChance="35.3",Zone="Silithus"}}
+items[20681] = {id=20681,name="Abyssal Leather Bracers",source={ID=15203,SourceName="Prince Skaldrenox",SourceType="Kill",DropChance="35.4",Zone="Silithus"}}
 items[10213] = {id=10213,name="Elegant Bracers",source={ID=1844,SourceName="Foreman Marcrid",SourceType="Kill",DropChance="5.8",Zone="Western Plaguelands"}}
-items[13409] = {id=13409,name="Tearfall Bracers",source={ID=10516,SourceName="The Unforgiven",SourceType="Kill",DropChance="18.2",Zone="Stratholme"}}
+items[13409] = {id=13409,name="Tearfall Bracers",source={ID=10516,SourceName="The Unforgiven",SourceType="Kill",DropChance="17.9",Zone="Stratholme"}}
 items[18437] = {id=18437,name="First Sergeant's Silk Cuffs",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[18453] = {id=18453,name="Sergeant Major's Leather Armsplints",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[9896] = {id=9896,name="Jazeraint Bracers",source={ID=14233,SourceName="Ripscale",SourceType="Kill",DropChance="5.1",Zone="Dustwallow Marsh"}}
 items[14402] = {id=14402,name="Resilient Bands",source={ID=4066,SourceName="Nal'taszar",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
 items[9793] = {id=9793,name="Ivycloth Bracelets",source={ID=14424,SourceName="Mirelow",SourceType="Kill",DropChance="3.8",Zone="Wetlands"}}
 items[2867] = {id=2867,name="Rough Bronze Bracers",source={ID=2671,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[35169] = {id=35169,name="Guardian's Kodohide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33588] = {id=33588,name="Runed Spell-cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32997] = {id=32997,name="Veteran's Ringmail Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35169] = {id=35169,name="Guardian's Kodohide Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33588] = {id=33588,name="Runed Spell-cuffs",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[32997] = {id=32997,name="Veteran's Ringmail Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29243] = {id=29243,name="Wave-Fury Vambraces",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="22.7",Zone="The Steamvault"}}
 items[16911] = {id=16911,name="Bloodfang Bracers",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="23.3",Zone="Blackwing Lair"}}
 items[16825] = {id=16825,name="Nightslayer Bracelets",source={ID=11661,SourceName="Flamewaker",SourceType="Kill",DropChance="1.8",Zone="Molten Core"}}
@@ -258,36 +258,36 @@ items[16830] = {id=16830,name="Cenarion Bracers",source={ID=11673,SourceName="An
 items[16532] = {id=16532,name="First Sergeant's Mail Wristguards",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[19112] = {id=19112,name="Frozen Steel Vambraces",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[11765] = {id=11765,name="Pyremail Wristguards",source={ID=9017,SourceName="Lord Incendius",SourceType="Kill",DropChance="13.1",Zone="Blackrock Depths"}}
-items[11917] = {id=11917,name="Shizzle's Nozzle Wiper",source={ID=4503,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[11917] = {id=11917,name="Shizzle's Nozzle Wiper",source={ID=4503,SourceName="Shizzle's Flyer",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
 items[14311] = {id=14311,name="Celestial Bindings",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[18712] = {id=18712,name="Arena Vambraces",source={ID=179697,SourceName="Arena Treasure Chest",SourceType="Container",DropChance="9.0",Zone="Stranglethorn Vale"}}
 items[7378] = {id=7378,name="Dusky Bracers",source={ID=9201,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4438] = {id=4438,name="Pugilist Bracers",source={ID=4522,SourceName="Razorfen Dustweaver",SourceType="Kill",DropChance="0.1",Zone="Razorfen Kraul"}}
 items[6602] = {id=6602,name="Dervish Bracers",source={ID=10640,SourceName="Oakpaw",SourceType="Kill",DropChance="7.7",Zone="Ashenvale"}}
-items[6902] = {id=6902,name="Bands of Serra'kis",source={ID=4830,SourceName="Old Serra'kis",SourceType="Kill",DropChance="33.1",Zone="Blackfathom Deeps"}}
+items[6902] = {id=6902,name="Bands of Serra'kis",source={ID=4830,SourceName="Old Serra'kis",SourceType="Kill",DropChance="33.2",Zone="Blackfathom Deeps"}}
 items[3647] = {id=3647,name="Bright Bracers",source={ID=7053,SourceName="Klaven Mortwake",SourceType="Kill",DropChance="0.8",Zone="Westfall"}}
-items[34436] = {id=34436,name="Bracers of the Malefic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34441] = {id=34441,name="Onslaught Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34447] = {id=34447,name="Bracers of the Tempest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34436] = {id=34436,name="Bracers of the Malefic",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34441] = {id=34441,name="Onslaught Bracers",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34447] = {id=34447,name="Bracers of the Tempest",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32582] = {id=32582,name="Bracers of Renewed Life",source={ID=41156,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[33516] = {id=33516,name="Bracers of the Ancient Phalanx",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32814] = {id=32814,name="Veteran's Leather Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33516] = {id=33516,name="Bracers of the Ancient Phalanx",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[32814] = {id=32814,name="Veteran's Leather Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27489] = {id=27489,name="Virtue Bearer's Vambraces",source={ID=17380,SourceName="Broggok",SourceType="Kill",DropChance="19.3",Zone="The Blood Furnace"}}
 items[21866] = {id=21866,name="Arcanoweave Bracers",source={ID=26782,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27918] = {id=27918,name="Bands of Syth",source={ID=18472,SourceName="Darkweaver Syth",SourceType="Kill",DropChance="28.5",Zone="Sethekk Halls"}}
-items[31531] = {id=31531,name="Wraithcloth Bindings",source={ID=10607,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31531] = {id=31531,name="Wraithcloth Bindings",source={ID=10607,SourceName="Whispers of the Raven God",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[31223] = {id=31223,name="Illidari Wristguards",source={ID=18695,SourceName="Ambassador Jerrikar",SourceType="Kill",DropChance="40.2",Zone="Unknown"}}
 items[31225] = {id=31225,name="Illidari Bindings",source={ID=18695,SourceName="Ambassador Jerrikar",SourceType="Kill",DropChance="46.5",Zone="Unknown"}}
 items[23091] = {id=23091,name="Bracers of Undead Cleansing",source={ID=14697,SourceName="Lumbering Horror",SourceType="Kill",DropChance="21.6",Zone="Burning Steppes"}}
 items[14330] = {id=14330,name="Eternal Bindings",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.7",Zone="Azshara"}}
-items[13179] = {id=13179,name="Brazecore Armguards",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="19.8",Zone="Blackrock Spire"}}
-items[14983] = {id=14983,name="Exalted Armsplints",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.5",Zone="Azshara"}}
+items[13179] = {id=13179,name="Brazecore Armguards",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="19.6",Zone="Blackrock Spire"}}
+items[14983] = {id=14983,name="Exalted Armsplints",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.6",Zone="Azshara"}}
 items[17014] = {id=17014,name="Dark Iron Bracers",source={ID=20874,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[8302] = {id=8302,name="Hero's Bracers",source={ID=9605,SourceName="Blackrock Raider",SourceType="Kill",DropChance="0.6",Zone="Burning Steppes"}}
 items[12546] = {id=12546,name="Aristocratic Cuffs",source={ID=9029,SourceName="Eviscerator",SourceType="Kill",DropChance="0.2",Zone="Blackrock Depths"}}
 items[10191] = {id=10191,name="Crusader's Armguards",source={ID=6652,SourceName="Master Feardred",SourceType="Kill",DropChance="4.2",Zone="Azshara"}}
 items[18449] = {id=18449,name="Sergeant Major's Chain Armguards",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[4002] = {id=4002,name="Overlinked Chain Bracers",source={ID=10080,SourceName="Sandarr Dunereaver",SourceType="Kill",DropChance="0.9",Zone="Zul'Farrak"}}
+items[4002] = {id=4002,name="Overlinked Chain Bracers",source={ID=24819,SourceName="Anvilrage Enforcer",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
 items[9829] = {id=9829,name="Scaled Leather Bracers",source={ID=14427,SourceName="Gibblesnik",SourceType="Kill",DropChance="71.9",Zone="Thousand Needles"}}
 items[14187] = {id=14187,name="Raincaller Cuffs",source={ID=4522,SourceName="Razorfen Dustweaver",SourceType="Kill",DropChance="1.2",Zone="Razorfen Kraul"}}
 items[3212] = {id=3212,name="Lambent Scale Bracers",source={ID=521,SourceName="Lupos",SourceType="Kill",DropChance="0.2",Zone="Duskwood"}}
@@ -299,28 +299,28 @@ items[15499] = {id=15499,name="Outrunner's Cuffs",source={ID=3295,SourceName="Sl
 items[6543] = {id=6543,name="Willow Bracers",source={ID=14268,SourceName="Lord Condar",SourceType="Kill",DropChance="5.4",Zone="Loch Modan"}}
 items[2384] = {id=2384,name="Tarnished Chain Bracers",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
 items[21003] = {id=21003,name="Unkempt Bracers",source={ID=15271,SourceName="Tender",SourceType="Kill",DropChance="2.0",Zone="Eversong Woods"}}
-items[35179] = {id=35179,name="Guardian's Silk Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35179] = {id=35179,name="Guardian's Silk Cuffs",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30864] = {id=30864,name="Bracers of the Pathfinder",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="15.6",Zone="Hyjal Summit"}}
 items[32270] = {id=32270,name="Focused Mana Bindings",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="16.2",Zone="Black Temple"}}
 items[32577] = {id=32577,name="Living Earth Bindings",source={ID=41163,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[33285] = {id=33285,name="Fury of the Ursine",source={ID=23576,SourceName="Nalorakk",SourceType="Kill",DropChance="14.1",Zone="Unknown"}}
-items[33557] = {id=33557,name="Gargon's Bracers of Peaceful Slumber",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33557] = {id=33557,name="Gargon's Bracers of Peaceful Slumber",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31582] = {id=31582,name="Slatesteel Bracers",source={ID=23161,SourceName="Darkscreecher Akkarai",SourceType="Kill",DropChance="3.7",Zone="Unknown"}}
-items[30956] = {id=30956,name="Oronok's Old Bracers",source={ID=10523,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[25960] = {id=25960,name="Talonstalker Bracers",source={ID=10861,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[30956] = {id=30956,name="Oronok's Old Bracers",source={ID=10523,SourceName="The Cipher of Damnation - The First Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[25960] = {id=25960,name="Talonstalker Bracers",source={ID=10861,SourceName="Veil Lithic: Preemptive Strike",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[21618] = {id=21618,name="Hive Defiler Wristguards",source={ID=15509,SourceName="Princess Huhuran",SourceType="Kill",DropChance="25.2",Zone="Ahn'Qiraj"}}
 items[21502] = {id=21502,name="Sand Reaver Wristguards",source={ID=15348,SourceName="Kurinnaxx",SourceType="Kill",DropChance="30.7",Zone="Ruins of Ahn'Qiraj"}}
 items[18434] = {id=18434,name="First Sergeant's Dragonhide Armguards",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[18448] = {id=18448,name="Sergeant Major's Chain Armguards",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[18525] = {id=18525,name="Bracers of Prosperity",source={ID=11501,SourceName="King Gordok",SourceType="Kill",DropChance="23.8",Zone="Dire Maul"}}
-items[21184] = {id=21184,name="Deeprock Bracers",source={ID=8574,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[21184] = {id=21184,name="Deeprock Bracers",source={ID=8574,SourceName="Stalwart's Battlegear",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[18351] = {id=18351,name="Magically Sealed Bracers",source={ID=11487,SourceName="Magister Kalendris",SourceType="Kill",DropChance="23.5",Zone="Dire Maul"}}
-items[19846] = {id=19846,name="Zandalar Illusionist's Wraps",source={ID=8060,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19846] = {id=19846,name="Zandalar Illusionist's Wraps",source={ID=8060,SourceName="Paragons of Power: The Illusionist's Wraps",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[18458] = {id=18458,name="Modest Armguards",source={ID=14321,SourceName="Guard Fengus",SourceType="Kill",DropChance="10.4",Zone="Dire Maul"}}
-items[22204] = {id=22204,name="Wristguards of Renown",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="18.4",Zone="Blackrock Depths"}}
-items[8295] = {id=8295,name="Traveler's Bracers",source={ID=7046,SourceName="Searscale Drake",SourceType="Kill",DropChance="0.5",Zone="Burning Steppes"}}
-items[11679] = {id=11679,name="Rubicund Armguards",source={ID=9029,SourceName="Eviscerator",SourceType="Kill",DropChance="31.3",Zone="Blackrock Depths"}}
-items[14448] = {id=14448,name="Highborne Bracelets",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
+items[22204] = {id=22204,name="Wristguards of Renown",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="18.5",Zone="Blackrock Depths"}}
+items[8295] = {id=8295,name="Traveler's Bracers",source={ID=7046,SourceName="Searscale Drake",SourceType="Kill",DropChance="0.8",Zone="Burning Steppes"}}
+items[11679] = {id=11679,name="Rubicund Armguards",source={ID=9029,SourceName="Eviscerator",SourceType="Kill",DropChance="31.2",Zone="Blackrock Depths"}}
+items[14448] = {id=14448,name="Highborne Bracelets",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
 items[14861] = {id=14861,name="Vanguard Vambraces",source={ID=8198,SourceName="Tick",SourceType="Kill",DropChance="0.6",Zone="Tanaris"}}
 items[18457] = {id=18457,name="Sergeant Major's Silk Cuffs",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[10632] = {id=10632,name="Slimescale Bracers",source={ID=5280,SourceName="Nightmare Wyrmkin",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
@@ -337,39 +337,39 @@ items[4049] = {id=4049,name="Emblazoned Bracers",source={ID=1034,SourceName="Dra
 items[4036] = {id=4036,name="Silver-thread Cuffs",source={ID=1014,SourceName="Mosshide Alpha",SourceType="Kill",DropChance="0.3",Zone="Wetlands"}}
 items[4795] = {id=4795,name="Bear Bracers",source={ID=844,SourceName="Antonio Perelli",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[12999] = {id=12999,name="Drakewing Bands",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
-items[6574] = {id=6574,name="Defender Bracers",source={ID=10559,SourceName="Lady Vespia",SourceType="Kill",DropChance="5.0",Zone="Ashenvale"}}
+items[6574] = {id=6574,name="Defender Bracers",source={ID=10559,SourceName="Lady Vespia",SourceType="Kill",DropChance="4.9",Zone="Ashenvale"}}
 items[9785] = {id=9785,name="Raider's Bracers",source={ID=15810,SourceName="Eroded Anubisath Warbringer",SourceType="Kill",DropChance="13.7",Zone="The Barrens"}}
 items[2396] = {id=2396,name="Light Mail Bracers",source={ID=1240,SourceName="Boran Ironclink",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
 items[3603] = {id=3603,name="Knitted Bracers",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[20922] = {id=20922,name="Sun Cured Bracers",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
-items[2651] = {id=2651,name="Flimsy Chain Bracers",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="9.0",Zone="Azuremyst Isle"}}
-items[34434] = {id=34434,name="Bracers of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34445] = {id=34445,name="Thunderheart Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35178] = {id=35178,name="Guardian's Scaled Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2651] = {id=2651,name="Flimsy Chain Bracers",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="8.6",Zone="Azuremyst Isle"}}
+items[34434] = {id=34434,name="Bracers of Absolution",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34445] = {id=34445,name="Thunderheart Bracers",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[35178] = {id=35178,name="Guardian's Scaled Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30861] = {id=30861,name="Furious Shackles",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="14.8",Zone="Hyjal Summit"}}
 items[30871] = {id=30871,name="Bracers of Martyrdom",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="17.7",Zone="Hyjal Summit"}}
 items[32574] = {id=32574,name="Bindings of Lightning Reflexes",source={ID=41161,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[33876] = {id=33876,name="Vindicator's Chain Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33917] = {id=33917,name="Vindicator's Wyrmhide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33513] = {id=33513,name="Eternium Rage-shackles",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28448] = {id=28448,name="General's Wyrmhide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30520] = {id=30520,name="Gold-Trimmed Cuffs",source={ID=10440,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[29955] = {id=29955,name="Mana Infused Wristguards",source={ID=10185,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[25623] = {id=25623,name="Bracers of the Battle Cleric",source={ID=9907,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[25961] = {id=25961,name="Feathered Wrist Cuffs",source={ID=10861,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[33876] = {id=33876,name="Vindicator's Chain Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33917] = {id=33917,name="Vindicator's Wyrmhide Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33513] = {id=33513,name="Eternium Rage-shackles",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28448] = {id=28448,name="General's Wyrmhide Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30520] = {id=30520,name="Gold-Trimmed Cuffs",source={ID=10440,SourceName="Success!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29955] = {id=29955,name="Mana Infused Wristguards",source={ID=10185,SourceName="A Fate Worse Than Death",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[25623] = {id=25623,name="Bracers of the Battle Cleric",source={ID=9907,SourceName="An Audacious Advance",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25961] = {id=25961,name="Feathered Wrist Cuffs",source={ID=10861,SourceName="Veil Lithic: Preemptive Strike",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[24933] = {id=24933,name="Ango'rosh Vambraces",source={ID=17269,SourceName="Bleeding Hollow Darkcaster",SourceType="Kill",DropChance="1.2",Zone="Hellfire Ramparts"}}
 items[16934] = {id=16934,name="Nemesis Bracers",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="21.4",Zone="Blackwing Lair"}}
 items[16959] = {id=16959,name="Bracelets of Wrath",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="23.7",Zone="Blackwing Lair"}}
 items[21457] = {id=21457,name="Bracers of Brutality",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="26.9",Zone="Ruins of Ahn'Qiraj"}}
 items[21496] = {id=21496,name="Bracers of Qiraji Command",source={ID=15341,SourceName="General Rajaxx",SourceType="Kill",DropChance="34.7",Zone="Ruins of Ahn'Qiraj"}}
-items[20690] = {id=20690,name="Abyssal Cloth Wristbands",source={ID=15204,SourceName="High Marshal Whirlaxis",SourceType="Kill",DropChance="30.8",Zone="Silithus"}}
+items[20690] = {id=20690,name="Abyssal Cloth Wristbands",source={ID=15204,SourceName="High Marshal Whirlaxis",SourceType="Kill",DropChance="30.7",Zone="Silithus"}}
 items[16804] = {id=16804,name="Felheart Bracers",source={ID=12119,SourceName="Flamewaker Protector",SourceType="Kill",DropChance="1.9",Zone="Molten Core"}}
 items[12936] = {id=12936,name="Battleborn Armbraces",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="19.0",Zone="Blackrock Spire"}}
 items[18429] = {id=18429,name="First Sergeant's Plate Bracers",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[21074] = {id=21074,name="63 Blue Shadow Bindings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22313] = {id=22313,name="Ironweave Bracers",source={ID=10220,SourceName="Halycon",SourceType="Kill",DropChance="20.6",Zone="Blackrock Spire"}}
+items[22313] = {id=22313,name="Ironweave Bracers",source={ID=10220,SourceName="Halycon",SourceType="Kill",DropChance="20.5",Zone="Blackrock Spire"}}
 items[15436] = {id=15436,name="Supreme Bracers",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="6.7",Zone="Duskwood"}}
-items[18726] = {id=18726,name="Magistrate's Cuffs",source={ID=10435,SourceName="Magistrate Barthilas",SourceType="Kill",DropChance="14.4",Zone="Stratholme"}}
+items[18726] = {id=18726,name="Magistrate's Cuffs",source={ID=10435,SourceName="Magistrate Barthilas",SourceType="Kill",DropChance="14.5",Zone="Stratholme"}}
 items[15668] = {id=15668,name="Magnificent Bracers",source={ID=6583,SourceName="Gruff",SourceType="Kill",DropChance="0.6",Zone="Un'Goro Crater"}}
 items[11767] = {id=11767,name="Emberplate Armguards",source={ID=9017,SourceName="Lord Incendius",SourceType="Kill",DropChance="13.5",Zone="Blackrock Depths"}}
 items[8311] = {id=8311,name="Alabaster Plate Vambraces",source={ID=7045,SourceName="Scalding Drake",SourceType="Kill",DropChance="0.6",Zone="Burning Steppes"}}
@@ -379,26 +379,26 @@ items[10239] = {id=10239,name="Heavy Lamellar Vambraces",source={ID=8212,SourceN
 items[18435] = {id=18435,name="First Sergeant's Leather Armguards",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[14788] = {id=14788,name="Protector Armguards",source={ID=14339,SourceName="Death Howl",SourceType="Kill",DropChance="0.8",Zone="Felwood"}}
 items[8125] = {id=8125,name="Myrmidon's Bracers",source={ID=8497,SourceName="Nightmare Suppressor",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
-items[9949] = {id=9949,name="Chieftain's Bracers",source={ID=5346,SourceName="Bloodroar the Stalker",SourceType="Kill",DropChance="3.6",Zone="Feralas"}}
+items[9949] = {id=9949,name="Chieftain's Bracers",source={ID=5346,SourceName="Bloodroar the Stalker",SourceType="Kill",DropChance="3.5",Zone="Feralas"}}
 items[13076] = {id=13076,name="Giantslayer Bracers",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[14914] = {id=14914,name="Jade Bracers",source={ID=7797,SourceName="Ruuzlu",SourceType="Kill",DropChance="0.3",Zone="Zul'Farrak"}}
 items[7534] = {id=7534,name="Cabalist Bracers",source={ID=5345,SourceName="Diamond Head",SourceType="Kill",DropChance="7.1",Zone="Feralas"}}
-items[7545] = {id=7545,name="Champion's Bracers",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="5.0",Zone="Tanaris"}}
-items[10461] = {id=10461,name="Shadowy Bracers",source={ID=3379,SourceName="",SourceType="Quest",DropChance="0",Zone="Tailoring"}}
+items[7545] = {id=7545,name="Champion's Bracers",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="4.8",Zone="Tanaris"}}
+items[10461] = {id=10461,name="Shadowy Bracers",source={ID=3379,SourceName="Shadoweaver",SourceType="Quest",DropChance="0",Zone="Tailoring"}}
 items[14778] = {id=14778,name="Khan's Bindings",source={ID=5327,SourceName="Coast Crawl Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
 items[3938] = {id=3938,name="Crochet Bracers",source={ID=2601,SourceName="Foulbelly",SourceType="Kill",DropChance="2.0",Zone="Arathi Highlands"}}
 items[14910] = {id=14910,name="Brutish Armguards",source={ID=10081,SourceName="Dustwraith",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
-items[3963] = {id=3963,name="Thick Leather Bracers",source={ID=17235,SourceName="Witch Doctor Mai'jin",SourceType="Kill",DropChance="2.6",Zone="The Hinterlands"}}
+items[3963] = {id=3963,name="Thick Leather Bracers",source={ID=17235,SourceName="Witch Doctor Mai'jin",SourceType="Kill",DropChance="2.3",Zone="The Hinterlands"}}
 items[8137] = {id=8137,name="Chromite Bracers",source={ID=2780,SourceName="Caretaker Nevlin",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
 items[15163] = {id=15163,name="Imposing Bracers",source={ID=13740,SourceName="Magra",SourceType="Kill",DropChance="1.5",Zone="Unknown"}}
 items[4061] = {id=4061,name="Imperial Leather Bracers",source={ID=2763,SourceName="Thenan",SourceType="Kill",DropChance="1.1",Zone="Arathi Highlands"}}
 items[7493] = {id=7493,name="Captain's Bracers",source={ID=14226,SourceName="Kaskk",SourceType="Kill",DropChance="5.1",Zone="Desolace"}}
-items[15864] = {id=15864,name="Condor Bracers",source={ID=6134,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[15864] = {id=15864,name="Condor Bracers",source={ID=6134,SourceName="Ghost-o-plasm Round Up",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[5783] = {id=5783,name="Murloc Scale Bracers",source={ID=6705,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14419] = {id=14419,name="Silksand Bracers",source={ID=7341,SourceName="Skeletal Frostweaver",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
-items[16791] = {id=16791,name="Silkstream Cuffs",source={ID=6027,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[16791] = {id=16791,name="Silkstream Cuffs",source={ID=6027,SourceName="Book of the Ancients",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[2421] = {id=2421,name="Augmented Chain Bracers",source={ID=1322,SourceName="Maxton Strang",SourceType="Purchase",DropChance="100",Zone="Desolace"}}
-items[9846] = {id=9846,name="Conjurer's Bracers",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="12.7",Zone="Desolace"}}
+items[9846] = {id=9846,name="Conjurer's Bracers",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="12.5",Zone="Desolace"}}
 items[15143] = {id=15143,name="Ghostwalker Bindings",source={ID=7872,SourceName="Death's Head Cultist",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
 items[1351] = {id=1351,name="Fingerbone Bracers",source={ID=3808,SourceName="Forsaken Dark Stalker",SourceType="Kill",DropChance="1.1",Zone="Ashenvale"}}
 items[2150] = {id=2150,name="Polished Scale Bracers",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
@@ -409,22 +409,22 @@ items[15122] = {id=15122,name="Robust Bracers",source={ID=5798,SourceName="Thora
 items[2854] = {id=2854,name="Runed Copper Bracers",source={ID=2664,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[9777] = {id=9777,name="Bandit Bracers",source={ID=14266,SourceName="Shanda the Spinner",SourceType="Kill",DropChance="7.7",Zone="Loch Modan"}}
 items[15306] = {id=15306,name="Feral Bindings",source={ID=11517,SourceName="Oggleflint",SourceType="Kill",DropChance="0.4",Zone="Ragefire Chasm"}}
-items[14115] = {id=14115,name="Aboriginal Bands",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="1.5",Zone="Bloodmyst Isle"}}
-items[3312] = {id=3312,name="Ceremonial Leather Bracers",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="1.5",Zone="Bloodmyst Isle"}}
+items[14115] = {id=14115,name="Aboriginal Bands",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="1.3",Zone="Bloodmyst Isle"}}
+items[3312] = {id=3312,name="Ceremonial Leather Bracers",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="1.3",Zone="Bloodmyst Isle"}}
 items[2402] = {id=2402,name="Light Chain Bracers",source={ID=2135,SourceName="Abe Winters",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[7350] = {id=7350,name="Disciple's Bracers",source={ID=10356,SourceName="Bayne",SourceType="Kill",DropChance="5.1",Zone="Tirisfal Glades"}}
-items[1420] = {id=1420,name="Worn Leather Bracers",source={ID=15958,SourceName="Gharsul the Remorseless",SourceType="Kill",DropChance="2.4",Zone="Eversong Woods"}}
+items[1420] = {id=1420,name="Worn Leather Bracers",source={ID=15958,SourceName="Gharsul the Remorseless",SourceType="Kill",DropChance="2.0",Zone="Eversong Woods"}}
 items[2124] = {id=2124,name="Cracked Leather Bracers",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[35175] = {id=35175,name="Guardian's Ornamented Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35175] = {id=35175,name="Guardian's Ornamented Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30869] = {id=30869,name="Howling Wind Bracers",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="12.3",Zone="Hyjal Summit"}}
-items[33913] = {id=33913,name="Vindicator's Silk Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33913] = {id=33913,name="Vindicator's Silk Cuffs",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32395] = {id=32395,name="Redeemed Soul Wristguards",source={ID=40004,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32399] = {id=32399,name="Bracers of Shackled Souls",source={ID=40000,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32958] = {id=32958,name="Tom's Bracer 2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33520] = {id=33520,name="Vambraces of the Naaru",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33529] = {id=33529,name="Steadying Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33535] = {id=33535,name="Earthquake Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32813] = {id=32813,name="Veteran's Lamellar Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33520] = {id=33520,name="Vambraces of the Naaru",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33529] = {id=33529,name="Steadying Bracers",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33535] = {id=33535,name="Earthquake Bracers",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[32813] = {id=32813,name="Veteran's Lamellar Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[24909] = {id=24909,name="Talhide Lined-Bracers",source={ID=22084,SourceName="Shadowmoon Chosen",SourceType="Kill",DropChance="11.1",Zone="Shadowmoon Valley"}}
 items[27522] = {id=27522,name="World's End Bracers",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="3.7",Zone="The Blood Furnace"}}
 items[27712] = {id=27712,name="Shackles of Quagmirran",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="12.3",Zone="The Slave Pens"}}
@@ -433,18 +433,18 @@ items[31566] = {id=31566,name="Skystalker's Bracers",source={ID=23161,SourceName
 items[31574] = {id=31574,name="Mistshroud Bracers",source={ID=23161,SourceName="Darkscreecher Akkarai",SourceType="Kill",DropChance="3.0",Zone="Unknown"}}
 items[32957] = {id=32957,name="Tom's Bracer 1",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34705] = {id=34705,name="Bracers of Divine Infusion",source={ID=24744,SourceName="Vexallus",SourceType="Kill",DropChance="20.7",Zone="Magisters' Terrace"}}
-items[30265] = {id=30265,name="Zaxxis Bracers",source={ID=10205,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30966] = {id=30966,name="Singed Vambraces",source={ID=10626,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[30274] = {id=30274,name="Papa's Armbands",source={ID=10206,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30402] = {id=30402,name="Field Agent's Bracers",source={ID=10435,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[25592] = {id=25592,name="Clefthoof Wristguards",source={ID=9851,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[24813] = {id=24813,name="Unyielding Bindings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30265] = {id=30265,name="Zaxxis Bracers",source={ID=10205,SourceName="Warp-Raider Nesaad",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30966] = {id=30966,name="Singed Vambraces",source={ID=10626,SourceName="Capture the Weapons",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30274] = {id=30274,name="Papa's Armbands",source={ID=10206,SourceName="Pick Your Part",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30402] = {id=30402,name="Field Agent's Bracers",source={ID=10435,SourceName="Retrieving the Goods",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[25592] = {id=25592,name="Clefthoof Wristguards",source={ID=9851,SourceName="Clefthoof Mastery",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[24813] = {id=24813,name="Unyielding Bindings",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.1",Zone="Hellfire Peninsula"}}
 items[20687] = {id=20687,name="Abyssal Plate Vambraces",source={ID=15205,SourceName="Baron Kazum",SourceType="Kill",DropChance="35.2",Zone="Silithus"}}
 items[16840] = {id=16840,name="Earthfury Bracers",source={ID=11662,SourceName="Flamewaker Priest",SourceType="Kill",DropChance="0.8",Zone="Molten Core"}}
 items[10265] = {id=10265,name="Masterwork Bracers",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="3.2",Zone="Blackwing Lair"}}
 items[18394] = {id=18394,name="Demon Howl Wristguards",source={ID=11496,SourceName="Immol'thar",SourceType="Kill",DropChance="19.2",Zone="Dire Maul"}}
-items[10256] = {id=10256,name="Adventurer's Bracers",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="12.1",Zone="Searing Gorge"}}
-items[10156] = {id=10156,name="Mercurial Bracers",source={ID=1841,SourceName="Scarlet Executioner",SourceType="Kill",DropChance="9.0",Zone="Western Plaguelands"}}
+items[10256] = {id=10256,name="Adventurer's Bracers",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="9.4",Zone="Searing Gorge"}}
+items[10156] = {id=10156,name="Mercurial Bracers",source={ID=1841,SourceName="Scarlet Executioner",SourceType="Kill",DropChance="8.9",Zone="Western Plaguelands"}}
 items[10377] = {id=10377,name="Commander's Vambraces",source={ID=6584,SourceName="King Mosh",SourceType="Kill",DropChance="4.5",Zone="Un'Goro Crater"}}
 items[14810] = {id=14810,name="Warstrike Armsplints",source={ID=14690,SourceName="Revanchion",SourceType="Kill",DropChance="11.1",Zone="Dire Maul"}}
 items[18337] = {id=18337,name="Orphic Bracers",source={ID=14399,SourceName="Arcane Torrent",SourceType="Kill",DropChance="0.9",Zone="Dire Maul"}}
@@ -455,11 +455,11 @@ items[14869] = {id=14869,name="Warleader's Bracers",source={ID=14303,SourceName=
 items[15188] = {id=15188,name="Grand Armguards",source={ID=7436,SourceName="Cobalt Scalebane",SourceType="Kill",DropChance="0.2",Zone="Winterspring"}}
 items[8285] = {id=8285,name="Arcane Bands",source={ID=7728,SourceName="Kirith the Damned",SourceType="Kill",DropChance="0.2",Zone="Blasted Lands"}}
 items[10229] = {id=10229,name="Engraved Bracers",source={ID=10825,SourceName="Gish the Unmoving",SourceType="Kill",DropChance="7.2",Zone="Eastern Plaguelands"}}
-items[11962] = {id=11962,name="Manacle Cuffs",source={ID=4201,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
+items[11962] = {id=11962,name="Manacle Cuffs",source={ID=4201,SourceName="The Love Potion",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
 items[14974] = {id=14974,name="Glorious Bindings",source={ID=6503,SourceName="Spiked Stegodon",SourceType="Kill",DropChance="0.6",Zone="Un'Goro Crater"}}
 items[15659] = {id=15659,name="Impenetrable Bindings",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.1",Zone="Winterspring"}}
 items[3946] = {id=3946,name="Twill Bracers",source={ID=13959,SourceName="Alterac Yeti",SourceType="Kill",DropChance="8.3",Zone="Alterac Valley"}}
-items[14807] = {id=14807,name="Bloodlust Bracelets",source={ID=6502,SourceName="Plated Stegodon",SourceType="Kill",DropChance="0.6",Zone="Un'Goro Crater"}}
+items[14807] = {id=14807,name="Bloodlust Bracelets",source={ID=6502,SourceName="Plated Stegodon",SourceType="Kill",DropChance="0.5",Zone="Un'Goro Crater"}}
 items[12408] = {id=12408,name="Thorium Bracers",source={ID=16644,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15182] = {id=15182,name="Praetorian Wristbands",source={ID=8201,SourceName="Omgorn the Lost",SourceType="Kill",DropChance="0.6",Zone="Tanaris"}}
 items[17746] = {id=17746,name="Noxxion's Shackles",source={ID=13282,SourceName="Noxxion",SourceType="Kill",DropChance="36.5",Zone="Maraudon"}}
@@ -474,10 +474,10 @@ items[14923] = {id=14923,name="Lofty Armguards",source={ID=6650,SourceName="Gene
 items[15639] = {id=15639,name="Ironhide Bracers",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.3",Zone="Azshara"}}
 items[10069] = {id=10069,name="Righteous Bracers",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[10076] = {id=10076,name="Lord's Armguards",source={ID=6651,SourceName="Gatekeeper Rageroar",SourceType="Kill",DropChance="5.0",Zone="Azshara"}}
-items[10127] = {id=10127,name="Revenant Bracers",source={ID=8204,SourceName="Soriid the Devourer",SourceType="Kill",DropChance="6.7",Zone="Tanaris"}}
+items[10127] = {id=10127,name="Revenant Bracers",source={ID=8204,SourceName="Soriid the Devourer",SourceType="Kill",DropChance="6.6",Zone="Tanaris"}}
 items[14279] = {id=14279,name="Opulent Bracers",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
 items[14965] = {id=14965,name="High Chief's Bindings",source={ID=8196,SourceName="Occulus",SourceType="Kill",DropChance="0.4",Zone="Tanaris"}}
-items[9937] = {id=9937,name="Abjurer's Bands",source={ID=5346,SourceName="Bloodroar the Stalker",SourceType="Kill",DropChance="6.5",Zone="Feralas"}}
+items[9937] = {id=9937,name="Abjurer's Bands",source={ID=5346,SourceName="Bloodroar the Stalker",SourceType="Kill",DropChance="6.4",Zone="Feralas"}}
 items[10202] = {id=10202,name="Overlord's Vambraces",source={ID=8277,SourceName="Rekk'tilac",SourceType="Kill",DropChance="2.7",Zone="Searing Gorge"}}
 items[14663] = {id=14663,name="Keeper's Bindings",source={ID=5276,SourceName="Sprite Dragon",SourceType="Kill",DropChance="0.1",Zone="Feralas"}}
 items[14853] = {id=14853,name="Sunscale Wristguards",source={ID=12206,SourceName="Primordial Behemoth",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
@@ -491,12 +491,12 @@ items[6426] = {id=6426,name="Blackforge Bracers",source={ID=14448,SourceName="Mo
 items[9909] = {id=9909,name="Royal Bands",source={ID=5352,SourceName="Old Grizzlegut",SourceType="Kill",DropChance="5.7",Zone="Feralas"}}
 items[9927] = {id=9927,name="Brigade Bracers",source={ID=8208,SourceName="Murderous Blisterpaw",SourceType="Kill",DropChance="5.5",Zone="Tanaris"}}
 items[9972] = {id=9972,name="Embossed Plate Bracers",source={ID=14492,SourceName="Verifonix",SourceType="Kill",DropChance="3.6",Zone="Stranglethorn Vale"}}
-items[14941] = {id=14941,name="Warbringer's Armsplints",source={ID=11782,SourceName="Ambershard Destroyer",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
-items[15600] = {id=15600,name="Ancient Vambraces",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.7",Zone="Dustwallow Marsh"}}
+items[14941] = {id=14941,name="Warbringer's Armsplints",source={ID=12239,SourceName="Spirit of Gelk",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[15600] = {id=15600,name="Ancient Vambraces",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
 items[7475] = {id=7475,name="Regal Cuffs",source={ID=14234,SourceName="Hayoc",SourceType="Kill",DropChance="4.9",Zone="Dustwallow Marsh"}}
 items[7484] = {id=7484,name="Ranger Wristguards",source={ID=14491,SourceName="Kurmokk",SourceType="Kill",DropChance="5.6",Zone="Stranglethorn Vale"}}
 items[13199] = {id=13199,name="Crushridge Bindings",source={ID=667,SourceName="Skullsplitter Warrior",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
-items[14248] = {id=14248,name="Lunar Bindings",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.7",Zone="Dustwallow Marsh"}}
+items[14248] = {id=14248,name="Lunar Bindings",source={ID=23595,SourceName="Grimtotem Earthbinder",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
 items[14832] = {id=14832,name="Symbolic Vambraces",source={ID=5356,SourceName="Snarler",SourceType="Kill",DropChance="0.2",Zone="Feralas"}}
 items[8156] = {id=8156,name="Jouster's Wristguards",source={ID=2781,SourceName="Caretaker Weston",SourceType="Kill",DropChance="0.9",Zone="Arathi Highlands"}}
 items[14240] = {id=14240,name="Darkmist Bands",source={ID=7354,SourceName="Ragglesnout",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
@@ -508,22 +508,22 @@ items[15160] = {id=15160,name="Nocturnal Wristbands",source={ID=14230,SourceName
 items[3794] = {id=3794,name="Interlaced Bracers",source={ID=2636,SourceName="Blackwater Deckhand",SourceType="Kill",DropChance="2.0",Zone="Arathi Highlands"}}
 items[3810] = {id=3810,name="Double Mail Bracers",source={ID=12836,SourceName="Wandering Protector",SourceType="Kill",DropChance="0.9",Zone="Ashenvale"}}
 items[2468] = {id=2468,name="Studded Bracers",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
-items[15590] = {id=15590,name="Steadfast Bracelets",source={ID=23593,SourceName="Grimtotem Spirit-Shifter",SourceType="Kill",DropChance="0.8",Zone="Dustwallow Marsh"}}
-items[7461] = {id=7461,name="Knight's Bracers",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="11.9",Zone="The Barrens"}}
-items[10358] = {id=10358,name="Duracin Bracers",source={ID=2418,SourceName="",SourceType="Quest",DropChance="0",Zone="Uldaman"}}
-items[14590] = {id=14590,name="Hawkeye's Bracers",source={ID=4382,SourceName="Withervine Creeper",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
+items[15590] = {id=15590,name="Steadfast Bracelets",source={ID=23593,SourceName="Grimtotem Spirit-Shifter",SourceType="Kill",DropChance="0.6",Zone="Dustwallow Marsh"}}
+items[7461] = {id=7461,name="Knight's Bracers",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="11.7",Zone="The Barrens"}}
+items[10358] = {id=10358,name="Duracin Bracers",source={ID=2418,SourceName="Power Stones",SourceType="Quest",DropChance="0",Zone="Uldaman"}}
+items[14590] = {id=14590,name="Hawkeye's Bracers",source={ID=23555,SourceName="Risen Husk",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
 items[15566] = {id=15566,name="Marauder's Bracers",source={ID=3941,SourceName="Uthil Mooncall",SourceType="Kill",DropChance="0.4",Zone="Ashenvale"}}
 items[3802] = {id=3802,name="Hardened Leather Bracers",source={ID=2598,SourceName="Darbel Montrose",SourceType="Kill",DropChance="2.1",Zone="Arathi Highlands"}}
 items[6410] = {id=6410,name="Insignia Bracers",source={ID=1754,SourceName="Lord Gregor Lescovar",SourceType="Kill",DropChance="0.1",Zone="Stormwind City"}}
 items[15556] = {id=15556,name="Pillager's Bracers",source={ID=14225,SourceName="Prince Kellen",SourceType="Kill",DropChance="0.8",Zone="Desolace"}}
-items[7410] = {id=7410,name="Infiltrator Bracers",source={ID=14433,SourceName="Sludginn",SourceType="Kill",DropChance="6.5",Zone="Wetlands"}}
+items[7410] = {id=7410,name="Infiltrator Bracers",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
 items[6198] = {id=6198,name="Jurassic Wristguards",source={ID=1140,SourceName="Razormaw Matriarch",SourceType="Kill",DropChance="55.5",Zone="Wetlands"}}
 items[9837] = {id=9837,name="Banded Bracers",source={ID=1037,SourceName="Dragonmaw Battlemaster",SourceType="Kill",DropChance="6.2",Zone="Wetlands"}}
 items[14197] = {id=14197,name="Thistlefur Bands",source={ID=14426,SourceName="Harb Foulmountain",SourceType="Kill",DropChance="0.6",Zone="Thousand Needles"}}
 items[15545] = {id=15545,name="Thick Scale Bracelets",source={ID=4066,SourceName="Nal'taszar",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
 items[15132] = {id=15132,name="Cutthroat's Armguards",source={ID=5928,SourceName="Sorrow Wing",SourceType="Kill",DropChance="1.1",Zone="Stonetalon Mountains"}}
 items[15535] = {id=15535,name="Wicked Chain Bracers",source={ID=4066,SourceName="Nal'taszar",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
-items[1756] = {id=1756,name="Reinforced Chain Bracers",source={ID=17108,SourceName="Forsaken Raider",SourceType="Kill",DropChance="1.4",Zone="Hillsbrad Foothills"}}
+items[1756] = {id=1756,name="Reinforced Chain Bracers",source={ID=17108,SourceName="Forsaken Raider",SourceType="Kill",DropChance="1.1",Zone="Hillsbrad Foothills"}}
 items[3381] = {id=3381,name="Cross-stitched Bracers",source={ID=1157,SourceName="Cursed Sailor",SourceType="Kill",DropChance="2.1",Zone="Wetlands"}}
 items[14750] = {id=14750,name="Slayer's Cuffs",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="1.8",Zone="Stonetalon Mountains"}}
 items[1805] = {id=1805,name="Tough Leather Bracers",source={ID=6407,SourceName="Holdout Technician",SourceType="Kill",DropChance="1.0",Zone="Gnomeregan"}}
@@ -536,61 +536,61 @@ items[14375] = {id=14375,name="Sanguine Cuffs",source={ID=12902,SourceName="Lorg
 items[1852] = {id=1852,name="Scalemail Bracers",source={ID=956,SourceName="Dorin Songblade",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
 items[3379] = {id=3379,name="Brocade Bracers",source={ID=1040,SourceName="Fen Creeper",SourceType="Kill",DropChance="4.9",Zone="Wetlands"}}
 items[1797] = {id=1797,name="Rawhide Bracers",source={ID=3735,SourceName="Apothecary Falthis",SourceType="Kill",DropChance="2.3",Zone="Ashenvale"}}
-items[1789] = {id=1789,name="Patched Leather Bracers",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.7",Zone="Bloodmyst Isle"}}
+items[1789] = {id=1789,name="Patched Leather Bracers",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.0",Zone="Bloodmyst Isle"}}
 items[15507] = {id=15507,name="Grunt's Bracers",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="5.3",Zone="The Barrens"}}
 items[1844] = {id=1844,name="Tanned Leather Bracers",source={ID=896,SourceName="Veldan Lightfoot",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[1846] = {id=1846,name="Chainmail Bracers",source={ID=167,SourceName="Morhan Coppertongue",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[3645] = {id=3645,name="Seer's Cuffs",source={ID=3578,SourceName="Dalaran Miner",SourceType="Kill",DropChance="1.2",Zone="Silverpine Forest"}}
-items[1740] = {id=1740,name="Laced Mail Bracers",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="5.5",Zone="Bloodmyst Isle"}}
+items[1740] = {id=1740,name="Laced Mail Bracers",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="4.1",Zone="Bloodmyst Isle"}}
 items[1213] = {id=1213,name="Gnoll Kindred Bracers",source={ID=712,SourceName="Redridge Thrasher",SourceType="Kill",DropChance="1.5",Zone="Redridge Mountains"}}
-items[1732] = {id=1732,name="Worn Mail Bracers",source={ID=17210,SourceName="Sentinel Leader",SourceType="Kill",DropChance="2.5",Zone="Ghostlands"}}
-items[3207] = {id=3207,name="Hunting Bracers",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="2.3",Zone="Silverpine Forest"}}
+items[1732] = {id=1732,name="Worn Mail Bracers",source={ID=17210,SourceName="Sentinel Leader",SourceType="Kill",DropChance="2.2",Zone="Ghostlands"}}
+items[3207] = {id=3207,name="Hunting Bracers",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="2.2",Zone="Silverpine Forest"}}
 items[3643] = {id=3643,name="Spellbinder Bracers",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="1.1",Zone="Silverpine Forest"}}
 items[15013] = {id=15013,name="Lupine Cuffs",source={ID=8236,SourceName="Muck Frenzy",SourceType="Kill",DropChance="0.8",Zone="The Barrens"}}
 items[3213] = {id=3213,name="Veteran Bracers",source={ID=2061,SourceName="Councilman Thatcher",SourceType="Kill",DropChance="0.7",Zone="Silverpine Forest"}}
 items[3303] = {id=3303,name="Brackwater Bracers",source={ID=2974,SourceName="Kodo Matriarch",SourceType="Kill",DropChance="0.8",Zone="Mulgore"}}
 items[3644] = {id=3644,name="Barbaric Cloth Bracers",source={ID=2968,SourceName="Galak Outrunner",SourceType="Kill",DropChance="1.3",Zone="Mulgore"}}
-items[14095] = {id=14095,name="Native Bands",source={ID=17333,SourceName="Wrathscale Screamer",SourceType="Kill",DropChance="0.6",Zone="Bloodmyst Isle"}}
-items[15297] = {id=15297,name="Grizzly Bracers",source={ID=13157,SourceName="Makasgar",SourceType="Kill",DropChance="1.8",Zone="Durotar"}}
+items[14095] = {id=14095,name="Native Bands",source={ID=2166,SourceName="Oakenscowl",SourceType="Kill",DropChance="0.6",Zone="Teldrassil"}}
+items[15297] = {id=15297,name="Grizzly Bracers",source={ID=13157,SourceName="Makasgar",SourceType="Kill",DropChance="1.7",Zone="Durotar"}}
 items[15482] = {id=15482,name="War Torn Bands",source={ID=3231,SourceName="Corrupted Dreadmaw Crocolisk",SourceType="Kill",DropChance="0.9",Zone="Durotar"}}
 items[2374] = {id=2374,name="Battered Leather Bracers",source={ID=2137,SourceName="Eliza Callen",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[2643] = {id=2643,name="Loose Chain Bracers",source={ID=2968,SourceName="Galak Outrunner",SourceType="Kill",DropChance="1.3",Zone="Mulgore"}}
 items[6519] = {id=6519,name="Pioneer Bracers",source={ID=10357,SourceName="Ressan the Needler",SourceType="Kill",DropChance="9.6",Zone="Tirisfal Glades"}}
-items[3214] = {id=3214,name="Warrior's Bracers",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
-items[3280] = {id=3280,name="Battle Chain Bracers",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.4",Zone="Eversong Woods"}}
+items[3214] = {id=3214,name="Warrior's Bracers",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
+items[3280] = {id=3280,name="Battle Chain Bracers",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
 items[3642] = {id=3642,name="Ancestral Bracers",source={ID=5786,SourceName="Snagglespear",SourceType="Kill",DropChance="2.6",Zone="Mulgore"}}
-items[15005] = {id=15005,name="Primal Bands",source={ID=15637,SourceName="Withered Green Keeper",SourceType="Kill",DropChance="0.7",Zone="Eversong Woods"}}
-items[3200] = {id=3200,name="Burnt Leather Bracers",source={ID=16307,SourceName="Deathcage Scryer",SourceType="Kill",DropChance="2.1",Zone="Ghostlands"}}
-items[3641] = {id=3641,name="Journeyman's Bracers",source={ID=15937,SourceName="Mmmrrrggglll",SourceType="Kill",DropChance="0.4",Zone="Eversong Woods"}}
+items[15005] = {id=15005,name="Primal Bands",source={ID=17186,SourceName="Deranged Owlbeast",SourceType="Kill",DropChance="0.7",Zone="Azuremyst Isle"}}
+items[3200] = {id=3200,name="Burnt Leather Bracers",source={ID=16307,SourceName="Deathcage Scryer",SourceType="Kill",DropChance="1.8",Zone="Ghostlands"}}
+items[3641] = {id=3641,name="Journeyman's Bracers",source={ID=15937,SourceName="Mmmrrrggglll",SourceType="Kill",DropChance="0.8",Zone="Eversong Woods"}}
 items[15474] = {id=15474,name="Charger's Bindings",source={ID=2968,SourceName="Galak Outrunner",SourceType="Kill",DropChance="0.3",Zone="Mulgore"}}
 items[1836] = {id=1836,name="Dirty Leather Bracers",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[3365] = {id=3365,name="Frayed Bracers",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.9",Zone="Durotar"}}
 items[3600] = {id=3600,name="Thin Cloth Bracers",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[20988] = {id=20988,name="Light Cloth Bracers",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
-items[21011] = {id=21011,name="Scraggy Leather Bracers",source={ID=15271,SourceName="Tender",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
+items[21011] = {id=21011,name="Scraggy Leather Bracers",source={ID=15271,SourceName="Tender",SourceType="Kill",DropChance="1.8",Zone="Eversong Woods"}}
 items[21019] = {id=21019,name="Shoddy Chain Bracers",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="1.3",Zone="Eversong Woods"}}
-items[35177] = {id=35177,name="Guardian's Ringmail Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35177] = {id=35177,name="Guardian's Ringmail Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30862] = {id=30862,name="Blessed Adamantite Bracers",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="18.8",Zone="Hyjal Summit"}}
 items[30870] = {id=30870,name="Cuffs of Devastation",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="18.7",Zone="Hyjal Summit"}}
 items[32568] = {id=32568,name="Swiftsteel Bracers",source={ID=41132,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[33881] = {id=33881,name="Vindicator's Dragonhide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33540] = {id=33540,name="Master Assassin Wristwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33578] = {id=33578,name="Armwraps of the Kaldorei Protector",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33589] = {id=33589,name="Wristguards of Tranquil Thought",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33881] = {id=33881,name="Vindicator's Dragonhide Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33540] = {id=33540,name="Master Assassin Wristwraps",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33578] = {id=33578,name="Armwraps of the Kaldorei Protector",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33589] = {id=33589,name="Wristguards of Tranquil Thought",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[24917] = {id=24917,name="Netherstorm Bracer",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="6.6",Zone="Karazhan"}}
 items[30385] = {id=30385,name="QR XXXX Plate Spell Bracer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[31224] = {id=31224,name="Illidari Bracers",source={ID=18695,SourceName="Ambassador Jerrikar",SourceType="Kill",DropChance="44.7",Zone="Unknown"}}
-items[31661] = {id=31661,name="Leesa'oh's Wristbands",source={ID=9709,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[31661] = {id=31661,name="Leesa'oh's Wristbands",source={ID=9709,SourceName="Stealing Back the Mushrooms",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[31191] = {id=31191,name="Crocolisk Hide Bracers",source={ID=17144,SourceName="Goretooth",SourceType="Kill",DropChance="46.2",Zone="Nagrand"}}
 items[31192] = {id=31192,name="Crocolisk Hide Bindings",source={ID=17144,SourceName="Goretooth",SourceType="Kill",DropChance="44.7",Zone="Nagrand"}}
 items[18812] = {id=18812,name="Wristguards of True Flight",source={ID=12018,SourceName="Majordomo Executus",SourceType="Kill",DropChance="5.0",Zone="Molten Core"}}
-items[20615] = {id=20615,name="Dragonspur Wraps",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="12.0",Zone="Duskwood"}}
+items[20615] = {id=20615,name="Dragonspur Wraps",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="11.9",Zone="Duskwood"}}
 items[19113] = {id=19113,name="Yeti Hide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[13528] = {id=13528,name="Twilight Void Bracers",source={ID=10438,SourceName="Maleki the Pallid",SourceType="Kill",DropChance="10.7",Zone="Stratholme"}}
 items[14629] = {id=14629,name="Necropile Cuffs",source={ID=11261,SourceName="Doctor Theolen Krastinov",SourceType="Kill",DropChance="4.5",Zone="Scholomance"}}
-items[15679] = {id=15679,name="Triumphant Bracers",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.9",Zone="Azshara"}}
+items[15679] = {id=15679,name="Triumphant Bracers",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="6.0",Zone="Azshara"}}
 items[18741] = {id=18741,name="Morlune's Bracer",source={ID=11121,SourceName="Black Guard Swordsmith",SourceType="Kill",DropChance="0.1",Zone="Stratholme"}}
-items[10147] = {id=10147,name="Mighty Armsplints",source={ID=10198,SourceName="Kashoch the Reaver",SourceType="Kill",DropChance="4.4",Zone="Winterspring"}}
+items[10147] = {id=10147,name="Mighty Armsplints",source={ID=10198,SourceName="Kashoch the Reaver",SourceType="Kill",DropChance="4.3",Zone="Winterspring"}}
 items[13537] = {id=13537,name="Chillhide Bracers",source={ID=10436,SourceName="Baroness Anastari",SourceType="Kill",DropChance="10.5",Zone="Stratholme"}}
 items[13400] = {id=13400,name="Vambraces of the Sadist",source={ID=10808,SourceName="Timmy the Cruel",SourceType="Kill",DropChance="19.5",Zone="Stratholme"}}
 items[14682] = {id=14682,name="Indomitable Armguards",source={ID=10737,SourceName="Shy-Rotam",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
@@ -599,13 +599,13 @@ items[10282] = {id=10282,name="Emerald Vambraces",source={ID=8297,SourceName="Ma
 items[14938] = {id=14938,name="Heroic Bracers",source={ID=14475,SourceName="Rex Ashil",SourceType="Kill",DropChance="2.1",Zone="Silithus"}}
 items[18296] = {id=18296,name="Marksman Bands",source={ID=11451,SourceName="Wildspawn Satyr",SourceType="Kill",DropChance="0.9",Zone="Dire Maul"}}
 items[15425] = {id=15425,name="Peerless Bracers",source={ID=6504,SourceName="Thunderstomp Stegodon",SourceType="Kill",DropChance="0.6",Zone="Un'Goro Crater"}}
-items[10126] = {id=10126,name="Ornate Bracers",source={ID=6582,SourceName="Clutchmother Zavas",SourceType="Kill",DropChance="4.7",Zone="Un'Goro Crater"}}
+items[10126] = {id=10126,name="Ornate Bracers",source={ID=6582,SourceName="Clutchmother Zavas",SourceType="Kill",DropChance="4.6",Zone="Un'Goro Crater"}}
 items[10171] = {id=10171,name="Templar Bracers",source={ID=6582,SourceName="Clutchmother Zavas",SourceType="Kill",DropChance="5.5",Zone="Un'Goro Crater"}}
 items[10184] = {id=10184,name="Swashbuckler's Bracers",source={ID=1847,SourceName="Foulmane",SourceType="Kill",DropChance="3.6",Zone="Western Plaguelands"}}
 items[15649] = {id=15649,name="Merciless Bracers",source={ID=8196,SourceName="Occulus",SourceType="Kill",DropChance="0.4",Zone="Tanaris"}}
-items[9638] = {id=9638,name="Chelonian Cuffs",source={ID=1560,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[9638] = {id=9638,name="Chelonian Cuffs",source={ID=1560,SourceName="Tooga's Quest",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
 items[15387] = {id=15387,name="Jadefire Bracelets",source={ID=6131,SourceName="Draconic Mageweaver",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
-items[18710] = {id=18710,name="Arena Bracers",source={ID=179697,SourceName="Arena Treasure Chest",SourceType="Container",DropChance="6.4",Zone="Stranglethorn Vale"}}
+items[18710] = {id=18710,name="Arena Bracers",source={ID=179697,SourceName="Arena Treasure Chest",SourceType="Container",DropChance="6.3",Zone="Stranglethorn Vale"}}
 items[15620] = {id=15620,name="Gryphon Mail Bracelets",source={ID=9397,SourceName="Living Storm",SourceType="Kill",DropChance="0.6",Zone="Tanaris"}}
 items[9956] = {id=9956,name="Warmonger's Bracers",source={ID=8207,SourceName="Greater Firebird",SourceType="Kill",DropChance="6.8",Zone="Tanaris"}}
 items[15380] = {id=15380,name="Rageclaw Bracers",source={ID=4334,SourceName="Firemane Flamecaller",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
@@ -620,13 +620,13 @@ items[4059] = {id=4059,name="Glyphed Bracers",source={ID=3985,SourceName="Grandp
 items[6413] = {id=6413,name="Chief Brigadier Bracers",source={ID=7057,SourceName="Digmaster Shovelphlange",SourceType="Kill",DropChance="0.2",Zone="Unknown"}}
 items[4259] = {id=4259,name="Green Leather Bracers",source={ID=3776,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[7437] = {id=7437,name="Twilight Cuffs",source={ID=14231,SourceName="Drogoth the Roamer",SourceType="Kill",DropChance="6.7",Zone="Dustwallow Marsh"}}
-items[15577] = {id=15577,name="Sparkleshell Bracers",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[15577] = {id=15577,name="Sparkleshell Bracers",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[14221] = {id=14221,name="Geomancer's Bracers",source={ID=4132,SourceName="Silithid Ravager",SourceType="Kill",DropChance="0.2",Zone="Thousand Needles"}}
-items[9857] = {id=9857,name="Archer's Bracers",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="5.4",Zone="Desolace"}}
-items[14416] = {id=14416,name="Stonecloth Bindings",source={ID=23620,SourceName="Privateer",SourceType="Kill",DropChance="0.9",Zone="Dustwallow Marsh"}}
+items[9857] = {id=9857,name="Archer's Bracers",source={ID=14229,SourceName="Accursed Slitherblade",SourceType="Kill",DropChance="5.3",Zone="Desolace"}}
+items[14416] = {id=14416,name="Stonecloth Bindings",source={ID=23620,SourceName="Privateer",SourceType="Kill",DropChance="0.8",Zone="Dustwallow Marsh"}}
 items[6403] = {id=6403,name="Mail Combat Armguards",source={ID=6407,SourceName="Holdout Technician",SourceType="Kill",DropChance="0.2",Zone="Gnomeregan"}}
-items[9448] = {id=9448,name="Spidertank Oilrag",source={ID=6235,SourceName="Electrocutioner 6000",SourceType="Kill",DropChance="40.5",Zone="Gnomeregan"}}
-items[9535] = {id=9535,name="Fire-welded Bracers",source={ID=2904,SourceName="",SourceType="Quest",DropChance="0",Zone="Gnomeregan"}}
+items[9448] = {id=9448,name="Spidertank Oilrag",source={ID=6235,SourceName="Electrocutioner 6000",SourceType="Kill",DropChance="40.4",Zone="Gnomeregan"}}
+items[9535] = {id=9535,name="Fire-welded Bracers",source={ID=2904,SourceName="A Fine Mess",SourceType="Quest",DropChance="0",Zone="Gnomeregan"}}
 items[15351] = {id=15351,name="Headhunter's Bands",source={ID=4066,SourceName="Nal'taszar",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
 items[897] = {id=897,name="Madwolf Bracers",source={ID=206,SourceName="Nightbane Vile Fang",SourceType="Kill",DropChance="1.9",Zone="Duskwood"}}
 items[6387] = {id=6387,name="Glimmering Mail Bracers",source={ID=2345,SourceName="Dun Garok Rifleman",SourceType="Kill",DropChance="0.3",Zone="Hillsbrad Foothills"}}
@@ -637,16 +637,16 @@ items[1748] = {id=1748,name="Linked Chain Bracers",source={ID=3859,SourceName="S
 items[3598] = {id=3598,name="Thick Cloth Bracers",source={ID=1291,SourceName="Carla Granger",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[14743] = {id=14743,name="Hulking Bands",source={ID=4815,SourceName="Murkshallow Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Blackfathom Deeps"}}
 items[6583] = {id=6583,name="Scouting Bracers",source={ID=5831,SourceName="Swiftmane",SourceType="Kill",DropChance="8.2",Zone="The Barrens"}}
-items[3377] = {id=3377,name="Canvas Bracers",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.8",Zone="Ghostlands"}}
-items[3205] = {id=3205,name="Inscribed Leather Bracers",source={ID=17609,SourceName="Sunhawk Saboteur",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
+items[3377] = {id=3377,name="Canvas Bracers",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.0",Zone="Ghostlands"}}
+items[3205] = {id=3205,name="Inscribed Leather Bracers",source={ID=17609,SourceName="Sunhawk Saboteur",SourceType="Kill",DropChance="0.7",Zone="Bloodmyst Isle"}}
 items[3590] = {id=3590,name="Heavy Weave Bracers",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[14366] = {id=14366,name="Mystic's Bracelets",source={ID=11914,SourceName="Gorehoof the Black",SourceType="Kill",DropChance="1.0",Zone="Stonetalon Mountains"}}
 items[14723] = {id=14723,name="War Paint Bindings",source={ID=2184,SourceName="Lady Moongazer",SourceType="Kill",DropChance="0.2",Zone="Darkshore"}}
-items[6550] = {id=6550,name="Soldier's Wristguards",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="5.1",Zone="Silverpine Forest"}}
+items[6550] = {id=6550,name="Soldier's Wristguards",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="5.2",Zone="Silverpine Forest"}}
 items[3375] = {id=3375,name="Calico Bracers",source={ID=1425,SourceName="Grizlak",SourceType="Kill",DropChance="3.5",Zone="Loch Modan"}}
 items[4308] = {id=4308,name="Green Linen Bracers",source={ID=3841,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[9744] = {id=9744,name="Simple Bands",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="10.0",Zone="Eversong Woods"}}
-items[9752] = {id=9752,name="Gypsy Bands",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[9744] = {id=9744,name="Simple Bands",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="9.0",Zone="Eversong Woods"}}
+items[9752] = {id=9752,name="Gypsy Bands",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[9760] = {id=9760,name="Cadet Bracers",source={ID=1130,SourceName="Bjarn",SourceType="Kill",DropChance="3.6",Zone="Dun Morogh"}}
 items[1504] = {id=1504,name="Warped Leather Bracers",source={ID=1271,SourceName="Old Icebeard",SourceType="Kill",DropChance="2.2",Zone="Dun Morogh"}}
 items[1840] = {id=1840,name="Rough Leather Bracers",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
@@ -654,36 +654,36 @@ items[3224] = {id=3224,name="Silver-lined Bracers",source={ID=1132,SourceName="T
 items[3285] = {id=3285,name="Tribal Bracers",source={ID=5824,SourceName="Captain Flat Tusk",SourceType="Kill",DropChance="0.9",Zone="Durotar"}}
 items[3607] = {id=3607,name="Woven Bracers",source={ID=3166,SourceName="Cutac",SourceType="Purchase",DropChance="100",Zone="Durotar"}}
 items[6507] = {id=6507,name="Infantry Bracers",source={ID=10356,SourceName="Bayne",SourceType="Kill",DropChance="5.3",Zone="Tirisfal Glades"}}
-items[3373] = {id=3373,name="Patchwork Bracers",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="4.2",Zone="Eversong Woods"}}
+items[3373] = {id=3373,name="Patchwork Bracers",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
 items[7277] = {id=7277,name="Handstitched Leather Bracers",source={ID=9059,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14087] = {id=14087,name="Beaded Cuffs",source={ID=17217,SourceName="Barbed Crawler",SourceType="Kill",DropChance="1.6",Zone="Azuremyst Isle"}}
-items[1370] = {id=1370,name="Ragged Leather Bracers",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="4.5",Zone="Azuremyst Isle"}}
-items[34828] = {id=34828,name="Antique Silver Cufflinks",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34431] = {id=34431,name="Lightbringer Bands",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34433] = {id=34433,name="Lightbringer Wristguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35167] = {id=35167,name="Guardian's Dragonhide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1370] = {id=1370,name="Ragged Leather Bracers",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="4.3",Zone="Azuremyst Isle"}}
+items[34828] = {id=34828,name="Antique Silver Cufflinks",source={ID=85715,SourceName="Lunarfall Cavedweller",SourceType="Kill",DropChance="0.6",Zone="Zones"}}
+items[34431] = {id=34431,name="Lightbringer Bands",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34433] = {id=34433,name="Lightbringer Wristguards",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[35167] = {id=35167,name="Guardian's Dragonhide Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30868] = {id=30868,name="Rejuvenating Bracers",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="16.7",Zone="Hyjal Summit"}}
 items[32251] = {id=32251,name="Wraps of Precise Flight",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="16.5",Zone="Black Temple"}}
-items[33906] = {id=33906,name="Vindicator's Ringmail Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33532] = {id=33532,name="Gleaming Earthen Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32816] = {id=32816,name="Veteran's Linked Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33906] = {id=33906,name="Vindicator's Ringmail Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33532] = {id=33532,name="Gleaming Earthen Bracers",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[32816] = {id=32816,name="Veteran's Linked Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[25029] = {id=25029,name="Warlord's Iron-Vambraces",source={ID=18667,SourceName="Blackheart the Inciter",SourceType="Kill",DropChance="16.6",Zone="Shadow Labyrinth"}}
 items[27447] = {id=27447,name="Bracers of Just Rewards",source={ID=17306,SourceName="Watchkeeper Gargolmar",SourceType="Kill",DropChance="5.8",Zone="Hellfire Ramparts"}}
 items[27865] = {id=27865,name="Bracers of Shirrak",source={ID=18371,SourceName="Shirrak the Dead Watcher",SourceType="Kill",DropChance="25.0",Zone="Auchenai Crypts"}}
 items[34789] = {id=34789,name="Bracers of Slaughter",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="19.0",Zone="Magisters' Terrace"}}
 items[24251] = {id=24251,name="Blackstrike Bracers",source={ID=31437,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[29785] = {id=29785,name="Crimson Mail Bracers",source={ID=10240,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[29811] = {id=29811,name="Goldenlink Bracers",source={ID=10274,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29785] = {id=29785,name="Crimson Mail Bracers",source={ID=10240,SourceName="Building a Perimeter",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29811] = {id=29811,name="Goldenlink Bracers",source={ID=10274,SourceName="Securing the Celestial Ridge",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[24997] = {id=24997,name="Warmaul Vambraces",source={ID=18631,SourceName="Cabal Cultist",SourceType="Kill",DropChance="7.6",Zone="Shadow Labyrinth"}}
-items[30384] = {id=30384,name="Brightdawn Bracers",source={ID=10198,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[31793] = {id=31793,name="Ruuan Weald Wristguards",source={ID=10821,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[30384] = {id=30384,name="Brightdawn Bracers",source={ID=10198,SourceName="Information Gathering",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31793] = {id=31793,name="Ruuan Weald Wristguards",source={ID=10821,SourceName="You're Fired!",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[31188] = {id=31188,name="Crocolisk Scale Vambraces",source={ID=17144,SourceName="Goretooth",SourceType="Kill",DropChance="48.9",Zone="Nagrand"}}
 items[20786] = {id=20786,name="90 green shaman bindings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24724] = {id=24724,name="Dreghood Bands",source={ID=17035,SourceName="Kaliri Matriarch",SourceType="Kill",DropChance="4.1",Zone="Hellfire Peninsula"}}
-items[24949] = {id=24949,name="Bloodscale Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24949] = {id=24949,name="Bloodscale Bracers",source={ID=16911,SourceName="Mag'har Watcher",SourceType="Kill",DropChance="0.3",Zone="Hellfire Peninsula"}}
 items[24716] = {id=24716,name="Vengeance Bands",source={ID=17397,SourceName="Shadowmoon Adept",SourceType="Kill",DropChance="0.9",Zone="The Blood Furnace"}}
-items[24925] = {id=24925,name="Grimscale Vambraces",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[21708] = {id=21708,name="Beetle Scaled Wristguards",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="23.5",Zone="Ahn'Qiraj"}}
+items[24925] = {id=24925,name="Grimscale Vambraces",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.2",Zone="Hellfire Peninsula"}}
+items[21708] = {id=21708,name="Beetle Scaled Wristguards",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="23.6",Zone="Ahn'Qiraj"}}
 items[25376] = {id=25376,name="Corroded Mail Bracers",source={ID=18634,SourceName="Cabal Summoner",SourceType="Kill",DropChance="16.6",Zone="Shadow Labyrinth"}}
 items[25391] = {id=25391,name="Deteriorating Plate Bracers",source={ID=19713,SourceName="Mechanar Wrecker",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
 items[3979] = {id=3979,name="Strapped Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -692,23 +692,23 @@ items[20776] = {id=20776,name="63 green shaman bindings",source={ID=0,SourceName
 items[13951] = {id=13951,name="Vigorsteel Vambraces",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="13.9",Zone="Scholomance"}}
 items[15092] = {id=15092,name="Runic Leather Bracers",source={ID=19065,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16664] = {id=16664,name="Ornate Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[17714] = {id=17714,name="Bracers of the Stone Princess",source={ID=12201,SourceName="Princess Theradras",SourceType="Kill",DropChance="24.2",Zone="Maraudon"}}
+items[17714] = {id=17714,name="Bracers of the Stone Princess",source={ID=12201,SourceName="Princess Theradras",SourceType="Kill",DropChance="24.1",Zone="Maraudon"}}
 items[186085] = {id=186085,name="Communal Plate Vambraces",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[11469] = {id=11469,name="Bloodband Bracers",source={ID=614,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
-items[3228] = {id=3228,name="Jimmied Handcuffs",source={ID=1720,SourceName="Bruegal Ironknuckle",SourceType="Kill",DropChance="54.8",Zone="The Stockade"}}
+items[11469] = {id=11469,name="Bloodband Bracers",source={ID=614,SourceName="The Captain's Chest",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[3228] = {id=3228,name="Jimmied Handcuffs",source={ID=1720,SourceName="Bruegal Ironknuckle",SourceType="Kill",DropChance="54.9",Zone="The Stockade"}}
 items[3535] = {id=3535,name="Red Leather C03 Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35166] = {id=35166,name="Guardian's Chain Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35166] = {id=35166,name="Guardian's Chain Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32232] = {id=32232,name="Eternium Shell Bracers",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="15.6",Zone="Black Temple"}}
-items[33813] = {id=33813,name="Vindicator's Plate Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33893] = {id=33893,name="Vindicator's Leather Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33894] = {id=33894,name="Vindicator's Linked Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32812] = {id=32812,name="Veteran's Kodohide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32817] = {id=32817,name="Veteran's Mail Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33813] = {id=33813,name="Vindicator's Plate Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33893] = {id=33893,name="Vindicator's Leather Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33894] = {id=33894,name="Vindicator's Linked Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32812] = {id=32812,name="Veteran's Kodohide Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32817] = {id=32817,name="Veteran's Mail Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27765] = {id=27765,name="Armwraps of Disdain",source={ID=17826,SourceName="Swamplord Musel'ek",SourceType="Kill",DropChance="16.2",Zone="The Underbog"}}
 items[34698] = {id=34698,name="Bracers of the Forest Stalker",source={ID=24723,SourceName="Selin Fireheart",SourceType="Kill",DropChance="18.6",Zone="Magisters' Terrace"}}
 items[24789] = {id=24789,name="Murkblood Bracers",source={ID=17722,SourceName="Coilfang Sorceress",SourceType="Kill",DropChance="33.3",Zone="The Steamvault"}}
 items[25013] = {id=25013,name="Conqueror's Vambraces",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="7.1",Zone="Sethekk Halls"}}
-items[32994] = {id=32994,name="Marshal's Ringmail Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32994] = {id=32994,name="Marshal's Ringmail Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[24780] = {id=24780,name="Boneshredder Wristguards",source={ID=19511,SourceName="Nethervine Inciter",SourceType="Kill",DropChance="20.0",Zone="The Botanica"}}
 items[24893] = {id=24893,name="Skettis Bracer",source={ID=19978,SourceName="Deathforge Over-Smith",SourceType="Kill",DropChance="33.3",Zone="Blade's Edge Mountains"}}
 items[24660] = {id=24660,name="Consortium Bracer",source={ID=18635,SourceName="Cabal Deathsworn",SourceType="Kill",DropChance="10.0",Zone="Shadow Labyrinth"}}
@@ -718,13 +718,13 @@ items[24877] = {id=24877,name="Ironspine Bracelets",source={ID=21878,SourceName=
 items[24989] = {id=24989,name="Boulderfist Bracers",source={ID=21408,SourceName="Felfire Diemetradon",SourceType="Kill",DropChance="0.9",Zone="Shadowmoon Valley"}}
 items[23506] = {id=23506,name="Adamantite Plate Bracers",source={ID=29603,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24756] = {id=24756,name="Daggerfen Bindings",source={ID=18211,SourceName="Murkblood Brute",SourceType="Kill",DropChance="11.1",Zone="Nagrand"}}
-items[24981] = {id=24981,name="Reaver Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24748] = {id=24748,name="Ranger Armguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24861] = {id=24861,name="Marshcreeper Bracelets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24973] = {id=24973,name="Talonguard Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24981] = {id=24981,name="Reaver Bracers",source={ID=18934,SourceName="Durnholde Mage",SourceType="Kill",DropChance="0.2",Zone="Old Hillsbrad Foothills"}}
+items[24748] = {id=24748,name="Ranger Armguards",source={ID=22308,SourceName="Wyrmcult Hunter",SourceType="Kill",DropChance="0.1",Zone="Blade's Edge Mountains"}}
+items[24861] = {id=24861,name="Marshcreeper Bracelets",source={ID=20765,SourceName="Bladespire Crusher",SourceType="Kill",DropChance="0.1",Zone="Blade's Edge Mountains"}}
+items[24973] = {id=24973,name="Talonguard Bracers",source={ID=21238,SourceName="Bloodmaul Drudger",SourceType="Kill",DropChance="0.7",Zone="Blade's Edge Mountains"}}
 items[24628] = {id=24628,name="Slavehandler Wristguards",source={ID=17728,SourceName="Murkblood Tribesman",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
 items[24965] = {id=24965,name="Khan'aish Bracers",source={ID=17729,SourceName="Murkblood Spearman",SourceType="Kill",DropChance="20.0",Zone="The Underbog"}}
-items[25959] = {id=25959,name="Feathered Armbands",source={ID=10861,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[25959] = {id=25959,name="Feathered Armbands",source={ID=10861,SourceName="Veil Lithic: Preemptive Strike",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[24732] = {id=24732,name="Dementia Armguards",source={ID=18115,SourceName="Daggerfen Muckdweller",SourceType="Kill",DropChance="3.1",Zone="Zangarmarsh"}}
 items[24837] = {id=24837,name="Nexus-Strider Bracer",source={ID=184930,SourceName="Solid Fel Iron Chest",SourceType="Container",DropChance="20.0",Zone="Hellfire Ramparts"}}
 items[30771] = {id=30771,name="Heavy Draenic Bracers",source={ID=18010,SourceName="Maktu",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
@@ -748,29 +748,29 @@ items[26029] = {id=26029,name="Watchman's Bracers",source={ID=0,SourceName="",So
 items[15495] = {id=15495,name="Bloodspattered Wristbands",source={ID=17323,SourceName="Contaminated Wildkin",SourceType="Kill",DropChance="0.3",Zone="Bloodmyst Isle"}}
 items[24443] = {id=24443,name="Bracers of Shed Fur",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[2390] = {id=2390,name="Rusted Chain Bracers",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
-items[34432] = {id=34432,name="Lightbringer Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34443] = {id=34443,name="Gronnstalker's Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35168] = {id=35168,name="Guardian's Dreadweave Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35180] = {id=35180,name="Guardian's Wyrmhide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34432] = {id=34432,name="Lightbringer Bracers",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34443] = {id=34443,name="Gronnstalker's Bracers",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[35168] = {id=35168,name="Guardian's Dreadweave Cuffs",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35180] = {id=35180,name="Guardian's Wyrmhide Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32259] = {id=32259,name="Bands of the Coming Storm",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="5.1",Zone="Black Temple"}}
 items[32279] = {id=32279,name="The Seeker's Wristguards",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="9.8",Zone="Black Temple"}}
-items[33889] = {id=33889,name="Vindicator's Lamellar Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33897] = {id=33897,name="Vindicator's Mail Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33904] = {id=33904,name="Vindicator's Ornamented Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33889] = {id=33889,name="Vindicator's Lamellar Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33897] = {id=33897,name="Vindicator's Mail Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33904] = {id=33904,name="Vindicator's Ornamented Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32403] = {id=32403,name="Shadesteel Bracers",source={ID=40034,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24805] = {id=24805,name="Dragonhawk Bands",source={ID=16424,SourceName="Spectral Sentry",SourceType="Kill",DropChance="100.0",Zone="Karazhan"}}
 items[24797] = {id=24797,name="Expedition Bracers",source={ID=16409,SourceName="Phantom Guest",SourceType="Kill",DropChance="0.8",Zone="Karazhan"}}
 items[34602] = {id=34602,name="Eversong Cuffs",source={ID=24723,SourceName="Selin Fireheart",SourceType="Kill",DropChance="6.0",Zone="Magisters' Terrace"}}
 items[24901] = {id=24901,name="Tortured Bracer",source={ID=25486,SourceName="Shadowsword Vanquisher",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
-items[30352] = {id=30352,name="Demolisher's Bracers",source={ID=10345,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30940] = {id=30940,name="Aged Leather Bindings",source={ID=10816,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[32983] = {id=32983,name="General's Ornamented Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30352] = {id=30352,name="Demolisher's Bracers",source={ID=10345,SourceName="The Flesh Lies...",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30940] = {id=30940,name="Aged Leather Bindings",source={ID=10816,SourceName="Reclaiming Holy Grounds",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[32983] = {id=32983,name="General's Ornamented Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30464] = {id=30464,name="Lifeblood Bracers",source={ID=36672,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30837] = {id=30837,name="Flameheart Bracers",source={ID=37882,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24668] = {id=24668,name="Shadow Council Bracer",source={ID=19799,SourceName="Illidari Dreadbringer",SourceType="Kill",DropChance="25.0",Zone="Shadowmoon Valley"}}
 items[25005] = {id=25005,name="Bloodfist Vambraces",source={ID=16948,SourceName="Gan'arg Engineer",SourceType="Kill",DropChance="14.2",Zone="Netherstorm"}}
 items[24885] = {id=24885,name="Der'izu Bracer",source={ID=19429,SourceName="Avian Darkhawk",SourceType="Kill",DropChance="6.6",Zone="Sethekk Halls"}}
-items[31516] = {id=31516,name="Bracers of the Weald",source={ID=10713,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31516] = {id=31516,name="Bracers of the Weald",source={ID=10713,SourceName="...and a Time for Action",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[24644] = {id=24644,name="Mistyreed Bracer",source={ID=20134,SourceName="Sunfury Arcanist",SourceType="Kill",DropChance="4.5",Zone="Netherstorm"}}
 items[25626] = {id=25626,name="QR 9922 Paladin Bracer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24636] = {id=24636,name="Feralfen Cuffs",source={ID=18331,SourceName="Ethereal Darkcaster",SourceType="Kill",DropChance="6.6",Zone="Mana-Tombs"}}
@@ -798,17 +798,17 @@ items[3594] = {id=3594,name="Russet Bracers",source={ID=1147,SourceName="Hragran
 items[14206] = {id=14206,name="Vital Bracelets",source={ID=11682,SourceName="Warsong Grunt",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
 items[15112] = {id=15112,name="Rigid Bracelets",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
 items[26041] = {id=26041,name="Vigilant Vambraces",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[763] = {id=763,name="Ice-covered Bracers",source={ID=1119,SourceName="Hammerspine",SourceType="Kill",DropChance="74.3",Zone="Dun Morogh"}}
+items[763] = {id=763,name="Ice-covered Bracers",source={ID=1119,SourceName="Hammerspine",SourceType="Kill",DropChance="74.1",Zone="Dun Morogh"}}
 items[2327] = {id=2327,name="Sturdy Leather Bracers",source={ID=480,SourceName="Rusty Harvest Golem",SourceType="Kill",DropChance="2.5",Zone="Westfall"}}
-items[34437] = {id=34437,name="Skyshatter Bands",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34439] = {id=34439,name="Skyshatter Wristguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34437] = {id=34437,name="Skyshatter Bands",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34439] = {id=34439,name="Skyshatter Wristguards",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32959] = {id=32959,name="Tom's Bracer 3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32513] = {id=32513,name="Wristbands of Divine Influence",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="15.6",Zone="Black Temple"}}
 items[24526] = {id=24526,name="130 Epic Warrior Bracelets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24684] = {id=24684,name="Archmage Bracelets",source={ID=17695,SourceName="Shattered Hand Assassin",SourceType="Kill",DropChance="25.0",Zone="The Shattered Halls"}}
 items[34697] = {id=34697,name="Bindings of Raging Fire",source={ID=24723,SourceName="Selin Fireheart",SourceType="Kill",DropChance="16.2",Zone="Magisters' Terrace"}}
 items[30954] = {id=30954,name="QR 10637 Mail Hunter Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32986] = {id=32986,name="Marshal's Ornamented Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32986] = {id=32986,name="Marshal's Ornamented Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[29237] = {id=29237,name="Warpath Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[13738] = {id=13738,name="[PH] Cloth Bracers of the Brilliant Dawn",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[13739] = {id=13739,name="[PH] Cloth Bracers of the Rising Dawn",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -819,36 +819,36 @@ items[16799] = {id=16799,name="Arcanist Bindings",source={ID=11661,SourceName="F
 items[21087] = {id=21087,name="66 Epic Shadow Bindings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[18263] = {id=18263,name="Flarecore Wraps",source={ID=22759,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[23092] = {id=23092,name="Wristguards of Undead Slaying",source={ID=16379,SourceName="Spirit of the Damned",SourceType="Kill",DropChance="26.0",Zone="Burning Steppes"}}
-items[13211] = {id=13211,name="Slashclaw Bracers",source={ID=10220,SourceName="Halycon",SourceType="Kill",DropChance="26.1",Zone="Blackrock Spire"}}
+items[13211] = {id=13211,name="Slashclaw Bracers",source={ID=10220,SourceName="Halycon",SourceType="Kill",DropChance="26.0",Zone="Blackrock Spire"}}
 items[7386] = {id=7386,name="Green Whelp Bracers",source={ID=9202,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[26015] = {id=26015,name="Anchorite Neophyte's Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3323] = {id=3323,name="Ghostly Bracers",source={ID=1533,SourceName="Tormented Spirit",SourceType="Kill",DropChance="95.1",Zone="Tirisfal Glades"}}
 items[3596] = {id=3596,name="Tattered Cloth Bracers",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
-items[35172] = {id=35172,name="Guardian's Linked Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35176] = {id=35176,name="Guardian's Plate Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35172] = {id=35172,name="Guardian's Linked Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35176] = {id=35176,name="Guardian's Plate Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32580] = {id=32580,name="Swiftstrike Bracers",source={ID=41158,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[33580] = {id=33580,name="Band of the Swift Paw",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30382] = {id=30382,name="Aldor Ceremonial Wraps",source={ID=10381,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[33580] = {id=33580,name="Band of the Swift Paw",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30382] = {id=30382,name="Aldor Ceremonial Wraps",source={ID=10381,SourceName="Aldor No More",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[4010] = {id=4010,name="Sterling Chain Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16857] = {id=16857,name="Lawbringer Bracers",source={ID=11661,SourceName="Flamewaker",SourceType="Kill",DropChance="1.0",Zone="Molten Core"}}
 items[16486] = {id=16486,name="First Sergeant's Silk Cuffs",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[18700] = {id=18700,name="Malefic Bracers",source={ID=10499,SourceName="Spectral Researcher",SourceType="Kill",DropChance="0",Zone="Scholomance"}}
-items[11768] = {id=11768,name="Incendic Bracers",source={ID=9017,SourceName="Lord Incendius",SourceType="Kill",DropChance="42.8",Zone="Blackrock Depths"}}
+items[11768] = {id=11768,name="Incendic Bracers",source={ID=9017,SourceName="Lord Incendius",SourceType="Kill",DropChance="42.7",Zone="Blackrock Depths"}}
 items[186024] = {id=186024,name="Communal Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[4979] = {id=4979,name="Enchanted Stonecloth Bracers",source={ID=716,SourceName="",SourceType="Quest",DropChance="0",Zone="Badlands"}}
+items[4979] = {id=4979,name="Enchanted Stonecloth Bracers",source={ID=716,SourceName="Stone Is Better than Cloth",SourceType="Quest",DropChance="0",Zone="Badlands"}}
 items[4194] = {id=4194,name="Feathered Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14569] = {id=14569,name="Bristlebark Bindings",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
 items[3545] = {id=3545,name="Black Leather D02 Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34435] = {id=34435,name="Cuffs of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34438] = {id=34438,name="Skyshatter Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32819] = {id=32819,name="Veteran's Scaled Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34435] = {id=34435,name="Cuffs of Absolution",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34438] = {id=34438,name="Skyshatter Bracers",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32819] = {id=32819,name="Veteran's Scaled Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27483] = {id=27483,name="Moon-Touched Bands",source={ID=17381,SourceName="The Maker",SourceType="Kill",DropChance="25.8",Zone="The Blood Furnace"}}
-items[28170] = {id=28170,name="Auchenai Bracers",source={ID=10091,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
-items[32991] = {id=32991,name="General's Ringmail Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28170] = {id=28170,name="Auchenai Bracers",source={ID=10091,SourceName="The Soul Devices",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[32991] = {id=32991,name="General's Ringmail Bracers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[24764] = {id=24764,name="Umbrafen Bindings",source={ID=18934,SourceName="Durnholde Mage",SourceType="Kill",DropChance="3.4",Zone="Unknown"}}
 items[31221] = {id=31221,name="Illidari Vambraces",source={ID=18695,SourceName="Ambassador Jerrikar",SourceType="Kill",DropChance="42.0",Zone="Unknown"}}
-items[24869] = {id=24869,name="Blood Knight Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31175] = {id=31175,name="Blade Dancer's Wristguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24869] = {id=24869,name="Blood Knight Bracers",source={ID=19997,SourceName="Bladespire Enforcer",SourceType="Kill",DropChance="0.2",Zone="Blade's Edge Mountains"}}
+items[31175] = {id=31175,name="Blade Dancer's Wristguards",source={ID=5355,SourceName="Firewing Defender",SourceType="Kill",DropChance="0",Zone="Terokkar Forest"}}
 items[24612] = {id=24612,name="Laughing Skull Bracelets",source={ID=17957,SourceName="Coilfang Champion",SourceType="Kill",DropChance="5.0",Zone="The Slave Pens"}}
 items[16904] = {id=16904,name="Stormrage Bracers",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="20.9",Zone="Blackwing Lair"}}
 items[16943] = {id=16943,name="Bracers of Ten Storms",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="10.4",Zone="Blackwing Lair"}}
@@ -857,34 +857,34 @@ items[23129] = {id=23129,name="Bracers of Mending",source={ID=14690,SourceName="
 items[185999] = {id=185999,name="Communal Plate Vambraces",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[8205] = {id=8205,name="Tough Scorpid Bracers",source={ID=10533,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4043] = {id=4043,name="Aurora Bracers",source={ID=2569,SourceName="Boulderfist Mauler",SourceType="Kill",DropChance="0.3",Zone="Arathi Highlands"}}
-items[3211] = {id=3211,name="Burnished Bracers",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.7",Zone="Bloodmyst Isle"}}
-items[34442] = {id=34442,name="Onslaught Wristguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3211] = {id=3211,name="Burnished Bracers",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.0",Zone="Bloodmyst Isle"}}
+items[34442] = {id=34442,name="Onslaught Wristguards",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32571] = {id=32571,name="Dawnsteel Bracers",source={ID=41134,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25021] = {id=25021,name="Shattered Hand Vambraces",source={ID=17721,SourceName="Coilfang Engineer",SourceType="Kill",DropChance="33.3",Zone="The Steamvault"}}
 items[32532] = {id=32532,name="Windrager's Coils",source={ID=23162,SourceName="Vakkiz the Windrager",SourceType="Kill",DropChance="18.3",Zone="Unknown"}}
 items[25956] = {id=25956,name="Nexus-Bracers of Vigor",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="18.1",Zone="Mana-Tombs"}}
-items[24853] = {id=24853,name="Fenclaw Bindings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25958] = {id=25958,name="Eagle Engraved Bracers",source={ID=10861,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[24853] = {id=24853,name="Fenclaw Bindings",source={ID=16876,SourceName="Bonechewer Mutant",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
+items[25958] = {id=25958,name="Eagle Engraved Bracers",source={ID=10861,SourceName="Veil Lithic: Preemptive Strike",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[24829] = {id=24829,name="Netherstalker Bracer",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="5.8",Zone="Hellfire Ramparts"}}
-items[20626] = {id=20626,name="Black Bark Wristbands",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="14.8",Zone="Duskwood"}}
+items[20626] = {id=20626,name="Black Bark Wristbands",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="14.9",Zone="Duskwood"}}
 items[186040] = {id=186040,name="Communal Armguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[186084] = {id=186084,name="Communal Armguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[18432] = {id=18432,name="First Sergeant's Mail Wristguards",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
-items[18709] = {id=18709,name="Arena Wristguards",source={ID=179697,SourceName="Arena Treasure Chest",SourceType="Container",DropChance="8.4",Zone="Stranglethorn Vale"}}
-items[18711] = {id=18711,name="Arena Bands",source={ID=179697,SourceName="Arena Treasure Chest",SourceType="Container",DropChance="8.2",Zone="Stranglethorn Vale"}}
+items[18709] = {id=18709,name="Arena Wristguards",source={ID=179697,SourceName="Arena Treasure Chest",SourceType="Container",DropChance="8.5",Zone="Stranglethorn Vale"}}
+items[18711] = {id=18711,name="Arena Bands",source={ID=179697,SourceName="Arena Treasure Chest",SourceType="Container",DropChance="8.3",Zone="Stranglethorn Vale"}}
 items[9285] = {id=9285,name="Field Plate Vambraces",source={ID=5356,SourceName="Snarler",SourceType="Kill",DropChance="2.2",Zone="Feralas"}}
 items[9768] = {id=9768,name="Greenweave Bracers",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
-items[6556] = {id=6556,name="Bard's Bracers",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="3.6",Zone="Silverpine Forest"}}
+items[6556] = {id=6556,name="Bard's Bracers",source={ID=12433,SourceName="Krethis Shadowspinner",SourceType="Kill",DropChance="3.8",Zone="Silverpine Forest"}}
 items[2853] = {id=2853,name="Copper Bracers",source={ID=2663,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[3546] = {id=3546,name="Gray Leather D02 Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35173] = {id=35173,name="Guardian's Mail Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33883] = {id=33883,name="Vindicator's Dreadweave Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33910] = {id=33910,name="Vindicator's Scaled Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32821] = {id=32821,name="Veteran's Wyrmhide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35173] = {id=35173,name="Guardian's Mail Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33883] = {id=33883,name="Vindicator's Dreadweave Cuffs",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33910] = {id=33910,name="Vindicator's Scaled Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32821] = {id=32821,name="Veteran's Wyrmhide Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[24676] = {id=24676,name="Eldr'naan Bracelets",source={ID=17695,SourceName="Shattered Hand Assassin",SourceType="Kill",DropChance="18.2",Zone="The Shattered Halls"}}
 items[31284] = {id=31284,name="Bracers of Recklessness",source={ID=19961,SourceName="Doomforge Attendant",SourceType="Kill",DropChance="11.1",Zone="Blade's Edge Mountains"}}
 items[23494] = {id=23494,name="Fel Iron Chain Bracers",source={ID=29553,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28028] = {id=28028,name="Moonstruck Bands",source={ID=9951,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[28028] = {id=28028,name="Moonstruck Bands",source={ID=9951,SourceName="It's Watching You!",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[24451] = {id=24451,name="Lykul Bloodbands",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="28.5",Zone="The Underbog"}}
 items[21059] = {id=21059,name="66 Epic Fire Bindings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[18508] = {id=18508,name="Swift Flight Bracers",source={ID=22923,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -897,13 +897,13 @@ items[14654] = {id=14654,name="Scorpashi Wristbands",source={ID=7606,SourceName=
 items[14429] = {id=14429,name="Windchaser Cuffs",source={ID=5328,SourceName="Coast Crawl Deepseer",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
 items[9821] = {id=9821,name="Durable Bracers",source={ID=4066,SourceName="Nal'taszar",SourceType="Kill",DropChance="6.9",Zone="Stonetalon Mountains"}}
 items[4794] = {id=4794,name="Wolf Bracers",source={ID=844,SourceName="Antonio Perelli",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[33887] = {id=33887,name="Vindicator's Kodohide Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33887] = {id=33887,name="Vindicator's Kodohide Bracers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[16918] = {id=16918,name="Netherwind Bindings",source={ID=12435,SourceName="Razorgore the Untamed",SourceType="Kill",DropChance="23.1",Zone="Blackwing Lair"}}
 items[24578] = {id=24578,name="Loosely Threaded Bracers",source={ID=17728,SourceName="Murkblood Tribesman",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
 items[13208] = {id=13208,name="Bleak Howler Armguards",source={ID=10268,SourceName="Gizrul the Slavener",SourceType="Kill",DropChance="24.4",Zone="Blackrock Spire"}}
 items[6613] = {id=6613,name="Sage's Bracers",source={ID=15806,SourceName="Qiraji Lieutenant",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
-items[35171] = {id=35171,name="Guardian's Leather Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[20684] = {id=20684,name="Abyssal Mail Armguards",source={ID=15305,SourceName="Lord Skwol",SourceType="Kill",DropChance="33.7",Zone="Silithus"}}
+items[35171] = {id=35171,name="Guardian's Leather Bracers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[20684] = {id=20684,name="Abyssal Mail Armguards",source={ID=15305,SourceName="Lord Skwol",SourceType="Kill",DropChance="33.6",Zone="Silithus"}}
 items[18447] = {id=18447,name="Sergeant Major's Plate Wristguards",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[14770] = {id=14770,name="Ravager's Armguards",source={ID=7345,SourceName="Splinterbone Captain",SourceType="Kill",DropChance="0.5",Zone="Razorfen Downs"}}
 items[6563] = {id=6563,name="Shimmering Bracers",source={ID=15812,SourceName="Qiraji Officer",SourceType="Kill",DropChance="31.1",Zone="The Barrens"}}

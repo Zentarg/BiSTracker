@@ -20,70 +20,70 @@ items[30666] = {id=30666,name="Ritssyn's Lost Pendant",source={ID=16408,SourceNa
 items[28244] = {id=28244,name="Pendant of Triumph",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[28762] = {id=28762,name="Adornment of Stolen Souls",source={ID=15690,SourceName="Prince Malchezaar",SourceType="Kill",DropChance="28.5",Zone="Karazhan"}}
 items[34358] = {id=34358,name="Hard Khorium Choker",source={ID=46127,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[4743] = {id=4743,name="Pulsating Crystalline Shard",source={ID=656,SourceName="",SourceType="Quest",DropChance="0",Zone="Arathi Highlands"}}
+items[4743] = {id=4743,name="Pulsating Crystalline Shard",source={ID=656,SourceName="Summoning the Princess",SourceType="Quest",DropChance="0",Zone="Arathi Highlands"}}
 items[28509] = {id=28509,name="Worgen Claw Necklace",source={ID=15550,SourceName="Attumen the Huntsman",SourceType="Kill",DropChance="17.7",Zone="Karazhan"}}
 items[20950] = {id=20950,name="Pendant of the Agate Shield",source={ID=25610,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28609] = {id=28609,name="Emberspur Talisman",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
 items[28530] = {id=28530,name="Brooch of Unquenchable Fury",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="6.2",Zone="Karazhan"}}
-items[15411] = {id=15411,name="Mark of Fordring",source={ID=5944,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[15411] = {id=15411,name="Mark of Fordring",source={ID=5944,SourceName="In Dreams",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
 items[20966] = {id=20966,name="Jade Pendant of Blasting",source={ID=25618,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28516] = {id=28516,name="Barbed Choker of Discipline",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="13.3",Zone="Karazhan"}}
 items[34249] = {id=34249,name="Hula Girl Doll",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[24116] = {id=24116,name="Eye of the Night",source={ID=31071,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[4614] = {id=4614,name="Pendant of Myzrael",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="1.0",Zone="Desolace"}}
+items[4614] = {id=4614,name="Pendant of Myzrael",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
 items[28674] = {id=28674,name="Saberclaw Talisman",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
 items[24121] = {id=24121,name="Chain of the Twilight Owl",source={ID=31076,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28745] = {id=28745,name="Mithril Chain of Heroism",source={ID=16816,SourceName="Echo of Medivh",SourceType="Kill",DropChance="100.0",Zone="Karazhan"}}
-items[19377] = {id=19377,name="Prestor's Talisman of Connivery",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="28.8",Zone="Blackwing Lair"}}
-items[31692] = {id=31692,name="Natasha's Ember Necklace",source={ID=10912,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
-items[30377] = {id=30377,name="Karja's Medallion",source={ID=10323,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[20422] = {id=20422,name="Twilight Cultist Medallion of Station",source={ID=8332,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[19377] = {id=19377,name="Prestor's Talisman of Connivery",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="28.9",Zone="Blackwing Lair"}}
+items[31692] = {id=31692,name="Natasha's Ember Necklace",source={ID=10912,SourceName="The Hound-Master",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[30377] = {id=30377,name="Karja's Medallion",source={ID=10323,SourceName="Shutting Down Manaforge Ara",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[20422] = {id=20422,name="Twilight Cultist Medallion of Station",source={ID=8332,SourceName="Dukes of the Council",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[27792] = {id=27792,name="Steam-Hinge Chain of Valor",source={ID=17796,SourceName="Mekgineer Steamrigger",SourceType="Kill",DropChance="5.5",Zone="The Steamvault"}}
-items[19426] = {id=19426,name="Orb of the Darkmoon",source={ID=7940,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[19426] = {id=19426,name="Orb of the Darkmoon",source={ID=7940,SourceName="1200 Tickets - Orb of the Darkmoon",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
 items[32508] = {id=32508,name="Necklace of the Deep",source={ID=40514,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31691] = {id=31691,name="Natasha's Guardian Cord",source={ID=10912,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31691] = {id=31691,name="Natasha's Guardian Cord",source={ID=10912,SourceName="The Hound-Master",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[28731] = {id=28731,name="Shining Chain of the Afterworld",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
-items[30378] = {id=30378,name="Thalodien's Charm",source={ID=10365,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30378] = {id=30378,name="Thalodien's Charm",source={ID=10365,SourceName="Shutting Down Manaforge Ara",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[29386] = {id=29386,name="Necklace of the Juggernaut",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[34679] = {id=34679,name="Shattered Sun Pendant of Might",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34679] = {id=34679,name="Shattered Sun Pendant of Might",source={ID=25032,SourceName="Eldara Dawnrunner",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30726] = {id=30726,name="Archaic Charm of Presence",source={ID=17711,SourceName="Doomwalker",SourceType="Kill",DropChance="21.7",Zone="Unknown"}}
-items[31695] = {id=31695,name="Natasha's Choker",source={ID=10912,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
-items[34678] = {id=34678,name="Shattered Sun Pendant of Acumen",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22657] = {id=22657,name="Amulet of the Dawn",source={ID=9222,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[31695] = {id=31695,name="Natasha's Choker",source={ID=10912,SourceName="The Hound-Master",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[34678] = {id=34678,name="Shattered Sun Pendant of Acumen",source={ID=25032,SourceName="Eldara Dawnrunner",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[22657] = {id=22657,name="Amulet of the Dawn",source={ID=9222,SourceName="Epic Armaments of Battle - Friend of the Dawn",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
 items[29347] = {id=29347,name="Talisman of the Breaker",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="4.3",Zone="The Blood Furnace"}}
 items[29119] = {id=29119,name="Haramad's Bargain",source={ID=20242,SourceName="Karaaz",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
-items[31696] = {id=31696,name="Natasha's Battle Chain",source={ID=10912,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
-items[29336] = {id=29336,name="Mark of the Ravenguard",source={ID=10097,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[31696] = {id=31696,name="Natasha's Battle Chain",source={ID=10912,SourceName="The Hound-Master",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[29336] = {id=29336,name="Mark of the Ravenguard",source={ID=10097,SourceName="Brother Against Brother",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[28343] = {id=28343,name="Jagged Bark Pendant",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
 items[29173] = {id=29173,name="Strength of the Untamed",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[29349] = {id=29349,name="Adamantine Chain of the Unbroken",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="10.6",Zone="The Slave Pens"}}
 items[30017] = {id=30017,name="Telonicus's Pendant of Mayhem",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20967] = {id=20967,name="Citrine Pendant of Golden Healing",source={ID=25622,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[25562] = {id=25562,name="Earthen Mark of Razing",source={ID=9853,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25562] = {id=25562,name="Earthen Mark of Razing",source={ID=9853,SourceName="Gurok the Usurper",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[21790] = {id=21790,name="Sapphire Pendant of Winter Night",source={ID=26908,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[34359] = {id=34359,name="Pendant of Sunfire",source={ID=46125,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[29815] = {id=29815,name="Chain of Glowing Tendrils",source={ID=10293,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[18814] = {id=18814,name="Choker of the Fire Lord",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="29.2",Zone="Molten Core"}}
-items[22659] = {id=22659,name="Medallion of the Dawn",source={ID=9222,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
-items[29333] = {id=29333,name="Torc of the Sethekk Prophet",source={ID=10097,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[29815] = {id=29815,name="Chain of Glowing Tendrils",source={ID=10293,SourceName="Hitting the Motherlode",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[18814] = {id=18814,name="Choker of the Fire Lord",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="28.9",Zone="Molten Core"}}
+items[22659] = {id=22659,name="Medallion of the Dawn",source={ID=9222,SourceName="Epic Armaments of Battle - Friend of the Dawn",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[29333] = {id=29333,name="Torc of the Sethekk Prophet",source={ID=10097,SourceName="Brother Against Brother",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[29374] = {id=29374,name="Necklace of Eternal Hope",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[35507] = {id=35507,name="Amulet of Bitter Hatred",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19588] = {id=19588,name="Hero's Brand",source={ID=8048,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[30015] = {id=30015,name="The Sun King's Talisman",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19491] = {id=19491,name="Amulet of the Darkmoon",source={ID=7981,SourceName="",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
+items[19588] = {id=19588,name="Hero's Brand",source={ID=8048,SourceName="The Hero's Brand",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[30015] = {id=30015,name="The Sun King's Talisman",source={ID=11007,SourceName="Kael'thas and the Verdant Sphere",SourceType="Quest",DropChance="0",Zone="Raid"}}
+items[19491] = {id=19491,name="Amulet of the Darkmoon",source={ID=7981,SourceName="1200 Tickets - Amulet of the Darkmoon",SourceType="Quest",DropChance="0",Zone="Darkmoon Faire"}}
 items[17111] = {id=17111,name="Blazefury Medallion",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="17.8",Zone="Blasted Lands"}}
-items[22149] = {id=22149,name="Beads of Ogre Mojo",source={ID=8949,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[22149] = {id=22149,name="Beads of Ogre Mojo",source={ID=8949,SourceName="Falrin's Vendetta",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
 items[27779] = {id=27779,name="Bone Chain Necklace",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
 items[21764] = {id=21764,name="Ruby Pendant of Fire",source={ID=26883,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[21755] = {id=21755,name="Aquamarine Pendant of the Warrior",source={ID=26876,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30419] = {id=30419,name="Brilliant Necklace",source={ID=36523,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28168] = {id=28168,name="Insignia of the Mag'hari Hero",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30018] = {id=30018,name="Lord Sanguinar's Claim",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30018] = {id=30018,name="Lord Sanguinar's Claim",source={ID=11007,SourceName="Kael'thas and the Verdant Sphere",SourceType="Quest",DropChance="0",Zone="Raid"}}
 items[27546] = {id=27546,name="Traitor's Noose",source={ID=17941,SourceName="Mennu the Betrayer",SourceType="Kill",DropChance="20.0",Zone="The Slave Pens"}}
 items[21793] = {id=21793,name="Arcanite Sword Pendant",source={ID=26918,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19303] = {id=19303,name="Darkmoon Necklace",source={ID=14846,SourceName="Lhara",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[34680] = {id=34680,name="Shattered Sun Pendant of Resolve",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[17044] = {id=17044,name="Will of the Martyr",source={ID=5125,SourceName="",SourceType="Quest",DropChance="0",Zone="Stratholme"}}
+items[17044] = {id=17044,name="Will of the Martyr",source={ID=5125,SourceName="Aurius' Reckoning",SourceType="Quest",DropChance="0",Zone="Stratholme"}}
 items[20956] = {id=20956,name="Silver Rose Pendant",source={ID=25614,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24073] = {id=24073,name="Garrote-String Necklace",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="14.7",Zone="Hellfire Ramparts"}}
 items[19534] = {id=19534,name="Scout's Medallion",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
@@ -93,79 +93,79 @@ items[32531] = {id=32531,name="Gezzarak's Fang",source={ID=23163,SourceName="Gez
 items[31338] = {id=31338,name="Charlotte's Ivy",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20831] = {id=20831,name="Heavy Golden Necklace of Battle",source={ID=25320,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27758] = {id=27758,name="Hydra-fang Necklace",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
-items[23053] = {id=23053,name="Stormrage's Talisman of Seething",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="35.3",Zone="Naxxramas"}}
+items[23053] = {id=23053,name="Stormrage's Talisman of Seething",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="35.4",Zone="Naxxramas"}}
 items[12929] = {id=12929,name="Emberfury Talisman",source={ID=9816,SourceName="Pyroguard Emberseer",SourceType="Kill",DropChance="13.0",Zone="Blackrock Spire"}}
 items[22732] = {id=22732,name="Mark of C'Thun",source={ID=15727,SourceName="C'Thun",SourceType="Kill",DropChance="31.7",Zone="Ahn'Qiraj"}}
 items[24096] = {id=24096,name="Heartblood Prayer Beads",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="20.5",Zone="Hellfire Ramparts"}}
-items[19621] = {id=19621,name="Maelstrom's Wrath",source={ID=8148,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[21712] = {id=21712,name="Amulet of the Fallen God",source={ID=8802,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[19621] = {id=19621,name="Maelstrom's Wrath",source={ID=8148,SourceName="Maelstrom's Wrath",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[21712] = {id=21712,name="Amulet of the Fallen God",source={ID=8802,SourceName="The Savior of Kalimdor",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[21608] = {id=21608,name="Amulet of Vek'nilash",source={ID=15275,SourceName="Emperor Vek'nilash",SourceType="Kill",DropChance="22.1",Zone="Ahn'Qiraj"}}
-items[21507] = {id=21507,name="Amulet of the Shifting Sands",source={ID=8791,SourceName="",SourceType="Quest",DropChance="0",Zone="Ruins of Ahn'Qiraj"}}
-items[15856] = {id=15856,name="Archlight Talisman",source={ID=5942,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[21507] = {id=21507,name="Amulet of the Shifting Sands",source={ID=8791,SourceName="The Fall of Ossirian",SourceType="Quest",DropChance="0",Zone="Ruins of Ahn'Qiraj"}}
+items[15856] = {id=15856,name="Archlight Talisman",source={ID=5942,SourceName="Hidden Treasures",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
 items[34677] = {id=34677,name="Shattered Sun Pendant of Restoration",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22403] = {id=22403,name="Diana's Pearl Necklace",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="23.2",Zone="Stratholme"}}
+items[22403] = {id=22403,name="Diana's Pearl Necklace",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="23.4",Zone="Stratholme"}}
 items[30008] = {id=30008,name="Pendant of the Lost Ages",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="17.8",Zone="Serpentshrine Cavern"}}
 items[21766] = {id=21766,name="Opal Necklace of Impact",source={ID=26897,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[21504] = {id=21504,name="Charm of the Shifting Sands",source={ID=8791,SourceName="",SourceType="Quest",DropChance="0",Zone="Ruins of Ahn'Qiraj"}}
+items[21504] = {id=21504,name="Charm of the Shifting Sands",source={ID=8791,SourceName="The Fall of Ossirian",SourceType="Quest",DropChance="0",Zone="Ruins of Ahn'Qiraj"}}
 items[19098] = {id=19098,name="Stormpike Sage's Pendant",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[32591] = {id=32591,name="Choker of Serrated Blades",source={ID=17897,SourceName="Crypt Fiend",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
 items[20442] = {id=20442,name="Scout's Medallion",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
-items[31693] = {id=31693,name="Natasha's Arcane Filament",source={ID=10912,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31693] = {id=31693,name="Natasha's Arcane Filament",source={ID=10912,SourceName="The Hound-Master",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[19095] = {id=19095,name="Frostwolf Legionnaire's Pendant",source={ID=13218,SourceName="Grunnda Wolfheart",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[20037] = {id=20037,name="Arcane Crystal Pendant",source={ID=8253,SourceName="",SourceType="Quest",DropChance="0",Zone="Mage"}}
+items[20037] = {id=20037,name="Arcane Crystal Pendant",source={ID=8253,SourceName="Destroy Morphaz",SourceType="Quest",DropChance="0",Zone="Mage"}}
 items[32757] = {id=32757,name="Blessed Medallion of Karabor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27871] = {id=27871,name="Maladaar's Blessed Chaplet",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="26.0",Zone="Auchenai Crypts"}}
 items[20444] = {id=20444,name="Sentinel's Medallion",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[9243] = {id=9243,name="Shriveled Heart",source={ID=7789,SourceName="Sandfury Cretin",SourceType="Kill",DropChance="25.0",Zone="Zul'Farrak"}}
 items[20830] = {id=20830,name="Amulet of the Moon",source={ID=25339,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25438] = {id=25438,name="Malachite Pendant",source={ID=32178,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31275] = {id=31275,name="Necklace of Trophies",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19609] = {id=19609,name="Unmarred Vision of Voodress",source={ID=8119,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[31275] = {id=31275,name="Necklace of Trophies",source={ID=17134,SourceName="Boulderfist Crusher",SourceType="Kill",DropChance="0",Zone="Nagrand"}}
+items[19609] = {id=19609,name="Unmarred Vision of Voodress",source={ID=8119,SourceName="The Unmarred Vision of Voodress",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[18723] = {id=18723,name="Animated Chain Necklace",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="11.7",Zone="Stratholme"}}
 items[19096] = {id=19096,name="Frostwolf Advisor's Pendant",source={ID=13218,SourceName="Grunnda Wolfheart",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[30007] = {id=30007,name="The Darkener's Grasp",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29335] = {id=29335,name="Talon Lord's Collar",source={ID=10097,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
-items[22150] = {id=22150,name="Beads of Ogre Might",source={ID=8949,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[29335] = {id=29335,name="Talon Lord's Collar",source={ID=10097,SourceName="Brother Against Brother",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[22150] = {id=22150,name="Beads of Ogre Might",source={ID=8949,SourceName="Falrin's Vendetta",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
 items[21792] = {id=21792,name="Necklace of the Diamond Tower",source={ID=26915,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[34360] = {id=34360,name="Amulet of Flowing Life",source={ID=46126,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[7731] = {id=7731,name="Ghostshard Talisman",source={ID=6490,SourceName="Azshir the Sleepless",SourceType="Kill",DropChance="34.2",Zone="Scarlet Monastery"}}
+items[7731] = {id=7731,name="Ghostshard Talisman",source={ID=6490,SourceName="Azshir the Sleepless",SourceType="Kill",DropChance="34.1",Zone="Scarlet Monastery"}}
 items[30022] = {id=30022,name="Pendant of the Perilous",source={ID=21218,SourceName="Vashj'ir Honor Guard",SourceType="Kill",DropChance="1.1",Zone="Unknown"}}
 items[24385] = {id=24385,name="Pendant of Battle-Lust",source={ID=17381,SourceName="The Maker",SourceType="Kill",DropChance="23.3",Zone="The Blood Furnace"}}
 items[10769] = {id=10769,name="Glowing Eye of Mordresh",source={ID=7357,SourceName="Mordresh Fire Eye",SourceType="Kill",DropChance="32.3",Zone="Razorfen Downs"}}
-items[22981] = {id=22981,name="Gluth's Missing Collar",source={ID=15932,SourceName="Gluth",SourceType="Kill",DropChance="41.9",Zone="Naxxramas"}}
+items[22981] = {id=22981,name="Gluth's Missing Collar",source={ID=15932,SourceName="Gluth",SourceType="Kill",DropChance="42.1",Zone="Naxxramas"}}
 items[34204] = {id=34204,name="Amulet of Unfettered Magics",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="16.2",Zone="Unknown"}}
 items[28233] = {id=28233,name="Necklace of Resplendent Hope",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="19.1",Zone="Old Hillsbrad Foothills"}}
 items[29123] = {id=29123,name="Medallion of the Lightbearer",source={ID=19321,SourceName="Quartermaster Endarin",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[19613] = {id=19613,name="Pristine Enchanted South Seas Kelp",source={ID=8113,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19613] = {id=19613,name="Pristine Enchanted South Seas Kelp",source={ID=8113,SourceName="Pristine Enchanted South Seas Kelp",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[19538] = {id=19538,name="Sentinel's Medallion",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[29334] = {id=29334,name="Sethekk Oracle's Focus",source={ID=10097,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
-items[23057] = {id=23057,name="Gem of Trapped Innocents",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="47.0",Zone="Naxxramas"}}
+items[29334] = {id=29334,name="Sethekk Oracle's Focus",source={ID=10097,SourceName="Brother Against Brother",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[23057] = {id=23057,name="Gem of Trapped Innocents",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="47.2",Zone="Naxxramas"}}
 items[19856] = {id=19856,name="The Eye of Hakkar",source={ID=14834,SourceName="Hakkar",SourceType="Kill",DropChance="19.6",Zone="Zul'Gurub"}}
 items[33066] = {id=33066,name="Veteran's Pendant of Triumph",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24110] = {id=24110,name="Living Ruby Pendant",source={ID=31068,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[11946] = {id=11946,name="Fire Opal Necklace",source={ID=160836,SourceName="Relic Coffer",SourceType="Container",DropChance="0.5",Zone="Alterac Valley"}}
 items[31154] = {id=31154,name="Bronze Torc",source={ID=38175,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19620] = {id=19620,name="Maelstrom's Tendril",source={ID=8147,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19594] = {id=19594,name="The All-Seeing Eye of Zuldazar",source={ID=8052,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19620] = {id=19620,name="Maelstrom's Tendril",source={ID=8147,SourceName="The Maelstrom's Tendril",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19594] = {id=19594,name="The All-Seeing Eye of Zuldazar",source={ID=8052,SourceName="The All-Seeing Eye of Zuldazar",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[13091] = {id=13091,name="Medallion of Grand Marshal Morris",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[24106] = {id=24106,name="Thick Felsteel Necklace",source={ID=31067,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19577] = {id=19577,name="Rage of Mugamba",source={ID=8044,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19577] = {id=19577,name="Rage of Mugamba",source={ID=8044,SourceName="The Rage of Mugamba",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[34177] = {id=34177,name="Clutch of Demise",source={ID=25158,SourceName="Brutallus",SourceType="Kill",DropChance="40.0",Zone="Unknown"}}
 items[29368] = {id=29368,name="Manasurge Pendant",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[19876] = {id=19876,name="Soul Corrupter's Necklace",source={ID=14834,SourceName="Hakkar",SourceType="Kill",DropChance="16.3",Zone="Zul'Gurub"}}
-items[7722] = {id=7722,name="Triune Amulet",source={ID=3977,SourceName="High Inquisitor Whitemane",SourceType="Kill",DropChance="37.1",Zone="Scarlet Monastery"}}
+items[7722] = {id=7722,name="Triune Amulet",source={ID=3977,SourceName="High Inquisitor Whitemane",SourceType="Kill",DropChance="37.0",Zone="Scarlet Monastery"}}
 items[30099] = {id=30099,name="Frayed Tether of the Drowned",source={ID=21214,SourceName="Fathom-Lord Karathress",SourceType="Kill",DropChance="18.5",Zone="Serpentshrine Cavern"}}
 items[33281] = {id=33281,name="Brooch of Nature's Mercy",source={ID=23574,SourceName="Akil'zon",SourceType="Kill",DropChance="14.8",Zone="Unknown"}}
-items[19885] = {id=19885,name="Jin'do's Evil Eye",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="14.1",Zone="Zul'Gurub"}}
+items[19885] = {id=19885,name="Jin'do's Evil Eye",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="14.2",Zone="Zul'Gurub"}}
 items[23169] = {id=23169,name="Scorn's Icy Choker",source={ID=14693,SourceName="Scorn",SourceType="Kill",DropChance="38.4",Zone="Scarlet Monastery"}}
 items[34178] = {id=34178,name="Collar of the Pit Lord",source={ID=25158,SourceName="Brutallus",SourceType="Kill",DropChance="40.0",Zone="Unknown"}}
 items[33065] = {id=33065,name="Veteran's Pendant of Dominance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19871] = {id=19871,name="Talisman of Protection",source={ID=14510,SourceName="High Priestess Mar'li",SourceType="Kill",DropChance="18.8",Zone="Zul'Gurub"}}
-items[22943] = {id=22943,name="Malice Stone Pendant",source={ID=15953,SourceName="Grand Widow Faerlina",SourceType="Kill",DropChance="36.2",Zone="Naxxramas"}}
-items[19600] = {id=19600,name="Pebble of Kajaro",source={ID=8103,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19601] = {id=19601,name="Jewel of Kajaro",source={ID=8104,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19605] = {id=19605,name="Kezan's Unstoppable Taint",source={ID=8109,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[13473] = {id=13473,name="Felstone Good Luck Charm",source={ID=5051,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[19871] = {id=19871,name="Talisman of Protection",source={ID=14510,SourceName="High Priestess Mar'li",SourceType="Kill",DropChance="18.9",Zone="Zul'Gurub"}}
+items[22943] = {id=22943,name="Malice Stone Pendant",source={ID=15953,SourceName="Grand Widow Faerlina",SourceType="Kill",DropChance="36.3",Zone="Naxxramas"}}
+items[19600] = {id=19600,name="Pebble of Kajaro",source={ID=8103,SourceName="The Pebble of Kajaro",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19601] = {id=19601,name="Jewel of Kajaro",source={ID=8104,SourceName="The Jewel of Kajaro",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19605] = {id=19605,name="Kezan's Unstoppable Taint",source={ID=8109,SourceName="Kezan's Unstoppable Taint",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[13473] = {id=13473,name="Felstone Good Luck Charm",source={ID=5051,SourceName="Two Halves Become One",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
 items[18442] = {id=18442,name="Master Sergeant's Insignia",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[28321] = {id=28321,name="Enchanted Thorium Torque",source={ID=17975,SourceName="High Botanist Freywinn",SourceType="Kill",DropChance="17.1",Zone="The Botanica"}}
 items[18289] = {id=18289,name="Barbed Thorn Necklace",source={ID=13021,SourceName="Warpwood Crusher",SourceType="Kill",DropChance="2.1",Zone="Dire Maul"}}
@@ -174,20 +174,20 @@ items[10829] = {id=10829,name="Dragon's Eye",source={ID=5709,SourceName="Shade o
 items[13089] = {id=13089,name="Skibi's Pendant",source={ID=4469,SourceName="Emerald Ooze",SourceType="Kill",DropChance="0.1",Zone="The Hinterlands"}}
 items[34184] = {id=34184,name="Brooch of the Highborne",source={ID=25038,SourceName="Felmyst",SourceType="Kill",DropChance="27.2",Zone="Sunwell Plateau"}}
 items[32349] = {id=32349,name="Translucent Spellthread Necklace",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="14.5",Zone="Unknown"}}
-items[32649] = {id=32649,name="Medallion of Karabor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32649] = {id=32649,name="Medallion of Karabor",source={ID=10985,SourceName="A Distraction for Akama",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[28254] = {id=28254,name="Warp Engineer's Prismatic Chain",source={ID=19219,SourceName="Mechano-Lord Capacitus",SourceType="Kill",DropChance="21.8",Zone="The Mechanar"}}
-items[23036] = {id=23036,name="Necklace of Necropsy",source={ID=15936,SourceName="Heigan the Unclean",SourceType="Kill",DropChance="27.7",Zone="Naxxramas"}}
+items[23036] = {id=23036,name="Necklace of Necropsy",source={ID=15936,SourceName="Heigan the Unclean",SourceType="Kill",DropChance="27.8",Zone="Naxxramas"}}
 items[32260] = {id=32260,name="Choker of Endless Nightmares",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="18.3",Zone="Black Temple"}}
 items[24093] = {id=24093,name="Pendant of Thawing",source={ID=31063,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[21505] = {id=21505,name="Choker of the Shifting Sands",source={ID=8791,SourceName="",SourceType="Quest",DropChance="0",Zone="Ruins of Ahn'Qiraj"}}
+items[21505] = {id=21505,name="Choker of the Shifting Sands",source={ID=8791,SourceName="The Fall of Ossirian",SourceType="Quest",DropChance="0",Zone="Ruins of Ahn'Qiraj"}}
 items[12103] = {id=12103,name="Star of Mystaria",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="19.8",Zone="Stratholme"}}
-items[19575] = {id=19575,name="Strength of Mugamba",source={ID=8042,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19575] = {id=19575,name="Strength of Mugamba",source={ID=8042,SourceName="Strength of Mount Mugamba",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[12025] = {id=12025,name="Selenium Chain",source={ID=7045,SourceName="Scalding Drake",SourceType="Kill",DropChance="0.6",Zone="Burning Steppes"}}
 items[1315] = {id=1315,name="Lei of Lilies",source={ID=1791,SourceName="Slavering Ghoul",SourceType="Kill",DropChance="0",Zone="Western Plaguelands"}}
 items[13085] = {id=13085,name="Horizon Choker",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
-items[9641] = {id=9641,name="Lifeblood Amulet",source={ID=8127,SourceName="Antu'sul",SourceType="Kill",DropChance="34.6",Zone="Zul'Farrak"}}
+items[9641] = {id=9641,name="Lifeblood Amulet",source={ID=8127,SourceName="Antu'sul",SourceType="Kill",DropChance="34.5",Zone="Zul'Farrak"}}
 items[12019] = {id=12019,name="Cerulean Talisman",source={ID=4425,SourceName="Blind Hunter",SourceType="Kill",DropChance="0.1",Zone="Razorfen Kraul"}}
-items[30276] = {id=30276,name="Wheeler Family Heirloom",source={ID=10206,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30276] = {id=30276,name="Wheeler Family Heirloom",source={ID=10206,SourceName="Pick Your Part",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[24462] = {id=24462,name="Luminous Pearls of Insight",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="14.2",Zone="The Underbog"}}
 items[28043] = {id=28043,name="Demon Stalker Pendant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23023] = {id=23023,name="Sadist's Collar",source={ID=16060,SourceName="Gothik the Harvester",SourceType="Kill",DropChance="30.8",Zone="Naxxramas"}}
@@ -195,30 +195,30 @@ items[12036] = {id=12036,name="Granite Necklace",source={ID=16072,SourceName="Ti
 items[12042] = {id=12042,name="Marsh Chain",source={ID=8337,SourceName="Dark Iron Steelshifter",SourceType="Kill",DropChance="0.3",Zone="Searing Gorge"}}
 items[13084] = {id=13084,name="Kaleidoscope Chain",source={ID=697,SourceName="Bloodscalp Shaman",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
 items[32589] = {id=32589,name="Hellfire-Encased Pendant",source={ID=17897,SourceName="Crypt Fiend",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
-items[19617] = {id=19617,name="Zandalarian Shadow Mastery Talisman",source={ID=8144,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19618] = {id=19618,name="Maelstrom's Tendril",source={ID=8145,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19617] = {id=19617,name="Zandalarian Shadow Mastery Talisman",source={ID=8144,SourceName="Zandalarian Shadow Mastery Talisman",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19618] = {id=19618,name="Maelstrom's Tendril",source={ID=8145,SourceName="The Maelstrom's Tendril",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[5754] = {id=5754,name="Wolfpack Medallion",source={ID=3792,SourceName="Terrowulf Packlord",SourceType="Kill",DropChance="50.4",Zone="Ashenvale"}}
 items[24092] = {id=24092,name="Pendant of Frozen Flame",source={ID=31062,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31694] = {id=31694,name="Natasha's Pack Collar",source={ID=10912,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31694] = {id=31694,name="Natasha's Pack Collar",source={ID=10912,SourceName="The Hound-Master",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[25954] = {id=25954,name="Sigil of Shaffar",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="27.2",Zone="Mana-Tombs"}}
 items[24460] = {id=24460,name="Talisman of Tenacity",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="14.2",Zone="The Underbog"}}
-items[31727] = {id=31727,name="Choker of Bloodied Feathers",source={ID=10879,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
-items[22947] = {id=22947,name="Pendant of Forgotten Names",source={ID=15952,SourceName="Maexxna",SourceType="Kill",DropChance="17.4",Zone="Naxxramas"}}
-items[19616] = {id=19616,name="Zandalarian Shadow Talisman",source={ID=8143,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[31727] = {id=31727,name="Choker of Bloodied Feathers",source={ID=10879,SourceName="The Skettis Offensive",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[22947] = {id=22947,name="Pendant of Forgotten Names",source={ID=15952,SourceName="Maexxna",SourceType="Kill",DropChance="17.3",Zone="Naxxramas"}}
+items[19616] = {id=19616,name="Zandalarian Shadow Talisman",source={ID=8143,SourceName="Zandalarian Shadow Talisman",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[22340] = {id=22340,name="Pendant of Celerity",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="23.1",Zone="Blackrock Spire"}}
 items[18397] = {id=18397,name="Elder Magus Pendant",source={ID=11487,SourceName="Magister Kalendris",SourceType="Kill",DropChance="19.2",Zone="Dire Maul"}}
-items[13177] = {id=13177,name="Talisman of Evasion",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="18.0",Zone="Blackrock Spire"}}
-items[19602] = {id=19602,name="Kezan's Taint",source={ID=8106,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[13177] = {id=13177,name="Talisman of Evasion",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="18.2",Zone="Blackrock Spire"}}
+items[19602] = {id=19602,name="Kezan's Taint",source={ID=8106,SourceName="Kezan's Taint",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[17707] = {id=17707,name="Gemshard Heart",source={ID=12201,SourceName="Princess Theradras",SourceType="Kill",DropChance="19.5",Zone="Maraudon"}}
 items[12023] = {id=12023,name="Tellurium Necklace",source={ID=14445,SourceName="Lord Captain Wyrmak",SourceType="Kill",DropChance="0.2",Zone="Swamp of Sorrows"}}
 items[32362] = {id=32362,name="Pendant of Titans",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="12.6",Zone="Unknown"}}
 items[32370] = {id=32370,name="Nadina's Pendant of Purity",source={ID=22947,SourceName="Mother Shahraz",SourceType="Kill",DropChance="17.5",Zone="Black Temple"}}
 items[25071] = {id=25071,name="Tanzanite Pendant",source={ID=16525,SourceName="Spell Shade",SourceType="Kill",DropChance="25.0",Zone="Karazhan"}}
-items[31726] = {id=31726,name="Necklace of Bloodied Feathers",source={ID=10879,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[31726] = {id=31726,name="Necklace of Bloodied Feathers",source={ID=10879,SourceName="The Skettis Offensive",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[21664] = {id=21664,name="Barbed Choker",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="23.4",Zone="Ahn'Qiraj"}}
 items[19371] = {id=19371,name="Pendant of the Fallen Dragon",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="37.9",Zone="Blackwing Lair"}}
-items[19604] = {id=19604,name="Kezan's Taint",source={ID=8108,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19619] = {id=19619,name="Maelstrom's Tendril",source={ID=8146,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19604] = {id=19604,name="Kezan's Taint",source={ID=8108,SourceName="Kezan's Taint",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19619] = {id=19619,name="Maelstrom's Tendril",source={ID=8146,SourceName="The Maelstrom's Tendril",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[12035] = {id=12035,name="Obsidian Pendant",source={ID=7068,SourceName="Condemned Acolyte",SourceType="Kill",DropChance="1.3",Zone="Hillsbrad Foothills"}}
 items[6695] = {id=6695,name="Stygian Bone Amulet",source={ID=4425,SourceName="Blind Hunter",SourceType="Kill",DropChance="27.0",Zone="Razorfen Kraul"}}
 items[35133] = {id=35133,name="Guardian's Pendant of Dominance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -232,8 +232,8 @@ items[33068] = {id=33068,name="Veteran's Pendant of Salvation",source={ID=0,Sour
 items[27464] = {id=27464,name="Omor's Unyielding Will",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="10.8",Zone="Hellfire Ramparts"}}
 items[28419] = {id=28419,name="Choker of Fluid Thought",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="20.2",Zone="The Arcatraz"}}
 items[24097] = {id=24097,name="Pendant of Shadow's End",source={ID=31065,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31147] = {id=31147,name="Pendant of Cunning",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19593] = {id=19593,name="The Eye of Zuldazar",source={ID=8051,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[31147] = {id=31147,name="Pendant of Cunning",source={ID=1410,SourceName="Firewing Bloodwarder",SourceType="Kill",DropChance="0",Zone="Terokkar Forest"}}
+items[19593] = {id=19593,name="The Eye of Zuldazar",source={ID=8051,SourceName="The Eye of Zuldazar",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[22327] = {id=22327,name="Amulet of the Redeemed",source={ID=181083,SourceName="Sothos and Jarien's Heirlooms",SourceType="Container",DropChance="26.2",Zone="Stratholme"}}
 items[18728] = {id=18728,name="Anastari Heirloom",source={ID=10436,SourceName="Baroness Anastari",SourceType="Kill",DropChance="17.7",Zone="Stratholme"}}
 items[12026] = {id=12026,name="Quicksilver Pendant",source={ID=11885,SourceName="Blighthound",SourceType="Kill",DropChance="0.5",Zone="Eastern Plaguelands"}}
@@ -241,34 +241,34 @@ items[19535] = {id=19535,name="Scout's Medallion",source={ID=14754,SourceName="K
 items[12044] = {id=12044,name="Arctic Pendant",source={ID=8300,SourceName="Ravage",SourceType="Kill",DropChance="0.3",Zone="Blasted Lands"}}
 items[12024] = {id=12024,name="Vanadium Talisman",source={ID=6650,SourceName="General Fangferror",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
 items[13087] = {id=13087,name="River Pride Choker",source={ID=595,SourceName="Bloodscalp Hunter",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
-items[5002] = {id=5002,name="Glowing Green Talisman",source={ID=6167,SourceName="Chimaera Matriarch",SourceType="Kill",DropChance="0.3",Zone="Stonetalon Mountains"}}
+items[5002] = {id=5002,name="Glowing Green Talisman",source={ID=11683,SourceName="Warsong Shaman",SourceType="Kill",DropChance="0.6",Zone="Ashenvale"}}
 items[20909] = {id=20909,name="Barbaric Iron Collar",source={ID=25498,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[21934] = {id=21934,name="Ornate Tigerseye Necklace",source={ID=26928,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[37928] = {id=37928,name="Guardian's Pendant of Subjugation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27495] = {id=27495,name="Soldier's Dog Tags",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="3.7",Zone="The Blood Furnace"}}
-items[21700] = {id=21700,name="Pendant of the Qiraji Guardian",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="22.1",Zone="Ahn'Qiraj"}}
+items[21700] = {id=21700,name="Pendant of the Qiraji Guardian",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="22.2",Zone="Ahn'Qiraj"}}
 items[20622] = {id=20622,name="Dragonheart Necklace",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="15.4",Zone="Duskwood"}}
-items[13212] = {id=13212,name="Halycon's Spiked Collar",source={ID=10220,SourceName="Halycon",SourceType="Kill",DropChance="25.0",Zone="Blackrock Spire"}}
-items[19599] = {id=19599,name="Pebble of Kajaro",source={ID=8102,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[13212] = {id=13212,name="Halycon's Spiked Collar",source={ID=10220,SourceName="Halycon",SourceType="Kill",DropChance="25.2",Zone="Blackrock Spire"}}
+items[19599] = {id=19599,name="Pebble of Kajaro",source={ID=8102,SourceName="The Pebble of Kajaro",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[19539] = {id=19539,name="Sentinel's Medallion",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
-items[5029] = {id=5029,name="Talisman of the Naga Lord",source={ID=2541,SourceName="Lord Sakrasis",SourceType="Kill",DropChance="49.7",Zone="Stranglethorn Vale"}}
-items[15690] = {id=15690,name="Kodobone Necklace",source={ID=5501,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
-items[12020] = {id=12020,name="Thallium Choker",source={ID=23637,SourceName="Deserter Lieutenant",SourceType="Kill",DropChance="2.5",Zone="Dustwallow Marsh"}}
+items[5029] = {id=5029,name="Talisman of the Naga Lord",source={ID=2541,SourceName="Lord Sakrasis",SourceType="Kill",DropChance="49.6",Zone="Stranglethorn Vale"}}
+items[15690] = {id=15690,name="Kodobone Necklace",source={ID=5501,SourceName="Bone Collector",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[12020] = {id=12020,name="Thallium Choker",source={ID=23637,SourceName="Deserter Lieutenant",SourceType="Kill",DropChance="2.0",Zone="Dustwallow Marsh"}}
 items[5004] = {id=5004,name="Mark of the Kirin Tor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33920] = {id=33920,name="Vindicator's Pendant of Conquest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35317] = {id=35317,name="Vindicator's Pendant of Reprieve",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24117] = {id=24117,name="Embrace of the Dawn",source={ID=31072,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30710] = {id=30710,name="Blood Guard's Necklace of Ferocity",source={ID=20923,SourceName="Blood Guard Porung",SourceType="Kill",DropChance="7.5",Zone="The Shattered Halls"}}
 items[35508] = {id=35508,name="Choker of the Arctic Flow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25563] = {id=25563,name="Earthen Mark of Power",source={ID=9853,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25563] = {id=25563,name="Earthen Mark of Power",source={ID=9853,SourceName="Gurok the Usurper",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[31178] = {id=31178,name="Amulet of Unstable Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24077] = {id=24077,name="Thick Adamantite Necklace",source={ID=31051,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[18205] = {id=18205,name="Eskhandar's Collar",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="29.2",Zone="Unknown"}}
 items[21809] = {id=21809,name="Fury of the Forgotten Swarm",source={ID=15385,SourceName="Colonel Zerran",SourceType="Kill",DropChance="11.8",Zone="Ruins of Ahn'Qiraj"}}
 items[19923] = {id=19923,name="Jeklik's Opaline Talisman",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="18.8",Zone="Zul'Gurub"}}
 items[12027] = {id=12027,name="Vermilion Necklace",source={ID=5314,SourceName="Phantim",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
-items[19591] = {id=19591,name="The Eye of Zuldazar",source={ID=8049,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19610] = {id=19610,name="Enchanted South Seas Kelp",source={ID=8110,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19591] = {id=19591,name="The Eye of Zuldazar",source={ID=8049,SourceName="The Eye of Zuldazar",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19610] = {id=19610,name="Enchanted South Seas Kelp",source={ID=8110,SourceName="Enchanted South Seas Kelp",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[18340] = {id=18340,name="Eidolon Talisman",source={ID=11473,SourceName="Eldreth Spectre",SourceType="Kill",DropChance="1.4",Zone="Dire Maul"}}
 items[18428] = {id=18428,name="Senior Sergeant's Insignia",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[12043] = {id=12043,name="Desert Choker",source={ID=680,SourceName="Mosh'Ogg Lord",SourceType="Kill",DropChance="0.3",Zone="Stranglethorn Vale"}}
@@ -277,39 +277,39 @@ items[13088] = {id=13088,name="Gazlowe's Charm",source={ID=92,SourceName="Rock E
 items[27979] = {id=27979,name="Stone of Stupendous Springing Strides",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[35290] = {id=35290,name="Sin'dorei Pendant of Conquest",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="54.0",Zone="Unknown"}}
 items[27551] = {id=27551,name="Skeletal Necklace of Battlerage",source={ID=17991,SourceName="Rokmar the Crackler",SourceType="Kill",DropChance="20.0",Zone="The Slave Pens"}}
-items[31749] = {id=31749,name="A'dal's Recovery Necklace",source={ID=10882,SourceName="",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
+items[31749] = {id=31749,name="A'dal's Recovery Necklace",source={ID=10882,SourceName="Harbinger of Doom",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
 items[31934] = {id=31934,name="Frigid Charm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[31194] = {id=31194,name="Gronn-Blessed Warbeads",source={ID=18684,SourceName="Bro'Gaz the Clanless",SourceType="Kill",DropChance="97.0",Zone="Unknown"}}
-items[28027] = {id=28027,name="Lunatic's Choker",source={ID=9951,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
-items[12048] = {id=12048,name="Prismatic Pendant",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.7",Zone="Azshara"}}
+items[28027] = {id=28027,name="Lunatic's Choker",source={ID=9951,SourceName="It's Watching You!",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[12048] = {id=12048,name="Prismatic Pendant",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.6",Zone="Azshara"}}
 items[20695] = {id=20695,name="Abyssal War Beads",source={ID=20601,SourceName="Sack of Spoils",SourceType="Container",DropChance="2.3",Zone="Unknown"}}
 items[1443] = {id=1443,name="Jeweled Amulet of Cainwyn",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[11933] = {id=11933,name="Imperial Jewel",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="16.3",Zone="Blackrock Depths"}}
 items[13811] = {id=13811,name="Necklace of the Dawn",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23125] = {id=23125,name="Chains of the Lich",source={ID=14684,SourceName="Balzaphon",SourceType="Kill",DropChance="27.8",Zone="Stratholme"}}
-items[18317] = {id=18317,name="Tempest Talisman",source={ID=13280,SourceName="Hydrospawn",SourceType="Kill",DropChance="19.0",Zone="Dire Maul"}}
+items[18317] = {id=18317,name="Tempest Talisman",source={ID=13280,SourceName="Hydrospawn",SourceType="Kill",DropChance="18.9",Zone="Dire Maul"}}
 items[7549] = {id=7549,name="Fairy's Embrace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[7550] = {id=7550,name="Warrior's Honor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[7551] = {id=7551,name="Entwined Opaline Talisman",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[12031] = {id=12031,name="Lodestone Necklace",source={ID=2607,SourceName="Prince Galen Trollbane",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
 items[12040] = {id=12040,name="Forest Pendant",source={ID=862,SourceName="Stonard Explorer",SourceType="Kill",DropChance="0.2",Zone="Swamp of Sorrows"}}
-items[5180] = {id=5180,name="Necklace of Harmony",source={ID=2600,SourceName="Singer",SourceType="Kill",DropChance="22.6",Zone="Arathi Highlands"}}
+items[5180] = {id=5180,name="Necklace of Harmony",source={ID=2600,SourceName="Singer",SourceType="Kill",DropChance="22.8",Zone="Arathi Highlands"}}
 items[37929] = {id=37929,name="Guardian's Pendant of Reprieve",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35291] = {id=35291,name="Sin'dorei Pendant of Salvation",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="47.4",Zone="Unknown"}}
 items[35292] = {id=35292,name="Sin'dorei Pendant of Triumph",source={ID=25165,SourceName="Lady Sacrolash",SourceType="Kill",DropChance="55.0",Zone="Unknown"}}
 items[31940] = {id=31940,name="Ethereum Torque",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35511] = {id=35511,name="Hailstone Pendant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33201] = {id=33201,name="Silver Moonstone Pendant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25928] = {id=25928,name="Ethereal Healing Pendant",source={ID=10112,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[25928] = {id=25928,name="Ethereal Healing Pendant",source={ID=10112,SourceName="A Personal Favor",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[25061] = {id=25061,name="Hiddenite Necklace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[21531] = {id=21531,name="Drake Tooth Necklace",source={ID=8736,SourceName="",SourceType="Quest",DropChance="0",Zone="Moonglade"}}
-items[19576] = {id=19576,name="Strength of Mugamba",source={ID=8043,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[21531] = {id=21531,name="Drake Tooth Necklace",source={ID=8736,SourceName="The Nightmare Manifests",SourceType="Quest",DropChance="0",Zone="Moonglade"}}
+items[19576] = {id=19576,name="Strength of Mugamba",source={ID=8043,SourceName="Strength of Mount Mugamba",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[16335] = {id=16335,name="Senior Sergeant's Insignia",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[12046] = {id=12046,name="Jungle Necklace",source={ID=7075,SourceName="Writhing Mage",SourceType="Kill",DropChance="0.8",Zone="Hillsbrad Foothills"}}
-items[11755] = {id=11755,name="Verek's Collar",source={ID=9042,SourceName="Verek",SourceType="Kill",DropChance="13.5",Zone="Blackrock Depths"}}
+items[11755] = {id=11755,name="Verek's Collar",source={ID=9042,SourceName="Verek",SourceType="Kill",DropChance="13.7",Zone="Blackrock Depths"}}
 items[12045] = {id=12045,name="Swamp Pendant",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.1",Zone="Winterspring"}}
 items[12022] = {id=12022,name="Iridium Chain",source={ID=15752,SourceName="Silithid Flayer",SourceType="Kill",DropChance="0.3",Zone="Thousand Needles"}}
-items[12030] = {id=12030,name="Jet Chain",source={ID=23589,SourceName="Defias Rummager",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
+items[12030] = {id=12030,name="Jet Chain",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="0.5",Zone="Uldaman"}}
 items[5005] = {id=5005,name="Emberspark Pendant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[12028] = {id=12028,name="Basalt Necklace",source={ID=3940,SourceName="Taneel Darkwood",SourceType="Kill",DropChance="0.2",Zone="Ashenvale"}}
 items[7427] = {id=7427,name="Cerulean Talisman",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -317,18 +317,18 @@ items[27992] = {id=27992,name="Infallible Tikbalang Ward",source={ID=19227,Sourc
 items[33923] = {id=33923,name="Vindicator's Pendant of Triumph",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25070] = {id=25070,name="Coral Beads",source={ID=19507,SourceName="Sunseeker Gene-Splicer",SourceType="Kill",DropChance="33.3",Zone="The Botanica"}}
 items[27766] = {id=27766,name="Swampstone Necklace",source={ID=17826,SourceName="Swamplord Musel'ek",SourceType="Kill",DropChance="15.1",Zone="The Underbog"}}
-items[30981] = {id=30981,name="Grom'tor's Pendant of Conquest",source={ID=10523,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[29775] = {id=29775,name="Pendant of the Battle-Mage",source={ID=10176,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[31818] = {id=31818,name="Dragonbone Talisman",source={ID=10923,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
-items[25564] = {id=25564,name="Earthen Mark of Health",source={ID=9853,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[30981] = {id=30981,name="Grom'tor's Pendant of Conquest",source={ID=10523,SourceName="The Cipher of Damnation - The First Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[29775] = {id=29775,name="Pendant of the Battle-Mage",source={ID=10176,SourceName="Ar'kelos the Guardian",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31818] = {id=31818,name="Dragonbone Talisman",source={ID=10923,SourceName="Evil Draws Near",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[25564] = {id=25564,name="Earthen Mark of Health",source={ID=9853,SourceName="Gurok the Usurper",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[25062] = {id=25062,name="Zircon Amulet",source={ID=17961,SourceName="Coilfang Enchantress",SourceType="Kill",DropChance="7.1",Zone="The Slave Pens"}}
-items[25487] = {id=25487,name="Wind Dancer's Pendant",source={ID=9418,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[25487] = {id=25487,name="Wind Dancer's Pendant",source={ID=9418,SourceName="Avruu's Orb",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
 items[20792] = {id=20792,name="90 green shaman neck",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25059] = {id=25059,name="Fire Opal Collar",source={ID=17395,SourceName="Shadowmoon Summoner",SourceType="Kill",DropChance="1.9",Zone="The Blood Furnace"}}
 items[21690] = {id=21690,name="Angelista's Charm",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="31.5",Zone="Ahn'Qiraj"}}
 items[21702] = {id=21702,name="Amulet of Foul Warding",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="20.4",Zone="Ahn'Qiraj"}}
 items[17065] = {id=17065,name="Medallion of Steadfast Might",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="32.1",Zone="Molten Core"}}
-items[19612] = {id=19612,name="Enchanted South Seas Kelp",source={ID=8112,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19612] = {id=19612,name="Enchanted South Seas Kelp",source={ID=8112,SourceName="Enchanted South Seas Kelp",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[21093] = {id=21093,name="66 Epic Shadow Neck",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[7548] = {id=7548,name="Onyx Choker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[19536] = {id=19536,name="Scout's Medallion",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
@@ -341,8 +341,8 @@ items[25066] = {id=25066,name="Pink Sapphire Necklace",source={ID=0,SourceName="
 items[27440] = {id=27440,name="Diamond Prism of Recurrence",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="18.7",Zone="Old Hillsbrad Foothills"}}
 items[25065] = {id=25065,name="Turquoise Brooch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25064] = {id=25064,name="Amethyst Pendant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25517] = {id=25517,name="Preserver's Medallion",source={ID=9752,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
-items[21529] = {id=21529,name="Amulet of Shadow Shielding",source={ID=8730,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackwing Lair"}}
+items[25517] = {id=25517,name="Preserver's Medallion",source={ID=9752,SourceName="Escape from Umbrafen",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[21529] = {id=21529,name="Amulet of Shadow Shielding",source={ID=8730,SourceName="Nefarius's Corruption",SourceType="Quest",DropChance="0",Zone="Blackwing Lair"}}
 items[14558] = {id=14558,name="Lady Maye's Pendant",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[7467] = {id=7467,name="Vermilion Necklace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27941] = {id=27941,name="Compassionate Critter's Friend",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
@@ -350,10 +350,10 @@ items[27945] = {id=27945,name="Shark's Tooth of Bona Fide Fluidic Mobility",sour
 items[35134] = {id=35134,name="Guardian's Pendant of Salvation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33466] = {id=33466,name="Loop of Cursed Bones",source={ID=23863,SourceName="Zul'jin",SourceType="Kill",DropChance="15.3",Zone="Unknown"}}
 items[33297] = {id=33297,name="The Savage's Choker",source={ID=23577,SourceName="Halazzi",SourceType="Kill",DropChance="12.5",Zone="Unknown"}}
-items[31748] = {id=31748,name="Shattrath Choker of Power",source={ID=10882,SourceName="",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
+items[31748] = {id=31748,name="Shattrath Choker of Power",source={ID=10882,SourceName="Harbinger of Doom",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
 items[24095] = {id=24095,name="Pendant of Withering",source={ID=31064,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25067] = {id=25067,name="Diopside Beads",source={ID=184937,SourceName="Solid Adamantite Chest",SourceType="Container",DropChance="14.2",Zone="Auchenai Crypts"}}
-items[31790] = {id=31790,name="Expedition Pendant",source={ID=10821,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31790] = {id=31790,name="Expedition Pendant",source={ID=10821,SourceName="You're Fired!",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[25063] = {id=25063,name="Multi-Colored Beads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25058] = {id=25058,name="Anglesite Choker",source={ID=17517,SourceName="Hellfire Sentry",SourceType="Kill",DropChance="14.2",Zone="Hellfire Ramparts"}}
 items[21065] = {id=21065,name="66 Epic Fire Neck",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -369,11 +369,11 @@ items[33197] = {id=33197,name="Mossy Necklace",source={ID=0,SourceName="",Source
 items[33198] = {id=33198,name="Necklace of Decay",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33199] = {id=33199,name="Pendant of Old",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33200] = {id=33200,name="Ancient Ceremonial Necklace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25776] = {id=25776,name="Ogre Slayer's Pendant",source={ID=9946,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[27735] = {id=27735,name="Pendant of the Marsh",source={ID=9731,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[25776] = {id=25776,name="Ogre Slayer's Pendant",source={ID=9946,SourceName="Cho'war the Pillager",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[27735] = {id=27735,name="Pendant of the Marsh",source={ID=9731,SourceName="Drain Schematics",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[25060] = {id=25060,name="Sunstone Necklace",source={ID=17271,SourceName="Bonechewer Destroyer",SourceType="Kill",DropChance="1.1",Zone="Hellfire Ramparts"}}
-items[21506] = {id=21506,name="Pendant of the Shifting Sands",source={ID=8791,SourceName="",SourceType="Quest",DropChance="0",Zone="Ruins of Ahn'Qiraj"}}
-items[20685] = {id=20685,name="Wavefront Necklace",source={ID=15305,SourceName="Lord Skwol",SourceType="Kill",DropChance="31.7",Zone="Silithus"}}
+items[21506] = {id=21506,name="Pendant of the Shifting Sands",source={ID=8791,SourceName="The Fall of Ossirian",SourceType="Quest",DropChance="0",Zone="Ruins of Ahn'Qiraj"}}
+items[20685] = {id=20685,name="Wavefront Necklace",source={ID=15305,SourceName="Lord Skwol",SourceType="Kill",DropChance="31.6",Zone="Silithus"}}
 items[21052] = {id=21052,name="63 Blue Fire Neck",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16009] = {id=16009,name="Voice Amplification Modulator",source={ID=19819,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[12039] = {id=12039,name="Tundra Necklace",source={ID=14277,SourceName="Lady Zephris",SourceType="Kill",DropChance="0.5",Zone="Hillsbrad Foothills"}}
@@ -382,21 +382,21 @@ items[35132] = {id=35132,name="Guardian's Pendant of Conquest",source={ID=0,Sour
 items[35135] = {id=35135,name="Guardian's Pendant of Triumph",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25069] = {id=25069,name="Epidote Stone Necklace",source={ID=16594,SourceName="Shadowmoon Acolyte",SourceType="Kill",DropChance="2.7",Zone="The Shattered Halls"}}
 items[31931] = {id=31931,name="Fiery Charm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19592] = {id=19592,name="The Eye of Zuldazar",source={ID=8050,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19614] = {id=19614,name="Zandalarian Shadow Talisman",source={ID=8141,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19592] = {id=19592,name="The Eye of Zuldazar",source={ID=8050,SourceName="The Eye of Zuldazar",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19614] = {id=19614,name="Zandalarian Shadow Talisman",source={ID=8141,SourceName="Zandalarian Shadow Talisman",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[13002] = {id=13002,name="Lady Alizabeth's Pendant",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[12034] = {id=12034,name="Marble Necklace",source={ID=7045,SourceName="Scalding Drake",SourceType="Kill",DropChance="0.6",Zone="Burning Steppes"}}
 items[186074] = {id=186074,name="Communal Necklace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[9333] = {id=9333,name="Tarnished Silver Necklace",source={ID=128403,SourceName="Shallow Grave",SourceType="Container",DropChance="18.5",Zone="Alterac Valley"}}
 items[27940] = {id=27940,name="Marvelous Madstone of Immortality",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[13141] = {id=13141,name="Tooth of Gnarr",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="27.4",Zone="Blackrock Spire"}}
+items[13141] = {id=13141,name="Tooth of Gnarr",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="27.5",Zone="Blackrock Spire"}}
 items[13960] = {id=13960,name="Heart of the Fiend",source={ID=10506,SourceName="Kirtonos the Herald",SourceType="Kill",DropChance="18.7",Zone="Scholomance"}}
 items[18691] = {id=18691,name="Dark Advisor's Pendant",source={ID=10432,SourceName="Vectus",SourceType="Kill",DropChance="6.8",Zone="Scholomance"}}
-items[19603] = {id=19603,name="Kezan's Taint",source={ID=8107,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19603] = {id=19603,name="Kezan's Taint",source={ID=8107,SourceName="Kezan's Taint",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[9417] = {id=9417,name="Archaedic Shard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27978] = {id=27978,name="Soap on a Rope",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[31747] = {id=31747,name="Potent Sha'tari Pendant",source={ID=10882,SourceName="",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
-items[29794] = {id=29794,name="Strength of the Violet Tower",source={ID=10223,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31747] = {id=31747,name="Potent Sha'tari Pendant",source={ID=10882,SourceName="Harbinger of Doom",SourceType="Quest",DropChance="0",Zone="Tempest Keep"}}
+items[29794] = {id=29794,name="Strength of the Violet Tower",source={ID=10223,SourceName="Down With Daellis",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[31930] = {id=31930,name="Enigmatic Charm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[31196] = {id=31196,name="Amulet of Sanctification",source={ID=19307,SourceName="Nexus Terror",SourceType="Kill",DropChance="10.0",Zone="Mana-Tombs"}}
 items[20645] = {id=20645,name="Nature's Whisper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -404,19 +404,19 @@ items[27944] = {id=27944,name="Talisman of True Treasure Tracking",source={ID=19
 items[15200] = {id=15200,name="Senior Sergeant's Insignia",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[33921] = {id=33921,name="Vindicator's Pendant of Dominance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33067] = {id=33067,name="Veteran's Pendant of Conquest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31321] = {id=31321,name="Choker of Repentance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31321] = {id=31321,name="Choker of Repentance",source={ID=15548,SourceName="Spectral Stallion",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[18678] = {id=18678,name="Tempestria's Frozen Necklace",source={ID=14457,SourceName="Princess Tempestria",SourceType="Kill",DropChance="18.6",Zone="Winterspring"}}
-items[19574] = {id=19574,name="Strength of Mugamba",source={ID=8041,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19611] = {id=19611,name="Enchanted South Seas Kelp",source={ID=8111,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[20649] = {id=20649,name="Sunprism Pendant",source={ID=8321,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[19574] = {id=19574,name="Strength of Mugamba",source={ID=8041,SourceName="Strength of Mount Mugamba",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19611] = {id=19611,name="Enchanted South Seas Kelp",source={ID=8111,SourceName="Enchanted South Seas Kelp",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[20649] = {id=20649,name="Sunprism Pendant",source={ID=8321,SourceName="Vyral the Vile",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[19541] = {id=19541,name="Sentinel's Medallion",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[5003] = {id=5003,name="Crystal Starfire Medallion",source={ID=15749,SourceName="Lesser Silithid Flayer",SourceType="Kill",DropChance="0.8",Zone="Thousand Needles"}}
 items[33922] = {id=33922,name="Vindicator's Pendant of Salvation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24098] = {id=24098,name="Pendant of the Null Rune",source={ID=31066,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[22935] = {id=22935,name="Touch of Frost",source={ID=15956,SourceName="Anub'Rekhan",SourceType="Kill",DropChance="38.5",Zone="Naxxramas"}}
-items[10778] = {id=10778,name="Necklace of Sanctuary",source={ID=3628,SourceName="",SourceType="Quest",DropChance="0",Zone="Blasted Lands"}}
-items[19598] = {id=19598,name="Pebble of Kajaro",source={ID=8101,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
-items[19615] = {id=19615,name="Zandalarian Shadow Talisman",source={ID=8142,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[10778] = {id=10778,name="Necklace of Sanctuary",source={ID=3628,SourceName="You Are Rakh'likh, Demon",SourceType="Quest",DropChance="0",Zone="Blasted Lands"}}
+items[19598] = {id=19598,name="Pebble of Kajaro",source={ID=8101,SourceName="The Pebble of Kajaro",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
+items[19615] = {id=19615,name="Zandalarian Shadow Talisman",source={ID=8142,SourceName="Zandalarian Shadow Talisman",SourceType="Quest",DropChance="0",Zone="Zul'Gurub"}}
 items[12029] = {id=12029,name="Greenstone Talisman",source={ID=2738,SourceName="Stromgarde Cavalryman",SourceType="Kill",DropChance="0.2",Zone="Arathi Highlands"}}
 items[19537] = {id=19537,name="Scout's Medallion",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[12047] = {id=12047,name="Spectral Necklace",source={ID=6407,SourceName="Holdout Technician",SourceType="Kill",DropChance="0.5",Zone="Gnomeregan"}}

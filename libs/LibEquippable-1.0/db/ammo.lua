@@ -22,9 +22,9 @@ items[32760] = {id=32760,name="The Macho Gnome's Arrow",source={ID=0,SourceName=
 items[2515] = {id=2515,name="Sharp Arrow",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[23773] = {id=23773,name="Adamantite Shells",source={ID=45171,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31949] = {id=31949,name="Warden's Arrow",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
-items[18042] = {id=18042,name="Thorium Headed Arrow",source={ID=7341,SourceName="",SourceType="Quest",DropChance="0",Zone="Orgrimmar"}}
+items[18042] = {id=18042,name="Thorium Headed Arrow",source={ID=7341,SourceName="A Fair Trade",SourceType="Quest",DropChance="0",Zone="Orgrimmar"}}
 items[2512] = {id=2512,name="Rough Arrow",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[3464] = {id=3464,name="Feathered Arrow",source={ID=1370,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[3464] = {id=3464,name="Feathered Arrow",source={ID=1370,SourceName="Stealing Supplies",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[32883] = {id=32883,name="Felbane Slugs",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[24412] = {id=24412,name="Warden's Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[11284] = {id=11284,name="Accurate Slugs",source={ID=734,SourceName="Corporal Bluth",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
@@ -39,20 +39,20 @@ items[3029] = {id=3029,name="Depricated Whipwood Arrow",source={ID=0,SourceName=
 items[31735] = {id=31735,name="Timeless Shell",source={ID=19932,SourceName="Andormu",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
 items[23772] = {id=23772,name="Fel Iron Shells",source={ID=30346,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32761] = {id=32761,name="The Sarge's Bullet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19316] = {id=19316,name="Ice Threaded Arrow",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[19316] = {id=19316,name="Ice Threaded Arrow",source={ID=13217,SourceName="Thanthaldis Snowgleam",SourceType="Purchase",DropChance="100",Zone="Alterac Mountains"}}
 items[3031] = {id=3031,name="Depricated Razor Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[4960] = {id=4960,name="Flash Pellet",source={ID=745,SourceName="",SourceType="Quest",DropChance="0",Zone="Mulgore"}}
+items[4960] = {id=4960,name="Flash Pellet",source={ID=745,SourceName="Sharing the Land",SourceType="Quest",DropChance="0",Zone="Mulgore"}}
 items[10512] = {id=10512,name="Hi-Impact Mithril Slugs",source={ID=12596,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19317] = {id=19317,name="Ice Threaded Bullet",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
+items[19317] = {id=19317,name="Ice Threaded Bullet",source={ID=13217,SourceName="Thanthaldis Snowgleam",SourceType="Purchase",DropChance="100",Zone="Alterac Mountains"}}
 items[2519] = {id=2519,name="Heavy Shot",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
-items[9399] = {id=9399,name="Precision Arrow",source={ID=6906,SourceName="Baelog",SourceType="Kill",DropChance="87.9",Zone="Uldaman"}}
+items[9399] = {id=9399,name="Precision Arrow",source={ID=6906,SourceName="Baelog",SourceType="Kill",DropChance="87.8",Zone="Uldaman"}}
 items[28061] = {id=28061,name="Ironbite Shell",source={ID=16602,SourceName="Floyd Pinkus",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[32882] = {id=32882,name="Hellfire Shot",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
-items[11630] = {id=11630,name="Rockshard Pellets",source={ID=9025,SourceName="Lord Roccor",SourceType="Kill",DropChance="16.4",Zone="Blackrock Depths"}}
-items[3465] = {id=3465,name="Exploding Shot",source={ID=1370,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[11630] = {id=11630,name="Rockshard Pellets",source={ID=9025,SourceName="Lord Roccor",SourceType="Kill",DropChance="16.6",Zone="Blackrock Depths"}}
+items[3465] = {id=3465,name="Exploding Shot",source={ID=1370,SourceName="Stealing Supplies",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[8068] = {id=8068,name="Crafted Heavy Shot",source={ID=3930,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[8069] = {id=8069,name="Crafted Solid Shot",source={ID=3947,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[13377] = {id=13377,name="Miniature Cannon Balls",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="91.2",Zone="Stratholme"}}
+items[13377] = {id=13377,name="Miniature Cannon Balls",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="91.4",Zone="Stratholme"}}
 items[10513] = {id=10513,name="Mithril Gyro-Shot",source={ID=12621,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19082] = {id=19082,name="Monster - Fire Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[29907] = {id=29907,name="Monster - Magic Arrow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}

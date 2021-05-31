@@ -12,13 +12,13 @@ local names = {}
 -- Item Data
 items[24262] = {id=24262,name="Spellstrike Pants",source={ID=31452,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28741] = {id=28741,name="Skulker's Greaves",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
-items[30257] = {id=30257,name="Shattrath Leggings",source={ID=10280,SourceName="",SourceType="Quest",DropChance="0",Zone="Shattrath City"}}
+items[30257] = {id=30257,name="Shattrath Leggings",source={ID=10280,SourceName="Special Delivery to Shattrath City",SourceType="Quest",DropChance="0",Zone="Shattrath City"}}
 items[30538] = {id=30538,name="Midnight Legguards",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="16.6",Zone="The Slave Pens"}}
 items[24261] = {id=24261,name="Whitemend Pants",source={ID=31451,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16467] = {id=16467,name="Marshal's Chain Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28594] = {id=28594,name="Trial-Fire Trousers",source={ID=17521,SourceName="The Big Bad Wolf",SourceType="Kill",DropChance="42.8",Zone="Karazhan"}}
 items[22673] = {id=22673,name="Outrider's Chain Leggings",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
-items[27874] = {id=27874,name="Beast Lord Leggings",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="27.7",Zone="The Steamvault"}}
+items[27874] = {id=27874,name="Beast Lord Leggings",source={ID=17798,SourceName="Warlord Kalithresh",SourceType="Kill",DropChance="0",Zone="The Steamvault"}}
 items[16475] = {id=16475,name="Marshal's Lamellar Legplates",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[15062] = {id=15062,name="Devilsaur Leggings",source={ID=19097,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[23273] = {id=23273,name="Knight-Captain's Lamellar Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -30,7 +30,7 @@ items[28621] = {id=28621,name="Wrynn Dynasty Greaves",source={ID=15691,SourceNam
 items[16579] = {id=16579,name="General's Mail Leggings",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[30739] = {id=30739,name="Scaled Greaves of the Marksman",source={ID=18728,SourceName="Doom Lord Kazzak",SourceType="Kill",DropChance="17.2",Zone="Unknown"}}
 items[28626] = {id=28626,name="Grand Marshal's Dreadweave Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[28751] = {id=28751,name="Heart-Flame Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28751] = {id=28751,name="Heart-Flame Leggings",source={ID=16816,SourceName="Echo of Medivh",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[10330] = {id=10330,name="Scarlet Leggings",source={ID=3976,SourceName="Scarlet Commander Mograine",SourceType="Kill",DropChance="14.2",Zone="Scarlet Monastery"}}
 items[28591] = {id=28591,name="Earthsoul Leggings",source={ID=17533,SourceName="Romulo",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
 items[22651] = {id=22651,name="Outrider's Plate Legguards",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
@@ -59,53 +59,53 @@ items[16456] = {id=16456,name="Marshal's Leather Leggings",source={ID=12777,Sour
 items[30531] = {id=30531,name="Breeches of the Occultist",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="23.2",Zone="The Black Morass"}}
 items[29614] = {id=29614,name="General's Lamellar Legplates",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[28616] = {id=28616,name="Grand Marshal's Chain Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[29099] = {id=29099,name="Greaves of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29099] = {id=29099,name="Greaves of Malorne",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[16552] = {id=16552,name="General's Dragonhide Leggings",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28718] = {id=28718,name="Grand Marshal's Silk Trousers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[9484] = {id=9484,name="Spellshock Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29046] = {id=29046,name="Netherblade Breeches",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9484] = {id=9484,name="Spellshock Leggings",source={ID=10080,SourceName="Sandarr Dunereaver",SourceType="Kill",DropChance="7.5",Zone="Zul'Farrak"}}
+items[29046] = {id=29046,name="Netherblade Breeches",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[30533] = {id=30533,name="Vanquisher's Legplates",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="14.1",Zone="The Mechanar"}}
 items[7046] = {id=7046,name="Azure Silk Pants",source={ID=8758,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31591] = {id=31591,name="Grand Marshal's Kodohide Legguards",source={ID=22930,SourceName="Yor",SourceType="Kill",DropChance="17.2",Zone="Mana-Tombs"}}
-items[19133] = {id=19133,name="Fel Infused Leggings",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="29.2",Zone="Searing Gorge"}}
+items[19133] = {id=19133,name="Fel Infused Leggings",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="28.3",Zone="Searing Gorge"}}
 items[17579] = {id=17579,name="Marshal's Dreadweave Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[10009] = {id=10009,name="Red Mageweave Pants",source={ID=12060,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22427] = {id=22427,name="Redemption Legguards",source={ID=9044,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22427] = {id=22427,name="Redemption Legguards",source={ID=9044,SourceName="Redemption Legguards",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[16567] = {id=16567,name="General's Chain Legguards",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[22753] = {id=22753,name="Sentinel's Lamellar Legguards",source={ID=13440,SourceName="Frostwolf Wolf Rider",SourceType="Kill",DropChance="71.1",Zone="Alterac Valley"}}
 items[27839] = {id=27839,name="Legplates of the Righteous",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="18.1",Zone="The Black Morass"}}
 items[28740] = {id=28740,name="Rip-Flayer Leggings",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
-items[22437] = {id=22437,name="Cryptstalker Legguards",source={ID=9055,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22437] = {id=22437,name="Cryptstalker Legguards",source={ID=9055,SourceName="Cryptstalker Legguards",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[28620] = {id=28620,name="Grand Marshal's Dragonhide Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[17603] = {id=17603,name="Marshal's Satin Pants",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[23071] = {id=23071,name="Leggings of Apocalypse",source={ID=181366,SourceName="Four Horsemen Chest",SourceType="Container",DropChance="23.9",Zone="Naxxramas"}}
+items[23071] = {id=23071,name="Leggings of Apocalypse",source={ID=181366,SourceName="Four Horsemen Chest",SourceType="Container",DropChance="23.4",Zone="Naxxramas"}}
 items[29608] = {id=29608,name="Marshal's Mail Leggings",source={ID=12785,SourceName="Sergeant Major Clate",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[28185] = {id=28185,name="Khadgar's Kilt of Abjuration",source={ID=17880,SourceName="Temporus",SourceType="Kill",DropChance="0",Zone="The Black Morass"}}
 items[19165] = {id=19165,name="Flarecore Leggings",source={ID=23667,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[22676] = {id=22676,name="Outrider's Mail Leggings",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
-items[22417] = {id=22417,name="Dreadnaught Legplates",source={ID=9036,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[29142] = {id=29142,name="Kurenai Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22417] = {id=22417,name="Dreadnaught Legplates",source={ID=9036,SourceName="Dreadnaught Legplates",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[29142] = {id=29142,name="Kurenai Kilt",source={ID=20240,SourceName="Trader Narasu",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[22752] = {id=22752,name="Sentinel's Silk Leggings",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[22385] = {id=22385,name="Titanic Leggings",source={ID=27829,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[22887] = {id=22887,name="Legionnaire's Mail Legguards",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[30498] = {id=30498,name="Outrider's Lamellar Legguards",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[5962] = {id=5962,name="Guardian Pants",source={ID=7147,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30256] = {id=30256,name="Pants of the Naaru",source={ID=10280,SourceName="",SourceType="Quest",DropChance="0",Zone="Shattrath City"}}
-items[21390] = {id=21390,name="Avenger's Legguards",source={ID=8629,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[29783] = {id=29783,name="Legguards of the Resolute Defender",source={ID=10320,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30256] = {id=30256,name="Pants of the Naaru",source={ID=10280,SourceName="Special Delivery to Shattrath City",SourceType="Quest",DropChance="0",Zone="Shattrath City"}}
+items[21390] = {id=21390,name="Avenger's Legguards",source={ID=8629,SourceName="Avenger's Legguards",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[29783] = {id=29783,name="Legguards of the Resolute Defender",source={ID=10320,SourceName="Destroy Naberius!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[29964] = {id=29964,name="Blackstorm Leggings",source={ID=36074,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27527] = {id=27527,name="Greaves of the Shatterer",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
-items[22505] = {id=22505,name="Plagueheart Leggings",source={ID=9104,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22505] = {id=22505,name="Plagueheart Leggings",source={ID=9104,SourceName="Plagueheart Leggings",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[16564] = {id=16564,name="General's Leather Legguards",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[34188] = {id=34188,name="Leggings of the Immortal Night",source={ID=25038,SourceName="Felmyst",SourceType="Kill",DropChance="30.6",Zone="Sunwell Plateau"}}
 items[28854] = {id=28854,name="High Warlord's Plate Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29069] = {id=29069,name="Justicar Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29069] = {id=29069,name="Justicar Legguards",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[23295] = {id=23295,name="Knight-Captain's Dragonhide Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29970] = {id=29970,name="Wildfeather Leggings",source={ID=36075,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29971] = {id=29971,name="Dragonstrike Leggings",source={ID=36076,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28838] = {id=28838,name="High Warlord's Leather Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[30541] = {id=30541,name="Stormsong Kilt",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
-items[29015] = {id=29015,name="Warbringer Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29015] = {id=29015,name="Warbringer Legguards",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31623] = {id=31623,name="Grand Marshal's Mooncloth Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29603] = {id=29603,name="Legionnaire's Lamellar Leggings",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[29083] = {id=29083,name="Demon Stalker Greaves",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
@@ -113,65 +113,65 @@ items[14107] = {id=14107,name="Felcloth Pants",source={ID=18419,SourceName="",So
 items[28706] = {id=28706,name="Grand Marshal's Satin Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28819] = {id=28819,name="High Warlord's Dreadweave Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[30532] = {id=30532,name="Kirin Tor Master's Trousers",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="21.2",Zone="Shadow Labyrinth"}}
-items[22465] = {id=22465,name="Earthshatter Legguards",source={ID=9069,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22465] = {id=22465,name="Earthshatter Legguards",source={ID=9069,SourceName="Earthshatter Legguards",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[7709] = {id=7709,name="Blighted Leggings",source={ID=6490,SourceName="Azshir the Sleepless",SourceType="Kill",DropChance="31.0",Zone="Scarlet Monastery"}}
 items[9999] = {id=9999,name="Black Mageweave Leggings",source={ID=12049,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28721] = {id=28721,name="Grand Marshal's Wyrmhide Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[31343] = {id=31343,name="Kamaei's Cerulean Skirt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31343] = {id=31343,name="Kamaei's Cerulean Skirt",source={ID=15547,SourceName="Spectral Charger",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[23070] = {id=23070,name="Leggings of Polarity",source={ID=15928,SourceName="Thaddius",SourceType="Kill",DropChance="45.9",Zone="Naxxramas"}}
 items[10002] = {id=10002,name="Shadoweave Pants",source={ID=12052,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24359] = {id=24359,name="Princely Reign Leggings",source={ID=17941,SourceName="Mennu the Betrayer",SourceType="Kill",DropChance="16.6",Zone="The Slave Pens"}}
 items[29053] = {id=29053,name="Trousers of the Incarnate",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[29985] = {id=29985,name="Void Reaver Greaves",source={ID=19516,SourceName="Void Reaver",SourceType="Kill",DropChance="4.1",Zone="Tempest Keep"}}
 items[28966] = {id=28966,name="Voidheart Leggings",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[29022] = {id=29022,name="Warbringer Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29022] = {id=29022,name="Warbringer Greaves",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[28686] = {id=28686,name="Grand Marshal's Leather Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29343] = {id=29343,name="Haramad's Leggings of the Third Coin",source={ID=10165,SourceName="",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
+items[29343] = {id=29343,name="Haramad's Leggings of the Third Coin",source={ID=10165,SourceName="Undercutting the Competition",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
 items[28712] = {id=28712,name="Grand Marshal's Scaled Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[23304] = {id=23304,name="Knight-Captain's Silk Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[30069] = {id=30069,name="Earthforged Leggings",source={ID=36122,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[22747] = {id=22747,name="Outrider's Silk Leggings",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[16728] = {id=16728,name="Lightforge Legplates",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="6.6",Zone="Stratholme"}}
 items[17593] = {id=17593,name="General's Dreadweave Pants",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[20668] = {id=20668,name="Abyssal Mail Legguards",source={ID=15207,SourceName="The Duke of Fathoms",SourceType="Kill",DropChance="25.4",Zone="Silithus"}}
-items[22700] = {id=22700,name="Glacial Leggings",source={ID=9232,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[20668] = {id=20668,name="Abyssal Mail Legguards",source={ID=15207,SourceName="The Duke of Fathoms",SourceType="Kill",DropChance="25.3",Zone="Silithus"}}
+items[22700] = {id=22700,name="Glacial Leggings",source={ID=9232,SourceName="The Only Song I Know...",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[14554] = {id=14554,name="Cloudkeeper Legplates",source={ID=15740,SourceName="Colossus of Zora",SourceType="Kill",DropChance="41.6",Zone="Silithus"}}
-items[10742] = {id=10742,name="Dragonflight Leggings",source={ID=3463,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[10742] = {id=10742,name="Dragonflight Leggings",source={ID=3463,SourceName="Set Them Ablaze!",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
 items[28692] = {id=28692,name="Grand Marshal's Linked Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[29141] = {id=29141,name="Tempest Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29141] = {id=29141,name="Tempest Leggings",source={ID=20241,SourceName="Provisioner Nasela",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[24456] = {id=24456,name="Greaves of the Iron Guardian",source={ID=17826,SourceName="Swamplord Musel'ek",SourceType="Kill",DropChance="33.3",Zone="The Underbog"}}
 items[22878] = {id=22878,name="Legionnaire's Dragonhide Leggings",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[6903] = {id=6903,name="Gaze Dreamer Pants",source={ID=4832,SourceName="Twilight Lord Kelris",SourceType="Kill",DropChance="33.8",Zone="Blackfathom Deeps"}}
-items[24547] = {id=24547,name="Gladiator's Plate Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29042] = {id=29042,name="Cyclone War-Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24547] = {id=24547,name="Gladiator's Plate Legguards",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29042] = {id=29042,name="Cyclone War-Kilt",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[27907] = {id=27907,name="Mana-Etched Pantaloons",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
 items[27908] = {id=27908,name="Leggings of Assassination",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
-items[22690] = {id=22690,name="Leggings of the Plague Hunter",source={ID=9221,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[22690] = {id=22690,name="Leggings of the Plague Hunter",source={ID=9221,SourceName="Superior Armaments of Battle - Friend of the Dawn",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
 items[27870] = {id=27870,name="Doomplate Legguards",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="5.5",Zone="Auchenai Crypts"}}
 items[24046] = {id=24046,name="Kilt of Rolling Thunders",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="17.6",Zone="Hellfire Ramparts"}}
 items[23299] = {id=23299,name="Knight-Captain's Leather Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[11123] = {id=11123,name="Rainstrider Leggings",source={ID=1446,SourceName="",SourceType="Quest",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
+items[11123] = {id=11123,name="Rainstrider Leggings",source={ID=1446,SourceName="Jammal'an the Prophet",SourceType="Quest",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
 items[9396] = {id=9396,name="Legguards of the Vault",source={ID=4846,SourceName="Shadowforge Digger",SourceType="Kill",DropChance="0",Zone="Badlands"}}
 items[29995] = {id=29995,name="Leggings of Murderous Intent",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="21.0",Zone="Tempest Keep"}}
-items[25858] = {id=25858,name="Gladiator's Silk Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[20674] = {id=20674,name="Abyssal Cloth Pants",source={ID=15220,SourceName="The Duke of Zephyrs",SourceType="Kill",DropChance="23.9",Zone="Silithus"}}
+items[25858] = {id=25858,name="Gladiator's Silk Trousers",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[20674] = {id=20674,name="Abyssal Cloth Pants",source={ID=15220,SourceName="The Duke of Zephyrs",SourceType="Kill",DropChance="23.8",Zone="Silithus"}}
 items[28870] = {id=28870,name="High Warlord's Silk Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35358] = {id=35358,name="Dragonhide Legguards",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
-items[35368] = {id=35368,name="Opportunist's Leather Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35368] = {id=35368,name="Opportunist's Leather Legguards",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[30535] = {id=30535,name="Forestwalker Kilt",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="18.1",Zone="Mana-Tombs"}}
 items[12429] = {id=12429,name="Imperial Plate Leggings",source={ID=16730,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14623] = {id=14623,name="Deathbone Legguards",source={ID=10505,SourceName="Instructor Malicia",SourceType="Kill",DropChance="4.0",Zone="Scholomance"}}
 items[15057] = {id=15057,name="Stormshroud Pants",source={ID=19067,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[34385] = {id=34385,name="Leggings of the Immortal Beast",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31377] = {id=31377,name="Gladiator's Kodohide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29078] = {id=29078,name="Legwraps of the Aldor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34385] = {id=34385,name="Leggings of the Immortal Beast",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[31377] = {id=31377,name="Gladiator's Kodohide Legguards",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29078] = {id=29078,name="Legwraps of the Aldor",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[27977] = {id=27977,name="Legplates of the Bold",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="11.1",Zone="The Black Morass"}}
-items[22497] = {id=22497,name="Frostfire Leggings",source={ID=9096,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[31133] = {id=31133,name="Leggings of Concentrated Darkness",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[16954] = {id=16954,name="Judgement Legplates",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="20.3",Zone="Molten Core"}}
+items[22497] = {id=22497,name="Frostfire Leggings",source={ID=9096,SourceName="Frostfire Leggings",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[31133] = {id=31133,name="Leggings of Concentrated Darkness",source={ID=16966,SourceName="Haal'eshi Windwalker",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
+items[16954] = {id=16954,name="Judgement Legplates",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="20.1",Zone="Molten Core"}}
 items[23296] = {id=23296,name="Knight-Captain's Dreadweave Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[34168] = {id=34168,name="Starstalker Legguards",source={ID=24844,SourceName="Kalecgos",SourceType="Kill",DropChance="2.7",Zone="Unknown"}}
-items[30121] = {id=30121,name="Destroyer Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30121] = {id=30121,name="Destroyer Greaves",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[27748] = {id=27748,name="Cassock of the Loyal",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
 items[27430] = {id=27430,name="Scaled Greaves of Patience",source={ID=17862,SourceName="Captain Skarloc",SourceType="Kill",DropChance="8.3",Zone="Old Hillsbrad Foothills"}}
 items[16534] = {id=16534,name="General's Silk Trousers",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -179,16 +179,16 @@ items[23302] = {id=23302,name="Knight-Captain's Satin Legguards",source={ID=1277
 items[19694] = {id=19694,name="Darksoul Leggings",source={ID=24140,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[13129] = {id=13129,name="Firemane Leggings",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
 items[31627] = {id=31627,name="High Warlord's Mooncloth Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[12963] = {id=12963,name="Blademaster Leggings",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="19.6",Zone="Blackrock Spire"}}
+items[12963] = {id=12963,name="Blademaster Leggings",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="19.7",Zone="Blackrock Spire"}}
 items[15052] = {id=15052,name="Black Dragonscale Leggings",source={ID=19107,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[23173] = {id=23173,name="Abomination Skin Leggings",source={ID=14682,SourceName="Sever",SourceType="Kill",DropChance="51.4",Zone="Shadowfang Keep"}}
 items[29991] = {id=29991,name="Sunhawk Leggings",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="20.6",Zone="Tempest Keep"}}
-items[21332] = {id=21332,name="Conqueror's Legguards",source={ID=8560,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21332] = {id=21332,name="Conqueror's Legguards",source={ID=8560,SourceName="Conqueror's Legguards",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[34181] = {id=34181,name="Leggings of Calamity",source={ID=25158,SourceName="Brutallus",SourceType="Kill",DropChance="40.0",Zone="Unknown"}}
 items[28219] = {id=28219,name="Emerald-Scale Greaves",source={ID=17862,SourceName="Captain Skarloc",SourceType="Kill",DropChance="21.2",Zone="Old Hillsbrad Foothills"}}
 items[28724] = {id=28724,name="Grand Marshal's Lamellar Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[24391] = {id=24391,name="Kilt of the Night Strider",source={ID=17380,SourceName="Broggok",SourceType="Kill",DropChance="13.3",Zone="The Blood Furnace"}}
-items[22701] = {id=22701,name="Polar Leggings",source={ID=9232,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22701] = {id=22701,name="Polar Leggings",source={ID=9232,SourceName="The Only Song I Know...",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[22741] = {id=22741,name="Outrider's Lizardhide Pants",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[12619] = {id=12619,name="Enchanted Thorium Leggings",source={ID=16744,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[18378] = {id=18378,name="Silvermoon Leggings",source={ID=11486,SourceName="Prince Tortheldrin",SourceType="Kill",DropChance="21.2",Zone="Dire Maul"}}
@@ -196,110 +196,110 @@ items[20665] = {id=20665,name="Abyssal Leather Leggings",source={ID=15206,Source
 items[16678] = {id=16678,name="Beaststalker's Pants",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="10.3",Zone="Stratholme"}}
 items[7062] = {id=7062,name="Crimson Silk Pantaloons",source={ID=8799,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[9509] = {id=9509,name="Petrolspill Leggings",source={ID=6407,SourceName="Holdout Technician",SourceType="Kill",DropChance="0.2",Zone="Gnomeregan"}}
-items[35347] = {id=35347,name="Evoker's Silk Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35347] = {id=35347,name="Evoker's Silk Trousers",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[21852] = {id=21852,name="Netherweave Pants",source={ID=26771,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22699] = {id=22699,name="Icebane Leggings",source={ID=9232,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22699] = {id=22699,name="Icebane Leggings",source={ID=9232,SourceName="The Only Song I Know...",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[17625] = {id=17625,name="General's Satin Leggings",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[22750] = {id=22750,name="Sentinel's Lizardhide Pants",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[18736] = {id=18736,name="Plaguehound Leggings",source={ID=10394,SourceName="Black Guard Sentry",SourceType="Kill",DropChance="0",Zone="Stratholme"}}
 items[22328] = {id=22328,name="Legplates of Vigilance",source={ID=181083,SourceName="Sothos and Jarien's Heirlooms",SourceType="Container",DropChance="19.8",Zone="Stratholme"}}
-items[31005] = {id=31005,name="Gronnstalker's Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31005] = {id=31005,name="Gronnstalker's Leggings",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
 items[21651] = {id=21651,name="Scaled Sand Reaver Leggings",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="22.3",Zone="Ahn'Qiraj"}}
 items[22881] = {id=22881,name="Legionnaire's Dreadweave Legguards",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[186015] = {id=186015,name="Communal Plate Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30207] = {id=30207,name="Leggings of Tirisfal",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28332] = {id=28332,name="Gladiator's Chain Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29063] = {id=29063,name="Justicar Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29088] = {id=29088,name="Legguards of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30207] = {id=30207,name="Leggings of Tirisfal",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28332] = {id=28332,name="Gladiator's Chain Leggings",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29063] = {id=29063,name="Justicar Leggings",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29088] = {id=29088,name="Legguards of Malorne",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31633] = {id=31633,name="Grand Marshal's Ornamented Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[29774] = {id=29774,name="Kirin'Var Defender's Chausses",source={ID=10188,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[31328] = {id=31328,name="Leggings of Beast Mastery",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[21368] = {id=21368,name="Striker's Leggings",source={ID=8658,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[29774] = {id=29774,name="Kirin'Var Defender's Chausses",source={ID=10188,SourceName="The Sigil of Krasus",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31328] = {id=31328,name="Leggings of Beast Mastery",source={ID=16389,SourceName="Spectral Apprentice",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
+items[21368] = {id=21368,name="Striker's Leggings",source={ID=8658,SourceName="Striker's Leggings",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[23301] = {id=23301,name="Knight-Captain's Plate Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[8262] = {id=8262,name="Serpentskin Leggings",source={ID=7041,SourceName="Black Wyrmkin",SourceType="Kill",DropChance="0.2",Zone="Burning Steppes"}}
 items[29950] = {id=29950,name="Greaves of the Bloodwarder",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="31.6",Zone="Tempest Keep"}}
-items[25833] = {id=25833,name="Gladiator's Leather Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30201] = {id=30201,name="Gladiator's Felweave Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29036] = {id=29036,name="Cyclone Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25833] = {id=25833,name="Gladiator's Leather Legguards",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30201] = {id=30201,name="Gladiator's Felweave Trousers",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29036] = {id=29036,name="Cyclone Legguards",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[27936] = {id=27936,name="Greaves of Desolation",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="7.1",Zone="Sethekk Halls"}}
-items[30941] = {id=30941,name="Ash Tempered Legguards",source={ID=10808,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[30299] = {id=30299,name="Starcaller's Plated Legguards",source={ID=10439,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30941] = {id=30941,name="Ash Tempered Legguards",source={ID=10808,SourceName="Thwart the Dark Conclave",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30299] = {id=30299,name="Starcaller's Plated Legguards",source={ID=10439,SourceName="Dimensius the All-Devouring",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[24263] = {id=24263,name="Battlecast Pants",source={ID=31453,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22702] = {id=22702,name="Icy Scale Leggings",source={ID=9232,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22702] = {id=22702,name="Icy Scale Leggings",source={ID=9232,SourceName="The Only Song I Know...",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[13074] = {id=13074,name="Golem Shard Leggings",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[6690] = {id=6690,name="Ferine Leggings",source={ID=4422,SourceName="Agathelos the Raging",SourceType="Kill",DropChance="62.5",Zone="Razorfen Kraul"}}
 items[27838] = {id=27838,name="Incanter's Trousers",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="28.5",Zone="Sethekk Halls"}}
 items[23668] = {id=23668,name="Leggings of the Grand Crusader",source={ID=16156,SourceName="Dark Touched Warrior",SourceType="Kill",DropChance="1.0",Zone="Naxxramas"}}
-items[18386] = {id=18386,name="Padre's Trousers",source={ID=11488,SourceName="Illyanna Ravenoak",SourceType="Kill",DropChance="22.1",Zone="Dire Maul"}}
+items[18386] = {id=18386,name="Padre's Trousers",source={ID=11488,SourceName="Illyanna Ravenoak",SourceType="Kill",DropChance="22.2",Zone="Dire Maul"}}
 items[7760] = {id=7760,name="Warchief Kilt",source={ID=4286,SourceName="Scarlet Soldier",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
 items[14766] = {id=14766,name="Enduring Breeches",source={ID=7337,SourceName="Death's Head Necromancer",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
-items[30978] = {id=30978,name="Onslaught Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30978] = {id=30978,name="Onslaught Legguards",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
 items[29972] = {id=29972,name="Trousers of the Astromancer",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="23.2",Zone="Tempest Keep"}}
 items[28212] = {id=28212,name="Aran's Sorcerous Slacks",source={ID=17848,SourceName="Lieutenant Drake",SourceType="Kill",DropChance="18.5",Zone="Old Hillsbrad Foothills"}}
-items[35379] = {id=35379,name="Stalker's Chain Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31226] = {id=31226,name="Leggings of the Sly",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29342] = {id=29342,name="Consortium Plated Legguards",source={ID=10165,SourceName="",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
+items[35379] = {id=35379,name="Stalker's Chain Leggings",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[31226] = {id=31226,name="Leggings of the Sly",source={ID=16769,SourceName="Firewing Warlock",SourceType="Kill",DropChance="0",Zone="Terokkar Forest"}}
+items[29342] = {id=29342,name="Consortium Plated Legguards",source={ID=10165,SourceName="Undercutting the Competition",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
 items[24466] = {id=24466,name="Skulldugger's Leggings",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="20.0",Zone="The Underbog"}}
-items[22477] = {id=22477,name="Bonescythe Legplates",source={ID=9078,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[22513] = {id=22513,name="Leggings of Faith",source={ID=9112,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22477] = {id=22477,name="Bonescythe Legplates",source={ID=9078,SourceName="Bonescythe Legplates",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22513] = {id=22513,name="Leggings of Faith",source={ID=9112,SourceName="Leggings of Faith",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[21667] = {id=21667,name="Legplates of Blazing Light",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="11.6",Zone="Ahn'Qiraj"}}
-items[12935] = {id=12935,name="Warmaster Legguards",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="21.9",Zone="Blackrock Spire"}}
+items[12935] = {id=12935,name="Warmaster Legguards",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="22.0",Zone="Blackrock Spire"}}
 items[14638] = {id=14638,name="Cadaverous Leggings",source={ID=11261,SourceName="Doctor Theolen Krastinov",SourceType="Kill",DropChance="4.3",Zone="Scholomance"}}
-items[30126] = {id=30126,name="Crystalforge Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30126] = {id=30126,name="Crystalforge Legguards",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[27875] = {id=27875,name="Hallowed Trousers",source={ID=18473,SourceName="Talon King Ikiss",SourceType="Kill",DropChance="14.2",Zone="Sethekk Halls"}}
 items[28218] = {id=28218,name="Pontiff's Pantaloons of Prophecy",source={ID=17862,SourceName="Captain Skarloc",SourceType="Kill",DropChance="23.0",Zone="Old Hillsbrad Foothills"}}
 items[21859] = {id=21859,name="Imbued Netherweave Pants",source={ID=26775,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[27653] = {id=27653,name="Slayer's Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[21356] = {id=21356,name="Genesis Trousers",source={ID=8668,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[20703] = {id=20703,name="Cenarion Reservist's Leggings",source={ID=8378,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[27653] = {id=27653,name="Slayer's Leggings",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[21356] = {id=21356,name="Genesis Trousers",source={ID=8668,SourceName="Genesis Trousers",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[20703] = {id=20703,name="Cenarion Reservist's Leggings",source={ID=8378,SourceName="Armaments of War",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[15431] = {id=15431,name="Peerless Leggings",source={ID=14474,SourceName="Zora",SourceType="Kill",DropChance="3.3",Zone="Silithus"}}
 items[1718] = {id=1718,name="Basilisk Hide Pants",source={ID=5645,SourceName="Sandfury Hideskinner",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
 items[34180] = {id=34180,name="Felfury Legplates",source={ID=25158,SourceName="Brutallus",SourceType="Kill",DropChance="40.0",Zone="Unknown"}}
 items[30916] = {id=30916,name="Leggings of Channeled Elements",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="19.7",Zone="Hyjal Summit"}}
-items[24555] = {id=24555,name="Gladiator's Dreadweave Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[23068] = {id=23068,name="Legplates of Carnage",source={ID=15936,SourceName="Heigan the Unclean",SourceType="Kill",DropChance="44.4",Zone="Naxxramas"}}
-items[21346] = {id=21346,name="Enigma Leggings",source={ID=8631,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[24555] = {id=24555,name="Gladiator's Dreadweave Leggings",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[23068] = {id=23068,name="Legplates of Carnage",source={ID=15936,SourceName="Heigan the Unclean",SourceType="Kill",DropChance="44.3",Zone="Naxxramas"}}
+items[21346] = {id=21346,name="Enigma Leggings",source={ID=8631,SourceName="Enigma Leggings",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[13114] = {id=13114,name="Troll's Bane Leggings",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
 items[13010] = {id=13010,name="Dreamsinger Legguards",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="3.7",Zone="The Barrens"}}
-items[33515] = {id=33515,name="Unwavering Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33515] = {id=33515,name="Unwavering Legguards",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[27909] = {id=27909,name="Tidefury Kilt",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
 items[28338] = {id=28338,name="Devil-Stitched Leggings",source={ID=17980,SourceName="Laj",SourceType="Kill",DropChance="33.3",Zone="The Botanica"}}
 items[30836] = {id=30836,name="Leggings of the Skettis Exile",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[21336] = {id=21336,name="Doomcaller's Trousers",source={ID=8663,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[16668] = {id=16668,name="Kilt of Elements",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="4.8",Zone="Stratholme"}}
+items[21336] = {id=21336,name="Doomcaller's Trousers",source={ID=8663,SourceName="Doomcaller's Trousers",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[16668] = {id=16668,name="Kilt of Elements",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="4.9",Zone="Stratholme"}}
 items[11927] = {id=11927,name="Legplates of the Eternal Guardian",source={ID=9039,SourceName="Doom'rel",SourceType="Kill",DropChance="46.7",Zone="Blackrock Depths"}}
 items[14045] = {id=14045,name="Cindercloth Pants",source={ID=18434,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[6910] = {id=6910,name="Leech Pants",source={ID=4829,SourceName="Aku'mai",SourceType="Kill",DropChance="36.3",Zone="Blackfathom Deeps"}}
-items[31019] = {id=31019,name="Skyshatter Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33584] = {id=33584,name="Pantaloons of Arcane Annihilation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28128] = {id=28128,name="Gladiator's Dragonhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29074] = {id=29074,name="Justicar Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31019] = {id=31019,name="Skyshatter Leggings",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33584] = {id=33584,name="Pantaloons of Arcane Annihilation",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28128] = {id=28128,name="Gladiator's Dragonhide Legguards",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29074] = {id=29074,name="Justicar Greaves",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[28808] = {id=28808,name="High Warlord's Chain Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[29131] = {id=29131,name="Retainer's Leggings",source={ID=19331,SourceName="Quartermaster Enuril",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31298] = {id=31298,name="Legguards of the Shattered Hand",source={ID=17381,SourceName="The Maker",SourceType="Kill",DropChance="9.6",Zone="The Blood Furnace"}}
-items[35330] = {id=35330,name="Dreadweave Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35330] = {id=35330,name="Dreadweave Leggings",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[19385] = {id=19385,name="Empowered Leggings",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="32.1",Zone="Blackwing Lair"}}
-items[12965] = {id=12965,name="Spiritshroud Leggings",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="20.5",Zone="Blackrock Spire"}}
-items[20702] = {id=20702,name="Cenarion Reservist's Legguards",source={ID=8377,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
-items[16699] = {id=16699,name="Dreadmist Leggings",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="10.1",Zone="Stratholme"}}
+items[12965] = {id=12965,name="Spiritshroud Leggings",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="20.4",Zone="Blackrock Spire"}}
+items[20702] = {id=20702,name="Cenarion Reservist's Legguards",source={ID=8377,SourceName="Armaments of War",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[16699] = {id=16699,name="Dreadmist Leggings",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="10.2",Zone="Stratholme"}}
 items[16719] = {id=16719,name="Wildheart Kilt",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="9.9",Zone="Stratholme"}}
 items[8289] = {id=8289,name="Arcane Leggings",source={ID=10680,SourceName="Summoned Blackhand Dreadweaver",SourceType="Kill",DropChance="3.8",Zone="Blackrock Spire"}}
-items[11841] = {id=11841,name="Senior Designer's Pantaloons",source={ID=9056,SourceName="Fineous Darkvire",SourceType="Kill",DropChance="23.2",Zone="Blackrock Depths"}}
-items[17711] = {id=17711,name="Elemental Rockridge Leggings",source={ID=12201,SourceName="Princess Theradras",SourceType="Kill",DropChance="19.4",Zone="Maraudon"}}
-items[17754] = {id=17754,name="Infernal Trickster Leggings",source={ID=12236,SourceName="Lord Vyletongue",SourceType="Kill",DropChance="28.9",Zone="Maraudon"}}
-items[33242] = {id=33242,name="Raptorhide Legguards",source={ID=11184,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[11841] = {id=11841,name="Senior Designer's Pantaloons",source={ID=9056,SourceName="Fineous Darkvire",SourceType="Kill",DropChance="23.0",Zone="Blackrock Depths"}}
+items[17711] = {id=17711,name="Elemental Rockridge Leggings",source={ID=12201,SourceName="Princess Theradras",SourceType="Kill",DropChance="19.5",Zone="Maraudon"}}
+items[17754] = {id=17754,name="Infernal Trickster Leggings",source={ID=12236,SourceName="Lord Vyletongue",SourceType="Kill",DropChance="29.0",Zone="Maraudon"}}
+items[33242] = {id=33242,name="Raptorhide Legguards",source={ID=11184,SourceName="WANTED: Goreclaw the Ravenous",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
 items[3842] = {id=3842,name="Green Iron Leggings",source={ID=3506,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[35030] = {id=35030,name="Brutal Gladiator's Lamellar Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30993] = {id=30993,name="Lightbringer Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33678] = {id=33678,name="Vengeful Gladiator's Dreadweave Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35030] = {id=35030,name="Brutal Gladiator's Lamellar Legguards",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30993] = {id=30993,name="Lightbringer Greaves",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33678] = {id=33678,name="Vengeful Gladiator's Dreadweave Leggings",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32341] = {id=32341,name="Leggings of Divine Retribution",source={ID=22948,SourceName="Gurtogg Bloodboil",SourceType="Kill",DropChance="18.8",Zone="Black Temple"}}
-items[30162] = {id=30162,name="Leggings of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30162] = {id=30162,name="Leggings of the Avatar",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[32404] = {id=32404,name="Shadesteel Greaves",source={ID=40035,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30268] = {id=30268,name="Heap Leggings",source={ID=10309,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30268] = {id=30268,name="Heap Leggings",source={ID=10309,SourceName="It's a Fel Reaver, But with Heart",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[21461] = {id=21461,name="Leggings of the Black Blizzard",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="24.4",Zone="Ruins of Ahn'Qiraj"}}
 items[20260] = {id=20260,name="Seafury Leggings",source={ID=14509,SourceName="High Priest Thekal",SourceType="Kill",DropChance="7.6",Zone="Zul'Gurub"}}
-items[20699] = {id=20699,name="Cenarion Reservist's Legplates",source={ID=8316,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
-items[12756] = {id=12756,name="Leggings of Arcana",source={ID=5067,SourceName="",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
+items[20699] = {id=20699,name="Cenarion Reservist's Legplates",source={ID=8316,SourceName="Armaments of War",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[12756] = {id=12756,name="Leggings of Arcana",source={ID=5067,SourceName="Leggings of Arcana",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
 items[18380] = {id=18380,name="Eldritch Reinforced Legplates",source={ID=11486,SourceName="Prince Tortheldrin",SourceType="Kill",DropChance="23.2",Zone="Dire Maul"}}
 items[12420] = {id=12420,name="Radiant Leggings",source={ID=16725,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16687] = {id=16687,name="Magister's Leggings",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="11.0",Zone="Stratholme"}}
@@ -312,31 +312,31 @@ items[34170] = {id=34170,name="Pantaloons of Calming Strife",source={ID=24844,So
 items[34186] = {id=34186,name="Chain Links of the Tumultuous Storm",source={ID=25038,SourceName="Felmyst",SourceType="Kill",DropChance="30.0",Zone="Sunwell Plateau"}}
 items[29977] = {id=29977,name="Star-Soul Breeches",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="23.1",Zone="Tempest Keep"}}
 items[28858] = {id=28858,name="High Warlord's Satin Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29345] = {id=29345,name="Haramad's Leg Wraps",source={ID=10165,SourceName="",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
+items[29345] = {id=29345,name="Haramad's Leg Wraps",source={ID=10165,SourceName="Undercutting the Competition",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
 items[24364] = {id=24364,name="Azureplate Greaves",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="25.0",Zone="The Slave Pens"}}
 items[10162] = {id=10162,name="Mercurial Legguards",source={ID=14471,SourceName="Setis",SourceType="Kill",DropChance="3.5",Zone="Silithus"}}
 items[16419] = {id=16419,name="Knight-Captain's Leather Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[17567] = {id=17567,name="Knight-Captain's Dreadweave Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[11821] = {id=11821,name="Warstrife Leggings",source={ID=9033,SourceName="General Angerforge",SourceType="Kill",DropChance="13.9",Zone="Blackrock Depths"}}
+items[11821] = {id=11821,name="Warstrife Leggings",source={ID=9033,SourceName="General Angerforge",SourceType="Kill",DropChance="14.0",Zone="Blackrock Depths"}}
 items[15079] = {id=15079,name="Heavy Scorpid Leggings",source={ID=19075,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15374] = {id=15374,name="Wolf Rider's Leggings",source={ID=7608,SourceName="Murta Grimgut",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
 items[7373] = {id=7373,name="Dusky Leather Leggings",source={ID=9195,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31021] = {id=31021,name="Skyshatter Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34918] = {id=34918,name="Legwraps of Sweltering Flame",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33585] = {id=33585,name="Achromic Trousers of the Naaru",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29030] = {id=29030,name="Cyclone Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31021] = {id=31021,name="Skyshatter Pants",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[34918] = {id=34918,name="Legwraps of Sweltering Flame",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33585] = {id=33585,name="Achromic Trousers of the Naaru",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29030] = {id=29030,name="Cyclone Kilt",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[29116] = {id=29116,name="Nomad's Leggings",source={ID=20242,SourceName="Karaaz",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[31643] = {id=31643,name="Grand Marshal's Ringmail Legguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[35363] = {id=35363,name="Kodohide Legguards",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[30534] = {id=30534,name="Wyrmscale Greaves",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="39.5",Zone="Old Hillsbrad Foothills"}}
-items[21375] = {id=21375,name="Stormcaller's Leggings",source={ID=8624,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21375] = {id=21375,name="Stormcaller's Leggings",source={ID=8624,SourceName="Stormcaller's Leggings",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[19855] = {id=19855,name="Bloodsoaked Legplates",source={ID=14834,SourceName="Hakkar",SourceType="Kill",DropChance="15.6",Zone="Zul'Gurub"}}
 items[16814] = {id=16814,name="Pants of Prophecy",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="33.5",Zone="Molten Core"}}
 items[10141] = {id=10141,name="High Councillor's Pants",source={ID=10201,SourceName="Lady Hederine",SourceType="Kill",DropChance="3.0",Zone="Winterspring"}}
-items[12903] = {id=12903,name="Legguards of the Chromatic Defier",source={ID=5167,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[12903] = {id=12903,name="Legguards of the Chromatic Defier",source={ID=5167,SourceName="Legplates of the Chromatic Defier",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
 items[18739] = {id=18739,name="Chitinous Plate Legguards",source={ID=10437,SourceName="Nerub'enkan",SourceType="Kill",DropChance="17.8",Zone="Stratholme"}}
-items[13383] = {id=13383,name="Woollies of the Prancing Minstrel",source={ID=10558,SourceName="Hearthsinger Forresten",SourceType="Kill",DropChance="17.1",Zone="Stratholme"}}
-items[10124] = {id=10124,name="Ornate Legguards",source={ID=6583,SourceName="Gruff",SourceType="Kill",DropChance="5.8",Zone="Un'Goro Crater"}}
+items[13383] = {id=13383,name="Woollies of the Prancing Minstrel",source={ID=10558,SourceName="Hearthsinger Forresten",SourceType="Kill",DropChance="17.7",Zone="Stratholme"}}
+items[10124] = {id=10124,name="Ornate Legguards",source={ID=6583,SourceName="Gruff",SourceType="Kill",DropChance="5.7",Zone="Un'Goro Crater"}}
 items[15065] = {id=15065,name="Warbear Woolies",source={ID=19080,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15655] = {id=15655,name="Merciless Legguards",source={ID=14476,SourceName="Krellack",SourceType="Kill",DropChance="0.3",Zone="Silithus"}}
 items[15054] = {id=15054,name="Volcanic Leggings",source={ID=19059,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -345,12 +345,12 @@ items[8202] = {id=8202,name="Big Voodoo Pants",source={ID=10560,SourceName="",So
 items[15616] = {id=15616,name="Bonelink Legplates",source={ID=7899,SourceName="Treasure Hunting Pirate",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
 items[3797] = {id=3797,name="Interlaced Pants",source={ID=2598,SourceName="Darbel Montrose",SourceType="Kill",DropChance="2.1",Zone="Arathi Highlands"}}
 items[6596] = {id=6596,name="Battleforge Legguards",source={ID=14427,SourceName="Gibblesnik",SourceType="Kill",DropChance="4.0",Zone="Thousand Needles"}}
-items[31045] = {id=31045,name="Thunderheart Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33731] = {id=33731,name="Vengeful Gladiator's Plate Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34901] = {id=34901,name="Grovewalker's Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30148] = {id=30148,name="Deathmantle Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27472] = {id=27472,name="Gladiator's Mail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31411] = {id=31411,name="Gladiator's Mooncloth Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31045] = {id=31045,name="Thunderheart Legguards",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33731] = {id=33731,name="Vengeful Gladiator's Plate Legguards",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34901] = {id=34901,name="Grovewalker's Leggings",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30148] = {id=30148,name="Deathmantle Legguards",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[27472] = {id=27472,name="Gladiator's Mail Leggings",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[31411] = {id=31411,name="Gladiator's Mooncloth Leggings",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27458] = {id=27458,name="Oceansong Kilt",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
 items[28813] = {id=28813,name="High Warlord's Dragonhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[28873] = {id=28873,name="High Warlord's Wyrmhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -366,37 +366,37 @@ items[21495] = {id=21495,name="Legplates of the Qiraji Command",source={ID=15341
 items[16835] = {id=16835,name="Cenarion Leggings",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="33.2",Zone="Molten Core"}}
 items[16867] = {id=16867,name="Legplates of Might",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="31.2",Zone="Molten Core"}}
 items[10252] = {id=10252,name="Master's Leggings",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="4.9",Zone="Blasted Lands"}}
-items[14334] = {id=14334,name="Eternal Sarong",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="7.0",Zone="Duskwood"}}
+items[14334] = {id=14334,name="Eternal Sarong",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="6.9",Zone="Duskwood"}}
 items[20671] = {id=20671,name="Abyssal Plate Legplates",source={ID=15208,SourceName="The Duke of Shards",SourceType="Kill",DropChance="24.8",Zone="Silithus"}}
-items[22303] = {id=22303,name="Ironweave Pants",source={ID=16118,SourceName="Kormok",SourceType="Kill",DropChance="14.7",Zone="Scholomance"}}
+items[22303] = {id=22303,name="Ironweave Pants",source={ID=16118,SourceName="Kormok",SourceType="Kill",DropChance="14.9",Zone="Scholomance"}}
 items[8309] = {id=8309,name="Hero's Leggings",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="1.0",Zone="Stratholme"}}
 items[10169] = {id=10169,name="Templar Legplates",source={ID=10826,SourceName="Lord Darkscythe",SourceType="Kill",DropChance="5.4",Zone="Eastern Plaguelands"}}
-items[11882] = {id=11882,name="Outrider Leggings",source={ID=4292,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[11882] = {id=11882,name="Outrider Leggings",source={ID=4292,SourceName="The Bait for Lar'korwi",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
 items[10807] = {id=10807,name="Kilt of the Atal'ai Prophet",source={ID=5710,SourceName="Jammal'an the Prophet",SourceType="Kill",DropChance="27.2",Zone="The Temple of Atal'Hakkar"}}
-items[11910] = {id=11910,name="Bejeweled Legguards",source={ID=4491,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[11910] = {id=11910,name="Bejeweled Legguards",source={ID=4491,SourceName="A Little Help From My Friends",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
 items[15046] = {id=15046,name="Green Dragonscale Leggings",source={ID=19060,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15637] = {id=15637,name="Formidable Legguards",source={ID=6189,SourceName="Timbermaw Ursa",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[10208] = {id=10208,name="Overlord's Legplates",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[8112] = {id=8112,name="Hibernal Pants",source={ID=8447,SourceName="Clunk",SourceType="Kill",DropChance="0.2",Zone="Searing Gorge"}}
-items[7440] = {id=7440,name="Sentinel Trousers",source={ID=2604,SourceName="Molok the Crusher",SourceType="Kill",DropChance="6.7",Zone="Arathi Highlands"}}
+items[7440] = {id=7440,name="Sentinel Trousers",source={ID=2604,SourceName="Molok the Crusher",SourceType="Kill",DropChance="6.6",Zone="Arathi Highlands"}}
 items[6405] = {id=6405,name="Nightsky Trousers",source={ID=2606,SourceName="Nimar the Slayer",SourceType="Kill",DropChance="0.2",Zone="Arathi Highlands"}}
 items[7423] = {id=7423,name="Phalanx Leggings",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
 items[14404] = {id=14404,name="Resilient Leggings",source={ID=7874,SourceName="Razorfen Thornweaver",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
 items[14757] = {id=14757,name="Slayer's Pants",source={ID=4440,SourceName="Razorfen Totemic",SourceType="Kill",DropChance="0.1",Zone="Razorfen Kraul"}}
 items[30903] = {id=30903,name="Legguards of Endless Rage",source={ID=17968,SourceName="Archimonde",SourceType="Kill",DropChance="17.5",Zone="Hyjal Summit"}}
 items[30912] = {id=30912,name="Leggings of Eternity",source={ID=17968,SourceName="Archimonde",SourceType="Kill",DropChance="19.2",Zone="Hyjal Summit"}}
-items[31029] = {id=31029,name="Slayer's Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31029] = {id=31029,name="Slayer's Legguards",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
 items[30893] = {id=30893,name="Sun-touched Chain Leggings",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="15.6",Zone="Hyjal Summit"}}
 items[30898] = {id=30898,name="Shady Dealer's Pantaloons",source={ID=17842,SourceName="Azgalor",SourceType="Kill",DropChance="16.1",Zone="Hyjal Summit"}}
-items[34910] = {id=34910,name="Tameless Breeches",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34937] = {id=34937,name="Corrupted Soulcloth Pantaloons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34910] = {id=34910,name="Tameless Breeches",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34937] = {id=34937,name="Corrupted Soulcloth Pantaloons",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[33971] = {id=33971,name="Elunite Imbued Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[29059] = {id=29059,name="Leggings of the Incarnate",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[29094] = {id=29094,name="Britches of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29094] = {id=29094,name="Britches of Malorne",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[23512] = {id=23512,name="Enchanted Adamantite Leggings",source={ID=29613,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31210] = {id=31210,name="Chimaerascale Legguards",source={ID=20932,SourceName="Nuramoc",SourceType="Kill",DropChance="53.7",Zone="Unknown"}}
 items[24987] = {id=24987,name="Boulderfist Legplates",source={ID=21501,SourceName="Makazradon",SourceType="Kill",DropChance="16.7",Zone="Shadowmoon Valley"}}
-items[31764] = {id=31764,name="Stillfire Leggings",source={ID=10898,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[31764] = {id=31764,name="Stillfire Leggings",source={ID=10898,SourceName="Skywing",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[24947] = {id=24947,name="Bloodscale Legguards",source={ID=18124,SourceName="Withered Giant",SourceType="Kill",DropChance="0.6",Zone="Zangarmarsh"}}
 items[24714] = {id=24714,name="Vengeance Legguards",source={ID=17264,SourceName="Bonechewer Ravener",SourceType="Kill",DropChance="2.7",Zone="Hellfire Ramparts"}}
 items[21676] = {id=21676,name="Leggings of the Festering Swarm",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="21.8",Zone="Ahn'Qiraj"}}
@@ -404,11 +404,11 @@ items[30497] = {id=30497,name="Sentinel's Mail Leggings",source={ID=14753,Source
 items[16490] = {id=16490,name="Legionnaire's Silk Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16523] = {id=16523,name="Legionnaire's Mail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14522] = {id=14522,name="Maelstrom Leggings",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="14.8",Zone="Scholomance"}}
-items[13389] = {id=13389,name="The Postmaster's Trousers",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="13.3",Zone="Stratholme"}}
+items[13389] = {id=13389,name="The Postmaster's Trousers",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="12.3",Zone="Stratholme"}}
 items[18477] = {id=18477,name="Shaggy Leggings",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="2.7",Zone="Dire Maul"}}
 items[14970] = {id=14970,name="Glorious Legplates",source={ID=14303,SourceName="Petrified Guardian",SourceType="Kill",DropChance="0.5",Zone="Dire Maul"}}
 items[10177] = {id=10177,name="Mystical Leggings",source={ID=8297,SourceName="Magronos the Unyielding",SourceType="Kill",DropChance="3.6",Zone="Blasted Lands"}}
-items[10842] = {id=10842,name="Windscale Sarong",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="35.2",Zone="The Temple of Atal'Hakkar"}}
+items[10842] = {id=10842,name="Windscale Sarong",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="35.3",Zone="The Temple of Atal'Hakkar"}}
 items[17751] = {id=17751,name="Brusslehide Leggings",source={ID=12258,SourceName="Razorlash",SourceType="Kill",DropChance="23.7",Zone="Maraudon"}}
 items[7539] = {id=7539,name="Champion's Leggings",source={ID=5400,SourceName="Zekkis",SourceType="Kill",DropChance="5.6",Zone="Unknown"}}
 items[14605] = {id=14605,name="Warden's Woolies",source={ID=7605,SourceName="Raven",SourceType="Kill",DropChance="0.4",Zone="Zul'Farrak"}}
@@ -417,34 +417,34 @@ items[14424] = {id=14424,name="Silksand Legwraps",source={ID=4403,SourceName="Mu
 items[9407] = {id=9407,name="Stoneweaver Leggings",source={ID=7228,SourceName="Ironaya",SourceType="Kill",DropChance="38.0",Zone="Uldaman"}}
 items[7414] = {id=7414,name="Infiltrator Pants",source={ID=15748,SourceName="Lesser Anubisath Warbringer",SourceType="Kill",DropChance="7.2",Zone="Thousand Needles"}}
 items[3805] = {id=3805,name="Hardened Leather Pants",source={ID=2609,SourceName="Geomancer Flintdagger",SourceType="Kill",DropChance="33.3",Zone="Arathi Highlands"}}
-items[34386] = {id=34386,name="Pantaloons of Growing Strife",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31053] = {id=31053,name="Leggings of the Malefic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31067] = {id=31067,name="Leggings of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34931] = {id=34931,name="Runed Scales of Antiquity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34934] = {id=34934,name="Rushing Storm Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34940] = {id=34940,name="Sunguard Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30489] = {id=30489,name="Merciless Gladiator's Plate Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31963] = {id=31963,name="Merciless Gladiator's Chain Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30192] = {id=30192,name="Cataclysm Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34386] = {id=34386,name="Pantaloons of Growing Strife",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[31053] = {id=31053,name="Leggings of the Malefic",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[31067] = {id=31067,name="Leggings of Absolution",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[34931] = {id=34931,name="Runed Scales of Antiquity",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34934] = {id=34934,name="Rushing Storm Kilt",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34940] = {id=34940,name="Sunguard Legplates",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30489] = {id=30489,name="Merciless Gladiator's Plate Legguards",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[31963] = {id=31963,name="Merciless Gladiator's Chain Leggings",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30192] = {id=30192,name="Cataclysm Legplates",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[32400] = {id=32400,name="Greaves of Shackled Souls",source={ID=40001,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24915] = {id=24915,name="Netherstorm Legguards",source={ID=18326,SourceName="Sethekk Shaman",SourceType="Kill",DropChance="25.0",Zone="Sethekk Halls"}}
 items[27800] = {id=27800,name="Earthsoul Britches",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="16.6",Zone="The Slave Pens"}}
 items[28697] = {id=28697,name="Grand Marshal's Mail Leggings",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28844] = {id=28844,name="High Warlord's Linked Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30517] = {id=30517,name="Netherfarer's Leggings",source={ID=10353,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[27649] = {id=27649,name="Hierophant's Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30517] = {id=30517,name="Netherfarer's Leggings",source={ID=10353,SourceName="Arconus the Insatiable",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[27649] = {id=27649,name="Hierophant's Leggings",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[25656] = {id=25656,name="Felscale Pants",source={ID=32464,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[27717] = {id=27717,name="Expedition Forager Leggings",source={ID=10096,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[27717] = {id=27717,name="Expedition Forager Leggings",source={ID=10096,SourceName="Saving the Sporeloks",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[19402] = {id=19402,name="Legguards of the Fallen Crusader",source={ID=11983,SourceName="Firemaw",SourceType="Kill",DropChance="16.6",Zone="Blackwing Lair"}}
 items[19433] = {id=19433,name="Emberweave Leggings",source={ID=11981,SourceName="Flamegor",SourceType="Kill",DropChance="34.6",Zone="Blackwing Lair"}}
-items[21698] = {id=21698,name="Leggings of Immersion",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="23.6",Zone="Ahn'Qiraj"}}
+items[21698] = {id=21698,name="Leggings of Immersion",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="23.5",Zone="Ahn'Qiraj"}}
 items[18545] = {id=18545,name="Leggings of Arcane Supremacy",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="13.9",Zone="Azshara"}}
 items[22873] = {id=22873,name="Legionnaire's Plate Leggings",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[22880] = {id=22880,name="Legionnaire's Leather Legguards",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16796] = {id=16796,name="Arcanist Leggings",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="32.2",Zone="Molten Core"}}
 items[10262] = {id=10262,name="Adventurer's Legguards",source={ID=15757,SourceName="Qiraji Lieutenant General",SourceType="Kill",DropChance="4.8",Zone="Silithus"}}
 items[10152] = {id=10152,name="Mighty Leggings",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="2.6",Zone="Silithus"}}
-items[20705] = {id=20705,name="Cenarion Reservist's Pants",source={ID=8381,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[20705] = {id=20705,name="Cenarion Reservist's Pants",source={ID=8381,SourceName="Armaments of War",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[13206] = {id=13206,name="Wolfshear Leggings",source={ID=10268,SourceName="Gizrul the Slavener",SourceType="Kill",DropChance="25.6",Zone="Blackrock Spire"}}
 items[14632] = {id=14632,name="Necropile Leggings",source={ID=11261,SourceName="Doctor Theolen Krastinov",SourceType="Kill",DropChance="4.2",Zone="Scholomance"}}
 items[9402] = {id=9402,name="Earthborn Kilt",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
@@ -461,7 +461,7 @@ items[8132] = {id=8132,name="Myrmidon's Leggings",source={ID=7995,SourceName="Vi
 items[14659] = {id=14659,name="Scorpashi Leggings",source={ID=7608,SourceName="Murta Grimgut",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
 items[15573] = {id=15573,name="Marauder's Leggings",source={ID=14230,SourceName="Burgle Eye",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
 items[2418] = {id=2418,name="Augmented Chain Leggings",source={ID=1322,SourceName="Maxton Strang",SourceType="Purchase",DropChance="100",Zone="Desolace"}}
-items[9871] = {id=9871,name="Renegade Leggings",source={ID=2753,SourceName="Barnabus",SourceType="Kill",DropChance="11.9",Zone="Badlands"}}
+items[9871] = {id=9871,name="Renegade Leggings",source={ID=2753,SourceName="Barnabus",SourceType="Kill",DropChance="11.8",Zone="Badlands"}}
 items[9833] = {id=9833,name="Scaled Leather Leggings",source={ID=14225,SourceName="Prince Kellen",SourceType="Kill",DropChance="3.5",Zone="Desolace"}}
 items[14379] = {id=14379,name="Sanguine Trousers",source={ID=3773,SourceName="Akkrilus",SourceType="Kill",DropChance="0.9",Zone="Ashenvale"}}
 items[9797] = {id=9797,name="Ivycloth Pants",source={ID=6209,SourceName="Caverndeep Looter",SourceType="Kill",DropChance="4.0",Zone="Unknown"}}
@@ -470,36 +470,36 @@ items[14748] = {id=14748,name="Hulking Leggings",source={ID=3736,SourceName="Dar
 items[34167] = {id=34167,name="Legplates of the Holy Juggernaut",source={ID=24844,SourceName="Kalecgos",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
 items[34169] = {id=34169,name="Breeches of Natural Aggression",source={ID=24844,SourceName="Kalecgos",SourceType="Kill",DropChance="2.7",Zone="Unknown"}}
 items[30900] = {id=30900,name="Bow-stitched Leggings",source={ID=17842,SourceName="Azgalor",SourceType="Kill",DropChance="18.1",Zone="Hyjal Summit"}}
-items[31975] = {id=31975,name="Merciless Gladiator's Dreadweave Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30167] = {id=30167,name="Cataclysm Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31975] = {id=31975,name="Merciless Gladiator's Dreadweave Leggings",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30167] = {id=30167,name="Cataclysm Legguards",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[32389] = {id=32389,name="Soulguard Leggings",source={ID=40023,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28138] = {id=28138,name="Gladiator's Wyrmhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28138] = {id=28138,name="Gladiator's Wyrmhide Legguards",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[31586] = {id=31586,name="High Warlord's Kodohide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35340] = {id=35340,name="Satin Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35340] = {id=35340,name="Satin Leggings",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[35410] = {id=35410,name="Savage Plate Legguards",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[29492] = {id=29492,name="Flamescale Leggings",source={ID=35529,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31212] = {id=31212,name="Chimaerahide Leggings",source={ID=20932,SourceName="Nuramoc",SourceType="Kill",DropChance="49.7",Zone="Unknown"}}
-items[31519] = {id=31519,name="Inkling's Leggings",source={ID=10747,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
-items[30019] = {id=30019,name="Area 52 Defender's Pants",source={ID=10249,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[22489] = {id=22489,name="Dreamwalker Legguards",source={ID=9087,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[31519] = {id=31519,name="Inkling's Leggings",source={ID=10747,SourceName="Whelps of the Wyrmcult",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[30019] = {id=30019,name="Area 52 Defender's Pants",source={ID=10249,SourceName="Back to the Chief!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[22489] = {id=22489,name="Dreamwalker Legguards",source={ID=9087,SourceName="Dreamwalker Legguards",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[24811] = {id=24811,name="Unyielding Leggings",source={ID=18130,SourceName="Marshfang Ripper",SourceType="Kill",DropChance="1.2",Zone="Zangarmarsh"}}
 items[21626] = {id=21626,name="Slime-coated Leggings",source={ID=15299,SourceName="Viscidus",SourceType="Kill",DropChance="21.5",Zone="Ahn'Qiraj"}}
 items[20638] = {id=20638,name="Leggings of the Demented Mind",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="4.6",Zone="Duskwood"}}
-items[20627] = {id=20627,name="Dark Heart Pants",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="13.3",Zone="Duskwood"}}
+items[20627] = {id=20627,name="Dark Heart Pants",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="13.4",Zone="Duskwood"}}
 items[20266] = {id=20266,name="Peacekeeper Leggings",source={ID=14509,SourceName="High Priest Thekal",SourceType="Kill",DropChance="10.8",Zone="Zul'Gurub"}}
 items[16502] = {id=16502,name="Legionnaire's Dragonhide Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22342] = {id=22342,name="Leggings of Torment",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="22.5",Zone="Blackrock Spire"}}
+items[22342] = {id=22342,name="Leggings of Torment",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="22.4",Zone="Blackrock Spire"}}
 items[10227] = {id=10227,name="Nightshade Leggings",source={ID=1838,SourceName="Scarlet Interrogator",SourceType="Kill",DropChance="2.4",Zone="Western Plaguelands"}}
 items[10382] = {id=10382,name="Commander's Leggings",source={ID=6584,SourceName="King Mosh",SourceType="Kill",DropChance="6.8",Zone="Un'Goro Crater"}}
 items[12614] = {id=12614,name="Runic Plate Leggings",source={ID=16732,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[12945] = {id=12945,name="Legplates of the Chromatic Defier",source={ID=5167,SourceName="",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
+items[12945] = {id=12945,name="Legplates of the Chromatic Defier",source={ID=5167,SourceName="Legplates of the Chromatic Defier",SourceType="Quest",DropChance="0",Zone="Western Plaguelands"}}
 items[14545] = {id=14545,name="Ghostloom Leggings",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="12.5",Zone="Scholomance"}}
 items[18690] = {id=18690,name="Wraithplate Leggings",source={ID=10503,SourceName="Jandice Barov",SourceType="Kill",DropChance="11.3",Zone="Scholomance"}}
 items[13169] = {id=13169,name="Tressermane Leggings",source={ID=9196,SourceName="Highlord Omokk",SourceType="Kill",DropChance="13.1",Zone="Blackrock Spire"}}
 items[14137] = {id=14137,name="Mooncloth Leggings",source={ID=18440,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14677] = {id=14677,name="Pridelord Pants",source={ID=14472,SourceName="Gretheer",SourceType="Kill",DropChance="1.1",Zone="Silithus"}}
 items[14305] = {id=14305,name="Bonecaster's Sarong",source={ID=6144,SourceName="Son of Arkkoroc",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
-items[22271] = {id=22271,name="Leggings of Frenzied Magic",source={ID=9027,SourceName="Gorosh the Dervish",SourceType="Kill",DropChance="21.1",Zone="Blackrock Depths"}}
+items[22271] = {id=22271,name="Leggings of Frenzied Magic",source={ID=9027,SourceName="Gorosh the Dervish",SourceType="Kill",DropChance="21.0",Zone="Blackrock Depths"}}
 items[15119] = {id=15119,name="Highborne Pants",source={ID=7435,SourceName="Cobalt Wyrmkin",SourceType="Kill",DropChance="0.2",Zone="Winterspring"}}
 items[8085] = {id=8085,name="Light Plate Pants",source={ID=6652,SourceName="Master Feardred",SourceType="Kill",DropChance="1.6",Zone="Azshara"}}
 items[14132] = {id=14132,name="Wizardweave Leggings",source={ID=18421,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -509,7 +509,7 @@ items[2472] = {id=2472,name="Reinforced Leather Pants",source={ID=984,SourceName
 items[15627] = {id=15627,name="Gryphon Mail Legguards",source={ID=6187,SourceName="Timbermaw Den Watcher",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
 items[9474] = {id=9474,name="Jinxed Hoodoo Kilt",source={ID=7275,SourceName="Shadowpriest Sezz'ziz",SourceType="Kill",DropChance="21.4",Zone="Zul'Farrak"}}
 items[14786] = {id=14786,name="Khan's Legguards",source={ID=7902,SourceName="Treasure Hunting Buccaneer",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
-items[9922] = {id=9922,name="Tracker's Leggings",source={ID=8279,SourceName="Faulty War Golem",SourceType="Kill",DropChance="4.1",Zone="Searing Gorge"}}
+items[9922] = {id=9922,name="Tracker's Leggings",source={ID=8280,SourceName="Shleipnarr",SourceType="Kill",DropChance="4.9",Zone="Searing Gorge"}}
 items[4062] = {id=4062,name="Imperial Leather Pants",source={ID=2763,SourceName="Thenan",SourceType="Kill",DropChance="0.3",Zone="Arathi Highlands"}}
 items[14257] = {id=14257,name="Lunar Leggings",source={ID=8208,SourceName="Murderous Blisterpaw",SourceType="Kill",DropChance="1.8",Zone="Tanaris"}}
 items[14945] = {id=14945,name="Warbringer's Legguards",source={ID=7605,SourceName="Raven",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
@@ -519,37 +519,37 @@ items[7929] = {id=7929,name="Orcish War Leggings",source={ID=9957,SourceName="",
 items[3843] = {id=3843,name="Golden Scale Leggings",source={ID=3507,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15139] = {id=15139,name="Cutthroat's Pants",source={ID=6238,SourceName="Big Will",SourceType="Kill",DropChance="0.1",Zone="The Barrens"}}
 items[1808] = {id=1808,name="Tough Leather Pants",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="1.8",Zone="Stonetalon Mountains"}}
-items[4037] = {id=4037,name="Silver-thread Pants",source={ID=1754,SourceName="Lord Gregor Lescovar",SourceType="Kill",DropChance="0.8",Zone="Stormwind City"}}
+items[4037] = {id=4037,name="Silver-thread Pants",source={ID=1754,SourceName="Lord Gregor Lescovar",SourceType="Kill",DropChance="0.7",Zone="Stormwind City"}}
 items[15529] = {id=15529,name="Sentry's Leggings",source={ID=11683,SourceName="Warsong Shaman",SourceType="Kill",DropChance="0.6",Zone="Ashenvale"}}
 items[9815] = {id=9815,name="Fortified Leggings",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="13.4",Zone="The Barrens"}}
 items[14165] = {id=14165,name="Pagan Britches",source={ID=12902,SourceName="Lorgus Jett",SourceType="Kill",DropChance="0.4",Zone="Blackfathom Deeps"}}
-items[34381] = {id=34381,name="Felstrength Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35091] = {id=35091,name="Brutal Gladiator's Scaled Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31058] = {id=31058,name="Leggings of the Tempest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33673] = {id=33673,name="Vengeful Gladiator's Dragonhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33761] = {id=33761,name="Vengeful Gladiator's Silk Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34946] = {id=34946,name="Inscribed Legplates of the Aldor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30172] = {id=30172,name="Cataclysm Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27705] = {id=27705,name="Gladiator's Lamellar Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34381] = {id=34381,name="Felstrength Legplates",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[35091] = {id=35091,name="Brutal Gladiator's Scaled Legguards",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31058] = {id=31058,name="Leggings of the Tempest",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33673] = {id=33673,name="Vengeful Gladiator's Dragonhide Legguards",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33761] = {id=33761,name="Vengeful Gladiator's Silk Trousers",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34946] = {id=34946,name="Inscribed Legplates of the Aldor",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30172] = {id=30172,name="Cataclysm Leggings",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[27705] = {id=27705,name="Gladiator's Lamellar Legguards",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27545] = {id=27545,name="Mennu's Scaled Leggings",source={ID=17941,SourceName="Mennu the Betrayer",SourceType="Kill",DropChance="20.0",Zone="The Slave Pens"}}
 items[30766] = {id=30766,name="Inferno Tempered Leggings",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[30778] = {id=30778,name="Inferno Hardened Leggings",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31556] = {id=31556,name="Windchanneller's Leggings",source={ID=21838,SourceName="Terokk",SourceType="Kill",DropChance="10.1",Zone="Unknown"}}
 items[31572] = {id=31572,name="Mistshroud Pants",source={ID=21838,SourceName="Terokk",SourceType="Kill",DropChance="10.8",Zone="Unknown"}}
 items[24666] = {id=24666,name="Shadow Council Pants",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
-items[25821] = {id=25821,name="Leggings of Unending Assault",source={ID=10011,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[27647] = {id=27647,name="Marksman's Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27650] = {id=27650,name="Shadowstalker's Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[21352] = {id=21352,name="Trousers of the Oracle",source={ID=8593,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[21362] = {id=21362,name="Deathdealer's Leggings",source={ID=8640,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[25821] = {id=25821,name="Leggings of Unending Assault",source={ID=10011,SourceName="Forge Camp: Annihilated",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[27647] = {id=27647,name="Marksman's Legguards",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[27650] = {id=27650,name="Shadowstalker's Leggings",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[21352] = {id=21352,name="Trousers of the Oracle",source={ID=8593,SourceName="Trousers of the Oracle",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21362] = {id=21362,name="Deathdealer's Leggings",source={ID=8640,SourceName="Deathdealer's Leggings",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[16946] = {id=16946,name="Legplates of Ten Storms",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="7.8",Zone="Molten Core"}}
-items[21476] = {id=21476,name="Obsidian Scaled Leggings",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="16.4",Zone="Ruins of Ahn'Qiraj"}}
+items[21476] = {id=21476,name="Obsidian Scaled Leggings",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="16.5",Zone="Ruins of Ahn'Qiraj"}}
 items[19889] = {id=19889,name="Blooddrenched Leggings",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="16.2",Zone="Zul'Gurub"}}
 items[16422] = {id=16422,name="Knight-Captain's Dragonhide Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[17599] = {id=17599,name="Knight-Captain's Satin Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[17611] = {id=17611,name="Legionnaire's Satin Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[20704] = {id=20704,name="Cenarion Reservist's Leggings",source={ID=8382,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
-items[10217] = {id=10217,name="Elegant Leggings",source={ID=14401,SourceName="Master Elemental Shaper Krixix",SourceType="Kill",DropChance="7.1",Zone="Blackwing Lair"}}
+items[20704] = {id=20704,name="Cenarion Reservist's Leggings",source={ID=8382,SourceName="Armaments of War",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[10217] = {id=10217,name="Elegant Leggings",source={ID=14401,SourceName="Master Elemental Shaper Krixix",SourceType="Kill",DropChance="6.2",Zone="Blackwing Lair"}}
 items[14577] = {id=14577,name="Skullsmoke Pants",source={ID=10432,SourceName="Vectus",SourceType="Kill",DropChance="7.6",Zone="Scholomance"}}
 items[18390] = {id=18390,name="Tanglemoss Leggings",source={ID=11489,SourceName="Tendris Warpwood",SourceType="Kill",DropChance="24.7",Zone="Dire Maul"}}
 items[18346] = {id=18346,name="Threadbare Trousers",source={ID=11467,SourceName="Tsu'zee",SourceType="Kill",DropChance="29.1",Zone="Dire Maul"}}
@@ -567,31 +567,31 @@ items[14908] = {id=14908,name="Brutish Legguards",source={ID=12206,SourceName="P
 items[15157] = {id=15157,name="Nocturnal Leggings",source={ID=5402,SourceName="Khan Hratha",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
 items[14595] = {id=14595,name="Hawkeye's Breeches",source={ID=5937,SourceName="Vile Sting",SourceType="Kill",DropChance="1.0",Zone="Thousand Needles"}}
 items[15541] = {id=15541,name="Wicked Chain Legguards",source={ID=3414,SourceName="General Twinbraid",SourceType="Kill",DropChance="0.1",Zone="The Barrens"}}
-items[9841] = {id=9841,name="Banded Leggings",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="6.3",Zone="Alterac Mountains"}}
+items[9841] = {id=9841,name="Banded Leggings",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
 items[2152] = {id=2152,name="Polished Scale Leggings",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[2159] = {id=2159,name="Padded Pants",source={ID=1314,SourceName="Duncan Cullen",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[34383] = {id=34383,name="Kilt of Spiritual Reconstruction",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34993] = {id=34993,name="Brutal Gladiator's Chain Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35080] = {id=35080,name="Brutal Gladiator's Ringmail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31995] = {id=31995,name="Merciless Gladiator's Lamellar Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32012] = {id=32012,name="Merciless Gladiator's Mail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30142] = {id=30142,name="Rift Stalker Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30213] = {id=30213,name="Leggings of the Corruptor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30234] = {id=30234,name="Nordrassil Wrath-Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33518] = {id=33518,name="High Justicar's Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34383] = {id=34383,name="Kilt of Spiritual Reconstruction",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34993] = {id=34993,name="Brutal Gladiator's Chain Leggings",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35080] = {id=35080,name="Brutal Gladiator's Ringmail Leggings",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31995] = {id=31995,name="Merciless Gladiator's Lamellar Legguards",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32012] = {id=32012,name="Merciless Gladiator's Mail Leggings",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30142] = {id=30142,name="Rift Stalker Leggings",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30213] = {id=30213,name="Leggings of the Corruptor",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30234] = {id=30234,name="Nordrassil Wrath-Kilt",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33518] = {id=33518,name="High Justicar's Legplates",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[24803] = {id=24803,name="Dragonhawk Pants",source={ID=17833,SourceName="Durnholde Warden",SourceType="Kill",DropChance="33.3",Zone="Unknown"}}
 items[27873] = {id=27873,name="Moonglade Pants",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="11.0",Zone="The Black Morass"}}
 items[31580] = {id=31580,name="Slatesteel Leggings",source={ID=21838,SourceName="Terokk",SourceType="Kill",DropChance="11.8",Zone="Unknown"}}
 items[24674] = {id=24674,name="Eldr'naan Pants",source={ID=16414,SourceName="Ghostly Steward",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
-items[29980] = {id=29980,name="Midrealm Leggings",source={ID=10310,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29980] = {id=29980,name="Midrealm Leggings",source={ID=10310,SourceName="Sabotage the Warp-Gate!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[29489] = {id=29489,name="Enchanted Felscale Leggings",source={ID=35525,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24658] = {id=24658,name="Consortium Pants",source={ID=18328,SourceName="Sethekk Oracle",SourceType="Kill",DropChance="14.2",Zone="Sethekk Halls"}}
 items[24971] = {id=24971,name="Talonguard Legplates",source={ID=18312,SourceName="Ethereal Spellbinder",SourceType="Kill",DropChance="6.6",Zone="Mana-Tombs"}}
 items[25670] = {id=25670,name="Thick Draenic Pants",source={ID=32471,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31243] = {id=31243,name="Nagascale Legguards",source={ID=18681,SourceName="Coilfang Emissary",SourceType="Kill",DropChance="41.7",Zone="Unknown"}}
-items[25979] = {id=25979,name="Flintlocke's Piloting Pants",source={ID=10161,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
-items[16930] = {id=16930,name="Nemesis Leggings",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="30.9",Zone="Molten Core"}}
-items[20617] = {id=20617,name="Ancient Corroded Leggings",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="15.0",Zone="Duskwood"}}
+items[25979] = {id=25979,name="Flintlocke's Piloting Pants",source={ID=10161,SourceName="In Case of Emergency...",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[16930] = {id=16930,name="Nemesis Leggings",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="30.7",Zone="Molten Core"}}
+items[20617] = {id=20617,name="Ancient Corroded Leggings",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="15.1",Zone="Duskwood"}}
 items[29597] = {id=29597,name="Knight-Captain's Mail Legguards",source={ID=12785,SourceName="Sergeant Major Clate",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[3982] = {id=3982,name="Strapped Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16855] = {id=16855,name="Lawbringer Legplates",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="18.1",Zone="Molten Core"}}
@@ -609,7 +609,7 @@ items[18861] = {id=18861,name="Flamewaker Legplates",source={ID=12259,SourceName
 items[15665] = {id=15665,name="Impenetrable Legguards",source={ID=10741,SourceName="Sian-Rotam",SourceType="Kill",DropChance="0.5",Zone="Winterspring"}}
 items[10112] = {id=10112,name="Wanderer's Leggings",source={ID=1844,SourceName="Foreman Marcrid",SourceType="Kill",DropChance="5.8",Zone="Western Plaguelands"}}
 items[14104] = {id=14104,name="Brightcloth Pants",source={ID=18439,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[14805] = {id=14805,name="Bloodlust Britches",source={ID=11465,SourceName="Warpwood Stomper",SourceType="Kill",DropChance="0.1",Zone="Dire Maul"}}
+items[14805] = {id=14805,name="Bloodlust Britches",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[14859] = {id=14859,name="Vanguard Legplates",source={ID=10663,SourceName="Manaclaw",SourceType="Kill",DropChance="0.3",Zone="Winterspring"}}
 items[15060] = {id=15060,name="Living Leggings",source={ID=19078,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10188] = {id=10188,name="Swashbuckler's Leggings",source={ID=14476,SourceName="Krellack",SourceType="Kill",DropChance="5.2",Zone="Silithus"}}
@@ -620,10 +620,10 @@ items[14444] = {id=14444,name="Venomshroud Leggings",source={ID=6647,SourceName=
 items[2425] = {id=2425,name="Brigandine Leggings",source={ID=980,SourceName="Grimnal",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
 items[2437] = {id=2437,name="Embroidered Pants",source={ID=984,SourceName="Thralosh",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
 items[15176] = {id=15176,name="Potent Pants",source={ID=5469,SourceName="Dune Smasher",SourceType="Kill",DropChance="0.2",Zone="Tanaris"}}
-items[19124] = {id=19124,name="Slagplate Leggings",source={ID=7728,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[19124] = {id=19124,name="Slagplate Leggings",source={ID=7728,SourceName="STOLEN: Smithing Tuyere and Lookout's Spyglass",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
 items[12255] = {id=12255,name="Pale Leggings",source={ID=984,SourceName="Thralosh",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
 items[14433] = {id=14433,name="Windchaser Woolies",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.3",Zone="Maraudon"}}
-items[4046] = {id=4046,name="Mistscape Pants",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="4.5",Zone="Stranglethorn Vale"}}
+items[4046] = {id=4046,name="Mistscape Pants",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="4.4",Zone="Stranglethorn Vale"}}
 items[15168] = {id=15168,name="Imposing Pants",source={ID=14235,SourceName="The Rot",SourceType="Kill",DropChance="0.6",Zone="Dustwallow Marsh"}}
 items[4005] = {id=4005,name="Overlinked Chain Pants",source={ID=2601,SourceName="Foulbelly",SourceType="Kill",DropChance="2.0",Zone="Arathi Highlands"}}
 items[3966] = {id=3966,name="Thick Leather Pants",source={ID=8212,SourceName="The Reak",SourceType="Kill",DropChance="1.4",Zone="The Hinterlands"}}
@@ -640,9 +640,9 @@ items[9862] = {id=9862,name="Archer's Trousers",source={ID=14227,SourceName="His
 items[14415] = {id=14415,name="Stonecloth Britches",source={ID=4386,SourceName="Withervine Bark Ripper",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
 items[14207] = {id=14207,name="Vital Leggings",source={ID=5937,SourceName="Vile Sting",SourceType="Kill",DropChance="1.0",Zone="Thousand Needles"}}
 items[15561] = {id=15561,name="Pillager's Leggings",source={ID=7328,SourceName="Withered Reaver",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
-items[3813] = {id=3813,name="Double Mail Pants",source={ID=23591,SourceName="Defias Diver",SourceType="Kill",DropChance="2.7",Zone="Dustwallow Marsh"}}
+items[3813] = {id=3813,name="Double Mail Pants",source={ID=23591,SourceName="Defias Diver",SourceType="Kill",DropChance="2.3",Zone="Dustwallow Marsh"}}
 items[4054] = {id=4054,name="Insignia Leggings",source={ID=755,SourceName="Lost One Mudlurker",SourceType="Kill",DropChance="0.1",Zone="Swamp of Sorrows"}}
-items[14203] = {id=14203,name="Thistlefur Pants",source={ID=7332,SourceName="Withered Spearhide",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
+items[14203] = {id=14203,name="Thistlefur Pants",source={ID=7335,SourceName="Death's Head Geomancer",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
 items[15358] = {id=15358,name="Headhunter's Woolies",source={ID=3940,SourceName="Taneel Darkwood",SourceType="Kill",DropChance="0.4",Zone="Ashenvale"}}
 items[9825] = {id=9825,name="Durable Pants",source={ID=14277,SourceName="Lady Zephris",SourceType="Kill",DropChance="4.6",Zone="Hillsbrad Foothills"}}
 items[15344] = {id=15344,name="Pathfinder Pants",source={ID=4623,SourceName="Quilguard Champion",SourceType="Kill",DropChance="0.4",Zone="Razorfen Kraul"}}
@@ -654,47 +654,47 @@ items[2146] = {id=2146,name="Cuirboulli Pants",source={ID=1314,SourceName="Dunca
 items[9772] = {id=9772,name="Greenweave Leggings",source={ID=5864,SourceName="Swinegart Spearhide",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
 items[15336] = {id=15336,name="Wrangler's Leggings",source={ID=5916,SourceName="Sentinel Amarassan",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
 items[15521] = {id=15521,name="Spiked Chain Leggings",source={ID=10642,SourceName="Eck'alom",SourceType="Kill",DropChance="0.8",Zone="Ashenvale"}}
-items[3056] = {id=3056,name="Forest Leather Pants",source={ID=17108,SourceName="Forsaken Raider",SourceType="Kill",DropChance="1.4",Zone="Hillsbrad Foothills"}}
+items[3056] = {id=3056,name="Forest Leather Pants",source={ID=17108,SourceName="Forsaken Raider",SourceType="Kill",DropChance="1.1",Zone="Hillsbrad Foothills"}}
 items[14574] = {id=14574,name="Bristlebark Britches",source={ID=11680,SourceName="Horde Scout",SourceType="Kill",DropChance="0.4",Zone="Ashenvale"}}
 items[1751] = {id=1751,name="Linked Chain Pants",source={ID=14281,SourceName="Jimmy the Bleeder",SourceType="Kill",DropChance="1.3",Zone="Alterac Mountains"}}
-items[35000] = {id=35000,name="Brutal Gladiator's Dragonhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35005] = {id=35005,name="Brutal Gladiator's Dreadweave Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35024] = {id=35024,name="Brutal Gladiator's Kodohide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35055] = {id=35055,name="Brutal Gladiator's Mooncloth Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35069] = {id=35069,name="Brutal Gladiator's Plate Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35085] = {id=35085,name="Brutal Gladiator's Satin Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35113] = {id=35113,name="Brutal Gladiator's Wyrmhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30977] = {id=30977,name="Onslaught Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31020] = {id=31020,name="Skyshatter Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33752] = {id=33752,name="Vengeful Gladiator's Scaled Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33769] = {id=33769,name="Vengeful Gladiator's Wyrmhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31989] = {id=31989,name="Merciless Gladiator's Kodohide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32017] = {id=32017,name="Merciless Gladiator's Mooncloth Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32023] = {id=32023,name="Merciless Gladiator's Ornamented Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32032] = {id=32032,name="Merciless Gladiator's Ringmail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32036] = {id=32036,name="Merciless Gladiator's Satin Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32042] = {id=32042,name="Merciless Gladiator's Scaled Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33501] = {id=33501,name="Bloodthirster's Wargreaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35000] = {id=35000,name="Brutal Gladiator's Dragonhide Legguards",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35005] = {id=35005,name="Brutal Gladiator's Dreadweave Leggings",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35024] = {id=35024,name="Brutal Gladiator's Kodohide Legguards",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35055] = {id=35055,name="Brutal Gladiator's Mooncloth Leggings",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35069] = {id=35069,name="Brutal Gladiator's Plate Legguards",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35085] = {id=35085,name="Brutal Gladiator's Satin Leggings",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35113] = {id=35113,name="Brutal Gladiator's Wyrmhide Legguards",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30977] = {id=30977,name="Onslaught Greaves",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[31020] = {id=31020,name="Skyshatter Legguards",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33752] = {id=33752,name="Vengeful Gladiator's Scaled Legguards",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33769] = {id=33769,name="Vengeful Gladiator's Wyrmhide Legguards",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31989] = {id=31989,name="Merciless Gladiator's Kodohide Legguards",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32017] = {id=32017,name="Merciless Gladiator's Mooncloth Leggings",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32023] = {id=32023,name="Merciless Gladiator's Ornamented Legplates",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32032] = {id=32032,name="Merciless Gladiator's Ringmail Leggings",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32036] = {id=32036,name="Merciless Gladiator's Satin Leggings",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32042] = {id=32042,name="Merciless Gladiator's Scaled Legguards",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33501] = {id=33501,name="Bloodthirster's Wargreaves",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[33533] = {id=33533,name="Avalanche Leggings",source={ID=23577,SourceName="Halazzi",SourceType="Kill",DropChance="13.0",Zone="Unknown"}}
-items[27882] = {id=27882,name="Gladiator's Scaled Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27882] = {id=27882,name="Gladiator's Scaled Legguards",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27492] = {id=27492,name="Moonchild Leggings",source={ID=17380,SourceName="Broggok",SourceType="Kill",DropChance="6.4",Zone="The Blood Furnace"}}
 items[28864] = {id=28864,name="High Warlord's Scaled Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[30772] = {id=30772,name="Inferno Forged Leggings",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[35405] = {id=35405,name="Crusader's Ornamented Leggings",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[29495] = {id=29495,name="Enchanted Clefthoof Leggings",source={ID=35532,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30290] = {id=30290,name="Leggings of Concentrated Power",source={ID=10440,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[27648] = {id=27648,name="Dreamstalker Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29314] = {id=29314,name="Leggings of the Third Coin",source={ID=10253,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
-items[24738] = {id=24738,name="Sunroc Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25518] = {id=25518,name="Explorer's Leggings",source={ID=9752,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[30290] = {id=30290,name="Leggings of Concentrated Power",source={ID=10440,SourceName="Success!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[27648] = {id=27648,name="Dreamstalker Leggings",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[29314] = {id=29314,name="Leggings of the Third Coin",source={ID=10253,SourceName="Levixus the Soul Caller",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[24738] = {id=24738,name="Sunroc Pants",source={ID=16880,SourceName="Hulking Helboar",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
+items[25518] = {id=25518,name="Explorer's Leggings",source={ID=9752,SourceName="Escape from Umbrafen",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[24939] = {id=24939,name="Darkcrest Legguards",source={ID=17370,SourceName="Laughing Skull Enforcer",SourceType="Kill",DropChance="0.8",Zone="The Blood Furnace"}}
 items[25662] = {id=25662,name="Scaled Draenic Pants",source={ID=32466,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19895] = {id=19895,name="Bloodtinged Kilt",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="17.8",Zone="Zul'Gurub"}}
-items[10273] = {id=10273,name="Masterwork Legplates",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="6.2",Zone="Searing Gorge"}}
+items[10273] = {id=10273,name="Masterwork Legplates",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="3.8",Zone="Blasted Lands"}}
 items[18524] = {id=18524,name="Leggings of Destruction",source={ID=11501,SourceName="King Gordok",SourceType="Kill",DropChance="24.2",Zone="Dire Maul"}}
 items[21078] = {id=21078,name="63 Blue Shadow Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14687] = {id=14687,name="Indomitable Leggings",source={ID=5312,SourceName="Lethlas",SourceType="Kill",DropChance="1.4",Zone="Feralas"}}
-items[10373] = {id=10373,name="Imbued Plate Leggings",source={ID=1838,SourceName="Scarlet Interrogator",SourceType="Kill",DropChance="4.9",Zone="Western Plaguelands"}}
+items[10373] = {id=10373,name="Imbued Plate Leggings",source={ID=1838,SourceName="Scarlet Interrogator",SourceType="Kill",DropChance="4.8",Zone="Western Plaguelands"}}
 items[15194] = {id=15194,name="Grand Legguards",source={ID=12498,SourceName="Dreamstalker",SourceType="Kill",DropChance="2.3",Zone="Ashenvale"}}
 items[15676] = {id=15676,name="Magnificent Leggings",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.3",Zone="Unknown"}}
 items[16694] = {id=16694,name="Devout Skirt",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="10.5",Zone="Stratholme"}}
@@ -710,7 +710,7 @@ items[15186] = {id=15186,name="Praetorian Leggings",source={ID=7104,SourceName="
 items[15646] = {id=15646,name="Ironhide Legguards",source={ID=8408,SourceName="Warlord Krellian",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
 items[10244] = {id=10244,name="Heavy Lamellar Leggings",source={ID=6582,SourceName="Clutchmother Zavas",SourceType="Kill",DropChance="3.8",Zone="Un'Goro Crater"}}
 items[10785] = {id=10785,name="Atal'ai Leggings",source={ID=5717,SourceName="Mijan",SourceType="Kill",DropChance="6.1",Zone="The Temple of Atal'Hakkar"}}
-items[9954] = {id=9954,name="Chieftain's Leggings",source={ID=14345,SourceName="The Ongar",SourceType="Kill",DropChance="4.4",Zone="Felwood"}}
+items[9954] = {id=9954,name="Chieftain's Leggings",source={ID=14345,SourceName="The Ongar",SourceType="Kill",DropChance="4.3",Zone="Felwood"}}
 items[10633] = {id=10633,name="Silvershell Leggings",source={ID=5280,SourceName="Nightmare Wyrmkin",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
 items[14274] = {id=14274,name="Gaea's Leggings",source={ID=6187,SourceName="Timbermaw Den Watcher",SourceType="Kill",DropChance="0.4",Zone="Azshara"}}
 items[8093] = {id=8093,name="Platemail Leggings",source={ID=980,SourceName="Grimnal",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
@@ -734,8 +734,8 @@ items[4044] = {id=4044,name="Aurora Pants",source={ID=2780,SourceName="Caretaker
 items[2431] = {id=2431,name="Russet Pants",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
 items[2465] = {id=2465,name="Studded Pants",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
 items[6402] = {id=6402,name="Mail Combat Leggings",source={ID=2416,SourceName="Crushridge Plunderer",SourceType="Kill",DropChance="0.1",Zone="Alterac Mountains"}}
-items[15151] = {id=15151,name="Ghostwalker Legguards",source={ID=23589,SourceName="Defias Rummager",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
-items[15551] = {id=15551,name="Thick Scale Legguards",source={ID=23555,SourceName="Risen Husk",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
+items[15151] = {id=15151,name="Ghostwalker Legguards",source={ID=23589,SourceName="Defias Rummager",SourceType="Kill",DropChance="0.4",Zone="Dustwallow Marsh"}}
+items[15551] = {id=15551,name="Thick Scale Legguards",source={ID=23555,SourceName="Risen Husk",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
 items[6616] = {id=6616,name="Sage's Pants",source={ID=14225,SourceName="Prince Kellen",SourceType="Kill",DropChance="2.6",Zone="Desolace"}}
 items[4050] = {id=4050,name="Emblazoned Leggings",source={ID=6392,SourceName="Holdout Medic",SourceType="Kill",DropChance="0.3",Zone="Gnomeregan"}}
 items[14193] = {id=14193,name="Raincaller Pants",source={ID=12037,SourceName="Ursol'lok",SourceType="Kill",DropChance="0.8",Zone="Ashenvale"}}
@@ -744,22 +744,22 @@ items[15126] = {id=15126,name="Robust Leggings",source={ID=12759,SourceName="Tid
 items[1759] = {id=1759,name="Reinforced Chain Pants",source={ID=3773,SourceName="Akkrilus",SourceType="Kill",DropChance="1.8",Zone="Ashenvale"}}
 items[3048] = {id=3048,name="Lambent Scale Legguards",source={ID=14280,SourceName="Big Samras",SourceType="Kill",DropChance="0.6",Zone="Hillsbrad Foothills"}}
 items[3067] = {id=3067,name="Bright Pants",source={ID=2448,SourceName="Clerk Horrace Whitesteed",SourceType="Kill",DropChance="0.4",Zone="Hillsbrad Foothills"}}
-items[35045] = {id=35045,name="Brutal Gladiator's Linked Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35051] = {id=35051,name="Brutal Gladiator's Mail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35100] = {id=35100,name="Brutal Gladiator's Silk Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31046] = {id=31046,name="Thunderheart Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33686] = {id=33686,name="Vengeful Gladiator's Felweave Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33692] = {id=33692,name="Vengeful Gladiator's Kodohide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33714] = {id=33714,name="Vengeful Gladiator's Mail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33719] = {id=33719,name="Vengeful Gladiator's Mooncloth Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33725] = {id=33725,name="Vengeful Gladiator's Ornamented Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35045] = {id=35045,name="Brutal Gladiator's Linked Leggings",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35051] = {id=35051,name="Brutal Gladiator's Mail Leggings",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35100] = {id=35100,name="Brutal Gladiator's Silk Trousers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31046] = {id=31046,name="Thunderheart Pants",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33686] = {id=33686,name="Vengeful Gladiator's Felweave Trousers",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33692] = {id=33692,name="Vengeful Gladiator's Kodohide Legguards",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33714] = {id=33714,name="Vengeful Gladiator's Mail Leggings",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33719] = {id=33719,name="Vengeful Gladiator's Mooncloth Leggings",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33725] = {id=33725,name="Vengeful Gladiator's Ornamented Legplates",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32271] = {id=32271,name="Kilt of Immortal Nature",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="15.6",Zone="Black Temple"}}
-items[34922] = {id=34922,name="Greaves of Pacification",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31969] = {id=31969,name="Merciless Gladiator's Dragonhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31983] = {id=31983,name="Merciless Gladiator's Felweave Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32058] = {id=32058,name="Merciless Gladiator's Wyrmhide Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30116] = {id=30116,name="Destroyer Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30137] = {id=30137,name="Crystalforge Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34922] = {id=34922,name="Greaves of Pacification",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[31969] = {id=31969,name="Merciless Gladiator's Dragonhide Legguards",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[31983] = {id=31983,name="Merciless Gladiator's Felweave Trousers",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32058] = {id=32058,name="Merciless Gladiator's Wyrmhide Legguards",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30116] = {id=30116,name="Destroyer Legguards",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30137] = {id=30137,name="Crystalforge Leggings",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[27487] = {id=27487,name="Bloodlord Legplates",source={ID=17381,SourceName="The Maker",SourceType="Kill",DropChance="16.1",Zone="The Blood Furnace"}}
 items[27514] = {id=27514,name="Leggings of the Unrepentant",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="6.0",Zone="The Blood Furnace"}}
 items[28266] = {id=28266,name="Molten Earth Kilt",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
@@ -767,65 +767,65 @@ items[28849] = {id=28849,name="High Warlord's Mail Leggings",source={ID=0,Source
 items[31649] = {id=31649,name="High Warlord's Ringmail Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34701] = {id=34701,name="Leggings of the Betrayed",source={ID=24723,SourceName="Selin Fireheart",SourceType="Kill",DropChance="18.7",Zone="Magisters' Terrace"}}
 items[23523] = {id=23523,name="Khorium Pants",source={ID=29629,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30957] = {id=30957,name="Oronok's Old Leggings",source={ID=10541,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30957] = {id=30957,name="Oronok's Old Leggings",source={ID=10541,SourceName="The Cipher of Damnation - The Second Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[27893] = {id=27893,name="Ornate Leggings of the Venerated",source={ID=18667,SourceName="Blackheart the Inciter",SourceType="Kill",DropChance="16.6",Zone="Shadow Labyrinth"}}
-items[25003] = {id=25003,name="Bloodfist Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30960] = {id=30960,name="Runed Sketh'lon Legplates",source={ID=10808,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[25003] = {id=25003,name="Bloodfist Legplates",source={ID=16952,SourceName="Anger Guard",SourceType="Kill",DropChance="0.3",Zone="Blade's Edge Mountains"}}
+items[30960] = {id=30960,name="Runed Sketh'lon Legplates",source={ID=10808,SourceName="Thwart the Dark Conclave",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[24995] = {id=24995,name="Warmaul Legplates",source={ID=21891,SourceName="Avian Ripper",SourceType="Kill",DropChance="2.7",Zone="Sethekk Halls"}}
-items[29968] = {id=29968,name="Nether Leggings",source={ID=10221,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[25585] = {id=25585,name="Murkblood Avenger's Legplates",source={ID=9867,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[29968] = {id=29968,name="Nether Leggings",source={ID=10221,SourceName="Dr. Boom!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[25585] = {id=25585,name="Murkblood Avenger's Legplates",source={ID=9867,SourceName="Murkblood Leaders...",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[31237] = {id=31237,name="Elekk Hide Leggings",source={ID=17159,SourceName="Storm Rager",SourceType="Kill",DropChance="14.2",Zone="Nagrand"}}
 items[24642] = {id=24642,name="Mistyreed Pants",source={ID=18314,SourceName="Nexus Stalker",SourceType="Kill",DropChance="9.0",Zone="Mana-Tombs"}}
-items[27654] = {id=27654,name="Avenger's Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27654] = {id=27654,name="Avenger's Legplates",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[24859] = {id=24859,name="Marshcreeper Leggings",source={ID=18312,SourceName="Ethereal Spellbinder",SourceType="Kill",DropChance="6.6",Zone="Mana-Tombs"}}
-items[29344] = {id=29344,name="Haramad's Linked Chain Pantaloons",source={ID=10165,SourceName="",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
+items[29344] = {id=29344,name="Haramad's Linked Chain Pantaloons",source={ID=10165,SourceName="Undercutting the Competition",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
 items[24602] = {id=24602,name="Starfire Trousers",source={ID=16929,SourceName="Stonescythe Alpha",SourceType="Kill",DropChance="2.5",Zone="Hellfire Peninsula"}}
 items[24706] = {id=24706,name="Haal'eshi Leggings",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="10.0",Zone="Hellfire Peninsula"}}
-items[24923] = {id=24923,name="Grimscale Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[16962] = {id=16962,name="Legplates of Wrath",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="26.5",Zone="Molten Core"}}
+items[24923] = {id=24923,name="Grimscale Legguards",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.2",Zone="Hellfire Peninsula"}}
+items[16962] = {id=16962,name="Legplates of Wrath",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="26.3",Zone="Molten Core"}}
 items[22882] = {id=22882,name="Legionnaire's Satin Legguards",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[3957] = {id=3957,name="Mesh Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[4013] = {id=4013,name="Sterling Chain Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[9414] = {id=9414,name="Oilskin Leggings",source={ID=4854,SourceName="Grimlok",SourceType="Kill",DropChance="29.2",Zone="Uldaman"}}
-items[34382] = {id=34382,name="Judicator's Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30995] = {id=30995,name="Lightbringer Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33698] = {id=33698,name="Vengeful Gladiator's Lamellar Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34382] = {id=34382,name="Judicator's Legguards",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30995] = {id=30995,name="Lightbringer Legguards",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33698] = {id=33698,name="Vengeful Gladiator's Lamellar Legguards",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32367] = {id=32367,name="Leggings of Devastation",source={ID=22947,SourceName="Mother Shahraz",SourceType="Kill",DropChance="18.7",Zone="Black Temple"}}
-items[34914] = {id=34914,name="Leggings of the Pursuit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32007] = {id=32007,name="Merciless Gladiator's Linked Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32051] = {id=32051,name="Merciless Gladiator's Silk Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[26001] = {id=26001,name="Gladiator's Linked Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34914] = {id=34914,name="Leggings of the Pursuit",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32007] = {id=32007,name="Merciless Gladiator's Linked Leggings",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32051] = {id=32051,name="Merciless Gladiator's Silk Trousers",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[26001] = {id=26001,name="Gladiator's Linked Leggings",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[25019] = {id=25019,name="Shattered Hand Legplates",source={ID=18796,SourceName="Fel Overseer",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
 items[27773] = {id=27773,name="Barbaric Legstraps",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
 items[28834] = {id=28834,name="High Warlord's Lamellar Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[31367] = {id=31367,name="Wildguard Leggings",source={ID=38475,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31638] = {id=31638,name="High Warlord's Ornamented Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29788] = {id=29788,name="Finely Wrought Scale Leggings",source={ID=10332,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30948] = {id=30948,name="Sunfury Legguards",source={ID=10651,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[29788] = {id=29788,name="Finely Wrought Scale Leggings",source={ID=10332,SourceName="Master Smith Rhonsus",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30948] = {id=30948,name="Sunfury Legguards",source={ID=10651,SourceName="Varedis Must Be Stopped",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[31211] = {id=31211,name="Chimaerahide Pants",source={ID=20932,SourceName="Nuramoc",SourceType="Kill",DropChance="50.2",Zone="Unknown"}}
 items[24770] = {id=24770,name="Clefthoof Britches",source={ID=18869,SourceName="Unstable Voidwraith",SourceType="Kill",DropChance="2.0",Zone="Netherstorm"}}
-items[30014] = {id=30014,name="X-52 Pilot's Leggings",source={ID=10249,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30014] = {id=30014,name="X-52 Pilot's Leggings",source={ID=10249,SourceName="Back to the Chief!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[24650] = {id=24650,name="Astralaan Pants",source={ID=19544,SourceName="Conjurer Luminrath",SourceType="Kill",DropChance="20.0",Zone="Netherstorm"}}
-items[24762] = {id=24762,name="Umbrafen Britches",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25568] = {id=25568,name="Warcaster's Scaled Leggings",source={ID=9863,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[24762] = {id=24762,name="Umbrafen Britches",source={ID=18885,SourceName="Farahlon Giant",SourceType="Kill",DropChance="0.2",Zone="Netherstorm"}}
+items[25568] = {id=25568,name="Warcaster's Scaled Leggings",source={ID=9863,SourceName="Vile Idolatry",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[27418] = {id=27418,name="Stormreaver Shadow-Kilt",source={ID=17848,SourceName="Lieutenant Drake",SourceType="Kill",DropChance="13.0",Zone="Old Hillsbrad Foothills"}}
 items[24754] = {id=24754,name="Daggerfen Stitchpants",source={ID=18331,SourceName="Ethereal Darkcaster",SourceType="Kill",DropChance="13.3",Zone="Mana-Tombs"}}
-items[24979] = {id=24979,name="Reaver Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24979] = {id=24979,name="Reaver Legplates",source={ID=19983,SourceName="Vekh'nir Stormcaller",SourceType="Kill",DropChance="0.8",Zone="Blade's Edge Mountains"}}
 items[24634] = {id=24634,name="Feralfen Pants",source={ID=17728,SourceName="Murkblood Tribesman",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
 items[24746] = {id=24746,name="Ranger Pants",source={ID=18311,SourceName="Ethereal Crypt Raider",SourceType="Kill",DropChance="7.1",Zone="Mana-Tombs"}}
 items[24626] = {id=24626,name="Slavehandler Pants",source={ID=17958,SourceName="Coilfang Defender",SourceType="Kill",DropChance="4.3",Zone="The Slave Pens"}}
 items[24851] = {id=24851,name="Fenclaw Legguards",source={ID=17128,SourceName="Windroc",SourceType="Kill",DropChance="1.5",Zone="Nagrand"}}
-items[24963] = {id=24963,name="Khan'aish Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24618] = {id=24618,name="Vindicator Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24963] = {id=24963,name="Khan'aish Legplates",source={ID=18046,SourceName="Rajah Haghazed",SourceType="Kill",DropChance="1.2",Zone="Zangarmarsh"}}
+items[24618] = {id=24618,name="Vindicator Pants",source={ID=17729,SourceName="Murkblood Spearman",SourceType="Kill",DropChance="0.1",Zone="The Underbog"}}
 items[24843] = {id=24843,name="Wrathfin Legguards",source={ID=16973,SourceName="Bonestripper Vulture",SourceType="Kill",DropChance="1.0",Zone="Hellfire Peninsula"}}
-items[24610] = {id=24610,name="Laughing Skull Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24610] = {id=24610,name="Laughing Skull Pants",source={ID=18437,SourceName="Vicious Teromoth",SourceType="Kill",DropChance="0.6",Zone="Terokkar Forest"}}
 items[24722] = {id=24722,name="Dreghood Trousers",source={ID=17817,SourceName="Greater Bogstrok",SourceType="Kill",DropChance="3.7",Zone="The Slave Pens"}}
 items[24835] = {id=24835,name="Nexus-Strider Legwraps",source={ID=18476,SourceName="Timber Worg",SourceType="Kill",DropChance="2.4",Zone="Terokkar Forest"}}
 items[31244] = {id=31244,name="Nagahide Pants",source={ID=18681,SourceName="Coilfang Emissary",SourceType="Kill",DropChance="41.7",Zone="Unknown"}}
 items[24827] = {id=24827,name="Netherstalker Legguards",source={ID=16901,SourceName="Blistering Rot",SourceType="Kill",DropChance="1.2",Zone="Hellfire Peninsula"}}
 items[24594] = {id=24594,name="Fireheart Leggings",source={ID=17309,SourceName="Hellfire Watcher",SourceType="Kill",DropChance="11.1",Zone="Hellfire Ramparts"}}
 items[24586] = {id=24586,name="Outlander's Leggings",source={ID=16871,SourceName="Bleeding Hollow Grunt",SourceType="Kill",DropChance="0.5",Zone="Hellfire Peninsula"}}
-items[24698] = {id=24698,name="Bonechewer Ripleggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24698] = {id=24698,name="Bonechewer Ripleggings",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.1",Zone="Hellfire Peninsula"}}
 items[25346] = {id=25346,name="Dilapidated Cloth Pants",source={ID=20870,SourceName="Zereketh the Unbound",SourceType="Kill",DropChance="183.3",Zone="The Arcatraz"}}
 items[25363] = {id=25363,name="Decaying Leather Pants",source={ID=17938,SourceName="Coilfang Observer",SourceType="Kill",DropChance="14.2",Zone="The Slave Pens"}}
 items[25379] = {id=25379,name="Corroded Mail Pants",source={ID=18325,SourceName="Sethekk Prophet",SourceType="Kill",DropChance="18.1",Zone="Sethekk Halls"}}
@@ -838,18 +838,18 @@ items[18872] = {id=18872,name="Manastorm Leggings",source={ID=12259,SourceName="
 items[11802] = {id=11802,name="Lavacrest Leggings",source={ID=9016,SourceName="Bael'Gar",SourceType="Kill",DropChance="35.3",Zone="Blackrock Depths"}}
 items[13130] = {id=13130,name="Windrunner Legguards",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[8185] = {id=8185,name="Turtle Scale Leggings",source={ID=10556,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[35013] = {id=35013,name="Brutal Gladiator's Felweave Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35062] = {id=35062,name="Brutal Gladiator's Ornamented Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33741] = {id=33741,name="Vengeful Gladiator's Ringmail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35013] = {id=35013,name="Brutal Gladiator's Felweave Trousers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35062] = {id=35062,name="Brutal Gladiator's Ornamented Legplates",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33741] = {id=33741,name="Vengeful Gladiator's Ringmail Leggings",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32263] = {id=32263,name="Praetorian's Legguards",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="16.5",Zone="Black Temple"}}
-items[34928] = {id=34928,name="Trousers of the Scryers' Retainer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34928] = {id=34928,name="Trousers of the Scryers' Retainer",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32416] = {id=32416,name="Tom's Legs C",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32000] = {id=32000,name="Merciless Gladiator's Leather Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30132] = {id=30132,name="Crystalforge Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32000] = {id=32000,name="Merciless Gladiator's Leather Legguards",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30132] = {id=30132,name="Crystalforge Greaves",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[32396] = {id=32396,name="Redeemed Soul Legguards",source={ID=40005,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[33530] = {id=33530,name="Natural Life Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33552] = {id=33552,name="Pants of Splendid Recovery",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27709] = {id=27709,name="Gladiator's Satin Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33530] = {id=33530,name="Natural Life Leggings",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33552] = {id=33552,name="Pants of Splendid Recovery",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[27709] = {id=27709,name="Gladiator's Satin Leggings",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[24690] = {id=24690,name="Elementalist Leggings",source={ID=22281,SourceName="Galvanoth",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
 items[28347] = {id=28347,name="Warpscale Leggings",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
 items[31564] = {id=31564,name="Skystalker's Leggings",source={ID=21838,SourceName="Terokk",SourceType="Kill",DropChance="12.1",Zone="Unknown"}}
@@ -859,15 +859,15 @@ items[24778] = {id=24778,name="Boneshredder Britches",source={ID=16539,SourceNam
 items[24891] = {id=24891,name="Skettis Legguards",source={ID=19167,SourceName="Bloodwarder Slayer",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
 items[24883] = {id=24883,name="Der'izu Legguards",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="14.2",Zone="Auchenai Crypts"}}
 items[24875] = {id=24875,name="Ironspine Legguards",source={ID=18318,SourceName="Sethekk Initiate",SourceType="Kill",DropChance="11.1",Zone="Sethekk Halls"}}
-items[31335] = {id=31335,name="Pants of Living Growth",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31335] = {id=31335,name="Pants of Living Growth",source={ID=16470,SourceName="Ghostly Philanthropist",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[31370] = {id=31370,name="Iceguard Leggings",source={ID=38478,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25675] = {id=25675,name="Wild Draenish Leggings",source={ID=32480,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31794] = {id=31794,name="Sha'tari Vindicator's Legplates",source={ID=10915,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[31794] = {id=31794,name="Sha'tari Vindicator's Legplates",source={ID=10915,SourceName="The Fallen Exarch",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[24955] = {id=24955,name="Bogslayer Legplates",source={ID=18457,SourceName="Tuurem Hunter",SourceType="Kill",DropChance="11.1",Zone="Terokkar Forest"}}
 items[24819] = {id=24819,name="Felstone Leggings",source={ID=18981,SourceName="Doomwhisperer",SourceType="Kill",DropChance="2.3",Zone="Hellfire Peninsula"}}
 items[24931] = {id=24931,name="Ango'rosh Legguards",source={ID=17478,SourceName="Bleeding Hollow Scryer",SourceType="Kill",DropChance="1.5",Zone="Hellfire Ramparts"}}
 items[16909] = {id=16909,name="Bloodfang Pants",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="28.0",Zone="Molten Core"}}
-items[16922] = {id=16922,name="Leggings of Transcendence",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="26.5",Zone="Molten Core"}}
+items[16922] = {id=16922,name="Leggings of Transcendence",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="27.1",Zone="Molten Core"}}
 items[21668] = {id=21668,name="Scaled Leggings of Qiraji Fury",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="9.9",Zone="Ahn'Qiraj"}}
 items[22875] = {id=22875,name="Legionnaire's Chain Legguards",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[22883] = {id=22883,name="Legionnaire's Silk Legguards",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -877,67 +877,67 @@ items[25355] = {id=25355,name="Moldy Leather Pants",source={ID=18309,SourceName=
 items[13075] = {id=13075,name="Direwing Legguards",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[16435] = {id=16435,name="Knight-Captain's Lamellar Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[21050] = {id=21050,name="63 Blue Fire Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[18682] = {id=18682,name="Ghoul Skin Leggings",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="7.8",Zone="Scholomance"}}
+items[18682] = {id=18682,name="Ghoul Skin Leggings",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="7.7",Zone="Scholomance"}}
 items[13170] = {id=13170,name="Skyshroud Leggings",source={ID=9196,SourceName="Highlord Omokk",SourceType="Kill",DropChance="13.3",Zone="Blackrock Spire"}}
 items[15095] = {id=15095,name="Runic Leather Pants",source={ID=19091,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14144] = {id=14144,name="Ghostweave Pants",source={ID=18441,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[11749] = {id=11749,name="Searingscale Leggings",source={ID=9024,SourceName="Pyromancer Loregrain",SourceType="Kill",DropChance="23.7",Zone="Blackrock Depths"}}
 items[7926] = {id=7926,name="Ornate Mithril Pants",source={ID=9945,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4079] = {id=4079,name="Chief Brigadier Leggings",source={ID=2780,SourceName="Caretaker Nevlin",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
-items[14900] = {id=14900,name="Saltstone Legplates",source={ID=4394,SourceName="Bubbling Swamp Ooze",SourceType="Kill",DropChance="1.1",Zone="Dustwallow Marsh"}}
+items[14900] = {id=14900,name="Saltstone Legplates",source={ID=14226,SourceName="Kaskk",SourceType="Kill",DropChance="1.0",Zone="Desolace"}}
 items[32419] = {id=32419,name="Tom's Legs 3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30153] = {id=30153,name="Breeches of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30153] = {id=30153,name="Breeches of the Avatar",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[24532] = {id=24532,name="130 Epic Warrior Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32418] = {id=32418,name="Tom's Legs 2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32417] = {id=32417,name="Tom's Legs 1",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35384] = {id=35384,name="Seer's Linked Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35384] = {id=35384,name="Seer's Linked Leggings",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
 items[29498] = {id=29498,name="Blastguard Pants",source={ID=35535,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32414] = {id=32414,name="Tom's Legs A",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24867] = {id=24867,name="Blood Knight Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24867] = {id=24867,name="Blood Knight Greaves",source={ID=18172,SourceName="Infinite Saboteur",SourceType="Kill",DropChance="0.1",Zone="Old Hillsbrad Foothills"}}
 items[19877] = {id=19877,name="Animist's Leggings",source={ID=11382,SourceName="Bloodlord Mandokir",SourceType="Kill",DropChance="18.3",Zone="Zul'Gurub"}}
 items[19899] = {id=19899,name="Ritualistic Legguards",source={ID=14509,SourceName="High Priest Thekal",SourceType="Kill",DropChance="18.0",Zone="Zul'Gurub"}}
 items[17013] = {id=17013,name="Dark Iron Leggings",source={ID=20876,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[11911] = {id=11911,name="Treetop Leggings",source={ID=4491,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
-items[21316] = {id=21316,name="Leggings of the Ursa",source={ID=8461,SourceName="",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
+items[11911] = {id=11911,name="Treetop Leggings",source={ID=4491,SourceName="A Little Help From My Friends",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[21316] = {id=21316,name="Leggings of the Ursa",source={ID=8461,SourceName="Deadwood of the North",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
 items[10084] = {id=10084,name="Lord's Legguards",source={ID=14343,SourceName="Olm the Wise",SourceType="Kill",DropChance="9.7",Zone="Felwood"}}
-items[33258] = {id=33258,name="Protective Engineer's Leggings",source={ID=11184,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
-items[5016] = {id=5016,name="Artisan's Trousers",source={ID=1203,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[33258] = {id=33258,name="Protective Engineer's Leggings",source={ID=11184,SourceName="WANTED: Goreclaw the Ravenous",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[5016] = {id=5016,name="Artisan's Trousers",source={ID=1203,SourceName="Jarl Needs a Blade",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
 items[7368] = {id=7368,name="Elder's Pants",source={ID=14228,SourceName="Giggler",SourceType="Kill",DropChance="4.6",Zone="Desolace"}}
 items[10423] = {id=10423,name="Silvered Bronze Leggings",source={ID=12259,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31044] = {id=31044,name="Thunderheart Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33702] = {id=33702,name="Vengeful Gladiator's Leather Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33746] = {id=33746,name="Vengeful Gladiator's Satin Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31044] = {id=31044,name="Thunderheart Leggings",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33702] = {id=33702,name="Vengeful Gladiator's Leather Legguards",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33746] = {id=33746,name="Vengeful Gladiator's Satin Leggings",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32415] = {id=32415,name="Tom's Legs B",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35373] = {id=35373,name="Wyrmhide Legguards",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
-items[30272] = {id=30272,name="Eco-Dome Leggings",source={ID=10267,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30272] = {id=30272,name="Eco-Dome Leggings",source={ID=10267,SourceName="Rightful Repossession",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[30536] = {id=30536,name="Greaves of the Martyr",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="39.9",Zone="Old Hillsbrad Foothills"}}
 items[31209] = {id=31209,name="Chimaerascale Legplates",source={ID=20932,SourceName="Nuramoc",SourceType="Kill",DropChance="52.0",Zone="Unknown"}}
 items[30465] = {id=30465,name="Lifeblood Leggings",source={ID=36669,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[13775] = {id=13775,name="[PH] Cloth Leggings of the Rising Dawn",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16847] = {id=16847,name="Giantstalker's Leggings",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="29.8",Zone="Molten Core"}}
-items[12964] = {id=12964,name="Tristam Legguards",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="26.8",Zone="Blackrock Spire"}}
+items[12964] = {id=12964,name="Tristam Legguards",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="26.6",Zone="Blackrock Spire"}}
 items[14867] = {id=14867,name="Warleader's Leggings",source={ID=12498,SourceName="Dreamstalker",SourceType="Kill",DropChance="0.7",Zone="Ashenvale"}}
 items[10280] = {id=10280,name="Emerald Legplates",source={ID=10681,SourceName="Summoned Blackhand Veteran",SourceType="Kill",DropChance="5.4",Zone="Blackrock Spire"}}
-items[11823] = {id=11823,name="Luminary Kilt",source={ID=8983,SourceName="Golem Lord Argelmach",SourceType="Kill",DropChance="36.6",Zone="Blackrock Depths"}}
+items[11823] = {id=11823,name="Luminary Kilt",source={ID=8983,SourceName="Golem Lord Argelmach",SourceType="Kill",DropChance="36.5",Zone="Blackrock Depths"}}
 items[18745] = {id=18745,name="Sacred Cloth Leggings",source={ID=10423,SourceName="Crimson Priest",SourceType="Kill",DropChance="0",Zone="Stratholme"}}
 items[13008] = {id=13008,name="Dalewind Trousers",source={ID=15740,SourceName="Colossus of Zora",SourceType="Kill",DropChance="41.6",Zone="Silithus"}}
 items[14920] = {id=14920,name="Jade Legplates",source={ID=6189,SourceName="Timbermaw Ursa",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
-items[35034] = {id=35034,name="Brutal Gladiator's Leather Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34943] = {id=34943,name="Legplates of Unending Fury",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30229] = {id=30229,name="Nordrassil Feral-Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33538] = {id=33538,name="Shallow-grave Trousers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31406] = {id=31406,name="Gladiator's Ringmail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24795] = {id=24795,name="Expedition Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35034] = {id=35034,name="Brutal Gladiator's Leather Legguards",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34943] = {id=34943,name="Legplates of Unending Fury",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30229] = {id=30229,name="Nordrassil Feral-Kilt",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33538] = {id=33538,name="Shallow-grave Trousers",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31406] = {id=31406,name="Gladiator's Ringmail Leggings",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[24795] = {id=24795,name="Expedition Pants",source={ID=17899,SourceName="Shadowy Necromancer",SourceType="Kill",DropChance="0.3",Zone="Hyjal Summit"}}
 items[31306] = {id=31306,name="Leggings of the Sacred Crest",source={ID=20911,SourceName="Blackwing Drakonaar",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
-items[35334] = {id=35334,name="Mooncloth Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35389] = {id=35389,name="Seer's Mail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31508] = {id=31508,name="Coven Britches",source={ID=10748,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
-items[31240] = {id=31240,name="Scales of the Beast",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35334] = {id=35334,name="Mooncloth Legguards",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[35389] = {id=35389,name="Seer's Mail Leggings",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31508] = {id=31508,name="Coven Britches",source={ID=10748,SourceName="Maxnar Must Die!",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31240] = {id=31240,name="Scales of the Beast",source={ID=16769,SourceName="Firewing Warlock",SourceType="Kill",DropChance="0",Zone="Terokkar Forest"}}
 items[13776] = {id=13776,name="[PH] Cloth Leggings of the Shining Dawn",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27652] = {id=27652,name="Stormbreaker's Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27652] = {id=27652,name="Stormbreaker's Leggings",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[23488] = {id=23488,name="Fel Iron Plate Pants",source={ID=29549,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31242] = {id=31242,name="Nagascale Legplates",source={ID=18681,SourceName="Coilfang Emissary",SourceType="Kill",DropChance="45.5",Zone="Unknown"}}
-items[20639] = {id=20639,name="Strangely Glyphed Legplates",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="10.5",Zone="Duskwood"}}
+items[20639] = {id=20639,name="Strangely Glyphed Legplates",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="10.7",Zone="Duskwood"}}
 items[16810] = {id=16810,name="Felheart Pants",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="32.9",Zone="Molten Core"}}
 items[18875] = {id=18875,name="Salamander Scale Pants",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="5.4",Zone="Molten Core"}}
 items[16414] = {id=16414,name="Knight-Captain's Silk Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -946,40 +946,40 @@ items[20538] = {id=20538,name="Runed Stygian Leggings",source={ID=24901,SourceNa
 items[14612] = {id=14612,name="Bloodmail Legguards",source={ID=10502,SourceName="Lady Illucia Barov",SourceType="Kill",DropChance="3.9",Zone="Scholomance"}}
 items[16732] = {id=16732,name="Legplates of Valor",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="10.6",Zone="Stratholme"}}
 items[12414] = {id=12414,name="Thorium Leggings",source={ID=16662,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[10199] = {id=10199,name="Crusader's Leggings",source={ID=9602,SourceName="Hahk'Zor",SourceType="Kill",DropChance="4.3",Zone="Burning Steppes"}}
+items[10199] = {id=10199,name="Crusader's Leggings",source={ID=8298,SourceName="Akubar the Seer",SourceType="Kill",DropChance="4.3",Zone="Blasted Lands"}}
 items[186082] = {id=186082,name="Communal Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[10091] = {id=10091,name="Gothic Plate Leggings",source={ID=5347,SourceName="Antilus the Soarer",SourceType="Kill",DropChance="6.7",Zone="Feralas"}}
 items[3941] = {id=3941,name="Crochet Pants",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="2.2",Zone="Stranglethorn Vale"}}
-items[4478] = {id=4478,name="Iridescent Scale Leggings",source={ID=1552,SourceName="Scale Belly",SourceType="Kill",DropChance="69.8",Zone="Stranglethorn Vale"}}
-items[4108] = {id=4108,name="Panther Hunter Leggings",source={ID=193,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
-items[31068] = {id=31068,name="Breeches of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34925] = {id=34925,name="Adorned Supernal Legwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33527] = {id=33527,name="Shifting Camouflage Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4478] = {id=4478,name="Iridescent Scale Leggings",source={ID=1552,SourceName="Scale Belly",SourceType="Kill",DropChance="70.0",Zone="Stranglethorn Vale"}}
+items[4108] = {id=4108,name="Panther Hunter Leggings",source={ID=193,SourceName="Panther Mastery",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[31068] = {id=31068,name="Breeches of Absolution",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[34925] = {id=34925,name="Adorned Supernal Legwraps",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33527] = {id=33527,name="Shifting Camouflage Pants",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[24682] = {id=24682,name="Archmage Pants",source={ID=18637,SourceName="Cabal Shadow Priest",SourceType="Kill",DropChance="16.6",Zone="Shadow Labyrinth"}}
-items[35394] = {id=35394,name="Seer's Ringmail Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35394] = {id=35394,name="Seer's Ringmail Legguards",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[35415] = {id=35415,name="Crusader's Scaled Legguards",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[31246] = {id=31246,name="Nagahide Leggings",source={ID=18681,SourceName="Coilfang Emissary",SourceType="Kill",DropChance="43.5",Zone="Unknown"}}
-items[21530] = {id=21530,name="Onyx Embedded Leggings",source={ID=8730,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackwing Lair"}}
+items[21530] = {id=21530,name="Onyx Embedded Leggings",source={ID=8730,SourceName="Nefarius's Corruption",SourceType="Quest",DropChance="0",Zone="Blackwing Lair"}}
 items[16515] = {id=16515,name="Legionnaire's Plate Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3949] = {id=3949,name="Twill Pants",source={ID=1844,SourceName="Foreman Marcrid",SourceType="Kill",DropChance="1.9",Zone="Western Plaguelands"}}
-items[7469] = {id=7469,name="Regal Leggings",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="4.5",Zone="Stranglethorn Vale"}}
+items[7469] = {id=7469,name="Regal Leggings",source={ID=5354,SourceName="Gnarl Leafbrother",SourceType="Kill",DropChance="4.5",Zone="Feralas"}}
 items[15607] = {id=15607,name="Ancient Legguards",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.4",Zone="Zul'Farrak"}}
-items[33241] = {id=33241,name="Oiled Leather Leggings",source={ID=11217,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
-items[33667] = {id=33667,name="Vengeful Gladiator's Chain Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33709] = {id=33709,name="Vengeful Gladiator's Linked Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34905] = {id=34905,name="Crystalwind Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33241] = {id=33241,name="Oiled Leather Leggings",source={ID=11217,SourceName="Catch a Dragon by the Tail",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[33667] = {id=33667,name="Vengeful Gladiator's Chain Leggings",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33709] = {id=33709,name="Vengeful Gladiator's Linked Leggings",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34905] = {id=34905,name="Crystalwind Leggings",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[16843] = {id=16843,name="Earthfury Legguards",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="12.2",Zone="Molten Core"}}
-items[10389] = {id=10389,name="Hyperion Legplates",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="9.7",Zone="Searing Gorge"}}
+items[10389] = {id=10389,name="Hyperion Legplates",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="13.2",Zone="Searing Gorge"}}
 items[16426] = {id=16426,name="Knight-Captain's Chain Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[17571] = {id=17571,name="Legionnaire's Dreadweave Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[20707] = {id=20707,name="Cenarion Reservist's Pants",source={ID=8379,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[20707] = {id=20707,name="Cenarion Reservist's Pants",source={ID=8379,SourceName="Armaments of War",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[11929] = {id=11929,name="Haunting Specter Leggings",source={ID=9035,SourceName="Anger'rel",SourceType="Kill",DropChance="50.0",Zone="Blackrock Depths"}}
 items[15394] = {id=15394,name="Jadefire Pants",source={ID=6504,SourceName="Thunderstomp Stegodon",SourceType="Kill",DropChance="0.6",Zone="Un'Goro Crater"}}
 items[186030] = {id=186030,name="Communal Legguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[8212] = {id=8212,name="Wild Leather Leggings",source={ID=10572,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[12256] = {id=12256,name="Cindercloth Leggings",source={ID=984,SourceName="Thralosh",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
-items[9933] = {id=9933,name="Brigade Leggings",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="6.2",Zone="Tanaris"}}
-items[9970] = {id=9970,name="Embossed Plate Leggings",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="6.8",Zone="Stranglethorn Vale"}}
+items[9933] = {id=9933,name="Brigade Leggings",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="6.0",Zone="Tanaris"}}
+items[9970] = {id=9970,name="Embossed Plate Leggings",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="6.6",Zone="Stranglethorn Vale"}}
 items[14775] = {id=14775,name="Ravager's Woolies",source={ID=5328,SourceName="Coast Crawl Deepseer",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
 items[8162] = {id=8162,name="Jouster's Legplates",source={ID=7030,SourceName="Shadowforge Geologist",SourceType="Kill",DropChance="0.1",Zone="Uldaman"}}
 items[14585] = {id=14585,name="Dokebi Leggings",source={ID=6238,SourceName="Big Will",SourceType="Kill",DropChance="0.1",Zone="The Barrens"}}
@@ -987,10 +987,10 @@ items[4830] = {id=4830,name="Saber Leggings",source={ID=2679,SourceName="Wenna S
 items[2233] = {id=2233,name="Shadow Weaver Leggings",source={ID=533,SourceName="Nightbane Shadow Weaver",SourceType="Kill",DropChance="1.9",Zone="Duskwood"}}
 items[4831] = {id=4831,name="Stalking Pants",source={ID=2679,SourceName="Wenna Silkbeard",SourceType="Purchase",DropChance="100",Zone="Wetlands"}}
 items[4317] = {id=4317,name="Phoenix Pants",source={ID=3851,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[34384] = {id=34384,name="Breeches of Natural Splendor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30994] = {id=30994,name="Lightbringer Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30220] = {id=30220,name="Nordrassil Life-Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31618] = {id=31618,name="Gladiator's Ornamented Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34384] = {id=34384,name="Breeches of Natural Splendor",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30994] = {id=30994,name="Lightbringer Leggings",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[30220] = {id=30220,name="Nordrassil Life-Kilt",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31618] = {id=31618,name="Gladiator's Ornamented Legplates",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[25027] = {id=25027,name="Warlord's Iron-Legplates",source={ID=21304,SourceName="Warder Corpse",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
 items[24907] = {id=24907,name="Talhide Lined-Leggings",source={ID=18796,SourceName="Fel Overseer",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
 items[24730] = {id=24730,name="Dementia Trousers",source={ID=17400,SourceName="Felguard Annihilator",SourceType="Kill",DropChance="3.4",Zone="The Blood Furnace"}}
@@ -1000,15 +1000,15 @@ items[16822] = {id=16822,name="Nightslayer Pants",source={ID=11982,SourceName="M
 items[186038] = {id=186038,name="Communal Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14840] = {id=14840,name="Tyrant's Legplates",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.2",Zone="Maraudon"}}
 items[14829] = {id=14829,name="Symbolic Legplates",source={ID=12241,SourceName="Spirit of Magra",SourceType="Kill",DropChance="0.1",Zone="Unknown"}}
-items[7455] = {id=7455,name="Knight's Legguards",source={ID=2604,SourceName="Molok the Crusher",SourceType="Kill",DropChance="7.2",Zone="Arathi Highlands"}}
-items[24787] = {id=24787,name="Murkblood Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25577] = {id=25577,name="Greenblood Pantaloons",source={ID=9878,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[7455] = {id=7455,name="Knight's Legguards",source={ID=2604,SourceName="Molok the Crusher",SourceType="Kill",DropChance="7.1",Zone="Arathi Highlands"}}
+items[24787] = {id=24787,name="Murkblood Pants",source={ID=25372,SourceName="Sunblade Scout",SourceType="Kill",DropChance="1.7",Zone="Sunwell Plateau"}}
+items[25577] = {id=25577,name="Greenblood Pantaloons",source={ID=9878,SourceName="Solving the Problem",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[18298] = {id=18298,name="Unbridled Leggings",source={ID=11451,SourceName="Wildspawn Satyr",SourceType="Kill",DropChance="0.9",Zone="Dire Maul"}}
 items[4832] = {id=4832,name="Mystic Sarong",source={ID=2679,SourceName="Wenna Silkbeard",SourceType="Purchase",DropChance="100",Zone="Wetlands"}}
 items[2865] = {id=2865,name="Rough Bronze Leggings",source={ID=2668,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10400] = {id=10400,name="Blackened Defias Leggings",source={ID=634,SourceName="Defias Overseer",SourceType="Kill",DropChance="3.4",Zone="The Deadmines"}}
-items[28175] = {id=28175,name="Mag'hari Warlord's Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[3309] = {id=3309,name="Barbaric Loincloth",source={ID=17673,SourceName="Stinkhorn Striker",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
+items[28175] = {id=28175,name="Mag'hari Warlord's Legplates",source={ID=10172,SourceName="There Is No Hope",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[3309] = {id=3309,name="Barbaric Loincloth",source={ID=17673,SourceName="Stinkhorn Striker",SourceType="Kill",DropChance="0.7",Zone="Bloodmyst Isle"}}
 items[10410] = {id=10410,name="Leggings of the Fang",source={ID=3669,SourceName="Lord Cobrahn",SourceType="Kill",DropChance="17.6",Zone="Wailing Caverns"}}
 items[6587] = {id=6587,name="Scouting Trousers",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="20.5",Zone="The Barrens"}}
 items[12987] = {id=12987,name="Darkweave Breeches",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="14.2",Zone="The Barrens"}}
@@ -1022,27 +1022,27 @@ items[2366] = {id=2366,name="Woven Pants",source={ID=3166,SourceName="Cutac",Sou
 items[20706] = {id=20706,name="Cenarion Reservist's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[4316] = {id=4316,name="Heavy Woolen Pants",source={ID=3850,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[3473] = {id=3473,name="Runed Copper Pants",source={ID=3324,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[15477] = {id=15477,name="Charger's Pants",source={ID=17339,SourceName="Nazzivus Felsworn",SourceType="Kill",DropChance="0.4",Zone="Bloodmyst Isle"}}
+items[15477] = {id=15477,name="Charger's Pants",source={ID=17320,SourceName="Bristlelimb Shaman",SourceType="Kill",DropChance="0.4",Zone="Bloodmyst Isle"}}
 items[2303] = {id=2303,name="Handstitched Leather Pants",source={ID=2153,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[2958] = {id=2958,name="Journeyman's Pants",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
-items[2990] = {id=2990,name="Burnished Leggings",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.7",Zone="Bloodmyst Isle"}}
+items[2958] = {id=2958,name="Journeyman's Pants",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
+items[2990] = {id=2990,name="Burnished Leggings",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.0",Zone="Bloodmyst Isle"}}
 items[6137] = {id=6137,name="Thug Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[6546] = {id=6546,name="Soldier's Leggings",source={ID=2184,SourceName="Lady Moongazer",SourceType="Kill",DropChance="10.0",Zone="Darkshore"}}
 items[9756] = {id=9756,name="Gypsy Trousers",source={ID=12432,SourceName="Old Vicejaw",SourceType="Kill",DropChance="8.4",Zone="Silverpine Forest"}}
-items[3287] = {id=3287,name="Tribal Pants",source={ID=17496,SourceName="Cruelfin",SourceType="Kill",DropChance="1.4",Zone="Bloodmyst Isle"}}
+items[3287] = {id=3287,name="Tribal Pants",source={ID=17496,SourceName="Cruelfin",SourceType="Kill",DropChance="1.2",Zone="Bloodmyst Isle"}}
 items[6135] = {id=6135,name="Primitive Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[237] = {id=237,name="Cured Leather Pants",source={ID=1295,SourceName="Lara Moore",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[14171] = {id=14171,name="Buccaneer's Pants",source={ID=125,SourceName="Riverpaw Overseer",SourceType="Kill",DropChance="1.3",Zone="Westfall"}}
-items[5199] = {id=5199,name="Smelting Pants",source={ID=1763,SourceName="Gilnid",SourceType="Kill",DropChance="56.6",Zone="The Deadmines"}}
+items[5199] = {id=5199,name="Smelting Pants",source={ID=1763,SourceName="Gilnid",SourceType="Kill",DropChance="56.7",Zone="The Deadmines"}}
 items[15017] = {id=15017,name="Lupine Leggings",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="2.2",Zone="The Barrens"}}
-items[2654] = {id=2654,name="Flimsy Chain Pants",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="4.5",Zone="Azuremyst Isle"}}
+items[2654] = {id=2654,name="Flimsy Chain Pants",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="4.3",Zone="Azuremyst Isle"}}
 items[6118] = {id=6118,name="Squire's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23474] = {id=23474,name="Recruit's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[38278] = {id=38278,name="Haliscan Pantaloons",source={ID=50647,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[3022] = {id=3022,name="Bluegill Breeches",source={ID=1028,SourceName="Bluegill Muckdweller",SourceType="Kill",DropChance="1.1",Zone="Wetlands"}}
 items[201] = {id=201,name="Thick Cloth Pants",source={ID=1291,SourceName="Carla Granger",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[14565] = {id=14565,name="Prospector's Woolies",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.1",Zone="The Barrens"}}
-items[2982] = {id=2982,name="Seer's Pants",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.7",Zone="Bloodmyst Isle"}}
+items[2982] = {id=2982,name="Seer's Pants",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
 items[1943] = {id=1943,name="Goblin Mail Leggings",source={ID=3947,SourceName="Goblin Shipbuilder",SourceType="Kill",DropChance="6.1",Zone="The Deadmines"}}
 items[9789] = {id=9789,name="Raider's Legguards",source={ID=5863,SourceName="Geopriest Gukk'rok",SourceType="Kill",DropChance="4.6",Zone="The Barrens"}}
 items[6553] = {id=6553,name="Bard's Trousers",source={ID=14267,SourceName="Emogg the Crusher",SourceType="Kill",DropChance="8.1",Zone="Loch Modan"}}
@@ -1051,18 +1051,18 @@ items[845] = {id=845,name="Tanned Leather Pants",source={ID=896,SourceName="Veld
 items[848] = {id=848,name="Chainmail Pants",source={ID=167,SourceName="Morhan Coppertongue",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[15303] = {id=15303,name="Grizzly Pants",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="1.0",Zone="The Barrens"}}
 items[6269] = {id=6269,name="Pioneer Trousers",source={ID=1911,SourceName="Deeb",SourceType="Kill",DropChance="8.5",Zone="Tirisfal Glades"}}
-items[2962] = {id=2962,name="Burnt Leather Breeches",source={ID=15409,SourceName="Old Whitebark",SourceType="Kill",DropChance="2.8",Zone="Eversong Woods"}}
-items[2966] = {id=2966,name="Warrior's Pants",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
+items[2962] = {id=2962,name="Burnt Leather Breeches",source={ID=15409,SourceName="Old Whitebark",SourceType="Kill",DropChance="2.4",Zone="Eversong Woods"}}
+items[2966] = {id=2966,name="Warrior's Pants",source={ID=15409,SourceName="Old Whitebark",SourceType="Kill",DropChance="2.4",Zone="Eversong Woods"}}
 items[2126] = {id=2126,name="Cracked Leather Pants",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[20986] = {id=20986,name="Light Cloth Pants",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
-items[21013] = {id=21013,name="Scraggy Leather Pants",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="1.8",Zone="Eversong Woods"}}
+items[21013] = {id=21013,name="Scraggy Leather Pants",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
 items[6568] = {id=6568,name="Shimmering Trousers",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="8.2",Zone="The Barrens"}}
 items[5961] = {id=5961,name="Dark Leather Pants",source={ID=7135,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[5327] = {id=5327,name="Greasy Tinker's Pants",source={ID=863,SourceName="",SourceType="Quest",DropChance="0",Zone="The Barrens"}}
+items[5327] = {id=5327,name="Greasy Tinker's Pants",source={ID=863,SourceName="The Escape",SourceType="Quest",DropChance="0",Zone="The Barrens"}}
 items[6540] = {id=6540,name="Willow Pants",source={ID=14272,SourceName="Snarlflare",SourceType="Kill",DropChance="8.7",Zone="Redridge Mountains"}}
 items[2978] = {id=2978,name="Veteran Leggings",source={ID=2106,SourceName="Apothecary Berard",SourceType="Kill",DropChance="0.3",Zone="Silverpine Forest"}}
 items[9747] = {id=9747,name="Simple Britches",source={ID=12432,SourceName="Old Vicejaw",SourceType="Kill",DropChance="7.9",Zone="Silverpine Forest"}}
-items[10554] = {id=10554,name="Foreman Pants",source={ID=8503,SourceName="Gibblewilt",SourceType="Kill",DropChance="49.2",Zone="Dun Morogh"}}
+items[10554] = {id=10554,name="Foreman Pants",source={ID=8503,SourceName="Gibblewilt",SourceType="Kill",DropChance="49.1",Zone="Dun Morogh"}}
 items[14090] = {id=14090,name="Beaded Britches",source={ID=5823,SourceName="Death Flayer",SourceType="Kill",DropChance="0.9",Zone="Durotar"}}
 items[2400] = {id=2400,name="Light Chain Leggings",source={ID=2135,SourceName="Abe Winters",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[15794] = {id=15794,name="Ripped Ogre Loincloth",source={ID=177681,SourceName="Gordunni Dirt Mound",SourceType="Container",DropChance="33.5",Zone="Feralas"}}
@@ -1072,37 +1072,37 @@ items[10035] = {id=10035,name="Tuxedo Pants",source={ID=12089,SourceName="",Sour
 items[286] = {id=286,name="Scalemail Pants",source={ID=956,SourceName="Dorin Songblade",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
 items[1776] = {id=1776,name="Brocade Pants",source={ID=1041,SourceName="Fen Lord",SourceType="Kill",DropChance="2.3",Zone="Wetlands"}}
 items[14125] = {id=14125,name="Ritual Leggings",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
-items[1768] = {id=1768,name="Canvas Pants",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="5.5",Zone="Bloodmyst Isle"}}
+items[1768] = {id=1768,name="Canvas Pants",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="4.1",Zone="Bloodmyst Isle"}}
 items[2166] = {id=2166,name="Foreman's Leggings",source={ID=626,SourceName="Foreman Thistlenettle",SourceType="Kill",DropChance="0.7",Zone="Unknown"}}
 items[2986] = {id=2986,name="Inscribed Leather Pants",source={ID=16355,SourceName="Lesser Scourgebat",SourceType="Kill",DropChance="0.4",Zone="Ghostlands"}}
 items[3563] = {id=3563,name="Seafarer's Pantaloons",source={ID=2476,SourceName="Large Loch Crocolisk",SourceType="Kill",DropChance="64.9",Zone="Loch Modan"}}
 items[4434] = {id=4434,name="Scarecrow Trousers",source={ID=573,SourceName="Foe Reaper 4000",SourceType="Kill",DropChance="18.8",Zone="Westfall"}}
 items[1743] = {id=1743,name="Laced Mail Pants",source={ID=3662,SourceName="Delmanis the Hated",SourceType="Kill",DropChance="1.2",Zone="Darkshore"}}
 items[7282] = {id=7282,name="Light Leather Pants",source={ID=9068,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[1792] = {id=1792,name="Patched Leather Pants",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.7",Zone="Bloodmyst Isle"}}
+items[1792] = {id=1792,name="Patched Leather Pants",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.0",Zone="Bloodmyst Isle"}}
 items[1929] = {id=1929,name="Silk-threaded Trousers",source={ID=1729,SourceName="Defias Evoker",SourceType="Kill",DropChance="6.0",Zone="The Deadmines"}}
-items[2970] = {id=2970,name="Spellbinder Pants",source={ID=3528,SourceName="Pyrewood Armorer",SourceType="Kill",DropChance="1.2",Zone="Silverpine Forest"}}
+items[2970] = {id=2970,name="Spellbinder Pants",source={ID=3528,SourceName="Pyrewood Armorer",SourceType="Kill",DropChance="1.1",Zone="Silverpine Forest"}}
 items[3305] = {id=3305,name="Brackwater Leggings",source={ID=7017,SourceName="Lord Sinslayer",SourceType="Kill",DropChance="0.6",Zone="Darkshore"}}
 items[14097] = {id=14097,name="Native Pants",source={ID=5787,SourceName="Enforcer Emilgund",SourceType="Kill",DropChance="2.0",Zone="Mulgore"}}
-items[15485] = {id=15485,name="War Torn Pants",source={ID=17524,SourceName="Nazzivus Summoner",SourceType="Kill",DropChance="2.3",Zone="Bloodmyst Isle"}}
+items[15485] = {id=15485,name="War Torn Pants",source={ID=17524,SourceName="Nazzivus Summoner",SourceType="Kill",DropChance="2.2",Zone="Bloodmyst Isle"}}
 items[1735] = {id=1735,name="Worn Mail Pants",source={ID=12321,SourceName="Stormscale Toxicologist",SourceType="Kill",DropChance="2.0",Zone="Darkshore"}}
-items[3282] = {id=3282,name="Battle Chain Pants",source={ID=5785,SourceName="Sister Hatelash",SourceType="Kill",DropChance="0.8",Zone="Mulgore"}}
-items[6267] = {id=6267,name="Disciple's Pants",source={ID=5787,SourceName="Enforcer Emilgund",SourceType="Kill",DropChance="5.5",Zone="Mulgore"}}
+items[3282] = {id=3282,name="Battle Chain Pants",source={ID=5785,SourceName="Sister Hatelash",SourceType="Kill",DropChance="0.7",Zone="Mulgore"}}
+items[6267] = {id=6267,name="Disciple's Pants",source={ID=5787,SourceName="Enforcer Emilgund",SourceType="Kill",DropChance="5.4",Zone="Mulgore"}}
 items[15009] = {id=15009,name="Primal Leggings",source={ID=2973,SourceName="Kodo Bull",SourceType="Kill",DropChance="0.5",Zone="Mulgore"}}
 items[794] = {id=794,name="Knitted Pants",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[2852] = {id=2852,name="Copper Chain Pants",source={ID=2662,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[1431] = {id=1431,name="Patchwork Pants",source={ID=1993,SourceName="Greenpaw",SourceType="Kill",DropChance="3.3",Zone="Teldrassil"}}
-items[2646] = {id=2646,name="Loose Chain Pants",source={ID=17591,SourceName="Blood Elf Bandit",SourceType="Kill",DropChance="1.7",Zone="Azuremyst Isle"}}
+items[2646] = {id=2646,name="Loose Chain Pants",source={ID=16300,SourceName="Risen Creeper",SourceType="Kill",DropChance="1.6",Zone="Ghostlands"}}
 items[10045] = {id=10045,name="Simple Linen Pants",source={ID=12044,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[209] = {id=209,name="Dirty Leather Pants",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[2120] = {id=2120,name="Thin Cloth Pants",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[1366] = {id=1366,name="Ragged Leather Pants",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="5.8",Zone="Eversong Woods"}}
-items[39] = {id=39,name="Recruit's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[44] = {id=44,name="Squire's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1366] = {id=1366,name="Ragged Leather Pants",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[39] = {id=39,name="Recruit's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
+items[44] = {id=44,name="Squire's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[48] = {id=48,name="Footpad's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[52] = {id=52,name="Neophyte's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[52] = {id=52,name="Neophyte's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[120] = {id=120,name="Thug Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[1395] = {id=1395,name="Apprentice's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1395] = {id=1395,name="Apprentice's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[6124] = {id=6124,name="Novice's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20894] = {id=20894,name="Apprentice's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20899] = {id=20899,name="Warder's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -1116,17 +1116,17 @@ items[15503] = {id=15503,name="Outrunner's Legguards",source={ID=5831,SourceName
 items[5958] = {id=5958,name="Fine Leather Pants",source={ID=7133,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[1934] = {id=1934,name="Stonemason Trousers",source={ID=636,SourceName="Defias Blackguard",SourceType="Kill",DropChance="5.6",Zone="The Deadmines"}}
 items[5422] = {id=5422,name="Brambleweed Leggings",source={ID=3672,SourceName="Boahn",SourceType="Kill",DropChance="62.3",Zone="Unknown"}}
-items[14370] = {id=14370,name="Mystic's Woolies",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="2.8",Zone="The Barrens"}}
-items[1507] = {id=1507,name="Warped Leather Pants",source={ID=16357,SourceName="Anok'suten",SourceType="Kill",DropChance="2.6",Zone="Ghostlands"}}
+items[14370] = {id=14370,name="Mystic's Woolies",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="4.1",Zone="Bloodmyst Isle"}}
+items[1507] = {id=1507,name="Warped Leather Pants",source={ID=16357,SourceName="Anok'suten",SourceType="Kill",DropChance="2.1",Zone="Ghostlands"}}
 items[4309] = {id=4309,name="Handstitched Linen Britches",source={ID=3842,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[6337] = {id=6337,name="Infantry Leggings",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[6337] = {id=6337,name="Infantry Leggings",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[1499] = {id=1499,name="Calico Pants",source={ID=1271,SourceName="Old Icebeard",SourceType="Kill",DropChance="3.4",Zone="Dun Morogh"}}
 items[798] = {id=798,name="Rough Leather Pants",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[2394] = {id=2394,name="Light Mail Leggings",source={ID=1240,SourceName="Boran Ironclink",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
 items[18611] = {id=18611,name="Gnarlpine Leggings",source={ID=14428,SourceName="Uruson",SourceType="Kill",DropChance="95.0",Zone="Teldrassil"}}
 items[1378] = {id=1378,name="Frayed Pants",source={ID=1917,SourceName="Daniel Ulfman",SourceType="Kill",DropChance="5.4",Zone="Tirisfal Glades"}}
-items[21006] = {id=21006,name="Unkempt Pants",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="2.5",Zone="Eversong Woods"}}
-items[21017] = {id=21017,name="Shoddy Chain Pants",source={ID=15298,SourceName="Tainted Arcane Wraith",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[21006] = {id=21006,name="Unkempt Pants",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="2.4",Zone="Eversong Woods"}}
+items[21017] = {id=21017,name="Shoddy Chain Pants",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="1.3",Zone="Eversong Woods"}}
 items[139] = {id=139,name="Brawler's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[147] = {id=147,name="Rugged Trapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[153] = {id=153,name="Primitive Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -1136,18 +1136,18 @@ items[20902] = {id=20902,name="Recruit's Pants",source={ID=0,SourceName="",Sourc
 items[23478] = {id=23478,name="Recruit's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24145] = {id=24145,name="Initiate's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[30934] = {id=30934,name="QR 10574 Leather Rogue Legs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32870] = {id=32870,name="Legguards of Contemplation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32870] = {id=32870,name="Legguards of Contemplation",source={ID=11090,SourceName="Quests",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[20791] = {id=20791,name="90 green shaman kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[4800] = {id=4800,name="Mighty Chain Pants",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[14727] = {id=14727,name="War Paint Legguards",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.5",Zone="The Barrens"}}
-items[3291] = {id=3291,name="Ancestral Woollies",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="1.5",Zone="Bloodmyst Isle"}}
+items[3291] = {id=3291,name="Ancestral Woollies",source={ID=17701,SourceName="Lord Xiz",SourceType="Kill",DropChance="1.3",Zone="Bloodmyst Isle"}}
 items[22745] = {id=22745,name="Bloodsail Pants",source={ID=22746,SourceName="Buccaneer's Uniform",SourceType="Container",DropChance="100.0",Zone="Unknown"}}
 items[23477] = {id=23477,name="Squire's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[30921] = {id=30921,name="QR 10637 Cloth Mage Legs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27719] = {id=27719,name="Aldor Leggings of Puissance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20779] = {id=20779,name="63 green shaman kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16037] = {id=16037,name="PVP Cloth Legs Horde",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[1396] = {id=1396,name="Acolyte's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1396] = {id=1396,name="Acolyte's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[6126] = {id=6126,name="Trapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23213] = {id=23213,name="Scrapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23471] = {id=23471,name="Rugged Trapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -1160,22 +1160,22 @@ items[25580] = {id=25580,name="QR 9867 Warrior Legs",source={ID=0,SourceName="",
 items[15493] = {id=15493,name="Bloodspattered Loincloth",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.3",Zone="The Barrens"}}
 items[4261] = {id=4261,name="Solliden's Trousers",source={ID=1936,SourceName="Farmer Solliden",SourceType="Kill",DropChance="73.4",Zone="Tirisfal Glades"}}
 items[23344] = {id=23344,name="Scout's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28173] = {id=28173,name="Mag'hari Huntsman's Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28173] = {id=28173,name="Mag'hari Huntsman's Leggings",source={ID=10172,SourceName="There Is No Hope",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[15117] = {id=15117,name="Rigid Leggings",source={ID=3900,SourceName="Caedakar the Vicious",SourceType="Kill",DropChance="0.3",Zone="Darkshore"}}
 items[4343] = {id=4343,name="Brown Linen Pants",source={ID=3914,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[25574] = {id=25574,name="Greenkeeper's Pantaloons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25574] = {id=25574,name="Greenkeeper's Pantaloons",source={ID=9866,SourceName="He Will Walk The Earth...",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[15312] = {id=15312,name="Feral Leggings",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.3",Zone="The Barrens"}}
 items[4242] = {id=4242,name="Embossed Leather Pants",source={ID=3759,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[1423] = {id=1423,name="Worn Leather Pants",source={ID=15958,SourceName="Gharsul the Remorseless",SourceType="Kill",DropChance="2.4",Zone="Eversong Woods"}}
+items[1423] = {id=1423,name="Worn Leather Pants",source={ID=15958,SourceName="Gharsul the Remorseless",SourceType="Kill",DropChance="2.0",Zone="Eversong Woods"}}
 items[6131] = {id=6131,name="Trapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[9781] = {id=9781,name="Bandit Pants",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
-items[6480] = {id=6480,name="Slick Deviate Leggings",source={ID=1486,SourceName="",SourceType="Quest",DropChance="0",Zone="Wailing Caverns"}}
+items[6480] = {id=6480,name="Slick Deviate Leggings",source={ID=1486,SourceName="Deviate Hides",SourceType="Quest",DropChance="0",Zone="Wailing Caverns"}}
 items[24444] = {id=24444,name="Newly Weaved Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[12107] = {id=12107,name="Whispersilk Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3315] = {id=3315,name="Ceremonial Leather Loincloth",source={ID=11914,SourceName="Gorehoof the Black",SourceType="Kill",DropChance="0.5",Zone="Stonetalon Mountains"}}
 items[7280] = {id=7280,name="Rugged Leather Pants",source={ID=9064,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20918] = {id=20918,name="Unadorned Chain Leggings",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
-items[14119] = {id=14119,name="Aboriginal Loincloth",source={ID=17341,SourceName="Axxarien Trickster",SourceType="Kill",DropChance="0.3",Zone="Bloodmyst Isle"}}
+items[14119] = {id=14119,name="Aboriginal Loincloth",source={ID=3662,SourceName="Delmanis the Hated",SourceType="Kill",DropChance="0.3",Zone="Darkshore"}}
 items[20924] = {id=20924,name="Sun Cured Pants",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
 
 

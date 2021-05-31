@@ -17,23 +17,23 @@ items[28659] = {id=28659,name="Xavian Stiletto",source={ID=15688,SourceName="Ter
 items[29204] = {id=29204,name="Felsteel Whisper Knives",source={ID=34983,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[34622] = {id=34622,name="Spinesever",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27916] = {id=27916,name="Sethekk Feather-Darts",source={ID=18472,SourceName="Darkweaver Syth",SourceType="Kill",DropChance="14.2",Zone="Sethekk Halls"}}
-items[28972] = {id=28972,name="Flightblade Throwing Axe",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="3.3",Zone="Blackrock Spire"}}
-items[30227] = {id=30227,name="Mark V's Throwing Star",source={ID=10191,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[28972] = {id=28972,name="Flightblade Throwing Axe",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="5.3",Zone="Blackrock Spire"}}
+items[30227] = {id=30227,name="Mark V's Throwing Star",source={ID=10191,SourceName="Mark V is Alive!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[28319] = {id=28319,name="Gladiator's War Edge",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
-items[29211] = {id=29211,name="Fitz's Throwing Axe",source={ID=9852,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[29211] = {id=29211,name="Fitz's Throwing Axe",source={ID=9852,SourceName="The Ultimate Bloodsport",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[29201] = {id=29201,name="Thick Bronze Darts",source={ID=34979,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30025] = {id=30025,name="Serpentshrine Shuriken",source={ID=21218,SourceName="Vashj'ir Honor Guard",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
 items[29210] = {id=29210,name="Assassin's Throwing Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32326] = {id=32326,name="Twisted Blades of Zarak",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="14.6",Zone="Unknown"}}
-items[32378] = {id=32378,name="Silver Star",source={ID=1370,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[32378] = {id=32378,name="Silver Star",source={ID=1370,SourceName="Stealing Supplies",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[34349] = {id=34349,name="Blade of Life's Inevitability",source={ID=25483,SourceName="Shadowsword Manafiend",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
 items[25873] = {id=25873,name="Keen Throwing Knife",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[27928] = {id=27928,name="Terminal Edge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25871] = {id=25871,name="Standard Thrown Weapon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32832] = {id=32832,name="Scout's Throwing Knives",source={ID=11073,SourceName="",SourceType="Quest",DropChance="0",Zone="Skettis"}}
+items[32832] = {id=32832,name="Scout's Throwing Knives",source={ID=11073,SourceName="Terokk's Downfall",SourceType="Quest",DropChance="0",Zone="Skettis"}}
 items[35108] = {id=35108,name="Brutal Gladiator's War Edge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25877] = {id=25877,name="Master's Throwing Dagger",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25878] = {id=25878,name="Dusksteel Throwing Knife",source={ID=8249,SourceName="",SourceType="Quest",DropChance="0",Zone="Rogue"}}
+items[25878] = {id=25878,name="Dusksteel Throwing Knife",source={ID=8249,SourceName="Junkboxes Needed",SourceType="Quest",DropChance="0",Zone="Rogue"}}
 items[32054] = {id=32054,name="Merciless Gladiator's War Edge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[30568] = {id=30568,name="The Sharp Cookie",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27929] = {id=27929,name="Terminal Edge",source={ID=18581,SourceName="Alliance Field Scout",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}

@@ -15,41 +15,41 @@ items[25828] = {id=25828,name="Petrified Lichen Guard",source={ID=18382,SourceNa
 items[28825] = {id=28825,name="Aldori Legacy Defender",source={ID=19044,SourceName="Gruul the Dragonkiller",SourceType="Kill",DropChance="9.8",Zone="Gruul's Lair"}}
 items[18825] = {id=18825,name="Grand Marshal's Aegis",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29458] = {id=29458,name="Aegis of the Vindicator",source={ID=17257,SourceName="Magtheridon",SourceType="Kill",DropChance="12.3",Zone="Magtheridon's Lair"}}
-items[13243] = {id=13243,name="Argent Defender",source={ID=5265,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[13243] = {id=13243,name="Argent Defender",source={ID=5265,SourceName="The Argent Hold",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
 items[19321] = {id=19321,name="The Immovable Object",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28606] = {id=28606,name="Shield of Impenetrable Darkness",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
 items[29266] = {id=29266,name="Azure-Shield of Coldarra",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[29176] = {id=29176,name="Crest of the Sha'tar",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[18826] = {id=18826,name="High Warlord's Shield Wall",source={ID=14581,SourceName="Sergeant Thunderhorn",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[18168] = {id=18168,name="Force Reactive Disk",source={ID=22797,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28358] = {id=28358,name="Gladiator's Shield Wall",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28358] = {id=28358,name="Gladiator's Shield Wall",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[28166] = {id=28166,name="Shield of the Void",source={ID=18341,SourceName="Pandemonius",SourceType="Kill",DropChance="6.2",Zone="Mana-Tombs"}}
 items[27887] = {id=27887,name="Platinum Shield of the Valorous",source={ID=18731,SourceName="Ambassador Hellmaw",SourceType="Kill",DropChance="20.0",Zone="Shadow Labyrinth"}}
 items[29268] = {id=29268,name="Mazthoril Honor Shield",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[31200] = {id=31200,name="Shield of the Wayward Footman",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28754] = {id=28754,name="Triptych Shield of the Ancients",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31200] = {id=31200,name="Shield of the Wayward Footman",source={ID=21728,SourceName="Skettis Surger",SourceType="Kill",DropChance="0.1",Zone="Terokkar Forest"}}
+items[28754] = {id=28754,name="Triptych Shield of the Ancients",source={ID=16816,SourceName="Echo of Medivh",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[22198] = {id=22198,name="Jagged Obsidian Shield",source={ID=27586,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28611] = {id=28611,name="Dragonheart Flameshield",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
 items[9458] = {id=9458,name="Thermaplugg's Central Core",source={ID=7800,SourceName="Mekgineer Thermaplugg",SourceType="Kill",DropChance="31.7",Zone="Gnomeregan"}}
-items[23043] = {id=23043,name="The Face of Death",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="32.0",Zone="Naxxramas"}}
+items[23043] = {id=23043,name="The Face of Death",source={ID=15989,SourceName="Sapphiron",SourceType="Kill",DropChance="31.6",Zone="Naxxramas"}}
 items[32375] = {id=32375,name="Bulwark of Azzinoth",source={ID=22917,SourceName="Illidan Stormrage",SourceType="Kill",DropChance="38.2",Zone="Black Temple"}}
 items[27772] = {id=27772,name="Stormshield of Renewal",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
-items[28316] = {id=28316,name="Aegis of the Sunbird",source={ID=17975,SourceName="High Botanist Freywinn",SourceType="Kill",DropChance="16.7",Zone="The Botanica"}}
-items[21269] = {id=21269,name="Blessed Qiraji Bulwark",source={ID=8789,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[22819] = {id=22819,name="Shield of Condemnation",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="19.6",Zone="Naxxramas"}}
-items[7726] = {id=7726,name="Aegis of the Scarlet Commander",source={ID=3976,SourceName="Scarlet Commander Mograine",SourceType="Kill",DropChance="43.0",Zone="Scarlet Monastery"}}
+items[28316] = {id=28316,name="Aegis of the Sunbird",source={ID=17975,SourceName="High Botanist Freywinn",SourceType="Kill",DropChance="0",Zone="The Botanica"}}
+items[21269] = {id=21269,name="Blessed Qiraji Bulwark",source={ID=8789,SourceName="Imperial Qiraji Armaments",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[22819] = {id=22819,name="Shield of Condemnation",source={ID=15990,SourceName="Kel'Thuzad",SourceType="Kill",DropChance="19.4",Zone="Naxxramas"}}
+items[7726] = {id=7726,name="Aegis of the Scarlet Commander",source={ID=3976,SourceName="Scarlet Commander Mograine",SourceType="Kill",DropChance="42.9",Zone="Scarlet Monastery"}}
 items[32082] = {id=32082,name="The Fel Barrier",source={ID=18344,SourceName="Nexus-Prince Shaffar",SourceType="Kill",DropChance="11.6",Zone="Mana-Tombs"}}
 items[27449] = {id=27449,name="Blood Knight Defender",source={ID=17306,SourceName="Watchkeeper Gargolmar",SourceType="Kill",DropChance="20.5",Zone="Hellfire Ramparts"}}
-items[31292] = {id=31292,name="Crystal Pulse Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31292] = {id=31292,name="Crystal Pulse Shield",source={ID=16948,SourceName="Gan'arg Engineer",SourceType="Kill",DropChance="0.1",Zone="Netherstorm"}}
 items[28940] = {id=28940,name="Grand Marshal's Barricade",source={ID=12782,SourceName="Captain O'Neal",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[23075] = {id=23075,name="Death's Bargain",source={ID=15932,SourceName="Gluth",SourceType="Kill",DropChance="35.1",Zone="Naxxramas"}}
 items[29267] = {id=29267,name="Light-Bearer's Faith Shield",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[22336] = {id=22336,name="Draconian Aegis of the Legion",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="23.7",Zone="Blackrock Spire"}}
+items[22336] = {id=22336,name="Draconian Aegis of the Legion",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="23.6",Zone="Blackrock Spire"}}
 items[1204] = {id=1204,name="The Green Tower",source={ID=675,SourceName="Venture Co. Foreman",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
 items[13375] = {id=13375,name="Crest of Retribution",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="11.9",Zone="Stratholme"}}
 items[32652] = {id=32652,name="Ogri'la Aegis",source={ID=23428,SourceName="Jho'nass",SourceType="Purchase",DropChance="100",Zone="Blade's Edge Mountains"}}
-items[31491] = {id=31491,name="Netherwing Defender's Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31287] = {id=31287,name="Draenei Honor Guard Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31491] = {id=31491,name="Netherwing Defender's Shield",source={ID=10870,SourceName="Ally of the Netherwing",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31287] = {id=31287,name="Draenei Honor Guard Shield",source={ID=23008,SourceName="Ethereum Jailor",SourceType="Kill",DropChance="0.4",Zone="Netherstorm"}}
 items[19349] = {id=19349,name="Elementium Reinforced Bulwark",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="15.2",Zone="Blackwing Lair"}}
 items[30909] = {id=30909,name="Antonidas's Aegis of Rapt Concentration",source={ID=17968,SourceName="Archimonde",SourceType="Kill",DropChance="15.5",Zone="Hyjal Summit"}}
 items[17718] = {id=17718,name="Gizlock's Hypertech Buckler",source={ID=13601,SourceName="Tinkerer Gizlock",SourceType="Kill",DropChance="32.8",Zone="Maraudon"}}
@@ -63,74 +63,74 @@ items[1979] = {id=1979,name="Wall of the Dead",source={ID=950,SourceName="Swamp 
 items[30314] = {id=30314,name="Phaseshift Bulwark",source={ID=21273,SourceName="Phaseshift Bulwark",SourceType="Kill",DropChance="100.0",Zone="Unknown"}}
 items[19348] = {id=19348,name="Red Dragonscale Protector",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="17.0",Zone="Blackwing Lair"}}
 items[10835] = {id=10835,name="Crest of Supremacy",source={ID=5709,SourceName="Shade of Eranikus",SourceType="Kill",DropChance="28.4",Zone="The Temple of Atal'Hakkar"}}
-items[6320] = {id=6320,name="Commander's Crest",source={ID=4278,SourceName="Commander Springvale",SourceType="Kill",DropChance="28.7",Zone="Shadowfang Keep"}}
+items[6320] = {id=6320,name="Commander's Crest",source={ID=4278,SourceName="Commander Springvale",SourceType="Kill",DropChance="28.8",Zone="Shadowfang Keep"}}
 items[27910] = {id=27910,name="Silvermoon Crest Shield",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
-items[22818] = {id=22818,name="The Plague Bearer",source={ID=16028,SourceName="Patchwerk",SourceType="Kill",DropChance="31.2",Zone="Naxxramas"}}
-items[21610] = {id=21610,name="Wormscale Blocker",source={ID=15517,SourceName="Ouro",SourceType="Kill",DropChance="20.5",Zone="Ahn'Qiraj"}}
+items[22818] = {id=22818,name="The Plague Bearer",source={ID=16028,SourceName="Patchwerk",SourceType="Kill",DropChance="31.1",Zone="Naxxramas"}}
+items[21610] = {id=21610,name="Wormscale Blocker",source={ID=15517,SourceName="Ouro",SourceType="Kill",DropChance="20.4",Zone="Ahn'Qiraj"}}
 items[12997] = {id=12997,name="Redbeard Crest",source={ID=15812,SourceName="Qiraji Officer",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
 items[20912] = {id=20912,name="Large Shield",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
 items[34231] = {id=34231,name="Aegis of Angelic Fortune",source={ID=25741,SourceName="M'uru",SourceType="Kill",DropChance="35.4",Zone="Sunwell Plateau"}}
-items[30984] = {id=30984,name="Spellbreaker's Buckler",source={ID=10708,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[6447] = {id=6447,name="Worn Turtle Shell Shield",source={ID=3653,SourceName="Kresh",SourceType="Kill",DropChance="67.5",Zone="Wailing Caverns"}}
-items[34675] = {id=34675,name="Sunward Crest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31490] = {id=31490,name="Netherwing Protector's Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30984] = {id=30984,name="Spellbreaker's Buckler",source={ID=10708,SourceName="Akama's Promise",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[6447] = {id=6447,name="Worn Turtle Shell Shield",source={ID=3653,SourceName="Kresh",SourceType="Kill",DropChance="67.6",Zone="Wailing Caverns"}}
+items[34675] = {id=34675,name="Sunward Crest",source={ID=25032,SourceName="Eldara Dawnrunner",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[31490] = {id=31490,name="Netherwing Protector's Shield",source={ID=10870,SourceName="Ally of the Netherwing",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[15633] = {id=15633,name="Formidable Crest",source={ID=8201,SourceName="Omgorn the Lost",SourceType="Kill",DropChance="0.6",Zone="Tanaris"}}
 items[30889] = {id=30889,name="Kaz'rogal's Hardened Heart",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="16.3",Zone="Hyjal Summit"}}
-items[34676] = {id=34676,name="Dawnforged Defender",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[2040] = {id=2040,name="Troll Protector",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34676] = {id=34676,name="Dawnforged Defender",source={ID=25032,SourceName="Eldara Dawnrunner",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[2040] = {id=2040,name="Troll Protector",source={ID=10080,SourceName="Sandarr Dunereaver",SourceType="Kill",DropChance="6.7",Zone="Zul'Farrak"}}
 items[1169] = {id=1169,name="Blackskull Shield",source={ID=1488,SourceName="Zanzil Zombie",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
 items[34011] = {id=34011,name="Illidari Runeshield",source={ID=22847,SourceName="Ashtongue Primalist",SourceType="Kill",DropChance="2.0",Zone="Unknown"}}
 items[28939] = {id=28939,name="High Warlord's Barricade",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[25075] = {id=25075,name="Hardened Steel Shield",source={ID=17307,SourceName="Vazruden the Herald",SourceType="Kill",DropChance="6.6",Zone="Hellfire Ramparts"}}
 items[13079] = {id=13079,name="Shield of Thorsen",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="1.8",Zone="The Barrens"}}
-items[18535] = {id=18535,name="Milli's Shield",source={ID=5526,SourceName="",SourceType="Quest",DropChance="0",Zone="Moonglade"}}
+items[18535] = {id=18535,name="Milli's Shield",source={ID=5526,SourceName="Shards of the Felvine",SourceType="Quest",DropChance="0",Zone="Moonglade"}}
 items[6694] = {id=6694,name="Heart of Agamaggan",source={ID=4421,SourceName="Charlga Razorflank",SourceType="Kill",DropChance="32.7",Zone="Razorfen Kraul"}}
-items[34986] = {id=34986,name="Brutal Gladiator's Barrier",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34986] = {id=34986,name="Brutal Gladiator's Barrier",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[18485] = {id=18485,name="Observer's Shield",source={ID=14324,SourceName="Cho'Rush the Observer",SourceType="Kill",DropChance="42.4",Zone="Dire Maul"}}
-items[9643] = {id=9643,name="Optomatic Deflector",source={ID=648,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[9643] = {id=9643,name="Optomatic Deflector",source={ID=648,SourceName="Rescue OOX-17/TN!",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
 items[25073] = {id=25073,name="Emperor Shield",source={ID=16929,SourceName="Stonescythe Alpha",SourceType="Kill",DropChance="2.5",Zone="Hellfire Peninsula"}}
 items[6572] = {id=6572,name="Defender Shield",source={ID=5683,SourceName="Comar Villard",SourceType="Kill",DropChance="0.4",Zone="Wetlands"}}
-items[31734] = {id=31734,name="Ancient Draenei Crest",source={ID=10887,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[31734] = {id=31734,name="Ancient Draenei Crest",source={ID=10887,SourceName="Escaping the Tomb",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[13083] = {id=13083,name="Garrett Family Crest",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
-items[4129] = {id=4129,name="Collection Plate",source={ID=613,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[4129] = {id=4129,name="Collection Plate",source={ID=613,SourceName="Cracking Maury's Foot",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[33326] = {id=33326,name="Bulwark of the Amani Empire",source={ID=23578,SourceName="Jan'alai",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
 items[33332] = {id=33332,name="Enamelled Disc of Mojo",source={ID=23578,SourceName="Jan'alai",SourceType="Kill",DropChance="8.3",Zone="Unknown"}}
 items[18499] = {id=18499,name="Barrier Shield",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="2.4",Zone="Dire Maul"}}
-items[11915] = {id=11915,name="Shizzle's Drizzle Blocker",source={ID=4503,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[11915] = {id=11915,name="Shizzle's Drizzle Blocker",source={ID=4503,SourceName="Shizzle's Flyer",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
 items[15352] = {id=15352,name="Headhunter's Buckler",source={ID=7337,SourceName="Death's Head Necromancer",SourceType="Kill",DropChance="0.1",Zone="Razorfen Downs"}}
 items[14916] = {id=14916,name="Jade Deflector",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[5094] = {id=5094,name="Razormane War Shield",source={ID=3459,SourceName="Razormane Warfrenzy",SourceType="Kill",DropChance="25.0",Zone="The Barrens"}}
 items[8275] = {id=8275,name="Ebonhold Buckler",source={ID=7045,SourceName="Scalding Drake",SourceType="Kill",DropChance="0.6",Zone="Burning Steppes"}}
 items[3987] = {id=3987,name="Deflecting Tower",source={ID=1045,SourceName="Red Dragonspawn",SourceType="Kill",DropChance="2.0",Zone="Wetlands"}}
-items[10767] = {id=10767,name="Savage Boar's Guard",source={ID=7354,SourceName="Ragglesnout",SourceType="Kill",DropChance="40.1",Zone="Razorfen Downs"}}
-items[9444] = {id=9444,name="Techbot CPU Shell",source={ID=6231,SourceName="Techbot",SourceType="Kill",DropChance="48.3",Zone="Unknown"}}
+items[10767] = {id=10767,name="Savage Boar's Guard",source={ID=7354,SourceName="Ragglesnout",SourceType="Kill",DropChance="40.2",Zone="Razorfen Downs"}}
+items[9444] = {id=9444,name="Techbot CPU Shell",source={ID=6231,SourceName="Techbot",SourceType="Kill",DropChance="48.4",Zone="Unknown"}}
 items[14902] = {id=14902,name="Saltstone Shield",source={ID=5645,SourceName="Sandfury Hideskinner",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
-items[25624] = {id=25624,name="King's Bulwark",source={ID=9907,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25624] = {id=25624,name="King's Bulwark",source={ID=9907,SourceName="An Audacious Advance",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[23238] = {id=23238,name="Stygian Buckler",source={ID=16156,SourceName="Dark Touched Warrior",SourceType="Kill",DropChance="1.0",Zone="Naxxramas"}}
 items[21485] = {id=21485,name="Buru's Skull Fragment",source={ID=15370,SourceName="Buru the Gorger",SourceType="Kill",DropChance="17.0",Zone="Ruins of Ahn'Qiraj"}}
 items[10271] = {id=10271,name="Masterwork Shield",source={ID=10371,SourceName="Rage Talon Captain",SourceType="Kill",DropChance="0.1",Zone="Blackrock Spire"}}
-items[10367] = {id=10367,name="Hyperion Shield",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="2.4",Zone="Searing Gorge"}}
+items[10367] = {id=10367,name="Hyperion Shield",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="2.4",Zone="Blasted Lands"}}
 items[12602] = {id=12602,name="Draconian Deflector",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="22.0",Zone="Blackrock Spire"}}
-items[14002] = {id=14002,name="Darrowshire Strongguard",source={ID=5466,SourceName="",SourceType="Quest",DropChance="0",Zone="Scholomance"}}
+items[14002] = {id=14002,name="Darrowshire Strongguard",source={ID=5466,SourceName="The Lich, Ras Frostwhisper",SourceType="Quest",DropChance="0",Zone="Scholomance"}}
 items[34415] = {id=34415,name="Crystaline Shard Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[13245] = {id=13245,name="Kresh's Back",source={ID=3653,SourceName="Kresh",SourceType="Kill",DropChance="13.1",Zone="Wailing Caverns"}}
+items[13245] = {id=13245,name="Kresh's Back",source={ID=3653,SourceName="Kresh",SourceType="Kill",DropChance="13.0",Zone="Wailing Caverns"}}
 items[15943] = {id=15943,name="Imbued Shield",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="0.3",Zone="Stratholme"}}
 items[10363] = {id=10363,name="Engraved Wall",source={ID=13334,SourceName="Veteran Legionnaire",SourceType="Kill",DropChance="0.8",Zone="Alterac Valley"}}
 items[10204] = {id=10204,name="Heavy Lamellar Shield",source={ID=7071,SourceName="Cursed Paladin",SourceType="Kill",DropChance="0.5",Zone="Hillsbrad Foothills"}}
 items[14825] = {id=14825,name="Symbolic Crest",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.3",Zone="Zul'Farrak"}}
 items[9858] = {id=9858,name="Archer's Buckler",source={ID=3985,SourceName="Grandpa Vishas",SourceType="Kill",DropChance="0.4",Zone="Alterac Mountains"}}
-items[6560] = {id=6560,name="Soldier's Shield",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="5.2",Zone="Silverpine Forest"}}
-items[35094] = {id=35094,name="Brutal Gladiator's Shield Wall",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[20688] = {id=20688,name="Earthen Guard",source={ID=15205,SourceName="Baron Kazum",SourceType="Kill",DropChance="29.8",Zone="Silithus"}}
+items[6560] = {id=6560,name="Soldier's Shield",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="5.1",Zone="Silverpine Forest"}}
+items[35094] = {id=35094,name="Brutal Gladiator's Shield Wall",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[20688] = {id=20688,name="Earthen Guard",source={ID=15205,SourceName="Baron Kazum",SourceType="Kill",DropChance="29.9",Zone="Silithus"}}
 items[15675] = {id=15675,name="Magnificent Guard",source={ID=5314,SourceName="Phantim",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
 items[23139] = {id=23139,name="Lord Blackwood's Buckler",source={ID=14695,SourceName="Lord Blackwood",SourceType="Kill",DropChance="29.3",Zone="Scholomance"}}
 items[9974] = {id=9974,name="Overlord's Shield",source={ID=5983,SourceName="Bonepicker",SourceType="Kill",DropChance="0.1",Zone="Blasted Lands"}}
 items[14777] = {id=14777,name="Ravager's Shield",source={ID=14236,SourceName="Lord Angler",SourceType="Kill",DropChance="0.6",Zone="Dustwallow Marsh"}}
 items[7496] = {id=7496,name="Field Plate Shield",source={ID=7321,SourceName="Stonevault Flameweaver",SourceType="Kill",DropChance="0.1",Zone="Uldaman"}}
-items[15569] = {id=15569,name="Marauder's Crest",source={ID=4394,SourceName="Bubbling Swamp Ooze",SourceType="Kill",DropChance="1.3",Zone="Dustwallow Marsh"}}
+items[15569] = {id=15569,name="Marauder's Crest",source={ID=4394,SourceName="Bubbling Swamp Ooze",SourceType="Kill",DropChance="0.8",Zone="Dustwallow Marsh"}}
 items[4821] = {id=4821,name="Bear Buckler",source={ID=793,SourceName="Kara Adams",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
 items[4822] = {id=4822,name="Owl's Disk",source={ID=793,SourceName="Kara Adams",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
-items[7108] = {id=7108,name="Infantry Shield",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
+items[7108] = {id=7108,name="Infantry Shield",source={ID=15408,SourceName="Spearcrafter Otembe",SourceType="Kill",DropChance="2.1",Zone="Eversong Woods"}}
 items[25084] = {id=25084,name="Zeth'Gor Shield",source={ID=16460,SourceName="Night Mistress",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
 items[25407] = {id=25407,name="The Movable Object",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[10366] = {id=10366,name="Demon Guard",source={ID=13446,SourceName="Field Marshal Teravaine",SourceType="Kill",DropChance="1.7",Zone="Alterac Valley"}}
@@ -138,14 +138,14 @@ items[18756] = {id=18756,name="Dreadguard's Protector",source={ID=14506,SourceNa
 items[15648] = {id=15648,name="Ironhide Shield",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.1",Zone="Winterspring"}}
 items[7495] = {id=7495,name="Captain's Buckler",source={ID=1552,SourceName="Scale Belly",SourceType="Kill",DropChance="0.2",Zone="Stranglethorn Vale"}}
 items[7787] = {id=7787,name="Resplendent Guardian",source={ID=14693,SourceName="Scorn",SourceType="Kill",DropChance="0.4",Zone="Scarlet Monastery"}}
-items[2222] = {id=2222,name="Tower Shield",source={ID=4440,SourceName="Razorfen Totemic",SourceType="Kill",DropChance="1.0",Zone="Razorfen Kraul"}}
+items[2222] = {id=2222,name="Tower Shield",source={ID=4516,SourceName="Death's Head Adept",SourceType="Kill",DropChance="1.0",Zone="Razorfen Kraul"}}
 items[4820] = {id=4820,name="Guardian Buckler",source={ID=793,SourceName="Kara Adams",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
-items[6383] = {id=6383,name="Forest Buckler",source={ID=5682,SourceName="Dalin Forgewright",SourceType="Kill",DropChance="0.5",Zone="Silverpine Forest"}}
-items[6571] = {id=6571,name="Scouting Buckler",source={ID=1210,SourceName="Chok'sul",SourceType="Kill",DropChance="0.3",Zone="Loch Modan"}}
+items[6383] = {id=6383,name="Forest Buckler",source={ID=5682,SourceName="Dalin Forgewright",SourceType="Kill",DropChance="0.4",Zone="Silverpine Forest"}}
+items[6571] = {id=6571,name="Scouting Buckler",source={ID=16249,SourceName="Masophet the Black",SourceType="Kill",DropChance="1.8",Zone="Ghostlands"}}
 items[15298] = {id=15298,name="Grizzly Buckler",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="1.0",Zone="The Barrens"}}
 items[15486] = {id=15486,name="War Torn Shield",source={ID=3228,SourceName="Corrupted Surf Crawler",SourceType="Kill",DropChance="0.4",Zone="Durotar"}}
 items[8313] = {id=8313,name="Hero's Buckler",source={ID=10439,SourceName="Ramstein the Gorger",SourceType="Kill",DropChance="0.5",Zone="Stratholme"}}
-items[18352] = {id=18352,name="Petrified Bark Shield",source={ID=11489,SourceName="Tendris Warpwood",SourceType="Kill",DropChance="23.8",Zone="Dire Maul"}}
+items[18352] = {id=18352,name="Petrified Bark Shield",source={ID=11489,SourceName="Tendris Warpwood",SourceType="Kill",DropChance="23.9",Zone="Dire Maul"}}
 items[3986] = {id=3986,name="Protective Pavise",source={ID=8212,SourceName="The Reak",SourceType="Kill",DropChance="1.4",Zone="The Hinterlands"}}
 items[7536] = {id=7536,name="Champion's Wall Shield",source={ID=10120,SourceName="Vault Warder",SourceType="Kill",DropChance="2.0",Zone="Uldaman"}}
 items[14947] = {id=14947,name="Warbringer's Shield",source={ID=4328,SourceName="Firemane Scalebane",SourceType="Kill",DropChance="0",Zone="Dustwallow Marsh"}}
@@ -155,15 +155,15 @@ items[6598] = {id=6598,name="Dervish Buckler",source={ID=6407,SourceName="Holdou
 items[15512] = {id=15512,name="Grunt's Shield",source={ID=3899,SourceName="Balizar the Umbrage",SourceType="Kill",DropChance="0.5",Zone="Darkshore"}}
 items[15113] = {id=15113,name="Rigid Buckler",source={ID=3670,SourceName="Lord Pythas",SourceType="Kill",DropChance="0.2",Zone="Wailing Caverns"}}
 items[6380] = {id=6380,name="Inscribed Buckler",source={ID=2106,SourceName="Apothecary Berard",SourceType="Kill",DropChance="0.3",Zone="Silverpine Forest"}}
-items[3649] = {id=3649,name="Tribal Buckler",source={ID=5785,SourceName="Sister Hatelash",SourceType="Kill",DropChance="1.4",Zone="Mulgore"}}
+items[3649] = {id=3649,name="Tribal Buckler",source={ID=5785,SourceName="Sister Hatelash",SourceType="Kill",DropChance="1.3",Zone="Mulgore"}}
 items[2211] = {id=2211,name="Bent Large Shield",source={ID=1918,SourceName="Karrel Grayves",SourceType="Kill",DropChance="6.3",Zone="Tirisfal Glades"}}
 items[17184] = {id=17184,name="Small Shield",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
-items[33661] = {id=33661,name="Vengeful Gladiator's Barrier",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33735] = {id=33735,name="Vengeful Gladiator's Redoubt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33661] = {id=33661,name="Vengeful Gladiator's Barrier",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33735] = {id=33735,name="Vengeful Gladiator's Redoubt",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32255] = {id=32255,name="Felstone Bulwark",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="18.3",Zone="Black Temple"}}
 items[25085] = {id=25085,name="Dragonscale Shield",source={ID=23333,SourceName="The Grand Collector",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
 items[25076] = {id=25076,name="Screaming Shield",source={ID=18311,SourceName="Ethereal Crypt Raider",SourceType="Kill",DropChance="7.6",Zone="Mana-Tombs"}}
-items[25074] = {id=25074,name="Telaari Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25074] = {id=25074,name="Telaari Shield",source={ID=17401,SourceName="Felhound Manastalker",SourceType="Kill",DropChance="0.2",Zone="The Blood Furnace"}}
 items[15887] = {id=15887,name="Heroic Guard",source={ID=5320,SourceName="Jademir Boughguard",SourceType="Kill",DropChance="0.2",Zone="Feralas"}}
 items[10362] = {id=10362,name="Ornate Shield",source={ID=7734,SourceName="Ilifar",SourceType="Kill",DropChance="0.5",Zone="Blasted Lands"}}
 items[14930] = {id=14930,name="Lofty Shield",source={ID=10806,SourceName="Ursius",SourceType="Kill",DropChance="0.2",Zone="Winterspring"}}
@@ -173,39 +173,39 @@ items[14954] = {id=14954,name="Bloodforged Shield",source={ID=3094,SourceName="U
 items[15618] = {id=15618,name="Bonelink Wall Shield",source={ID=11793,SourceName="Celebrian Dryad",SourceType="Kill",DropChance="0.3",Zone="Maraudon"}}
 items[9899] = {id=9899,name="Jazeraint Shield",source={ID=2781,SourceName="Caretaker Weston",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
 items[4070] = {id=4070,name="Jouster's Crest",source={ID=2782,SourceName="Caretaker Alaric",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
-items[15367] = {id=15367,name="Trickster's Protector",source={ID=23637,SourceName="Deserter Lieutenant",SourceType="Kill",DropChance="2.5",Zone="Dustwallow Marsh"}}
+items[15367] = {id=15367,name="Trickster's Protector",source={ID=23637,SourceName="Deserter Lieutenant",SourceType="Kill",DropChance="2.0",Zone="Dustwallow Marsh"}}
 items[7463] = {id=7463,name="Sentinel Buckler",source={ID=814,SourceName="Sergeant Malthus",SourceType="Kill",DropChance="0.4",Zone="Stranglethorn Vale"}}
 items[4065] = {id=4065,name="Combat Shield",source={ID=861,SourceName="Stonard Scout",SourceType="Kill",DropChance="0.1",Zone="Swamp of Sorrows"}}
-items[9522] = {id=9522,name="Energized Stone Circle",source={ID=2418,SourceName="",SourceType="Quest",DropChance="0",Zone="Uldaman"}}
+items[9522] = {id=9522,name="Energized Stone Circle",source={ID=2418,SourceName="Power Stones",SourceType="Quest",DropChance="0",Zone="Uldaman"}}
 items[15145] = {id=15145,name="Ghostwalker Buckler",source={ID=7332,SourceName="Withered Spearhide",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
 items[17189] = {id=17189,name="Metal Buckler",source={ID=1319,SourceName="Bryan Cross",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[9830] = {id=9830,name="Scaled Shield",source={ID=4284,SourceName="Scarlet Augur",SourceType="Kill",DropChance="0.1",Zone="Tirisfal Glades"}}
-items[2221] = {id=2221,name="Targe Shield",source={ID=6407,SourceName="Holdout Technician",SourceType="Kill",DropChance="2.3",Zone="Gnomeregan"}}
+items[2221] = {id=2221,name="Targe Shield",source={ID=6407,SourceName="Holdout Technician",SourceType="Kill",DropChance="2.2",Zone="Gnomeregan"}}
 items[15123] = {id=15123,name="Robust Buckler",source={ID=4440,SourceName="Razorfen Totemic",SourceType="Kill",DropChance="0.2",Zone="Razorfen Kraul"}}
 items[2446] = {id=2446,name="Kite Shield",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[15504] = {id=15504,name="Outrunner's Shield",source={ID=5931,SourceName="Foreman Rigger",SourceType="Kill",DropChance="0.6",Zone="Stonetalon Mountains"}}
 items[3655] = {id=3655,name="Burnished Shield",source={ID=16317,SourceName="Deatholme Necromancer",SourceType="Kill",DropChance="0.3",Zone="Ghostlands"}}
 items[5443] = {id=5443,name="Gold-plated Buckler",source={ID=3586,SourceName="Miner Johnson",SourceType="Kill",DropChance="41.0",Zone="The Deadmines"}}
-items[9790] = {id=9790,name="Raider's Shield",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.7",Zone="Bloodmyst Isle"}}
+items[9790] = {id=9790,name="Raider's Shield",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
 items[1202] = {id=1202,name="Wall Shield",source={ID=3319,SourceName="Sana",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[2214] = {id=2214,name="Wooden Buckler",source={ID=1271,SourceName="Old Icebeard",SourceType="Kill",DropChance="2.1",Zone="Dun Morogh"}}
-items[2215] = {id=2215,name="Wooden Shield",source={ID=17210,SourceName="Sentinel Leader",SourceType="Kill",DropChance="5.5",Zone="Ghostlands"}}
+items[2215] = {id=2215,name="Wooden Shield",source={ID=17210,SourceName="Sentinel Leader",SourceType="Kill",DropChance="4.4",Zone="Ghostlands"}}
 items[1438] = {id=1438,name="Warrior's Shield",source={ID=1122,SourceName="Frostmane Hideskinner",SourceType="Kill",DropChance="0.3",Zone="Dun Morogh"}}
-items[15006] = {id=15006,name="Primal Buckler",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.4",Zone="Eversong Woods"}}
-items[2213] = {id=2213,name="Worn Large Shield",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="4.2",Zone="Eversong Woods"}}
+items[15006] = {id=15006,name="Primal Buckler",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[2213] = {id=2213,name="Worn Large Shield",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[876] = {id=876,name="Worn Wooden Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32045] = {id=32045,name="Merciless Gladiator's Shield Wall",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33313] = {id=33313,name="Merciless Gladiator's Barrier",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32045] = {id=32045,name="Merciless Gladiator's Shield Wall",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33313] = {id=33313,name="Merciless Gladiator's Barrier",source={ID=107599,SourceName="Izzee the 'Clutch'",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[25079] = {id=25079,name="Outland Shield",source={ID=18313,SourceName="Ethereal Sorcerer",SourceType="Kill",DropChance="2.8",Zone="Mana-Tombs"}}
 items[25627] = {id=25627,name="QR 9922 Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[19915] = {id=19915,name="Zulian Defender",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="18.6",Zone="Zul'Gurub"}}
+items[19915] = {id=19915,name="Zulian Defender",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="18.5",Zone="Zul'Gurub"}}
 items[14528] = {id=14528,name="Rattlecage Buckler",source={ID=11622,SourceName="Rattlegore",SourceType="Kill",DropChance="12.1",Zone="Scholomance"}}
 items[18673] = {id=18673,name="Avalanchion's Stony Hide",source={ID=14464,SourceName="Avalanchion",SourceType="Kill",DropChance="21.3",Zone="Azshara"}}
 items[10364] = {id=10364,name="Templar Shield",source={ID=10762,SourceName="Blackhand Thug",SourceType="Kill",DropChance="0.4",Zone="Blackrock Spire"}}
 items[15657] = {id=15657,name="Merciless Shield",source={ID=11498,SourceName="Skarr the Unbreakable",SourceType="Kill",DropChance="0.2",Zone="Unknown"}}
 items[14964] = {id=14964,name="High Chief's Shield",source={ID=13021,SourceName="Warpwood Crusher",SourceType="Kill",DropChance="0.1",Zone="Dire Maul"}}
 items[10093] = {id=10093,name="Revenant Deflector",source={ID=5720,SourceName="Weaver",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
-items[14852] = {id=14852,name="Sunscale Shield",source={ID=6502,SourceName="Plated Stegodon",SourceType="Kill",DropChance="0.2",Zone="Un'Goro Crater"}}
+items[14852] = {id=14852,name="Sunscale Shield",source={ID=6502,SourceName="Plated Stegodon",SourceType="Kill",DropChance="0.1",Zone="Un'Goro Crater"}}
 items[10078] = {id=10078,name="Lord's Crest",source={ID=9319,SourceName="Houndmaster Grebmar",SourceType="Kill",DropChance="0.1",Zone="Blackrock Depths"}}
 items[8134] = {id=8134,name="Myrmidon's Defender",source={ID=8497,SourceName="Nightmare Suppressor",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
 items[8282] = {id=8282,name="Valorous Shield",source={ID=8282,SourceName="Highlord Mastrogonde",SourceType="Kill",DropChance="0.7",Zone="Searing Gorge"}}
@@ -216,11 +216,11 @@ items[15592] = {id=15592,name="Steadfast Buckler",source={ID=7605,SourceName="Ra
 items[15584] = {id=15584,name="Sparkleshell Shield",source={ID=4385,SourceName="Withervine Rager",SourceType="Kill",DropChance="0.6",Zone="Dustwallow Marsh"}}
 items[9403] = {id=9403,name="Battered Viking Shield",source={ID=6908,SourceName="Olaf",SourceType="Kill",DropChance="78.5",Zone="Uldaman"}}
 items[15990] = {id=15990,name="Enduring Shield",source={ID=14232,SourceName="Dart",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
-items[6828] = {id=6828,name="Visionary Buckler",source={ID=1393,SourceName="",SourceType="Quest",DropChance="0",Zone="Swamp of Sorrows"}}
+items[6828] = {id=6828,name="Visionary Buckler",source={ID=1393,SourceName="Galen's Escape",SourceType="Quest",DropChance="0",Zone="Swamp of Sorrows"}}
 items[13081] = {id=13081,name="Skullance Shield",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
-items[15563] = {id=15563,name="Pillager's Shield",source={ID=23589,SourceName="Defias Rummager",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
+items[15563] = {id=15563,name="Pillager's Shield",source={ID=23589,SourceName="Defias Rummager",SourceType="Kill",DropChance="0.4",Zone="Dustwallow Marsh"}}
 items[15552] = {id=15552,name="Thick Scale Shield",source={ID=7332,SourceName="Withered Spearhide",SourceType="Kill",DropChance="0.1",Zone="Razorfen Downs"}}
-items[4066] = {id=4066,name="Insignia Buckler",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="0.6",Zone="Uldaman"}}
+items[4066] = {id=4066,name="Insignia Buckler",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="0.5",Zone="Uldaman"}}
 items[15543] = {id=15543,name="Wicked Chain Shield",source={ID=5935,SourceName="Ironeye the Invincible",SourceType="Kill",DropChance="0.5",Zone="Thousand Needles"}}
 items[7330] = {id=7330,name="Infiltrator Buckler",source={ID=6230,SourceName="Peacekeeper Security Suit",SourceType="Kill",DropChance="0.1",Zone="Gnomeregan"}}
 items[9843] = {id=9843,name="Banded Shield",source={ID=2552,SourceName="Witherbark Troll",SourceType="Kill",DropChance="0.3",Zone="Arathi Highlands"}}
@@ -233,20 +233,20 @@ items[2220] = {id=2220,name="Box Shield",source={ID=3898,SourceName="Aligar the 
 items[2219] = {id=2219,name="Small Round Shield",source={ID=431,SourceName="Shadowhide Slayer",SourceType="Kill",DropChance="3.4",Zone="Redridge Mountains"}}
 items[2445] = {id=2445,name="Large Metal Shield",source={ID=793,SourceName="Kara Adams",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
 items[2021] = {id=2021,name="Green Carapace Shield",source={ID=569,SourceName="Green Recluse",SourceType="Kill",DropChance="1.2",Zone="Duskwood"}}
-items[15893] = {id=15893,name="Prospector's Buckler",source={ID=17494,SourceName="Zevrax",SourceType="Kill",DropChance="1.7",Zone="Bloodmyst Isle"}}
+items[15893] = {id=15893,name="Prospector's Buckler",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.5",Zone="The Barrens"}}
 items[9778] = {id=9778,name="Bandit Buckler",source={ID=14266,SourceName="Shanda the Spinner",SourceType="Kill",DropChance="0.4",Zone="Loch Modan"}}
 items[4290] = {id=4290,name="Dust Bowl",source={ID=832,SourceName="Dust Devil",SourceType="Kill",DropChance="1.5",Zone="Westfall"}}
-items[2217] = {id=2217,name="Rectangular Shield",source={ID=17678,SourceName="Sironas",SourceType="Kill",DropChance="5.5",Zone="Bloodmyst Isle"}}
+items[2217] = {id=2217,name="Rectangular Shield",source={ID=16247,SourceName="Borgoth the Bloodletter",SourceType="Kill",DropChance="4.4",Zone="Ghostlands"}}
 items[3654] = {id=3654,name="Brackwater Shield",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="1.0",Zone="The Barrens"}}
 items[17187] = {id=17187,name="Banded Buckler",source={ID=3319,SourceName="Sana",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
-items[9753] = {id=9753,name="Gypsy Buckler",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[9753] = {id=9753,name="Gypsy Buckler",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[3648] = {id=3648,name="Warrior's Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3650] = {id=3650,name="Battle Shield",source={ID=2968,SourceName="Galak Outrunner",SourceType="Kill",DropChance="0.3",Zone="Mulgore"}}
 items[2129] = {id=2129,name="Large Round Shield",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
-items[21021] = {id=21021,name="Battered Shield",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="0.9",Zone="Eversong Woods"}}
+items[21021] = {id=21021,name="Battered Shield",source={ID=15298,SourceName="Tainted Arcane Wraith",SourceType="Kill",DropChance="0.9",Zone="Eversong Woods"}}
 items[17183] = {id=17183,name="Dented Buckler",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[2210] = {id=2210,name="Battered Buckler",source={ID=1917,SourceName="Daniel Ulfman",SourceType="Kill",DropChance="4.1",Zone="Tirisfal Glades"}}
-items[21022] = {id=21022,name="Weather Beaten Buckler",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="0.9",Zone="Eversong Woods"}}
+items[21022] = {id=21022,name="Weather Beaten Buckler",source={ID=15294,SourceName="Feral Tender",SourceType="Kill",DropChance="0.9",Zone="Eversong Woods"}}
 items[2362] = {id=2362,name="Worn Wooden Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24322] = {id=24322,name="Monster - Shield, Blood Elf A02",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[29821] = {id=29821,name="Monster - Shield, Ethereal",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -261,7 +261,7 @@ items[15991] = {id=15991,name="Warleader's Shield",source={ID=14454,SourceName="
 items[15667] = {id=15667,name="Impenetrable Wall",source={ID=12498,SourceName="Dreamstalker",SourceType="Kill",DropChance="0.7",Zone="Ashenvale"}}
 items[14973] = {id=14973,name="Glorious Shield",source={ID=7137,SourceName="Immolatus",SourceType="Kill",DropChance="0.3",Zone="Felwood"}}
 items[14800] = {id=14800,name="Bloodlust Buckler",source={ID=6584,SourceName="King Mosh",SourceType="Kill",DropChance="2.2",Zone="Un'Goro Crater"}}
-items[15890] = {id=15890,name="Vanguard Shield",source={ID=10664,SourceName="Scryer",SourceType="Kill",DropChance="0.1",Zone="Winterspring"}}
+items[15890] = {id=15890,name="Vanguard Shield",source={ID=11469,SourceName="Eldreth Seether",SourceType="Kill",DropChance="0.1",Zone="Dire Maul"}}
 items[8320] = {id=8320,name="Alabaster Shield",source={ID=10385,SourceName="Ghostly Citizen",SourceType="Kill",DropChance="0.2",Zone="Stratholme"}}
 items[10195] = {id=10195,name="Crusader's Shield",source={ID=9522,SourceName="Blackrock Ambusher",SourceType="Kill",DropChance="0.8",Zone="Burning Steppes"}}
 items[15621] = {id=15621,name="Gryphon Mail Buckler",source={ID=6130,SourceName="Blue Scalebane",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
@@ -274,11 +274,11 @@ items[8135] = {id=8135,name="Chromite Shield",source={ID=4469,SourceName="Emeral
 items[3989] = {id=3989,name="Blocking Targe",source={ID=2782,SourceName="Caretaker Alaric",SourceType="Kill",DropChance="0.8",Zone="Arathi Highlands"}}
 items[4068] = {id=4068,name="Chief Brigadier Shield",source={ID=2763,SourceName="Thenan",SourceType="Kill",DropChance="0.1",Zone="Arathi Highlands"}}
 items[4067] = {id=4067,name="Glyphed Buckler",source={ID=814,SourceName="Sergeant Malthus",SourceType="Kill",DropChance="0.8",Zone="Stranglethorn Vale"}}
-items[15695] = {id=15695,name="Studded Ring Shield",source={ID=5943,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[15695] = {id=15695,name="Studded Ring Shield",source={ID=5943,SourceName="Gizelton Caravan",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[2448] = {id=2448,name="Heavy Pavise",source={ID=1319,SourceName="Bryan Cross",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[9873] = {id=9873,name="Renegade Shield",source={ID=7057,SourceName="Digmaster Shovelphlange",SourceType="Kill",DropChance="0.2",Zone="Unknown"}}
-items[14607] = {id=14607,name="Hawkeye's Buckler",source={ID=4386,SourceName="Withervine Bark Ripper",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
-items[4477] = {id=4477,name="Nefarious Buckler",source={ID=534,SourceName="Nefaru",SourceType="Kill",DropChance="68.9",Zone="Duskwood"}}
+items[14607] = {id=14607,name="Hawkeye's Buckler",source={ID=23589,SourceName="Defias Rummager",SourceType="Kill",DropChance="0.4",Zone="Dustwallow Marsh"}}
+items[4477] = {id=4477,name="Nefarious Buckler",source={ID=534,SourceName="Nefaru",SourceType="Kill",DropChance="68.7",Zone="Duskwood"}}
 items[3817] = {id=3817,name="Reinforced Buckler",source={ID=3942,SourceName="Mavoris Cloudsbreak",SourceType="Kill",DropChance="1.2",Zone="Ashenvale"}}
 items[15133] = {id=15133,name="Cutthroat's Buckler",source={ID=4425,SourceName="Blind Hunter",SourceType="Kill",DropChance="1.8",Zone="Razorfen Kraul"}}
 items[6400] = {id=6400,name="Glimmering Shield",source={ID=14693,SourceName="Scorn",SourceType="Kill",DropChance="0.4",Zone="Scarlet Monastery"}}
@@ -290,33 +290,33 @@ items[15894] = {id=15894,name="Bristlebark Buckler",source={ID=3815,SourceName="
 items[17192] = {id=17192,name="Reinforced Targe",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[14729] = {id=14729,name="War Paint Shield",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.5",Zone="The Barrens"}}
 items[15307] = {id=15307,name="Feral Buckler",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
-items[2216] = {id=2216,name="Simple Buckler",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.7",Zone="Bloodmyst Isle"}}
-items[6559] = {id=6559,name="Bard's Buckler",source={ID=3533,SourceName="Moonrage Leatherworker",SourceType="Kill",DropChance="2.5",Zone="Silverpine Forest"}}
+items[2216] = {id=2216,name="Simple Buckler",source={ID=17664,SourceName="Matis the Cruel",SourceType="Kill",DropChance="4.0",Zone="Bloodmyst Isle"}}
+items[6559] = {id=6559,name="Bard's Buckler",source={ID=17528,SourceName="Tzerak",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
 items[3651] = {id=3651,name="Veteran Shield",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="1.1",Zone="Silverpine Forest"}}
-items[3653] = {id=3653,name="Ceremonial Buckler",source={ID=17331,SourceName="Wrathscale Shorestalker",SourceType="Kill",DropChance="0.6",Zone="Bloodmyst Isle"}}
-items[3652] = {id=3652,name="Hunting Buckler",source={ID=2060,SourceName="Councilman Smithers",SourceType="Kill",DropChance="0.6",Zone="Silverpine Forest"}}
-items[9764] = {id=9764,name="Cadet Shield",source={ID=3528,SourceName="Pyrewood Armorer",SourceType="Kill",DropChance="0.8",Zone="Silverpine Forest"}}
-items[6203] = {id=6203,name="Thuggish Shield",source={ID=61,SourceName="Thuros Lightfingers",SourceType="Kill",DropChance="31.4",Zone="Elwynn Forest"}}
-items[7109] = {id=7109,name="Pioneer Buckler",source={ID=15409,SourceName="Old Whitebark",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
-items[15478] = {id=15478,name="Charger's Shield",source={ID=15637,SourceName="Withered Green Keeper",SourceType="Kill",DropChance="0.5",Zone="Eversong Woods"}}
-items[15895] = {id=15895,name="Burnt Buckler",source={ID=15408,SourceName="Spearcrafter Otembe",SourceType="Kill",DropChance="0.4",Zone="Eversong Woods"}}
+items[3653] = {id=3653,name="Ceremonial Buckler",source={ID=17331,SourceName="Wrathscale Shorestalker",SourceType="Kill",DropChance="0.5",Zone="Bloodmyst Isle"}}
+items[3652] = {id=3652,name="Hunting Buckler",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.0",Zone="Ghostlands"}}
+items[9764] = {id=9764,name="Cadet Shield",source={ID=3530,SourceName="Pyrewood Tailor",SourceType="Kill",DropChance="0.8",Zone="Silverpine Forest"}}
+items[6203] = {id=6203,name="Thuggish Shield",source={ID=61,SourceName="Thuros Lightfingers",SourceType="Kill",DropChance="31.3",Zone="Elwynn Forest"}}
+items[7109] = {id=7109,name="Pioneer Buckler",source={ID=15409,SourceName="Old Whitebark",SourceType="Kill",DropChance="0.9",Zone="Eversong Woods"}}
+items[15478] = {id=15478,name="Charger's Shield",source={ID=15637,SourceName="Withered Green Keeper",SourceType="Kill",DropChance="0.4",Zone="Eversong Woods"}}
+items[15895] = {id=15895,name="Burnt Buckler",source={ID=15408,SourceName="Spearcrafter Otembe",SourceType="Kill",DropChance="0.3",Zone="Eversong Woods"}}
 items[2133] = {id=2133,name="Small Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20984] = {id=20984,name="Recruit's Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[18696] = {id=18696,name="Intricately Runed Shield",source={ID=10508,SourceName="Ras Frostwhisper",SourceType="Kill",DropChance="15.4",Zone="Scholomance"}}
 items[13254] = {id=13254,name="Astral Guard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[9935] = {id=9935,name="Embossed Plate Shield",source={ID=14365,SourceName="Thief Catcher Farmountain",SourceType="Kill",DropChance="4.8",Zone="Ironforge"}}
-items[15494] = {id=15494,name="Bloodspattered Shield",source={ID=17322,SourceName="Infected Wildkin",SourceType="Kill",DropChance="0.4",Zone="Bloodmyst Isle"}}
+items[15494] = {id=15494,name="Bloodspattered Shield",source={ID=8236,SourceName="Muck Frenzy",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
 items[20913] = {id=20913,name="Medium Guard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[11201] = {id=11201,name="Engineer's Shield 3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24038] = {id=24038,name="Monster - Shield, Blood Elf A01",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25083] = {id=25083,name="Smouldering Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25083] = {id=25083,name="Smouldering Shield",source={ID=21863,SourceName="Serpentshrine Lurker",SourceType="Kill",DropChance="0.2",Zone="Serpentshrine Cavern"}}
 items[25078] = {id=25078,name="Zangari Shield",source={ID=18464,SourceName="Warp Stalker",SourceType="Kill",DropChance="1.6",Zone="Terokkar Forest"}}
 items[30775] = {id=30775,name="Layered Bone Shield",source={ID=18010,SourceName="Maktu",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[25072] = {id=25072,name="Northman's Shield",source={ID=17280,SourceName="Shattered Hand Warhound",SourceType="Kill",DropChance="0.5",Zone="Hellfire Ramparts"}}
-items[11785] = {id=11785,name="Rock Golem Bulwark",source={ID=8923,SourceName="Panzor the Invincible",SourceType="Kill",DropChance="21.3",Zone="Blackrock Depths"}}
+items[11785] = {id=11785,name="Rock Golem Bulwark",source={ID=8923,SourceName="Panzor the Invincible",SourceType="Kill",DropChance="21.5",Zone="Blackrock Depths"}}
 items[186064] = {id=186064,name="Communal Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[15604] = {id=15604,name="Ancient Defender",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
-items[15865] = {id=15865,name="Anchorhold Buckler",source={ID=6134,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[15865] = {id=15865,name="Anchorhold Buckler",source={ID=6134,SourceName="Ghost-o-plasm Round Up",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[2441] = {id=2441,name="Ringed Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[1200] = {id=1200,name="Large Wooden Shield",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[23365] = {id=23365,name="Steel Rimmed Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -326,13 +326,13 @@ items[27406] = {id=27406,name="Monster - Shield, Blood Elf (Blood Knight)",sourc
 items[34553] = {id=34553,name="Monster - Shield, General Tiras",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34589] = {id=34589,name="Monster - Shield, Shattered Sun D01 Red",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34590] = {id=34590,name="Monster - Shield, Shattered Sun D01 Yellow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35073] = {id=35073,name="Brutal Gladiator's Redoubt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35073] = {id=35073,name="Brutal Gladiator's Redoubt",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32522] = {id=32522,name="Demonic Bulwark",source={ID=22828,SourceName="Trelopades",SourceType="Kill",DropChance="88.1",Zone="Unknown"}}
-items[25081] = {id=25081,name="Bayeaux Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25077] = {id=25077,name="Modani War-Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25081] = {id=25081,name="Bayeaux Shield",source={ID=23282,SourceName="Obsidia",SourceType="Kill",DropChance="0.8",Zone="Blade's Edge Mountains"}}
+items[25077] = {id=25077,name="Modani War-Shield",source={ID=19632,SourceName="Lykul Stinger",SourceType="Kill",DropChance="0.1",Zone="The Underbog"}}
 items[9404] = {id=9404,name="Olaf's All Purpose Shield",source={ID=6908,SourceName="Olaf",SourceType="Kill",DropChance="12.9",Zone="Uldaman"}}
 items[2443] = {id=2443,name="Metal Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[16788] = {id=16788,name="Captain Rackmore's Wheel",source={ID=6161,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[16788] = {id=16788,name="Captain Rackmore's Wheel",source={ID=6161,SourceName="Claim Rackmore's Treasure!",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[2442] = {id=2442,name="Reinforced Targe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[17188] = {id=17188,name="Ringed Buckler",source={ID=793,SourceName="Kara Adams",SourceType="Purchase",DropChance="100",Zone="Redridge Mountains"}}
 items[1193] = {id=1193,name="Banded Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -355,7 +355,7 @@ items[29640] = {id=29640,name="Monster - Shield, Draenei A01 Gold",source={ID=0,
 items[29641] = {id=29641,name="Monster - Shield, Draenei A01 Orange",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34586] = {id=34586,name="Monster - Shield, Shattered Sun D01 Green",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34588] = {id=34588,name="Monster - Shield, Shattered Sun D01 Purple",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33755] = {id=33755,name="Vengeful Gladiator's Shield Wall",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33755] = {id=33755,name="Vengeful Gladiator's Shield Wall",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[17106] = {id=17106,name="Malistar's Defender",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="21.0",Zone="Molten Core"}}
 items[186063] = {id=186063,name="Communal Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[7748] = {id=7748,name="Forcestone Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -376,22 +376,22 @@ items[33789] = {id=33789,name="Monster - Shield, Zul'gurub",source={ID=0,SourceN
 items[34532] = {id=34532,name="Monster - Shield, Shattered Sun Trainee",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34591] = {id=34591,name="Monster - Shield, Shattered Sun D01 White",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33309] = {id=33309,name="Merciless Gladiator's Redoubt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31415] = {id=31415,name="Iron Oak Shield",source={ID=10771,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31415] = {id=31415,name="Iron Oak Shield",source={ID=10771,SourceName="From the Ashes",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[13529] = {id=13529,name="Husk of Nerub'enkan",source={ID=10437,SourceName="Nerub'enkan",SourceType="Kill",DropChance="18.5",Zone="Stratholme"}}
 items[11631] = {id=11631,name="Stoneshell Guard",source={ID=9025,SourceName="Lord Roccor",SourceType="Kill",DropChance="23.2",Zone="Blackrock Depths"}}
 items[7331] = {id=7331,name="Phalanx Shield",source={ID=412,SourceName="Stitches",SourceType="Kill",DropChance="0.1",Zone="Duskwood"}}
-items[4444] = {id=4444,name="Black Husk Shield",source={ID=1112,SourceName="Leech Widow",SourceType="Kill",DropChance="65.5",Zone="Wetlands"}}
-items[1557] = {id=1557,name="Buckler of the Seas",source={ID=104,SourceName="",SourceType="Quest",DropChance="0",Zone="Westfall"}}
+items[4444] = {id=4444,name="Black Husk Shield",source={ID=1112,SourceName="Leech Widow",SourceType="Kill",DropChance="65.6",Zone="Wetlands"}}
+items[1557] = {id=1557,name="Buckler of the Seas",source={ID=104,SourceName="The Coastal Menace",SourceType="Quest",DropChance="0",Zone="Westfall"}}
 items[17185] = {id=17185,name="Round Buckler",source={ID=2135,SourceName="Abe Winters",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[13205] = {id=13205,name="Rhombeard Protector",source={ID=10268,SourceName="Gizrul the Slavener",SourceType="Kill",DropChance="24.8",Zone="Blackrock Spire"}}
 items[7465] = {id=7465,name="Knight's Crest",source={ID=2416,SourceName="Crushridge Plunderer",SourceType="Kill",DropChance="0.1",Zone="Alterac Mountains"}}
-items[5325] = {id=5325,name="Welding Shield",source={ID=902,SourceName="",SourceType="Quest",DropChance="0",Zone="The Barrens"}}
+items[5325] = {id=5325,name="Welding Shield",source={ID=902,SourceName="Samophlange",SourceType="Quest",DropChance="0",Zone="The Barrens"}}
 items[2212] = {id=2212,name="Cracked Buckler",source={ID=6911,SourceName="Minion of Sethir",SourceType="Kill",DropChance="2.2",Zone="Teldrassil"}}
 items[30391] = {id=30391,name="Monster - Shield, Phaseshift Bulwark",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[10365] = {id=10365,name="Emerald Shield",source={ID=11032,SourceName="Malor the Zealous",SourceType="Kill",DropChance="0.2",Zone="Stratholme"}}
 items[3816] = {id=3816,name="Reflective Heater",source={ID=3985,SourceName="Grandpa Vishas",SourceType="Kill",DropChance="1.3",Zone="Alterac Mountains"}}
 items[7188] = {id=7188,name="Stormwind Guard Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25080] = {id=25080,name="Spell-Breaker Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25080] = {id=25080,name="Spell-Breaker Shield",source={ID=20113,SourceName="Lashh'an Matriarch",SourceType="Kill",DropChance="0.1",Zone="Blade's Edge Mountains"}}
 items[14842] = {id=14842,name="Tyrant's Shield",source={ID=4334,SourceName="Firemane Flamecaller",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
 items[4064] = {id=4064,name="Emblazoned Buckler",source={ID=6391,SourceName="Holdout Warrior",SourceType="Kill",DropChance="0.2",Zone="Gnomeregan"}}
 items[31265] = {id=31265,name="(Action Figure) Human Warrior Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}

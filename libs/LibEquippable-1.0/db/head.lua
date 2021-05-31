@@ -14,7 +14,7 @@ items[24266] = {id=24266,name="Spellstrike Hood",source={ID=31455,SourceName="",
 items[8345] = {id=8345,name="Wolfshead Helm",source={ID=10621,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24264] = {id=24264,name="Whitemend Hood",source={ID=31454,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28275] = {id=28275,name="Beast Lord Helm",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
-items[28182] = {id=28182,name="Helm of the Claw",source={ID=9763,SourceName="",SourceType="Quest",DropChance="0",Zone="The Steamvault"}}
+items[28182] = {id=28182,name="Helm of the Claw",source={ID=9763,SourceName="The Warlord's Hideout",SourceType="Quest",DropChance="0",Zone="The Steamvault"}}
 items[32478] = {id=32478,name="Deathblow X11 Goggles",source={ID=41317,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28224] = {id=28224,name="Wastewalker Helm",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="20.8",Zone="Old Hillsbrad Foothills"}}
 items[16451] = {id=16451,name="Field Marshal's Dragonhide Helmet",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -27,7 +27,7 @@ items[16578] = {id=16578,name="Warlord's Mail Helm",source={ID=12792,SourceName=
 items[28625] = {id=28625,name="Grand Marshal's Dreadweave Hood",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16441] = {id=16441,name="Field Marshal's Coronet",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[32473] = {id=32473,name="Tankatronic Goggles",source={ID=41312,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28180] = {id=28180,name="Myrmidon's Headdress",source={ID=9763,SourceName="",SourceType="Quest",DropChance="0",Zone="The Steamvault"}}
+items[28180] = {id=28180,name="Myrmidon's Headdress",source={ID=9763,SourceName="The Warlord's Hideout",SourceType="Quest",DropChance="0",Zone="The Steamvault"}}
 items[28775] = {id=28775,name="Thundering Greathelm",source={ID=17257,SourceName="Magtheridon",SourceType="Kill",DropChance="12.1",Zone="Magtheridon's Lair"}}
 items[16465] = {id=16465,name="Field Marshal's Chain Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[15086] = {id=15086,name="Wicked Leather Headband",source={ID=19071,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -44,10 +44,10 @@ items[23519] = {id=23519,name="Felsteel Helm",source={ID=29621,SourceName="",Sou
 items[34353] = {id=34353,name="Quad Deathblow X44 Goggles",source={ID=46116,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16550] = {id=16550,name="Warlord's Dragonhide Helmet",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28837] = {id=28837,name="High Warlord's Leather Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32087] = {id=32087,name="Mask of the Deceiver",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32087] = {id=32087,name="Mask of the Deceiver",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[29616] = {id=29616,name="Warlord's Lamellar Faceguard",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
-items[29044] = {id=29044,name="Netherblade Facemask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29098] = {id=29098,name="Stag-Helm of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29044] = {id=29044,name="Netherblade Facemask",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29098] = {id=29098,name="Stag-Helm of Malorne",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[23536] = {id=23536,name="Oathkeeper's Helm",source={ID=29668,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28415] = {id=28415,name="Hood of Oblivion",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="14.8",Zone="The Arcatraz"}}
 items[8176] = {id=8176,name="Nightscape Headband",source={ID=10507,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -56,43 +56,43 @@ items[20969] = {id=20969,name="Ruby Crown of Restoration",source={ID=26878,Sourc
 items[28744] = {id=28744,name="Uni-Mind Headdress",source={ID=15689,SourceName="Netherspite",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
 items[21774] = {id=21774,name="Emerald Crown of Destruction",source={ID=26906,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[17602] = {id=17602,name="Field Marshal's Headdress",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[22438] = {id=22438,name="Cryptstalker Headpiece",source={ID=9056,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[29021] = {id=29021,name="Warbringer Battle-Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22438] = {id=22438,name="Cryptstalker Headpiece",source={ID=9056,SourceName="Cryptstalker Headpiece",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[29021] = {id=29021,name="Warbringer Battle-Helm",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[10008] = {id=10008,name="White Bandit Mask",source={ID=12059,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32083] = {id=32083,name="Faceguard of Determination",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32083] = {id=32083,name="Faceguard of Determination",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[32494] = {id=32494,name="Destruction Holo-gogs",source={ID=41320,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29081] = {id=29081,name="Demon Stalker Greathelm",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[23255] = {id=23255,name="Champion's Dreadweave Cowl",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29058] = {id=29058,name="Soul-Collar of the Incarnate",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[28963] = {id=28963,name="Voidheart Crown",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[29011] = {id=29011,name="Warbringer Greathelm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29011] = {id=29011,name="Warbringer Greathelm",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[16455] = {id=16455,name="Field Marshal's Leather Mask",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[29076] = {id=29076,name="Collar of the Aldor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25830] = {id=25830,name="Gladiator's Leather Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29076] = {id=29076,name="Collar of the Aldor",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[25830] = {id=25830,name="Gladiator's Leather Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[23308] = {id=23308,name="Lieutenant Commander's Dragonhide Headguard",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[31590] = {id=31590,name="Grand Marshal's Kodohide Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[29028] = {id=29028,name="Cyclone Headdress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29028] = {id=29028,name="Cyclone Headdress",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[28818] = {id=28818,name="High Warlord's Dreadweave Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[12640] = {id=12640,name="Lionheart Helm",source={ID=16729,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32461] = {id=32461,name="Furious Gizmatic Goggles",source={ID=40274,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28127] = {id=28127,name="Gladiator's Dragonhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31376] = {id=31376,name="Gladiator's Kodohide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29035] = {id=29035,name="Cyclone Faceguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29068] = {id=29068,name="Justicar Faceguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28127] = {id=28127,name="Gladiator's Dragonhide Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[31376] = {id=31376,name="Gladiator's Kodohide Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29035] = {id=29035,name="Cyclone Faceguard",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[29068] = {id=29068,name="Justicar Faceguard",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[23318] = {id=23318,name="Lieutenant Commander's Silk Cowl",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28685] = {id=28685,name="Grand Marshal's Leather Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[31622] = {id=31622,name="Grand Marshal's Mooncloth Cowl",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[21387] = {id=21387,name="Avenger's Crown",source={ID=8628,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21387] = {id=21387,name="Avenger's Crown",source={ID=8628,SourceName="Avenger's Crown",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[28278] = {id=28278,name="Incanter's Cowl",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
 items[28593] = {id=28593,name="Eternium Greathelm",source={ID=17521,SourceName="The Big Bad Wolf",SourceType="Kill",DropChance="11.6",Zone="Karazhan"}}
-items[29086] = {id=29086,name="Crown of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28756] = {id=28756,name="Headdress of the High Potentate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29086] = {id=29086,name="Crown of Malorne",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28756] = {id=28756,name="Headdress of the High Potentate",source={ID=16816,SourceName="Echo of Medivh",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[28853] = {id=28853,name="High Warlord's Plate Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[29502] = {id=29502,name="Cobrascale Hood",source={ID=35558,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27414] = {id=27414,name="Mok'Nathal Beast-Mask",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="42.8",Zone="Auchenai Crypts"}}
 items[9375] = {id=9375,name="Expert Goldminer's Helmet",source={ID=7057,SourceName="Digmaster Shovelphlange",SourceType="Kill",DropChance="11.2",Zone="Unknown"}}
 items[28715] = {id=28715,name="Grand Marshal's Silk Cowl",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[24545] = {id=24545,name="Gladiator's Plate Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24545] = {id=24545,name="Gladiator's Plate Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[28586] = {id=28586,name="Wicked Witch's Hat",source={ID=18168,SourceName="The Crone",SourceType="Kill",DropChance="25.0",Zone="Karazhan"}}
 items[28348] = {id=28348,name="Moonglade Cowl",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
 items[16566] = {id=16566,name="Warlord's Chain Helmet",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -100,117 +100,117 @@ items[23261] = {id=23261,name="Champion's Satin Hood",source={ID=12792,SourceNam
 items[28615] = {id=28615,name="Grand Marshal's Chain Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16478] = {id=16478,name="Field Marshal's Plate Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28619] = {id=28619,name="Grand Marshal's Dragonhide Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[35367] = {id=35367,name="Opportunist's Leather Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35367] = {id=35367,name="Opportunist's Leather Helm",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[32235] = {id=32235,name="Cursed Vision of Sargeras",source={ID=22917,SourceName="Illidan Stormrage",SourceType="Kill",DropChance="37.4",Zone="Black Temple"}}
 items[28583] = {id=28583,name="Big Bad Wolf's Head",source={ID=17521,SourceName="The Big Bad Wolf",SourceType="Kill",DropChance="42.8",Zone="Karazhan"}}
-items[21455] = {id=21455,name="Southwind Helm",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="37.1",Zone="Ruins of Ahn'Qiraj"}}
+items[21455] = {id=21455,name="Southwind Helm",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="37.0",Zone="Ruins of Ahn'Qiraj"}}
 items[10024] = {id=10024,name="Black Mageweave Headband",source={ID=12072,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[29061] = {id=29061,name="Justicar Diadem",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25855] = {id=25855,name="Gladiator's Silk Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29073] = {id=29073,name="Justicar Crown",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29061] = {id=29061,name="Justicar Diadem",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[25855] = {id=25855,name="Gladiator's Silk Cowl",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29073] = {id=29073,name="Justicar Crown",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[28671] = {id=28671,name="Steelspine Faceguard",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
-items[25820] = {id=25820,name="Metallic Headband of Simm'onz",source={ID=10011,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25820] = {id=25820,name="Metallic Headband of Simm'onz",source={ID=10011,SourceName="Forge Camp: Annihilated",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[30728] = {id=30728,name="Fathom-Helm of the Deeps",source={ID=17711,SourceName="Doomwalker",SourceType="Kill",DropChance="19.5",Zone="Unknown"}}
 items[30731] = {id=30731,name="Faceguard of the Endless Watch",source={ID=17711,SourceName="Doomwalker",SourceType="Kill",DropChance="12.6",Zone="Unknown"}}
-items[22418] = {id=22418,name="Dreadnaught Helmet",source={ID=9037,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22418] = {id=22418,name="Dreadnaught Helmet",source={ID=9037,SourceName="Dreadnaught Helmet",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[29604] = {id=29604,name="Champion's Lamellar Headguard",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
-items[31410] = {id=31410,name="Gladiator's Mooncloth Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22428] = {id=22428,name="Redemption Headpiece",source={ID=9045,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[31410] = {id=31410,name="Gladiator's Mooncloth Hood",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[22428] = {id=22428,name="Redemption Headpiece",source={ID=9045,SourceName="Redemption Headpiece",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[7719] = {id=7719,name="Raging Berserker's Helm",source={ID=3975,SourceName="Herod",SourceType="Kill",DropChance="32.5",Zone="Scarlet Monastery"}}
 items[27520] = {id=27520,name="Greathelm of the Unbreakable",source={ID=16807,SourceName="Grand Warlock Nethekurse",SourceType="Kill",DropChance="20.0",Zone="The Shattered Halls"}}
-items[28331] = {id=28331,name="Gladiator's Chain Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28331] = {id=28331,name="Gladiator's Chain Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29508] = {id=29508,name="Living Dragonscale Helm",source={ID=35564,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31330] = {id=31330,name="Lightning Crown",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22506] = {id=22506,name="Plagueheart Circlet",source={ID=9105,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[30187] = {id=30187,name="Gladiator's Felweave Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31330] = {id=31330,name="Lightning Crown",source={ID=15548,SourceName="Spectral Stallion",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
+items[22506] = {id=22506,name="Plagueheart Circlet",source={ID=9105,SourceName="Plagueheart Circlet",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[30187] = {id=30187,name="Gladiator's Felweave Cowl",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32474] = {id=32474,name="Surestrike Goggles v2.0",source={ID=41314,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32090] = {id=32090,name="Cowl of Naaru Blessings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[6686] = {id=6686,name="Tusken Helm",source={ID=4420,SourceName="Overlord Ramtusk",SourceType="Kill",DropChance="62.3",Zone="Razorfen Kraul"}}
-items[22466] = {id=22466,name="Earthshatter Headpiece",source={ID=9070,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[29040] = {id=29040,name="Cyclone Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32090] = {id=32090,name="Cowl of Naaru Blessings",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[6686] = {id=6686,name="Tusken Helm",source={ID=4420,SourceName="Overlord Ramtusk",SourceType="Kill",DropChance="62.4",Zone="Razorfen Kraul"}}
+items[22466] = {id=22466,name="Earthshatter Headpiece",source={ID=9070,SourceName="Earthshatter Headpiece",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[29040] = {id=29040,name="Cyclone Helm",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[17578] = {id=17578,name="Field Marshal's Coronal",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[24553] = {id=24553,name="Gladiator's Dreadweave Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24553] = {id=24553,name="Gladiator's Dreadweave Hood",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29610] = {id=29610,name="Field Marshal's Mail Helm",source={ID=12785,SourceName="Sergeant Major Clate",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[32084] = {id=32084,name="Helmet of the Steadfast Champion",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32084] = {id=32084,name="Helmet of the Steadfast Champion",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[12620] = {id=12620,name="Enchanted Thorium Helm",source={ID=16742,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16561] = {id=16561,name="Warlord's Leather Helm",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28857] = {id=28857,name="High Warlord's Satin Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[31626] = {id=31626,name="High Warlord's Mooncloth Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[20623] = {id=20623,name="Circlet of Restless Dreams",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="11.8",Zone="Duskwood"}}
-items[22514] = {id=22514,name="Circlet of Faith",source={ID=9113,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[20623] = {id=20623,name="Circlet of Restless Dreams",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="11.7",Zone="Duskwood"}}
+items[22514] = {id=22514,name="Circlet of Faith",source={ID=9113,SourceName="Circlet of Faith",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[28705] = {id=28705,name="Grand Marshal's Satin Hood",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28867] = {id=28867,name="High Warlord's Silk Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16542] = {id=16542,name="Warlord's Plate Headpiece",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[7691] = {id=7691,name="Embalmed Shroud",source={ID=6488,SourceName="Fallen Champion",SourceType="Kill",DropChance="38.7",Zone="Scarlet Monastery"}}
-items[22478] = {id=22478,name="Bonescythe Helmet",source={ID=9079,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[30125] = {id=30125,name="Crystalforge Faceguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7691] = {id=7691,name="Embalmed Shroud",source={ID=6488,SourceName="Fallen Champion",SourceType="Kill",DropChance="38.8",Zone="Scarlet Monastery"}}
+items[22478] = {id=22478,name="Bonescythe Helmet",source={ID=9079,SourceName="Bonescythe Helmet",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[30125] = {id=30125,name="Crystalforge Faceguard",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[16533] = {id=16533,name="Warlord's Silk Cowl",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28711] = {id=28711,name="Grand Marshal's Scaled Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28350] = {id=28350,name="Warhelm of the Bold",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
 items[23259] = {id=23259,name="Champion's Mail Headguard",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[20832] = {id=20832,name="Moonsoul Crown",source={ID=25321,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28193] = {id=28193,name="Mana-Etched Crown",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="0",Zone="The Black Morass"}}
-items[22498] = {id=22498,name="Frostfire Circlet",source={ID=9097,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22498] = {id=22498,name="Frostfire Circlet",source={ID=9097,SourceName="Frostfire Circlet",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[27759] = {id=27759,name="Headdress of the Tides",source={ID=18105,SourceName="Ghaz'an",SourceType="Kill",DropChance="12.5",Zone="The Underbog"}}
 items[9429] = {id=9429,name="Miner's Hat of the Deep",source={ID=4853,SourceName="Stonevault Geomancer",SourceType="Kill",DropChance="0",Zone="Uldaman"}}
-items[35329] = {id=35329,name="Dreadweave Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35329] = {id=35329,name="Dreadweave Hood",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[27790] = {id=27790,name="Mask of Penance",source={ID=17796,SourceName="Mekgineer Steamrigger",SourceType="Kill",DropChance="0",Zone="The Steamvault"}}
-items[21347] = {id=21347,name="Enigma Circlet",source={ID=8632,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21347] = {id=21347,name="Enigma Circlet",source={ID=8632,SourceName="Enigma Circlet",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[12952] = {id=12952,name="Gyth's Skull",source={ID=10339,SourceName="Gyth",SourceType="Kill",DropChance="18.0",Zone="Blackrock Spire"}}
 items[29174] = {id=29174,name="Watcher's Cowl",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[32476] = {id=32476,name="Gadgetstorm Goggles",source={ID=41315,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[27704] = {id=27704,name="Gladiator's Lamellar Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27704] = {id=27704,name="Gladiator's Lamellar Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[24267] = {id=24267,name="Battlecast Hood",source={ID=31456,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20408] = {id=20408,name="Twilight Cultist Cowl",source={ID=11882,SourceName="Twilight Stonecaller",SourceType="Kill",DropChance="6.4",Zone="Silithus"}}
 items[10763] = {id=10763,name="Icemetal Barbute",source={ID=7358,SourceName="Amnennar the Coldbringer",SourceType="Kill",DropChance="37.0",Zone="Razorfen Downs"}}
 items[32475] = {id=32475,name="Living Replicator Specs",source={ID=41316,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[12633] = {id=12633,name="Whitesoul Helm",source={ID=16724,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[10751] = {id=10751,name="Gemburst Circlet",source={ID=3528,SourceName="",SourceType="Quest",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
-items[17740] = {id=17740,name="Soothsayer's Headdress",source={ID=12225,SourceName="Celebras the Cursed",SourceType="Kill",DropChance="30.3",Zone="Maraudon"}}
+items[10751] = {id=10751,name="Gemburst Circlet",source={ID=3528,SourceName="The God Hakkar",SourceType="Quest",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
+items[17740] = {id=17740,name="Soothsayer's Headdress",source={ID=12225,SourceName="Celebras the Cursed",SourceType="Kill",DropChance="30.4",Zone="Maraudon"}}
 items[4724] = {id=4724,name="Humbert's Helm",source={ID=2345,SourceName="Dun Garok Rifleman",SourceType="Kill",DropChance="3.9",Zone="Hillsbrad Foothills"}}
 items[27408] = {id=27408,name="Hope Bearer Helm",source={ID=18371,SourceName="Shirrak the Dead Watcher",SourceType="Kill",DropChance="25.0",Zone="Auchenai Crypts"}}
-items[30206] = {id=30206,name="Cowl of Tirisfal",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35344] = {id=35344,name="Evoker's Silk Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30206] = {id=30206,name="Cowl of Tirisfal",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35344] = {id=35344,name="Evoker's Silk Cowl",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[16955] = {id=16955,name="Judgement Crown",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="16.7",Zone="Unknown"}}
 items[22757] = {id=22757,name="Sylvan Crown",source={ID=28481,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30146] = {id=30146,name="Deathmantle Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30146] = {id=30146,name="Deathmantle Helm",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[9470] = {id=9470,name="Bad Mojo Mask",source={ID=7275,SourceName="Shadowpriest Sezz'ziz",SourceType="Kill",DropChance="23.0",Zone="Zul'Farrak"}}
 items[8214] = {id=8214,name="Wild Leather Helmet",source={ID=10546,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[34357] = {id=34357,name="Hard Khorium Goggles",source={ID=46115,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[23314] = {id=23314,name="Lieutenant Commander's Plate Helmet",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[22689] = {id=22689,name="Sanctified Leather Helm",source={ID=9221,SourceName="",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
-items[29093] = {id=29093,name="Antlers of Malorne",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22689] = {id=22689,name="Sanctified Leather Helm",source={ID=9221,SourceName="Superior Armaments of Battle - Friend of the Dawn",SourceType="Quest",DropChance="0",Zone="Eastern Plaguelands"}}
+items[29093] = {id=29093,name="Antlers of Malorne",source={ID=20613,SourceName="Arodis Sunblade",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[29122] = {id=29122,name="Nether Runner's Cowl",source={ID=20242,SourceName="Karaaz",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[17623] = {id=17623,name="Warlord's Satin Cowl",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[23310] = {id=23310,name="Lieutenant Commander's Dreadweave Cowl",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[13866] = {id=13866,name="Runecloth Headband",source={ID=18444,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19984] = {id=19984,name="Ebon Mask",source={ID=8236,SourceName="",SourceType="Quest",DropChance="0",Zone="Rogue"}}
+items[19984] = {id=19984,name="Ebon Mask",source={ID=8236,SourceName="The Azure Key",SourceType="Quest",DropChance="0",Zone="Rogue"}}
 items[10025] = {id=10025,name="Shadoweave Mask",source={ID=12086,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32525] = {id=32525,name="Cowl of the Illidari High Lord",source={ID=22917,SourceName="Illidan Stormrage",SourceType="Kill",DropChance="37.4",Zone="Black Temple"}}
-items[22267] = {id=22267,name="Spellweaver's Turban",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="24.0",Zone="Blackrock Spire"}}
+items[22267] = {id=22267,name="Spellweaver's Turban",source={ID=10363,SourceName="General Drakkisath",SourceType="Kill",DropChance="23.9",Zone="Blackrock Spire"}}
 items[34244] = {id=34244,name="Duplicitous Guise",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
 items[34333] = {id=34333,name="Coif of Alleria",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
-items[20521] = {id=20521,name="Fury Visor",source={ID=8425,SourceName="",SourceType="Quest",DropChance="0",Zone="Warrior"}}
+items[20521] = {id=20521,name="Fury Visor",source={ID=8425,SourceName="Voodoo Feathers",SourceType="Quest",DropChance="0",Zone="Warrior"}}
 items[9492] = {id=9492,name="Electromagnetic Gigaflux Reactivator",source={ID=7800,SourceName="Mekgineer Thermaplugg",SourceType="Kill",DropChance="9.6",Zone="Gnomeregan"}}
-items[30141] = {id=30141,name="Rift Stalker Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27881] = {id=27881,name="Gladiator's Scaled Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30141] = {id=30141,name="Rift Stalker Helm",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[27881] = {id=27881,name="Gladiator's Scaled Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[21460] = {id=21460,name="Helm of Domination",source={ID=15339,SourceName="Ossirian the Unscarred",SourceType="Kill",DropChance="26.7",Zone="Ruins of Ahn'Qiraj"}}
 items[21803] = {id=21803,name="Helm of the Holy Avenger",source={ID=15389,SourceName="Captain Drenn",SourceType="Kill",DropChance="0.1",Zone="Ruins of Ahn'Qiraj"}}
 items[2955] = {id=2955,name="First Mate Hat",source={ID=2545,SourceName="\"Pretty Boy\" Duncan",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
 items[32479] = {id=32479,name="Wonderheal XT40 Shades",source={ID=41318,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28691] = {id=28691,name="Grand Marshal's Linked Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[31585] = {id=31585,name="High Warlord's Kodohide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[10749] = {id=10749,name="Avenguard Helm",source={ID=3528,SourceName="",SourceType="Quest",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
-items[6688] = {id=6688,name="Whisperwind Headdress",source={ID=4842,SourceName="Earthcaller Halmgar",SourceType="Kill",DropChance="45.6",Zone="Razorfen Kraul"}}
-items[18421] = {id=18421,name="Backwood Helm",source={ID=7462,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
-items[7720] = {id=7720,name="Whitemane's Chapeau",source={ID=3977,SourceName="High Inquisitor Whitemane",SourceType="Kill",DropChance="37.3",Zone="Scarlet Monastery"}}
-items[35409] = {id=35409,name="Savage Plate Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10749] = {id=10749,name="Avenguard Helm",source={ID=3528,SourceName="The God Hakkar",SourceType="Quest",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
+items[6688] = {id=6688,name="Whisperwind Headdress",source={ID=4842,SourceName="Earthcaller Halmgar",SourceType="Kill",DropChance="45.5",Zone="Razorfen Kraul"}}
+items[18421] = {id=18421,name="Backwood Helm",source={ID=7462,SourceName="The Treasure of the Shen'dralar",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[7720] = {id=7720,name="Whitemane's Chapeau",source={ID=3977,SourceName="High Inquisitor Whitemane",SourceType="Kill",DropChance="37.4",Zone="Scarlet Monastery"}}
+items[35409] = {id=35409,name="Savage Plate Helm",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[19375] = {id=19375,name="Mish'undare, Circlet of the Mind Flayer",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="28.8",Zone="Blackwing Lair"}}
 items[23035] = {id=23035,name="Preceptor's Hat",source={ID=15936,SourceName="Heigan the Unclean",SourceType="Kill",DropChance="35.9",Zone="Naxxramas"}}
 items[34354] = {id=34354,name="Mayhem Projection Goggles",source={ID=46114,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[35333] = {id=35333,name="Mooncloth Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35333] = {id=35333,name="Mooncloth Cowl",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[25680] = {id=25680,name="Stylin' Purple Hat",source={ID=32485,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[11746] = {id=11746,name="Golem Skull Helm",source={ID=9938,SourceName="Magmus",SourceType="Kill",DropChance="23.1",Zone="Blackrock Depths"}}
+items[11746] = {id=11746,name="Golem Skull Helm",source={ID=9938,SourceName="Magmus",SourceType="Kill",DropChance="22.9",Zone="Blackrock Depths"}}
 items[7931] = {id=7931,name="Mithril Coif",source={ID=9961,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28225] = {id=28225,name="Doomplate Warhelm",source={ID=18096,SourceName="Epoch Hunter",SourceType="Kill",DropChance="19.1",Zone="Old Hillsbrad Foothills"}}
 items[28681] = {id=28681,name="Grand Marshal's Lamellar Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -220,35 +220,35 @@ items[28192] = {id=28192,name="Helm of Desolation",source={ID=17881,SourceName="
 items[28414] = {id=28414,name="Helm of Assassination",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="20.0",Zone="The Arcatraz"}}
 items[28807] = {id=28807,name="High Warlord's Chain Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23312] = {id=23312,name="Lieutenant Commander's Leather Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[13404] = {id=13404,name="Mask of the Unforgiven",source={ID=10516,SourceName="The Unforgiven",SourceType="Kill",DropChance="19.0",Zone="Stratholme"}}
+items[13404] = {id=13404,name="Mask of the Unforgiven",source={ID=10516,SourceName="The Unforgiven",SourceType="Kill",DropChance="19.4",Zone="Stratholme"}}
 items[34345] = {id=34345,name="Crown of Anasterian",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
 items[29986] = {id=29986,name="Cowl of the Grand Engineer",source={ID=19516,SourceName="Void Reaver",SourceType="Kill",DropChance="3.4",Zone="Tempest Keep"}}
 items[32472] = {id=32472,name="Justicebringer 2000 Specs",source={ID=41311,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[35478] = {id=35478,name="Savage Plate Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30016] = {id=30016,name="X-52 Technician's Helm",source={ID=10249,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[21372] = {id=21372,name="Stormcaller's Diadem",source={ID=8623,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[21693] = {id=21693,name="Guise of the Devourer",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="22.4",Zone="Ahn'Qiraj"}}
+items[35478] = {id=35478,name="Savage Plate Helm",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[30016] = {id=30016,name="X-52 Technician's Helm",source={ID=10249,SourceName="Back to the Chief!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[21372] = {id=21372,name="Stormcaller's Diadem",source={ID=8623,SourceName="Stormcaller's Diadem",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21693] = {id=21693,name="Guise of the Devourer",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="22.3",Zone="Ahn'Qiraj"}}
 items[12427] = {id=12427,name="Imperial Plate Helm",source={ID=16658,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27415] = {id=27415,name="Darkguard Face Mask",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="14.2",Zone="Auchenai Crypts"}}
-items[38276] = {id=38276,name="Haliscan Brimmed Hat",source={ID=12513,SourceName="",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
-items[18546] = {id=18546,name="Infernal Headcage",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="21.8",Zone="Searing Gorge"}}
+items[38276] = {id=38276,name="Haliscan Brimmed Hat",source={ID=12513,SourceName="Nice Hat...",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
+items[18546] = {id=18546,name="Infernal Headcage",source={ID=12397,SourceName="Lord Kazzak",SourceType="Kill",DropChance="20.9",Zone="Blasted Lands"}}
 items[21780] = {id=21780,name="Blood Crown",source={ID=26920,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32495] = {id=32495,name="Powerheal 4000 Lens",source={ID=41321,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28137] = {id=28137,name="Gladiator's Wyrmhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28183] = {id=28183,name="Hydromancer's Headwrap",source={ID=9763,SourceName="",SourceType="Quest",DropChance="0",Zone="The Steamvault"}}
-items[21337] = {id=21337,name="Doomcaller's Circlet",source={ID=8662,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[17767] = {id=17767,name="Bloomsprout Headpiece",source={ID=12237,SourceName="Meshlok the Harvester",SourceType="Kill",DropChance="29.5",Zone="Maraudon"}}
+items[28137] = {id=28137,name="Gladiator's Wyrmhide Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[28183] = {id=28183,name="Hydromancer's Headwrap",source={ID=9763,SourceName="The Warlord's Hideout",SourceType="Quest",DropChance="0",Zone="The Steamvault"}}
+items[21337] = {id=21337,name="Doomcaller's Circlet",source={ID=8662,SourceName="Doomcaller's Circlet",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[17767] = {id=17767,name="Bloomsprout Headpiece",source={ID=12237,SourceName="Meshlok the Harvester",SourceType="Kill",DropChance="29.6",Zone="Maraudon"}}
 items[34847] = {id=34847,name="Annihilator Holo-Gogs",source={ID=46111,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19148] = {id=19148,name="Dark Iron Helm",source={ID=23636,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[35378] = {id=35378,name="Stalker's Chain Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35378] = {id=35378,name="Stalker's Chain Helm",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[23253] = {id=23253,name="Champion's Dragonhide Headguard",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[186086] = {id=186086,name="Communal Faceguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30212] = {id=30212,name="Hood of the Corruptor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[21360] = {id=21360,name="Deathdealer's Helm",source={ID=8639,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[19886] = {id=19886,name="The Hexxer's Cover",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="16.4",Zone="Zul'Gurub"}}
-items[31658] = {id=31658,name="Scout's Hood",source={ID=10096,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[30212] = {id=30212,name="Hood of the Corruptor",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[21360] = {id=21360,name="Deathdealer's Helm",source={ID=8639,SourceName="Deathdealer's Helm",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[19886] = {id=19886,name="The Hexxer's Cover",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="16.5",Zone="Zul'Gurub"}}
+items[31658] = {id=31658,name="Scout's Hood",source={ID=10096,SourceName="Saving the Sporeloks",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[21615] = {id=21615,name="Don Rigoberto's Lost Hat",source={ID=15517,SourceName="Ouro",SourceType="Kill",DropChance="24.5",Zone="Ahn'Qiraj"}}
-items[31333] = {id=31333,name="The Night Watchman",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31333] = {id=31333,name="The Night Watchman",source={ID=17906,SourceName="Gargoyle",SourceType="Kill",DropChance="0",Zone="Hyjal Summit"}}
 items[18727] = {id=18727,name="Crimson Felt Hat",source={ID=10435,SourceName="Magistrate Barthilas",SourceType="Kill",DropChance="15.1",Zone="Stratholme"}}
 items[14111] = {id=14111,name="Felcloth Hood",source={ID=18442,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[8348] = {id=8348,name="Helm of Fire",source={ID=10632,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -256,34 +256,34 @@ items[34340] = {id=34340,name="Dark Conjuror's Collar",source={ID=25315,SourceNa
 items[23521] = {id=23521,name="Ragesteel Helm",source={ID=29643,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31632] = {id=31632,name="Grand Marshal's Ornamented Headguard",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[31281] = {id=31281,name="Mask of Veiled Death",source={ID=18493,SourceName="Auchenai Soulpriest",SourceType="Kill",DropChance="16.6",Zone="Auchenai Crypts"}}
-items[22490] = {id=22490,name="Dreamwalker Headpiece",source={ID=9088,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22490] = {id=22490,name="Dreamwalker Headpiece",source={ID=9088,SourceName="Dreamwalker Headpiece",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[31642] = {id=31642,name="Grand Marshal's Ringmail Headpiece",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[21329] = {id=21329,name="Conqueror's Crown",source={ID=8561,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[21366] = {id=21366,name="Striker's Diadem",source={ID=8657,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21329] = {id=21329,name="Conqueror's Crown",source={ID=8561,SourceName="Conqueror's Crown",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21366] = {id=21366,name="Striker's Diadem",source={ID=8657,SourceName="Striker's Diadem",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[19132] = {id=19132,name="Crystal Adorned Crown",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="18.1",Zone="Azshara"}}
 items[11925] = {id=11925,name="Ghostshroud",source={ID=9035,SourceName="Anger'rel",SourceType="Kill",DropChance="25.0",Zone="Blackrock Depths"}}
 items[7937] = {id=7937,name="Ornate Mithril Helm",source={ID=9980,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[3836] = {id=3836,name="Green Iron Helm",source={ID=3502,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28720] = {id=28720,name="Grand Marshal's Wyrmhide Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28812] = {id=28812,name="High Warlord's Dragonhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29332] = {id=29332,name="Terokk's Mask",source={ID=10098,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[29332] = {id=29332,name="Terokk's Mask",source={ID=10098,SourceName="Terokk's Legacy",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[34356] = {id=34356,name="Surestrike Goggles v3.0",source={ID=46113,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31999] = {id=31999,name="Merciless Gladiator's Leather Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31999] = {id=31999,name="Merciless Gladiator's Leather Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[28843] = {id=28843,name="High Warlord's Linked Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3075] = {id=3075,name="Eye of Flame",source={ID=9044,SourceName="Scarshield Sentry",SourceType="Kill",DropChance="0.2",Zone="Unknown"}}
 items[16707] = {id=16707,name="Shadowcraft Cap",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="11.1",Zone="Scholomance"}}
 items[11808] = {id=11808,name="Circle of Flame",source={ID=9156,SourceName="Ambassador Flamelash",SourceType="Kill",DropChance="0.3",Zone="Blackrock Depths"}}
-items[11124] = {id=11124,name="Helm of Exile",source={ID=1446,SourceName="",SourceType="Quest",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
-items[34404] = {id=34404,name="Mask of the Fury Hunter",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11124] = {id=11124,name="Helm of Exile",source={ID=1446,SourceName="Jammal'an the Prophet",SourceType="Quest",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
+items[34404] = {id=34404,name="Mask of the Fury Hunter",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29990] = {id=29990,name="Crown of the Sun",source={ID=19622,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="24.6",Zone="Tempest Keep"}}
-items[30515] = {id=30515,name="Junior Technician 3rd Grade Goggles",source={ID=10186,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30515] = {id=30515,name="Junior Technician 3rd Grade Goggles",source={ID=10186,SourceName="You're Hired!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[28760] = {id=28760,name="Exorcist's Silk Hood",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
-items[21348] = {id=21348,name="Tiara of the Oracle",source={ID=8592,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21348] = {id=21348,name="Tiara of the Oracle",source={ID=8592,SourceName="Tiara of the Oracle",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[7050] = {id=7050,name="Silk Headband",source={ID=8762,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31051] = {id=31051,name="Hood of the Malefic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31051] = {id=31051,name="Hood of the Malefic",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
 items[27938] = {id=27938,name="Savage Mask of the Lynx Lord",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
 items[28349] = {id=28349,name="Tidefury Helm",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.0",Zone="The Botanica"}}
-items[29136] = {id=29136,name="Far Seer's Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29136] = {id=29136,name="Far Seer's Helm",source={ID=20240,SourceName="Trader Narasu",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[23257] = {id=23257,name="Champion's Leather Helm",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[23263] = {id=23263,name="Champion's Silk Cowl",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16727] = {id=16727,name="Lightforge Helm",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="6.2",Zone="Scholomance"}}
@@ -293,58 +293,58 @@ items[9479] = {id=9479,name="Embrace of the Lycan",source={ID=7267,SourceName="C
 items[2721] = {id=2721,name="Holy Shroud",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
 items[35181] = {id=35181,name="Powerheal 9000 Lens",source={ID=46108,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27455] = {id=27455,name="Irondrake Faceguard",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="0",Zone="Hellfire Ramparts"}}
-items[35339] = {id=35339,name="Satin Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35339] = {id=35339,name="Satin Hood",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[29505] = {id=29505,name="Hood of Primal Life",source={ID=35561,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28759] = {id=28759,name="Exorcist's Dreadweave Hood",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
 items[16808] = {id=16808,name="Felheart Horns",source={ID=12057,SourceName="Garr",SourceType="Kill",DropChance="24.6",Zone="Molten Core"}}
 items[15094] = {id=15094,name="Runic Leather Headband",source={ID=19082,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[34243] = {id=34243,name="Helm of Burning Righteousness",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
-items[32085] = {id=32085,name="Warpstalker Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32085] = {id=32085,name="Warpstalker Helm",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[13359] = {id=13359,name="Crown of Tyranny",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="17.3",Zone="Stratholme"}}
 items[9394] = {id=9394,name="Horned Viking Helmet",source={ID=6907,SourceName="Eric \"The Swift\"",SourceType="Kill",DropChance="8.0",Zone="Uldaman"}}
 items[13127] = {id=13127,name="Frostreaver Crown",source={ID=507,SourceName="Fenros",SourceType="Kill",DropChance="0.3",Zone="Duskwood"}}
 items[34332] = {id=34332,name="Cowl of Gul'dan",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
 items[28696] = {id=28696,name="Grand Marshal's Mail Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[35383] = {id=35383,name="Seer's Linked Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30297] = {id=30297,name="Circlet of the Starcaller",source={ID=10439,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[35383] = {id=35383,name="Seer's Linked Helm",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[30297] = {id=30297,name="Circlet of the Starcaller",source={ID=10439,SourceName="Dimensius the All-Devouring",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[28561] = {id=28561,name="Exorcist's Leather Helm",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
 items[28758] = {id=28758,name="Exorcist's Mail Helm",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
-items[11729] = {id=11729,name="Savage Gladiator Helm",source={ID=9032,SourceName="Hedrum the Creeper",SourceType="Kill",DropChance="13.8",Zone="Blackrock Depths"}}
+items[11729] = {id=11729,name="Savage Gladiator Helm",source={ID=9032,SourceName="Hedrum the Creeper",SourceType="Kill",DropChance="13.7",Zone="Blackrock Depths"}}
 items[34245] = {id=34245,name="Cover of Ursol the Wise",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
-items[30152] = {id=30152,name="Cowl of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30152] = {id=30152,name="Cowl of the Avatar",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31371] = {id=31371,name="Iceguard Helm",source={ID=38479,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[22718] = {id=22718,name="Blooddrenched Mask",source={ID=14515,SourceName="High Priestess Arlokk",SourceType="Kill",DropChance="9.6",Zone="Zul'Gurub"}}
 items[16698] = {id=16698,name="Dreadmist Mask",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="11.5",Zone="Scholomance"}}
-items[9534] = {id=9534,name="Engineer's Guild Headpiece",source={ID=2768,SourceName="",SourceType="Quest",DropChance="0",Zone="Zul'Farrak"}}
-items[34401] = {id=34401,name="Helm of Uther's Resolve",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30120] = {id=30120,name="Destroyer Battle-Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31400] = {id=31400,name="Gladiator's Ringmail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29135] = {id=29135,name="Earthcaller's Headdress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9534] = {id=9534,name="Engineer's Guild Headpiece",source={ID=2768,SourceName="Divino-matic Rod",SourceType="Quest",DropChance="0",Zone="Zul'Farrak"}}
+items[34401] = {id=34401,name="Helm of Uther's Resolve",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30120] = {id=30120,name="Destroyer Battle-Helm",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[31400] = {id=31400,name="Gladiator's Ringmail Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29135] = {id=29135,name="Earthcaller's Headdress",source={ID=20241,SourceName="Provisioner Nasela",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[31648] = {id=31648,name="High Warlord's Ringmail Headpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[28559] = {id=28559,name="Exorcist's Plate Helm",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
 items[16921] = {id=16921,name="Halo of Transcendence",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="28.7",Zone="Unknown"}}
-items[12752] = {id=12752,name="Cap of the Scarlet Savant",source={ID=5063,SourceName="",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
+items[12752] = {id=12752,name="Cap of the Scarlet Savant",source={ID=5063,SourceName="Cap of the Scarlet Savant",SourceType="Quest",DropChance="0",Zone="Winterspring"}}
 items[2245] = {id=2245,name="Helm of Narv",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[9431] = {id=9431,name="Papal Fez",source={ID=4853,SourceName="Stonevault Geomancer",SourceType="Kill",DropChance="0",Zone="Uldaman"}}
-items[35033] = {id=35033,name="Brutal Gladiator's Leather Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35033] = {id=35033,name="Brutal Gladiator's Leather Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[35185] = {id=35185,name="Justicebringer 3000 Specs",source={ID=46107,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30166] = {id=30166,name="Cataclysm Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30166] = {id=30166,name="Cataclysm Headguard",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[29983] = {id=29983,name="Fel-Steel Warhelm",source={ID=19516,SourceName="Void Reaver",SourceType="Kill",DropChance="3.4",Zone="Tempest Keep"}}
 items[24689] = {id=24689,name="Elementalist Skullcap",source={ID=20052,SourceName="Crystalcore Mechanic",SourceType="Kill",DropChance="1.2",Zone="Unknown"}}
-items[32088] = {id=32088,name="Cowl of Beastly Rage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32088] = {id=32088,name="Cowl of Beastly Rage",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[4039] = {id=4039,name="Nightsky Cowl",source={ID=2733,SourceName="Apothecary Jorell",SourceType="Kill",DropChance="0.1",Zone="Arathi Highlands"}}
 items[34339] = {id=34339,name="Cowl of Light's Purity",source={ID=25315,SourceName="Kil'jaeden",SourceType="Kill",DropChance="40.0",Zone="Sunwell Plateau"}}
-items[34402] = {id=34402,name="Shroud of Chieftain Ner'zhul",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34402] = {id=34402,name="Shroud of Chieftain Ner'zhul",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30048] = {id=30048,name="Brighthelm of Justice",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="32.9",Zone="Serpentshrine Cavern"}}
-items[16731] = {id=16731,name="Helm of Valor",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="12.1",Zone="Scholomance"}}
+items[16731] = {id=16731,name="Helm of Valor",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="12.0",Zone="Scholomance"}}
 items[10033] = {id=10033,name="Red Mageweave Headband",source={ID=12084,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[4041] = {id=4041,name="Aurora Cowl",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="0.6",Zone="Uldaman"}}
-items[33718] = {id=33718,name="Vengeful Gladiator's Mooncloth Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4041] = {id=4041,name="Aurora Cowl",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="0.5",Zone="Uldaman"}}
+items[33718] = {id=33718,name="Vengeful Gladiator's Mooncloth Hood",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[33479] = {id=33479,name="Grimgrin Faceguard",source={ID=23863,SourceName="Zul'jin",SourceType="Kill",DropChance="15.8",Zone="Unknown"}}
-items[32086] = {id=32086,name="Storm Master's Helmet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32086] = {id=32086,name="Storm Master's Helmet",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[4323] = {id=4323,name="Shadow Hood",source={ID=3858,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32521] = {id=32521,name="Faceplate of the Impenetrable",source={ID=22917,SourceName="Illidan Stormrage",SourceType="Kill",DropChance="37.4",Zone="Black Temple"}}
-items[30972] = {id=30972,name="Onslaught Battle-Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30972] = {id=30972,name="Onslaught Battle-Helm",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
 items[32329] = {id=32329,name="Cowl of Benevolence",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="39.2",Zone="Unknown"}}
 items[24786] = {id=24786,name="Murkblood Cover",source={ID=18830,SourceName="Cabal Fanatic",SourceType="Kill",DropChance="25.0",Zone="Shadow Labyrinth"}}
 items[29504] = {id=29504,name="Windscale Hood",source={ID=35560,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -353,10 +353,10 @@ items[24123] = {id=24123,name="Circlet of Arcane Might",source={ID=31078,SourceN
 items[27410] = {id=27410,name="Collar of Command",source={ID=18371,SourceName="Shirrak the Dead Watcher",SourceType="Kill",DropChance="12.5",Zone="Auchenai Crypts"}}
 items[23316] = {id=23316,name="Lieutenant Commander's Satin Hood",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16846] = {id=16846,name="Giantstalker's Helmet",source={ID=12057,SourceName="Garr",SourceType="Kill",DropChance="25.0",Zone="Molten Core"}}
-items[33244] = {id=33244,name="The Wanderer's Cover",source={ID=11173,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[33244] = {id=33244,name="The Wanderer's Cover",source={ID=11173,SourceName="The Reagent Thief",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
 items[14401] = {id=14401,name="Resilient Cap",source={ID=3942,SourceName="Mavoris Cloudsbreak",SourceType="Kill",DropChance="0.2",Zone="Ashenvale"}}
 items[32480] = {id=32480,name="Magnified Moon Specs",source={ID=41319,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[27708] = {id=27708,name="Gladiator's Satin Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27708] = {id=27708,name="Gladiator's Satin Hood",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[28848] = {id=28848,name="High Warlord's Mail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[19372] = {id=19372,name="Helm of Endless Rage",source={ID=13020,SourceName="Vaelastrasz the Corrupt",SourceType="Kill",DropChance="34.3",Zone="Blackwing Lair"}}
 items[13073] = {id=13073,name="Mugthol's Helm",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
@@ -372,39 +372,39 @@ items[25955] = {id=25955,name="Mask of the Howling Storm",source={ID=18344,Sourc
 items[17715] = {id=17715,name="Eye of Theradras",source={ID=12201,SourceName="Princess Theradras",SourceType="Kill",DropChance="19.4",Zone="Maraudon"}}
 items[13102] = {id=13102,name="Cassandra's Grace",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[8191] = {id=8191,name="Turtle Scale Helm",source={ID=10552,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[20640] = {id=20640,name="Southsea Head Bucket",source={ID=8366,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[20640] = {id=20640,name="Southsea Head Bucket",source={ID=8366,SourceName="Southsea Shakedown",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
 items[7915] = {id=7915,name="Barbaric Iron Helm",source={ID=9814,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15339] = {id=15339,name="Pathfinder Hat",source={ID=7332,SourceName="Withered Spearhide",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
 items[7996] = {id=7996,name="Worn Fishing Hat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31616] = {id=31616,name="Gladiator's Ornamented Headcover",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31616] = {id=31616,name="Gladiator's Ornamented Headcover",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27866] = {id=27866,name="Scintillating Headdress of Second Sight",source={ID=18371,SourceName="Shirrak the Dead Watcher",SourceType="Kill",DropChance="4.9",Zone="Auchenai Crypts"}}
 items[28833] = {id=28833,name="High Warlord's Lamellar Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32089] = {id=32089,name="Mana-Binders Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27715] = {id=27715,name="Circle's Stalwart Helmet",source={ID=10096,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[32089] = {id=32089,name="Mana-Binders Cowl",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[27715] = {id=27715,name="Circle's Stalwart Helmet",source={ID=10096,SourceName="Saving the Sporeloks",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[23251] = {id=23251,name="Champion's Chain Helm",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[11839] = {id=11839,name="Chief Architect's Monocle",source={ID=9056,SourceName="Fineous Darkvire",SourceType="Kill",DropChance="20.1",Zone="Blackrock Depths"}}
+items[11839] = {id=11839,name="Chief Architect's Monocle",source={ID=9056,SourceName="Fineous Darkvire",SourceType="Kill",DropChance="20.5",Zone="Blackrock Depths"}}
 items[17734] = {id=17734,name="Helm of the Mountain",source={ID=12203,SourceName="Landslide",SourceType="Kill",DropChance="22.9",Zone="Maraudon"}}
-items[34400] = {id=34400,name="Crown of Dath'Remar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35010] = {id=35010,name="Brutal Gladiator's Felweave Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31063] = {id=31063,name="Cowl of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30228] = {id=30228,name="Nordrassil Headdress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34400] = {id=34400,name="Crown of Dath'Remar",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[35010] = {id=35010,name="Brutal Gladiator's Felweave Cowl",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31063] = {id=31063,name="Cowl of Absolution",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[30228] = {id=30228,name="Nordrassil Headdress",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[27781] = {id=27781,name="Demonfang Ritual Helm",source={ID=17882,SourceName="The Black Stalker",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
-items[30362] = {id=30362,name="Energized Helm",source={ID=10313,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30362] = {id=30362,name="Energized Helm",source={ID=10313,SourceName="Measuring Warp Energies",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[18817] = {id=18817,name="Crown of Destruction",source={ID=11502,SourceName="Ragnaros",SourceType="Kill",DropChance="23.6",Zone="Molten Core"}}
-items[21517] = {id=21517,name="Gnomish Turban of Psychic Might",source={ID=8620,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[21517] = {id=21517,name="Gnomish Turban of Psychic Might",source={ID=8620,SourceName="The Only Prescription",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
 items[19945] = {id=19945,name="Foror's Eyepatch",source={ID=15114,SourceName="Gahz'ranka",SourceType="Kill",DropChance="13.0",Zone="Zul'Gurub"}}
 items[19998] = {id=19998,name="Bloodvine Lens",source={ID=24357,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16418] = {id=16418,name="Lieutenant Commander's Leather Veil",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[10139] = {id=10139,name="High Councillor's Circlet",source={ID=1843,SourceName="Foreman Jerris",SourceType="Kill",DropChance="4.1",Zone="Western Plaguelands"}}
 items[14322] = {id=14322,name="Resplendent Circlet",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.4",Zone="Unknown"}}
-items[33683] = {id=33683,name="Vengeful Gladiator's Felweave Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33683] = {id=33683,name="Vengeful Gladiator's Felweave Cowl",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32241] = {id=32241,name="Helm of Soothing Currents",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="9.0",Zone="Black Temple"}}
-items[27471] = {id=27471,name="Gladiator's Mail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27471] = {id=27471,name="Gladiator's Mail Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[28863] = {id=28863,name="High Warlord's Scaled Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31509] = {id=31509,name="Wyrmcultist's Hood",source={ID=10747,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31509] = {id=31509,name="Wyrmcultist's Hood",source={ID=10747,SourceName="Whelps of the Wyrmcult",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[28560] = {id=28560,name="Exorcist's Lamellar Helm",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
 items[16947] = {id=16947,name="Helmet of Ten Storms",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="13.1",Zone="Unknown"}}
-items[20628] = {id=20628,name="Deviate Growth Cap",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="11.6",Zone="Duskwood"}}
+items[20628] = {id=20628,name="Deviate Growth Cap",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="11.5",Zone="Duskwood"}}
 items[21804] = {id=21804,name="Coif of Elemental Fury",source={ID=15389,SourceName="Captain Drenn",SourceType="Kill",DropChance="0.1",Zone="Ruins of Ahn'Qiraj"}}
 items[16813] = {id=16813,name="Circlet of Prophecy",source={ID=12057,SourceName="Garr",SourceType="Kill",DropChance="24.2",Zone="Molten Core"}}
 items[14332] = {id=14332,name="Eternal Crown",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="6.0",Zone="Azshara"}}
@@ -413,45 +413,45 @@ items[17610] = {id=17610,name="Champion's Satin Cowl",source={ID=0,SourceName=""
 items[12636] = {id=12636,name="Helm of the Great Chief",source={ID=16728,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14130] = {id=14130,name="Wizardweave Turban",source={ID=18450,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10219] = {id=10219,name="Elegant Circlet",source={ID=15817,SourceName="Qiraji Brigadier General Pax-lish",SourceType="Kill",DropChance="8.3",Zone="Silithus"}}
-items[11913] = {id=11913,name="Clayridge Helm",source={ID=4491,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[11913] = {id=11913,name="Clayridge Helm",source={ID=4491,SourceName="A Little Help From My Friends",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
 items[8317] = {id=8317,name="Alabaster Plate Helmet",source={ID=9443,SourceName="Dark Keeper Pelver",SourceType="Kill",DropChance="0.2",Zone="Blackrock Depths"}}
 items[14785] = {id=14785,name="Khan's Helmet",source={ID=9397,SourceName="Living Storm",SourceType="Kill",DropChance="0.6",Zone="Tanaris"}}
 items[8174] = {id=8174,name="Comfortable Leather Hat",source={ID=10490,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10406] = {id=10406,name="Scaled Leather Headband",source={ID=14225,SourceName="Prince Kellen",SourceType="Kill",DropChance="3.5",Zone="Desolace"}}
-items[34405] = {id=34405,name="Helm of Arcane Purity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35068] = {id=35068,name="Brutal Gladiator's Plate Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30987] = {id=30987,name="Lightbringer Faceguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30989] = {id=30989,name="Lightbringer War-Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31003] = {id=31003,name="Gronnstalker's Helmet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34405] = {id=34405,name="Helm of Arcane Purity",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[35068] = {id=35068,name="Brutal Gladiator's Plate Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30987] = {id=30987,name="Lightbringer Faceguard",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[30989] = {id=30989,name="Lightbringer War-Helm",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[31003] = {id=31003,name="Gronnstalker's Helmet",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
 items[32373] = {id=32373,name="Helm of the Illidari Shatterer",source={ID=22950,SourceName="High Nethermancer Zerevor",SourceType="Kill",DropChance="25.8",Zone="Unknown"}}
-items[30136] = {id=30136,name="Crystalforge Greathelm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30136] = {id=30136,name="Crystalforge Greathelm",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[28206] = {id=28206,name="Cowl of the Guiltless",source={ID=17881,SourceName="Aeonus",SourceType="Kill",DropChance="25.5",Zone="The Black Morass"}}
 items[25681] = {id=25681,name="Stylin' Adventure Hat",source={ID=32487,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25682] = {id=25682,name="Stylin' Jungle Hat",source={ID=32489,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[23306] = {id=23306,name="Lieutenant Commander's Chain Helm",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[22720] = {id=22720,name="Zulian Headdress",source={ID=14510,SourceName="High Priestess Mar'li",SourceType="Kill",DropChance="9.4",Zone="Zul'Gurub"}}
 items[16795] = {id=16795,name="Arcanist Crown",source={ID=12057,SourceName="Garr",SourceType="Kill",DropChance="24.2",Zone="Molten Core"}}
-items[13113] = {id=13113,name="Feathermoon Headdress",source={ID=19214,SourceName="Hand of the Highlord",SourceType="Kill",DropChance="16.0",Zone="Searing Gorge"}}
-items[22411] = {id=22411,name="Helm of the Executioner",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="14.8",Zone="Stratholme"}}
+items[13113] = {id=13113,name="Feathermoon Headdress",source={ID=19214,SourceName="Hand of the Highlord",SourceType="Kill",DropChance="8.6",Zone="Searing Gorge"}}
+items[22411] = {id=22411,name="Helm of the Executioner",source={ID=10440,SourceName="Baron Rivendare",SourceType="Kill",DropChance="14.9",Zone="Stratholme"}}
 items[14140] = {id=14140,name="Mooncloth Circlet",source={ID=18452,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[8270] = {id=8270,name="Ebonhold Helmet",source={ID=7042,SourceName="Flamescale Dragonspawn",SourceType="Kill",DropChance="0.3",Zone="Burning Steppes"}}
 items[10061] = {id=10061,name="Duskwoven Turban",source={ID=8213,SourceName="Ironback",SourceType="Kill",DropChance="4.1",Zone="The Hinterlands"}}
 items[14658] = {id=14658,name="Scorpashi Skullcap",source={ID=8075,SourceName="Edana Hatetalon",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
-items[2622] = {id=2622,name="Nimar's Tribal Headdress",source={ID=2606,SourceName="Nimar the Slayer",SourceType="Kill",DropChance="81.5",Zone="Arathi Highlands"}}
+items[2622] = {id=2622,name="Nimar's Tribal Headdress",source={ID=2606,SourceName="Nimar the Slayer",SourceType="Kill",DropChance="81.3",Zone="Arathi Highlands"}}
 items[3891] = {id=3891,name="Augmented Chain Helm",source={ID=1310,SourceName="Evan Larson",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 items[9420] = {id=9420,name="Adventurer's Pith Helmet",source={ID=4848,SourceName="Shadowforge Darkcaster",SourceType="Kill",DropChance="0",Zone="Uldaman"}}
 items[8747] = {id=8747,name="Hardened Leather Helm",source={ID=2598,SourceName="Darbel Montrose",SourceType="Kill",DropChance="1.0",Zone="Arathi Highlands"}}
-items[7420] = {id=7420,name="Phalanx Headguard",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="4.2",Zone="Alterac Mountains"}}
-items[6204] = {id=6204,name="Tribal Worg Helm",source={ID=507,SourceName="Fenros",SourceType="Kill",DropChance="32.3",Zone="Duskwood"}}
+items[7420] = {id=7420,name="Phalanx Headguard",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="4.1",Zone="Alterac Mountains"}}
+items[6204] = {id=6204,name="Tribal Worg Helm",source={ID=507,SourceName="Fenros",SourceType="Kill",DropChance="32.4",Zone="Duskwood"}}
 items[35372] = {id=35372,name="Wyrmhide Helm",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
-items[35466] = {id=35466,name="Satin Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35474] = {id=35474,name="Seer's Linked Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35466] = {id=35466,name="Satin Hood",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[35474] = {id=35474,name="Seer's Linked Helm",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[24673] = {id=24673,name="Eldr'naan Hood",source={ID=18326,SourceName="Sethekk Shaman",SourceType="Kill",DropChance="25.0",Zone="Sethekk Halls"}}
 items[23516] = {id=23516,name="Flamebane Helm",source={ID=29615,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31272] = {id=31272,name="Crown of Endless Knowledge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31272] = {id=31272,name="Crown of Endless Knowledge",source={ID=19986,SourceName="Ruuan'ok Skyfury",SourceType="Kill",DropChance="0.3",Zone="Blade's Edge Mountains"}}
 items[22302] = {id=22302,name="Ironweave Cowl",source={ID=16042,SourceName="Lord Valthalak",SourceType="Kill",DropChance="22.1",Zone="Blackrock Spire"}}
 items[10226] = {id=10226,name="Nightshade Helmet",source={ID=14473,SourceName="Lapress",SourceType="Kill",DropChance="6.9",Zone="Silithus"}}
-items[12185] = {id=12185,name="Bloodsail Admiral's Hat",source={ID=4621,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[12185] = {id=12185,name="Bloodsail Admiral's Hat",source={ID=4621,SourceName="Avast Ye, Admiral!",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[12604] = {id=12604,name="Starfire Tiara",source={ID=10509,SourceName="Jed Runewatcher",SourceType="Kill",DropChance="32.7",Zone="Blackrock Spire"}}
 items[18480] = {id=18480,name="Scarab Plate Helm",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="2.4",Zone="Dire Maul"}}
 items[18319] = {id=18319,name="Fervent Helm",source={ID=11490,SourceName="Zevrim Thornhoof",SourceType="Kill",DropChance="9.9",Zone="Dire Maul"}}
@@ -459,77 +459,77 @@ items[14281] = {id=14281,name="Opulent Crown",source={ID=6129,SourceName="Dracon
 items[6429] = {id=6429,name="Mistscape Wizard Hat",source={ID=2607,SourceName="Prince Galen Trollbane",SourceType="Kill",DropChance="0.2",Zone="Arathi Highlands"}}
 items[10574] = {id=10574,name="Corpseshroud",source={ID=7341,SourceName="Skeletal Frostweaver",SourceType="Kill",DropChance="0",Zone="Razorfen Downs"}}
 items[3837] = {id=3837,name="Golden Scale Coif",source={ID=3503,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[3345] = {id=3345,name="Silk Wizard Hat",source={ID=2591,SourceName="Syndicate Magus",SourceType="Kill",DropChance="2.5",Zone="Arathi Highlands"}}
+items[3345] = {id=3345,name="Silk Wizard Hat",source={ID=2591,SourceName="Syndicate Magus",SourceType="Kill",DropChance="2.6",Zone="Arathi Highlands"}}
 items[4322] = {id=4322,name="Enchanter's Cowl",source={ID=3857,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[8746] = {id=8746,name="Interlaced Cowl",source={ID=4394,SourceName="Bubbling Swamp Ooze",SourceType="Kill",DropChance="2.3",Zone="Dustwallow Marsh"}}
+items[8746] = {id=8746,name="Interlaced Cowl",source={ID=4394,SourceName="Bubbling Swamp Ooze",SourceType="Kill",DropChance="1.6",Zone="Dustwallow Marsh"}}
 items[35184] = {id=35184,name="Primal-Attuned Goggles",source={ID=46110,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31064] = {id=31064,name="Hood of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31064] = {id=31064,name="Hood of Absolution",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
 items[32376] = {id=32376,name="Forest Prowler's Helm",source={ID=22950,SourceName="High Nethermancer Zerevor",SourceType="Kill",DropChance="24.3",Zone="Unknown"}}
 items[33432] = {id=33432,name="Coif of the Jungle Stalker",source={ID=24239,SourceName="Hex Lord Malacrass",SourceType="Kill",DropChance="16.7",Zone="Unknown"}}
 items[33356] = {id=33356,name="Helm of Natural Regeneration",source={ID=23578,SourceName="Jan'alai",SourceType="Kill",DropChance="10.8",Zone="Unknown"}}
 items[27505] = {id=27505,name="Ruby Helm of the Just",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="5.5",Zone="The Blood Furnace"}}
-items[30955] = {id=30955,name="Crown of Cinders",source={ID=10808,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30955] = {id=30955,name="Crown of Cinders",source={ID=10808,SourceName="Thwart the Dark Conclave",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[33808] = {id=33808,name="The Horseman's Helm",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="3.0",Zone="Unknown"}}
-items[25579] = {id=25579,name="Dark Shaman's Cover",source={ID=9878,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[31766] = {id=31766,name="Skywitch Hat",source={ID=10898,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[25579] = {id=25579,name="Dark Shaman's Cover",source={ID=9878,SourceName="Solving the Problem",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[31766] = {id=31766,name="Skywitch Hat",source={ID=10898,SourceName="Skywing",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
 items[24721] = {id=24721,name="Dreghood Cowl",source={ID=17414,SourceName="Shadowmoon Technician",SourceType="Kill",DropChance="1.2",Zone="The Blood Furnace"}}
-items[23032] = {id=23032,name="Glacial Headdress",source={ID=16060,SourceName="Gothik the Harvester",SourceType="Kill",DropChance="43.6",Zone="Naxxramas"}}
+items[23032] = {id=23032,name="Glacial Headdress",source={ID=16060,SourceName="Gothik the Harvester",SourceType="Kill",DropChance="43.4",Zone="Naxxramas"}}
 items[21472] = {id=21472,name="Dustwind Turban",source={ID=15340,SourceName="Moam",SourceType="Kill",DropChance="13.8",Zone="Ruins of Ahn'Qiraj"}}
 items[17598] = {id=17598,name="Lieutenant Commander's Diadem",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14312] = {id=14312,name="Celestial Crown",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.6",Zone="Unknown"}}
 items[14449] = {id=14449,name="Highborne Crown",source={ID=11461,SourceName="Warpwood Guardian",SourceType="Kill",DropChance="0.2",Zone="Dire Maul"}}
-items[9963] = {id=9963,name="Warmonger's Circlet",source={ID=8281,SourceName="Scald",SourceType="Kill",DropChance="3.3",Zone="Searing Gorge"}}
+items[9963] = {id=9963,name="Warmonger's Circlet",source={ID=15469,SourceName="Senior Sergeant T'kelah",SourceType="Kill",DropChance="3.2",Zone="Orgrimmar"}}
 items[7520] = {id=7520,name="Gossamer Headpiece",source={ID=15750,SourceName="Qiraji Major",SourceType="Kill",DropChance="6.6",Zone="Thousand Needles"}}
 items[15373] = {id=15373,name="Wolf Rider's Headgear",source={ID=7608,SourceName="Murta Grimgut",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
 items[9921] = {id=9921,name="Tracker's Headband",source={ID=5345,SourceName="Diamond Head",SourceType="Kill",DropChance="7.1",Zone="Feralas"}}
-items[4052] = {id=4052,name="Insignia Cap",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="1.3",Zone="Uldaman"}}
-items[31012] = {id=31012,name="Skyshatter Helmet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31056] = {id=31056,name="Cowl of the Tempest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33677] = {id=33677,name="Vengeful Gladiator's Dreadweave Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4052] = {id=4052,name="Insignia Cap",source={ID=24830,SourceName="Stonevault Pillager",SourceType="Kill",DropChance="1.0",Zone="Uldaman"}}
+items[31012] = {id=31012,name="Skyshatter Helmet",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[31056] = {id=31056,name="Cowl of the Tempest",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33677] = {id=33677,name="Vengeful Gladiator's Dreadweave Hood",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32240] = {id=32240,name="Guise of the Tidal Lurker",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="16.0",Zone="Black Temple"}}
-items[32031] = {id=32031,name="Merciless Gladiator's Ringmail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32031] = {id=32031,name="Merciless Gladiator's Ringmail Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[24914] = {id=24914,name="Netherstorm Helm",source={ID=23061,SourceName="Rivendark",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
-items[31520] = {id=31520,name="Blackwing Helm",source={ID=10748,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31520] = {id=31520,name="Blackwing Helm",source={ID=10748,SourceName="Maxnar Must Die!",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[24713] = {id=24713,name="Vengeance Helm",source={ID=18827,SourceName="Gan'arg Sapper",SourceType="Kill",DropChance="1.9",Zone="Hellfire Peninsula"}}
 items[16939] = {id=16939,name="Dragonstalker's Helm",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="29.5",Zone="Unknown"}}
 items[20263] = {id=20263,name="Gurubashi Helm",source={ID=11338,SourceName="Hakkari Shadowcaster",SourceType="Kill",DropChance="0",Zone="Zul'Gurub"}}
-items[14979] = {id=14979,name="Exalted Helmet",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="5.5",Zone="Duskwood"}}
+items[14979] = {id=14979,name="Exalted Helmet",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="5.4",Zone="Duskwood"}}
 items[10261] = {id=10261,name="Adventurer's Bandana",source={ID=15757,SourceName="Qiraji Lieutenant General",SourceType="Kill",DropChance="5.2",Zone="Silithus"}}
 items[14460] = {id=14460,name="Elunarian Diadem",source={ID=14457,SourceName="Princess Tempestria",SourceType="Kill",DropChance="0.6",Zone="Winterspring"}}
 items[16506] = {id=16506,name="Champion's Leather Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[16667] = {id=16667,name="Coif of Elements",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="5.1",Zone="Scholomance"}}
+items[16667] = {id=16667,name="Coif of Elements",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="5.2",Zone="Scholomance"}}
 items[15430] = {id=15430,name="Peerless Headband",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.4",Zone="Unknown"}}
-items[8753] = {id=8753,name="Smooth Leather Helmet",source={ID=7734,SourceName="Ilifar",SourceType="Kill",DropChance="2.2",Zone="Blasted Lands"}}
+items[8753] = {id=8753,name="Smooth Leather Helmet",source={ID=7734,SourceName="Ilifar",SourceType="Kill",DropChance="2.1",Zone="Blasted Lands"}}
 items[10097] = {id=10097,name="Councillor's Circlet",source={ID=10821,SourceName="Hed'mush the Rotting",SourceType="Kill",DropChance="4.2",Zone="Eastern Plaguelands"}}
 items[10175] = {id=10175,name="Mystical Headwrap",source={ID=7104,SourceName="Dessecus",SourceType="Kill",DropChance="3.7",Zone="Felwood"}}
 items[10198] = {id=10198,name="Crusader's Helm",source={ID=8303,SourceName="Grunter",SourceType="Kill",DropChance="2.1",Zone="Blasted Lands"}}
 items[9940] = {id=9940,name="Abjurer's Hood",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="16.6",Zone="Thousand Needles"}}
 items[15167] = {id=15167,name="Imposing Bandana",source={ID=12206,SourceName="Primordial Behemoth",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
-items[7540] = {id=7540,name="Champion's Helmet",source={ID=8280,SourceName="Shleipnarr",SourceType="Kill",DropChance="5.0",Zone="Searing Gorge"}}
-items[17776] = {id=17776,name="Sprightring Helm",source={ID=7028,SourceName="",SourceType="Quest",DropChance="0",Zone="Maraudon"}}
+items[7540] = {id=7540,name="Champion's Helmet",source={ID=8280,SourceName="Shleipnarr",SourceType="Kill",DropChance="4.9",Zone="Searing Gorge"}}
+items[17776] = {id=17776,name="Sprightring Helm",source={ID=7028,SourceName="Twisted Evils",SourceType="Quest",DropChance="0",Zone="Maraudon"}}
 items[14843] = {id=14843,name="Tyrant's Helm",source={ID=11793,SourceName="Celebrian Dryad",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
 items[8749] = {id=8749,name="Crochet Hat",source={ID=863,SourceName="Stonard Hunter",SourceType="Kill",DropChance="4.1",Zone="Swamp of Sorrows"}}
 items[9290] = {id=9290,name="Field Plate Helmet",source={ID=14237,SourceName="Oozeworm",SourceType="Kill",DropChance="5.4",Zone="Dustwallow Marsh"}}
-items[7432] = {id=7432,name="Twilight Cowl",source={ID=14488,SourceName="Roloch",SourceType="Kill",DropChance="3.5",Zone="Stranglethorn Vale"}}
+items[7432] = {id=7432,name="Twilight Cowl",source={ID=14488,SourceName="Roloch",SourceType="Kill",DropChance="3.4",Zone="Stranglethorn Vale"}}
 items[7456] = {id=7456,name="Knight's Headguard",source={ID=14227,SourceName="Hissperak",SourceType="Kill",DropChance="11.9",Zone="Desolace"}}
 items[3020] = {id=3020,name="Enduring Cap",source={ID=15807,SourceName="Minor Anubisath Warbringer",SourceType="Kill",DropChance="0.5",Zone="The Barrens"}}
-items[34403] = {id=34403,name="Cover of Ursoc the Mighty",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31039] = {id=31039,name="Thunderheart Cover",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33701] = {id=33701,name="Vengeful Gladiator's Leather Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30488] = {id=30488,name="Merciless Gladiator's Plate Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30161] = {id=30161,name="Hood of the Avatar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34403] = {id=34403,name="Cover of Ursoc the Mighty",source={ID=25977,SourceName="Yrma",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[31039] = {id=31039,name="Thunderheart Cover",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33701] = {id=33701,name="Vengeful Gladiator's Leather Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30488] = {id=30488,name="Merciless Gladiator's Plate Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30161] = {id=30161,name="Hood of the Avatar",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[33463] = {id=33463,name="Hood of the Third Eye",source={ID=24239,SourceName="Hex Lord Malacrass",SourceType="Kill",DropChance="13.8",Zone="Unknown"}}
 items[33964] = {id=33964,name="Helm of the Stormcaller",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[28872] = {id=28872,name="High Warlord's Wyrmhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32776] = {id=32776,name="Crown of the Sea Witch",source={ID=41418,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31218] = {id=31218,name="Fiery Beholder Eye",source={ID=18694,SourceName="Collidus the Warp-Watcher",SourceType="Kill",DropChance="42.4",Zone="Unknown"}}
-items[30847] = {id=30847,name="X-52 Rocket Helmet",source={ID=10249,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30847] = {id=30847,name="X-52 Rocket Helmet",source={ID=10249,SourceName="Back to the Chief!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[28575] = {id=28575,name="Exorcist's Wyrmhide Helm",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
 items[23493] = {id=23493,name="Fel Iron Chain Coif",source={ID=29551,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[23019] = {id=23019,name="Icebane Helmet",source={ID=15936,SourceName="Heigan the Unclean",SourceType="Kill",DropChance="31.1",Zone="Naxxramas"}}
+items[23019] = {id=23019,name="Icebane Helmet",source={ID=15936,SourceName="Heigan the Unclean",SourceType="Kill",DropChance="31.2",Zone="Naxxramas"}}
 items[16900] = {id=16900,name="Stormrage Cover",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="31.1",Zone="Unknown"}}
 items[16526] = {id=16526,name="Champion's Chain Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22407] = {id=22407,name="Helm of the New Moon",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="21.2",Zone="Stratholme"}}
+items[22407] = {id=22407,name="Helm of the New Moon",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="21.3",Zone="Stratholme"}}
 items[10372] = {id=10372,name="Imbued Plate Helmet",source={ID=16133,SourceName="Mataus the Wrathcaster",SourceType="Kill",DropChance="6.1",Zone="Eastern Plaguelands"}}
 items[8292] = {id=8292,name="Arcane Cover",source={ID=7045,SourceName="Scalding Drake",SourceType="Kill",DropChance="1.2",Zone="Burning Steppes"}}
 items[15391] = {id=15391,name="Jadefire Cap",source={ID=13021,SourceName="Warpwood Crusher",SourceType="Kill",DropChance="0.1",Zone="Dire Maul"}}
@@ -543,20 +543,20 @@ items[7488] = {id=7488,name="Captain's Circlet",source={ID=14491,SourceName="Kur
 items[2620] = {id=2620,name="Augural Shroud",source={ID=4684,SourceName="Nether Sorceress",SourceType="Kill",DropChance="1.4",Zone="Desolace"}}
 items[15540] = {id=15540,name="Wicked Chain Helmet",source={ID=4643,SourceName="Magram Pack Runner",SourceType="Kill",DropChance="0.3",Zone="Desolace"}}
 items[34355] = {id=34355,name="Lightning Etched Specs",source={ID=46112,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[35029] = {id=35029,name="Brutal Gladiator's Lamellar Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31015] = {id=31015,name="Skyshatter Cover",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31962] = {id=31962,name="Merciless Gladiator's Chain Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32048] = {id=32048,name="Merciless Gladiator's Silk Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30171] = {id=30171,name="Cataclysm Headpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35029] = {id=35029,name="Brutal Gladiator's Lamellar Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31015] = {id=31015,name="Skyshatter Cover",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[31962] = {id=31962,name="Merciless Gladiator's Chain Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32048] = {id=32048,name="Merciless Gladiator's Silk Cowl",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30171] = {id=30171,name="Cataclysm Headpiece",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[33286] = {id=33286,name="Mojo-mender's Mask",source={ID=23574,SourceName="Akil'zon",SourceType="Kill",DropChance="13.0",Zone="Unknown"}}
-items[33810] = {id=33810,name="Amani Mask of Death",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25998] = {id=25998,name="Gladiator's Linked Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33810] = {id=33810,name="Amani Mask of Death",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[25998] = {id=25998,name="Gladiator's Linked Helm",source={ID=26090,SourceName="Karynna",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[35414] = {id=35414,name="Crusader's Scaled Helm",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[25002] = {id=25002,name="Bloodfist Helmet",source={ID=16699,SourceName="Shattered Hand Reaver",SourceType="Kill",DropChance="1.3",Zone="The Shattered Halls"}}
 items[28574] = {id=28574,name="Exorcist's Dragonhide Helm",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
 items[28577] = {id=28577,name="Exorcist's Linked Helm",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
-items[31222] = {id=31222,name="Headdress of Inner Rage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25530] = {id=25530,name="Helm of Natural Purity",source={ID=9709,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[31222] = {id=31222,name="Headdress of Inner Rage",source={ID=17734,SourceName="Underbog Lord",SourceType="Kill",DropChance="0",Zone="The Underbog"}}
+items[25530] = {id=25530,name="Helm of Natural Purity",source={ID=9709,SourceName="Stealing Back the Mushrooms",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[24834] = {id=24834,name="Nexus-Strider Helmet",source={ID=17491,SourceName="Laughing Skull Rogue",SourceType="Kill",DropChance="2.2",Zone="The Blood Furnace"}}
 items[23033] = {id=23033,name="Icy Scale Coif",source={ID=15936,SourceName="Heigan the Unclean",SourceType="Kill",DropChance="38.8",Zone="Naxxramas"}}
 items[25394] = {id=25394,name="Deteriorating Plate Helmet",source={ID=21060,SourceName="Enraged Air Spirit",SourceType="Kill",DropChance="3.7",Zone="Shadowmoon Valley"}}
@@ -566,8 +566,8 @@ items[16489] = {id=16489,name="Champion's Silk Hood",source={ID=0,SourceName="",
 items[8308] = {id=8308,name="Hero's Band",source={ID=1045,SourceName="Red Dragonspawn",SourceType="Kill",DropChance="1.3",Zone="Wetlands"}}
 items[14307] = {id=14307,name="Bonecaster's Crown",source={ID=14464,SourceName="Avalanchion",SourceType="Kill",DropChance="1.1",Zone="Azshara"}}
 items[18313] = {id=18313,name="Helm of Awareness",source={ID=11490,SourceName="Zevrim Thornhoof",SourceType="Kill",DropChance="19.3",Zone="Dire Maul"}}
-items[18325] = {id=18325,name="Felhide Cap",source={ID=14327,SourceName="Lethtendris",SourceType="Kill",DropChance="28.6",Zone="Dire Maul"}}
-items[11735] = {id=11735,name="Ragefury Eyepatch",source={ID=9537,SourceName="Hurley Blackbreath",SourceType="Kill",DropChance="9.4",Zone="Blackrock Depths"}}
+items[18325] = {id=18325,name="Felhide Cap",source={ID=14327,SourceName="Lethtendris",SourceType="Kill",DropChance="28.5",Zone="Dire Maul"}}
+items[11735] = {id=11735,name="Ragefury Eyepatch",source={ID=9537,SourceName="Hurley Blackbreath",SourceType="Kill",DropChance="9.2",Zone="Blackrock Depths"}}
 items[15651] = {id=15651,name="Merciless Crown",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[10187] = {id=10187,name="Swashbuckler's Eyepatch",source={ID=10078,SourceName="Terrorspark",SourceType="Kill",DropChance="3.4",Zone="Burning Steppes"}}
 items[8261] = {id=8261,name="Serpentskin Helm",source={ID=9522,SourceName="Blackrock Ambusher",SourceType="Kill",DropChance="0.4",Zone="Burning Steppes"}}
@@ -578,7 +578,7 @@ items[15175] = {id=15175,name="Potent Helmet",source={ID=193,SourceName="Blue Dr
 items[9953] = {id=9953,name="Chieftain's Headdress",source={ID=14344,SourceName="Mongress",SourceType="Kill",DropChance="7.2",Zone="Felwood"}}
 items[15623] = {id=15623,name="Gryphon Mail Crown",source={ID=8196,SourceName="Occulus",SourceType="Kill",DropChance="0.4",Zone="Tanaris"}}
 items[10030] = {id=10030,name="Admiral's Hat",source={ID=12081,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[9915] = {id=9915,name="Royal Headband",source={ID=8199,SourceName="Warleader Krazzilak",SourceType="Kill",DropChance="6.2",Zone="Tanaris"}}
+items[9915] = {id=9915,name="Royal Headband",source={ID=8199,SourceName="Warleader Krazzilak",SourceType="Kill",DropChance="6.0",Zone="Tanaris"}}
 items[9932] = {id=9932,name="Brigade Circlet",source={ID=5352,SourceName="Old Grizzlegut",SourceType="Kill",DropChance="4.8",Zone="Feralas"}}
 items[15156] = {id=15156,name="Nocturnal Cap",source={ID=4400,SourceName="Mudrock Snapjaw",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
 items[5624] = {id=5624,name="Circlet of the Order",source={ID=2584,SourceName="Stromgarde Defender",SourceType="Kill",DropChance="2.2",Zone="Arathi Highlands"}}
@@ -587,35 +587,35 @@ items[9870] = {id=9870,name="Renegade Circlet",source={ID=15747,SourceName="Qira
 items[14753] = {id=14753,name="Slayer's Skullcap",source={ID=11682,SourceName="Warsong Grunt",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
 items[14189] = {id=14189,name="Raincaller Cap",source={ID=4842,SourceName="Earthcaller Halmgar",SourceType="Kill",DropChance="0.1",Zone="Razorfen Kraul"}}
 items[15129] = {id=15129,name="Robust Helm",source={ID=11682,SourceName="Warsong Grunt",SourceType="Kill",DropChance="0.3",Zone="Ashenvale"}}
-items[34992] = {id=34992,name="Brutal Gladiator's Chain Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35079] = {id=35079,name="Brutal Gladiator's Ringmail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35090] = {id=35090,name="Brutal Gladiator's Scaled Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33697] = {id=33697,name="Vengeful Gladiator's Lamellar Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33713] = {id=33713,name="Vengeful Gladiator's Mail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33724] = {id=33724,name="Vengeful Gladiator's Ornamented Headcover",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32022] = {id=32022,name="Merciless Gladiator's Ornamented Headcover",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34992] = {id=34992,name="Brutal Gladiator's Chain Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35079] = {id=35079,name="Brutal Gladiator's Ringmail Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35090] = {id=35090,name="Brutal Gladiator's Scaled Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33697] = {id=33697,name="Vengeful Gladiator's Lamellar Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33713] = {id=33713,name="Vengeful Gladiator's Mail Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33724] = {id=33724,name="Vengeful Gladiator's Ornamented Headcover",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32022] = {id=32022,name="Merciless Gladiator's Ornamented Headcover",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[27488] = {id=27488,name="Mage-Collar of the Firestorm",source={ID=17381,SourceName="The Maker",SourceType="Kill",DropChance="6.4",Zone="The Blood Furnace"}}
 items[31368] = {id=31368,name="Wildguard Helm",source={ID=38476,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27888] = {id=27888,name="Dream-Wing Helm",source={ID=18731,SourceName="Ambassador Hellmaw",SourceType="Kill",DropChance="20.0",Zone="Shadow Labyrinth"}}
-items[25589] = {id=25589,name="Clefthoof Helm",source={ID=9851,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25589] = {id=25589,name="Clefthoof Helm",source={ID=9851,SourceName="Clefthoof Mastery",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[24962] = {id=24962,name="Khan'aish Helmet",source={ID=21854,SourceName="Ironspine Petrifier",SourceType="Kill",DropChance="2.8",Zone="Terokkar Forest"}}
 items[24609] = {id=24609,name="Laughing Skull Cap",source={ID=16772,SourceName="Bonechewer Devastator",SourceType="Kill",DropChance="2.8",Zone="Terokkar Forest"}}
 items[31185] = {id=31185,name="Legion Crown",source={ID=18679,SourceName="Vorakem Doomspeaker",SourceType="Kill",DropChance="44.9",Zone="Unknown"}}
-items[16908] = {id=16908,name="Bloodfang Hood",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="29.3",Zone="Unknown"}}
+items[16908] = {id=16908,name="Bloodfang Hood",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="29.2",Zone="Unknown"}}
 items[16914] = {id=16914,name="Netherwind Crown",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="30.6",Zone="Unknown"}}
 items[16866] = {id=16866,name="Helm of Might",source={ID=12057,SourceName="Garr",SourceType="Kill",DropChance="24.7",Zone="Molten Core"}}
 items[21061] = {id=21061,name="66 Epic Fire Crown",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[19999] = {id=19999,name="Bloodvine Goggles",source={ID=24356,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15684] = {id=15684,name="Triumphant Skullcap",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="6.1",Zone="Duskwood"}}
-items[10272] = {id=10272,name="Masterwork Circlet",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="7.3",Zone="Searing Gorge"}}
-items[12587] = {id=12587,name="Eye of Rend",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="19.6",Zone="Blackrock Spire"}}
+items[10272] = {id=10272,name="Masterwork Circlet",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="5.6",Zone="Searing Gorge"}}
+items[12587] = {id=12587,name="Eye of Rend",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="19.5",Zone="Blackrock Spire"}}
 items[14814] = {id=14814,name="Warstrike Helmet",source={ID=12129,SourceName="Onyxian Warder",SourceType="Kill",DropChance="0.4",Zone="Unknown"}}
 items[19105] = {id=19105,name="Frost Runed Headdress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[10150] = {id=10150,name="Mighty Helmet",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="3.6",Zone="Silithus"}}
 items[10160] = {id=10160,name="Mercurial Circlet",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="3.6",Zone="Silithus"}}
 items[14866] = {id=14866,name="Warleader's Crown",source={ID=12474,SourceName="Emeraldon Boughguard",SourceType="Kill",DropChance="1.0",Zone="Ashenvale"}}
 items[15193] = {id=15193,name="Grand Crown",source={ID=12497,SourceName="Dreamroarer",SourceType="Kill",DropChance="1.0",Zone="Feralas"}}
-items[16693] = {id=16693,name="Devout Crown",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="11.5",Zone="Scholomance"}}
+items[16693] = {id=16693,name="Devout Crown",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="11.6",Zone="Scholomance"}}
 items[15664] = {id=15664,name="Impenetrable Helmet",source={ID=10741,SourceName="Sian-Rotam",SourceType="Kill",DropChance="0.2",Zone="Winterspring"}}
 items[8299] = {id=8299,name="Traveler's Helm",source={ID=10596,SourceName="Mother Smolderweb",SourceType="Kill",DropChance="0.3",Zone="Blackrock Spire"}}
 items[10279] = {id=10279,name="Emerald Helm",source={ID=6583,SourceName="Gruff",SourceType="Kill",DropChance="7.0",Zone="Un'Goro Crater"}}
@@ -646,7 +646,7 @@ items[7922] = {id=7922,name="Steel Plate Helm",source={ID=9935,SourceName="",Sou
 items[9969] = {id=9969,name="Embossed Plate Helmet",source={ID=8219,SourceName="Zul'arek Hatefowler",SourceType="Kill",DropChance="3.7",Zone="The Hinterlands"}}
 items[14774] = {id=14774,name="Ravager's Crown",source={ID=5645,SourceName="Sandfury Hideskinner",SourceType="Kill",DropChance="0.1",Zone="Tanaris"}}
 items[2624] = {id=2624,name="Thinking Cap",source={ID=2718,SourceName="Dustbelcher Shaman",SourceType="Kill",DropChance="0.8",Zone="Badlands"}}
-items[7470] = {id=7470,name="Regal Wizard Hat",source={ID=8211,SourceName="Old Cliff Jumper",SourceType="Kill",DropChance="4.1",Zone="The Hinterlands"}}
+items[7470] = {id=7470,name="Regal Wizard Hat",source={ID=5356,SourceName="Snarler",SourceType="Kill",DropChance="4.2",Zone="Feralas"}}
 items[8750] = {id=8750,name="Thick Leather Hat",source={ID=8212,SourceName="The Reak",SourceType="Kill",DropChance="1.4",Zone="The Hinterlands"}}
 items[14421] = {id=14421,name="Silksand Circlet",source={ID=15752,SourceName="Silithid Flayer",SourceType="Kill",DropChance="0.3",Zone="Thousand Needles"}}
 items[15363] = {id=15363,name="Trickster's Headdress",source={ID=5402,SourceName="Khan Hratha",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
@@ -657,32 +657,32 @@ items[4078] = {id=4078,name="Chief Brigadier Coif",source={ID=24477,SourceName="
 items[15572] = {id=15572,name="Marauder's Circlet",source={ID=4705,SourceName="Burning Blade Invoker",SourceType="Kill",DropChance="0.4",Zone="Desolace"}}
 items[1280] = {id=1280,name="Cloaked Hood",source={ID=2246,SourceName="Syndicate Assassin",SourceType="Kill",DropChance="1.7",Zone="Alterac Mountains"}}
 items[7441] = {id=7441,name="Sentinel Cap",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
-items[14765] = {id=14765,name="Enduring Circlet",source={ID=23594,SourceName="Grimtotem Destroyer",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[14765] = {id=14765,name="Enduring Circlet",source={ID=14232,SourceName="Dart",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[15353] = {id=15353,name="Headhunter's Headdress",source={ID=7341,SourceName="Skeletal Frostweaver",SourceType="Kill",DropChance="0.2",Zone="Razorfen Downs"}}
-items[9859] = {id=9859,name="Archer's Cap",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
-items[14208] = {id=14208,name="Vital Headband",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[9859] = {id=9859,name="Archer's Cap",source={ID=2751,SourceName="War Golem",SourceType="Kill",DropChance="5.1",Zone="Badlands"}}
+items[14208] = {id=14208,name="Vital Headband",source={ID=23554,SourceName="Risen Spirit",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[4077] = {id=4077,name="Mail Combat Headguard",source={ID=2577,SourceName="Dark Iron Shadowcaster",SourceType="Kill",DropChance="0.1",Zone="Arathi Highlands"}}
 items[15550] = {id=15550,name="Thick Scale Crown",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
 items[4048] = {id=4048,name="Emblazoned Hat",source={ID=2304,SourceName="Captain Ironhill",SourceType="Kill",DropChance="0.1",Zone="Hillsbrad Foothills"}}
 items[6389] = {id=6389,name="Glimmering Mail Coif",source={ID=2450,SourceName="Miner Hackett",SourceType="Kill",DropChance="0.2",Zone="Hillsbrad Foothills"}}
 items[14178] = {id=14178,name="Watcher's Cap",source={ID=3942,SourceName="Mavoris Cloudsbreak",SourceType="Kill",DropChance="0.5",Zone="Ashenvale"}}
 items[15533] = {id=15533,name="Sentry's Headdress",source={ID=5930,SourceName="Sister Riven",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
-items[35050] = {id=35050,name="Brutal Gladiator's Mail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35112] = {id=35112,name="Brutal Gladiator's Wyrmhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30974] = {id=30974,name="Onslaught Greathelm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31040] = {id=31040,name="Thunderheart Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33768] = {id=33768,name="Vengeful Gladiator's Wyrmhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35050] = {id=35050,name="Brutal Gladiator's Mail Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35112] = {id=35112,name="Brutal Gladiator's Wyrmhide Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30974] = {id=30974,name="Onslaught Greathelm",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[31040] = {id=31040,name="Thunderheart Headguard",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33768] = {id=33768,name="Vengeful Gladiator's Wyrmhide Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[33421] = {id=33421,name="Battleworn Tuskguard",source={ID=24239,SourceName="Hex Lord Malacrass",SourceType="Kill",DropChance="17.2",Zone="Unknown"}}
 items[27763] = {id=27763,name="Crown of the Forest Lord",source={ID=17826,SourceName="Swamplord Musel'ek",SourceType="Kill",DropChance="15.0",Zone="The Underbog"}}
-items[28181] = {id=28181,name="Earthwarden's Coif",source={ID=9763,SourceName="",SourceType="Quest",DropChance="0",Zone="The Steamvault"}}
+items[28181] = {id=28181,name="Earthwarden's Coif",source={ID=9763,SourceName="The Warlord's Hideout",SourceType="Quest",DropChance="0",Zone="The Steamvault"}}
 items[28220] = {id=28220,name="Moon-Crown Antlers",source={ID=17862,SourceName="Captain Skarloc",SourceType="Kill",DropChance="20.8",Zone="Old Hillsbrad Foothills"}}
-items[31576] = {id=31576,name="Slatesteel Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31576] = {id=31576,name="Slatesteel Helm",source={ID=32624,SourceName="Large Iron Metamorphosis Geode ",SourceType="Container",DropChance="71.4",Zone="Unknown"}}
 items[25010] = {id=25010,name="Conqueror's Helmet",source={ID=18631,SourceName="Cabal Cultist",SourceType="Kill",DropChance="7.6",Zone="Shadow Labyrinth"}}
-items[29782] = {id=29782,name="Coif of the Wicked",source={ID=10320,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[31145] = {id=31145,name="Headdress of the Sleeper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29782] = {id=29782,name="Coif of the Wicked",source={ID=10320,SourceName="Destroy Naberius!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[31145] = {id=31145,name="Headdress of the Sleeper",source={ID=16519,SourceName="Shadowy Executioner",SourceType="Kill",DropChance="0",Zone="Terokkar Forest"}}
 items[24601] = {id=24601,name="Starfire Circlet",source={ID=21854,SourceName="Ironspine Petrifier",SourceType="Kill",DropChance="2.8",Zone="Terokkar Forest"}}
-items[23020] = {id=23020,name="Polar Helmet",source={ID=16060,SourceName="Gothik the Harvester",SourceType="Kill",DropChance="28.5",Zone="Naxxramas"}}
-items[21353] = {id=21353,name="Genesis Helm",source={ID=8667,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[23020] = {id=23020,name="Polar Helmet",source={ID=16060,SourceName="Gothik the Harvester",SourceType="Kill",DropChance="28.6",Zone="Naxxramas"}}
+items[21353] = {id=21353,name="Genesis Helm",source={ID=8667,SourceName="Genesis Helm",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[24922] = {id=24922,name="Grimscale Helm",source={ID=16863,SourceName="Deranged Helboar",SourceType="Kill",DropChance="0.3",Zone="Hellfire Peninsula"}}
 items[16963] = {id=16963,name="Helm of Wrath",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="29.4",Zone="Unknown"}}
 items[21669] = {id=21669,name="Creeping Vine Helm",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="21.1",Zone="Ahn'Qiraj"}}
@@ -705,7 +705,7 @@ items[14271] = {id=14271,name="Gaea's Circlet",source={ID=6186,SourceName="Timbe
 items[8115] = {id=8115,name="Hibernal Cowl",source={ID=5998,SourceName="Nethergarde Foreman",SourceType="Kill",DropChance="0.1",Zone="Blasted Lands"}}
 items[14907] = {id=14907,name="Brutish Helmet",source={ID=8200,SourceName="Jin'Zallah the Sandbringer",SourceType="Kill",DropChance="1.2",Zone="Tanaris"}}
 items[13128] = {id=13128,name="High Bergg Helm",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
-items[10090] = {id=10090,name="Gothic Plate Helmet",source={ID=8280,SourceName="Shleipnarr",SourceType="Kill",DropChance="6.2",Zone="Searing Gorge"}}
+items[10090] = {id=10090,name="Gothic Plate Helmet",source={ID=8280,SourceName="Shleipnarr",SourceType="Kill",DropChance="6.1",Zone="Searing Gorge"}}
 items[15615] = {id=15615,name="Bonelink Helmet",source={ID=5327,SourceName="Coast Crawl Snapclaw",SourceType="Kill",DropChance="0.3",Zone="Feralas"}}
 items[14604] = {id=14604,name="Warden's Wizard Hat",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
 items[14831] = {id=14831,name="Symbolic Crown",source={ID=4328,SourceName="Firemane Scalebane",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
@@ -718,28 +718,28 @@ items[15146] = {id=15146,name="Ghostwalker Crown",source={ID=14227,SourceName="H
 items[15134] = {id=15134,name="Cutthroat's Hat",source={ID=5935,SourceName="Ironeye the Invincible",SourceType="Kill",DropChance="0.5",Zone="Thousand Needles"}}
 items[14200] = {id=14200,name="Thistlefur Cap",source={ID=4382,SourceName="Withervine Creeper",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[7413] = {id=7413,name="Infiltrator Cap",source={ID=14225,SourceName="Prince Kellen",SourceType="Kill",DropChance="2.6",Zone="Desolace"}}
-items[10289] = {id=10289,name="Durable Hat",source={ID=5934,SourceName="Heartrazor",SourceType="Kill",DropChance="3.2",Zone="Thousand Needles"}}
-items[10288] = {id=10288,name="Sage's Circlet",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="4.2",Zone="Alterac Mountains"}}
-items[35004] = {id=35004,name="Brutal Gladiator's Dreadweave Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35054] = {id=35054,name="Brutal Gladiator's Mooncloth Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35084] = {id=35084,name="Brutal Gladiator's Satin Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35097] = {id=35097,name="Brutal Gladiator's Silk Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10289] = {id=10289,name="Durable Hat",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
+items[10288] = {id=10288,name="Sage's Circlet",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
+items[35004] = {id=35004,name="Brutal Gladiator's Dreadweave Hood",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35054] = {id=35054,name="Brutal Gladiator's Mooncloth Hood",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35084] = {id=35084,name="Brutal Gladiator's Satin Hood",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35097] = {id=35097,name="Brutal Gladiator's Silk Cowl",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[35182] = {id=35182,name="Hyper-Magnified Moon Specs",source={ID=46109,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30988] = {id=30988,name="Lightbringer Greathelm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33708] = {id=33708,name="Vengeful Gladiator's Linked Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33730] = {id=33730,name="Vengeful Gladiator's Plate Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31997] = {id=31997,name="Merciless Gladiator's Lamellar Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32011] = {id=32011,name="Merciless Gladiator's Mail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32035] = {id=32035,name="Merciless Gladiator's Satin Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30219] = {id=30219,name="Nordrassil Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35393] = {id=35393,name="Seer's Ringmail Headpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30961] = {id=30961,name="Ash-Covered Helm",source={ID=10816,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30988] = {id=30988,name="Lightbringer Greathelm",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33708] = {id=33708,name="Vengeful Gladiator's Linked Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33730] = {id=33730,name="Vengeful Gladiator's Plate Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31997] = {id=31997,name="Merciless Gladiator's Lamellar Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32011] = {id=32011,name="Merciless Gladiator's Mail Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32035] = {id=32035,name="Merciless Gladiator's Satin Hood",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30219] = {id=30219,name="Nordrassil Headguard",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35393] = {id=35393,name="Seer's Ringmail Headpiece",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[30961] = {id=30961,name="Ash-Covered Helm",source={ID=10816,SourceName="Reclaiming Holy Grounds",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[24265] = {id=24265,name="Old Spellstrike Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25570] = {id=25570,name="Melia's Lustrous Crown",source={ID=9863,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25570] = {id=25570,name="Melia's Lustrous Crown",source={ID=9863,SourceName="Vile Idolatry",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[28761] = {id=28761,name="Exorcist's Scaled Helm",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
 items[24826] = {id=24826,name="Netherstalker Helmet",source={ID=17259,SourceName="Bonechewer Hungerer",SourceType="Kill",DropChance="0.7",Zone="Hellfire Ramparts"}}
 items[24593] = {id=24593,name="Fireheart Skullcap",source={ID=16964,SourceName="Warlord Morkh",SourceType="Kill",DropChance="11.1",Zone="Hellfire Peninsula"}}
-items[24697] = {id=24697,name="Bonechewer Skincloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24697] = {id=24697,name="Bonechewer Skincloak",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.2",Zone="Hellfire Peninsula"}}
 items[25345] = {id=25345,name="Dilapidated Cloth Hat",source={ID=19544,SourceName="Conjurer Luminrath",SourceType="Kill",DropChance="20.0",Zone="Netherstorm"}}
 items[16854] = {id=16854,name="Lawbringer Helm",source={ID=12057,SourceName="Garr",SourceType="Kill",DropChance="14.3",Zone="Molten Core"}}
 items[10388] = {id=10388,name="Hyperion Helm",source={ID=15818,SourceName="Lieutenant General Nokhor",SourceType="Kill",DropChance="9.9",Zone="Silithus"}}
@@ -747,28 +747,28 @@ items[18718] = {id=18718,name="Grand Crusader's Helm",source={ID=10812,SourceNam
 items[18870] = {id=18870,name="Helm of the Lifegiver",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="2.2",Zone="Molten Core"}}
 items[12953] = {id=12953,name="Dragoneye Coif",source={ID=10339,SourceName="Gyth",SourceType="Kill",DropChance="19.1",Zone="Blackrock Spire"}}
 items[12417] = {id=12417,name="Radiant Circlet",source={ID=16659,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[33672] = {id=33672,name="Vengeful Gladiator's Dragonhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33751] = {id=33751,name="Vengeful Gladiator's Scaled Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31974] = {id=31974,name="Merciless Gladiator's Dreadweave Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33672] = {id=33672,name="Vengeful Gladiator's Dragonhide Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33751] = {id=33751,name="Vengeful Gladiator's Scaled Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31974] = {id=31974,name="Merciless Gladiator's Dreadweave Hood",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[25026] = {id=25026,name="Warlord's Iron-Helm",source={ID=22281,SourceName="Galvanoth",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
 items[25018] = {id=25018,name="Shattered Hand Helmet",source={ID=16544,SourceName="Ethereal Thief",SourceType="Kill",DropChance="20.0",Zone="Karazhan"}}
 items[28215] = {id=28215,name="Mok'Nathal Mask of Battle",source={ID=17848,SourceName="Lieutenant Drake",SourceType="Kill",DropChance="22.3",Zone="Old Hillsbrad Foothills"}}
-items[31552] = {id=31552,name="Windchanneller's Miter",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31552] = {id=31552,name="Windchanneller's Miter",source={ID=32629,SourceName="Large Gold Metamorphosis Geode",SourceType="Container",DropChance="100.0",Zone="Unknown"}}
 items[24898] = {id=24898,name="Sundered Helmet",source={ID=16468,SourceName="Spectral Patron",SourceType="Kill",DropChance="6.6",Zone="Karazhan"}}
-items[30329] = {id=30329,name="Flesh Handler's Headpiece",source={ID=10353,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30337] = {id=30337,name="Protectorate Headplate",source={ID=10406,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30329] = {id=30329,name="Flesh Handler's Headpiece",source={ID=10353,SourceName="Arconus the Insatiable",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30337] = {id=30337,name="Protectorate Headplate",source={ID=10406,SourceName="Delivering the Message",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[24665] = {id=24665,name="Shadow Council Cowl",source={ID=18421,SourceName="Sunseeker Researcher",SourceType="Kill",DropChance="20.0",Zone="The Botanica"}}
 items[24777] = {id=24777,name="Boneshredder Skullcap",source={ID=20865,SourceName="Protean Horror",SourceType="Kill",DropChance="12.5",Zone="The Arcatraz"}}
 items[24890] = {id=24890,name="Skettis Helmet",source={ID=21089,SourceName="Sunfury Blood Knight",SourceType="Kill",DropChance="7.6",Zone="Netherstorm"}}
-items[24882] = {id=24882,name="Der'izu Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24882] = {id=24882,name="Der'izu Helm",source={ID=20453,SourceName="Ethereum Shocktrooper",SourceType="Kill",DropChance="0.1",Zone="Netherstorm"}}
 items[24649] = {id=24649,name="Astralaan Headdress",source={ID=20140,SourceName="Sunfury Centurion",SourceType="Kill",DropChance="5.2",Zone="Netherstorm"}}
 items[24986] = {id=24986,name="Boulderfist Helm",source={ID=18879,SourceName="Phase Hunter",SourceType="Kill",DropChance="3.5",Zone="Netherstorm"}}
-items[24753] = {id=24753,name="Daggerfen Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24753] = {id=24753,name="Daggerfen Cowl",source={ID=18554,SourceName="Sharth Voldoun",SourceType="Kill",DropChance="0.4",Zone="Terokkar Forest"}}
 items[28576] = {id=28576,name="Exorcist's Chain Helm",source={ID=19773,SourceName="Spirit Sage Zran",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
 items[24617] = {id=24617,name="Vindicator Cap",source={ID=17958,SourceName="Coilfang Defender",SourceType="Kill",DropChance="4.0",Zone="The Slave Pens"}}
 items[24705] = {id=24705,name="Haal'eshi Hat",source={ID=16932,SourceName="Razorfang Hatchling",SourceType="Kill",DropChance="1.2",Zone="Hellfire Peninsula"}}
 items[24818] = {id=24818,name="Felstone Helm",source={ID=17280,SourceName="Shattered Hand Warhound",SourceType="Kill",DropChance="0.5",Zone="Hellfire Ramparts"}}
-items[24585] = {id=24585,name="Outlander's Facewrap",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24585] = {id=24585,name="Outlander's Facewrap",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.4",Zone="Hellfire Peninsula"}}
 items[24810] = {id=24810,name="Unyielding Helm",source={ID=18975,SourceName="Wrathguard",SourceType="Kill",DropChance="0.9",Zone="Hellfire Peninsula"}}
 items[25362] = {id=25362,name="Decaying Leather Helmet",source={ID=19513,SourceName="Mutate Fear-Shrieker",SourceType="Kill",DropChance="16.6",Zone="The Botanica"}}
 items[25377] = {id=25377,name="Corroded Mail Circlet",source={ID=19209,SourceName="Summoned Cabal Deathsworn",SourceType="Kill",DropChance="80.9",Zone="Shadow Labyrinth"}}
@@ -781,37 +781,37 @@ items[18490] = {id=18490,name="Insightful Hood",source={ID=14324,SourceName="Cho
 items[22225] = {id=22225,name="Dragonskin Cowl",source={ID=10339,SourceName="Gyth",SourceType="Kill",DropChance="16.0",Zone="Blackrock Spire"}}
 items[14436] = {id=14436,name="Windchaser Coronet",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.3",Zone="Maraudon"}}
 items[6422] = {id=6422,name="Glyphed Helm",source={ID=2558,SourceName="Witherbark Berserker",SourceType="Kill",DropChance="0.2",Zone="Arathi Highlands"}}
-items[14410] = {id=14410,name="Stonecloth Circlet",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
+items[14410] = {id=14410,name="Stonecloth Circlet",source={ID=23701,SourceName="Mirefin Ambusher",SourceType="Kill",DropChance="0.9",Zone="Dustwallow Marsh"}}
 items[3890] = {id=3890,name="Studded Hat",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
-items[3392] = {id=3392,name="Ringed Helm",source={ID=2108,SourceName="Garneg Charskull",SourceType="Kill",DropChance="31.0",Zone="Wetlands"}}
-items[35044] = {id=35044,name="Brutal Gladiator's Linked Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31027] = {id=31027,name="Slayer's Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31037] = {id=31037,name="Thunderheart Helmet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33691] = {id=33691,name="Vengeful Gladiator's Kodohide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33745] = {id=33745,name="Vengeful Gladiator's Satin Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31988] = {id=31988,name="Merciless Gladiator's Kodohide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32006] = {id=32006,name="Merciless Gladiator's Linked Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30115] = {id=30115,name="Destroyer Greathelm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30233] = {id=30233,name="Nordrassil Headpiece",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3392] = {id=3392,name="Ringed Helm",source={ID=2108,SourceName="Garneg Charskull",SourceType="Kill",DropChance="31.1",Zone="Wetlands"}}
+items[35044] = {id=35044,name="Brutal Gladiator's Linked Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31027] = {id=31027,name="Slayer's Helm",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[31037] = {id=31037,name="Thunderheart Helmet",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[33691] = {id=33691,name="Vengeful Gladiator's Kodohide Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33745] = {id=33745,name="Vengeful Gladiator's Satin Hood",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31988] = {id=31988,name="Merciless Gladiator's Kodohide Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32006] = {id=32006,name="Merciless Gladiator's Linked Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30115] = {id=30115,name="Destroyer Greathelm",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30233] = {id=30233,name="Nordrassil Headpiece",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[24531] = {id=24531,name="130 Epic Warrior Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33327] = {id=33327,name="Mask of Introspection",source={ID=23576,SourceName="Nalorakk",SourceType="Kill",DropChance="12.6",Zone="Unknown"}}
 items[24681] = {id=24681,name="Archmage Headpiece",source={ID=17993,SourceName="Bloodwarder Protector",SourceType="Kill",DropChance="11.1",Zone="The Botanica"}}
 items[24794] = {id=24794,name="Expedition Hood",source={ID=15547,SourceName="Spectral Charger",SourceType="Kill",DropChance="9.0",Zone="Karazhan"}}
 items[24906] = {id=24906,name="Talhide Helmet",source={ID=17726,SourceName="Wrathfin Myrmidon",SourceType="Kill",DropChance="20.0",Zone="The Underbog"}}
-items[31568] = {id=31568,name="Mistshroud Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31568] = {id=31568,name="Mistshroud Helm",source={ID=32626,SourceName="Large Copper Metamorphosis Geode",SourceType="Container",DropChance="100.0",Zone="Unknown"}}
 items[31637] = {id=31637,name="High Warlord's Ornamented Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34795] = {id=34795,name="Helm of Sanctification",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="13.8",Zone="Magisters' Terrace"}}
-items[29979] = {id=29979,name="Netherstorm Eyepatch",source={ID=10310,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[29773] = {id=29773,name="Battle-Mage's Helmet",source={ID=10188,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30271] = {id=30271,name="Midrealm Hat",source={ID=10267,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29979] = {id=29979,name="Netherstorm Eyepatch",source={ID=10310,SourceName="Sabotage the Warp-Gate!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29773] = {id=29773,name="Battle-Mage's Helmet",source={ID=10188,SourceName="The Sigil of Krasus",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30271] = {id=30271,name="Midrealm Hat",source={ID=10267,SourceName="Rightful Repossession",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[31217] = {id=31217,name="Crimson Beholder Eye",source={ID=18694,SourceName="Collidus the Warp-Watcher",SourceType="Kill",DropChance="42.0",Zone="Unknown"}}
 items[24657] = {id=24657,name="Consortium Hood",source={ID=20248,SourceName="Sunfury Nethermancer",SourceType="Kill",DropChance="2.7",Zone="Netherstorm"}}
-items[29969] = {id=29969,name="Sparky's Discarded Helmet",source={ID=10221,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29969] = {id=29969,name="Sparky's Discarded Helmet",source={ID=10221,SourceName="Dr. Boom!",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[29510] = {id=29510,name="Netherdrake Helm",source={ID=35572,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[24641] = {id=24641,name="Mistyreed Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24641] = {id=24641,name="Mistyreed Hood",source={ID=20334,SourceName="Bladespire Cook",SourceType="Kill",DropChance="0.5",Zone="Blade's Edge Mountains"}}
 items[24633] = {id=24633,name="Feralfen Hood",source={ID=17726,SourceName="Wrathfin Myrmidon",SourceType="Kill",DropChance="20.0",Zone="The Underbog"}}
 items[24745] = {id=24745,name="Ranger Hat",source={ID=17130,SourceName="Talbuk Stag",SourceType="Kill",DropChance="1.4",Zone="Nagrand"}}
-items[24625] = {id=24625,name="Slavehandler Cap",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24625] = {id=24625,name="Slavehandler Cap",source={ID=22378,SourceName="Cabal Interrogator",SourceType="Kill",DropChance="0.3",Zone="Terokkar Forest"}}
 items[24842] = {id=24842,name="Wrathfin Helmet",source={ID=16934,SourceName="Quillfang Ravager",SourceType="Kill",DropChance="3.8",Zone="Hellfire Peninsula"}}
 items[31182] = {id=31182,name="Legion Helm",source={ID=18679,SourceName="Vorakem Doomspeaker",SourceType="Kill",DropChance="42.7",Zone="Unknown"}}
 items[31184] = {id=31184,name="Legion Headguard",source={ID=18679,SourceName="Vorakem Doomspeaker",SourceType="Kill",DropChance="39.7",Zone="Unknown"}}
@@ -824,57 +824,57 @@ items[14539] = {id=14539,name="Bone Ring Helm",source={ID=11622,SourceName="Ratt
 items[18698] = {id=18698,name="Tattered Leather Hood",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="0",Zone="Scholomance"}}
 items[10241] = {id=10241,name="Heavy Lamellar Helm",source={ID=9604,SourceName="Gorgon'och",SourceType="Kill",DropChance="3.3",Zone="Burning Steppes"}}
 items[14263] = {id=14263,name="Bloodwoven Mask",source={ID=12206,SourceName="Primordial Behemoth",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
-items[14591] = {id=14591,name="Hawkeye's Helm",source={ID=23594,SourceName="Grimtotem Destroyer",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[14591] = {id=14591,name="Hawkeye's Helm",source={ID=23594,SourceName="Grimtotem Destroyer",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[5753] = {id=5753,name="Ruffled Chaplet",source={ID=3792,SourceName="Terrowulf Packlord",SourceType="Kill",DropChance="47.7",Zone="Ashenvale"}}
 items[32354] = {id=32354,name="Crown of Empowered Fate",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="13.6",Zone="Unknown"}}
 items[31219] = {id=31219,name="Emerald Beholder Eye",source={ID=18694,SourceName="Collidus the Warp-Watcher",SourceType="Kill",DropChance="39.9",Zone="Unknown"}}
-items[25558] = {id=25558,name="Ango'rosh Souleater's Cowl",source={ID=9810,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[29312] = {id=29312,name="Cover of Righteous Fury",source={ID=10253,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[25558] = {id=25558,name="Ango'rosh Souleater's Cowl",source={ID=9810,SourceName="The Spirit Polluted",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[29312] = {id=29312,name="Cover of Righteous Fury",source={ID=10253,SourceName="Levixus the Soul Caller",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[24954] = {id=24954,name="Bogslayer Helm",source={ID=17429,SourceName="Fel Orc Neophyte",SourceType="Kill",DropChance="2.4",Zone="The Blood Furnace"}}
 items[31183] = {id=31183,name="Legion Coif",source={ID=18679,SourceName="Vorakem Doomspeaker",SourceType="Kill",DropChance="43.7",Zone="Unknown"}}
-items[24930] = {id=24930,name="Ango'rosh Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24930] = {id=24930,name="Ango'rosh Helm",source={ID=16925,SourceName="Bonechewer Raider",SourceType="Kill",DropChance="0.6",Zone="Hellfire Peninsula"}}
 items[18479] = {id=18479,name="Carrion Scorpid Helm",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="2.7",Zone="Dire Maul"}}
 items[10168] = {id=10168,name="Templar Crown",source={ID=8297,SourceName="Magronos the Unyielding",SourceType="Kill",DropChance="5.4",Zone="Blasted Lands"}}
-items[10833] = {id=10833,name="Horns of Eranikus",source={ID=5709,SourceName="Shade of Eranikus",SourceType="Kill",DropChance="31.3",Zone="The Temple of Atal'Hakkar"}}
+items[10833] = {id=10833,name="Horns of Eranikus",source={ID=5709,SourceName="Shade of Eranikus",SourceType="Kill",DropChance="31.5",Zone="The Temple of Atal'Hakkar"}}
 items[12410] = {id=12410,name="Thorium Helm",source={ID=16653,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19039] = {id=19039,name="Zorbin's Water Resistant Hat",source={ID=7721,SourceName="",SourceType="Quest",DropChance="0",Zone="Feralas"}}
+items[19039] = {id=19039,name="Zorbin's Water Resistant Hat",source={ID=7721,SourceName="Fuel for the Zapping",SourceType="Quest",DropChance="0",Zone="Feralas"}}
 items[9878] = {id=9878,name="Sorcerer Hat",source={ID=14237,SourceName="Oozeworm",SourceType="Kill",DropChance="5.4",Zone="Dustwallow Marsh"}}
 items[5608] = {id=5608,name="Living Cowl",source={ID=766,SourceName="Tangled Horror",SourceType="Kill",DropChance="3.1",Zone="Swamp of Sorrows"}}
 items[7357] = {id=7357,name="Elder's Hat",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
-items[34999] = {id=34999,name="Brutal Gladiator's Dragonhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35023] = {id=35023,name="Brutal Gladiator's Kodohide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33758] = {id=33758,name="Vengeful Gladiator's Silk Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31968] = {id=31968,name="Merciless Gladiator's Dragonhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32016] = {id=32016,name="Merciless Gladiator's Mooncloth Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32041] = {id=32041,name="Merciless Gladiator's Scaled Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32057] = {id=32057,name="Merciless Gladiator's Wyrmhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29791] = {id=29791,name="Reinforced Heaume",source={ID=10332,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[34999] = {id=34999,name="Brutal Gladiator's Dragonhide Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35023] = {id=35023,name="Brutal Gladiator's Kodohide Helm",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33758] = {id=33758,name="Vengeful Gladiator's Silk Cowl",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31968] = {id=31968,name="Merciless Gladiator's Dragonhide Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32016] = {id=32016,name="Merciless Gladiator's Mooncloth Hood",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32041] = {id=32041,name="Merciless Gladiator's Scaled Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32057] = {id=32057,name="Merciless Gladiator's Wyrmhide Helm",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29791] = {id=29791,name="Reinforced Heaume",source={ID=10332,SourceName="Master Smith Rhonsus",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[24769] = {id=24769,name="Clefthoof Cover",source={ID=17840,SourceName="Durnholde Tracking Hound",SourceType="Kill",DropChance="25.0",Zone="Unknown"}}
 items[24866] = {id=24866,name="Blood Knight Helm",source={ID=18521,SourceName="Raging Skeleton",SourceType="Kill",DropChance="12.5",Zone="Auchenai Crypts"}}
 items[18526] = {id=18526,name="Crown of the Ogre King",source={ID=11501,SourceName="King Gordok",SourceType="Kill",DropChance="23.6",Zone="Dire Maul"}}
 items[16686] = {id=16686,name="Magister's Crown",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="12.9",Zone="Scholomance"}}
 items[10379] = {id=10379,name="Commander's Helm",source={ID=13959,SourceName="Alterac Yeti",SourceType="Kill",DropChance="8.3",Zone="Alterac Valley"}}
-items[13216] = {id=13216,name="Crown of the Penitent",source={ID=5243,SourceName="",SourceType="Quest",DropChance="0",Zone="Stratholme"}}
-items[21317] = {id=21317,name="Helm of the Pathfinder",source={ID=8461,SourceName="",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
+items[13216] = {id=13216,name="Crown of the Penitent",source={ID=5243,SourceName="Houses of the Holy",SourceType="Quest",DropChance="0",Zone="Stratholme"}}
+items[21317] = {id=21317,name="Helm of the Pathfinder",source={ID=8461,SourceName="Deadwood of the North",SourceType="Quest",DropChance="0",Zone="Timbermaw Hold"}}
 items[186034] = {id=186034,name="Communal Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33231] = {id=33231,name="Oversized Stonemaul Hood",source={ID=11162,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[33231] = {id=33231,name="Oversized Stonemaul Hood",source={ID=11162,SourceName="Challenge to the Black Flight",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
 items[3889] = {id=3889,name="Russet Hat",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
-items[33666] = {id=33666,name="Vengeful Gladiator's Chain Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33740] = {id=33740,name="Vengeful Gladiator's Ringmail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30131] = {id=30131,name="Crystalforge War-Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30190] = {id=30190,name="Cataclysm Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33972] = {id=33972,name="Mask of Primal Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33666] = {id=33666,name="Vengeful Gladiator's Chain Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33740] = {id=33740,name="Vengeful Gladiator's Ringmail Helm",source={ID=107610,SourceName="Kitzie Crankshot",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30131] = {id=30131,name="Crystalforge War-Helm",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30190] = {id=30190,name="Cataclysm Helm",source={ID=21905,SourceName="Veynna Dawnstar",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33972] = {id=33972,name="Mask of Primal Power",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31560] = {id=31560,name="Skystalker's Shroud",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35404] = {id=35404,name="Crusader's Ornamented Headguard",source={ID=18897,SourceName="\"King\" Dond",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
 items[24994] = {id=24994,name="Warmaul Helmet",source={ID=16407,SourceName="Spectral Servant",SourceType="Kill",DropChance="2.0",Zone="Karazhan"}}
-items[24761] = {id=24761,name="Umbrafen Cap",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24978] = {id=24978,name="Reaver Helmet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24970] = {id=24970,name="Talonguard Helmet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24737] = {id=24737,name="Sunroc Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24850] = {id=24850,name="Fenclaw Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24729] = {id=24729,name="Dementia Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24761] = {id=24761,name="Umbrafen Cap",source={ID=19994,SourceName="Bloodmaul Warlock",SourceType="Kill",DropChance="0.2",Zone="Blade's Edge Mountains"}}
+items[24978] = {id=24978,name="Reaver Helmet",source={ID=19747,SourceName="Baelmon the Hound-Master",SourceType="Kill",DropChance="0.2",Zone="Blade's Edge Mountains"}}
+items[24970] = {id=24970,name="Talonguard Helmet",source={ID=22307,SourceName="Rotting Forest-Rager",SourceType="Kill",DropChance="0.1",Zone="Terokkar Forest"}}
+items[24737] = {id=24737,name="Sunroc Mask",source={ID=21941,SourceName="Accursed Apparition",SourceType="Kill",DropChance="0.6",Zone="Terokkar Forest"}}
+items[24850] = {id=24850,name="Fenclaw Helm",source={ID=18260,SourceName="Boulderfist Invader",SourceType="Kill",DropChance="0.1",Zone="Terokkar Forest"}}
+items[24729] = {id=24729,name="Dementia Hood",source={ID=17729,SourceName="Murkblood Spearman",SourceType="Kill",DropChance="0.1",Zone="The Underbog"}}
 items[24946] = {id=24946,name="Bloodscale Helm",source={ID=17429,SourceName="Fel Orc Neophyte",SourceType="Kill",DropChance="2.4",Zone="The Blood Furnace"}}
-items[25981] = {id=25981,name="Dirigible Crash Helmet",source={ID=10161,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[25981] = {id=25981,name="Dirigible Crash Helmet",source={ID=10161,SourceName="In Case of Emergency...",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
 items[21484] = {id=21484,name="Helm of Regrowth",source={ID=15369,SourceName="Ayamiss the Hunter",SourceType="Kill",DropChance="34.9",Zone="Ruins of Ahn'Qiraj"}}
 items[22759] = {id=22759,name="Bramblewood Helm",source={ID=28472,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16834] = {id=16834,name="Cenarion Helm",source={ID=12057,SourceName="Garr",SourceType="Kill",DropChance="25.0",Zone="Molten Core"}}
@@ -882,7 +882,7 @@ items[16428] = {id=16428,name="Lieutenant Commander's Chain Helmet",source={ID=0
 items[17566] = {id=17566,name="Lieutenant Commander's Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[17570] = {id=17570,name="Champion's Dreadweave Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[12904] = {id=12904,name="Shawn's Super Special Swami Hat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[12960] = {id=12960,name="Tribal War Feathers",source={ID=10339,SourceName="Gyth",SourceType="Kill",DropChance="19.5",Zone="Blackrock Spire"}}
+items[12960] = {id=12960,name="Tribal War Feathers",source={ID=10339,SourceName="Gyth",SourceType="Kill",DropChance="19.4",Zone="Blackrock Spire"}}
 items[15080] = {id=15080,name="Heavy Scorpid Helm",source={ID=19088,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[7934] = {id=7934,name="Heavy Mithril Helm",source={ID=9970,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4080] = {id=4080,name="Blackforge Cowl",source={ID=8279,SourceName="Faulty War Golem",SourceType="Kill",DropChance="0.3",Zone="Searing Gorge"}}
@@ -890,30 +890,30 @@ items[14944] = {id=14944,name="Warbringer's Crown",source={ID=5356,SourceName="S
 items[14246] = {id=14246,name="Darkmist Wizard Hat",source={ID=10080,SourceName="Sandarr Dunereaver",SourceType="Kill",DropChance="0.3",Zone="Zul'Farrak"}}
 items[14899] = {id=14899,name="Saltstone Helm",source={ID=4331,SourceName="Firemane Ash Tail",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
 items[14584] = {id=14584,name="Dokebi Hat",source={ID=4382,SourceName="Withervine Creeper",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
-items[10408] = {id=10408,name="Banded Helm",source={ID=7361,SourceName="Grubbis",SourceType="Kill",DropChance="3.1",Zone="Gnomeregan"}}
-items[35061] = {id=35061,name="Brutal Gladiator's Ornamented Headcover",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31014] = {id=31014,name="Skyshatter Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30931] = {id=30931,name="Ghostly Headwrap",source={ID=10541,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[10408] = {id=10408,name="Banded Helm",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
+items[35061] = {id=35061,name="Brutal Gladiator's Ornamented Headcover",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[31014] = {id=31014,name="Skyshatter Headguard",source={ID=23381,SourceName="Tydormu",SourceType="Purchase",DropChance="100",Zone="Hyjal Summit"}}
+items[30931] = {id=30931,name="Ghostly Headwrap",source={ID=10541,SourceName="The Cipher of Damnation - The Second Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[25683] = {id=25683,name="Stylin' Crimson Hat",source={ID=32488,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31220] = {id=31220,name="Amethyst Beholder Eye",source={ID=18694,SourceName="Collidus the Warp-Watcher",SourceType="Kill",DropChance="49.5",Zone="Unknown"}}
-items[30269] = {id=30269,name="Warp-Raider's Eyepatch",source={ID=10309,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[24858] = {id=24858,name="Marshcreeper Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30269] = {id=30269,name="Warp-Raider's Eyepatch",source={ID=10309,SourceName="It's a Fel Reaver, But with Heart",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[24858] = {id=24858,name="Marshcreeper Helm",source={ID=21189,SourceName="Crystal Flayer",SourceType="Kill",DropChance="0.1",Zone="Blade's Edge Mountains"}}
 items[24938] = {id=24938,name="Darkcrest Helm",source={ID=17259,SourceName="Bonechewer Hungerer",SourceType="Kill",DropChance="6.6",Zone="Hellfire Ramparts"}}
 items[16929] = {id=16929,name="Nemesis Skullcap",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="31.5",Zone="Unknown"}}
-items[13986] = {id=13986,name="Crown of Caer Darrow",source={ID=5466,SourceName="",SourceType="Quest",DropChance="0",Zone="Scholomance"}}
+items[13986] = {id=13986,name="Crown of Caer Darrow",source={ID=5466,SourceName="The Lich, Ras Frostwhisper",SourceType="Quest",DropChance="0",Zone="Scholomance"}}
 items[16429] = {id=16429,name="Lieutenant Commander's Plate Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16434] = {id=16434,name="Lieutenant Commander's Lamellar Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16983] = {id=16983,name="Molten Helm",source={ID=20854,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[186026] = {id=186026,name="Communal Crown",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[10743] = {id=10743,name="Drakefire Headguard",source={ID=3463,SourceName="",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
+items[10743] = {id=10743,name="Drakefire Headguard",source={ID=3463,SourceName="Set Them Ablaze!",SourceType="Quest",DropChance="0",Zone="Searing Gorge"}}
 items[10032] = {id=10032,name="Stormcloth Headband",source={ID=12083,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[9849] = {id=9849,name="Conjurer's Hood",source={ID=14487,SourceName="Gluggle",SourceType="Kill",DropChance="5.0",Zone="Stranglethorn Vale"}}
-items[8748] = {id=8748,name="Double Mail Coif",source={ID=4394,SourceName="Bubbling Swamp Ooze",SourceType="Kill",DropChance="1.1",Zone="Dustwallow Marsh"}}
+items[8748] = {id=8748,name="Double Mail Coif",source={ID=4394,SourceName="Bubbling Swamp Ooze",SourceType="Kill",DropChance="0.8",Zone="Dustwallow Marsh"}}
 items[24802] = {id=24802,name="Dragonhawk Hat",source={ID=23333,SourceName="The Grand Collector",SourceType="Kill",DropChance="1.3",Zone="Unknown"}}
-items[35388] = {id=35388,name="Seer's Mail Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30922] = {id=30922,name="Ata'mal Crown",source={ID=10816,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[35388] = {id=35388,name="Seer's Mail Helm",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30922] = {id=30922,name="Ata'mal Crown",source={ID=10816,SourceName="Reclaiming Holy Grounds",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[27993] = {id=27993,name="Mask of Inner Fire",source={ID=17879,SourceName="Chrono Lord Deja",SourceType="Kill",DropChance="22.3",Zone="The Black Morass"}}
-items[24874] = {id=24874,name="Ironspine Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24874] = {id=24874,name="Ironspine Helm",source={ID=19757,SourceName="Infernal Soul",SourceType="Kill",DropChance="1.2",Zone="Shadowmoon Valley"}}
 items[16821] = {id=16821,name="Nightslayer Cover",source={ID=12057,SourceName="Garr",SourceType="Kill",DropChance="24.6",Zone="Molten Core"}}
 items[16514] = {id=16514,name="Champion's Plate Headguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20551] = {id=20551,name="Darkrune Helm",source={ID=24913,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -921,44 +921,44 @@ items[14969] = {id=14969,name="Glorious Headdress",source={ID=15319,SourceName="
 items[12549] = {id=12549,name="Braincage",source={ID=9030,SourceName="Ok'thor the Breaker",SourceType="Kill",DropChance="0.1",Zone="Blackrock Depths"}}
 items[8142] = {id=8142,name="Chromite Barbute",source={ID=4849,SourceName="Shadowforge Archaeologist",SourceType="Kill",DropChance="0.1",Zone="Uldaman"}}
 items[3011] = {id=3011,name="Feathered Headdress",source={ID=2452,SourceName="Skhowl",SourceType="Kill",DropChance="71.0",Zone="Alterac Mountains"}}
-items[31980] = {id=31980,name="Merciless Gladiator's Felweave Cowl",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31980] = {id=31980,name="Merciless Gladiator's Felweave Cowl",source={ID=26091,SourceName="Olus",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[16424] = {id=16424,name="Lieutenant Commander's Dragonhide Shroud",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16503] = {id=16503,name="Champion's Dragonhide Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[12612] = {id=12612,name="Runic Plate Helm",source={ID=16726,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[18308] = {id=18308,name="Clever Hat",source={ID=11490,SourceName="Zevrim Thornhoof",SourceType="Kill",DropChance="24.5",Zone="Dire Maul"}}
-items[14961] = {id=14961,name="High Chief's Crown",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.2",Zone="Winterspring"}}
+items[14961] = {id=14961,name="High Chief's Crown",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.1",Zone="Winterspring"}}
 items[8208] = {id=8208,name="Tough Scorpid Helm",source={ID=10570,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[8279] = {id=8279,name="Valorous Helm",source={ID=5283,SourceName="Nightmare Wanderer",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
-items[13390] = {id=13390,name="The Postmaster's Band",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="5.3",Zone="Stratholme"}}
-items[22223] = {id=22223,name="Foreman's Head Protector",source={ID=9056,SourceName="Fineous Darkvire",SourceType="Kill",DropChance="17.3",Zone="Blackrock Depths"}}
+items[13390] = {id=13390,name="The Postmaster's Band",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="6.1",Zone="Stratholme"}}
+items[22223] = {id=22223,name="Foreman's Head Protector",source={ID=9056,SourceName="Fineous Darkvire",SourceType="Kill",DropChance="17.1",Zone="Blackrock Depths"}}
 items[8201] = {id=8201,name="Big Voodoo Mask",source={ID=10531,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15593] = {id=15593,name="Steadfast Coronet",source={ID=5402,SourceName="Khan Hratha",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
 items[2621] = {id=2621,name="Cowl of Necromancy",source={ID=2740,SourceName="Shadowforge Darkweaver",SourceType="Kill",DropChance="0.9",Zone="Badlands"}}
-items[23909] = {id=23909,name="Blood Elf Bandit Mask",source={ID=17591,SourceName="Blood Elf Bandit",SourceType="Kill",DropChance="11.5",Zone="Azuremyst Isle"}}
-items[28169] = {id=28169,name="Mag'hari Ritualist's Horns",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31104] = {id=31104,name="Evoker's Helmet of Second Sight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31109] = {id=31109,name="Stealther's Helmet of Second Sight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31105] = {id=31105,name="Overlord's Helmet of Second Sight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31107] = {id=31107,name="Shamanistic Helmet of Second Sight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23909] = {id=23909,name="Blood Elf Bandit Mask",source={ID=17591,SourceName="Blood Elf Bandit",SourceType="Kill",DropChance="11.2",Zone="Azuremyst Isle"}}
+items[28169] = {id=28169,name="Mag'hari Ritualist's Horns",source={ID=10172,SourceName="There Is No Hope",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[31104] = {id=31104,name="Evoker's Helmet of Second Sight",source={ID=10639,SourceName="Teron Gorefiend, I am...",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31109] = {id=31109,name="Stealther's Helmet of Second Sight",source={ID=10639,SourceName="Teron Gorefiend, I am...",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31105] = {id=31105,name="Overlord's Helmet of Second Sight",source={ID=10639,SourceName="Teron Gorefiend, I am...",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31107] = {id=31107,name="Shamanistic Helmet of Second Sight",source={ID=10639,SourceName="Teron Gorefiend, I am...",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[23828] = {id=23828,name="Gnomish Power Goggles",source={ID=30574,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[23829] = {id=23829,name="Gnomish Battle Goggles",source={ID=30575,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[33820] = {id=33820,name="Weather-Beaten Fishing Hat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33820] = {id=33820,name="Weather-Beaten Fishing Hat",source={ID=81171,SourceName="Frostdeep Cavedweller",SourceType="Kill",DropChance="1.0",Zone="Zones"}}
 items[10504] = {id=10504,name="Green Lens",source={ID=12622,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31110] = {id=31110,name="Druidic Helmet of Second Sight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31110] = {id=31110,name="Druidic Helmet of Second Sight",source={ID=10639,SourceName="Teron Gorefiend, I am...",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[23763] = {id=23763,name="Hyper-Vision Goggles",source={ID=30325,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31106] = {id=31106,name="Stalker's Helmet of Second Sight",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31106] = {id=31106,name="Stalker's Helmet of Second Sight",source={ID=10639,SourceName="Teron Gorefiend, I am...",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[23762] = {id=23762,name="Ultra-Spectropic Detection Goggles",source={ID=30318,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10542] = {id=10542,name="Goblin Mining Helmet",source={ID=12717,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[23839] = {id=23839,name="Foreman's Reinforced Helmet",source={ID=30566,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[19972] = {id=19972,name="Lucky Fishing Hat",source={ID=8221,SourceName="",SourceType="Quest",DropChance="0",Zone="Fishing"}}
+items[19972] = {id=19972,name="Lucky Fishing Hat",source={ID=8221,SourceName="Rare Fish - Keefer's Angelfish",SourceType="Quest",DropChance="0",Zone="Fishing"}}
 items[23758] = {id=23758,name="Cogspinner Goggles",source={ID=30316,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10726] = {id=10726,name="Gnomish Mind Control Cap",source={ID=12907,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[23838] = {id=23838,name="Foreman's Enchanted Helmet",source={ID=30565,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[34827] = {id=34827,name="Noble's Monocle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34827] = {id=34827,name="Noble's Monocle",source={ID=81171,SourceName="Frostdeep Cavedweller",SourceType="Kill",DropChance="0.5",Zone="Zones"}}
 items[38089] = {id=38089,name="Ruby Shades",source={ID=18756,SourceName="Haris Pilton",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[10588] = {id=10588,name="Goblin Rocket Helmet",source={ID=12758,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4385] = {id=4385,name="Green Tinted Goggles",source={ID=3956,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32871] = {id=32871,name="Horns of the Illidari",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32871] = {id=32871,name="Horns of the Illidari",source={ID=11090,SourceName="Quests",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[10501] = {id=10501,name="Catseye Ultra Goggles",source={ID=12607,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[7997] = {id=7997,name="Red Defias Mask",source={ID=450,SourceName="Defias Renegade Mage",SourceType="Kill",DropChance="4.6",Zone="Westfall"}}
 items[38506] = {id=38506,name="Don Carlos' Famous Hat",source={ID=28132,SourceName="Don Carlos",SourceType="Kill",DropChance="88.6",Zone="Unknown"}}
@@ -975,7 +975,7 @@ items[20562] = {id=20562,name="Flimsy Female Dwarf Mask",source={ID=20393,Source
 items[32972] = {id=32972,name="Beer Goggles",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[9653] = {id=9653,name="Speedy Racer Goggles",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20597] = {id=20597,name="Sturdy Male Troll Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33047] = {id=33047,name="Belbi's Eyesight Enhancing Romance Goggles",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33047] = {id=33047,name="Belbi's Eyesight Enhancing Romance Goggles",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
 items[20773] = {id=20773,name="63 green shaman coif",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14386] = {id=14386,name="Durability Hat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20391] = {id=20391,name="Flimsy Male Gnome Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
@@ -1010,7 +1010,7 @@ items[20595] = {id=20595,name="Sturdy Male Orc Mask",source={ID=0,SourceName="",
 items[20596] = {id=20596,name="Sturdy Male Tauren Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20598] = {id=20598,name="Sturdy Male Undead Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[30935] = {id=30935,name="QR 10637 Leather Rogue Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25575] = {id=25575,name="Thunderbringer's Guard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25575] = {id=25575,name="Thunderbringer's Guard",source={ID=9866,SourceName="He Will Walk The Earth...",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[30719] = {id=30719,name="Spectrecles",source={ID=37602,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16008] = {id=16008,name="Master Engineer's Goggles",source={ID=19825,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20584] = {id=20584,name="Sturdy Female Gnome Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -1021,28 +1021,28 @@ items[10506] = {id=10506,name="Deepdive Helmet",source={ID=12617,SourceName="",S
 items[33864] = {id=33864,name="Brown Brewfest Hat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33967] = {id=33967,name="Green Brewfest Hat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33968] = {id=33968,name="Blue Brewfest Hat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33969] = {id=33969,name="Purple Brewfest Hat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34001] = {id=34001,name="Flimsy Female Draenei Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33969] = {id=33969,name="Purple Brewfest Hat",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[34001] = {id=34001,name="Flimsy Female Draenei Mask",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="0.2",Zone="Zones"}}
 items[24137] = {id=24137,name="PH Plate Ramparts Reward",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34006] = {id=34006,name="Sturdy Male Blood Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34007] = {id=34007,name="Sturdy Male Draenei Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[21525] = {id=21525,name="Green Winter Hat",source={ID=16807,SourceName="Grand Warlock Nethekurse",SourceType="Kill",DropChance="20.0",Zone="The Shattered Halls"}}
-items[34002] = {id=34002,name="Flimsy Male Blood Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34003] = {id=34003,name="Flimsy Male Draenei Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34002] = {id=34002,name="Flimsy Male Blood Elf Mask",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="0.2",Zone="Zones"}}
+items[34003] = {id=34003,name="Flimsy Male Draenei Mask",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="0.2",Zone="Zones"}}
 items[25571] = {id=25571,name="QR 9863 Druid Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34004] = {id=34004,name="Sturdy Female Draenei Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[34005] = {id=34005,name="Sturdy Female Blood Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34000] = {id=34000,name="Flimsy Female Blood Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34000] = {id=34000,name="Flimsy Female Blood Elf Mask",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="0.2",Zone="Zones"}}
 items[38163] = {id=38163,name="Soul-Trader's Head Wrap",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[10503] = {id=10503,name="Rose Colored Goggles",source={ID=12618,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4393] = {id=4393,name="Craftsman's Monocle",source={ID=3966,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[33074] = {id=33074,name="Test_Eyes_Hidden(builtByBlue)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33075] = {id=33075,name="Test_NoseAndEars_Hidden(builtByBlue)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[10782] = {id=10782,name="Hakkari Shroud",source={ID=10773,SourceName="Hakkari Urn",SourceType="Container",DropChance="98.3",Zone="Unknown"}}
-items[34008] = {id=34008,name="Blix's Eyesight Enhancing Romance Goggles",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10782] = {id=10782,name="Hakkari Shroud",source={ID=10773,SourceName="Hakkari Urn",SourceType="Container",DropChance="98.4",Zone="Unknown"}}
+items[34008] = {id=34008,name="Blix's Eyesight Enhancing Romance Goggles",source={ID=24495,SourceName="Blix Fixwidget",SourceType="Purchase",DropChance="100",Zone="Durotar"}}
 items[33073] = {id=33073,name="Test_Ears_Hidden(builtByBlue)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27486] = {id=27486,name="Alex Test BK Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[21524] = {id=21524,name="Red Winter Hat",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="5.6",Zone="Blackrock Depths"}}
+items[21524] = {id=21524,name="Red Winter Hat",source={ID=9019,SourceName="Emperor Dagran Thaurissan",SourceType="Kill",DropChance="5.4",Zone="Blackrock Depths"}}
 items[33292] = {id=33292,name="Hallowed Helm",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="8.0",Zone="Unknown"}}
 
 

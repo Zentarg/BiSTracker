@@ -13,7 +13,7 @@ local names = {}
 items[25686] = {id=25686,name="Fel Leather Boots",source={ID=32493,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[21870] = {id=21870,name="Frozen Shadoweave Boots",source={ID=26757,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28545] = {id=28545,name="Edgewalker Longboots",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="6.2",Zone="Karazhan"}}
-items[31288] = {id=31288,name="The Master's Treads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31288] = {id=31288,name="The Master's Treads",source={ID=16594,SourceName="Shadowmoon Acolyte",SourceType="Kill",DropChance="0",Zone="The Shattered Halls"}}
 items[28517] = {id=28517,name="Boots of Foretelling",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="13.3",Zone="Karazhan"}}
 items[16462] = {id=16462,name="Marshal's Chain Boots",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[17583] = {id=17583,name="Marshal's Dreadweave Boots",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -22,18 +22,18 @@ items[16573] = {id=16573,name="General's Mail Boots",source={ID=12792,SourceName
 items[28585] = {id=28585,name="Ruby Slippers",source={ID=18168,SourceName="The Crone",SourceType="Kill",DropChance="25.0",Zone="Karazhan"}}
 items[12426] = {id=12426,name="Imperial Plate Boots",source={ID=16657,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28982] = {id=28982,name="Marshal's Dreadweave Stalkers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[28752] = {id=28752,name="Forestlord Striders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28752] = {id=28752,name="Forestlord Striders",source={ID=16816,SourceName="Echo of Medivh",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[10332] = {id=10332,name="Scarlet Boots",source={ID=3976,SourceName="Scarlet Commander Mograine",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
 items[28663] = {id=28663,name="Boots of the Incorrupt",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
-items[28747] = {id=28747,name="Battlescar Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28747] = {id=28747,name="Battlescar Boots",source={ID=16816,SourceName="Echo of Medivh",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[16545] = {id=16545,name="General's Plate Boots",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[28179] = {id=28179,name="Shattrath Jumpers",source={ID=10095,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
-items[30401] = {id=30401,name="Farahlite Studded Boots",source={ID=10185,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[28746] = {id=28746,name="Fiend Slayer Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28179] = {id=28179,name="Shattrath Jumpers",source={ID=10095,SourceName="Into the Heart of the Labyrinth",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[30401] = {id=30401,name="Farahlite Studded Boots",source={ID=10185,SourceName="A Fate Worse Than Death",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[28746] = {id=28746,name="Fiend Slayer Boots",source={ID=16816,SourceName="Echo of Medivh",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
 items[28987] = {id=28987,name="Marshal's Leather Boots",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28406] = {id=28406,name="Sigil-Laced Boots",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="18.8",Zone="The Arcatraz"}}
 items[28608] = {id=28608,name="Ironstriders of Urgency",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
-items[28422] = {id=28422,name="General's Leather Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28422] = {id=28422,name="General's Leather Boots",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[19684] = {id=19684,name="Bloodvine Boots",source={ID=24093,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25691] = {id=25691,name="Heavy Clefthoof Boots",source={ID=32497,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16459] = {id=16459,name="Marshal's Dragonhide Boots",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
@@ -45,38 +45,38 @@ items[17607] = {id=17607,name="Marshal's Satin Sandals",source={ID=12777,SourceN
 items[29612] = {id=29612,name="General's Lamellar Boots",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[16483] = {id=16483,name="Marshal's Plate Boots",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16437] = {id=16437,name="Marshal's Silk Footwraps",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[28176] = {id=28176,name="Sha'tari Wrought Greaves",source={ID=10095,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[28176] = {id=28176,name="Sha'tari Wrought Greaves",source={ID=10095,SourceName="Into the Heart of the Labyrinth",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[30641] = {id=30641,name="Boots of Elusion",source={ID=16408,SourceName="Phantom Valet",SourceType="Kill",DropChance="16.6",Zone="Karazhan"}}
-items[29325] = {id=29325,name="Flesh Beast's Metal Greaves",source={ID=10218,SourceName="",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
+items[29325] = {id=29325,name="Flesh Beast's Metal Greaves",source={ID=10218,SourceName="Someone Else's Hard Work Pays Off",SourceType="Quest",DropChance="0",Zone="Mana-Tombs"}}
 items[16446] = {id=16446,name="Marshal's Leather Footguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16472] = {id=16472,name="Marshal's Lamellar Boots",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28669] = {id=28669,name="Rapscallion Boots",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
-items[28410] = {id=28410,name="General's Silk Footguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28410] = {id=28410,name="General's Silk Footguards",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[29254] = {id=29254,name="Boots of the Righteous Path",source={ID=16808,SourceName="Warchief Kargath Bladefist",SourceType="Kill",DropChance="23.5",Zone="The Shattered Halls"}}
 items[28569] = {id=28569,name="Boots of Valiance",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="18.7",Zone="Karazhan"}}
-items[22440] = {id=22440,name="Cryptstalker Boots",source={ID=9058,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22440] = {id=22440,name="Cryptstalker Boots",source={ID=9058,SourceName="Cryptstalker Boots",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[30737] = {id=30737,name="Gold-Leaf Wildboots",source={ID=18728,SourceName="Doom Lord Kazzak",SourceType="Kill",DropChance="14.3",Zone="Unknown"}}
 items[29003] = {id=29003,name="Marshal's Silk Footguards",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[27813] = {id=27813,name="Boots of the Colossus",source={ID=18341,SourceName="Pandemonius",SourceType="Kill",DropChance="12.5",Zone="Mana-Tombs"}}
 items[16569] = {id=16569,name="General's Chain Boots",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29239] = {id=29239,name="Eaglecrest Warboots",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="18.5",Zone="The Blood Furnace"}}
-items[28383] = {id=28383,name="General's Plate Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28383] = {id=28383,name="General's Plate Greaves",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[27821] = {id=27821,name="Extravagant Boots of Malice",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="14.2",Zone="Mana-Tombs"}}
-items[30939] = {id=30939,name="Felboar Hide Shoes",source={ID=10579,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30939] = {id=30939,name="Felboar Hide Shoes",source={ID=10579,SourceName="The Cipher of Damnation - The Third Fragment Recovered",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[28975] = {id=28975,name="Marshal's Chain Sabatons",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28610] = {id=28610,name="Ferocious Swift-Kickers",source={ID=17225,SourceName="Nightbane",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
 items[23073] = {id=23073,name="Boots of Displacement",source={ID=16060,SourceName="Gothik the Harvester",SourceType="Kill",DropChance="27.4",Zone="Naxxramas"}}
 items[30037] = {id=30037,name="Boots of Blasting",source={ID=36317,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31595] = {id=31595,name="General's Kodohide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22420] = {id=22420,name="Dreadnaught Sabatons",source={ID=9039,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[22430] = {id=22430,name="Redemption Boots",source={ID=9047,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[31595] = {id=31595,name="General's Kodohide Boots",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[22420] = {id=22420,name="Dreadnaught Sabatons",source={ID=9039,SourceName="Dreadnaught Sabatons",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22430] = {id=22430,name="Redemption Boots",source={ID=9047,SourceName="Redemption Boots",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[24064] = {id=24064,name="Ironsole Clompers",source={ID=185168,SourceName="Reinforced Fel Iron Chest",SourceType="Container",DropChance="23.5",Zone="Hellfire Ramparts"}}
 items[30041] = {id=30041,name="Boots of Natural Grace",source={ID=36355,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[28670] = {id=28670,name="Boots of the Infernal Coven",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="14.2",Zone="Karazhan"}}
 items[31597] = {id=31597,name="Marshal's Kodohide Boots",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[29251] = {id=29251,name="Boots of the Pious",source={ID=19220,SourceName="Pathaleon the Calculator",SourceType="Kill",DropChance="33.3",Zone="The Mechanar"}}
 items[29248] = {id=29248,name="Shadowstep Striders",source={ID=20912,SourceName="Harbinger Skyriss",SourceType="Kill",DropChance="12.8",Zone="The Arcatraz"}}
-items[22508] = {id=22508,name="Plagueheart Sandals",source={ID=9107,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22508] = {id=22508,name="Plagueheart Sandals",source={ID=9107,SourceName="Plagueheart Sandals",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[16558] = {id=16558,name="General's Leather Treads",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28985] = {id=28985,name="Marshal's Lamellar Greaves",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[17562] = {id=17562,name="Knight-Lieutenant's Dreadweave Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -87,46 +87,46 @@ items[23275] = {id=23275,name="Knight-Lieutenant's Lamellar Sabatons",source={ID
 items[23291] = {id=23291,name="Knight-Lieutenant's Silk Walkers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16984] = {id=16984,name="Black Dragonscale Boots",source={ID=20855,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27467] = {id=27467,name="Silent-Strider Kneeboots",source={ID=17308,SourceName="Omor the Unscarred",SourceType="Kill",DropChance="8.1",Zone="Hellfire Ramparts"}}
-items[22468] = {id=22468,name="Earthshatter Boots",source={ID=9072,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[21388] = {id=21388,name="Avenger's Greaves",source={ID=8655,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[22468] = {id=22468,name="Earthshatter Boots",source={ID=9072,SourceName="Earthshatter Boots",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[21388] = {id=21388,name="Avenger's Greaves",source={ID=8655,SourceName="Avenger's Greaves",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[13864] = {id=13864,name="Runecloth Boots",source={ID=18423,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22516] = {id=22516,name="Sandals of Faith",source={ID=9115,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22516] = {id=22516,name="Sandals of Faith",source={ID=9115,SourceName="Sandals of Faith",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[14621] = {id=14621,name="Deathbone Sabatons",source={ID=10502,SourceName="Lady Illucia Barov",SourceType="Kill",DropChance="3.9",Zone="Scholomance"}}
 items[14616] = {id=14616,name="Bloodmail Boots",source={ID=10507,SourceName="The Ravenian",SourceType="Kill",DropChance="3.8",Zone="Scholomance"}}
 items[30680] = {id=30680,name="Glider's Foot-Wraps",source={ID=16180,SourceName="Shadikith the Glider",SourceType="Kill",DropChance="50.5",Zone="Unknown"}}
 items[30104] = {id=30104,name="Cobra-Lash Boots",source={ID=21212,SourceName="Lady Vashj",SourceType="Kill",DropChance="18.7",Zone="Serpentshrine Cavern"}}
-items[31532] = {id=31532,name="Supple Leather Boots",source={ID=10607,SourceName="",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
+items[31532] = {id=31532,name="Supple Leather Boots",source={ID=10607,SourceName="Whispers of the Raven God",SourceType="Quest",DropChance="0",Zone="Blade's Edge Mountains"}}
 items[29601] = {id=29601,name="Blood Guard's Lamellar Sabatons",source={ID=12795,SourceName="First Sergeant Hola'mahi",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
 items[22852] = {id=22852,name="Blood Guard's Dragonhide Treads",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[17586] = {id=17586,name="General's Dreadweave Boots",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[20186] = {id=20186,name="Defiler's Leather Boots",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[30031] = {id=30031,name="Red Havoc Boots",source={ID=36392,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30039] = {id=30039,name="Boots of Utter Darkness",source={ID=36357,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[13101] = {id=13101,name="Wolfrunner Shoes",source={ID=11498,SourceName="Skarr the Unbreakable",SourceType="Kill",DropChance="12.3",Zone="Unknown"}}
+items[13101] = {id=13101,name="Wolfrunner Shoes",source={ID=11498,SourceName="Skarr the Unbreakable",SourceType="Kill",DropChance="12.2",Zone="Unknown"}}
 items[19381] = {id=19381,name="Boots of the Shadow Flame",source={ID=11583,SourceName="Nefarian",SourceType="Kill",DropChance="32.1",Zone="Blackwing Lair"}}
-items[11908] = {id=11908,name="Archaeologist's Quarry Boots",source={ID=3882,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
-items[28402] = {id=28402,name="General's Dreadweave Stalkers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28449] = {id=28449,name="General's Chain Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11908] = {id=11908,name="Archaeologist's Quarry Boots",source={ID=3882,SourceName="Roll the Bones",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[28402] = {id=28402,name="General's Dreadweave Stalkers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[28449] = {id=28449,name="General's Chain Sabatons",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[16675] = {id=16675,name="Beaststalker's Boots",source={ID=10437,SourceName="Nerub'enkan",SourceType="Kill",DropChance="17.7",Zone="Stratholme"}}
-items[20641] = {id=20641,name="Southsea Mojo Boots",source={ID=8366,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[20641] = {id=20641,name="Southsea Mojo Boots",source={ID=8366,SourceName="Southsea Shakedown",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
 items[13100] = {id=13100,name="Furen's Boots",source={ID=742,SourceName="Green Wyrmkin",SourceType="Kill",DropChance="0",Zone="Swamp of Sorrows"}}
 items[22857] = {id=22857,name="Blood Guard's Mail Greaves",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[21853] = {id=21853,name="Netherweave Boots",source={ID=26772,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[21493] = {id=21493,name="Boots of the Vanguard",source={ID=15341,SourceName="General Rajaxx",SourceType="Kill",DropChance="17.2",Zone="Ruins of Ahn'Qiraj"}}
+items[21493] = {id=21493,name="Boots of the Vanguard",source={ID=15341,SourceName="General Rajaxx",SourceType="Kill",DropChance="17.1",Zone="Ruins of Ahn'Qiraj"}}
 items[27525] = {id=27525,name="Jeweled Boots of Sanctification",source={ID=16809,SourceName="Warbringer O'mrogg",SourceType="Kill",DropChance="23.2",Zone="The Shattered Halls"}}
-items[20255] = {id=20255,name="Whisperwalk Boots",source={ID=8236,SourceName="",SourceType="Quest",DropChance="0",Zone="Rogue"}}
+items[20255] = {id=20255,name="Whisperwalk Boots",source={ID=8236,SourceName="The Azure Key",SourceType="Quest",DropChance="0",Zone="Rogue"}}
 items[27848] = {id=27848,name="Embroidered Spellpyre Boots",source={ID=17380,SourceName="Broggok",SourceType="Kill",DropChance="3.2",Zone="The Blood Furnace"}}
-items[21344] = {id=21344,name="Enigma Boots",source={ID=8634,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21344] = {id=21344,name="Enigma Boots",source={ID=8634,SourceName="Enigma Boots",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[28991] = {id=28991,name="Marshal's Linked Sabatons",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[27867] = {id=27867,name="Boots of the Unjust",source={ID=18373,SourceName="Exarch Maladaar",SourceType="Kill",DropChance="5.4",Zone="Auchenai Crypts"}}
 items[30681] = {id=30681,name="Glider's Boots",source={ID=16180,SourceName="Shadikith the Glider",SourceType="Kill",DropChance="45.7",Zone="Unknown"}}
-items[28074] = {id=28074,name="Studded Green Anklewraps",source={ID=10351,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
-items[16725] = {id=16725,name="Lightforge Boots",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="18.3",Zone="Stratholme"}}
+items[28074] = {id=28074,name="Studded Green Anklewraps",source={ID=10351,SourceName="Natural Remedies",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[16725] = {id=16725,name="Lightforge Boots",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="18.6",Zone="Stratholme"}}
 items[30045] = {id=30045,name="Boots of the Crimson Hawk",source={ID=36358,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[16539] = {id=16539,name="General's Silk Boots",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[28977] = {id=28977,name="Marshal's Dragonhide Boots",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[17618] = {id=17618,name="General's Satin Boots",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[28444] = {id=28444,name="General's Dragonhide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28444] = {id=28444,name="General's Dragonhide Boots",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[10031] = {id=10031,name="Shadoweave Boots",source={ID=12082,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[4320] = {id=4320,name="Spidersilk Boots",source={ID=3855,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30060] = {id=30060,name="Boots of Effortless Striking",source={ID=21217,SourceName="The Lurker Below",SourceType="Kill",DropChance="24.5",Zone="Serpentshrine Cavern"}}
@@ -141,19 +141,19 @@ items[30067] = {id=30067,name="Velvet Boots of the Guardian",source={ID=21217,So
 items[27549] = {id=27549,name="Wavefury Boots",source={ID=17991,SourceName="Rokmar the Crackler",SourceType="Kill",DropChance="20.0",Zone="The Slave Pens"}}
 items[29262] = {id=29262,name="Boots of the Endless Hunt",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="21.3",Zone="The Botanica"}}
 items[19437] = {id=19437,name="Boots of Pure Thought",source={ID=12467,SourceName="Death Talon Captain",SourceType="Kill",DropChance="13.5",Zone="Blackwing Lair"}}
-items[20715] = {id=20715,name="Dunestalker's Boots",source={ID=8378,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[20715] = {id=20715,name="Dunestalker's Boots",source={ID=8378,SourceName="Armaments of War",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[30682] = {id=30682,name="Glider's Sabatons",source={ID=16180,SourceName="Shadikith the Glider",SourceType="Kill",DropChance="50.5",Zone="Unknown"}}
 items[27914] = {id=27914,name="Moonstrider Boots",source={ID=18472,SourceName="Darkweaver Syth",SourceType="Kill",DropChance="7.1",Zone="Sethekk Halls"}}
-items[22500] = {id=22500,name="Frostfire Sandals",source={ID=9099,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[22500] = {id=22500,name="Frostfire Sandals",source={ID=9099,SourceName="Frostfire Sandals",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[20154] = {id=20154,name="Defiler's Chain Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[30519] = {id=30519,name="Boots of the Nexus Warden",source={ID=10345,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30519] = {id=30519,name="Boots of the Nexus Warden",source={ID=10345,SourceName="The Flesh Lies...",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[29242] = {id=29242,name="Boots of Blasphemy",source={ID=17942,SourceName="Quagmirran",SourceType="Kill",DropChance="16.6",Zone="The Slave Pens"}}
 items[28994] = {id=28994,name="Marshal's Mail Sabatons",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[32978] = {id=32978,name="Marshal's Mooncloth Slippers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32978] = {id=32978,name="Marshal's Mooncloth Slippers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30050] = {id=30050,name="Boots of the Shifting Nightmare",source={ID=21216,SourceName="Hydross the Unstable",SourceType="Kill",DropChance="22.5",Zone="Serpentshrine Cavern"}}
-items[28640] = {id=28640,name="General's Mail Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22492] = {id=22492,name="Dreamwalker Boots",source={ID=9090,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
-items[21333] = {id=21333,name="Conqueror's Greaves",source={ID=8559,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[28640] = {id=28640,name="General's Mail Sabatons",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[22492] = {id=22492,name="Dreamwalker Boots",source={ID=9090,SourceName="Dreamwalker Boots",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[21333] = {id=21333,name="Conqueror's Greaves",source={ID=8559,SourceName="Conqueror's Greaves",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[29951] = {id=29951,name="Star-Strider Boots",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="26.7",Zone="Tempest Keep"}}
 items[30035] = {id=30035,name="Boots of the Long Road",source={ID=36318,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30683] = {id=30683,name="Glider's Greaves",source={ID=16180,SourceName="Shadikith the Glider",SourceType="Kill",DropChance="51.5",Zone="Unknown"}}
@@ -162,8 +162,8 @@ items[25957] = {id=25957,name="Ethereal Boots of the Skystrider",source={ID=1834
 items[20048] = {id=20048,name="Highlander's Plate Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[2276] = {id=2276,name="Swampwalker Boots",source={ID=15815,SourceName="Qiraji Captain Ka'ark",SourceType="Kill",DropChance="20.0",Zone="Thousand Needles"}}
 items[30027] = {id=30027,name="Boots of Courage Unending",source={ID=21220,SourceName="Coilfang Priestess",SourceType="Kill",DropChance="1.5",Zone="Unknown"}}
-items[28630] = {id=28630,name="General's Linked Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22480] = {id=22480,name="Bonescythe Sabatons",source={ID=9081,SourceName="",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
+items[28630] = {id=28630,name="General's Linked Sabatons",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[22480] = {id=22480,name="Bonescythe Sabatons",source={ID=9081,SourceName="Bonescythe Sabatons",SourceType="Quest",DropChance="0",Zone="Naxxramas"}}
 items[22859] = {id=22859,name="Blood Guard's Satin Walkers",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[10026] = {id=10026,name="Black Mageweave Boots",source={ID=12073,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32267] = {id=32267,name="Boots of the Resilient",source={ID=18805,SourceName="High Astromancer Solarian",SourceType="Kill",DropChance="19.1",Zone="Tempest Keep"}}
@@ -173,106 +173,106 @@ items[22858] = {id=22858,name="Blood Guard's Plate Greaves",source={ID=12792,Sou
 items[16711] = {id=16711,name="Shadowcraft Boots",source={ID=11622,SourceName="Rattlegore",SourceType="Kill",DropChance="18.2",Zone="Scholomance"}}
 items[32366] = {id=32366,name="Shadowmaster's Boots",source={ID=22947,SourceName="Mother Shahraz",SourceType="Kill",DropChance="21.1",Zone="Black Temple"}}
 items[25946] = {id=25946,name="Nethershade Boots",source={ID=18343,SourceName="Tavarok",SourceType="Kill",DropChance="21.4",Zone="Mana-Tombs"}}
-items[21373] = {id=21373,name="Stormcaller's Footguards",source={ID=8621,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21373] = {id=21373,name="Stormcaller's Footguards",source={ID=8621,SourceName="Stormcaller's Footguards",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[19897] = {id=19897,name="Betrayer's Boots",source={ID=14509,SourceName="High Priest Thekal",SourceType="Kill",DropChance="9.3",Zone="Zul'Gurub"}}
 items[11822] = {id=11822,name="Omnicast Boots",source={ID=8983,SourceName="Golem Lord Argelmach",SourceType="Kill",DropChance="36.0",Zone="Blackrock Depths"}}
 items[18295] = {id=18295,name="Phasing Boots",source={ID=13196,SourceName="Phase Lasher",SourceType="Kill",DropChance="1.3",Zone="Dire Maul"}}
 items[17748] = {id=17748,name="Vinerot Sandals",source={ID=12258,SourceName="Razorlash",SourceType="Kill",DropChance="23.9",Zone="Maraudon"}}
 items[32239] = {id=32239,name="Slippers of the Seacaller",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="17.2",Zone="Black Temple"}}
 items[28221] = {id=28221,name="Boots of the Watchful Heart",source={ID=17862,SourceName="Captain Skarloc",SourceType="Kill",DropChance="23.0",Zone="Old Hillsbrad Foothills"}}
-items[21532] = {id=21532,name="Drudge Boots",source={ID=8736,SourceName="",SourceType="Quest",DropChance="0",Zone="Moonglade"}}
+items[21532] = {id=21532,name="Drudge Boots",source={ID=8736,SourceName="The Nightmare Manifests",SourceType="Quest",DropChance="0",Zone="Moonglade"}}
 items[17576] = {id=17576,name="Blood Guard's Dreadweave Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[9398] = {id=9398,name="Worn Running Boots",source={ID=6907,SourceName="Eric \"The Swift\"",SourceType="Kill",DropChance="80.2",Zone="Uldaman"}}
 items[30081] = {id=30081,name="Warboots of Obliteration",source={ID=21213,SourceName="Morogrim Tidewalker",SourceType="Kill",DropChance="28.7",Zone="Serpentshrine Cavern"}}
 items[27451] = {id=27451,name="Boots of the Darkwalker",source={ID=17306,SourceName="Watchkeeper Gargolmar",SourceType="Kill",DropChance="11.7",Zone="Hellfire Ramparts"}}
 items[32648] = {id=32648,name="Vortex Walking Boots",source={ID=23428,SourceName="Jho'nass",SourceType="Purchase",DropChance="100",Zone="Blade's Edge Mountains"}}
-items[31125] = {id=31125,name="Boots of the Decimator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31125] = {id=31125,name="Boots of the Decimator",source={ID=17053,SourceName="Kaliri Swooper",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[7936] = {id=7936,name="Ornate Mithril Boots",source={ID=9979,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[7417] = {id=7417,name="Phalanx Boots",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
 items[20162] = {id=20162,name="Defiler's Cloth Boots",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[4321] = {id=4321,name="Spider Silk Slippers",source={ID=3856,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32790] = {id=32790,name="Veteran's Leather Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32790] = {id=32790,name="Veteran's Leather Boots",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[28318] = {id=28318,name="Obsidian Clodstompers",source={ID=17975,SourceName="High Botanist Freywinn",SourceType="Kill",DropChance="22.3",Zone="The Botanica"}}
 items[25673] = {id=25673,name="Wild Draenish Boots",source={ID=32478,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[20159] = {id=20159,name="Defiler's Cloth Boots",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[21600] = {id=21600,name="Boots of Epiphany",source={ID=15276,SourceName="Emperor Vek'lor",SourceType="Kill",DropChance="28.0",Zone="Ahn'Qiraj"}}
-items[21349] = {id=21349,name="Footwraps of the Oracle",source={ID=8596,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21349] = {id=21349,name="Footwraps of the Oracle",source={ID=8596,SourceName="Footwraps of the Oracle",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[20054] = {id=20054,name="Highlander's Cloth Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[13259] = {id=13259,name="Ribsteel Footguards",source={ID=10584,SourceName="Urok Doomhowl",SourceType="Kill",DropChance="21.5",Zone="Blackrock Spire"}}
+items[13259] = {id=13259,name="Ribsteel Footguards",source={ID=10584,SourceName="Urok Doomhowl",SourceType="Kill",DropChance="22.7",Zone="Blackrock Spire"}}
 items[20157] = {id=20157,name="Defiler's Chain Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[3482] = {id=3482,name="Silvered Bronze Boots",source={ID=3331,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32785] = {id=32785,name="Veteran's Chain Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[29808] = {id=29808,name="Shimmering Azure Boots",source={ID=10274,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[32785] = {id=32785,name="Veteran's Chain Sabatons",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[29808] = {id=29808,name="Shimmering Azure Boots",source={ID=10274,SourceName="Securing the Celestial Ridge",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[16957] = {id=16957,name="Judgement Sabatons",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="23.6",Zone="Blackwing Lair"}}
 items[20629] = {id=20629,name="Malignant Footguards",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="3.0",Zone="Duskwood"}}
-items[20710] = {id=20710,name="Crystal Encrusted Greaves",source={ID=8316,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[20710] = {id=20710,name="Crystal Encrusted Greaves",source={ID=8316,SourceName="Armaments of War",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[12419] = {id=12419,name="Radiant Boots",source={ID=16656,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32975] = {id=32975,name="General's Mooncloth Slippers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[14641] = {id=14641,name="Cadaverous Walkers",source={ID=10505,SourceName="Instructor Malicia",SourceType="Kill",DropChance="3.9",Zone="Scholomance"}}
-items[9387] = {id=9387,name="Revelosh's Boots",source={ID=6910,SourceName="Revelosh",SourceType="Kill",DropChance="23.1",Zone="Uldaman"}}
+items[32975] = {id=32975,name="General's Mooncloth Slippers",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[14641] = {id=14641,name="Cadaverous Walkers",source={ID=11261,SourceName="Doctor Theolen Krastinov",SourceType="Kill",DropChance="3.9",Zone="Scholomance"}}
+items[9387] = {id=9387,name="Revelosh's Boots",source={ID=6910,SourceName="Revelosh",SourceType="Kill",DropChance="23.0",Zone="Uldaman"}}
 items[32245] = {id=32245,name="Tide-stomper's Greaves",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="5.8",Zone="Black Temple"}}
-items[34919] = {id=34919,name="Boots of Incantations",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34919] = {id=34919,name="Boots of Incantations",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[29258] = {id=29258,name="Boots of Ethereal Manipulation",source={ID=17977,SourceName="Warp Splinter",SourceType="Kill",DropChance="25.6",Zone="The Botanica"}}
 items[21860] = {id=21860,name="Imbued Netherweave Boots",source={ID=26776,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30386] = {id=30386,name="Bloodguard's Greaves",source={ID=10198,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[28069] = {id=28069,name="Golden Cenarion Greaves",source={ID=10351,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
-items[21359] = {id=21359,name="Deathdealer's Boots",source={ID=8637,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[30386] = {id=30386,name="Bloodguard's Greaves",source={ID=10198,SourceName="Information Gathering",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[28069] = {id=28069,name="Golden Cenarion Greaves",source={ID=10351,SourceName="Natural Remedies",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[21359] = {id=21359,name="Deathdealer's Boots",source={ID=8637,SourceName="Deathdealer's Boots",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[23285] = {id=23285,name="Knight-Lieutenant's Leather Walkers",source={ID=12777,SourceName="Captain Dirgehammer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16409] = {id=16409,name="Knight-Lieutenant's Lamellar Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22231] = {id=22231,name="Kayser's Boots of Precision",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="17.4",Zone="Blackrock Spire"}}
+items[22231] = {id=22231,name="Kayser's Boots of Precision",source={ID=9237,SourceName="War Master Voone",SourceType="Kill",DropChance="17.5",Zone="Blackrock Spire"}}
 items[20656] = {id=20656,name="Abyssal Mail Sabatons",source={ID=15209,SourceName="Crimson Templar",SourceType="Kill",DropChance="13.5",Zone="Silithus"}}
 items[18692] = {id=18692,name="Death Knight Sabatons",source={ID=10433,SourceName="Marduk Blackpool",SourceType="Kill",DropChance="7.1",Zone="Scholomance"}}
-items[22275] = {id=22275,name="Firemoss Boots",source={ID=9537,SourceName="Hurley Blackbreath",SourceType="Kill",DropChance="22.5",Zone="Blackrock Depths"}}
+items[22275] = {id=22275,name="Firemoss Boots",source={ID=9537,SourceName="Hurley Blackbreath",SourceType="Kill",DropChance="22.4",Zone="Blackrock Depths"}}
 items[20121] = {id=20121,name="Highlander's Mail Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20101] = {id=20101,name="Highlander's Lizardhide Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20111] = {id=20111,name="Highlander's Lamellar Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20114] = {id=20114,name="Highlander's Leather Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[9454] = {id=9454,name="Acidic Walkers",source={ID=7079,SourceName="Viscous Fallout",SourceType="Kill",DropChance="60.2",Zone="Gnomeregan"}}
-items[35139] = {id=35139,name="Guardian's Kodohide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33880] = {id=33880,name="Vindicator's Dragonhide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9454] = {id=9454,name="Acidic Walkers",source={ID=7079,SourceName="Viscous Fallout",SourceType="Kill",DropChance="60.1",Zone="Gnomeregan"}}
+items[35139] = {id=35139,name="Guardian's Kodohide Boots",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33880] = {id=33880,name="Vindicator's Dragonhide Boots",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32345] = {id=32345,name="Dreadboots of the Legion",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="13.3",Zone="Unknown"}}
 items[30043] = {id=30043,name="Hurricane Boots",source={ID=36359,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30334] = {id=30334,name="Starcaller's Plated Stompers",source={ID=10425,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[21365] = {id=21365,name="Striker's Footguards",source={ID=8626,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
-items[18047] = {id=18047,name="Flame Walkers",source={ID=10899,SourceName="Goraluk Anvilcrack",SourceType="Kill",DropChance="17.1",Zone="Blackrock Spire"}}
-items[13402] = {id=13402,name="Timmy's Galoshes",source={ID=10808,SourceName="Timmy the Cruel",SourceType="Kill",DropChance="19.6",Zone="Stratholme"}}
+items[30334] = {id=30334,name="Starcaller's Plated Stompers",source={ID=10425,SourceName="Escape from the Staging Grounds",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[21365] = {id=21365,name="Striker's Footguards",source={ID=8626,SourceName="Striker's Footguards",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[18047] = {id=18047,name="Flame Walkers",source={ID=10899,SourceName="Goraluk Anvilcrack",SourceType="Kill",DropChance="17.2",Zone="Blackrock Spire"}}
+items[13402] = {id=13402,name="Timmy's Galoshes",source={ID=10808,SourceName="Timmy the Cruel",SourceType="Kill",DropChance="19.5",Zone="Stratholme"}}
 items[16734] = {id=16734,name="Boots of Valor",source={ID=10506,SourceName="Kirtonos the Herald",SourceType="Kill",DropChance="18.5",Zone="Scholomance"}}
 items[14549] = {id=14549,name="Boots of Avoidance",source={ID=746,SourceName="Elder Dragonkin",SourceType="Kill",DropChance="0",Zone="Swamp of Sorrows"}}
 items[20168] = {id=20168,name="Defiler's Lizardhide Boots",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[4109] = {id=4109,name="Excelsior Boots",source={ID=628,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[4109] = {id=4109,name="Excelsior Boots",source={ID=628,SourceName="Excelsior",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[6412] = {id=6412,name="Chief Brigadier Boots",source={ID=2571,SourceName="Boulderfist Lord",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
-items[9450] = {id=9450,name="Gnomebot Operating Boots",source={ID=6229,SourceName="Crowd Pummeler 9-60",SourceType="Kill",DropChance="64.9",Zone="Gnomeregan"}}
+items[9450] = {id=9450,name="Gnomebot Operating Boots",source={ID=6229,SourceName="Crowd Pummeler 9-60",SourceType="Kill",DropChance="64.8",Zone="Gnomeregan"}}
 items[20169] = {id=20169,name="Defiler's Lizardhide Boots",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[34560] = {id=34560,name="Lightbringer Stompers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34575] = {id=34575,name="Slayer's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33812] = {id=33812,name="Vindicator's Plate Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34560] = {id=34560,name="Lightbringer Stompers",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34575] = {id=34575,name="Slayer's Boots",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33812] = {id=33812,name="Vindicator's Plate Greaves",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30891] = {id=30891,name="Black Featherlight Boots",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="18.7",Zone="Hyjal Summit"}}
 items[30894] = {id=30894,name="Blue Suede Shoes",source={ID=17888,SourceName="Kaz'rogal",SourceType="Kill",DropChance="17.2",Zone="Hyjal Summit"}}
-items[32793] = {id=32793,name="Veteran's Plate Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32793] = {id=32793,name="Veteran's Plate Greaves",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30092] = {id=30092,name="Orca-Hide Boots",source={ID=21215,SourceName="Leotheras the Blind",SourceType="Kill",DropChance="14.1",Zone="Serpentshrine Cavern"}}
 items[24710] = {id=24710,name="Vengeance Boots",source={ID=17264,SourceName="Bonechewer Ravener",SourceType="Kill",DropChance="2.7",Zone="Hellfire Ramparts"}}
 items[20262] = {id=20262,name="Seafury Boots",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="8.1",Zone="Zul'Gurub"}}
 items[16393] = {id=16393,name="Knight-Lieutenant's Dragonhide Footwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[16494] = {id=16494,name="Blood Guard's Dragonhide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20537] = {id=20537,name="Runed Stygian Boots",source={ID=24903,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[14329] = {id=14329,name="Eternal Boots",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.3",Zone="Azshara"}}
+items[14329] = {id=14329,name="Eternal Boots",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="5.4",Zone="Azshara"}}
 items[10137] = {id=10137,name="High Councillor's Boots",source={ID=14473,SourceName="Lapress",SourceType="Kill",DropChance="6.9",Zone="Silithus"}}
 items[13530] = {id=13530,name="Fangdrip Runners",source={ID=10437,SourceName="Nerub'enkan",SourceType="Kill",DropChance="11.3",Zone="Stratholme"}}
 items[13070] = {id=13070,name="Sapphiron's Scale Boots",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
-items[11919] = {id=11919,name="Cragplate Greaves",source={ID=4501,SourceName="",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
+items[11919] = {id=11919,name="Cragplate Greaves",source={ID=4501,SourceName="Beware of Pterrordax",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
 items[20109] = {id=20109,name="Highlander's Lamellar Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[9645] = {id=9645,name="Gnomish Inventor Boots",source={ID=836,SourceName="",SourceType="Quest",DropChance="0",Zone="The Hinterlands"}}
+items[9645] = {id=9645,name="Gnomish Inventor Boots",source={ID=836,SourceName="Rescue OOX-09/HL!",SourceType="Quest",DropChance="0",Zone="The Hinterlands"}}
 items[13068] = {id=13068,name="Obsidian Greaves",source={ID=669,SourceName="Skullsplitter Hunter",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
 items[14250] = {id=14250,name="Lunar Slippers",source={ID=5402,SourceName="Khan Hratha",SourceType="Kill",DropChance="0.6",Zone="Desolace"}}
 items[9510] = {id=9510,name="Caverndeep Trudgers",source={ID=6215,SourceName="Chomper",SourceType="Kill",DropChance="0",Zone="Gnomeregan"}}
 items[14399] = {id=14399,name="Resilient Boots",source={ID=4066,SourceName="Nal'taszar",SourceType="Kill",DropChance="0.4",Zone="Stonetalon Mountains"}}
-items[6590] = {id=6590,name="Battleforge Boots",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="13.2",Zone="Stonetalon Mountains"}}
-items[34564] = {id=34564,name="Boots of the Malefic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34569] = {id=34569,name="Onslaught Treads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6590] = {id=6590,name="Battleforge Boots",source={ID=5915,SourceName="Brother Ravenoak",SourceType="Kill",DropChance="12.9",Zone="Stonetalon Mountains"}}
+items[34564] = {id=34564,name="Boots of the Malefic",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34569] = {id=34569,name="Onslaught Treads",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30880] = {id=30880,name="Quickstrider Moccasins",source={ID=17808,SourceName="Anetheron",SourceType="Kill",DropChance="17.2",Zone="Hyjal Summit"}}
 items[30886] = {id=30886,name="Enchanted Leather Sandals",source={ID=17808,SourceName="Anetheron",SourceType="Kill",DropChance="16.7",Zone="Hyjal Summit"}}
 items[33303] = {id=33303,name="Skullshatter Warboots",source={ID=23577,SourceName="Halazzi",SourceType="Kill",DropChance="15.5",Zone="Unknown"}}
-items[29318] = {id=29318,name="Southshore Sneakers",source={ID=10285,SourceName="",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
+items[29318] = {id=29318,name="Southshore Sneakers",source={ID=10285,SourceName="Return to Andormu",SourceType="Quest",DropChance="0",Zone="Caverns of Time"}}
 items[25668] = {id=25668,name="Thick Draenic Boots",source={ID=32472,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19387] = {id=19387,name="Chromatic Boots",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="35.6",Zone="Blackwing Lair"}}
 items[16941] = {id=16941,name="Dragonstalker's Greaves",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="34.6",Zone="Blackwing Lair"}}
@@ -281,9 +281,9 @@ items[22760] = {id=22760,name="Bramblewood Boots",source={ID=28473,SourceName=""
 items[16800] = {id=16800,name="Arcanist Boots",source={ID=12118,SourceName="Lucifron",SourceType="Kill",DropChance="27.7",Zone="Molten Core"}}
 items[22855] = {id=22855,name="Blood Guard's Dreadweave Walkers",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[20052] = {id=20052,name="Highlander's Leather Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[13954] = {id=13954,name="Verdant Footpads",source={ID=10809,SourceName="Stonespine",SourceType="Kill",DropChance="29.6",Zone="Stratholme"}}
+items[13954] = {id=13954,name="Verdant Footpads",source={ID=10809,SourceName="Stonespine",SourceType="Kill",DropChance="29.7",Zone="Stratholme"}}
 items[18476] = {id=18476,name="Mud Stained Boots",source={ID=14353,SourceName="Mizzle the Crafty",SourceType="Kill",DropChance="1.5",Zone="Dire Maul"}}
-items[13282] = {id=13282,name="Ogreseer Tower Boots",source={ID=9217,SourceName="Spirestone Lord Magus",SourceType="Kill",DropChance="25.1",Zone="Blackrock Spire"}}
+items[13282] = {id=13282,name="Ogreseer Tower Boots",source={ID=9217,SourceName="Spirestone Lord Magus",SourceType="Kill",DropChance="25.0",Zone="Blackrock Spire"}}
 items[16704] = {id=16704,name="Dreadmist Sandals",source={ID=10436,SourceName="Baroness Anastari",SourceType="Kill",DropChance="17.6",Zone="Stratholme"}}
 items[14310] = {id=14310,name="Celestial Slippers",source={ID=11444,SourceName="Gordok Mage-Lord",SourceType="Kill",DropChance="0.2",Zone="Dire Maul"}}
 items[3945] = {id=3945,name="Twill Boots",source={ID=7071,SourceName="Cursed Paladin",SourceType="Kill",DropChance="5.3",Zone="Hillsbrad Foothills"}}
@@ -292,24 +292,24 @@ items[3970] = {id=3970,name="Smooth Leather Boots",source={ID=13440,SourceName="
 items[20202] = {id=20202,name="Defiler's Mail Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[9936] = {id=9936,name="Abjurer's Boots",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[6423] = {id=6423,name="Blackforge Greaves",source={ID=680,SourceName="Mosh'Ogg Lord",SourceType="Kill",DropChance="0.2",Zone="Stranglethorn Vale"}}
-items[9917] = {id=9917,name="Tracker's Boots",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="4.5",Zone="Stranglethorn Vale"}}
+items[9917] = {id=9917,name="Tracker's Boots",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="4.4",Zone="Stranglethorn Vale"}}
 items[15599] = {id=15599,name="Ancient Greaves",source={ID=7606,SourceName="Oro Eyegouge",SourceType="Kill",DropChance="0.3",Zone="Zul'Farrak"}}
 items[20113] = {id=20113,name="Highlander's Leather Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[7354] = {id=7354,name="Elder's Boots",source={ID=14225,SourceName="Prince Kellen",SourceType="Kill",DropChance="4.4",Zone="Desolace"}}
+items[7354] = {id=7354,name="Elder's Boots",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
 items[20182] = {id=20182,name="Defiler's Lamellar Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[34574] = {id=34574,name="Boots of the Tempest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33899] = {id=33899,name="Vindicator's Mail Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33911] = {id=33911,name="Vindicator's Scaled Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32791] = {id=32791,name="Veteran's Linked Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32795] = {id=32795,name="Veteran's Silk Footguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34574] = {id=34574,name="Boots of the Tempest",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33899] = {id=33899,name="Vindicator's Mail Sabatons",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33911] = {id=33911,name="Vindicator's Scaled Greaves",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32791] = {id=32791,name="Veteran's Linked Sabatons",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32795] = {id=32795,name="Veteran's Silk Footguards",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30100] = {id=30100,name="Soul-Strider Boots",source={ID=21214,SourceName="Fathom-Lord Karathress",SourceType="Kill",DropChance="17.2",Zone="Serpentshrine Cavern"}}
-items[30335] = {id=30335,name="Druidic Force Boots",source={ID=10406,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[20619] = {id=20619,name="Acid Inscribed Greaves",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="15.0",Zone="Duskwood"}}
+items[30335] = {id=30335,name="Druidic Force Boots",source={ID=10406,SourceName="Delivering the Message",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[20619] = {id=20619,name="Acid Inscribed Greaves",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="14.9",Zone="Duskwood"}}
 items[22860] = {id=22860,name="Blood Guard's Silk Walkers",source={ID=12792,SourceName="Lady Palanseer",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[16485] = {id=16485,name="Blood Guard's Silk Footwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[10211] = {id=10211,name="Elegant Boots",source={ID=14474,SourceName="Zora",SourceType="Kill",DropChance="4.9",Zone="Silithus"}}
 items[10371] = {id=10371,name="Imbued Plate Greaves",source={ID=16132,SourceName="Huntsman Leopold",SourceType="Kill",DropChance="9.1",Zone="Eastern Plaguelands"}}
-items[11787] = {id=11787,name="Shalehusk Boots",source={ID=8923,SourceName="Panzor the Invincible",SourceType="Kill",DropChance="27.5",Zone="Blackrock Depths"}}
+items[11787] = {id=11787,name="Shalehusk Boots",source={ID=8923,SourceName="Panzor the Invincible",SourceType="Kill",DropChance="26.6",Zone="Blackrock Depths"}}
 items[15073] = {id=15073,name="Chimeric Boots",source={ID=19063,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14857] = {id=14857,name="Vanguard Sabatons",source={ID=6650,SourceName="General Fangferror",SourceType="Kill",DropChance="0.5",Zone="Azshara"}}
 items[14653] = {id=14653,name="Scorpashi Slippers",source={ID=7605,SourceName="Raven",SourceType="Kill",DropChance="0.1",Zone="Zul'Farrak"}}
@@ -322,11 +322,11 @@ items[20093] = {id=20093,name="Highlander's Padded Greaves",source={ID=15127,Sou
 items[20096] = {id=20096,name="Highlander's Cloth Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20123] = {id=20123,name="Highlander's Mail Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[32593] = {id=32593,name="Treads of the Den Mother",source={ID=22869,SourceName="Illidari Boneslicer",SourceType="Kill",DropChance="2.0",Zone="Unknown"}}
-items[32786] = {id=32786,name="Veteran's Dragonhide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28642] = {id=28642,name="General's Lamellar Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32786] = {id=32786,name="Veteran's Dragonhide Boots",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[28642] = {id=28642,name="General's Lamellar Greaves",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[29491] = {id=29491,name="Enchanted Felscale Boots",source={ID=35527,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25941] = {id=25941,name="Boots of the Outlander",source={ID=18341,SourceName="Pandemonius",SourceType="Kill",DropChance="18.7",Zone="Mana-Tombs"}}
-items[21338] = {id=21338,name="Doomcaller's Footwraps",source={ID=8660,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21338] = {id=21338,name="Doomcaller's Footwraps",source={ID=8660,SourceName="Doomcaller's Footwraps",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[21481] = {id=21481,name="Boots of the Desert Protector",source={ID=15369,SourceName="Ayamiss the Hunter",SourceType="Kill",DropChance="17.8",Zone="Ruins of Ahn'Qiraj"}}
 items[21490] = {id=21490,name="Slime Kickers",source={ID=15370,SourceName="Buru the Gorger",SourceType="Kill",DropChance="36.9",Zone="Ruins of Ahn'Qiraj"}}
 items[19144] = {id=19144,name="Sabatons of the Flamewalker",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="3.1",Zone="Molten Core"}}
@@ -335,18 +335,18 @@ items[18521] = {id=18521,name="Grimy Metal Boots",source={ID=11501,SourceName="K
 items[20049] = {id=20049,name="Highlander's Lamellar Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[14809] = {id=14809,name="Warstrike Sabatons",source={ID=12498,SourceName="Dreamstalker",SourceType="Kill",DropChance="0.7",Zone="Ashenvale"}}
 items[18379] = {id=18379,name="Odious Greaves",source={ID=11496,SourceName="Immol'thar",SourceType="Kill",DropChance="24.4",Zone="Dire Maul"}}
-items[13391] = {id=13391,name="The Postmaster's Treads",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="13.1",Zone="Stratholme"}}
-items[22472] = {id=22472,name="Boots of Ferocity",source={ID=16097,SourceName="Isalien",SourceType="Kill",DropChance="19.7",Zone="Dire Maul"}}
-items[16691] = {id=16691,name="Devout Sandals",source={ID=10438,SourceName="Maleki the Pallid",SourceType="Kill",DropChance="18.1",Zone="Stratholme"}}
-items[13284] = {id=13284,name="Swiftdart Battleboots",source={ID=9218,SourceName="Spirestone Battle Lord",SourceType="Kill",DropChance="56.6",Zone="Blackrock Spire"}}
+items[13391] = {id=13391,name="The Postmaster's Treads",source={ID=11143,SourceName="Postmaster Malown",SourceType="Kill",DropChance="14.8",Zone="Stratholme"}}
+items[22472] = {id=22472,name="Boots of Ferocity",source={ID=16097,SourceName="Isalien",SourceType="Kill",DropChance="19.6",Zone="Dire Maul"}}
+items[16691] = {id=16691,name="Devout Sandals",source={ID=10438,SourceName="Maleki the Pallid",SourceType="Kill",DropChance="18.0",Zone="Stratholme"}}
+items[13284] = {id=13284,name="Swiftdart Battleboots",source={ID=9218,SourceName="Spirestone Battle Lord",SourceType="Kill",DropChance="56.7",Zone="Blackrock Spire"}}
 items[8284] = {id=8284,name="Arcane Boots",source={ID=11885,SourceName="Blighthound",SourceType="Kill",DropChance="0.5",Zone="Eastern Plaguelands"}}
-items[18411] = {id=18411,name="Spry Boots",source={ID=7441,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[18411] = {id=18411,name="Spry Boots",source={ID=7441,SourceName="Pusillin and the Elder Azj'Tordin",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
 items[10179] = {id=10179,name="Mystical Boots",source={ID=14340,SourceName="Alshirr Banebreath",SourceType="Kill",DropChance="4.0",Zone="Felwood"}}
-items[3993] = {id=3993,name="Laminated Scale Boots",source={ID=6000,SourceName="Nethergarde Cleric",SourceType="Kill",DropChance="1.2",Zone="Blasted Lands"}}
+items[3993] = {id=3993,name="Laminated Scale Boots",source={ID=6000,SourceName="Nethergarde Cleric",SourceType="Kill",DropChance="1.1",Zone="Blasted Lands"}}
 items[14447] = {id=14447,name="Highborne Footpads",source={ID=8409,SourceName="Caravan Master Tset",SourceType="Kill",DropChance="0.3",Zone="Azshara"}}
 items[20112] = {id=20112,name="Highlander's Leather Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[22240] = {id=22240,name="Greaves of Withering Despair",source={ID=9018,SourceName="High Interrogator Gerstahn",SourceType="Kill",DropChance="16.6",Zone="Blackrock Depths"}}
-items[10786] = {id=10786,name="Atal'ai Boots",source={ID=5714,SourceName="Loro",SourceType="Kill",DropChance="9.5",Zone="The Temple of Atal'Hakkar"}}
+items[22240] = {id=22240,name="Greaves of Withering Despair",source={ID=9018,SourceName="High Interrogator Gerstahn",SourceType="Kill",DropChance="16.9",Zone="Blackrock Depths"}}
+items[10786] = {id=10786,name="Atal'ai Boots",source={ID=5714,SourceName="Loro",SourceType="Kill",DropChance="9.4",Zone="The Temple of Atal'Hakkar"}}
 items[186016] = {id=186016,name="Communal Plate Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14957] = {id=14957,name="High Chief's Sabatons",source={ID=6372,SourceName="Makrinni Snapclaw",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[10058] = {id=10058,name="Duskwoven Sandals",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
@@ -358,30 +358,30 @@ items[4001] = {id=4001,name="Overlinked Chain Boots",source={ID=5470,SourceName=
 items[20122] = {id=20122,name="Highlander's Mail Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20183] = {id=20183,name="Defiler's Lamellar Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[3847] = {id=3847,name="Golden Scale Boots",source={ID=3515,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[9382] = {id=9382,name="Tromping Miner's Boots",source={ID=7057,SourceName="Digmaster Shovelphlange",SourceType="Kill",DropChance="69.9",Zone="Unknown"}}
+items[9382] = {id=9382,name="Tromping Miner's Boots",source={ID=7057,SourceName="Digmaster Shovelphlange",SourceType="Kill",DropChance="70.0",Zone="Unknown"}}
 items[13124] = {id=13124,name="Ravasaur Scale Boots",source={ID=4382,SourceName="Withervine Creeper",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
-items[9828] = {id=9828,name="Scaled Leather Boots",source={ID=12037,SourceName="Ursol'lok",SourceType="Kill",DropChance="4.2",Zone="Ashenvale"}}
-items[1804] = {id=1804,name="Tough Leather Boots",source={ID=11684,SourceName="Warsong Shredder",SourceType="Kill",DropChance="1.6",Zone="Ashenvale"}}
+items[9828] = {id=9828,name="Scaled Leather Boots",source={ID=18241,SourceName="Crusty",SourceType="Kill",DropChance="33.3",Zone="Desolace"}}
+items[1804] = {id=1804,name="Tough Leather Boots",source={ID=14275,SourceName="Tamra Stormpike",SourceType="Kill",DropChance="1.4",Zone="Hillsbrad Foothills"}}
 items[15330] = {id=15330,name="Wrangler's Boots",source={ID=4409,SourceName="Gatekeeper Kordurus",SourceType="Kill",DropChance="0.5",Zone="Stonetalon Mountains"}}
-items[35148] = {id=35148,name="Guardian's Scaled Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34563] = {id=34563,name="Treads of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34573] = {id=34573,name="Thunderheart Treads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33884] = {id=33884,name="Vindicator's Dreadweave Stalkers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35148] = {id=35148,name="Guardian's Scaled Greaves",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34563] = {id=34563,name="Treads of Absolution",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34573] = {id=34573,name="Thunderheart Treads",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33884] = {id=33884,name="Vindicator's Dreadweave Stalkers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32243] = {id=32243,name="Pearl Inlaid Boots",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="9.8",Zone="Black Temple"}}
 items[32609] = {id=32609,name="Boots of the Divine Light",source={ID=17907,SourceName="Frost Wyrm",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
 items[30066] = {id=30066,name="Tempest-Strider Boots",source={ID=21217,SourceName="The Lurker Below",SourceType="Kill",DropChance="26.2",Zone="Serpentshrine Cavern"}}
 items[33191] = {id=33191,name="Jungle Stompers",source={ID=23576,SourceName="Nalorakk",SourceType="Kill",DropChance="12.6",Zone="Unknown"}}
 items[33805] = {id=33805,name="Shadowhunter's Treads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28251] = {id=28251,name="Boots of the Glade-Keeper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28251] = {id=28251,name="Boots of the Glade-Keeper",source={ID=184465,SourceName="Cache of the Legion",SourceType="Container",DropChance="23.7",Zone="The Mechanar"}}
 items[32778] = {id=32778,name="Boots of Righteous Fortitude",source={ID=23035,SourceName="Anzu",SourceType="Kill",DropChance="20.1",Zone="Sethekk Halls"}}
 items[27915] = {id=27915,name="Sky-Hunter Swift Boots",source={ID=18472,SourceName="Darkweaver Syth",SourceType="Kill",DropChance="28.5",Zone="Sethekk Halls"}}
-items[31276] = {id=31276,name="Boots of Zealotry",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[27728] = {id=27728,name="Cushy Cenarion Walkers",source={ID=9730,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[31276] = {id=31276,name="Boots of Zealotry",source={ID=115644,SourceName="Scalewing Queen",SourceType="Kill",DropChance="0.7",Zone="Blade's Edge Mountains"}}
+items[27728] = {id=27728,name="Cushy Cenarion Walkers",source={ID=9730,SourceName="Leader of the Darkcrest",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[31232] = {id=31232,name="Grim Sabatons",source={ID=18686,SourceName="Doomsayer Jurim",SourceType="Kill",DropChance="47.0",Zone="Unknown"}}
 items[16927] = {id=16927,name="Nemesis Boots",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="33.9",Zone="Blackwing Lair"}}
-items[21482] = {id=21482,name="Boots of the Fiery Sands",source={ID=15369,SourceName="Ayamiss the Hunter",SourceType="Kill",DropChance="15.0",Zone="Ruins of Ahn'Qiraj"}}
-items[20621] = {id=20621,name="Boots of the Endless Moor",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="10.4",Zone="Duskwood"}}
-items[19906] = {id=19906,name="Blooddrenched Footpads",source={ID=14507,SourceName="High Priest Venoxis",SourceType="Kill",DropChance="19.4",Zone="Zul'Gurub"}}
+items[21482] = {id=21482,name="Boots of the Fiery Sands",source={ID=15369,SourceName="Ayamiss the Hunter",SourceType="Kill",DropChance="14.9",Zone="Ruins of Ahn'Qiraj"}}
+items[20621] = {id=20621,name="Boots of the Endless Moor",source={ID=14889,SourceName="Emeriss",SourceType="Kill",DropChance="10.3",Zone="Duskwood"}}
+items[19906] = {id=19906,name="Blooddrenched Footpads",source={ID=14507,SourceName="High Priest Venoxis",SourceType="Kill",DropChance="19.3",Zone="Zul'Gurub"}}
 items[16803] = {id=16803,name="Felheart Slippers",source={ID=12264,SourceName="Shazzrah",SourceType="Kill",DropChance="32.8",Zone="Molten Core"}}
 items[16859] = {id=16859,name="Lawbringer Boots",source={ID=12118,SourceName="Lucifron",SourceType="Kill",DropChance="15.9",Zone="Molten Core"}}
 items[21088] = {id=21088,name="66 Epic Shadow Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -416,8 +416,8 @@ items[15370] = {id=15370,name="Wolf Rider's Boots",source={ID=7606,SourceName="O
 items[9926] = {id=9926,name="Brigade Boots",source={ID=14490,SourceName="Rippa",SourceType="Kill",DropChance="4.3",Zone="Stranglethorn Vale"}}
 items[20110] = {id=20110,name="Highlander's Lamellar Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20128] = {id=20128,name="Highlander's Plate Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[9973] = {id=9973,name="Embossed Plate Boots",source={ID=14491,SourceName="Kurmokk",SourceType="Kill",DropChance="3.8",Zone="Stranglethorn Vale"}}
-items[14828] = {id=14828,name="Symbolic Greaves",source={ID=11782,SourceName="Ambershard Destroyer",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
+items[9973] = {id=9973,name="Embossed Plate Boots",source={ID=14448,SourceName="Molt Thorn",SourceType="Kill",DropChance="3.8",Zone="Swamp of Sorrows"}}
+items[14828] = {id=14828,name="Symbolic Greaves",source={ID=4331,SourceName="Firemane Ash Tail",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
 items[6406] = {id=6406,name="Nightsky Boots",source={ID=3985,SourceName="Grandpa Vishas",SourceType="Kill",DropChance="0.2",Zone="Alterac Mountains"}}
 items[20102] = {id=20102,name="Highlander's Lizardhide Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20201] = {id=20201,name="Defiler's Mail Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
@@ -426,21 +426,21 @@ items[1780] = {id=1780,name="Cross-stitched Sandals",source={ID=5915,SourceName=
 items[1955] = {id=1955,name="Dragonmaw Chain Boots",source={ID=1035,SourceName="Dragonmaw Swamprunner",SourceType="Kill",DropChance="1.0",Zone="Wetlands"}}
 items[2149] = {id=2149,name="Polished Scale Boots",source={ID=226,SourceName="Morg Gnarltree",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
 items[3045] = {id=3045,name="Lambent Scale Boots",source={ID=898,SourceName="Nightbane Worgen",SourceType="Kill",DropChance="0.1",Zone="Duskwood"}}
-items[35143] = {id=35143,name="Guardian's Mail Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34561] = {id=34561,name="Lightbringer Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32981] = {id=32981,name="Veteran's Mooncloth Slippers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33523] = {id=33523,name="Sabatons of the Righteous Defender",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33537] = {id=33537,name="Treads of Booming Thunder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35143] = {id=35143,name="Guardian's Mail Sabatons",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34561] = {id=34561,name="Lightbringer Boots",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32981] = {id=32981,name="Veteran's Mooncloth Slippers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33523] = {id=33523,name="Sabatons of the Righteous Defender",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33537] = {id=33537,name="Treads of Booming Thunder",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[30763] = {id=30763,name="Infernoweave Boots",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[30953] = {id=30953,name="Boots of the Skybreaker",source={ID=10481,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[31112] = {id=31112,name="Uvuros Hide Boots",source={ID=10647,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30953] = {id=30953,name="Boots of the Skybreaker",source={ID=10481,SourceName="Enraged Spirits of Air",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[31112] = {id=31112,name="Uvuros Hide Boots",source={ID=10647,SourceName="Wanted: Uvuros, Scourge of Shadowmoon",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[31214] = {id=31214,name="Abyssal Mail Greaves",source={ID=18696,SourceName="Kraator",SourceType="Kill",DropChance="48.0",Zone="Unknown"}}
-items[31581] = {id=31581,name="Slatesteel Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31581] = {id=31581,name="Slatesteel Boots",source={ID=20520,SourceName="Ethereum Prisoner",SourceType="Kill",DropChance="1.3",Zone="Netherstorm"}}
 items[25693] = {id=25693,name="Netherfury Boots",source={ID=32503,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[25951] = {id=25951,name="Fleet Refugee's Boots",source={ID=10031,SourceName="",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
-items[29313] = {id=29313,name="Earthbreaker's Greaves",source={ID=10253,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[25951] = {id=25951,name="Fleet Refugee's Boots",source={ID=10031,SourceName="Helping the Lost Find Their Way",SourceType="Quest",DropChance="0",Zone="Terokkar Forest"}}
+items[29313] = {id=29313,name="Earthbreaker's Greaves",source={ID=10253,SourceName="Levixus the Soul Caller",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
 items[31187] = {id=31187,name="Boots of the Pathfinder",source={ID=17058,SourceName="Illidari Taskmaster",SourceType="Kill",DropChance="2.5",Zone="Hellfire Peninsula"}}
-items[21355] = {id=21355,name="Genesis Boots",source={ID=8665,SourceName="",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
+items[21355] = {id=21355,name="Genesis Boots",source={ID=8665,SourceName="Genesis Boots",SourceType="Quest",DropChance="0",Zone="Ahn'Qiraj"}}
 items[21648] = {id=21648,name="Recomposed Boots",source={ID=15516,SourceName="Battleguard Sartura",SourceType="Kill",DropChance="21.4",Zone="Ahn'Qiraj"}}
 items[20631] = {id=20631,name="Mendicant's Slippers",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="13.8",Zone="Duskwood"}}
 items[21497] = {id=21497,name="Boots of the Qiraji General",source={ID=15341,SourceName="General Rajaxx",SourceType="Kill",DropChance="28.8",Zone="Ruins of Ahn'Qiraj"}}
@@ -468,40 +468,40 @@ items[7933] = {id=7933,name="Heavy Mithril Boots",source={ID=9968,SourceName="",
 items[12470] = {id=12470,name="Sandstalker Ankleguards",source={ID=10082,SourceName="Zerillis",SourceType="Kill",DropChance="18.4",Zone="Zul'Farrak"}}
 items[7542] = {id=7542,name="Champion's Greaves",source={ID=5343,SourceName="Lady Szallah",SourceType="Kill",DropChance="7.9",Zone="Feralas"}}
 items[14428] = {id=14428,name="Windchaser Footpads",source={ID=7605,SourceName="Raven",SourceType="Kill",DropChance="0.2",Zone="Zul'Farrak"}}
-items[7490] = {id=7490,name="Captain's Boots",source={ID=5356,SourceName="Snarler",SourceType="Kill",DropChance="3.7",Zone="Feralas"}}
+items[7490] = {id=7490,name="Captain's Boots",source={ID=5356,SourceName="Snarler",SourceType="Kill",DropChance="3.6",Zone="Feralas"}}
 items[7472] = {id=7472,name="Regal Boots",source={ID=14491,SourceName="Kurmokk",SourceType="Kill",DropChance="3.7",Zone="Stranglethorn Vale"}}
 items[9289] = {id=9289,name="Field Plate Boots",source={ID=2605,SourceName="Zalas Witherbark",SourceType="Kill",DropChance="2.2",Zone="Arathi Highlands"}}
 items[15152] = {id=15152,name="Nocturnal Shoes",source={ID=14234,SourceName="Hayoc",SourceType="Kill",DropChance="0.4",Zone="Dustwallow Marsh"}}
 items[19509] = {id=19509,name="Dusty Mail Boots",source={ID=4542,SourceName="High Inquisitor Fairbanks",SourceType="Kill",DropChance="31.7",Zone="Scarlet Monastery"}}
 items[14896] = {id=14896,name="Saltstone Sabatons",source={ID=7353,SourceName="Freezing Spirit",SourceType="Kill",DropChance="0.4",Zone="Razorfen Downs"}}
-items[14236] = {id=14236,name="Embersilk Boots",source={ID=23592,SourceName="Grimtotem Breaker",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[14236] = {id=14236,name="Embersilk Boots",source={ID=23592,SourceName="Grimtotem Breaker",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
 items[7434] = {id=7434,name="Twilight Boots",source={ID=2850,SourceName="Broken Tooth",SourceType="Kill",DropChance="5.3",Zone="Badlands"}}
-items[9519] = {id=9519,name="Durtfeet Stompers",source={ID=1177,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[9519] = {id=9519,name="Durtfeet Stompers",source={ID=1177,SourceName="Hungry!",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
 items[4076] = {id=4076,name="Mail Combat Boots",source={ID=507,SourceName="Fenros",SourceType="Kill",DropChance="0.3",Zone="Duskwood"}}
-items[3793] = {id=3793,name="Interlaced Boots",source={ID=23590,SourceName="Defias Conjuror",SourceType="Kill",DropChance="1.9",Zone="Dustwallow Marsh"}}
+items[3793] = {id=3793,name="Interlaced Boots",source={ID=23590,SourceName="Defias Conjuror",SourceType="Kill",DropChance="1.5",Zone="Dustwallow Marsh"}}
 items[4464] = {id=4464,name="Trouncing Boots",source={ID=771,SourceName="Commander Felstrom",SourceType="Kill",DropChance="50.6",Zone="Duskwood"}}
-items[15131] = {id=15131,name="Cutthroat's Boots",source={ID=3941,SourceName="Uthil Mooncall",SourceType="Kill",DropChance="0.6",Zone="Ashenvale"}}
+items[15131] = {id=15131,name="Cutthroat's Boots",source={ID=6072,SourceName="Diathorus the Seeker",SourceType="Kill",DropChance="3.0",Zone="Ashenvale"}}
 items[15341] = {id=15341,name="Pathfinder Footpads",source={ID=3833,SourceName="Cenarion Vindicator",SourceType="Kill",DropChance="2.3",Zone="Ashenvale"}}
 items[6394] = {id=6394,name="Silver-thread Boots",source={ID=7843,SourceName="Gnomeregan Evacuee",SourceType="Kill",DropChance="0.9",Zone="Dun Morogh"}}
 items[15516] = {id=15516,name="Spiked Chain Slippers",source={ID=4029,SourceName="Blackened Ancient",SourceType="Kill",DropChance="0.5",Zone="Stonetalon Mountains"}}
 items[2232] = {id=2232,name="Dark Runner Boots",source={ID=205,SourceName="Nightbane Dark Runner",SourceType="Kill",DropChance="2.1",Zone="Duskwood"}}
-items[35141] = {id=35141,name="Guardian's Leather Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35142] = {id=35142,name="Guardian's Linked Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35146] = {id=35146,name="Guardian's Plate Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34568] = {id=34568,name="Onslaught Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34572] = {id=34572,name="Thunderheart Footwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35141] = {id=35141,name="Guardian's Leather Boots",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35142] = {id=35142,name="Guardian's Linked Sabatons",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35146] = {id=35146,name="Guardian's Plate Greaves",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34568] = {id=34568,name="Onslaught Boots",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34572] = {id=34572,name="Thunderheart Footwraps",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30873] = {id=30873,name="Stillwater Boots",source={ID=17767,SourceName="Rage Winterchill",SourceType="Kill",DropChance="11.8",Zone="Hyjal Summit"}}
 items[32352] = {id=32352,name="Naturewarden's Treads",source={ID=23420,SourceName="Essence of Anger",SourceType="Kill",DropChance="7.0",Zone="Unknown"}}
 items[32510] = {id=32510,name="Softstep Boots of Tracking",source={ID=21867,SourceName="Teron Gorefiend",SourceType="Kill",DropChance="41.2",Zone="Unknown"}}
-items[33207] = {id=33207,name="Implacable Guardian Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33222] = {id=33222,name="Nyn'jah's Tabi Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32993] = {id=32993,name="General's Ringmail Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32996] = {id=32996,name="Marshal's Ringmail Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33207] = {id=33207,name="Implacable Guardian Sabatons",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33222] = {id=33222,name="Nyn'jah's Tabi Boots",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[32993] = {id=32993,name="General's Ringmail Sabatons",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[32996] = {id=32996,name="Marshal's Ringmail Sabatons",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[32954] = {id=32954,name="Tom's Boots 1",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30958] = {id=30958,name="Blackened Chain Greaves",source={ID=10816,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30958] = {id=30958,name="Blackened Chain Greaves",source={ID=10816,SourceName="Reclaiming Holy Grounds",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[27788] = {id=27788,name="Bloodsworn Warboots",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="14.8",Zone="The Blood Furnace"}}
 items[31213] = {id=31213,name="Abyssal Plate Sabatons",source={ID=18696,SourceName="Kraator",SourceType="Kill",DropChance="52.5",Zone="Unknown"}}
-items[31173] = {id=31173,name="Boots of Savagery",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31173] = {id=31173,name="Boots of Savagery",source={ID=16946,SourceName="Mo'arg Forgefiend",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[31233] = {id=31233,name="Grim Greaves",source={ID=18686,SourceName="Doomsayer Jurim",SourceType="Kill",DropChance="46.7",Zone="Unknown"}}
 items[24718] = {id=24718,name="Dreghood Boots",source={ID=16973,SourceName="Bonestripper Vulture",SourceType="Kill",DropChance="2.1",Zone="Hellfire Peninsula"}}
 items[21489] = {id=21489,name="Quicksand Waders",source={ID=15370,SourceName="Buru the Gorger",SourceType="Kill",DropChance="34.0",Zone="Ruins of Ahn'Qiraj"}}
@@ -526,14 +526,14 @@ items[22245] = {id=22245,name="Soot Encrusted Footwear",source={ID=8923,SourceNa
 items[10167] = {id=10167,name="Templar Boots",source={ID=8301,SourceName="Clack the Reaver",SourceType="Kill",DropChance="2.5",Zone="Blasted Lands"}}
 items[15071] = {id=15071,name="Frostsaber Boots",source={ID=19066,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10192] = {id=10192,name="Crusader's Boots",source={ID=9681,SourceName="Jaz",SourceType="Kill",DropChance="0.2",Zone="Blackrock Depths"}}
-items[11865] = {id=11865,name="Rancor Boots",source={ID=4136,SourceName="",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
+items[11865] = {id=11865,name="Rancor Boots",source={ID=4136,SourceName="Ribbly Screwspigot",SourceType="Quest",DropChance="0",Zone="Blackrock Depths"}}
 items[20100] = {id=20100,name="Highlander's Lizardhide Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20155] = {id=20155,name="Defiler's Chain Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20160] = {id=20160,name="Defiler's Cloth Boots",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[20185] = {id=20185,name="Defiler's Lamellar Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[8246] = {id=8246,name="Imperial Red Boots",source={ID=8217,SourceName="Mith'rethis the Enchanter",SourceType="Kill",DropChance="0.3",Zone="The Hinterlands"}}
 items[186023] = {id=186023,name="Communal Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[10082] = {id=10082,name="Lord's Boots",source={ID=10077,SourceName="Deathmaw",SourceType="Kill",DropChance="4.3",Zone="Burning Steppes"}}
+items[10082] = {id=10082,name="Lord's Boots",source={ID=10077,SourceName="Deathmaw",SourceType="Kill",DropChance="4.2",Zone="Burning Steppes"}}
 items[10131] = {id=10131,name="Revenant Boots",source={ID=14344,SourceName="Mongress",SourceType="Kill",DropChance="3.6",Zone="Felwood"}}
 items[13125] = {id=13125,name="Elven Chain Boots",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
 items[14848] = {id=14848,name="Sunscale Sabatons",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
@@ -541,7 +541,7 @@ items[15171] = {id=15171,name="Potent Boots",source={ID=6184,SourceName="Timberm
 items[8130] = {id=8130,name="Myrmidon's Greaves",source={ID=8497,SourceName="Nightmare Suppressor",SourceType="Kill",DropChance="0.1",Zone="The Temple of Atal'Hakkar"}}
 items[9948] = {id=9948,name="Chieftain's Boots",source={ID=8303,SourceName="Grunter",SourceType="Kill",DropChance="4.2",Zone="Blasted Lands"}}
 items[15630] = {id=15630,name="Formidable Sabatons",source={ID=5346,SourceName="Bloodroar the Stalker",SourceType="Kill",DropChance="0.7",Zone="Feralas"}}
-items[3962] = {id=3962,name="Thick Leather Boots",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="4.5",Zone="Stranglethorn Vale"}}
+items[3962] = {id=3962,name="Thick Leather Boots",source={ID=723,SourceName="Mosh'Ogg Butcher",SourceType="Kill",DropChance="4.4",Zone="Stranglethorn Vale"}}
 items[9962] = {id=9962,name="Warmonger's Greaves",source={ID=5400,SourceName="Zekkis",SourceType="Kill",DropChance="4.5",Zone="Unknown"}}
 items[8107] = {id=8107,name="Hibernal Boots",source={ID=5401,SourceName="Kazkaz the Unholy",SourceType="Kill",DropChance="0.3",Zone="Unknown"}}
 items[7522] = {id=7522,name="Gossamer Boots",source={ID=5345,SourceName="Diamond Head",SourceType="Kill",DropChance="7.1",Zone="Feralas"}}
@@ -563,8 +563,8 @@ items[2467] = {id=2467,name="Studded Boots",source={ID=1147,SourceName="Hragran"
 items[3846] = {id=3846,name="Polished Steel Boots",source={ID=3513,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[7444] = {id=7444,name="Sentinel Boots",source={ID=2850,SourceName="Broken Tooth",SourceType="Kill",DropChance="5.3",Zone="Badlands"}}
 items[14589] = {id=14589,name="Hawkeye's Shoes",source={ID=5935,SourceName="Ironeye the Invincible",SourceType="Kill",DropChance="0.5",Zone="Thousand Needles"}}
-items[14762] = {id=14762,name="Enduring Boots",source={ID=23637,SourceName="Deserter Lieutenant",SourceType="Kill",DropChance="2.5",Zone="Dustwallow Marsh"}}
-items[10359] = {id=10359,name="Everlast Boots",source={ID=2418,SourceName="",SourceType="Quest",DropChance="0",Zone="Uldaman"}}
+items[14762] = {id=14762,name="Enduring Boots",source={ID=23637,SourceName="Deserter Lieutenant",SourceType="Kill",DropChance="2.0",Zone="Dustwallow Marsh"}}
+items[10359] = {id=10359,name="Everlast Boots",source={ID=2418,SourceName="Power Stones",SourceType="Quest",DropChance="0",Zone="Uldaman"}}
 items[3801] = {id=3801,name="Hardened Leather Boots",source={ID=14686,SourceName="Lady Falther'ess",SourceType="Kill",DropChance="1.9",Zone="Razorfen Downs"}}
 items[4325] = {id=4325,name="Boots of the Enchanter",source={ID=3860,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[14408] = {id=14408,name="Stonecloth Boots",source={ID=4382,SourceName="Withervine Creeper",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
@@ -584,25 +584,25 @@ items[2156] = {id=2156,name="Padded Boots",source={ID=1314,SourceName="Duncan Cu
 items[9802] = {id=9802,name="Superior Boots",source={ID=3773,SourceName="Akkrilus",SourceType="Kill",DropChance="6.4",Zone="Ashenvale"}}
 items[1796] = {id=1796,name="Rawhide Boots",source={ID=1010,SourceName="Mosshide Fenrunner",SourceType="Kill",DropChance="1.3",Zone="Wetlands"}}
 items[9810] = {id=9810,name="Fortified Boots",source={ID=10641,SourceName="Branch Snapper",SourceType="Kill",DropChance="7.5",Zone="Ashenvale"}}
-items[35140] = {id=35140,name="Guardian's Lamellar Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33878] = {id=33878,name="Vindicator's Chain Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35140] = {id=35140,name="Guardian's Lamellar Greaves",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33878] = {id=33878,name="Vindicator's Chain Sabatons",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32268] = {id=32268,name="Myrmidon's Treads",source={ID=22841,SourceName="Shade of Akama",SourceType="Kill",DropChance="16.0",Zone="Black Temple"}}
-items[32796] = {id=32796,name="Veteran's Wyrmhide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32796] = {id=32796,name="Veteran's Wyrmhide Boots",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[33357] = {id=33357,name="Footpads of Madness",source={ID=23578,SourceName="Jan'alai",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
 items[24686] = {id=24686,name="Elementalist Boots",source={ID=19209,SourceName="Summoned Cabal Deathsworn",SourceType="Kill",DropChance="1.7",Zone="Shadow Labyrinth"}}
 items[27845] = {id=27845,name="Magma Plume Boots",source={ID=18371,SourceName="Shirrak the Dead Watcher",SourceType="Kill",DropChance="25.0",Zone="Auchenai Crypts"}}
 items[28384] = {id=28384,name="Outland Striders",source={ID=20870,SourceName="Zereketh the Unbound",SourceType="Kill",DropChance="203.6",Zone="The Arcatraz"}}
 items[30768] = {id=30768,name="Inferno Tempered Boots",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[30004] = {id=30004,name="Landing Boots",source={ID=10318,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30004] = {id=30004,name="Landing Boots",source={ID=10318,SourceName="Dealing with the Overmaster",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[23511] = {id=23511,name="Enchanted Adamantite Boots",source={ID=29611,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27919] = {id=27919,name="Light-Woven Slippers",source={ID=18472,SourceName="Darkweaver Syth",SourceType="Kill",DropChance="7.1",Zone="Sethekk Halls"}}
 items[24999] = {id=24999,name="Bloodfist Greaves",source={ID=18860,SourceName="Daughter of Destiny",SourceType="Kill",DropChance="11.1",Zone="Netherstorm"}}
-items[31557] = {id=31557,name="Windchanneller's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31565] = {id=31565,name="Skystalker's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31573] = {id=31573,name="Mistshroud Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24967] = {id=24967,name="Talonguard Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31557] = {id=31557,name="Windchanneller's Boots",source={ID=20520,SourceName="Ethereum Prisoner",SourceType="Kill",DropChance="1.2",Zone="Netherstorm"}}
+items[31565] = {id=31565,name="Skystalker's Boots",source={ID=20520,SourceName="Ethereum Prisoner",SourceType="Kill",DropChance="1.2",Zone="Netherstorm"}}
+items[31573] = {id=31573,name="Mistshroud Boots",source={ID=20520,SourceName="Ethereum Prisoner",SourceType="Kill",DropChance="1.3",Zone="Netherstorm"}}
+items[24967] = {id=24967,name="Talonguard Greaves",source={ID=19055,SourceName="Windroc Matriarch",SourceType="Kill",DropChance="0.1",Zone="Nagrand"}}
 items[23487] = {id=23487,name="Fel Iron Plate Boots",source={ID=29548,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[25524] = {id=25524,name="Cenarion Expedition Boots",source={ID=9732,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[25524] = {id=25524,name="Cenarion Expedition Boots",source={ID=9732,SourceName="Return to the Marsh",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[16949] = {id=16949,name="Greaves of Ten Storms",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="13.9",Zone="Blackwing Lair"}}
 items[21688] = {id=21688,name="Boots of the Fallen Hero",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="33.0",Zone="Ahn'Qiraj"}}
 items[20634] = {id=20634,name="Boots of Fright",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="15.3",Zone="Duskwood"}}
@@ -616,11 +616,11 @@ items[16405] = {id=16405,name="Knight-Lieutenant's Plate Boots",source={ID=0,Sou
 items[18102] = {id=18102,name="Dragonrider Boots",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="20.7",Zone="Blackrock Spire"}}
 items[20208] = {id=20208,name="Defiler's Plate Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[21075] = {id=21075,name="63 Blue Shadow Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[10257] = {id=10257,name="Adventurer's Boots",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="4.8",Zone="Searing Gorge"}}
+items[10257] = {id=10257,name="Adventurer's Boots",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="3.7",Zone="Searing Gorge"}}
 items[10155] = {id=10155,name="Mercurial Greaves",source={ID=15753,SourceName="Qiraji Brigadier General",SourceType="Kill",DropChance="4.6",Zone="Tanaris"}}
 items[12611] = {id=12611,name="Runic Plate Boots",source={ID=16665,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[15674] = {id=15674,name="Magnificent Greaves",source={ID=10741,SourceName="Sian-Rotam",SourceType="Kill",DropChance="0.2",Zone="Winterspring"}}
-items[20658] = {id=20658,name="Abyssal Leather Boots",source={ID=15212,SourceName="Hoary Templar",SourceType="Kill",DropChance="13.7",Zone="Silithus"}}
+items[20658] = {id=20658,name="Abyssal Leather Boots",source={ID=15212,SourceName="Hoary Templar",SourceType="Kill",DropChance="13.6",Zone="Silithus"}}
 items[14319] = {id=14319,name="Resplendent Boots",source={ID=14473,SourceName="Lapress",SourceType="Kill",DropChance="0.7",Zone="Silithus"}}
 items[16715] = {id=16715,name="Wildheart Boots",source={ID=10596,SourceName="Mother Smolderweb",SourceType="Kill",DropChance="15.5",Zone="Blackrock Spire"}}
 items[18318] = {id=18318,name="Merciful Greaves",source={ID=11492,SourceName="Alzzin the Wildshaper",SourceType="Kill",DropChance="18.5",Zone="Dire Maul"}}
@@ -628,15 +628,15 @@ items[14799] = {id=14799,name="Bloodlust Boots",source={ID=10807,SourceName="Bru
 items[18307] = {id=18307,name="Riptide Shoes",source={ID=13280,SourceName="Hydrospawn",SourceType="Kill",DropChance="23.6",Zone="Dire Maul"}}
 items[10106] = {id=10106,name="Wanderer's Boots",source={ID=14472,SourceName="Gretheer",SourceType="Kill",DropChance="5.5",Zone="Silithus"}}
 items[14671] = {id=14671,name="Pridelord Boots",source={ID=6129,SourceName="Draconic Magelord",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
-items[22270] = {id=22270,name="Entrenching Boots",source={ID=9028,SourceName="Grizzle",SourceType="Kill",DropChance="15.5",Zone="Blackrock Depths"}}
+items[22270] = {id=22270,name="Entrenching Boots",source={ID=9028,SourceName="Grizzle",SourceType="Kill",DropChance="15.4",Zone="Blackrock Depths"}}
 items[10183] = {id=10183,name="Swashbuckler's Boots",source={ID=9602,SourceName="Hahk'Zor",SourceType="Kill",DropChance="5.9",Zone="Burning Steppes"}}
 items[20189] = {id=20189,name="Defiler's Leather Boots",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[15642] = {id=15642,name="Ironhide Greaves",source={ID=6501,SourceName="Stegodon",SourceType="Kill",DropChance="0.2",Zone="Un'Goro Crater"}}
-items[10068] = {id=10068,name="Righteous Boots",source={ID=8204,SourceName="Soriid the Devourer",SourceType="Kill",DropChance="9.7",Zone="Tanaris"}}
+items[10068] = {id=10068,name="Righteous Boots",source={ID=8204,SourceName="Soriid the Devourer",SourceType="Kill",DropChance="9.4",Zone="Tanaris"}}
 items[14290] = {id=14290,name="Arachnidian Footpads",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.2",Zone="Azshara"}}
 items[2438] = {id=2438,name="Embroidered Boots",source={ID=984,SourceName="Thralosh",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
 items[14794] = {id=14794,name="Protector Ankleguards",source={ID=193,SourceName="Blue Dragonspawn",SourceType="Kill",DropChance="0.1",Zone="Azshara"}}
-items[10201] = {id=10201,name="Overlord's Greaves",source={ID=8202,SourceName="Cyclok the Mad",SourceType="Kill",DropChance="4.2",Zone="Tanaris"}}
+items[10201] = {id=10201,name="Overlord's Greaves",source={ID=8202,SourceName="Cyclok the Mad",SourceType="Kill",DropChance="4.1",Zone="Tanaris"}}
 items[14438] = {id=14438,name="Venomshroud Boots",source={ID=12206,SourceName="Primordial Behemoth",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
 items[8117] = {id=8117,name="Heraldic Boots",source={ID=8279,SourceName="Faulty War Golem",SourceType="Kill",DropChance="0.3",Zone="Searing Gorge"}}
 items[14951] = {id=14951,name="Bloodforged Sabatons",source={ID=11794,SourceName="Sister of Celebrian",SourceType="Kill",DropChance="0.1",Zone="Maraudon"}}
@@ -646,39 +646,39 @@ items[15614] = {id=15614,name="Bonelink Sabatons",source={ID=5327,SourceName="Co
 items[4047] = {id=4047,name="Mistscape Boots",source={ID=2782,SourceName="Caretaker Alaric",SourceType="Kill",DropChance="0.4",Zone="Arathi Highlands"}}
 items[6431] = {id=6431,name="Imperial Leather Boots",source={ID=2601,SourceName="Foulbelly",SourceType="Kill",DropChance="2.0",Zone="Arathi Highlands"}}
 items[20200] = {id=20200,name="Defiler's Mail Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[14599] = {id=14599,name="Warden's Footpads",source={ID=11782,SourceName="Ambershard Destroyer",SourceType="Kill",DropChance="0.2",Zone="Desolace"}}
+items[14599] = {id=14599,name="Warden's Footpads",source={ID=5771,SourceName="Jugkar Grim'rod",SourceType="Kill",DropChance="0.1",Zone="Desolace"}}
 items[8160] = {id=8160,name="Jouster's Greaves",source={ID=14921,SourceName="Rin'wosho the Trader",SourceType="Kill",DropChance="2.2",Zone="Stranglethorn Vale"}}
 items[9876] = {id=9876,name="Sorcerer Slippers",source={ID=14226,SourceName="Kaskk",SourceType="Kill",DropChance="5.1",Zone="Desolace"}}
 items[9885] = {id=9885,name="Huntsman's Boots",source={ID=2605,SourceName="Zalas Witherbark",SourceType="Kill",DropChance="4.4",Zone="Arathi Highlands"}}
-items[15362] = {id=15362,name="Trickster's Boots",source={ID=5044,SourceName="Theramore Skirmisher",SourceType="Kill",DropChance="0.3",Zone="Dustwallow Marsh"}}
+items[15362] = {id=15362,name="Trickster's Boots",source={ID=23873,SourceName="Goreclaw the Ravenous",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
 items[15576] = {id=15576,name="Sparkleshell Sabatons",source={ID=5057,SourceName="Theramore Deserter",SourceType="Kill",DropChance="0.1",Zone="Dustwallow Marsh"}}
 items[2420] = {id=2420,name="Augmented Chain Boots",source={ID=1322,SourceName="Maxton Strang",SourceType="Purchase",DropChance="100",Zone="Desolace"}}
 items[2432] = {id=2432,name="Russet Boots",source={ID=1147,SourceName="Hragran",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
-items[14218] = {id=14218,name="Geomancer's Boots",source={ID=23555,SourceName="Risen Husk",SourceType="Kill",DropChance="0.5",Zone="Dustwallow Marsh"}}
+items[14218] = {id=14218,name="Geomancer's Boots",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="0.4",Zone="The Barrens"}}
 items[15142] = {id=15142,name="Ghostwalker Boots",source={ID=5934,SourceName="Heartrazor",SourceType="Kill",DropChance="1.0",Zone="Thousand Needles"}}
 items[14196] = {id=14196,name="Thistlefur Sandals",source={ID=4425,SourceName="Blind Hunter",SourceType="Kill",DropChance="0.1",Zone="Razorfen Kraul"}}
 items[14579] = {id=14579,name="Dokebi Boots",source={ID=3941,SourceName="Uthil Mooncall",SourceType="Kill",DropChance="0.2",Zone="Ashenvale"}}
 items[4051] = {id=4051,name="Emblazoned Boots",source={ID=1054,SourceName="Dark Iron Demolitionist",SourceType="Kill",DropChance="0.3",Zone="Wetlands"}}
-items[14756] = {id=14756,name="Slayer's Slippers",source={ID=11683,SourceName="Warsong Shaman",SourceType="Kill",DropChance="5.0",Zone="Ashenvale"}}
+items[14756] = {id=14756,name="Slayer's Slippers",source={ID=11683,SourceName="Warsong Shaman",SourceType="Kill",DropChance="4.9",Zone="Ashenvale"}}
 items[14176] = {id=14176,name="Watcher's Boots",source={ID=10643,SourceName="Mugglefin",SourceType="Kill",DropChance="0.8",Zone="Ashenvale"}}
-items[9792] = {id=9792,name="Ivycloth Boots",source={ID=5848,SourceName="Malgin Barleybrew",SourceType="Kill",DropChance="5.6",Zone="The Barrens"}}
-items[35144] = {id=35144,name="Guardian's Mooncloth Slippers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35147] = {id=35147,name="Guardian's Ringmail Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34562] = {id=34562,name="Boots of Absolution",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33890] = {id=33890,name="Vindicator's Lamellar Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33905] = {id=33905,name="Vindicator's Ornamented Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33908] = {id=33908,name="Vindicator's Ringmail Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32787] = {id=32787,name="Veteran's Dreadweave Stalkers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30491] = {id=30491,name="General's Plate Greaves Tier 2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9792] = {id=9792,name="Ivycloth Boots",source={ID=5848,SourceName="Malgin Barleybrew",SourceType="Kill",DropChance="5.5",Zone="The Barrens"}}
+items[35144] = {id=35144,name="Guardian's Mooncloth Slippers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35147] = {id=35147,name="Guardian's Ringmail Sabatons",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34562] = {id=34562,name="Boots of Absolution",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33890] = {id=33890,name="Vindicator's Lamellar Greaves",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33905] = {id=33905,name="Vindicator's Ornamented Greaves",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33908] = {id=33908,name="Vindicator's Ringmail Sabatons",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32787] = {id=32787,name="Veteran's Dreadweave Stalkers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[30491] = {id=30491,name="General's Plate Greaves Tier 2",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[24799] = {id=24799,name="Dragonhawk Boots",source={ID=16408,SourceName="Phantom Valet",SourceType="Kill",DropChance="9.3",Zone="Karazhan"}}
 items[24791] = {id=24791,name="Expedition Boots",source={ID=18637,SourceName="Cabal Shadow Priest",SourceType="Kill",DropChance="16.6",Zone="Shadow Labyrinth"}}
 items[25007] = {id=25007,name="Conqueror's Greaves",source={ID=16406,SourceName="Phantom Attendant",SourceType="Kill",DropChance="11.1",Zone="Karazhan"}}
 items[30461] = {id=30461,name="Netherflame Boots",source={ID=36668,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[25659] = {id=25659,name="Scaled Draenic Boots",source={ID=32469,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[30263] = {id=30263,name="Heavy-Duty Engineering Boots",source={ID=10226,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[25594] = {id=25594,name="Windroc Boots",source={ID=9856,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[30263] = {id=30263,name="Heavy-Duty Engineering Boots",source={ID=10226,SourceName="Elemental Power Extraction",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[25594] = {id=25594,name="Windroc Boots",source={ID=9856,SourceName="Windroc Mastery",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[24863] = {id=24863,name="Blood Knight Boots",source={ID=21891,SourceName="Avian Ripper",SourceType="Kill",DropChance="2.7",Zone="Sethekk Halls"}}
-items[28491] = {id=28491,name="Windwalker's Footwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28491] = {id=28491,name="Windwalker's Footwraps",source={ID=31800,SourceName="Outcast's Cache",SourceType="Container",DropChance="3.0",Zone="Unknown"}}
 items[25655] = {id=25655,name="Felscale Boots",source={ID=32463,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[24606] = {id=24606,name="Laughing Skull Boot",source={ID=17732,SourceName="Lykul Wasp",SourceType="Kill",DropChance="25.0",Zone="The Underbog"}}
 items[24943] = {id=24943,name="Bloodscale Sabatons",source={ID=17962,SourceName="Coilfang Collaborator",SourceType="Kill",DropChance="7.1",Zone="The Slave Pens"}}
@@ -694,61 +694,61 @@ items[20199] = {id=20199,name="Defiler's Mail Greaves",source={ID=15126,SourceNa
 items[18507] = {id=18507,name="Boots of the Full Moon",source={ID=14325,SourceName="Captain Kromcrush",SourceType="Kill",DropChance="22.6",Zone="Dire Maul"}}
 items[13210] = {id=13210,name="Pads of the Dread Wolf",source={ID=10220,SourceName="Halycon",SourceType="Kill",DropChance="17.6",Zone="Blackrock Spire"}}
 items[20662] = {id=20662,name="Abyssal Plate Greaves",source={ID=15307,SourceName="Earthen Templar",SourceType="Kill",DropChance="13.8",Zone="Silithus"}}
-items[16670] = {id=16670,name="Boots of Elements",source={ID=9196,SourceName="Highlord Omokk",SourceType="Kill",DropChance="14.6",Zone="Blackrock Spire"}}
+items[16670] = {id=16670,name="Boots of Elements",source={ID=9196,SourceName="Highlord Omokk",SourceType="Kill",DropChance="14.8",Zone="Blackrock Spire"}}
 items[10238] = {id=10238,name="Heavy Lamellar Boots",source={ID=15816,SourceName="Qiraji Major He'al-ie",SourceType="Kill",DropChance="8.3",Zone="Thousand Needles"}}
 items[20095] = {id=20095,name="Highlander's Cloth Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[33257] = {id=33257,name="Scaled Marshwalkers",source={ID=11183,SourceName="",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
-items[34565] = {id=34565,name="Skyshatter Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34566] = {id=34566,name="Skyshatter Treads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33892] = {id=33892,name="Vindicator's Leather Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33257] = {id=33257,name="Scaled Marshwalkers",source={ID=11183,SourceName="Cleansing Witch Hill",SourceType="Quest",DropChance="0",Zone="Dustwallow Marsh"}}
+items[34565] = {id=34565,name="Skyshatter Boots",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34566] = {id=34566,name="Skyshatter Treads",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33892] = {id=33892,name="Vindicator's Leather Boots",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32956] = {id=32956,name="Tom's Boots 3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32242] = {id=32242,name="Boots of Oceanic Fury",source={ID=22887,SourceName="High Warlord Naj'entus",SourceType="Kill",DropChance="8.1",Zone="Black Temple"}}
-items[34926] = {id=34926,name="Slippers of Dutiful Mending",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32792] = {id=32792,name="Veteran's Mail Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32999] = {id=32999,name="Veteran's Ringmail Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34926] = {id=34926,name="Slippers of Dutiful Mending",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32792] = {id=32792,name="Veteran's Mail Sabatons",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32999] = {id=32999,name="Veteran's Ringmail Sabatons",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[33471] = {id=33471,name="Two-toed Sandals",source={ID=23863,SourceName="Zul'jin",SourceType="Kill",DropChance="14.1",Zone="Unknown"}}
 items[32391] = {id=32391,name="Soulguard Slippers",source={ID=40020,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[33482] = {id=33482,name="Cobra-Lash Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24678] = {id=24678,name="Archmage Slippers",source={ID=16409,SourceName="Phantom Guest",SourceType="Kill",DropChance="0.8",Zone="Karazhan"}}
 items[24903] = {id=24903,name="Talhide Lined-Boots",source={ID=16406,SourceName="Phantom Attendant",SourceType="Kill",DropChance="11.1",Zone="Karazhan"}}
 items[25015] = {id=25015,name="Shattered Hand Sabatons",source={ID=20770,SourceName="Warden Icoshock",SourceType="Kill",DropChance="25.0",Zone="Netherstorm"}}
-items[28177] = {id=28177,name="Auchenai Boots",source={ID=10095,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
-items[28178] = {id=28178,name="Spymistress's Boots",source={ID=10095,SourceName="",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
-items[24895] = {id=24895,name="Sundered Footwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28177] = {id=28177,name="Auchenai Boots",source={ID=10095,SourceName="Into the Heart of the Labyrinth",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[28178] = {id=28178,name="Spymistress's Boots",source={ID=10095,SourceName="Into the Heart of the Labyrinth",SourceType="Quest",DropChance="0",Zone="Auchindoun"}}
+items[24895] = {id=24895,name="Sundered Footwraps",source={ID=21171,SourceName="Alandien",SourceType="Kill",DropChance="0.5",Zone="Shadowmoon Valley"}}
 items[29497] = {id=29497,name="Enchanted Clefthoof Boots",source={ID=35534,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[24662] = {id=24662,name="Shadow Council Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24662] = {id=24662,name="Shadow Council Boots",source={ID=20779,SourceName="Congealed Void Horror",SourceType="Kill",DropChance="4.6",Zone="Netherstorm"}}
 items[24774] = {id=24774,name="Boneshredder Boots",source={ID=15551,SourceName="Spectral Stable Hand",SourceType="Kill",DropChance="10.0",Zone="Karazhan"}}
 items[24887] = {id=24887,name="Skettis Footwraps",source={ID=16507,SourceName="Shattered Hand Sentry",SourceType="Kill",DropChance="33.3",Zone="The Shattered Halls"}}
-items[29786] = {id=29786,name="Kirin'Var Defender's Greaves",source={ID=10240,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[29804] = {id=29804,name="Wrangler's Boots",source={ID=10337,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30266] = {id=30266,name="Zaxxis Boots",source={ID=10205,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29786] = {id=29786,name="Kirin'Var Defender's Greaves",source={ID=10240,SourceName="Building a Perimeter",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[29804] = {id=29804,name="Wrangler's Boots",source={ID=10337,SourceName="When the Cows Come Home",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30266] = {id=30266,name="Zaxxis Boots",source={ID=10205,SourceName="Warp-Raider Nesaad",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[34807] = {id=34807,name="Sunstrider Warboots",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="15.0",Zone="Magisters' Terrace"}}
 items[31216] = {id=31216,name="Abyssal Cloth Footwraps",source={ID=18696,SourceName="Kraator",SourceType="Kill",DropChance="46.0",Zone="Unknown"}}
 items[24654] = {id=24654,name="Consortium Boot",source={ID=18321,SourceName="Sethekk Talon Lord",SourceType="Kill",DropChance="33.3",Zone="Sethekk Halls"}}
-items[24766] = {id=24766,name="Clefthoof Wanderboots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24991] = {id=24991,name="Warmaul Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24766] = {id=24766,name="Clefthoof Wanderboots",source={ID=16948,SourceName="Gan'arg Engineer",SourceType="Kill",DropChance="0.2",Zone="Netherstorm"}}
+items[24991] = {id=24991,name="Warmaul Greaves",source={ID=19997,SourceName="Bladespire Enforcer",SourceType="Kill",DropChance="0.2",Zone="Blade's Edge Mountains"}}
 items[24758] = {id=24758,name="Umbrafen Boots",source={ID=18319,SourceName="Time-Lost Scryer",SourceType="Kill",DropChance="33.3",Zone="Sethekk Halls"}}
 items[24871] = {id=24871,name="Ironspine Greaves",source={ID=20773,SourceName="Barbscale Crocolisk",SourceType="Kill",DropChance="3.7",Zone="Netherstorm"}}
-items[24983] = {id=24983,name="Boulderfist Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25593] = {id=25593,name="Windroc Greaves",source={ID=9856,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[24983] = {id=24983,name="Boulderfist Greaves",source={ID=21373,SourceName="Silkwing",SourceType="Kill",DropChance="0.4",Zone="Blade's Edge Mountains"}}
+items[25593] = {id=25593,name="Windroc Greaves",source={ID=9856,SourceName="Windroc Mastery",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[24750] = {id=24750,name="Daggerfen Boots",source={ID=20514,SourceName="Searing Elemental",SourceType="Kill",DropChance="8.3",Zone="Blade's Edge Mountains"}}
-items[25630] = {id=25630,name="Ogre Basher's Slippers",source={ID=9916,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[25631] = {id=25631,name="Boots of the Specialist",source={ID=9924,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25630] = {id=25630,name="Ogre Basher's Slippers",source={ID=9916,SourceName="Bleeding Hollow Supply Crates",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25631] = {id=25631,name="Boots of the Specialist",source={ID=9924,SourceName="Corki's Gone Missing Again!",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[24630] = {id=24630,name="Feralfen Sandals",source={ID=18311,SourceName="Ethereal Crypt Raider",SourceType="Kill",DropChance="7.6",Zone="Mana-Tombs"}}
-items[24742] = {id=24742,name="Ranger Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24742] = {id=24742,name="Ranger Boots",source={ID=22308,SourceName="Wyrmcult Hunter",SourceType="Kill",DropChance="0.3",Zone="Blade's Edge Mountains"}}
 items[24855] = {id=24855,name="Marshcreeper Sludgeboots",source={ID=17731,SourceName="Fen Ray",SourceType="Kill",DropChance="16.6",Zone="The Underbog"}}
-items[24847] = {id=24847,name="Fenclaw Footwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24847] = {id=24847,name="Fenclaw Footwraps",source={ID=18086,SourceName="Darkcrest Taskmaster",SourceType="Kill",DropChance="0.2",Zone="Zangarmarsh"}}
 items[24959] = {id=24959,name="Khan'aish Greaves",source={ID=21636,SourceName="Vengeful Draenei",SourceType="Kill",DropChance="9.0",Zone="Terokkar Forest"}}
-items[28493] = {id=28493,name="Dreadhawk's Schynbald",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28493] = {id=28493,name="Dreadhawk's Schynbald",source={ID=31800,SourceName="Outcast's Cache",SourceType="Container",DropChance="2.2",Zone="Unknown"}}
 items[24614] = {id=24614,name="Vindicator Boots",source={ID=1410,SourceName="Firewing Bloodwarder",SourceType="Kill",DropChance="2.1",Zone="Terokkar Forest"}}
-items[24726] = {id=24726,name="Dementia Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24726] = {id=24726,name="Dementia Boots",source={ID=16879,SourceName="Starving Helboar",SourceType="Kill",DropChance="0",Zone="Hellfire Peninsula"}}
 items[24951] = {id=24951,name="Bogslayer Sabatons",source={ID=21200,SourceName="Screeching Spirit",SourceType="Kill",DropChance="6.6",Zone="Terokkar Forest"}}
-items[27727] = {id=27727,name="Swift Cenarion Footwear",source={ID=9730,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[27727] = {id=27727,name="Swift Cenarion Footwear",source={ID=9730,SourceName="Leader of the Darkcrest",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[31235] = {id=31235,name="Grim Boots",source={ID=18686,SourceName="Doomsayer Jurim",SourceType="Kill",DropChance="45.4",Zone="Unknown"}}
 items[24598] = {id=24598,name="Starfire Sandals",source={ID=16929,SourceName="Stonescythe Alpha",SourceType="Kill",DropChance="2.5",Zone="Hellfire Peninsula"}}
-items[25515] = {id=25515,name="Mud Encrusted Boots",source={ID=9788,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[25515] = {id=25515,name="Mud Encrusted Boots",source={ID=9788,SourceName="A Damp, Dark Place",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[24590] = {id=24590,name="Fireheart Boots",source={ID=17264,SourceName="Bonechewer Ravener",SourceType="Kill",DropChance="2.7",Zone="Hellfire Ramparts"}}
-items[24919] = {id=24919,name="Grimscale Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24919] = {id=24919,name="Grimscale Sabatons",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.2",Zone="Hellfire Peninsula"}}
 items[25342] = {id=25342,name="Dilapidated Cloth Boots",source={ID=18319,SourceName="Time-Lost Scryer",SourceType="Kill",DropChance="33.3",Zone="Sethekk Halls"}}
 items[25359] = {id=25359,name="Decaying Leather Boots",source={ID=18858,SourceName="Wrathbringer",SourceType="Kill",DropChance="4.5",Zone="Netherstorm"}}
 items[25375] = {id=25375,name="Corroded Mail Boots",source={ID=20729,SourceName="Bladespire Ravager",SourceType="Kill",DropChance="20.0",Zone="Blade's Edge Mountains"}}
@@ -758,17 +758,17 @@ items[25351] = {id=25351,name="Moldy Leather Boots",source={ID=18313,SourceName=
 items[25382] = {id=25382,name="Tarnished Plate Boots",source={ID=18089,SourceName="Bloodscale Slavedriver",SourceType="Kill",DropChance="3.0",Zone="Zangarmarsh"}}
 items[4009] = {id=4009,name="Sterling Chain Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[10039] = {id=10039,name="Stormcloth Boots",source={ID=12090,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[9856] = {id=9856,name="Archer's Boots",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="5.7",Zone="The Barrens"}}
+items[9856] = {id=9856,name="Archer's Boots",source={ID=7895,SourceName="Ambassador Bloodrage",SourceType="Kill",DropChance="5.6",Zone="The Barrens"}}
 items[20210] = {id=20210,name="Defiler's Mail Greaves",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[4195] = {id=4195,name="Feathered Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35145] = {id=35145,name="Guardian's Ornamented Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35150] = {id=35150,name="Guardian's Wyrmhide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34570] = {id=34570,name="Gronnstalker's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34571] = {id=34571,name="Thunderheart Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34947] = {id=34947,name="Blue's Greaves of the Righteous Guardian",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35145] = {id=35145,name="Guardian's Ornamented Greaves",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[35150] = {id=35150,name="Guardian's Wyrmhide Boots",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34570] = {id=34570,name="Gronnstalker's Boots",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34571] = {id=34571,name="Thunderheart Boots",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34947] = {id=34947,name="Blue's Greaves of the Righteous Guardian",source={ID=25046,SourceName="Smith Hauthaa",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32394] = {id=32394,name="Redeemed Soul Moccasins",source={ID=40003,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32955] = {id=32955,name="Tom's Boots 2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32987] = {id=32987,name="Marshal's Ornamented Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32987] = {id=32987,name="Marshal's Ornamented Greaves",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[25023] = {id=25023,name="Warlord's Sabatons",source={ID=22281,SourceName="Galvanoth",SourceType="Kill",DropChance="1.0",Zone="Unknown"}}
 items[23525] = {id=23525,name="Khorium Boots",source={ID=29630,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[27902] = {id=27902,name="Silent Slippers of Meditation",source={ID=18708,SourceName="Murmur",SourceType="Kill",DropChance="33.3",Zone="Shadow Labyrinth"}}
@@ -780,9 +780,9 @@ items[27884] = {id=27884,name="Ornate Boots of the Sanctified",source={ID=18731,
 items[29493] = {id=29493,name="Flamescale Boots",source={ID=35528,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29499] = {id=29499,name="Blastguard Boots",source={ID=35536,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29245] = {id=29245,name="Wave-Crest Striders",source={ID=17377,SourceName="Keli'dan the Breaker",SourceType="Kill",DropChance="3.7",Zone="The Blood Furnace"}}
-items[30374] = {id=30374,name="Greaves of Spellpower",source={ID=10507,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30374] = {id=30374,name="Greaves of Spellpower",source={ID=10507,SourceName="Turning Point",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[24879] = {id=24879,name="Der'izu Greaves",source={ID=18328,SourceName="Sethekk Oracle",SourceType="Kill",DropChance="28.5",Zone="Sethekk Halls"}}
-items[24646] = {id=24646,name="Astralaan Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24646] = {id=24646,name="Astralaan Boots",source={ID=19755,SourceName="Mo'arg Weaponsmith",SourceType="Kill",DropChance="0.3",Zone="Shadowmoon Valley"}}
 items[24638] = {id=24638,name="Mistyreed Boot",source={ID=17840,SourceName="Durnholde Tracking Hound",SourceType="Kill",DropChance="33.3",Zone="Unknown"}}
 items[24622] = {id=24622,name="Slavehandler Footpads",source={ID=18313,SourceName="Ethereal Sorcerer",SourceType="Kill",DropChance="2.8",Zone="Mana-Tombs"}}
 items[24734] = {id=24734,name="Sunroc Boots",source={ID=18313,SourceName="Ethereal Sorcerer",SourceType="Kill",DropChance="2.8",Zone="Mana-Tombs"}}
@@ -791,8 +791,8 @@ items[24935] = {id=24935,name="Darkcrest Sabatons",source={ID=17961,SourceName="
 items[24702] = {id=24702,name="Haal'eshi Boots",source={ID=17259,SourceName="Bonechewer Hungerer",SourceType="Kill",DropChance="5.9",Zone="Hellfire Ramparts"}}
 items[24927] = {id=24927,name="Ango'rosh Sabatons",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="10.0",Zone="Hellfire Peninsula"}}
 items[24582] = {id=24582,name="Outlander's Boots",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="10.0",Zone="Hellfire Peninsula"}}
-items[24807] = {id=24807,name="Unyielding Footwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25561] = {id=25561,name="Muck-ridden Galoshes",source={ID=9815,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[24807] = {id=24807,name="Unyielding Footwraps",source={ID=19261,SourceName="Infernal Warbringer",SourceType="Kill",DropChance="0.7",Zone="Hellfire Peninsula"}}
+items[25561] = {id=25561,name="Muck-ridden Galoshes",source={ID=9815,SourceName="Muck Diving",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[16919] = {id=16919,name="Boots of Transcendence",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="34.3",Zone="Blackwing Lair"}}
 items[19131] = {id=19131,name="Snowblind Shoes",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="16.4",Zone="Azshara"}}
 items[20265] = {id=20265,name="Peacekeeper Boots",source={ID=14517,SourceName="High Priestess Jeklik",SourceType="Kill",DropChance="10.8",Zone="Zul'Gurub"}}
@@ -802,92 +802,92 @@ items[25367] = {id=25367,name="Eroded Mail Boots",source={ID=17400,SourceName="F
 items[13967] = {id=13967,name="Windreaver Greaves",source={ID=10506,SourceName="Kirtonos the Herald",SourceType="Kill",DropChance="18.6",Zone="Scholomance"}}
 items[14631] = {id=14631,name="Necropile Boots",source={ID=11261,SourceName="Doctor Theolen Krastinov",SourceType="Kill",DropChance="4.2",Zone="Scholomance"}}
 items[12409] = {id=12409,name="Thorium Boots",source={ID=16652,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[14972] = {id=14972,name="Glorious Sabatons",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.2",Zone="Winterspring"}}
+items[14972] = {id=14972,name="Glorious Sabatons",source={ID=10662,SourceName="Spellmaw",SourceType="Kill",DropChance="1.1",Zone="Winterspring"}}
 items[11675] = {id=11675,name="Shadefiend Boots",source={ID=9031,SourceName="Anub'shiah",SourceType="Kill",DropChance="33.8",Zone="Blackrock Depths"}}
-items[33914] = {id=33914,name="Vindicator's Silk Footguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33914] = {id=33914,name="Vindicator's Silk Footguards",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[30885] = {id=30885,name="Archbishop's Slippers",source={ID=17808,SourceName="Anetheron",SourceType="Kill",DropChance="16.2",Zone="Hyjal Summit"}}
 items[32402] = {id=32402,name="Shadesteel Sabots",source={ID=40033,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[28447] = {id=28447,name="General's Wyrmhide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30707] = {id=30707,name="Nimble-foot Treads",source={ID=20923,SourceName="Blood Guard Porung",SourceType="Kill",DropChance="0",Zone="The Shattered Halls"}}
-items[30273] = {id=30273,name="Duro Footgear",source={ID=10267,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30398] = {id=30398,name="Boots of the Beneficent",source={ID=10240,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30368] = {id=30368,name="Slippers of the High Priestess",source={ID=10409,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[30002] = {id=30002,name="Boot's Boots",source={ID=10199,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[28447] = {id=28447,name="General's Wyrmhide Boots",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30707] = {id=30707,name="Nimble-foot Treads",source={ID=20923,SourceName="Blood Guard Porung",SourceType="Kill",DropChance="21.2",Zone="The Shattered Halls"}}
+items[30273] = {id=30273,name="Duro Footgear",source={ID=10267,SourceName="Rightful Repossession",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30398] = {id=30398,name="Boots of the Beneficent",source={ID=10240,SourceName="Building a Perimeter",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30368] = {id=30368,name="Slippers of the High Priestess",source={ID=10409,SourceName="Deathblow to the Legion",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[30002] = {id=30002,name="Boot's Boots",source={ID=10199,SourceName="That Little Extra Kick",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
 items[29512] = {id=29512,name="Earthen Netherscale Boots",source={ID=35567,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[31230] = {id=31230,name="Abyss Walker's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28492] = {id=28492,name="Talonite's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31230] = {id=31230,name="Abyss Walker's Boots",source={ID=18238,SourceName="Murkblood Invader",SourceType="Kill",DropChance="0",Zone="Nagrand"}}
+items[28492] = {id=28492,name="Talonite's Boots",source={ID=31800,SourceName="Outcast's Cache",SourceType="Container",DropChance="1.9",Zone="Unknown"}}
 items[19391] = {id=19391,name="Shimmering Geta",source={ID=14020,SourceName="Chromaggus",SourceType="Kill",DropChance="33.7",Zone="Blackwing Lair"}}
 items[16965] = {id=16965,name="Sabatons of Wrath",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="35.7",Zone="Blackwing Lair"}}
 items[16829] = {id=16829,name="Cenarion Boots",source={ID=12118,SourceName="Lucifron",SourceType="Kill",DropChance="27.7",Zone="Molten Core"}}
 items[16518] = {id=16518,name="Blood Guard's Mail Walkers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[18716] = {id=18716,name="Ash Covered Boots",source={ID=10811,SourceName="Archivist Galford",SourceType="Kill",DropChance="21.1",Zone="Stratholme"}}
-items[10846] = {id=10846,name="Bloodshot Greaves",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="35.9",Zone="The Temple of Atal'Hakkar"}}
+items[10846] = {id=10846,name="Bloodshot Greaves",source={ID=8440,SourceName="Shade of Hakkar",SourceType="Kill",DropChance="36.0",Zone="The Temple of Atal'Hakkar"}}
 items[20127] = {id=20127,name="Highlander's Plate Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
-items[9637] = {id=9637,name="Shinkicker Boots",source={ID=2874,SourceName="",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
+items[9637] = {id=9637,name="Shinkicker Boots",source={ID=2874,SourceName="Deliver to MacKinley",SourceType="Quest",DropChance="0",Zone="Tanaris"}}
 items[8141] = {id=8141,name="Chromite Greaves",source={ID=710,SourceName="Mosh'Ogg Spellcrafter",SourceType="Kill",DropChance="0.2",Zone="Stranglethorn Vale"}}
 items[7391] = {id=7391,name="Swift Boots",source={ID=9208,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[15697] = {id=15697,name="Kodo Rustler Boots",source={ID=5561,SourceName="",SourceType="Quest",DropChance="0",Zone="Desolace"}}
+items[15697] = {id=15697,name="Kodo Rustler Boots",source={ID=5561,SourceName="Kodo Roundup",SourceType="Quest",DropChance="0",Zone="Desolace"}}
 items[4055] = {id=4055,name="Insignia Boots",source={ID=771,SourceName="Commander Felstrom",SourceType="Kill",DropChance="0.2",Zone="Duskwood"}}
-items[9820] = {id=9820,name="Durable Boots",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="4.2",Zone="Alterac Mountains"}}
-items[35136] = {id=35136,name="Guardian's Chain Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33902] = {id=33902,name="Vindicator's Mooncloth Slippers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32794] = {id=32794,name="Veteran's Scaled Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9820] = {id=9820,name="Durable Boots",source={ID=14223,SourceName="Cranky Benj",SourceType="Kill",DropChance="4.1",Zone="Alterac Mountains"}}
+items[35136] = {id=35136,name="Guardian's Chain Sabatons",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33902] = {id=33902,name="Vindicator's Mooncloth Slippers",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32794] = {id=32794,name="Veteran's Scaled Greaves",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[24536] = {id=24536,name="130 Epic Warrior Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28645] = {id=28645,name="General's Scaled Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30968] = {id=30968,name="Earthmender's Plated Boots",source={ID=10451,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
-items[30926] = {id=30926,name="Ashwalker's Footwraps",source={ID=10626,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[28645] = {id=28645,name="General's Scaled Greaves",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[30968] = {id=30968,name="Earthmender's Plated Boots",source={ID=10451,SourceName="Escape from Coilskar Cistern",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
+items[30926] = {id=30926,name="Ashwalker's Footwraps",source={ID=10626,SourceName="Capture the Weapons",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[27420] = {id=27420,name="Uther's Ceremonial Warboots",source={ID=17848,SourceName="Lieutenant Drake",SourceType="Kill",DropChance="14.8",Zone="Old Hillsbrad Foothills"}}
 items[16898] = {id=16898,name="Stormrage Boots",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="29.4",Zone="Blackwing Lair"}}
 items[19913] = {id=19913,name="Bloodsoaked Greaves",source={ID=14515,SourceName="High Priestess Arlokk",SourceType="Kill",DropChance="25.2",Zone="Zul'Gurub"}}
 items[16849] = {id=16849,name="Giantstalker's Boots",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="30.9",Zone="Molten Core"}}
-items[22247] = {id=22247,name="Faith Healer's Boots",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="16.5",Zone="Blackrock Spire"}}
+items[22247] = {id=22247,name="Faith Healer's Boots",source={ID=10429,SourceName="Warchief Rend Blackhand",SourceType="Kill",DropChance="16.4",Zone="Blackrock Spire"}}
 items[13398] = {id=13398,name="Boots of the Shrieker",source={ID=1853,SourceName="Darkmaster Gandling",SourceType="Kill",DropChance="12.8",Zone="Scholomance"}}
 items[18735] = {id=18735,name="Maleki's Footwraps",source={ID=10438,SourceName="Maleki the Pallid",SourceType="Kill",DropChance="17.7",Zone="Stratholme"}}
-items[16682] = {id=16682,name="Magister's Boots",source={ID=10558,SourceName="Hearthsinger Forresten",SourceType="Kill",DropChance="15.6",Zone="Stratholme"}}
+items[16682] = {id=16682,name="Magister's Boots",source={ID=10558,SourceName="Hearthsinger Forresten",SourceType="Kill",DropChance="16.0",Zone="Stratholme"}}
 items[18322] = {id=18322,name="Waterspout Boots",source={ID=13280,SourceName="Hydrospawn",SourceType="Kill",DropChance="19.6",Zone="Dire Maul"}}
-items[10629] = {id=10629,name="Mistwalker Boots",source={ID=5228,SourceName="Saturated Ooze",SourceType="Kill",DropChance="0",Zone="The Temple of Atal'Hakkar"}}
-items[9646] = {id=9646,name="Gnomish Water Sinking Device",source={ID=836,SourceName="",SourceType="Quest",DropChance="0",Zone="The Hinterlands"}}
+items[10629] = {id=10629,name="Mistwalker Boots",source={ID=5399,SourceName="Veyzhak the Cannibal",SourceType="Kill",DropChance="1.2",Zone="Unknown"}}
+items[9646] = {id=9646,name="Gnomish Water Sinking Device",source={ID=836,SourceName="Rescue OOX-09/HL!",SourceType="Quest",DropChance="0",Zone="The Hinterlands"}}
 items[20161] = {id=20161,name="Defiler's Cloth Boots",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[7458] = {id=7458,name="Knight's Boots",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="4.7",Zone="Thousand Needles"}}
 items[10582] = {id=10582,name="Briar Tredders",source={ID=7342,SourceName="Skeletal Summoner",SourceType="Kill",DropChance="0",Zone="Razorfen Downs"}}
 items[20188] = {id=20188,name="Defiler's Leather Boots",source={ID=15126,SourceName="Rutherford Twing",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[7027] = {id=7027,name="Boots of Darkness",source={ID=8778,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[35137] = {id=35137,name="Guardian's Dragonhide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34559] = {id=34559,name="Lightbringer Treads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34567] = {id=34567,name="Skyshatter Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32789] = {id=32789,name="Veteran's Lamellar Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35137] = {id=35137,name="Guardian's Dragonhide Boots",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[34559] = {id=34559,name="Lightbringer Treads",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[34567] = {id=34567,name="Skyshatter Greaves",source={ID=25976,SourceName="Theremis",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32789] = {id=32789,name="Veteran's Lamellar Greaves",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[32398] = {id=32398,name="Boots of Shackled Souls",source={ID=39997,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[33582] = {id=33582,name="Footwraps of Wild Encroachment",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33582] = {id=33582,name="Footwraps of Wild Encroachment",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[34612] = {id=34612,name="Greaves of the Penitent Knight",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="5.6",Zone="Magisters' Terrace"}}
 items[24911] = {id=24911,name="Netherstorm Greaves",source={ID=20911,SourceName="Blackwing Drakonaar",SourceType="Kill",DropChance="9.3",Zone="Unknown"}}
 items[30770] = {id=30770,name="Inferno Forged Boots",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[24975] = {id=24975,name="Reaver Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24823] = {id=24823,name="Netherstalker Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24975] = {id=24975,name="Reaver Greaves",source={ID=21923,SourceName="Terrorguard Protector",SourceType="Kill",DropChance="0.3",Zone="Netherstorm"}}
+items[24823] = {id=24823,name="Netherstalker Greaves",source={ID=18977,SourceName="Felguard Destroyer",SourceType="Kill",DropChance="0.3",Zone="Hellfire Peninsula"}}
 items[16912] = {id=16912,name="Netherwind Boots",source={ID=12017,SourceName="Broodlord Lashlayer",SourceType="Kill",DropChance="35.2",Zone="Blackwing Lair"}}
 items[16811] = {id=16811,name="Boots of Prophecy",source={ID=12264,SourceName="Shazzrah",SourceType="Kill",DropChance="33.0",Zone="Molten Core"}}
 items[12616] = {id=12616,name="Savage Mail Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[13369] = {id=13369,name="Fire Striders",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="16.1",Zone="Stratholme"}}
+items[13369] = {id=13369,name="Fire Striders",source={ID=10812,SourceName="Grand Crusader Dathrohan",SourceType="Kill",DropChance="16.2",Zone="Stratholme"}}
 items[16509] = {id=16509,name="Blood Guard's Plate Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20053] = {id=20053,name="Highlander's Lizardhide Boots",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[19052] = {id=19052,name="Dawn Treaders",source={ID=23705,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[18043] = {id=18043,name="Coal Miner Boots",source={ID=9537,SourceName="Hurley Blackbreath",SourceType="Kill",DropChance="24.9",Zone="Blackrock Depths"}}
+items[18043] = {id=18043,name="Coal Miner Boots",source={ID=9537,SourceName="Hurley Blackbreath",SourceType="Kill",DropChance="25.2",Zone="Blackrock Depths"}}
 items[15802] = {id=15802,name="Mooncloth Boots",source={ID=19435,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[11627] = {id=11627,name="Fleetfoot Greaves",source={ID=9319,SourceName="Houndmaster Grebmar",SourceType="Kill",DropChance="34.8",Zone="Blackrock Depths"}}
+items[11627] = {id=11627,name="Fleetfoot Greaves",source={ID=9319,SourceName="Houndmaster Grebmar",SourceType="Kill",DropChance="34.7",Zone="Blackrock Depths"}}
 items[186031] = {id=186031,name="Communal Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[17688] = {id=17688,name="Jungle Boots",source={ID=338,SourceName="",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
+items[17688] = {id=17688,name="Jungle Boots",source={ID=338,SourceName="The Green Hills of Stranglethorn",SourceType="Quest",DropChance="0",Zone="Stranglethorn Vale"}}
 items[20129] = {id=20129,name="Highlander's Mail Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
 items[3484] = {id=3484,name="Green Iron Boots",source={ID=3334,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[35149] = {id=35149,name="Guardian's Silk Footguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33886] = {id=33886,name="Vindicator's Kodohide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32788] = {id=32788,name="Veteran's Kodohide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[32984] = {id=32984,name="General's Ornamented Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35149] = {id=35149,name="Guardian's Silk Footguards",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33886] = {id=33886,name="Vindicator's Kodohide Boots",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32788] = {id=32788,name="Veteran's Kodohide Boots",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[32984] = {id=32984,name="General's Ornamented Greaves",source={ID=54650,SourceName="Kezzik the Striker",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[30779] = {id=30779,name="Inferno Hardened Boots",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31215] = {id=31215,name="Abyssal Leather Treads",source={ID=18696,SourceName="Kraator",SourceType="Kill",DropChance="52.5",Zone="Unknown"}}
-items[28494] = {id=28494,name="Ravenguard's Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[24815] = {id=24815,name="Felstone Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28494] = {id=28494,name="Ravenguard's Greaves",source={ID=31800,SourceName="Outcast's Cache",SourceType="Container",DropChance="2.0",Zone="Unknown"}}
+items[24815] = {id=24815,name="Felstone Greaves",source={ID=16925,SourceName="Bonechewer Raider",SourceType="Kill",DropChance="0.1",Zone="Hellfire Peninsula"}}
 items[21704] = {id=21704,name="Boots of the Redeemed Prophecy",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="13.0",Zone="Ahn'Qiraj"}}
 items[16862] = {id=16862,name="Sabatons of Might",source={ID=12259,SourceName="Gehennas",SourceType="Kill",DropChance="31.0",Zone="Molten Core"}}
-items[18424] = {id=18424,name="Sedge Boots",source={ID=7462,SourceName="",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
+items[18424] = {id=18424,name="Sedge Boots",source={ID=7462,SourceName="The Treasure of the Shen'dralar",SourceType="Quest",DropChance="0",Zone="Dire Maul"}}
 items[13381] = {id=13381,name="Master Cannoneer Boots",source={ID=10997,SourceName="Cannon Master Willey",SourceType="Kill",DropChance="16.7",Zone="Stratholme"}}
 items[186039] = {id=186039,name="Communal Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20092] = {id=20092,name="Highlander's Chain Greaves",source={ID=15127,SourceName="Samuel Hawke",SourceType="Purchase",DropChance="100",Zone="Arathi Highlands"}}
@@ -895,16 +895,16 @@ items[20187] = {id=20187,name="Defiler's Leather Boots",source={ID=15126,SourceN
 items[7390] = {id=7390,name="Dusky Boots",source={ID=9207,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[7754] = {id=7754,name="Harbinger Boots",source={ID=3983,SourceName="Interrogator Vishas",SourceType="Kill",DropChance="0",Zone="Scarlet Monastery"}}
 items[13099] = {id=13099,name="Moccasins of the White Hare",source={ID=15814,SourceName="Qiraji Lieutenant Jo-rel",SourceType="Kill",DropChance="7.5",Zone="The Barrens"}}
-items[35138] = {id=35138,name="Guardian's Dreadweave Stalkers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33916] = {id=33916,name="Vindicator's Wyrmhide Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33324] = {id=33324,name="Treads of the Life Path",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33577] = {id=33577,name="Moon-walkers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[30284] = {id=30284,name="Audi's Embroidered Boots",source={ID=10435,SourceName="",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
-items[25516] = {id=25516,name="Ikeyen's Boots",source={ID=9788,SourceName="",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
+items[35138] = {id=35138,name="Guardian's Dreadweave Stalkers",source={ID=107619,SourceName="Blaze Magmaburn",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[33916] = {id=33916,name="Vindicator's Wyrmhide Boots",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[33324] = {id=33324,name="Treads of the Life Path",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[33577] = {id=33577,name="Moon-walkers",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[30284] = {id=30284,name="Audi's Embroidered Boots",source={ID=10435,SourceName="Retrieving the Goods",SourceType="Quest",DropChance="0",Zone="Netherstorm"}}
+items[25516] = {id=25516,name="Ikeyen's Boots",source={ID=9788,SourceName="A Damp, Dark Place",SourceType="Quest",DropChance="0",Zone="Zangarmarsh"}}
 items[18806] = {id=18806,name="Core Forged Greaves",source={ID=179703,SourceName="Cache of the Firelord",SourceType="Container",DropChance="19.5",Zone="Molten Core"}}
 items[16824] = {id=16824,name="Nightslayer Boots",source={ID=12264,SourceName="Shazzrah",SourceType="Kill",DropChance="31.9",Zone="Molten Core"}}
 items[16498] = {id=16498,name="Blood Guard's Leather Treads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[20714] = {id=20714,name="Sandstorm Boots",source={ID=8382,SourceName="",SourceType="Quest",DropChance="0",Zone="Silithus"}}
+items[20714] = {id=20714,name="Sandstorm Boots",source={ID=8382,SourceName="Armaments of War",SourceType="Quest",DropChance="0",Zone="Silithus"}}
 items[12556] = {id=12556,name="High Priestess Boots",source={ID=8929,SourceName="Princess Moira Bronzebeard",SourceType="Kill",DropChance="21.6",Zone="Blackrock Depths"}}
 items[12555] = {id=12555,name="Battlechaser's Greaves",source={ID=8893,SourceName="Anvilrage Soldier",SourceType="Kill",DropChance="0",Zone="Blackrock Depths"}}
 items[13111] = {id=13111,name="Sandals of the Insurgent",source={ID=15741,SourceName="Colossus of Regal",SourceType="Kill",DropChance="25.0",Zone="Silithus"}}
@@ -915,26 +915,26 @@ items[9895] = {id=9895,name="Jazeraint Boots",source={ID=15815,SourceName="Qiraj
 items[7916] = {id=7916,name="Barbaric Iron Boots",source={ID=9818,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[9845] = {id=9845,name="Conjurer's Shoes",source={ID=15747,SourceName="Qiraji Captain",SourceType="Kill",DropChance="9.5",Zone="Thousand Needles"}}
 items[2143] = {id=2143,name="Cuirboulli Boots",source={ID=1314,SourceName="Duncan Cullen",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[33896] = {id=33896,name="Vindicator's Linked Sabatons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33896] = {id=33896,name="Vindicator's Linked Sabatons",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[24831] = {id=24831,name="Nexus-Strider Greaves",source={ID=18088,SourceName="Bloodscale Enchantress",SourceType="Kill",DropChance="4.7",Zone="Zangarmarsh"}}
 items[19892] = {id=19892,name="Animist's Boots",source={ID=11380,SourceName="Jin'do the Hexxer",SourceType="Kill",DropChance="15.9",Zone="Zul'Gurub"}}
 items[16392] = {id=16392,name="Knight-Lieutenant's Leather Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[22311] = {id=22311,name="Ironweave Boots",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="17.6",Zone="Blackrock Spire"}}
-items[10376] = {id=10376,name="Commander's Boots",source={ID=1838,SourceName="Scarlet Interrogator",SourceType="Kill",DropChance="8.6",Zone="Western Plaguelands"}}
+items[22311] = {id=22311,name="Ironweave Boots",source={ID=10430,SourceName="The Beast",SourceType="Kill",DropChance="17.7",Zone="Blackrock Spire"}}
+items[10376] = {id=10376,name="Commander's Boots",source={ID=1838,SourceName="Scarlet Interrogator",SourceType="Kill",DropChance="8.5",Zone="Western Plaguelands"}}
 items[8256] = {id=8256,name="Serpentskin Boots",source={ID=5719,SourceName="Morphaz",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
 items[10044] = {id=10044,name="Cindercloth Boots",source={ID=12088,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32990] = {id=32990,name="Veteran's Ornamented Greaves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32990] = {id=32990,name="Veteran's Ornamented Greaves",source={ID=26089,SourceName="Kayri",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
 items[31236] = {id=31236,name="Grim Slippers",source={ID=18686,SourceName="Doomsayer Jurim",SourceType="Kill",DropChance="47.0",Zone="Unknown"}}
 items[14537] = {id=14537,name="Corpselight Greaves",source={ID=11622,SourceName="Rattlegore",SourceType="Kill",DropChance="12.2",Zone="Scholomance"}}
 items[8294] = {id=8294,name="Traveler's Boots",source={ID=13440,SourceName="Frostwolf Wolf Rider",SourceType="Kill",DropChance="1.6",Zone="Alterac Valley"}}
 items[2315] = {id=2315,name="Dark Leather Boots",source={ID=2167,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[32866] = {id=32866,name="Ascendant's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32866] = {id=32866,name="Ascendant's Boots",source={ID=11041,SourceName="Quests",SourceType="Quest",DropChance="0",Zone="Outland Shadowmoon Valley"}}
 items[23824] = {id=23824,name="Rocket Boots Xtreme",source={ID=30556,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[7189] = {id=7189,name="Goblin Rocket Boots",source={ID=8895,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[10411] = {id=10411,name="Footpads of the Fang",source={ID=3673,SourceName="Lord Serpentis",SourceType="Kill",DropChance="21.4",Zone="Wailing Caverns"}}
+items[10411] = {id=10411,name="Footpads of the Fang",source={ID=3673,SourceName="Lord Serpentis",SourceType="Kill",DropChance="21.3",Zone="Wailing Caverns"}}
 items[6836] = {id=6836,name="Dress Shoes",source={ID=49677,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[10402] = {id=10402,name="Blackened Defias Boots",source={ID=4416,SourceName="Defias Strip Miner",SourceType="Kill",DropChance="2.7",Zone="The Deadmines"}}
-items[19969] = {id=19969,name="Nat Pagle's Extreme Anglin' Boots",source={ID=8225,SourceName="",SourceType="Quest",DropChance="0",Zone="Fishing"}}
+items[19969] = {id=19969,name="Nat Pagle's Extreme Anglin' Boots",source={ID=8225,SourceName="Rare Fish - Brownell's Blue Striped Racer",SourceType="Quest",DropChance="0",Zone="Fishing"}}
 items[35581] = {id=35581,name="Rocket Boots Xtreme Lite",source={ID=46697,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[1121] = {id=1121,name="Feet of the Lynx",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="14.2",Zone="The Barrens"}}
 items[20915] = {id=20915,name="Unadorned Chain Boots",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
@@ -942,26 +942,26 @@ items[4312] = {id=4312,name="Soft-soled Linen Boots",source={ID=3845,SourceName=
 items[10724] = {id=10724,name="Gnomish Rocket Boots",source={ID=12905,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[12982] = {id=12982,name="Silver-linked Footguards",source={ID=15812,SourceName="Qiraji Officer",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
 items[25970] = {id=25970,name="Shalassi Oracle's Sandals",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[2987] = {id=2987,name="Inscribed Leather Boots",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="2.3",Zone="Silverpine Forest"}}
+items[2987] = {id=2987,name="Inscribed Leather Boots",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="2.2",Zone="Silverpine Forest"}}
 items[3065] = {id=3065,name="Bright Boots",source={ID=1398,SourceName="Boss Galgosh",SourceType="Kill",DropChance="0.4",Zone="Loch Modan"}}
 items[6562] = {id=6562,name="Shimmering Boots",source={ID=15813,SourceName="Qiraji Officer Zod",SourceType="Kill",DropChance="7.1",Zone="The Barrens"}}
 items[9776] = {id=9776,name="Bandit Boots",source={ID=15812,SourceName="Qiraji Officer",SourceType="Kill",DropChance="16.2",Zone="The Barrens"}}
 items[2569] = {id=2569,name="Linen Boots",source={ID=2386,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[40] = {id=40,name="Recruit's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40] = {id=40,name="Recruit's Boots",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[6573] = {id=6573,name="Defender Boots",source={ID=14281,SourceName="Jimmy the Bleeder",SourceType="Kill",DropChance="8.3",Zone="Alterac Mountains"}}
 items[14722] = {id=14722,name="War Paint Anklewraps",source={ID=12319,SourceName="Burning Blade Toxicologist",SourceType="Kill",DropChance="1.0",Zone="The Barrens"}}
-items[6518] = {id=6518,name="Pioneer Boots",source={ID=5824,SourceName="Captain Flat Tusk",SourceType="Kill",DropChance="6.7",Zone="Durotar"}}
+items[6518] = {id=6518,name="Pioneer Boots",source={ID=5824,SourceName="Captain Flat Tusk",SourceType="Kill",DropChance="6.8",Zone="Durotar"}}
 items[6201] = {id=6201,name="Lithe Boots",source={ID=99,SourceName="Morgaine the Sly",SourceType="Kill",DropChance="74.3",Zone="Elwynn Forest"}}
 items[2123] = {id=2123,name="Cracked Leather Boots",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[840] = {id=840,name="Heavy Weave Shoes",source={ID=1214,SourceName="Aldren Cordon",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[14114] = {id=14114,name="Aboriginal Footwraps",source={ID=11517,SourceName="Oggleflint",SourceType="Kill",DropChance="0.4",Zone="Ragefire Chasm"}}
-items[15012] = {id=15012,name="Lupine Slippers",source={ID=17341,SourceName="Axxarien Trickster",SourceType="Kill",DropChance="0.6",Zone="Bloodmyst Isle"}}
+items[15012] = {id=15012,name="Lupine Slippers",source={ID=17341,SourceName="Axxarien Trickster",SourceType="Kill",DropChance="0.5",Zone="Bloodmyst Isle"}}
 items[2401] = {id=2401,name="Light Chain Boots",source={ID=2135,SourceName="Abe Winters",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
-items[2963] = {id=2963,name="Burnt Leather Boots",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="4.6",Zone="Eversong Woods"}}
+items[2963] = {id=2963,name="Burnt Leather Boots",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="3.9",Zone="Eversong Woods"}}
 items[20898] = {id=20898,name="Lookout's Shoes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[14159] = {id=14159,name="Pagan Shoes",source={ID=3671,SourceName="Lady Anacondra",SourceType="Kill",DropChance="22.4",Zone="Wailing Caverns"}}
-items[2983] = {id=2983,name="Seer's Boots",source={ID=3532,SourceName="Pyrewood Leatherworker",SourceType="Kill",DropChance="0.5",Zone="Silverpine Forest"}}
-items[15489] = {id=15489,name="Bloodspattered Sabatons",source={ID=17322,SourceName="Infected Wildkin",SourceType="Kill",DropChance="0.4",Zone="Bloodmyst Isle"}}
+items[2983] = {id=2983,name="Seer's Boots",source={ID=17661,SourceName="Deathclaw",SourceType="Kill",DropChance="0.6",Zone="Bloodmyst Isle"}}
+items[15489] = {id=15489,name="Bloodspattered Sabatons",source={ID=17322,SourceName="Infected Wildkin",SourceType="Kill",DropChance="0.3",Zone="Bloodmyst Isle"}}
 items[3469] = {id=3469,name="Copper Chain Boots",source={ID=3319,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[210] = {id=210,name="Dirty Leather Boots",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
 items[2389] = {id=2389,name="Rusted Chain Boots",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
@@ -969,32 +969,32 @@ items[23348] = {id=23348,name="Scout's Boots",source={ID=0,SourceName="",SourceT
 items[3076] = {id=3076,name="Smoldering Boots",source={ID=1042,SourceName="Red Whelp",SourceType="Kill",DropChance="1.1",Zone="Wetlands"}}
 items[6459] = {id=6459,name="Savage Trodders",source={ID=3673,SourceName="Lord Serpentis",SourceType="Kill",DropChance="23.1",Zone="Wailing Caverns"}}
 items[238] = {id=238,name="Cured Leather Boots",source={ID=1295,SourceName="Lara Moore",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
-items[6666] = {id=6666,name="Dredge Boots",source={ID=1092,SourceName="",SourceType="Quest",DropChance="0",Zone="Stonetalon Mountains"}}
+items[6666] = {id=6666,name="Dredge Boots",source={ID=1092,SourceName="Gerenzo's Orders",SourceType="Quest",DropChance="0",Zone="Stonetalon Mountains"}}
 items[4313] = {id=4313,name="Red Woolen Boots",source={ID=3847,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[14174] = {id=14174,name="Buccaneer's Boots",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.7",Zone="Bloodmyst Isle"}}
+items[14174] = {id=14174,name="Buccaneer's Boots",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
 items[4789] = {id=4789,name="Stable Boots",source={ID=954,SourceName="Kat Sampson",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[843] = {id=843,name="Tanned Leather Boots",source={ID=896,SourceName="Veldan Lightfoot",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[5320] = {id=5320,name="Padded Lamellar Boots",source={ID=888,SourceName="",SourceType="Quest",DropChance="0",Zone="The Barrens"}}
+items[5320] = {id=5320,name="Padded Lamellar Boots",source={ID=888,SourceName="Stolen Booty",SourceType="Quest",DropChance="0",Zone="The Barrens"}}
 items[2975] = {id=2975,name="Hunting Boots",source={ID=3531,SourceName="Moonrage Tailor",SourceType="Kill",DropChance="1.0",Zone="Silverpine Forest"}}
 items[2395] = {id=2395,name="Light Mail Boots",source={ID=1240,SourceName="Boran Ironclink",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
-items[2959] = {id=2959,name="Journeyman's Boots",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
-items[15004] = {id=15004,name="Primal Boots",source={ID=15637,SourceName="Withered Green Keeper",SourceType="Kill",DropChance="0.9",Zone="Eversong Woods"}}
-items[1419] = {id=1419,name="Worn Leather Boots",source={ID=17279,SourceName="Venture Co. Gemologist",SourceType="Kill",DropChance="3.0",Zone="Azuremyst Isle"}}
+items[2959] = {id=2959,name="Journeyman's Boots",source={ID=16855,SourceName="Tregla",SourceType="Kill",DropChance="3.9",Zone="Eversong Woods"}}
+items[15004] = {id=15004,name="Primal Boots",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[1419] = {id=1419,name="Worn Leather Boots",source={ID=17279,SourceName="Venture Co. Gemologist",SourceType="Kill",DropChance="2.5",Zone="Azuremyst Isle"}}
 items[2383] = {id=2383,name="Tarnished Chain Boots",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
-items[43] = {id=43,name="Squire's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43] = {id=43,name="Squire's Boots",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[20895] = {id=20895,name="Apprentice's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[2168] = {id=2168,name="Foreman's Boots",source={ID=626,SourceName="Foreman Thistlenettle",SourceType="Kill",DropChance="0.8",Zone="Unknown"}}
 items[15111] = {id=15111,name="Rigid Moccasins",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.9",Zone="The Barrens"}}
 items[14129] = {id=14129,name="Ritual Sandals",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="0.7",Zone="The Barrens"}}
-items[1503] = {id=1503,name="Warped Leather Boots",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[1503] = {id=1503,name="Warped Leather Boots",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[3307] = {id=3307,name="Barbaric Cloth Boots",source={ID=12321,SourceName="Stormscale Toxicologist",SourceType="Kill",DropChance="0.6",Zone="Darkshore"}}
 items[3311] = {id=3311,name="Ceremonial Leather Ankleguards",source={ID=2186,SourceName="Carnivous the Breaker",SourceType="Kill",DropChance="1.0",Zone="Darkshore"}}
 items[6537] = {id=6537,name="Willow Boots",source={ID=14268,SourceName="Lord Condar",SourceType="Kill",DropChance="4.3",Zone="Loch Modan"}}
 items[2979] = {id=2979,name="Veteran Boots",source={ID=3533,SourceName="Moonrage Leatherworker",SourceType="Kill",DropChance="1.2",Zone="Silverpine Forest"}}
 items[1495] = {id=1495,name="Calico Shoes",source={ID=2068,SourceName="Lord Mayor Morrison",SourceType="Kill",DropChance="5.0",Zone="Silverpine Forest"}}
-items[15301] = {id=15301,name="Grizzly Slippers",source={ID=17448,SourceName="Chieftain Oomooroo",SourceType="Kill",DropChance="0.8",Zone="Azuremyst Isle"}}
-items[3284] = {id=3284,name="Tribal Boots",source={ID=13157,SourceName="Makasgar",SourceType="Kill",DropChance="1.8",Zone="Durotar"}}
-items[2967] = {id=2967,name="Warrior's Boots",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[15301] = {id=15301,name="Grizzly Slippers",source={ID=17333,SourceName="Wrathscale Screamer",SourceType="Kill",DropChance="1.0",Zone="Bloodmyst Isle"}}
+items[3284] = {id=3284,name="Tribal Boots",source={ID=13157,SourceName="Makasgar",SourceType="Kill",DropChance="1.7",Zone="Durotar"}}
+items[2967] = {id=2967,name="Warrior's Boots",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[1374] = {id=1374,name="Frayed Shoes",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.8",Zone="Durotar"}}
 items[6122] = {id=6122,name="Recruit's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[3057] = {id=3057,name="Forest Leather Boots",source={ID=335,SourceName="Singe",SourceType="Kill",DropChance="0.3",Zone="Redridge Mountains"}}
@@ -1009,27 +1009,27 @@ items[15498] = {id=15498,name="Outrunner's Slippers",source={ID=3672,SourceName=
 items[1788] = {id=1788,name="Patched Leather Boots",source={ID=2106,SourceName="Apothecary Berard",SourceType="Kill",DropChance="1.8",Zone="Silverpine Forest"}}
 items[4660] = {id=4660,name="Walking Boots",source={ID=599,SourceName="Marisa du'Paige",SourceType="Kill",DropChance="74.0",Zone="Unknown"}}
 items[15305] = {id=15305,name="Feral Shoes",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.1",Zone="The Barrens"}}
-items[1764] = {id=1764,name="Canvas Shoes",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.8",Zone="Ghostlands"}}
+items[1764] = {id=1764,name="Canvas Shoes",source={ID=16316,SourceName="Stonewing Tracker",SourceType="Kill",DropChance="3.0",Zone="Ghostlands"}}
 items[6551] = {id=6551,name="Soldier's Boots",source={ID=2184,SourceName="Lady Moongazer",SourceType="Kill",DropChance="10.4",Zone="Darkshore"}}
 items[3302] = {id=3302,name="Brackwater Boots",source={ID=5865,SourceName="Dishu",SourceType="Kill",DropChance="0.2",Zone="The Barrens"}}
 items[2971] = {id=2971,name="Spellbinder Boots",source={ID=3528,SourceName="Pyrewood Armorer",SourceType="Kill",DropChance="0.7",Zone="Silverpine Forest"}}
 items[9759] = {id=9759,name="Cadet Boots",source={ID=5865,SourceName="Dishu",SourceType="Kill",DropChance="9.3",Zone="The Barrens"}}
 items[3279] = {id=3279,name="Battle Chain Boots",source={ID=17524,SourceName="Nazzivus Summoner",SourceType="Kill",DropChance="2.2",Zone="Bloodmyst Isle"}}
-items[9751] = {id=9751,name="Gypsy Sandals",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[9751] = {id=9751,name="Gypsy Sandals",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[3289] = {id=3289,name="Ancestral Boots",source={ID=7318,SourceName="Rageclaw",SourceType="Kill",DropChance="0.7",Zone="Teldrassil"}}
 items[7351] = {id=7351,name="Disciple's Boots",source={ID=14429,SourceName="Grimmaw",SourceType="Kill",DropChance="5.8",Zone="Teldrassil"}}
 items[796] = {id=796,name="Rough Leather Boots",source={ID=74,SourceName="Kurran Steele",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
-items[1427] = {id=1427,name="Patchwork Shoes",source={ID=15655,SourceName="Rotlimb Cannibal",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
+items[1427] = {id=1427,name="Patchwork Shoes",source={ID=15637,SourceName="Withered Green Keeper",SourceType="Kill",DropChance="2.0",Zone="Eversong Woods"}}
 items[2373] = {id=2373,name="Battered Leather Boots",source={ID=2137,SourceName="Eliza Callen",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
-items[15473] = {id=15473,name="Charger's Boots",source={ID=17374,SourceName="Greater Timberstrider",SourceType="Kill",DropChance="0.7",Zone="Azuremyst Isle"}}
-items[3321] = {id=3321,name="Gray Fur Booties",source={ID=1549,SourceName="Ravenous Darkhound",SourceType="Kill",DropChance="4.7",Zone="Tirisfal Glades"}}
+items[15473] = {id=15473,name="Charger's Boots",source={ID=17321,SourceName="Bristlelimb Warrior",SourceType="Kill",DropChance="0.7",Zone="Bloodmyst Isle"}}
+items[3321] = {id=3321,name="Gray Fur Booties",source={ID=1549,SourceName="Ravenous Darkhound",SourceType="Kill",DropChance="4.6",Zone="Tirisfal Glades"}}
 items[3332] = {id=3332,name="Perrine's Boots",source={ID=1662,SourceName="Captain Perrine",SourceType="Kill",DropChance="5.1",Zone="Tirisfal Glades"}}
 items[18612] = {id=18612,name="Bloody Chain Boots",source={ID=14431,SourceName="Fury Shelda",SourceType="Kill",DropChance="94.3",Zone="Teldrassil"}}
 items[20921] = {id=20921,name="Sun Cured Boots",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
 items[21010] = {id=21010,name="Scraggy Leather Boots",source={ID=15273,SourceName="Arcane Wraith",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
 items[47] = {id=47,name="Footpad's Shoes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[55] = {id=55,name="Apprentice's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[59] = {id=59,name="Acolyte's Shoes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[55] = {id=55,name="Apprentice's Boots",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
+items[59] = {id=59,name="Acolyte's Shoes",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[129] = {id=129,name="Rugged Trapper's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[6138] = {id=6138,name="Thug Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23475] = {id=23475,name="Recruit's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -1043,22 +1043,22 @@ items[14364] = {id=14364,name="Mystic's Slippers",source={ID=3295,SourceName="Sl
 items[849] = {id=849,name="Chainmail Boots",source={ID=167,SourceName="Morhan Coppertongue",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[5968] = {id=5968,name="Rugged Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[22991] = {id=22991,name="Apprentice Boots",source={ID=12237,SourceName="Meshlok the Harvester",SourceType="Kill",DropChance="5.0",Zone="Maraudon"}}
-items[1731] = {id=1731,name="Worn Mail Boots",source={ID=17528,SourceName="Tzerak",SourceType="Kill",DropChance="4.1",Zone="Bloodmyst Isle"}}
-items[14110] = {id=14110,name="Native Sandals",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="0.8",Zone="Bloodmyst Isle"}}
-items[15481] = {id=15481,name="War Torn Greaves",source={ID=17337,SourceName="Nazzivus Satyr",SourceType="Kill",DropChance="0.3",Zone="Bloodmyst Isle"}}
-items[9743] = {id=9743,name="Simple Shoes",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
-items[6506] = {id=6506,name="Infantry Boots",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="5.0",Zone="Eversong Woods"}}
+items[1731] = {id=1731,name="Worn Mail Boots",source={ID=17528,SourceName="Tzerak",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
+items[14110] = {id=14110,name="Native Sandals",source={ID=17702,SourceName="High Chief Bristlelimb",SourceType="Kill",DropChance="0.7",Zone="Bloodmyst Isle"}}
+items[15481] = {id=15481,name="War Torn Greaves",source={ID=17321,SourceName="Bristlelimb Warrior",SourceType="Kill",DropChance="0.2",Zone="Bloodmyst Isle"}}
+items[9743] = {id=9743,name="Simple Shoes",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
+items[6506] = {id=6506,name="Infantry Boots",source={ID=16854,SourceName="Eldinarcus",SourceType="Kill",DropChance="4.5",Zone="Eversong Woods"}}
 items[2367] = {id=2367,name="Woven Boots",source={ID=3166,SourceName="Cutac",SourceType="Purchase",DropChance="100",Zone="Durotar"}}
-items[6148] = {id=6148,name="Web-covered Boots",source={ID=471,SourceName="Mother Fang",SourceType="Kill",DropChance="83.7",Zone="Elwynn Forest"}}
+items[6148] = {id=6148,name="Web-covered Boots",source={ID=471,SourceName="Mother Fang",SourceType="Kill",DropChance="83.4",Zone="Elwynn Forest"}}
 items[14086] = {id=14086,name="Beaded Sandals",source={ID=3205,SourceName="Zalazane",SourceType="Kill",DropChance="0.5",Zone="Durotar"}}
-items[2642] = {id=2642,name="Loose Chain Boots",source={ID=17298,SourceName="Warlord Sriss'tiz",SourceType="Kill",DropChance="1.9",Zone="Azuremyst Isle"}}
+items[2642] = {id=2642,name="Loose Chain Boots",source={ID=17298,SourceName="Warlord Sriss'tiz",SourceType="Kill",DropChance="1.7",Zone="Azuremyst Isle"}}
 items[7095] = {id=7095,name="Bog Boots",source={ID=2029,SourceName="Timberling Mire Beast",SourceType="Kill",DropChance="3.2",Zone="Teldrassil"}}
 items[10046] = {id=10046,name="Simple Linen Boots",source={ID=12045,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[21008] = {id=21008,name="Unkempt Shoes",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="2.4",Zone="Eversong Woods"}}
-items[1367] = {id=1367,name="Ragged Leather Boots",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="4.5",Zone="Azuremyst Isle"}}
-items[2650] = {id=2650,name="Flimsy Chain Boots",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="14.2",Zone="Azuremyst Isle"}}
+items[21008] = {id=21008,name="Unkempt Shoes",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="2.0",Zone="Eversong Woods"}}
+items[1367] = {id=1367,name="Ragged Leather Boots",source={ID=1916,SourceName="Stephen Bhartec",SourceType="Kill",DropChance="4.5",Zone="Tirisfal Glades"}}
+items[2650] = {id=2650,name="Flimsy Chain Boots",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="13.0",Zone="Azuremyst Isle"}}
 items[21020] = {id=21020,name="Shoddy Chain Boots",source={ID=15274,SourceName="Mana Wyrm",SourceType="Kill",DropChance="1.0",Zone="Eversong Woods"}}
-items[51] = {id=51,name="Neophyte's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51] = {id=51,name="Neophyte's Boots",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Old Hillsbrad Foothills"}}
 items[121] = {id=121,name="Thug Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[140] = {id=140,name="Brawler's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[6127] = {id=6127,name="Trapper's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -1066,7 +1066,7 @@ items[20900] = {id=20900,name="Warder's Boots",source={ID=0,SourceName="",Source
 items[24146] = {id=24146,name="Initiate's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20787] = {id=20787,name="90 green shaman boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20780] = {id=20780,name="63 green shaman boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[6668] = {id=6668,name="Draftsman Boots",source={ID=1096,SourceName="",SourceType="Quest",DropChance="0",Zone="Stonetalon Mountains"}}
+items[6668] = {id=6668,name="Draftsman Boots",source={ID=1096,SourceName="Gerenzo Wrenchwhistle",SourceType="Quest",DropChance="0",Zone="Stonetalon Mountains"}}
 items[11508] = {id=11508,name="Gamemaster's Slippers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[20903] = {id=20903,name="Recruit's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[2307] = {id=2307,name="Fine Leather Boots",source={ID=2158,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -1077,16 +1077,16 @@ items[23368] = {id=23368,name="Soft Leather Boots",source={ID=0,SourceName="",So
 items[14384] = {id=14384,name="Durability Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23349] = {id=23349,name="Battleworn Shoes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23472] = {id=23472,name="Rugged Trapper's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[34683] = {id=34683,name="Sandals of Summer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34683] = {id=34683,name="Sandals of Summer",source={ID=26123,SourceName="Midsummer Supplier",SourceType="Purchase",DropChance="100",Zone="Ironforge"}}
 items[2583] = {id=2583,name="Woolen Boots",source={ID=2401,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[22993] = {id=22993,name="Volunteer's Greaves",source={ID=16528,SourceName="Provisioner Vredigar",SourceType="Purchase",DropChance="100",Zone="Ghostlands"}}
 items[2117] = {id=2117,name="Thin Cloth Shoes",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 items[92] = {id=92,name="OLDDwarven Initiate's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33868] = {id=33868,name="Brewfest Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[33966] = {id=33966,name="Brewfest Slippers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33868] = {id=33868,name="Brewfest Boots",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[33966] = {id=33966,name="Brewfest Slippers",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
 items[2302] = {id=2302,name="Handstitched Leather Boots",source={ID=2149,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[30965] = {id=30965,name="QR 10637 Plate Warrior Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[2991] = {id=2991,name="Burnished Boots",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.8",Zone="Bloodmyst Isle"}}
+items[2991] = {id=2991,name="Burnished Boots",source={ID=17592,SourceName="Razormaw",SourceType="Kill",DropChance="2.5",Zone="Bloodmyst Isle"}}
 items[4788] = {id=4788,name="Agile Boots",source={ID=954,SourceName="Kat Sampson",SourceType="Purchase",DropChance="100",Zone="Loch Modan"}}
 items[14560] = {id=14560,name="Prospector's Boots",source={ID=3295,SourceName="Sludge Beast",SourceType="Kill",DropChance="1.3",Zone="The Barrens"}}
 items[38162] = {id=38162,name="Soul-Trader's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}

@@ -10,8 +10,8 @@ local names = {}
 
 
 -- Item Data
-items[23198] = {id=23198,name="Idol of Brutality",source={ID=10435,SourceName="Magistrate Barthilas",SourceType="Kill",DropChance="3.5",Zone="Stratholme"}}
-items[22401] = {id=22401,name="Libram of Hope",source={ID=16097,SourceName="Isalien",SourceType="Kill",DropChance="12.0",Zone="Dire Maul"}}
+items[23198] = {id=23198,name="Idol of Brutality",source={ID=10435,SourceName="Magistrate Barthilas",SourceType="Kill",DropChance="3.6",Zone="Stratholme"}}
+items[22401] = {id=22401,name="Libram of Hope",source={ID=16097,SourceName="Isalien",SourceType="Kill",DropChance="11.9",Zone="Dire Maul"}}
 items[29388] = {id=29388,name="Libram of Repentance",source={ID=18525,SourceName="G'eras",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[23199] = {id=23199,name="Totem of the Storm",source={ID=15817,SourceName="Qiraji Brigadier General Pax-lish",SourceType="Kill",DropChance="22.9",Zone="Silithus"}}
 items[28248] = {id=28248,name="Totem of the Void",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
@@ -19,12 +19,12 @@ items[27484] = {id=27484,name="Libram of Avengement",source={ID=17381,SourceName
 items[27917] = {id=27917,name="Libram of the Eternal Rest",source={ID=18472,SourceName="Darkweaver Syth",SourceType="Kill",DropChance="14.2",Zone="Sethekk Halls"}}
 items[23203] = {id=23203,name="Libram of Fervor",source={ID=15817,SourceName="Qiraji Brigadier General Pax-lish",SourceType="Kill",DropChance="7.2",Zone="Silithus"}}
 items[33509] = {id=33509,name="Idol of Terror",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28064] = {id=28064,name="Idol of the Wild",source={ID=10132,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[28064] = {id=28064,name="Idol of the Wild",source={ID=10132,SourceName="Colossal Menace",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
 items[23197] = {id=23197,name="Idol of the Moon",source={ID=15817,SourceName="Qiraji Brigadier General Pax-lish",SourceType="Kill",DropChance="4.1",Zone="Silithus"}}
 items[27886] = {id=27886,name="Idol of the Emerald Queen",source={ID=18731,SourceName="Ambassador Hellmaw",SourceType="Kill",DropChance="20.0",Zone="Shadow Labyrinth"}}
 items[32387] = {id=32387,name="Idol of the Raven Goddess",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27815] = {id=27815,name="Totem of the Astral Winds",source={ID=18341,SourceName="Pandemonius",SourceType="Kill",DropChance="12.5",Zone="Mana-Tombs"}}
-items[22395] = {id=22395,name="Totem of Rage",source={ID=9938,SourceName="Magmus",SourceType="Kill",DropChance="10.3",Zone="Blackrock Depths"}}
+items[22395] = {id=22395,name="Totem of Rage",source={ID=9938,SourceName="Magmus",SourceType="Kill",DropChance="10.4",Zone="Blackrock Depths"}}
 items[28523] = {id=28523,name="Totem of Healing Rains",source={ID=16457,SourceName="Maiden of Virtue",SourceType="Kill",DropChance="13.3",Zone="Karazhan"}}
 items[22398] = {id=22398,name="Idol of Rejuvenation",source={ID=16080,SourceName="Mor Grayhoof",SourceType="Kill",DropChance="17.6",Zone="Blackrock Spire"}}
 items[28592] = {id=28592,name="Libram of Souls Redeemed",source={ID=17533,SourceName="Romulo",SourceType="Kill",DropChance="33.3",Zone="Karazhan"}}
@@ -34,17 +34,17 @@ items[23201] = {id=23201,name="Libram of Divinity",source={ID=10504,SourceName="
 items[23200] = {id=23200,name="Totem of Sustaining",source={ID=10504,SourceName="Lord Alexei Barov",SourceType="Kill",DropChance="2.7",Zone="Scholomance"}}
 items[186054] = {id=186054,name="Communal Idol of Life",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[22396] = {id=22396,name="Totem of Life",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="8.6",Zone="Ahn'Qiraj"}}
-items[22397] = {id=22397,name="Idol of Ferocity",source={ID=9025,SourceName="Lord Roccor",SourceType="Kill",DropChance="22.6",Zone="Blackrock Depths"}}
-items[25644] = {id=25644,name="Blessed Book of Nagrand",source={ID=9852,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[22397] = {id=22397,name="Idol of Ferocity",source={ID=9025,SourceName="Lord Roccor",SourceType="Kill",DropChance="23.0",Zone="Blackrock Depths"}}
+items[25644] = {id=25644,name="Blessed Book of Nagrand",source={ID=9852,SourceName="The Ultimate Bloodsport",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[28568] = {id=28568,name="Idol of the Avian Heart",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="6.2",Zone="Karazhan"}}
 items[22128] = {id=22128,name="Master Firestone",source={ID=27250,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
-items[22345] = {id=22345,name="Totem of Rebirth",source={ID=16097,SourceName="Isalien",SourceType="Kill",DropChance="9.1",Zone="Dire Maul"}}
+items[22345] = {id=22345,name="Totem of Rebirth",source={ID=16097,SourceName="Isalien",SourceType="Kill",DropChance="9.0",Zone="Dire Maul"}}
 items[33945] = {id=33945,name="Gladiator's Idol of Resolve",source={ID=20278,SourceName="Vixton Pinchwhistle",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[27518] = {id=27518,name="Ivory Idol of the Moongoddess",source={ID=16807,SourceName="Grand Warlock Nethekurse",SourceType="Kill",DropChance="20.0",Zone="The Shattered Halls"}}
-items[25643] = {id=25643,name="Harold's Rejuvenating Broach",source={ID=9852,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[25643] = {id=25643,name="Harold's Rejuvenating Broach",source={ID=9852,SourceName="The Ultimate Bloodsport",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
 items[186073] = {id=186073,name="Communal Totem of the Storm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[25645] = {id=25645,name="Totem of the Plains",source={ID=9852,SourceName="",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
-items[22400] = {id=22400,name="Libram of Truth",source={ID=9938,SourceName="Magmus",SourceType="Kill",DropChance="13.4",Zone="Blackrock Depths"}}
+items[25645] = {id=25645,name="Totem of the Plains",source={ID=9852,SourceName="The Ultimate Bloodsport",SourceType="Quest",DropChance="0",Zone="Outland Nagrand"}}
+items[22400] = {id=22400,name="Libram of Truth",source={ID=9938,SourceName="Magmus",SourceType="Kill",DropChance="13.5",Zone="Blackrock Depths"}}
 items[27544] = {id=27544,name="Totem of Spontaneous Regrowth",source={ID=17941,SourceName="Mennu the Betrayer",SourceType="Kill",DropChance="20.0",Zone="The Slave Pens"}}
 items[33506] = {id=33506,name="Skycall Totem",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[24413] = {id=24413,name="Totem of the Thunderhead",source={ID=17770,SourceName="Hungarfen",SourceType="Kill",DropChance="28.5",Zone="The Underbog"}}
@@ -70,7 +70,7 @@ items[29389] = {id=29389,name="Totem of the Pulsing Earth",source={ID=18525,Sour
 items[25667] = {id=25667,name="Idol of the Beast",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[186072] = {id=186072,name="Communal Totem of Restoration",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[33503] = {id=33503,name="Libram of Divine Judgement",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[28065] = {id=28065,name="Libram of Wracking",source={ID=10132,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[28065] = {id=28065,name="Libram of Wracking",source={ID=10132,SourceName="Colossal Menace",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
 items[186065] = {id=186065,name="Communal Book of Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[32257] = {id=32257,name="Idol of the White Stag",source={ID=22898,SourceName="Supremus",SourceType="Kill",DropChance="18.8",Zone="Black Temple"}}
 items[5522] = {id=5522,name="Spellstone",source={ID=2362,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
@@ -86,9 +86,9 @@ items[32368] = {id=32368,name="Tome of the Lightbringer",source={ID=22947,Source
 items[33504] = {id=33504,name="Libram of Divine Purpose",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[186052] = {id=186052,name="Communal Idol of Wrath",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[27989] = {id=27989,name="Idol of Savagery",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[23005] = {id=23005,name="Totem of Flowing Water",source={ID=15954,SourceName="Noth the Plaguebringer",SourceType="Kill",DropChance="11.3",Zone="Naxxramas"}}
+items[23005] = {id=23005,name="Totem of Flowing Water",source={ID=15954,SourceName="Noth the Plaguebringer",SourceType="Kill",DropChance="11.5",Zone="Naxxramas"}}
 items[22402] = {id=22402,name="Libram of Grace",source={ID=15510,SourceName="Fankriss the Unyielding",SourceType="Kill",DropChance="12.1",Zone="Ahn'Qiraj"}}
-items[28066] = {id=28066,name="Totem of Lightning",source={ID=10132,SourceName="",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
+items[28066] = {id=28066,name="Totem of Lightning",source={ID=10132,SourceName="Colossal Menace",SourceType="Quest",DropChance="0",Zone="Hellfire Peninsula"}}
 items[35021] = {id=35021,name="Brutal Gladiator's Idol of Tenacity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35104] = {id=35104,name="Brutal Gladiator's Totem of Indomitability",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[35105] = {id=35105,name="Brutal Gladiator's Totem of Survival",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}

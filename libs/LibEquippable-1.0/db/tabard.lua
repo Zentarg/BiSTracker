@@ -10,35 +10,35 @@ local names = {}
 
 
 -- Item Data
-items[28788] = {id=28788,name="Tabard of the Protector",source={ID=10259,SourceName="",SourceType="Quest",DropChance="0",Zone="Blasted Lands"}}
+items[28788] = {id=28788,name="Tabard of the Protector",source={ID=10259,SourceName="Into the Breach",SourceType="Quest",DropChance="0",Zone="Blasted Lands"}}
 items[23388] = {id=23388,name="Tranquillien Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[19506] = {id=19506,name="Silverwing Battle Tabard",source={ID=14753,SourceName="Illiyana Moonblaze",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
 items[23192] = {id=23192,name="Tabard of the Scarlet Crusade",source={ID=6575,SourceName="Scarlet Trainee",SourceType="Kill",DropChance="2.0",Zone="Scarlet Monastery"}}
 items[31779] = {id=31779,name="Aldor Tabard",source={ID=19321,SourceName="Quartermaster Endarin",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31780] = {id=31780,name="Scryers Tabard",source={ID=19331,SourceName="Quartermaster Enuril",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[31405] = {id=31405,name="Purple Trophy Tabard of the Illidari",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31405] = {id=31405,name="Purple Trophy Tabard of the Illidari",source={ID=54982,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19505] = {id=19505,name="Warsong Battle Tabard",source={ID=14754,SourceName="Kelm Hargunth",SourceType="Purchase",DropChance="100",Zone="The Barrens"}}
 items[19031] = {id=19031,name="Frostwolf Battle Tabard",source={ID=13218,SourceName="Grunnda Wolfheart",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
 items[23999] = {id=23999,name="Honor Hold Tabard",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[24004] = {id=24004,name="Thrallmar Tabard",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[38314] = {id=38314,name="Tabard of the Defender",source={ID=50849,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[19032] = {id=19032,name="Stormpike Battle Tabard",source={ID=13216,SourceName="Gaelden Hammersmith",SourceType="Purchase",DropChance="100",Zone="Alterac Valley"}}
-items[31404] = {id=31404,name="Green Trophy Tabard of the Illidari",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31404] = {id=31404,name="Green Trophy Tabard of the Illidari",source={ID=54977,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31778] = {id=31778,name="Lower City Tabard",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 items[31781] = {id=31781,name="Sha'tar Tabard",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
-items[23705] = {id=23705,name="Tabard of Flame",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23705] = {id=23705,name="Tabard of Flame",source={ID=97565,SourceName="Unclaimed Black Market Container",SourceType="Container",DropChance="0",Zone="Unknown"}}
 items[31777] = {id=31777,name="Keepers of Time Tabard",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
 items[38311] = {id=38311,name="Tabard of the Void",source={ID=50852,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[31775] = {id=31775,name="Sporeggar Tabard",source={ID=18382,SourceName="Mycah",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[5976] = {id=5976,name="Guild Tabard",source={ID=5049,SourceName="Lyesa Steelbrow",SourceType="Purchase",DropChance="100",Zone="Ironforge"}}
 items[15197] = {id=15197,name="Scout's Tabard",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
-items[31773] = {id=31773,name="Mag'har Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35221] = {id=35221,name="Tabard of the Shattered Sun",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31773] = {id=31773,name="Mag'har Tabard",source={ID=5188,SourceName="Garyl",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[35221] = {id=35221,name="Tabard of the Shattered Sun",source={ID=5049,SourceName="Lyesa Steelbrow",SourceType="Purchase",DropChance="100",Zone="Ironforge"}}
 items[36941] = {id=36941,name="Competitor's Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[31776] = {id=31776,name="Consortium Tabard",source={ID=20242,SourceName="Karaaz",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
 items[31804] = {id=31804,name="Cenarion Expedition Tabard",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
 items[23709] = {id=23709,name="Tabard of Frost",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[31774] = {id=31774,name="Kurenai Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31774] = {id=31774,name="Kurenai Tabard",source={ID=5049,SourceName="Lyesa Steelbrow",SourceType="Purchase",DropChance="100",Zone="Ironforge"}}
 items[32828] = {id=32828,name="Ogri'la Tabard",source={ID=23428,SourceName="Jho'nass",SourceType="Purchase",DropChance="100",Zone="Blade's Edge Mountains"}}
 items[38310] = {id=38310,name="Tabard of the Arcane",source={ID=50847,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[32445] = {id=32445,name="Skyguard Tabard",source={ID=23367,SourceName="Grella",SourceType="Purchase",DropChance="100",Zone="Terokkar Forest"}}
@@ -53,8 +53,8 @@ items[38309] = {id=38309,name="Tabard of Nature",source={ID=50851,SourceName="",
 items[34159] = {id=34159,name="Team B Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[23710] = {id=23710,name="Upperdeck Tabard #3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[19160] = {id=19160,name="Contest Winner's Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
-items[35279] = {id=35279,name="Tabard of Summer Skies",source={ID=11972,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
-items[35280] = {id=35280,name="Tabard of Summer Flames",source={ID=11972,SourceName="",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[35279] = {id=35279,name="Tabard of Summer Skies",source={ID=11972,SourceName="Shards of Ahune",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
+items[35280] = {id=35280,name="Tabard of Summer Flames",source={ID=11972,SourceName="Shards of Ahune",SourceType="Quest",DropChance="0",Zone="Uncategorized"}}
 items[34158] = {id=34158,name="Team A Tabard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 
