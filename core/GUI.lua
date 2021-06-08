@@ -60,6 +60,7 @@ local function AddSourceToTooltip(value)
     GameTooltip:AddDoubleLine("---------::","::---------")
     GameTooltip:AddDoubleLine("Item ID:", "|cffffffff" .. value.id)
     GameTooltip:AddLine(" ")
+    local hasItem = BiSTracker:CharacterHasItem(value.id)
     local sourceType = value.source.SourceType
     if (sourceType == "Kill") then
         GameTooltip:AddDoubleLine("Kill npc:", value.source.SourceName .. " |cffffffff(ID: " .. value.source.ID ..")")
