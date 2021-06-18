@@ -1,28 +1,33 @@
 BiSTracker = LibStub("AceAddon-3.0"):NewAddon("BiSTracker", "AceConsole-3.0", "AceEvent-3.0", "AceSerializer-3.0")
 BiSTracker.AceGUI = LibStub("AceGUI-3.0")
-local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
-    type = "data source",
-    text = "BiSTracker",
-    icon = "Interface\\Addons\\BiSTracker\\Assets\\icon",
-    OnClick = function(Tip, button)
-        if button == "LeftButton"  then
-            BiSTracker:ToggleMainFrame()
-        elseif button == "RightButton" then
-            BiSTracker:ToggleOptions()
-        end
-    end,
-    OnTooltipShow = function(Tip)
-        if not Tip or not Tip.AddLine then
-            return
-        end
-        Tip:AddLine("BiSTracker")
-        Tip:AddLine("|cffffff00Left click:|r Toggle BiSTrackers main window", 1, 1, 1)
-        Tip:AddLine("|cffffff00Right click:|r Toggle BiSTrackers options window", 1, 1, 1)
-    end,
-})
+local L
+local ldb
 local icon = LibStub("LibDBIcon-1.0")
 
 
+local function InitMinimapButton()
+    ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
+        type = "data source",
+        text = "BiSTracker",
+        icon = "Interface\\Addons\\BiSTracker\\Assets\\icon",
+        OnClick = function(Tip, button)
+            if button == "LeftButton"  then
+                BiSTracker:ToggleMainFrame()
+            elseif button == "RightButton" then
+                BiSTracker:ToggleOptions()
+            end
+        end,
+        OnTooltipShow = function(Tip)
+            if not Tip or not Tip.AddLine then
+                return
+            end
+            Tip:AddLine("BiSTracker")
+            Tip:AddLine(L["|cffffff00Left click:|r Toggle BiSTrackers main window"], 1, 1, 1)
+            Tip:AddLine(L["|cffffff00Right click:|r Toggle BiSTrackers options window"], 1, 1, 1)
+        end,
+    })
+    
+end
 
 
 function BiSTracker:ToggleMainFrame()
@@ -33,12 +38,13 @@ function BiSTracker:ToggleMainFrame()
     end
 end
 
-BiSTracker.Version = 4.6
+BiSTracker.Version = 4.7
 
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
 BiSTracker.CurrentClass = ""
 BiSTracker.IsHoveringItemSlot = false
+BiSTracker.Locale = "enUS"
 
 BiSTracker.Item = {
     id = 0,
@@ -244,12 +250,18 @@ function BiSTracker:InitEquippableDB()
 end
 
 function BiSTracker:OnInitialize()
+    BiSTracker:InitLocale()
+
+    L = BiSTracker.L[BiSTracker.Locale]
+
+    BiSTracker:InitChatCommands()
     BiSTracker.InitDB()
     BiSTracker:RegisterEvents()
     BiSTracker:Init()
     BiSTracker:InitImportExport()
     BiSTracker:InitOptions()
     BiSTracker:InitEquippableDB()
+    InitMinimapButton()
     icon:Register("BiSTracker", ldb, self.db.profile.minimap)
 end
 

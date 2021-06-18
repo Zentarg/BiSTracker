@@ -2,16 +2,9 @@ BiSTracker.Options = {}
 BiSTracker.Options.GUI = {}
 BiSTracker.Options.GUI.Tabs = {}
 
-local tabs = {
-    {
-        text = "General",
-        value = "General"
-    },
-    {
-        text = "Main Window",
-        value = "MainFrame"
-    }
-}
+local L
+
+local tabs
 
 local function CreateSlider(label, value, minValue, maxValue, step, isPercent, isDisabled)
     local o = BiSTracker.AceGUI:Create("Slider")
@@ -44,10 +37,9 @@ local function CreateCheckbox(label, description, image, value, type, disabled)
     return o
 end
 
-
 local function DrawGeneralTab(container)
     --Disable Minimap Button
-    local mb = CreateCheckbox("Disable Minimap Button", "", nil, BiSTracker.db.profile.minimap.hide, "checkbox", false)
+    local mb = CreateCheckbox(L["Disable Minimap Button"], "", nil, BiSTracker.db.profile.minimap.hide, "checkbox", false)
     mb:SetCallback("OnValueChanged", function(self, event, value)
         BiSTracker.ChatCommands:ToggleMinimapButton()
     end)
@@ -57,14 +49,14 @@ end
 
 local function DrawMainFrameTab(container)
     --Connect mainframe to characterframe
-    local mf = CreateCheckbox("Connect to CharacterFrame", "*Requires reload", nil, BiSTracker.db.profile.mainframe.connectedToCharacterFrame, "checkbox", false)
+    local mf = CreateCheckbox(L["Connect to CharacterFrame"], L["*Requires reload"], nil, BiSTracker.db.profile.mainframe.connectedToCharacterFrame, "checkbox", false)
     mf:SetCallback("OnValueChanged", function(self, event, value)
         BiSTracker.db.profile.mainframe.connectedToCharacterFrame = value
     end)
     mf:SetFullWidth(true)
 
     --Compact UI
-    local compact = CreateCheckbox("Use Compact View", "*Requires Reload", nil, BiSTracker.db.profile.mainframe.compact, "checkbox", false)
+    local compact = CreateCheckbox(L["Use Compact View"], L["*Requires Reload"], nil, BiSTracker.db.profile.mainframe.compact, "checkbox", false)
     compact:SetCallback("OnValueChanged", function(self, event, value)
         BiSTracker.db.profile.mainframe.compact = value;
     end)
@@ -79,7 +71,7 @@ local function DrawMainFrameTab(container)
     mftx:SetFullWidth(true)
 
     --MainFrame Toggle Button Y value (CharacterFrame)
-    local mfty = CreateSlider("CharacterFrame toggle button Y Pos", BiSTracker.db.profile.mainframe.mainframeToggleButtonYPosition, -45, -30, 1, false, not BiSTracker.db.profile.mainframe.connectedToCharacterFrame)
+    local mfty = CreateSlider(L["CharacterFrame toggle button Y Pos"], BiSTracker.db.profile.mainframe.mainframeToggleButtonYPosition, -45, -30, 1, false, not BiSTracker.db.profile.mainframe.connectedToCharacterFrame)
     mfty:SetCallback("OnValueChanged", function(self, event, value)
         BiSTracker.db.profile.mainframe.mainframeToggleButtonYPosition = value
         BiSTracker.MainFrame.characterFrameToggle:SetPoint("TOPRIGHT", CharacterFrame, "TOPRIGHT", BiSTracker.db.profile.mainframe.mainframeToggleButtonXPosition, value)
@@ -88,7 +80,7 @@ local function DrawMainFrameTab(container)
     mfty:SetFullWidth(true)
 
     --Reload Btn
-    local reloadBtn = CreateButton("Reload UI", false, 120)
+    local reloadBtn = CreateButton(L["Reload UI"], false, 120)
     reloadBtn:SetPoint("BOTTOMRIGHT", BiSTracker.Options.GUI.frame, "BOTTOMRIGHT")
     reloadBtn:SetCallback("OnClick", function()
         ReloadUI()
@@ -112,9 +104,22 @@ end
 
 
 function BiSTracker:InitOptions()
+    L = BiSTracker.L[BiSTracker.Locale]
+
+    tabs  = {
+        {
+            text = L["General"],
+            value = "General"
+        },
+        {
+            text = L["Main Window"],
+            value = "MainFrame"
+        }
+    }
+
     BiSTracker.Options.GUI = BiSTracker.AceGUI:Create("Window")
     BiSTracker.Options.GUI:EnableResize(false)
-    BiSTracker.Options.GUI:SetTitle("BiSTracker Options")
+    BiSTracker.Options.GUI:SetTitle(L["BiSTracker Options"])
     BiSTracker.Options.GUI:SetHeight(320)
     BiSTracker.Options.GUI:SetWidth(300)
     BiSTracker.Options.GUI:SetFullHeight(true)

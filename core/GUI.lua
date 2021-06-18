@@ -8,6 +8,7 @@ BiSTracker.MainFrame.ConfirmDelete:Hide()
 BiSTracker.ClassList = {}
 BiSTracker.ClassSetList = {}
 
+local L
 
 local inventorySlotName = {
     Head = "HEADSLOT",
@@ -51,25 +52,25 @@ end
 
 function BiSTracker.MainFrame.ConfirmDelete:RemoveSet(setName)
     if (setName ~= nil) then
-        BiSTracker.MainFrame.ConfirmDelete.Values.Text:SetText("Are you sure you want to delete the set |cffff0000"..setName.."|r?")
+        BiSTracker.MainFrame.ConfirmDelete.Values.Text:SetText(L["Are you sure you want to delete the set |cffff0000"]..setName.."|r?")
         BiSTracker.MainFrame.ConfirmDelete:Show()
     end
 end
 
 local function AddSourceToTooltip(value)
     GameTooltip:AddDoubleLine("---------::","::---------")
-    GameTooltip:AddDoubleLine("Item ID:", "|cffffffff" .. value.id)
+    GameTooltip:AddDoubleLine(L["Item ID:"], "|cffffffff" .. value.id)
     GameTooltip:AddLine(" ")
     local hasItem = BiSTracker:CharacterHasItem(value.id)
     local sourceType = value.source.SourceType
     if (sourceType == "Kill") then
-        GameTooltip:AddDoubleLine("Kill npc:", value.source.SourceName .. " |cffffffff(ID: " .. value.source.ID ..")")
-        GameTooltip:AddDoubleLine("Located in: ", value.source.Zone)
-        GameTooltip:AddDoubleLine("Drop chance: ", value.source.DropChance .. "%")
+        GameTooltip:AddDoubleLine(L["Kill npc:"], value.source.SourceName .. L[" |cffffffff(ID: "] .. value.source.ID ..")")
+        GameTooltip:AddDoubleLine(L["Located in:"], value.source.Zone)
+        GameTooltip:AddDoubleLine(L["Drop chance:"], value.source.DropChance .. "%")
         GameTooltip:AddLine(" ")
     elseif (sourceType == "Purchase") then
-        GameTooltip:AddDoubleLine("Sold by:", value.source.SourceName .. " |cffffffff(ID: " .. value.source.ID ..")")
-        GameTooltip:AddDoubleLine("Located in: ", value.source.Zone)
+        GameTooltip:AddDoubleLine(L["Sold by:"], value.source.SourceName .. L[" |cffffffff(ID: "] .. value.source.ID ..")")
+        GameTooltip:AddDoubleLine(L["Located in:"], value.source.Zone)
         GameTooltip:AddLine(" ")
     elseif (sourceType == "Quest") then
         local questTitle = value.source.SourceName
@@ -77,29 +78,29 @@ local function AddSourceToTooltip(value)
             questTitle = C_QuestLog.GetQuestInfo(value.source.ID)
         end
         if (questTitle == nil) then
-            questTitle = "Quest Not Found"
+            questTitle = L["Quest Not Found"]
         end
-        GameTooltip:AddDoubleLine("Quest:", questTitle .. " |cffffffff(ID: " .. value.source.ID .. ")")
-        GameTooltip:AddDoubleLine("Located in: ", value.source.Zone)
+        GameTooltip:AddDoubleLine(L["Quest:"], questTitle .. L[" |cffffffff(ID: "] .. value.source.ID .. ")")
+        GameTooltip:AddDoubleLine(L["Located in:"], value.source.Zone)
         GameTooltip:AddLine(" ")
     elseif (sourceType == "Container") then
-        GameTooltip:AddDoubleLine("Contained in:", value.source.SourceName .. " |cffffffff(ID: " .. value.source.ID ..")")
-        GameTooltip:AddDoubleLine("Located in: ", value.source.Zone)
-        GameTooltip:AddDoubleLine("Drop chance: ", value.source.DropChance .. "%")
+        GameTooltip:AddDoubleLine(L["Contained in:"], value.source.SourceName .. L[" |cffffffff(ID: "] .. value.source.ID ..")")
+        GameTooltip:AddDoubleLine(L["Located in:"], value.source.Zone)
+        GameTooltip:AddDoubleLine(L["Drop chance:"], value.source.DropChance .. "%")
         GameTooltip:AddLine(" ")
     elseif (sourceType == "Recipe") then
         GameTooltip:SetHyperlink("Spell: |Hspell:" .. value.source.ID .."|h|r|cff71d5ff[" .. GetSpellLink(value.source.ID) .. "]|r|h")
         GameTooltip:AddDoubleLine("---------::","::---------")
-        GameTooltip:AddDoubleLine("Item ID:", "|cffffffff" .. value.id)
+        GameTooltip:AddDoubleLine(L["Item ID:"], "|cffffffff" .. value.id)
         GameTooltip:AddLine(" ")
     elseif (sourceType == "Unknown") then
-        GameTooltip:AddLine("No source information found.")
+        GameTooltip:AddLine(L["No source information found."])
         GameTooltip:AddLine(" ")
     end
     if (hasItem) then
-        GameTooltip:AddLine("|cff00ff00You have this item.")
+        GameTooltip:AddLine(L["|cff00ff00You have this item."])
     else
-        GameTooltip:AddLine("|cffff0000You do not have this item.")
+        GameTooltip:AddLine(L["|cffff0000You do not have this item."])
 
     end
     GameTooltip:AddDoubleLine("---------::","::---------")
@@ -144,13 +145,13 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                         BiSTracker.MainFrame.CompactSlots[key].icon:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
                         BiSTracker.MainFrame.CompactSlots[key].icon:SetCallback("OnEnter", function()
                             GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT")
-                            GameTooltip:SetText("|cffff0000An error occured while loading this item.\nPlease try reloading the set.")
+                            GameTooltip:SetText(L["|cffff0000An error occured while loading this item.\nPlease try reloading the set."])
                         end)
                         BiSTracker.MainFrame.CompactSlots[key].label:SetCallback("OnEnter", function()
                             GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT")
-                            GameTooltip:SetText("|cffff0000An error occured while loading this item.\nPlease try reloading the set.")
+                            GameTooltip:SetText(L["|cffff0000An error occured while loading this item.\nPlease try reloading the set."])
                         end)
-                        BiSTracker.MainFrame.CompactSlots[key].label:SetText("|cffff0000Error loading item, please try reloading.")
+                        BiSTracker.MainFrame.CompactSlots[key].label:SetText(L["|cffff0000Error loading item, please try reloading."])
                         BiSTracker.MainFrame.CompactSlots[key].acquired:SetDisabled(true)
                     else
                         BiSTracker.MainFrame.CompactSlots[key].acquired:SetDisabled(false)
@@ -189,9 +190,9 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                         BiSTracker.MainFrame.CompactSlots[key].acquired:SetCallback("OnEnter", function()
                             GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT", 15)
                             if (hasItem) then
-                                GameTooltip:AddLine("|cff00ff00You have this item.")
+                                GameTooltip:AddLine(L["|cff00ff00You have this item."])
                             else
-                                GameTooltip:AddLine("|cffff0000You do not have this item.")
+                                GameTooltip:AddLine(L["|cffff0000You do not have this item."])
                             end
                             GameTooltip:Show()
                         end)
@@ -200,7 +201,7 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                 end
             end
             if (errorOccured == true) then
-                BiSTracker:PrintError("An item in the |cffffff00".. BiSTracker.SelectedClass .."|r set |cffffff00" .. BiSTracker.SelectedSetName .. "|r didn't load correctly. Please try reloading the set.")
+                BiSTracker:PrintError(L["An item in the |cffffff00"].. BiSTracker.SelectedClass ..L["|r set |cffffff00"] .. BiSTracker.SelectedSetName .. L["|r didn't load correctly. Please try reloading the set."])
             end
         end
     else
@@ -241,7 +242,7 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                         BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
                         BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
                             GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
-                            GameTooltip:SetText("|cffff0000An error occured while loading this item.\nPlease try reloading the set.")
+                            GameTooltip:SetText(L["|cffff0000An error occured while loading this item.\nPlease try reloading the set."])
                         end)
                     else
                         local hasItem = BiSTracker:CharacterHasItem(value.id)
@@ -266,7 +267,7 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                 end
             end
             if (errorOccured == true) then
-                BiSTracker:PrintError("An item in the |cffffff00".. BiSTracker.SelectedClass .."|r set |cffffff00" .. BiSTracker.SelectedSetName .. "|r didn't load correctly. Please try reloading the set.")
+                BiSTracker:PrintError(L["An item in the |cffffff00"].. BiSTracker.SelectedClass ..L["|r set |cffffff00"] .. BiSTracker.SelectedSetName .. L["|r didn't load correctly. Please try reloading the set."])
             end
         end
     end
@@ -363,23 +364,23 @@ local function ObtainMethodValueChanged(self)
         BiSTracker.MainFrame.EditSlot.Values.NpcName.frame:Show()
         BiSTracker.MainFrame.EditSlot.Values.DropChance.frame:Show()
         BiSTracker.MainFrame.EditSlot.Values.Zone.frame:Show()
-        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel("Npc ID")
-        BiSTracker.MainFrame.EditSlot.Values.NpcName:SetLabel("Npc Name")
+        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel(L["Npc ID"])
+        BiSTracker.MainFrame.EditSlot.Values.NpcName:SetLabel(L["Npc Name"])
     elseif (val == 2) then
         BiSTracker.MainFrame.EditSlot.Values.NpcName.frame:Show()
         BiSTracker.MainFrame.EditSlot.Values.Zone.frame:Show()
-        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel("Npc ID")
-        BiSTracker.MainFrame.EditSlot.Values.NpcName:SetLabel("Npc Name")
+        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel(L["Npc ID"])
+        BiSTracker.MainFrame.EditSlot.Values.NpcName:SetLabel(L["Npc Name"])
     elseif (val == 3) then
         BiSTracker.MainFrame.EditSlot.Values.NpcName.frame:Show()
         BiSTracker.MainFrame.EditSlot.Values.Zone.frame:Show()
-        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel("Container ID")
-        BiSTracker.MainFrame.EditSlot.Values.NpcName:SetLabel("Container Name")
+        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel(L["Container ID"])
+        BiSTracker.MainFrame.EditSlot.Values.NpcName:SetLabel(L["Container Name"])
     elseif (val == 4) then
         BiSTracker.MainFrame.EditSlot.Values.Zone.frame:Show()
-        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel("Quest ID")
+        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel(L["Quest ID"])
     elseif (val == 5) then
-        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel("Recipe ID")
+        BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel(L["Recipe ID"])
     elseif (val == 6) then
         BiSTracker.MainFrame.EditSlot.Values.ObtainID.frame:Hide()
     end
@@ -452,8 +453,8 @@ function BiSTracker.MainFrame.EditSlot:ResetWindow()
             end
         end
     end
-    BiSTracker.MainFrame.EditSlot:SetTitle("Edit Slot")
-    BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel("Npc ID")
+    BiSTracker.MainFrame.EditSlot:SetTitle(L["Edit Slot"])
+    BiSTracker.MainFrame.EditSlot.Values.ObtainID:SetLabel(L["Npc ID"])
     BiSTracker.MainFrame.EditSlot.Values.NpcName.frame:Show()
     BiSTracker.MainFrame.EditSlot.Values.DropChance.frame:Show()
     BiSTracker.MainFrame.EditSlot.Values.Zone.frame:Show()
@@ -515,7 +516,7 @@ local function InitCompactUI()
                 end
                 if (BiSTracker.SelectedClass == "Custom") then
                     BiSTracker.MainFrame.EditSlot:ResetWindow()
-                    BiSTracker.MainFrame.EditSlot:SetTitle("Edit " .. v)
+                    BiSTracker.MainFrame.EditSlot:SetTitle(L["Edit "] .. v)
                     BiSTracker.MainFrame.EditSlot.SelectedSlot = v
                     local slotValues = BiSTracker.Settings.CustomSets[BiSTracker.SelectedSetName].Slots[v]
                     BiSTracker.MainFrame.EditSlot.Values.ObtainMethod:SetValue(obtainMethods[slotValues.source.SourceType])
@@ -549,7 +550,7 @@ local function InitCompactUI()
     BiSTracker.MainFrame.ActionsGroup:SetFullWidth(true)
 
     BiSTracker.SelectedClass = BiSTracker.CurrentClass
-    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu(" Class", BiSTracker.ClassList[BiSTracker.SelectedClass], BiSTracker.ClassList, 95)
+    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu(L[" Class"], BiSTracker.ClassList[BiSTracker.SelectedClass], BiSTracker.ClassList, 95)
     BiSTracker.MainFrame.ActionsGroup.ClassDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedClass = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDropdown()
@@ -569,7 +570,7 @@ local function InitCompactUI()
 
     local firstSetInClass, _ = next(BiSTracker.ClassSetList[BiSTracker.CurrentClass])
     BiSTracker.SelectedSetName = firstSetInClass
-    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu(" Set", firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 190)
+    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu(L[" Set"], firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 190)
     BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedSetName = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDisplay()
@@ -599,7 +600,7 @@ end
 
 
 local function InitFullUI()
-    InitFrame(BiSTracker.MainFrame, true, "BiS Tracker", 520, 300, "BiSTrackerSheet")
+    InitFrame(BiSTracker.MainFrame, false, "BiS Tracker", 520, 300, "BiSTrackerSheet")
     BiSTracker.MainFrame.frame:SetMinResize(300,520)
 
     BiSTracker.MainFrame.LeftSlots = CreateSimpleGroup("list", 45, 0)
@@ -610,7 +611,7 @@ local function InitFullUI()
     BiSTracker.MainFrame.ActionsGroup:SetFullWidth(true)
 
     BiSTracker.SelectedClass = BiSTracker.CurrentClass
-    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu(" Class", BiSTracker.ClassList[BiSTracker.SelectedClass], BiSTracker.ClassList, 95)
+    BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu(L[" Class"], BiSTracker.ClassList[BiSTracker.SelectedClass], BiSTracker.ClassList, 95)
     BiSTracker.MainFrame.ActionsGroup.ClassDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedClass = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDropdown()
@@ -630,7 +631,7 @@ local function InitFullUI()
 
     local firstSetInClass, _ = next(BiSTracker.ClassSetList[BiSTracker.CurrentClass])
     BiSTracker.SelectedSetName = firstSetInClass
-    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu(" Set", firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 170)
+    BiSTracker.MainFrame.ActionsGroup.SetDropdown = CreateDropdownMenu(L[" Set"], firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 170)
     BiSTracker.MainFrame.ActionsGroup.SetDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedSetName = self.list[self.value]
         BiSTracker.MainFrame:UpdateSetDisplay()
@@ -733,6 +734,7 @@ local function InitFullUI()
 end
 
 function BiSTracker:InitUI()
+    L = BiSTracker.L[BiSTracker.Locale]
     BiSTracker.MainFrame.DefaultSlotIcons = {
         Head = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Head",
         Neck = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Neck",
@@ -804,7 +806,7 @@ function BiSTracker:InitUI()
         end)
         BiSTracker.MainFrame.characterFrameToggle:SetCallback("OnEnter", function()
             GameTooltip:SetOwner(BiSTracker.MainFrame.characterFrameToggle.frame, "ANCHOR_RIGHT")
-            GameTooltip:SetText("Toggle BiSTracker window")
+            GameTooltip:SetText(L["Toggle BiSTracker window"])
         end)
         BiSTracker.MainFrame.characterFrameToggle:SetCallback("OnLeave", function()
             GameTooltip:SetText("")
@@ -819,13 +821,13 @@ function BiSTracker:InitUI()
         BiSTracker.MainFrame:SetPoint("TOPLEFT", CharacterFrame, "TOPRIGHT", -35, -10)
     end
 
-    InitFrame(BiSTracker.MainFrame.EditSlot, false, "Edit Slot", 335, 250, "BiSTrackerEditSlot")
+    InitFrame(BiSTracker.MainFrame.EditSlot, false, L["Edit Slot"], 335, 250, "BiSTrackerEditSlot")
     BiSTracker.MainFrame.EditSlot:SetPoint("TOPLEFT", BiSTracker.MainFrame.frame, "TOPRIGHT")
     BiSTracker.MainFrame.EditSlot:SetCallback("OnClose", function()
         BiSTracker.MainFrame.EditSlot:ResetWindow()
     end)
 
-    InitFrame(BiSTracker.MainFrame.ConfirmDelete, false, "Confirm Deletion", 100, 250, "BiSTrackerConfirmDelete")
+    InitFrame(BiSTracker.MainFrame.ConfirmDelete, false, L["Confirm Deletion"], 100, 250, "BiSTrackerConfirmDelete")
     BiSTracker.MainFrame.ConfirmDelete:SetPoint("BOTTOMRIGHT", BiSTracker.MainFrame.frame, "TOPRIGHT")
 
     BiSTracker.MainFrame.ConfirmDelete.ValuesOrder = {
@@ -835,9 +837,9 @@ function BiSTracker:InitUI()
     }
     
     BiSTracker.MainFrame.ConfirmDelete.Values = {
-        Text = CreateLabel("Are you sure you want to delete this set?", true, 1, 1, 1, GameFontHighlight),
-        CancelButton = CreateButton("Cancel", false, 100),
-        ConfirmButton = CreateButton("Confirm", false, 100)
+        Text = CreateLabel(L["Are you sure you want to delete this set?"], true, 1, 1, 1, GameFontHighlight),
+        CancelButton = CreateButton(L["Cancel"], false, 100),
+        ConfirmButton = CreateButton(L["Confirm"], false, 100)
     }
     BiSTracker.MainFrame.ConfirmDelete.Values.CancelButton:SetCallback("OnClick", function()
         BiSTracker.MainFrame.ConfirmDelete:Hide()
@@ -873,14 +875,14 @@ function BiSTracker:InitUI()
 
 
     BiSTracker.MainFrame.EditSlot.Values = {
-        ID = CreateEditBox("", "Item ID", false, false, 0, 200),
-        ObtainMethod = CreateDropdownMenu("Obtain Method", 1, {"Kill", "Purchase", "Container", "Quest", "Recipe", "Unknown"}, 200),
-        ObtainID = CreateEditBox("", "Npc ID", false, false, 0, 200),
-        Zone = CreateEditBox("", "Zone", false, false, 0, 200),
-        NpcName = CreateEditBox("", "Npc Name", false, false, 0, 200),
-        DropChance = CreateEditBox("", "Drop Chance", false, false, 0, 200),
-        CancelButton = CreateButton("Cancel", false, 100),
-        SaveButton = CreateButton("Save", false, 100)
+        ID = CreateEditBox("", L["Item ID"], false, false, 0, 200),
+        ObtainMethod = CreateDropdownMenu(L["Obtain Method"], 1, {"Kill", "Purchase", "Container", "Quest", "Recipe", "Unknown"}, 200),
+        ObtainID = CreateEditBox("", L["Npc ID"], false, false, 0, 200),
+        Zone = CreateEditBox("", L["Zone"], false, false, 0, 200),
+        NpcName = CreateEditBox("", L["Npc Name"], false, false, 0, 200),
+        DropChance = CreateEditBox("", L["Drop Chance"], false, false, 0, 200),
+        CancelButton = CreateButton(L["Cancel"], false, 100),
+        SaveButton = CreateButton(L["Save"], false, 100)
     }
 
     BiSTracker.MainFrame.EditSlot.Values.ID:SetCallback("OnTextChanged", function(self, callback, val)
@@ -955,7 +957,7 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload = CreateIcon(20, 20, 25, 25, "Interface\\AddOns\\BiSTracker\\assets\\reload")
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnEnter", function()
         GameTooltip:SetOwner(BiSTracker.MainFrame.TopLeftButtonGroup.Reload.frame, "ANCHOR_RIGHT")
-        GameTooltip:SetText("Reload")
+        GameTooltip:SetText(L["Reload"])
     end)
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnLeave", function()
         GameTooltip:SetText("")
@@ -973,7 +975,7 @@ function BiSTracker:InitUI()
     end)
     BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport:SetCallback("OnEnter", function()
         GameTooltip:SetOwner(BiSTracker.MainFrame.TopLeftButtonGroup.Reload.frame, "ANCHOR_RIGHT")
-        GameTooltip:SetText("Open Import/Export window")
+        GameTooltip:SetText(L["Open Import/Export window"])
     end)
     BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport:SetCallback("OnLeave", function()
         GameTooltip:SetText("")
@@ -990,7 +992,7 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.TopRightButtonGroup:AddChild(BiSTracker.MainFrame.TopRightButtonGroup.CreateSet)
     BiSTracker.MainFrame.TopRightButtonGroup:AddChild(BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet)
     BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetCallback("OnClick", function()
-        local newSetName = "New Set"
+        local newSetName = L["New Set"]
         while (BiSTracker.ClassSetList["Custom"][newSetName] ~= nil) do
             local n = tonumber(strsub(newSetName, 8))
             if (n == nil) then
@@ -998,7 +1000,7 @@ function BiSTracker:InitUI()
             else
                 n = n + 1
             end
-            newSetName = "New Set" .. tostring(n)
+            newSetName = L["New Set"] .. tostring(n)
         end
 
         -- local tempItem = BiSTracker.Item:New(0, 0, "", false, false, 0, false, 0, 0, "")
@@ -1011,7 +1013,7 @@ function BiSTracker:InitUI()
     end)
     BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetCallback("OnEnter", function()
         GameTooltip:SetOwner(BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet.frame, "ANCHOR_RIGHT")
-        GameTooltip:SetText("Create Custom Set")
+        GameTooltip:SetText(L["Create Custom Set"])
     end)
     BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetCallback("OnLeave", function()
         GameTooltip:SetText("")
@@ -1022,7 +1024,7 @@ function BiSTracker:InitUI()
     end)
     BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetCallback("OnEnter", function()
         GameTooltip:SetOwner(BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet.frame, "ANCHOR_RIGHT")
-        GameTooltip:SetText("Delete Custom Set")
+        GameTooltip:SetText(L["Delete Custom Set"])
     end)
     BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetCallback("OnLeave", function()
         GameTooltip:SetText("")
@@ -1031,19 +1033,19 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.TopRightButtonGroup.CreateSet:SetDisabled(true)
     BiSTracker.MainFrame.TopRightButtonGroup.RemoveSet:SetDisabled(true)
 
-    BiSTracker.MainFrame.SetName = CreateEditBox("Set Name", nil, true, false, 25, 160)
+    BiSTracker.MainFrame.SetName = CreateEditBox(L["Set Name"], nil, true, false, 25, 160)
     BiSTracker.MainFrame.SetName:SetCallback("OnEnterPressed", function(self)
         local value = self:GetText()
         if (value == BiSTracker.SelectedSetName) then
             return
         end
         if (strlen(value) < 1) then
-            BiSTracker:PrintError("Set name cannot be shorter than 1 character.")
+            BiSTracker:PrintError(L["Set name cannot be shorter than 1 character."])
             self:SetText(BiSTracker.SelectedSetName)
             return
         end
         if (BiSTracker.Settings.CustomSets[value] ~= nil and value ~= BiSTracker.SelectedSetName) then
-            BiSTracker:PrintError("A set with the name |cffffff00" .. value .. " |cffffffffalready exists.")
+            BiSTracker:PrintError(L["A set with the name |cffffff00"] .. value .. L[" |cffffffffalready exists."])
             self:SetText(BiSTracker.SelectedSetName)
             return
         end

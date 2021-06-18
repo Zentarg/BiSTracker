@@ -4,6 +4,10 @@ BiSTracker.Serializer.GUI.Tabs = {}
 
 local LibBase64 = nil;
 
+local L
+
+local tabs
+
 function BiSTracker.Serializer:SerializeData(setData)
     return LibBase64.Encode(BiSTracker:Serialize(setData))
 end
@@ -30,27 +34,18 @@ function BiSTracker.Serializer:DeserializeData(serializedString)
     if (success) then
         for key, value in pairs(BiSTracker.Set.Slots) do
             if (CheckIfSlotContainsData(setData.Slots[key]) == false) then
-                BiSTracker:PrintError('The data to be imported did not match a BiSTracker set.')
+                BiSTracker:PrintError(L["The data to be imported did not match a BiSTracker set."])
                 return false
             end
         end
         return setData
     end
-    BiSTracker:PrintError('The string supplied was an incorrect format.')
+    BiSTracker:PrintError(L["The string supplied was an incorrect format."])
     return false
 end
 
 
-local tabs = {
-    {
-        text = "Import",
-        value = "Import"
-    },
-    {
-        text = "Export",
-        value = "Export"
-    },
-}
+
 
 local function CreateLabel(text, centered, r, g, b, font)
     local o = BiSTracker.AceGUI:Create("Label")
@@ -108,14 +103,14 @@ end
 local function DrawImportTab(container)
     
     --          Import Text
-    local importText = CreateMultiLineEditBox("", "Import String", 15, 0, true)
+    local importText = CreateMultiLineEditBox("", L["Import String"], 15, 0, true)
     importText.width = "fill"
 
     --          New Set Name
-    local setNameEdit = CreateEditBox("", "New Set Name (Leave empty to inherit name)", false, false, 15, 265)
+    local setNameEdit = CreateEditBox("", L["New Set Name (Leave empty to inherit name)"], false, false, 15, 265)
     
     --          Import Button
-    local importBtn = CreateButton("Import Set", false, 100)
+    local importBtn = CreateButton(L["Import Set"], false, 100)
     importBtn:SetCallback("OnClick", function()
         local serializedString = importText:GetText()
         if (string.len(serializedString) == 0) then
@@ -128,7 +123,7 @@ local function DrawImportTab(container)
         end
 
         if (BiSTracker.ClassSetList["Custom"][set.Name] ~= nil) then
-            BiSTracker:PrintError("A set already exists with the name |cffffff00"..set.Name)
+            BiSTracker:PrintError(L["A set already exists with the name |cffffff00"]..set.Name)
             setNameEdit:SetText("")
             return
         end
@@ -136,7 +131,7 @@ local function DrawImportTab(container)
         BiSTracker.Settings.CustomSets[set.Name] = set
         BiSTracker.ClassSetList["Custom"][set.Name] = set.Name
 
-        BiSTracker:Print("Successfully imported the set |cffffff00"..set.Name)
+        BiSTracker:Print(L["Successfully imported the set |cffffff00"]..set.Name)
         setNameEdit:SetText("")
 
         if (BiSTracker.MainFrame:IsVisible() == false) then
@@ -152,10 +147,6 @@ local function DrawImportTab(container)
     end)
 
     --          Import from existing set
-
-        --      Import Text
-    local importFromSetText = CreateLabel("Or - Import from premade set")
-
     
         --      Set and Class dropdown
     local selectedClass = BiSTracker.SelectedClass
@@ -168,12 +159,12 @@ local function DrawImportTab(container)
 
     local firstSetInClass, _ = next(BiSTracker.ClassSetList[BiSTracker.CurrentClass])
     selectedSetName = firstSetInClass
-    local setDropdown = CreateDropdownMenu("Set", firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 170)
+    local setDropdown = CreateDropdownMenu(L["Set"], firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 170)
     setDropdown:SetCallback("OnValueChanged", function(self)
         selectedSetName = self.list[self.value]
     end)
 
-    local classDropdown = CreateDropdownMenu("Class", classList[selectedClass], classList, 95)
+    local classDropdown = CreateDropdownMenu(L["Class"], classList[selectedClass], classList, 95)
     classDropdown:SetCallback("OnValueChanged", function(self)
         selectedClass = self.list[self.value]
         setDropdown:SetList(BiSTracker.ClassSetList[selectedClass])
@@ -185,7 +176,7 @@ local function DrawImportTab(container)
 
         --      Import Button
 
-    local importPremadeSetBtn = CreateButton("Import Premade Set", false, 160)
+    local importPremadeSetBtn = CreateButton(L["Import Premade Set"], false, 160)
     importPremadeSetBtn:SetCallback("OnClick", function()
         local set = {}
         set.Name = selectedSetName;
@@ -201,7 +192,7 @@ local function DrawImportTab(container)
         BiSTracker.Settings.CustomSets[set.Name] = set
         BiSTracker.ClassSetList["Custom"][set.Name] = set.Name
 
-        BiSTracker:Print("Successfully imported the set |cffffff00"..selectedSetName.."|cffffffff as |cffffff00"..set.Name)
+        BiSTracker:Print(L["Successfully imported the set |cffffff00"]..selectedSetName..L["|cffffffff as |cffffff00"]..set.Name)
         setNameEdit:SetText("")
 
         if (BiSTracker.MainFrame:IsVisible() == false) then
@@ -235,29 +226,29 @@ local function DrawExportTab(container)
     -- If no sets to export
     if (sets[1] == nil) then
         label = BiSTracker.AceGUI:Create("Label")
-        label:SetText("No custom sets to export.")
+        label:SetText(L["No custom sets to export."])
         container:AddChild(label)
         return
     end
     
     --          Set Dropdown
-    setDropdown = CreateDropdownMenu("Set", 1, sets, 200)
+    setDropdown = CreateDropdownMenu(L["Set"], 1, sets, 200)
     setDropdown:SetCallback("OnValueChanged", function()
         exportText:SetText("")
     end)
 
     
     --          Export Text
-    exportText = CreateMultiLineEditBox("", "Export String (This is the string you use to import a set)", 15, 0, true)
+    exportText = CreateMultiLineEditBox("", L["Export String (This is the string you use to import a set)"], 15, 0, true)
     exportText.width = "fill"
 
     --          Export Button
-    exportBtn = CreateButton("Export Set", false, 100)
+    exportBtn = CreateButton(L["Export Set"], false, 100)
     exportBtn:SetCallback("OnClick", function()
         local selectedSet = setDropdown.list[setDropdown.value]
         local set = BiSTracker.Settings.CustomSets[selectedSet]
         if (set == nil) then
-           BiSTracker:PrintError("The selected set to export could not be found.")
+           BiSTracker:PrintError(L["The selected set to export could not be found."])
            BiSTracker.Serializer.GUI.Tabs:SelectTab("Export")
            return
         end
@@ -285,6 +276,18 @@ end
 
 function BiSTracker:InitImportExport()
     LibBase64 =  LibStub("LibBase64-1.0")
+    L = BiSTracker.L[BiSTracker.Locale]
+    tabs = {
+        {
+            text = L["Import"],
+            value = "Import"
+        },
+        {
+            text = L["Export"],
+            value = "Export"
+        },
+    }
+
     BiSTracker.Serializer.GUI = BiSTracker.AceGUI:Create("Window")
     if (BiSTracker.db.profile.mainframe.connectedToCharacterFrame) then
         BiSTracker.Serializer.GUI:SetPoint("TOPLEFT", BiSTracker.MainFrame.frame, "TOPRIGHT")
@@ -293,7 +296,7 @@ function BiSTracker:InitImportExport()
     end
     BiSTracker.Serializer.GUI.frame:SetParent(BiSTracker.MainFrame.frame)
     BiSTracker.Serializer.GUI:EnableResize(true)
-    BiSTracker.Serializer.GUI:SetTitle("Import / Export")
+    BiSTracker.Serializer.GUI:SetTitle(L["Import / Export"])
     BiSTracker.Serializer.GUI:SetHeight(450)
     BiSTracker.Serializer.GUI:SetWidth(500)
     BiSTracker.Serializer.GUI.frame:SetMinResize(500, 450)

@@ -3,7 +3,7 @@
         "Tank": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32478
+                    "itemID": 28182
                 },
                 "Neck": {
                     "itemID": 28244
@@ -294,7 +294,7 @@
                     "itemID": 29247
                 },
                 "Legs": {
-                    "itemID": 20538
+                    "itemID": 30538
                 },
                 "Boots": {
                     "itemID": 29248
@@ -537,7 +537,7 @@
         "Restoration": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32479
+                    "itemID": 24264
                 },
                 "Neck": {
                     "itemID": 30377
@@ -2145,7 +2145,7 @@
         "Holy": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32472
+                    "itemID": 32084
                 },
                 "Neck": {
                     "itemID": 29374
@@ -2412,7 +2412,7 @@
         "Retribution": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32461
+                    "itemID": 28182
                 },
                 "Neck": {
                     "itemID": 29381
@@ -2679,7 +2679,7 @@
         "Protection": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32473
+                    "itemID": 23536
                 },
                 "Neck": {
                     "itemID": 29386
@@ -3484,7 +3484,7 @@
         "All": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32478
+                    "itemID": 28224
                 },
                 "Neck": {
                     "itemID": 29381
@@ -3753,7 +3753,7 @@
         "Elemental": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32476
+                    "itemID": 28415
                 },
                 "Neck": {
                     "itemID": 28245
@@ -4020,7 +4020,7 @@
         "Enhancement": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32474
+                    "itemID": 28224
                 },
                 "Neck": {
                     "itemID": 29381
@@ -4287,7 +4287,7 @@
         "Restoration": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32475
+                    "itemID": 24264
                 },
                 "Neck": {
                     "itemID": 28233
@@ -4825,7 +4825,7 @@
         "Fury": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32461
+                    "itemID": 28224
                 },
                 "Neck": {
                     "itemID": 29381
@@ -5092,7 +5092,7 @@
         "Protection": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32473
+                    "itemID": 28180
                 },
                 "Neck": {
                     "itemID": 29386
@@ -5359,7 +5359,7 @@
         "Arms": {
             "Pre-Raid": {
                 "Head": {
-                    "itemID": 32461
+                    "itemID": 28224
                 },
                 "Neck": {
                     "itemID": 29381

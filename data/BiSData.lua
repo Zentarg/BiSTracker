@@ -1,7 +1,7 @@
 BiSData = {
   Druid = {
     ["Tank - Pre-Raid"] = {
-      Head = 32478,
+      Head = 28182,
       Neck = 28244,
       Shoulder = 28129,
       Back = 24253,
@@ -116,7 +116,7 @@ BiSData = {
       Wrists = 29527,
       Hands = 28396,
       Waist = 29247,
-      Legs = 20538,
+      Legs = 30538,
       Feet = 29248,
       Finger = 30860,
       RFinger = 31077,
@@ -211,7 +211,7 @@ BiSData = {
       Relic = 29390
     },
     ["Restoration - Pre-Raid"] = {
-      Head = 32479,
+      Head = 24264,
       Neck = 30377,
       Shoulder = 21874,
       Back = 31329,
@@ -889,7 +889,7 @@ BiSData = {
   },
   Paladin = {
     ["Holy - Pre-Raid"] = {
-      Head = 32472,
+      Head = 32084,
       Neck = 29374,
       Shoulder = 31619,
       Back = 31329,
@@ -994,7 +994,7 @@ BiSData = {
       Relic = 28592
     },
     ["Retribution - Pre-Raid"] = {
-      Head = 32461,
+      Head = 28182,
       Neck = 29381,
       Shoulder = 33173,
       Back = 24259,
@@ -1099,7 +1099,7 @@ BiSData = {
       Relic = 27484
     },
     ["Protection - Pre-Raid"] = {
-      Head = 32473,
+      Head = 23536,
       Neck = 29386,
       Shoulder = 27706,
       Back = 27804,
@@ -1418,7 +1418,7 @@ BiSData = {
   },
   Rogue = {
     ["All - Pre-Raid"] = {
-      Head = 32478,
+      Head = 28224,
       Neck = 29381,
       Shoulder = 27797,
       Back = 24259,
@@ -1525,7 +1525,7 @@ BiSData = {
   },
   Shaman = {
     ["Elemental - Pre-Raid"] = {
-      Head = 32476,
+      Head = 28415,
       Neck = 28245,
       Shoulder = 27473,
       Back = 29369,
@@ -1630,7 +1630,7 @@ BiSData = {
       Relic = 28248
     },
     ["Enhancement - Pre-Raid"] = {
-      Head = 32474,
+      Head = 28224,
       Neck = 29381,
       Shoulder = 27797,
       Back = 24259,
@@ -1735,7 +1735,7 @@ BiSData = {
       Relic = 27815
     },
     ["Restoration - Pre-Raid"] = {
-      Head = 32475,
+      Head = 24264,
       Neck = 28233,
       Shoulder = 21874,
       Back = 31329,
@@ -1949,7 +1949,7 @@ BiSData = {
   },
   Warrior = {
     ["Fury - Pre-Raid"] = {
-      Head = 32461,
+      Head = 28224,
       Neck = 29381,
       Shoulder = 33173,
       Back = 24259,
@@ -2054,7 +2054,7 @@ BiSData = {
       Relic = 34334
     },
     ["Protection - Pre-Raid"] = {
-      Head = 32473,
+      Head = 28180,
       Neck = 29386,
       Shoulder = 27847,
       Back = 27804,
@@ -2159,7 +2159,7 @@ BiSData = {
       Relic = 32325
     },
     ["Arms - Pre-Raid"] = {
-      Head = 32461,
+      Head = 28224,
       Neck = 29381,
       Shoulder = 33173,
       Back = 24259,
