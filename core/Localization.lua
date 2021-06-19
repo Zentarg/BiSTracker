@@ -55,6 +55,7 @@ L["enUS"]["Are you sure you want to delete this set?"] = "Are you sure you want 
 L["enUS"]["Zone"] = "Zone"
 L["enUS"]["Drop Chance"] = "Drop Chance"
 L["enUS"]["Cancel"] = "Cancel"
+L["enUS"]["Confirm"] = "Confirm"
 L["enUS"]["Save"] = "Save"
 L["enUS"]["Obtain Method"] = "Obtain Method"
 L["enUS"]["Item ID"] = "Item ID"
@@ -71,8 +72,11 @@ L["enUS"][" |cffffffffalready exists."] = " |cffffffffalready exists."
 L["enUS"]["The data to be imported did not match a BiSTracker set."] = "The data to be imported did not match a BiSTracker set."
 L["enUS"]["The string supplied was an incorrect format."] = "The string supplied was an incorrect format."
 L["enUS"]["Import String"] = "Import String"
-L["enUS"]["Import"] = "Import"
 L["enUS"]["Export"] = "Export"
+L["enUS"]["Import"] = "Import"
+L["enUS"]["Import Set"] = "Import Set"
+L["enUS"]["Import Premade Set"] = "Import Premade Set"
+L["enUS"]["Export Set"] = "Export Set"
 L["enUS"]["New Set Name (Leave empty to inherit name)"] = "New Set Name (Leave empty to inherit name)"
 L["enUS"]["A set already exists with the name |cffffff00"] = "A set already exists with the name |cffffff00"
 L["enUS"]["Successfully imported the set |cffffff00"] = "Successfully imported the set |cffffff00"
@@ -92,11 +96,12 @@ L["enUS"]["Main Window"] = "Main Window"
 L["enUS"]["Disable Minimap Button"] = "Disable Minimap Button"
 L["enUS"]["Use Compact View"] = "Use Compact View"
 L["enUS"]["Connect to CharacterFrame"] = "Connect to CharacterFrame"
-L["enUS"]["*Requires reload"] = "*Requires reload"
+L["enUS"]["*Requires Reload"] = "*Requires Reload"
 L["enUS"]["CharacterFrame toggle button X Pos"] = "CharacterFrame toggle button X Pos"
 L["enUS"]["CharacterFrame toggle button Y Pos"] = "CharacterFrame toggle button Y Pos"
 L["enUS"]["Reload UI"] = "Reload UI"
 L["enUS"]["BiSTracker Options"] = "BiSTracker Options"
+L["enUS"]["Locale *Requires Reload"] = "Locale *Requires Reload"
 
 -- koKR (Korean) added (not replaced)
 
@@ -147,6 +152,7 @@ L["koKR"]["Are you sure you want to delete this set?"] = "이 세트를 삭제�
 L["koKR"]["Zone"] = "지역"
 L["koKR"]["Drop Chance"] = "나올 확률"
 L["koKR"]["Cancel"] = "취소"
+L["koKR"]["Confirm"] = "확인"
 L["koKR"]["Save"] = "저장"
 L["koKR"]["Obtain Method"] = "획득방법"
 L["koKR"]["Item ID"] = "아이템 ID"
@@ -165,6 +171,9 @@ L["koKR"]["The string supplied was an incorrect format."] = "가져온 문자열
 L["koKR"]["Import String"] = "문자열 가져오기"
 L["koKR"]["Import"] = "가져오기"
 L["koKR"]["Export"] = "내보내기"
+L["koKR"]["Import Set"] = "가져오기"
+L["koKR"]["Import Premade Set"] = "가져오기"
+L["koKR"]["Export Set"] = "내보내기"
 L["koKR"]["New Set Name (Leave empty to inherit name)"] = "새 세트 이름 (미입력시 가져온 이름 유지)"
 L["koKR"]["A set already exists with the name |cffffff00"] = "같은 이름의 세트 |cffffff00 가 존재"
 L["koKR"]["Successfully imported the set |cffffff00"] = "가져오기 성공 |cffffff00"
@@ -184,18 +193,15 @@ L["koKR"]["Main Window"] = "메인창"
 L["koKR"]["Disable Minimap Button"] = "미니맵 버튼 비활성화"
 L["koKR"]["Use Compact View"] = "나열목록으로 보기"
 L["koKR"]["Connect to CharacterFrame"] = "케릭터창 옆에 붙이기"
-L["koKR"]["*Requires reload"] = "*UI 리로드 필요"
+L["koKR"]["*Requires Reload"] = "*UI 리로드 필요"
 L["koKR"]["CharacterFrame toggle button X Pos"] = "케릭창 옆 움직이기 X 좌표"
 L["koKR"]["CharacterFrame toggle button Y Pos"] = "케릭창 옆 움직이기 Y 좌표"
 L["koKR"]["Reload UI"] = "UI 리로드"
 L["koKR"]["BiSTracker Options"] = "BiSTracker 옵션"
+L["koKR"]["Locale *Requires Reload"] = "로케일 *UI 리로드 필요"
 
 
 function BiSTracker:InitLocale()
-    print("Init Locale")
-    if (L[GetLocale()] ~= nil) then
-        BiSTracker.Locale = GetLocale()
-    end
     BiSTracker.L = L
 end
 

@@ -276,7 +276,7 @@ end
 
 function BiSTracker:InitImportExport()
     LibBase64 =  LibStub("LibBase64-1.0")
-    L = BiSTracker.L[BiSTracker.Locale]
+    L = BiSTracker.L[BiSTracker.Settings.Locale]
     tabs = {
         {
             text = L["Import"],

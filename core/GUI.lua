@@ -734,7 +734,7 @@ local function InitFullUI()
 end
 
 function BiSTracker:InitUI()
-    L = BiSTracker.L[BiSTracker.Locale]
+    L = BiSTracker.L[BiSTracker.Settings.Locale]
     BiSTracker.MainFrame.DefaultSlotIcons = {
         Head = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Head",
         Neck = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Neck",
@@ -835,7 +835,7 @@ function BiSTracker:InitUI()
         "CancelButton",
         "ConfirmButton"
     }
-    
+
     BiSTracker.MainFrame.ConfirmDelete.Values = {
         Text = CreateLabel(L["Are you sure you want to delete this set?"], true, 1, 1, 1, GameFontHighlight),
         CancelButton = CreateButton(L["Cancel"], false, 100),

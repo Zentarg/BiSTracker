@@ -37,6 +37,30 @@ local function CreateCheckbox(label, description, image, value, type, disabled)
     return o
 end
 
+local function CreateDropdownMenu(label, defaultValue, children, width)
+    local o = BiSTracker.AceGUI:Create("Dropdown")
+    o:SetList(children)
+    o:SetValue(defaultValue)
+    o:SetLabel(label)
+    o:SetWidth(width)
+    return o
+end
+
+local function CreateLabel(text, centered, r, g, b, font)
+    local o = BiSTracker.AceGUI:Create("Label")
+    o:SetText(text)
+    if (centered ~= nil and centered ~= false) then
+        o:SetJustifyH("TOP")
+    end 
+    if (font ~= nil) then
+        o:SetFontObject(font)
+    end
+    if (r ~= nil and g ~= nil and b ~= nil) then
+        o:SetColor(r, g, b)
+    end
+    return o
+end
+
 local function DrawGeneralTab(container)
     --Disable Minimap Button
     local mb = CreateCheckbox(L["Disable Minimap Button"], "", nil, BiSTracker.db.profile.minimap.hide, "checkbox", false)
@@ -44,12 +68,38 @@ local function DrawGeneralTab(container)
         BiSTracker.ChatCommands:ToggleMinimapButton()
     end)
 
+    -- Locale dropdown
+
+    local children = {}
+    for k,v in pairs(BiSTracker.L) do
+        children[k] = k
+    end
+
+    local dd = CreateDropdownMenu(L["Locale *Requires Reload"], BiSTracker.Settings.Locale, children, 250)
+    dd:SetCallback("OnValueChanged", function(self)
+        BiSTracker.Settings.Locale = self.value
+    end)
+
+    --Reload Btn
+    local reloadBtn = CreateButton(L["Reload UI"], false, 120)
+    reloadBtn:SetPoint("BOTTOMRIGHT", BiSTracker.Options.GUI.frame, "BOTTOMRIGHT")
+    reloadBtn:SetCallback("OnClick", function()
+        ReloadUI()
+    end)
+
+    -- Buffer Label
+
+    local l = CreateLabel(" ")
+
     container:AddChild(mb)
+    container:AddChild(dd)
+    container:AddChild(l)
+    container:AddChild(reloadBtn)
 end
 
 local function DrawMainFrameTab(container)
     --Connect mainframe to characterframe
-    local mf = CreateCheckbox(L["Connect to CharacterFrame"], L["*Requires reload"], nil, BiSTracker.db.profile.mainframe.connectedToCharacterFrame, "checkbox", false)
+    local mf = CreateCheckbox(L["Connect to CharacterFrame"], L["*Requires Reload"], nil, BiSTracker.db.profile.mainframe.connectedToCharacterFrame, "checkbox", false)
     mf:SetCallback("OnValueChanged", function(self, event, value)
         BiSTracker.db.profile.mainframe.connectedToCharacterFrame = value
     end)
@@ -104,7 +154,7 @@ end
 
 
 function BiSTracker:InitOptions()
-    L = BiSTracker.L[BiSTracker.Locale]
+    L = BiSTracker.L[BiSTracker.Settings.Locale]
 
     tabs  = {
         {

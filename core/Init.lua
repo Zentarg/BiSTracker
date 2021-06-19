@@ -38,13 +38,12 @@ function BiSTracker:ToggleMainFrame()
     end
 end
 
-BiSTracker.Version = 4.7
+BiSTracker.Version = 4.9
 
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
 BiSTracker.CurrentClass = ""
 BiSTracker.IsHoveringItemSlot = false
-BiSTracker.Locale = "enUS"
 
 BiSTracker.Item = {
     id = 0,
@@ -175,10 +174,15 @@ end
 
 
 function BiSTracker:Init()
+
     if type(BiS_Settings) ~= "table" then
         BiS_Settings = {}
         BiS_Settings.CustomSets = {}
         BiS_Settings.Version = BiSTracker.Version
+        BiS_Settings.Locale = "enUS"
+        if (BiSTracker.L[GetLocale()] ~= nil) then
+            BiS_Settings.Locale = GetLocale()
+        end
         BiSTracker.Settings = BiS_Settings
     else
         BiSTracker.Settings = BiS_Settings
@@ -234,6 +238,11 @@ function BiSTracker:Init()
                 GetItemFromV2DataSlot(value.Slots.Relic)
                 )
             end
+        elseif BiSTracker.Settings.Version < 4.9 and BiSTracker.Settings.Locale == nil then
+            BiSTracker.Settings.Locale = "enUS"
+            if (BiSTracker.L[GetLocale()] ~= nil) then
+                BiSTracker.Settings.Locale = GetLocale()
+            end
         end
         BiS_Settings.Version = BiSTracker.Version
     end
@@ -241,8 +250,7 @@ function BiSTracker:Init()
     local _,englishClass,_ = UnitClass("player")
 
     BiSTracker.CurrentClass = englishClass:lower():gsub("^%l", string.upper)
-
-    BiSTracker:InitUI()
+    L = BiSTracker.L[BiSTracker.Settings.Locale]
 end
 
 function BiSTracker:InitEquippableDB()
@@ -251,13 +259,12 @@ end
 
 function BiSTracker:OnInitialize()
     BiSTracker:InitLocale()
-
-    L = BiSTracker.L[BiSTracker.Locale]
+    BiSTracker:Init()
 
     BiSTracker:InitChatCommands()
     BiSTracker.InitDB()
     BiSTracker:RegisterEvents()
-    BiSTracker:Init()
+    BiSTracker:InitUI()
     BiSTracker:InitImportExport()
     BiSTracker:InitOptions()
     BiSTracker:InitEquippableDB()

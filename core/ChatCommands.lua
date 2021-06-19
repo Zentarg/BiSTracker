@@ -8,7 +8,7 @@ local L
 BiSTracker.ChatCommands.HelpList = {}
 
 function BiSTracker:InitChatCommands()
-    L = BiSTracker.L[BiSTracker.Locale]
+    L = BiSTracker.L[BiSTracker.Settings.Locale]
     BiSTracker.ChatCommands.HelpList = {
         Help = {
             Command = "/BST Help",
