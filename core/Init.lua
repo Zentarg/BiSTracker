@@ -38,7 +38,7 @@ function BiSTracker:ToggleMainFrame()
     end
 end
 
-BiSTracker.Version = 4.9
+BiSTracker.Version = 5.01
 
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
@@ -150,6 +150,10 @@ function GetV1ItemObtainType(val)
     end
 end
 function GetItemFromV1DataSlot(slot)
+    local item = BiSTracker.Item:New(0, "", 0, "", "Kill", "0", "")
+    if (slot == nil) then
+        return item
+    end
     return BiSTracker.Item:New(slot.itemID, "", 0, slot.Obtain.Method, GetV1ItemObtainType(slot), slot.Obtain.Drop, slot.Obtain.Zone)
 end
 
@@ -197,6 +201,8 @@ function BiSTracker:Init()
                     GetItemFromV1DataSlot(item.Shoulder), 
                     GetItemFromV1DataSlot(item.Cloak), 
                     GetItemFromV1DataSlot(item.Chest), 
+                    GetItemFromV1DataSlot(nil),
+                    GetItemFromV1DataSlot(nil),
                     GetItemFromV1DataSlot(item.Wrist), 
                     GetItemFromV1DataSlot(item.Gloves), 
                     GetItemFromV1DataSlot(item.Waist), 
