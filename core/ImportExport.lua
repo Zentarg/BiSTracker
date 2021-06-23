@@ -289,6 +289,7 @@ function BiSTracker:InitImportExport()
     }
 
     BiSTracker.Serializer.GUI = BiSTracker.AceGUI:Create("Window")
+    BiSTracker.Serializer.GUI:ClearAllPoints()
     if (BiSTracker.db.profile.mainframe.connectedToCharacterFrame) then
         BiSTracker.Serializer.GUI:SetPoint("TOPLEFT", BiSTracker.MainFrame.frame, "TOPRIGHT")
     else

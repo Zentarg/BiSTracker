@@ -600,7 +600,8 @@ end
 
 
 local function InitFullUI()
-    InitFrame(BiSTracker.MainFrame, false, "BiS Tracker", 520, 300, "BiSTrackerSheet")
+    InitFrame(BiSTracker.MainFrame, true, "BiS Tracker", 520, 300, "BiSTrackerSheet")
+    
     BiSTracker.MainFrame.frame:SetMinResize(300,520)
 
     BiSTracker.MainFrame.LeftSlots = CreateSimpleGroup("list", 45, 0)
@@ -816,18 +817,21 @@ function BiSTracker:InitUI()
         BiSTracker.MainFrame.characterFrameToggle.frame:SetParent(CharacterFrame)
         BiSTracker.MainFrame.characterFrameToggle:SetPoint("TOPRIGHT", CharacterFrame, "TOPRIGHT", BiSTracker.db.profile.mainframe.mainframeToggleButtonXPosition, BiSTracker.db.profile.mainframe.mainframeToggleButtonYPosition)
         BiSTracker.MainFrame.characterFrameToggle.frame:Show()
-
+        
+        BiSTracker.MainFrame:ClearAllPoints()
         BiSTracker.MainFrame.frame:SetParent(CharacterFrame)
         BiSTracker.MainFrame:SetPoint("TOPLEFT", CharacterFrame, "TOPRIGHT", -35, -10)
     end
 
     InitFrame(BiSTracker.MainFrame.EditSlot, false, L["Edit Slot"], 335, 250, "BiSTrackerEditSlot")
+    BiSTracker.MainFrame.EditSlot:ClearAllPoints()
     BiSTracker.MainFrame.EditSlot:SetPoint("TOPLEFT", BiSTracker.MainFrame.frame, "TOPRIGHT")
     BiSTracker.MainFrame.EditSlot:SetCallback("OnClose", function()
         BiSTracker.MainFrame.EditSlot:ResetWindow()
     end)
 
     InitFrame(BiSTracker.MainFrame.ConfirmDelete, false, L["Confirm Deletion"], 100, 250, "BiSTrackerConfirmDelete")
+    BiSTracker.MainFrame.ConfirmDelete:ClearAllPoints()
     BiSTracker.MainFrame.ConfirmDelete:SetPoint("BOTTOMRIGHT", BiSTracker.MainFrame.frame, "TOPRIGHT")
 
     BiSTracker.MainFrame.ConfirmDelete.ValuesOrder = {
@@ -936,6 +940,8 @@ function BiSTracker:InitUI()
     for key, value in pairs(BiSTracker.MainFrame.EditSlot.ValuesOrder) do
         BiSTracker.MainFrame.EditSlot:AddChild(BiSTracker.MainFrame.EditSlot.Values[value])
     end
+
+    BiSTracker.MainFrame.EditSlot.frame:SetParent(BiSTracker.MainFrame.frame)
 
     for key, value in pairs(BiSData) do
         BiSTracker.ClassList[key] = key

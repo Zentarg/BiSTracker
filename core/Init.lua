@@ -211,7 +211,8 @@ function BiSTracker:Init()
                     GetItemFromV1DataSlot(item.Ranged))
                 end
             end
-            BiSTracker.Settings.CustomSpecsData = nil;
+            BiSTracker.Settings.CustomSpecsData = nil
+            BiSTracker.Settings.CustomSpecs = nil
             BiS_Settings = BiSTracker.Settings
         elseif BiSTracker.Settings.Version < 4.5 then
             for key, value in pairs(BiSTracker.Settings.CustomSets) do
@@ -238,15 +239,15 @@ function BiSTracker:Init()
                 GetItemFromV2DataSlot(value.Slots.Relic)
                 )
             end
-        elseif BiSTracker.Settings.Version < 4.9 and BiSTracker.Settings.Locale == nil then
+        end
+        if (BiSTracker.Settings.Locale == nil) then
             BiSTracker.Settings.Locale = "enUS"
             if (BiSTracker.L[GetLocale()] ~= nil) then
-                BiSTracker.Settings.Locale = GetLocale()
+                BiS_Settings.Locale = GetLocale()
             end
         end
         BiS_Settings.Version = BiSTracker.Version
     end
-
     local _,englishClass,_ = UnitClass("player")
 
     BiSTracker.CurrentClass = englishClass:lower():gsub("^%l", string.upper)
