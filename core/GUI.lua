@@ -47,7 +47,7 @@ local function UpdateModelFrame()
 	BiSTracker.MainFrame.Model:SetUnit("PLAYER")
 	BiSTracker.MainFrame.Model:SetCustomCamera(1)
 	BiSTracker.MainFrame.Model:SetPosition(0,0,0)
-	BiSTracker.MainFrame.Model:SetLight(true, false, 0, 0.8, -1, 1, 1, 1, 1, 0.3, 1, 1, 1)
+	BiSTracker.MainFrame.Model:SetCameraDistance(2)
 end
 
 function BiSTracker.MainFrame.ConfirmDelete:RemoveSet(setName)
@@ -139,65 +139,68 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                     BiSTracker.MainFrame.CompactSlots[key].label:SetText("Empty")
                     BiSTracker.MainFrame.CompactSlots[key].acquired:SetDisabled(true)
                 else
-                    local _,itemLink,_,_,_,_,_,_,_,itemTexture,_,_,_,_,_,_,_ = GetItemInfo(value.id)
-                    if (itemLink == nil) then
-                        errorOccured = true
-                        BiSTracker.MainFrame.CompactSlots[key].icon:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
-                        BiSTracker.MainFrame.CompactSlots[key].icon:SetCallback("OnEnter", function()
-                            GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT")
-                            GameTooltip:SetText(L["|cffff0000An error occured while loading this item.\nPlease try reloading the set."])
-                        end)
-                        BiSTracker.MainFrame.CompactSlots[key].label:SetCallback("OnEnter", function()
-                            GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT")
-                            GameTooltip:SetText(L["|cffff0000An error occured while loading this item.\nPlease try reloading the set."])
-                        end)
-                        BiSTracker.MainFrame.CompactSlots[key].label:SetText(L["|cffff0000Error loading item, please try reloading."])
-                        BiSTracker.MainFrame.CompactSlots[key].acquired:SetDisabled(true)
-                    else
-                        BiSTracker.MainFrame.CompactSlots[key].acquired:SetDisabled(false)
-                        local hasItem = BiSTracker:CharacterHasItem(value.id)
-                        if (hasItem) then
-                            BiSTracker.MainFrame.CompactSlots[key].acquired:SetImage("Interface\\RaidFrame\\ReadyCheck-Ready");
+                    local item = Item:CreateFromItemID(value.id)
+                    item:ContinueOnItemLoad(function()
+                        local _,itemLink,_,_,_,_,_,_,_,itemTexture,_,_,_,_,_,_,_ = GetItemInfo(value.id)
+                        if (itemLink == nil) then
+                            errorOccured = true
+                            BiSTracker.MainFrame.CompactSlots[key].icon:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
+                            BiSTracker.MainFrame.CompactSlots[key].icon:SetCallback("OnEnter", function()
+                                GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT")
+                                GameTooltip:SetText(L["|cffff0000An error occured while loading this item.\nPlease try reloading the set."])
+                            end)
+                            BiSTracker.MainFrame.CompactSlots[key].label:SetCallback("OnEnter", function()
+                                GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT")
+                                GameTooltip:SetText(L["|cffff0000An error occured while loading this item.\nPlease try reloading the set."])
+                            end)
+                            BiSTracker.MainFrame.CompactSlots[key].label:SetText(L["|cffff0000Error loading item, please try reloading."])
+                            BiSTracker.MainFrame.CompactSlots[key].acquired:SetDisabled(true)
                         else
-                            BiSTracker.MainFrame.CompactSlots[key].acquired:SetImage("Interface\\RaidFrame\\ReadyCheck-NotReady");
-                        end
-                        BiSTracker.MainFrame.CompactSlots[key].icon:SetImage(itemTexture)
-                        BiSTracker.MainFrame.CompactSlots[key].icon:SetCallback("OnEnter", function()
-                            if (IsControlKeyDown()) then
-                                ShowInspectCursor()
-                            end
-                            BiSTracker.IsHoveringItemSlot = true
-
-                            GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT", 15)
-                            GameTooltip:SetHyperlink(itemLink)
-
-                            AddSourceToTooltip(value)
-                            GameTooltip:Show()
-                        end)
-                        BiSTracker.MainFrame.CompactSlots[key].label:SetCallback("OnEnter", function()
-                            if (IsControlKeyDown()) then
-                                ShowInspectCursor()
-                            end
-                            BiSTracker.IsHoveringItemSlot = true
-
-                            GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT", 15)
-                            GameTooltip:SetHyperlink(itemLink)
-
-                            
-                            AddSourceToTooltip(value)
-                            GameTooltip:Show()
-                        end)
-                        BiSTracker.MainFrame.CompactSlots[key].acquired:SetCallback("OnEnter", function()
-                            GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT", 15)
+                            BiSTracker.MainFrame.CompactSlots[key].acquired:SetDisabled(false)
+                            local hasItem = BiSTracker:CharacterHasItem(value.id)
                             if (hasItem) then
-                                GameTooltip:AddLine(L["|cff00ff00You have this item."])
+                                BiSTracker.MainFrame.CompactSlots[key].acquired:SetImage("Interface\\RaidFrame\\ReadyCheck-Ready");
                             else
-                                GameTooltip:AddLine(L["|cffff0000You do not have this item."])
+                                BiSTracker.MainFrame.CompactSlots[key].acquired:SetImage("Interface\\RaidFrame\\ReadyCheck-NotReady");
                             end
-                            GameTooltip:Show()
-                        end)
-                        BiSTracker.MainFrame.CompactSlots[key].label:SetText(itemLink)
-                    end
+                            BiSTracker.MainFrame.CompactSlots[key].icon:SetImage(itemTexture)
+                            BiSTracker.MainFrame.CompactSlots[key].icon:SetCallback("OnEnter", function()
+                                if (IsControlKeyDown()) then
+                                    ShowInspectCursor()
+                                end
+                                BiSTracker.IsHoveringItemSlot = true
+    
+                                GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT", 15)
+                                GameTooltip:SetHyperlink(itemLink)
+    
+                                AddSourceToTooltip(value)
+                                GameTooltip:Show()
+                            end)
+                            BiSTracker.MainFrame.CompactSlots[key].label:SetCallback("OnEnter", function()
+                                if (IsControlKeyDown()) then
+                                    ShowInspectCursor()
+                                end
+                                BiSTracker.IsHoveringItemSlot = true
+    
+                                GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT", 15)
+                                GameTooltip:SetHyperlink(itemLink)
+    
+                                
+                                AddSourceToTooltip(value)
+                                GameTooltip:Show()
+                            end)
+                            BiSTracker.MainFrame.CompactSlots[key].acquired:SetCallback("OnEnter", function()
+                                GameTooltip:SetOwner(BiSTracker.MainFrame.CompactSlots[key].frame, "ANCHOR_RIGHT", 15)
+                                if (hasItem) then
+                                    GameTooltip:AddLine(L["|cff00ff00You have this item."])
+                                else
+                                    GameTooltip:AddLine(L["|cffff0000You do not have this item."])
+                                end
+                                GameTooltip:Show()
+                            end)
+                            BiSTracker.MainFrame.CompactSlots[key].label:SetText(itemLink)
+                        end
+                    end)
                 end
             end
             if (errorOccured == true) then
@@ -224,7 +227,6 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
             else
                 SelectedSetSlots = BiSTracker.Settings.CustomSets[BiSTracker.SelectedSetName].Slots
             end
-            local errorOccured = false
             for key, value in pairs(SelectedSetSlots) do
                 if (BiSTracker.SelectedClass ~= "Custom") then
                     value = BiSTracker.ItemDB:GetItemWithID(value)
@@ -235,16 +237,9 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                     end)
                     BiSTracker.MainFrame.Model:UndressSlot(GetInventorySlotInfo(inventorySlotName[key]))
                 else
-                    local _,itemLink,_,_,_,_,_,_,_,itemTexture,_,_,_,_,_,_,_ = GetItemInfo(value.id)
-                    if (itemLink == nil) then
-                        errorOccured = true
-                        BiSTracker.MainFrame.Model:UndressSlot(GetInventorySlotInfo(inventorySlotName[key]))
-                        BiSTracker.MainFrame.Slots[key]:SetImage(BiSTracker.MainFrame.DefaultSlotIcons[key])
-                        BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
-                            GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
-                            GameTooltip:SetText(L["|cffff0000An error occured while loading this item.\nPlease try reloading the set."])
-                        end)
-                    else
+                    local item = Item:CreateFromItemID(value.id)
+                    item:ContinueOnItemLoad(function()
+                        local _,itemLink,_,_,_,_,_,_,_,itemTexture,_,_,_,_,_,_,_ = GetItemInfo(value.id)
                         local hasItem = BiSTracker:CharacterHasItem(value.id)
                         if (key ~= "Relic" or BiSTracker.SelectedClass == "Hunter") then
                             BiSTracker.MainFrame.Model:TryOn(itemLink)
@@ -262,12 +257,8 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                             AddSourceToTooltip(value)
                             GameTooltip:Show()
                         end)
-
-                    end
+                    end)
                 end
-            end
-            if (errorOccured == true) then
-                BiSTracker:PrintError(L["An item in the |cffffff00"].. BiSTracker.SelectedClass ..L["|r set |cffffff00"] .. BiSTracker.SelectedSetName .. L["|r didn't load correctly. Please try reloading the set."])
             end
         end
     end
@@ -602,7 +593,7 @@ end
 local function InitFullUI()
     InitFrame(BiSTracker.MainFrame, true, "BiS Tracker", 520, 300, "BiSTrackerSheet")
     
-    BiSTracker.MainFrame.frame:SetMinResize(300,520)
+    BiSTracker.MainFrame.frame:SetResizeBounds(300, 520)
 
     BiSTracker.MainFrame.LeftSlots = CreateSimpleGroup("list", 45, 0)
     BiSTracker.MainFrame.BottomSlots = CreateSimpleGroup("flow", 136, 45)
@@ -957,8 +948,8 @@ function BiSTracker:InitUI()
         BiSTracker.ClassSetList["Custom"][key] = key
     end
 
-    BiSTracker.MainFrame.TopLeftButtonGroup = CreateSimpleGroup("flow", 50, 20)
-    BiSTracker.MainFrame.TopRightButtonGroup = CreateSimpleGroup("flow", 50, 20)
+    BiSTracker.MainFrame.TopLeftButtonGroup = CreateSimpleGroup("flow", 51, 20)
+    BiSTracker.MainFrame.TopRightButtonGroup = CreateSimpleGroup("flow", 51, 20)
     
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload = CreateIcon(20, 20, 25, 25, "Interface\\AddOns\\BiSTracker\\assets\\reload")
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnEnter", function()

@@ -4,8 +4,8 @@ function BiSTracker:CharacterHasItem(itemId)
 		hasItem = true;
 	else
 		for bagSlot = 0, NUM_BAG_SLOTS do
-		    for containerSlot = 1, GetContainerNumSlots(bagSlot) do
-		        if GetContainerItemID(bagSlot, containerSlot) == itemId then
+		    for containerSlot = 1, C_Container.GetContainerNumSlots(bagSlot) do
+		        if C_Container.GetContainerItemID(bagSlot, containerSlot) == itemId then
 		        	hasItem = true;
 		            break
 		        end

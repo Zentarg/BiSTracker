@@ -1,0 +1,28 @@
+{
+    "Lua.diagnostics.globals": [
+        "GameTooltip",
+        "CharacterFrame",
+        "GameFontHighlight",
+        "DressUpItemLink",
+        "ChatEdit_InsertLink",
+        "GetCursorPosition",
+        "ShowInspectCursor",
+        "ReloadUI",
+        "SlashCmdList",
+        "hash_SlashCmdList",
+        "DEFAULT_CHAT_FRAME",
+        "CLOSE",
+        "GameFontHighlightSmall",
+        "GameFontDisableSmall",
+        "GameFontNormalSmall",
+        "FONT_COLOR_CODE_CLOSE",
+        "GameFontNormal",
+        "SetDesaturation",
+        "ColorPickerFrame",
+        "OpacitySliderFrame",
+        "ChatFontNormal",
+        "OKAY",
+        "NOT_BOUND",
+        "ACCEPT"
+    ]
+}
