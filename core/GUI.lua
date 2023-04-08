@@ -631,7 +631,6 @@ local function InitFullUI()
     BiSTracker.MainFrame.ActionsGroup.ClassDropdown = CreateDropdownMenu(L[" Class"], BiSTracker.ClassList[BiSTracker.SelectedClass], BiSTracker.ClassList, 105)
     BiSTracker.MainFrame.ActionsGroup.ClassDropdown:SetCallback("OnValueChanged", function(self)
         BiSTracker.SelectedClass = self.list[self.value]
-        print(BiSTracker.SelectedClass)
         BiSTracker.MainFrame:UpdateSetDropdown()
         BiSTracker.MainFrame:UpdateSetDisplay()
         if (BiSTracker.SelectedClass == "Custom") then
@@ -647,7 +646,6 @@ local function InitFullUI()
         end
     end)
 
-    print(BiSTracker.ClassSetList)
     local firstSetInClass, _ = next(BiSTracker.ClassSetList[BiSTracker.CurrentClass])
     BiSTracker.SelectedSetName = firstSetInClass
     BiSTracker.MainFrame.ActionsGroup.SetContainer.SetDropdown = CreateDropdownMenu(L[" Set"], firstSetInClass, BiSTracker.ClassSetList[BiSTracker.CurrentClass], 50, true)
@@ -659,6 +657,16 @@ local function InitFullUI()
         else
             BiSTracker.MainFrame.SetName:SetDisabled(true)
         end
+    end)
+    
+    
+    BiSTracker.MainFrame.ActionsGroup.SetContainer.SetDropdown:SetCallback("OnEnter", function()
+        GameTooltip:SetOwner(BiSTracker.MainFrame.ActionsGroup.SetContainer.SetDropdown.frame, "ANCHOR_TOPLEFT")
+        GameTooltip:SetText(BiSTracker.MainFrame.SetName:GetText())
+    end)
+    
+    BiSTracker.MainFrame.ActionsGroup.SetContainer.SetDropdown:SetCallback("OnLeave", function()
+        GameTooltip:SetText("")
     end)
     BiSTracker.MainFrame.ActionsGroup.SetContainer:AddChild(BiSTracker.MainFrame.ActionsGroup.SetContainer.SetDropdown)
 
