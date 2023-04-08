@@ -1,6 +1,6 @@
 -------------------------------------**     LibEquippable     **-------------------------------------
--- This library provides access to all equippable items in TBC & Classic, as well as their         --
--- methods of acquisition. All acquisition methods are taken from tbc.wowhead.com, so              --
+-- This library provides access to all equippable items in WOTLK, TBC & Classic, as well as        --
+-- their methods of acquisition. All acquisition methods are taken from tbc.wowhead.com, so        --
 -- some items might have lacking information.                                                      --
 --                                                                                                 --
 --                                                                                                 --
@@ -12,10 +12,6 @@
 --  Purchase                                                                                       --
 --  Unknown                                                                                        --
 --                                                                                                 --
---                                           DISCLAIMER!                                           --
---                                                                                                 --
--- All the items are scraped directly from wowhead, prioritising "tbc.wowhead.com". Should this    --
--- website not have any information on the source of the item, it will fall back to "wowhead.com". --
 --                                                                                                 --
 -------------------------------------**  All Rights Reserved  **-------------------------------------
 

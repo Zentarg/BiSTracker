@@ -4,7 +4,7 @@ import sys, getopt
 from bs4 import BeautifulSoup
 
 scriptName = "GetAllItemsFromWowhead.py"
-URL = 'https://wotlk.wowhead.com/items/min-level:{minlevel}/max-level:{maxlevel}/slot:{slot}'
+URL = 'https://wotlk.wowhead.com/items/min-req-level:{minlevel}/max-req-level:{maxlevel}/slot:{slot}'
 SCRIPT_START = "//<![CDATA["
 DATA_START = "WH.Gatherer.addData(3, 8, "
 DATA_END = ");"

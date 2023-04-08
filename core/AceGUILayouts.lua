@@ -18,7 +18,7 @@ BiSTracker.AceGUI:RegisterLayout("BiSTrackerSheet",
             elseif i == 4 then
                 frame:SetPoint("TOPLEFT", content, 0, -30) 	-- LeftSlots
             elseif i == 5 then
-                frame:SetPoint("BOTTOM", content, 0, 40)	-- BottomSlots
+                frame:SetPoint("BOTTOM", content, 0, 83)	-- BottomSlots
             elseif i == 6 then
                 frame:SetPoint("TOPRIGHT", content, 0, -30) -- RightSlots
             elseif i == 7 then
