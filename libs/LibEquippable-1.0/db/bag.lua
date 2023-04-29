@@ -51,6 +51,124 @@ items[19320] = {id=19320,name="Gnoll Skin Bandolier",source={ID=13216,SourceName
 items[33117] = {id=33117,name="Jack-o'-Lantern",source={ID=19299,SourceName="Deathwhisperer",SourceType="Kill",DropChance="8.3",Zone="Hellfire Peninsula"}}
 items[34099] = {id=34099,name="Knothide Ammo Pouch",source={ID=44343,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[29144] = {id=29144,name="Worg Hide Quiver",source={ID=20240,SourceName="Trader Narasu",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[51809] = {id=51809,name="Portable Hole",source={ID=18756,SourceName="Haris Pilton",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[41599] = {id=41599,name="Frostweave Bag",source={ID=56007,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[41600] = {id=41600,name="Glacial Bag",source={ID=56005,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[45773] = {id=45773,name="Emerald Bag",source={ID=63924,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[41597] = {id=41597,name="Abyssal Bag",source={ID=56004,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38082] = {id=38082,name="\"Gigantique\" Bag",source={ID=18756,SourceName="Haris Pilton",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[38347] = {id=38347,name="Mammoth Mining Bag",source={ID=50971,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[41598] = {id=41598,name="Mysterious Bag",source={ID=56006,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[1100] = {id=1100,name="Monster Bag",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35874] = {id=35874,name="Whizzlespark's Portable Pet Mansion",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43345] = {id=43345,name="Dragon Hide Bag",source={ID=28860,SourceName="Sartharion",SourceType="Kill",DropChance="92.5",Zone="The Obsidian Sanctum"}}
+items[44446] = {id=44446,name="Pack of Endless Pockets",source={ID=60643,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21841] = {id=21841,name="Netherweave Bag",source={ID=26746,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[24270] = {id=24270,name="Bag of Jewels",source={ID=31459,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23775] = {id=23775,name="Titanium Toolbox",source={ID=30349,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38399] = {id=38399,name="Trapper's Traveling Pack",source={ID=50970,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[50316] = {id=50316,name="Papa's Brand New Bag",source={ID=36497,SourceName="Bronjahm",SourceType="Kill",DropChance="4.0",Zone="The Forge of Souls"}}
+items[30746] = {id=30746,name="Mining Sack",source={ID=16602,SourceName="Floyd Pinkus",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[49295] = {id=49295,name="Enlarged Onyxia Hide Backpack",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22250] = {id=22250,name="Herb Pouch",source={ID=3405,SourceName="Zeal'aya",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[50317] = {id=50317,name="Papa's New Bag",source={ID=36497,SourceName="Bronjahm",SourceType="Kill",DropChance="22.8",Zone="The Forge of Souls"}}
+items[10051] = {id=10051,name="Red Mageweave Bag",source={ID=12079,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38225] = {id=38225,name="Mycah's Botanical Bag",source={ID=50194,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30747] = {id=30747,name="Gem Pouch",source={ID=16602,SourceName="Floyd Pinkus",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[14046] = {id=14046,name="Runecloth Bag",source={ID=18405,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22251] = {id=22251,name="Cenarion Herb Bag",source={ID=27724,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[29540] = {id=29540,name="Reinforced Mining Bag",source={ID=35530,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38307] = {id=38307,name="Crafty's Bottomless Inscription Bag",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21872] = {id=21872,name="Ebon Shadowbag",source={ID=26759,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30744] = {id=30744,name="Draenic Leather Pack",source={ID=16602,SourceName="Floyd Pinkus",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[4500] = {id=4500,name="Traveler's Backpack",source={ID=9264,SourceName="Firebrand Pyromancer",SourceType="Kill",DropChance="1.0",Zone="Blackrock Spire"}}
+items[10050] = {id=10050,name="Mageweave Bag",source={ID=12065,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21195] = {id=21195,name="D'Sak's Sacktastic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21843] = {id=21843,name="Imbued Netherweave Bag",source={ID=26749,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21876] = {id=21876,name="Primal Mooncloth Bag",source={ID=26763,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27680] = {id=27680,name="Halaani Bag",source={ID=18821,SourceName="Quartermaster Jaffrey Noreliqe",SourceType="Purchase",DropChance="100",Zone="Nagrand"}}
+items[30748] = {id=30748,name="Enchanter's Satchel",source={ID=16602,SourceName="Floyd Pinkus",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[22248] = {id=22248,name="Enchanted Runecloth Bag",source={ID=27659,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4496] = {id=4496,name="Small Brown Pouch",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="0.7",Zone="Eversong Woods"}}
+items[21858] = {id=21858,name="Spellfire Bag",source={ID=26755,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34845] = {id=34845,name="Pit Lord's Satchel",source={ID=17257,SourceName="Magtheridon",SourceType="Kill",DropChance="83.1",Zone="Magtheridon's Lair"}}
+items[3914] = {id=3914,name="Journeyman's Backpack",source={ID=14492,SourceName="Verifonix",SourceType="Kill",DropChance="1.4",Zone="Stranglethorn Vale"}}
+items[4245] = {id=4245,name="Small Silk Pack",source={ID=3813,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4497] = {id=4497,name="Heavy Brown Bag",source={ID=227,SourceName="Mabel Solaj",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[1977] = {id=1977,name="20-slot Bag",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22252] = {id=22252,name="Satchel of Cenarius",source={ID=27725,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34482] = {id=34482,name="Leatherworker's Satchel",source={ID=45100,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30745] = {id=30745,name="Heavy Toolbox",source={ID=16602,SourceName="Floyd Pinkus",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[39489] = {id=39489,name="Scribe's Satchel",source={ID=26916,SourceName="Mindri Dinkles",SourceType="Purchase",DropChance="100",Zone="Howling Fjord"}}
+items[34490] = {id=34490,name="Bag of Many Hides",source={ID=45117,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22249] = {id=22249,name="Big Bag of Enchantment",source={ID=27660,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[14156] = {id=14156,name="Bottomless Bag",source={ID=18455,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[17966] = {id=17966,name="Onyxia Hide Backpack",source={ID=10184,SourceName="Onyxia",SourceType="Kill",DropChance="84.5",Zone="Onyxia's Lair"}}
+items[38145] = {id=38145,name="Deathweave Bag",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4499] = {id=4499,name="Huge Brown Sack",source={ID=1321,SourceName="Alyssa Griffith",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[20400] = {id=20400,name="Pumpkin Bag",source={ID=19299,SourceName="Deathwhisperer",SourceType="Kill",DropChance="8.3",Zone="Hellfire Peninsula"}}
+items[22246] = {id=22246,name="Enchanted Mageweave Pouch",source={ID=27658,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5439] = {id=5439,name="Small Quiver",source={ID=228,SourceName="Avette Fellwood",SourceType="Purchase",DropChance="100",Zone="Duskwood"}}
+items[2102] = {id=2102,name="Small Ammo Pouch",source={ID=2685,SourceName="Mazk Snipeshot",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[21342] = {id=21342,name="Core Felcloth Bag",source={ID=26087,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5765] = {id=5765,name="Black Silk Pack",source={ID=6695,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4498] = {id=4498,name="Brown Leather Satchel",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[35516] = {id=35516,name="Sun Touched Satchel",source={ID=24698,SourceName="Ethereum Smuggler",SourceType="Kill",DropChance="2.1",Zone="Alterac Valley"}}
+items[4238] = {id=4238,name="Linen Bag",source={ID=3755,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23774] = {id=23774,name="Fel Iron Toolbox",source={ID=30348,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20474] = {id=20474,name="Sunstrider Book Satchel",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21194] = {id=21194,name="D'Sak's Big Sack",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14155] = {id=14155,name="Mooncloth Bag",source={ID=18445,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19914] = {id=19914,name="Panther Hide Sack",source={ID=14515,SourceName="High Priestess Arlokk",SourceType="Kill",DropChance="18.5",Zone="Zul'Gurub"}}
+items[1725] = {id=1725,name="Large Knapsack",source={ID=8479,SourceName="Velarok Windblade",SourceType="Kill",DropChance="2.2",Zone="Searing Gorge"}}
+items[22233] = {id=22233,name="Zigris' Footlocker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21341] = {id=21341,name="Felcloth Bag",source={ID=26086,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21340] = {id=21340,name="Soul Pouch",source={ID=26085,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6446] = {id=6446,name="Snakeskin Bag",source={ID=3671,SourceName="Lady Anacondra",SourceType="Kill",DropChance="5.4",Zone="Wailing Caverns"}}
+items[4240] = {id=4240,name="Woolen Bag",source={ID=3757,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5441] = {id=5441,name="Small Shot Pouch",source={ID=1243,SourceName="Hegnar Rumbleshot",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[21193] = {id=21193,name="D'Sak's Sack",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21313] = {id=21313,name="D'Sak's Small bag",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11742] = {id=11742,name="Wayfarer's Knapsack",source={ID=9543,SourceName="Ribbly Screwspigot",SourceType="Kill",DropChance="15.6",Zone="Blackrock Depths"}}
+items[1652] = {id=1652,name="Sturdy Lunchbox",source={ID=675,SourceName="Venture Co. Foreman",SourceType="Kill",DropChance="0.5",Zone="Stranglethorn Vale"}}
+items[13330] = {id=13330,name="Derek's Radish Bag",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2101] = {id=2101,name="Light Quiver",source={ID=1287,SourceName="Marda Weller",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[1685] = {id=1685,name="Troll-hide Bag",source={ID=678,SourceName="Mosh'Ogg Mauler",SourceType="Kill",DropChance="0",Zone="Stranglethorn Vale"}}
+items[804] = {id=804,name="Large Blue Sack",source={ID=335,SourceName="Singe",SourceType="Kill",DropChance="0.5",Zone="Redridge Mountains"}}
+items[5575] = {id=5575,name="Large Green Sack",source={ID=4518,SourceName="Death's Head Sage",SourceType="Kill",DropChance="0.3",Zone="Razorfen Kraul"}}
+items[23852] = {id=23852,name="Nolkai's Bag",source={ID=23846,SourceName="Nolkai's Box",SourceType="Container",DropChance="98.2",Zone="Unknown"}}
+items[4241] = {id=4241,name="Green Woolen Bag",source={ID=3758,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4957] = {id=4957,name="Old Moneybag",source={ID=4312,SourceName="Tharm",SourceType="Kill",DropChance="20.0",Zone="Stonetalon Mountains"}}
+items[37606] = {id=37606,name="Penny Pouch",source={ID=34077,SourceName="Crudely Wrapped Gift",SourceType="Container",DropChance="9.7",Zone="Unknown"}}
+items[4981] = {id=4981,name="Agmond's Belt Pouch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16057] = {id=16057,name="Explorer's Knapsack",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1623] = {id=1623,name="Raptor Skin Pouch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5764] = {id=5764,name="Green Silk Pack",source={ID=6693,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[932] = {id=932,name="Fel Steed Saddlebags",source={ID=3864,SourceName="Fel Steed",SourceType="Kill",DropChance="16.4",Zone="Shadowfang Keep"}}
+items[933] = {id=933,name="Large Rucksack",source={ID=573,SourceName="Foe Reaper 4000",SourceType="Kill",DropChance="72.3",Zone="Westfall"}}
+items[5763] = {id=5763,name="Red Woolen Bag",source={ID=6688,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[5603] = {id=5603,name="Wizbang's Gunnysack",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5762] = {id=5762,name="Red Linen Bag",source={ID=6686,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6756] = {id=6756,name="Jewelry Box",source={ID=6755,SourceName="A Small Container of Gems",SourceType="Container",DropChance="94.0",Zone="Unknown"}}
+items[7278] = {id=7278,name="Light Leather Quiver",source={ID=9060,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7279] = {id=7279,name="Small Leather Ammo Pouch",source={ID=9062,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[3762] = {id=3762,name="Librarian's Satchel",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[857] = {id=857,name="Large Red Sack",source={ID=4535,SourceName="Tamed Battleboar",SourceType="Kill",DropChance="100.0",Zone="Razorfen Kraul"}}
+items[3233] = {id=3233,name="Gnoll Hide Sack",source={ID=472,SourceName="Fedfennel",SourceType="Kill",DropChance="64.3",Zone="Elwynn Forest"}}
+items[5081] = {id=5081,name="Kodo Hide Bag",source={ID=5244,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[805] = {id=805,name="Small Red Pouch",source={ID=15635,SourceName="Eversong Tender",SourceType="Kill",DropChance="0.7",Zone="Eversong Woods"}}
+items[828] = {id=828,name="Small Blue Pouch",source={ID=3105,SourceName="Makrura Snapclaw",SourceType="Kill",DropChance="0.9",Zone="Durotar"}}
+items[5571] = {id=5571,name="Small Black Pouch",source={ID=1124,SourceName="Frostmane Shadowcaster",SourceType="Kill",DropChance="0.6",Zone="Dun Morogh"}}
+items[10683] = {id=10683,name="Explorer's Knapsack",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1470] = {id=1470,name="Murloc Skin Bag",source={ID=6243,SourceName="Gelihast",SourceType="Kill",DropChance="10.8",Zone="Blackfathom Deeps"}}
+items[5576] = {id=5576,name="Large Brown Sack",source={ID=4799,SourceName="Fallenroot Hellcaller",SourceType="Kill",DropChance="0.4",Zone="Blackfathom Deeps"}}
+items[856] = {id=856,name="Blue Leather Bag",source={ID=3671,SourceName="Lady Anacondra",SourceType="Kill",DropChance="22.4",Zone="Wailing Caverns"}}
+items[6754] = {id=6754,name="Large Moneybag",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5573] = {id=5573,name="Green Leather Bag",source={ID=1206,SourceName="Gnasher",SourceType="Kill",DropChance="0.2",Zone="Loch Modan"}}
+items[2657] = {id=2657,name="Red Leather Bag",source={ID=15811,SourceName="Faltering Silithid Flayer",SourceType="Kill",DropChance="1.4",Zone="The Barrens"}}
+items[5574] = {id=5574,name="White Leather Bag",source={ID=11858,SourceName="Grundig Darkcloud",SourceType="Kill",DropChance="0.7",Zone="Stonetalon Mountains"}}
+items[5572] = {id=5572,name="Small Green Pouch",source={ID=16307,SourceName="Deathcage Scryer",SourceType="Kill",DropChance="0.6",Zone="Ghostlands"}}
+items[4930] = {id=4930,name="Handmade Leather Bag",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Darkmoon Storage Box"] = 19291
 names["Small Soul Pouch"] = 22243
@@ -95,6 +213,124 @@ names["Gnoll Skin Bandolier"] = 19320
 names["Jack-o'-Lantern"] = 33117
 names["Knothide Ammo Pouch"] = 34099
 names["Worg Hide Quiver"] = 29144
+names["Portable Hole"] = 51809
+names["Frostweave Bag"] = 41599
+names["Glacial Bag"] = 41600
+names["Emerald Bag"] = 45773
+names["Abyssal Bag"] = 41597
+names["\"Gigantique\" Bag"] = 38082
+names["Mammoth Mining Bag"] = 38347
+names["Mysterious Bag"] = 41598
+names["Monster Bag"] = 1100
+names["Whizzlespark's Portable Pet Mansion"] = 35874
+names["Dragon Hide Bag"] = 43345
+names["Pack of Endless Pockets"] = 44446
+names["Netherweave Bag"] = 21841
+names["Bag of Jewels"] = 24270
+names["Titanium Toolbox"] = 23775
+names["Trapper's Traveling Pack"] = 38399
+names["Papa's Brand New Bag"] = 50316
+names["Mining Sack"] = 30746
+names["Enlarged Onyxia Hide Backpack"] = 49295
+names["Herb Pouch"] = 22250
+names["Papa's New Bag"] = 50317
+names["Red Mageweave Bag"] = 10051
+names["Mycah's Botanical Bag"] = 38225
+names["Gem Pouch"] = 30747
+names["Runecloth Bag"] = 14046
+names["Cenarion Herb Bag"] = 22251
+names["Reinforced Mining Bag"] = 29540
+names["Crafty's Bottomless Inscription Bag"] = 38307
+names["Ebon Shadowbag"] = 21872
+names["Draenic Leather Pack"] = 30744
+names["Traveler's Backpack"] = 4500
+names["Mageweave Bag"] = 10050
+names["D'Sak's Sacktastic"] = 21195
+names["Imbued Netherweave Bag"] = 21843
+names["Primal Mooncloth Bag"] = 21876
+names["Halaani Bag"] = 27680
+names["Enchanter's Satchel"] = 30748
+names["Enchanted Runecloth Bag"] = 22248
+names["Small Brown Pouch"] = 4496
+names["Spellfire Bag"] = 21858
+names["Pit Lord's Satchel"] = 34845
+names["Journeyman's Backpack"] = 3914
+names["Small Silk Pack"] = 4245
+names["Heavy Brown Bag"] = 4497
+names["20-slot Bag"] = 1977
+names["Satchel of Cenarius"] = 22252
+names["Leatherworker's Satchel"] = 34482
+names["Heavy Toolbox"] = 30745
+names["Scribe's Satchel"] = 39489
+names["Bag of Many Hides"] = 34490
+names["Big Bag of Enchantment"] = 22249
+names["Bottomless Bag"] = 14156
+names["Onyxia Hide Backpack"] = 17966
+names["Deathweave Bag"] = 38145
+names["Huge Brown Sack"] = 4499
+names["Pumpkin Bag"] = 20400
+names["Enchanted Mageweave Pouch"] = 22246
+names["Small Quiver"] = 5439
+names["Small Ammo Pouch"] = 2102
+names["Core Felcloth Bag"] = 21342
+names["Black Silk Pack"] = 5765
+names["Brown Leather Satchel"] = 4498
+names["Sun Touched Satchel"] = 35516
+names["Linen Bag"] = 4238
+names["Fel Iron Toolbox"] = 23774
+names["Sunstrider Book Satchel"] = 20474
+names["D'Sak's Big Sack"] = 21194
+names["Mooncloth Bag"] = 14155
+names["Panther Hide Sack"] = 19914
+names["Large Knapsack"] = 1725
+names["Zigris' Footlocker"] = 22233
+names["Felcloth Bag"] = 21341
+names["Soul Pouch"] = 21340
+names["Snakeskin Bag"] = 6446
+names["Woolen Bag"] = 4240
+names["Small Shot Pouch"] = 5441
+names["D'Sak's Sack"] = 21193
+names["D'Sak's Small bag"] = 21313
+names["Wayfarer's Knapsack"] = 11742
+names["Sturdy Lunchbox"] = 1652
+names["Derek's Radish Bag"] = 13330
+names["Light Quiver"] = 2101
+names["Troll-hide Bag"] = 1685
+names["Large Blue Sack"] = 804
+names["Large Green Sack"] = 5575
+names["Nolkai's Bag"] = 23852
+names["Green Woolen Bag"] = 4241
+names["Old Moneybag"] = 4957
+names["Penny Pouch"] = 37606
+names["Agmond's Belt Pouch"] = 4981
+names["Explorer's Knapsack"] = 16057
+names["Raptor Skin Pouch"] = 1623
+names["Green Silk Pack"] = 5764
+names["Fel Steed Saddlebags"] = 932
+names["Large Rucksack"] = 933
+names["Red Woolen Bag"] = 5763
+names["Wizbang's Gunnysack"] = 5603
+names["Red Linen Bag"] = 5762
+names["Jewelry Box"] = 6756
+names["Light Leather Quiver"] = 7278
+names["Small Leather Ammo Pouch"] = 7279
+names["Librarian's Satchel"] = 3762
+names["Large Red Sack"] = 857
+names["Gnoll Hide Sack"] = 3233
+names["Kodo Hide Bag"] = 5081
+names["Small Red Pouch"] = 805
+names["Small Blue Pouch"] = 828
+names["Small Black Pouch"] = 5571
+names["Explorer's Knapsack"] = 10683
+names["Murloc Skin Bag"] = 1470
+names["Large Brown Sack"] = 5576
+names["Blue Leather Bag"] = 856
+names["Large Moneybag"] = 6754
+names["Green Leather Bag"] = 5573
+names["Red Leather Bag"] = 2657
+names["White Leather Bag"] = 5574
+names["Small Green Pouch"] = 5572
+names["Handmade Leather Bag"] = 4930
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

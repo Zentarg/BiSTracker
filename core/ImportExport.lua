@@ -300,7 +300,13 @@ function BiSTracker:InitImportExport()
     BiSTracker.Serializer.GUI:SetTitle(L["Import / Export"])
     BiSTracker.Serializer.GUI:SetHeight(450)
     BiSTracker.Serializer.GUI:SetWidth(500)
-    BiSTracker.Serializer.GUI.frame:SetResizeBounds(500, 450, 500, 450)
+    
+    if BiSTracker.Serializer.GUI.frame.SetResizeBounds then -- WoW 10.0
+        BiSTracker.Serializer.GUI.frame:SetResizeBounds(300, 520)
+    else
+        BiSTracker.Serializer.GUI.frame:SetMinResize(500, 450)
+        BiSTracker.Serializer.GUI.frame:SetMaxResize(500, 450)
+    end
     BiSTracker.Serializer.GUI:Hide()
 
     BiSTracker.Serializer.GUI.Tabs = BiSTracker.AceGUI:Create("TabGroup")

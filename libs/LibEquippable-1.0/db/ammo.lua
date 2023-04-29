@@ -62,6 +62,8 @@ items[32882] = {id=32882,name="Hellfire Shot",source={ID=17585,SourceName="Quart
 items[32883] = {id=32883,name="Felbane Slugs",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
 items[52021] = {id=52021,name="Iceblade Arrow",source={ID=72953,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
 items[52020] = {id=52020,name="Shatter Rounds",source={ID=72952,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2512] = {id=2512,name="Rough Arrow",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2516] = {id=2516,name="Light Shot",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 
 names["Razor Arrow"] = 3030
 names["Depricated Whipwood Arrow"] = 3029
@@ -117,6 +119,8 @@ names["Hellfire Shot"] = 32882
 names["Felbane Slugs"] = 32883
 names["Iceblade Arrow"] = 52021
 names["Shatter Rounds"] = 52020
+names["Rough Arrow"] = 2512
+names["Light Shot"] = 2516
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

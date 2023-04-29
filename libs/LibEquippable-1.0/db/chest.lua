@@ -2363,6 +2363,162 @@ items[39461] = {id=39461,name="Muck-Stained Carapace",source={ID=12569,SourceNam
 items[39337] = {id=39337,name="Stained Coop Warmer",source={ID=12532,SourceName="Flown the Coop!",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[39365] = {id=39365,name="Lifewarden's Raiment",source={ID=12617,SourceName="Exterminate the Intruders",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[33397] = {id=33397,name="Frigid Mail Armor",source={ID=16453,SourceName="Necro Stalker",SourceType="Kill",DropChance="3.9",Zone="Naxxramas"}}
+items[44489] = {id=44489,name="Formula: Enchant Chest - Powerful Stats",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[16253] = {id=16253,name="Formula: Enchant Chest - Greater Stats",source={ID=6109,SourceName="Azuregos",SourceType="Kill",DropChance="2.0",Zone="Azshara"}}
+items[37340] = {id=37340,name="Formula: Enchant Chest - Exceptional Resilience",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44465] = {id=44465,name="Scroll of Enchant Chest - Powerful Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37336] = {id=37336,name="Formula: Enchant Chest - Greater Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44800] = {id=44800,name="Spring Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38928] = {id=38928,name="Scroll of Enchant Chest - Major Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38989] = {id=38989,name="Scroll of Enchant Chest - Super Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16221] = {id=16221,name="Formula: Enchant Chest - Major Health",source={ID=11189,SourceName="Qia",SourceType="Purchase",DropChance="100",Zone="Winterspring"}}
+items[13895] = {id=13895,name="Formal Dangui",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44692] = {id=44692,name="Dalaran Nurse's Gown",source={ID=29628,SourceName="Angelique Butler",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[10036] = {id=10036,name="Tuxedo Jacket",source={ID=12093,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[19028] = {id=19028,name="Elegant Dress",source={ID=113770,SourceName="Brightly Colored Egg",SourceType="Container",DropChance="0.8",Zone="Durotar"}}
+items[44737] = {id=44737,name="Draenic Silk Robes",source={ID=32638,SourceName="Hakmud of Argus",SourceType="Purchase",DropChance="100",Zone="Ulduar"}}
+items[38160] = {id=38160,name="Soul-Trader's Bindings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38913] = {id=38913,name="Scroll of Enchant Chest - Exceptional Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[46394] = {id=46394,name="Acolyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[52729] = {id=52729,name="Doomsday Recruit's Robe",source={ID=74451,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38975] = {id=38975,name="Scroll of Enchant Chest - Exceptional Resilience",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[47102] = {id=47102,name="Manaweave Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[46393] = {id=46393,name="Apprentice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44656] = {id=44656,name="Cultist Acolyte Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38865] = {id=38865,name="Scroll of Enchant Chest - Greater Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13899] = {id=13899,name="Red Traditional Hanbok",source={ID=4184,SourceName="Geenia Sunshadow",SourceType="Purchase",DropChance="100",Zone="Moonglade"}}
+items[22279] = {id=22279,name="Lovely Black Dress",source={ID=50160,SourceName="Lovely Dress Box",SourceType="Container",DropChance="25.8",Zone="Unknown"}}
+items[39005] = {id=39005,name="Scroll of Enchant Chest - Super Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6346] = {id=6346,name="Formula: Enchant Chest - Lesser Mana",source={ID=3346,SourceName="Kithas",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[39002] = {id=39002,name="Scroll of Enchant Chest - Greater Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35431] = {id=35431,name="Enchant Chest - Major Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20925] = {id=20925,name="Sun Cured Vest",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[13898] = {id=13898,name="Royal Dangui",source={ID=1299,SourceName="Lisbeth Schneider",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[27720] = {id=27720,name="Robes of the Aldor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16242] = {id=16242,name="Formula: Enchant Chest - Major Mana",source={ID=9452,SourceName="Scarlet Enchanter",SourceType="Kill",DropChance="0.9",Zone="Eastern Plaguelands"}}
+items[22742] = {id=22742,name="Bloodsail Shirt",source={ID=22746,SourceName="Buccaneer's Uniform",SourceType="Container",DropChance="94.8",Zone="Unknown"}}
+items[2586] = {id=2586,name="Gamemaster's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35428] = {id=35428,name="Enchant Chest - Exceptional Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38866] = {id=38866,name="Scroll of Enchant Chest - Major Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38277] = {id=38277,name="Haliscan Jacket",source={ID=50644,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13896] = {id=13896,name="Dark Green Wedding Hanbok",source={ID=1299,SourceName="Lisbeth Schneider",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[23433] = {id=23433,name="Blood Robes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13897] = {id=13897,name="White Traditional Hanbok",source={ID=1299,SourceName="Lisbeth Schneider",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[6342] = {id=6342,name="Formula: Enchant Chest - Minor Mana",source={ID=5863,SourceName="Geopriest Gukk'rok",SourceType="Kill",DropChance="0.6",Zone="The Barrens"}}
+items[56] = {id=56,name="Apprentice's Robe",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[23322] = {id=23322,name="Acolyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21154] = {id=21154,name="Festival Dress",source={ID=26403,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20893] = {id=20893,name="Apprentice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6787] = {id=6787,name="White Woolen Dress",source={ID=8467,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38524] = {id=38524,name="Carapace of the Scarlet Commander",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38527] = {id=38527,name="Onslaught Scalemail Hauberk",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37385] = {id=37385,name="Seared Harness",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38962] = {id=38962,name="Scroll of Enchant Chest - Greater Mana Restoration",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22547] = {id=22547,name="Formula: Enchant Chest - Exceptional Stats",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[38847] = {id=38847,name="Scroll of Enchant Chest - Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13900] = {id=13900,name="Green Wedding Hanbok",source={ID=4184,SourceName="Geenia Sunshadow",SourceType="Purchase",DropChance="100",Zone="Moonglade"}}
+items[38808] = {id=38808,name="Scroll of Enchant Chest - Greater Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38766] = {id=38766,name="Scroll of Enchant Chest - Minor Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2304] = {id=2304,name="Light Armor Kit",source={ID=6908,SourceName="Olaf",SourceType="Kill",DropChance="26.8",Zone="Uldaman"}}
+items[34085] = {id=34085,name="Red Winter Clothes",source={ID=44958,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6129] = {id=6129,name="Acolyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[57] = {id=57,name="Acolyte's Robe",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[6144] = {id=6144,name="Neophyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23479] = {id=23479,name="Recruit's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21040] = {id=21040,name="Narain's Robe",source={ID=15378,SourceName="Merithra of the Dream",SourceType="Kill",DropChance="50.0",Zone="Ahn'Qiraj"}}
+items[20891] = {id=20891,name="Neophyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21542] = {id=21542,name="Festival Suit",source={ID=26407,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33862] = {id=33862,name="Brewfest Regalia",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[41757] = {id=41757,name="Vest of Unyielding Companionship",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37454] = {id=37454,name="HF28 Mail Physical Chest4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[36866] = {id=36866,name="HF BLUE Leather DPS Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28054] = {id=28054,name="Fleshripper's Bladed Chestplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38912] = {id=38912,name="Scroll of Enchant Chest - Exceptional Mana",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28270] = {id=28270,name="Formula: Enchant Chest - Major Resilience",source={ID=22960,SourceName="Dragonmaw Wyrmcaller",SourceType="Kill",DropChance="0.1",Zone="Black Temple"}}
+items[24003] = {id=24003,name="Formula: Enchant Chest - Exceptional Stats",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[38841] = {id=38841,name="Scroll of Enchant Chest - Superior Mana",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[193] = {id=193,name="Tattered Cloth Vest",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[1364] = {id=1364,name="Ragged Leather Vest",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.1",Zone="Durotar"}}
+items[3260] = {id=3260,name="Scarlet Initiate Robes",source={ID=1507,SourceName="Scarlet Initiate",SourceType="Kill",DropChance="1.2",Zone="Tirisfal Glades"}}
+items[6837] = {id=6837,name="Wedding Dress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34087] = {id=34087,name="Green Winter Clothes",source={ID=44950,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20892] = {id=20892,name="Acolyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33863] = {id=33863,name="Brewfest Dress",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[38740] = {id=38740,name="QR IC36 Cloth Spell Chest3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37978] = {id=37978,name="DB57 Cloth Spell Chest3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38124] = {id=38124,name="DB57 Plate Healer Chest2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37477] = {id=37477,name="Lost Crusader Chestplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[36867] = {id=36867,name="HF BLUE Plate DPS Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25573] = {id=25573,name="QR 9863 Warrior Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38955] = {id=38955,name="Scroll of Enchant Chest - Mighty Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35429] = {id=35429,name="Enchant Chest - Exceptional Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35500] = {id=35500,name="Formula: Enchant Chest - Defense",source={ID=25032,SourceName="Eldara Dawnrunner",SourceType="Purchase",DropChance="100",Zone="Isle of Quel'Danas"}}
+items[38930] = {id=38930,name="Scroll of Enchant Chest - Major Resilience",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38929] = {id=38929,name="Scroll of Enchant Chest - Restore Mana Prime",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10781] = {id=10781,name="Hakkari Breastplate",source={ID=10773,SourceName="Hakkari Urn",SourceType="Container",DropChance="99.5",Zone="Unknown"}}
+items[4989] = {id=4989,name="Mage Dragon Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38833] = {id=38833,name="Scroll of Enchant Chest - Superior Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38818] = {id=38818,name="Scroll of Enchant Chest - Greater Mana",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38804] = {id=38804,name="Scroll of Enchant Chest - Minor Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38799] = {id=38799,name="Scroll of Enchant Chest - Mana",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38798] = {id=38798,name="Scroll of Enchant Chest - Lesser Absorption",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38776] = {id=38776,name="Scroll of Enchant Chest - Lesser Mana",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38773] = {id=38773,name="Scroll of Enchant Chest - Lesser Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23434] = {id=23434,name="Robes of the Shard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38767] = {id=38767,name="Scroll of Enchant Chest - Minor Absorption",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38769] = {id=38769,name="Scroll of Enchant Chest - Minor Mana",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6786] = {id=6786,name="Simple Dress",source={ID=8465,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20990] = {id=20990,name="Light Cloth Armor",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[21016] = {id=21016,name="Shoddy Chain Vest",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[21007] = {id=21007,name="Unkempt Robe",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="2.3",Zone="Eversong Woods"}}
+items[6119] = {id=6119,name="Neophyte's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6123] = {id=6123,name="Novice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23321] = {id=23321,name="Recruit's Robe",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[29869] = {id=29869,name="QAEnchant Chest +15 Resilience",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34685] = {id=34685,name="Vestment of Summer",source={ID=26123,SourceName="Midsummer Supplier",SourceType="Purchase",DropChance="100",Zone="Ironforge"}}
+items[29870] = {id=29870,name="QAEnchant Chest +6 Mana\5",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29871] = {id=29871,name="QAEnchant Chest +15 Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6140] = {id=6140,name="Apprentice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40220] = {id=40220,name="CRobinson Plate Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29874] = {id=29874,name="QAEnchant Chest +150 Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40227] = {id=40227,name="CRobinson Leather Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6098] = {id=6098,name="Neophyte's Robe",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[6834] = {id=6834,name="Black Tuxedo",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37450] = {id=37450,name="BT48 Mail Healer Chest3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12106] = {id=12106,name="Boulderskin Breastplate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10053] = {id=10053,name="Simple Black Dress",source={ID=12077,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7809] = {id=7809,name="Easter Dress",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38782] = {id=38782,name="Scroll of Enchant Chest - Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20919] = {id=20919,name="Unadorned Chain Vest",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[85] = {id=85,name="Dirty Leather Vest",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[2656] = {id=2656,name="Flimsy Chain Vest",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="3.2",Zone="Durotar"}}
+items[2110] = {id=2110,name="Light Magesmith Robe",source={ID=946,SourceName="Frostmane Novice",SourceType="Kill",DropChance="1.3",Zone="Dun Morogh"}}
+items[29873] = {id=29873,name="QAEnchant Chest +150 Mana",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39069] = {id=39069,name="QR IC39 Mail Physical Chest3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39885] = {id=39885,name="QR ZD25 Plate Physical Chest2 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38015] = {id=38015,name="DB49 Leather Physical Chest4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37466] = {id=37466,name="BT59 Plate Physical Chest4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37281] = {id=37281,name="BT52 Cloth Healer Chest2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30920] = {id=30920,name="QR 10574 Cloth Mage Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25546] = {id=25546,name="QR XXXX Paladin Chest",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38999] = {id=38999,name="Scroll of Enchant Chest - Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35430] = {id=35430,name="Enchant Chest - Major Resilience",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38911] = {id=38911,name="Scroll of Enchant Chest - Exceptional Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12104] = {id=12104,name="Brindlethorn Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38867] = {id=38867,name="Scroll of Enchant Chest - Major Mana",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38824] = {id=38824,name="Scroll of Enchant Chest - Lesser Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2127] = {id=2127,name="Cracked Leather Vest",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2379] = {id=2379,name="Tarnished Chain Vest",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[2386] = {id=2386,name="Rusted Chain Vest",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[21014] = {id=21014,name="Scraggy Leather Vest",source={ID=15294,SourceName="Feral Tender",SourceType="Kill",DropChance="1.7",Zone="Eversong Woods"}}
+items[2109] = {id=2109,name="Frostmane Chain Vest",source={ID=808,SourceName="Grik'nir the Cold",SourceType="Kill",DropChance="0.8",Zone="Dun Morogh"}}
+items[2121] = {id=2121,name="Thin Cloth Armor",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[1380] = {id=1380,name="Frayed Robe",source={ID=1916,SourceName="Stephen Bhartec",SourceType="Kill",DropChance="9.1",Zone="Tirisfal Glades"}}
+items[2108] = {id=2108,name="Frostmane Leather Vest",source={ID=706,SourceName="Frostmane Troll Whelp",SourceType="Kill",DropChance="2.1",Zone="Dun Morogh"}}
+items[6139] = {id=6139,name="Novice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29872] = {id=29872,name="QAEnchant Chest +6 Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6116] = {id=6116,name="Apprentice's Robe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20904] = {id=20904,name="Recruit's Tunic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Robes of Arcana"] = 5770
 names["Inferno Robe"] = 2231
@@ -4719,6 +4875,162 @@ names["Muck-Stained Carapace"] = 39461
 names["Stained Coop Warmer"] = 39337
 names["Lifewarden's Raiment"] = 39365
 names["Frigid Mail Armor"] = 33397
+names["Formula: Enchant Chest - Powerful Stats"] = 44489
+names["Formula: Enchant Chest - Greater Stats"] = 16253
+names["Formula: Enchant Chest - Exceptional Resilience"] = 37340
+names["Scroll of Enchant Chest - Powerful Stats"] = 44465
+names["Formula: Enchant Chest - Greater Defense"] = 37336
+names["Spring Robes"] = 44800
+names["Scroll of Enchant Chest - Major Spirit"] = 38928
+names["Scroll of Enchant Chest - Super Stats"] = 38989
+names["Formula: Enchant Chest - Major Health"] = 16221
+names["Formal Dangui"] = 13895
+names["Dalaran Nurse's Gown"] = 44692
+names["Tuxedo Jacket"] = 10036
+names["Elegant Dress"] = 19028
+names["Draenic Silk Robes"] = 44737
+names["Soul-Trader's Bindings"] = 38160
+names["Scroll of Enchant Chest - Exceptional Stats"] = 38913
+names["Acolyte's Robe"] = 46394
+names["Doomsday Recruit's Robe"] = 52729
+names["Scroll of Enchant Chest - Exceptional Resilience"] = 38975
+names["Manaweave Robe"] = 47102
+names["Apprentice's Robe"] = 46393
+names["Cultist Acolyte Robes"] = 44656
+names["Scroll of Enchant Chest - Greater Stats"] = 38865
+names["Red Traditional Hanbok"] = 13899
+names["Lovely Black Dress"] = 22279
+names["Scroll of Enchant Chest - Super Health"] = 39005
+names["Formula: Enchant Chest - Lesser Mana"] = 6346
+names["Scroll of Enchant Chest - Greater Defense"] = 39002
+names["Enchant Chest - Major Spirit"] = 35431
+names["Sun Cured Vest"] = 20925
+names["Royal Dangui"] = 13898
+names["Robes of the Aldor"] = 27720
+names["Formula: Enchant Chest - Major Mana"] = 16242
+names["Bloodsail Shirt"] = 22742
+names["Gamemaster's Robe"] = 2586
+names["Enchant Chest - Exceptional Health"] = 35428
+names["Scroll of Enchant Chest - Major Health"] = 38866
+names["Haliscan Jacket"] = 38277
+names["Dark Green Wedding Hanbok"] = 13896
+names["Blood Robes"] = 23433
+names["White Traditional Hanbok"] = 13897
+names["Formula: Enchant Chest - Minor Mana"] = 6342
+names["Apprentice's Robe"] = 56
+names["Acolyte's Robe"] = 23322
+names["Festival Dress"] = 21154
+names["Apprentice's Robe"] = 20893
+names["White Woolen Dress"] = 6787
+names["Carapace of the Scarlet Commander"] = 38524
+names["Onslaught Scalemail Hauberk"] = 38527
+names["Seared Harness"] = 37385
+names["Scroll of Enchant Chest - Greater Mana Restoration"] = 38962
+names["Formula: Enchant Chest - Exceptional Stats"] = 22547
+names["Scroll of Enchant Chest - Stats"] = 38847
+names["Green Wedding Hanbok"] = 13900
+names["Scroll of Enchant Chest - Greater Health"] = 38808
+names["Scroll of Enchant Chest - Minor Health"] = 38766
+names["Light Armor Kit"] = 2304
+names["Red Winter Clothes"] = 34085
+names["Acolyte's Robe"] = 6129
+names["Acolyte's Robe"] = 57
+names["Neophyte's Robe"] = 6144
+names["Recruit's Robe"] = 23479
+names["Narain's Robe"] = 21040
+names["Neophyte's Robe"] = 20891
+names["Festival Suit"] = 21542
+names["Brewfest Regalia"] = 33862
+names["Vest of Unyielding Companionship"] = 41757
+names["HF28 Mail Physical Chest4"] = 37454
+names["HF BLUE Leather DPS Chest"] = 36866
+names["Fleshripper's Bladed Chestplate"] = 28054
+names["Scroll of Enchant Chest - Exceptional Mana"] = 38912
+names["Formula: Enchant Chest - Major Resilience"] = 28270
+names["Formula: Enchant Chest - Exceptional Stats"] = 24003
+names["Scroll of Enchant Chest - Superior Mana"] = 38841
+names["Tattered Cloth Vest"] = 193
+names["Ragged Leather Vest"] = 1364
+names["Scarlet Initiate Robes"] = 3260
+names["Wedding Dress"] = 6837
+names["Green Winter Clothes"] = 34087
+names["Acolyte's Robe"] = 20892
+names["Brewfest Dress"] = 33863
+names["QR IC36 Cloth Spell Chest3 - PH"] = 38740
+names["DB57 Cloth Spell Chest3"] = 37978
+names["DB57 Plate Healer Chest2"] = 38124
+names["Lost Crusader Chestplate"] = 37477
+names["HF BLUE Plate DPS Chest"] = 36867
+names["QR 9863 Warrior Chest"] = 25573
+names["Scroll of Enchant Chest - Mighty Health"] = 38955
+names["Enchant Chest - Exceptional Stats"] = 35429
+names["Formula: Enchant Chest - Defense"] = 35500
+names["Scroll of Enchant Chest - Major Resilience"] = 38930
+names["Scroll of Enchant Chest - Restore Mana Prime"] = 38929
+names["Hakkari Breastplate"] = 10781
+names["Mage Dragon Robe"] = 4989
+names["Scroll of Enchant Chest - Superior Health"] = 38833
+names["Scroll of Enchant Chest - Greater Mana"] = 38818
+names["Scroll of Enchant Chest - Minor Stats"] = 38804
+names["Scroll of Enchant Chest - Mana"] = 38799
+names["Scroll of Enchant Chest - Lesser Absorption"] = 38798
+names["Scroll of Enchant Chest - Lesser Mana"] = 38776
+names["Scroll of Enchant Chest - Lesser Health"] = 38773
+names["Robes of the Shard"] = 23434
+names["Scroll of Enchant Chest - Minor Absorption"] = 38767
+names["Scroll of Enchant Chest - Minor Mana"] = 38769
+names["Simple Dress"] = 6786
+names["Light Cloth Armor"] = 20990
+names["Shoddy Chain Vest"] = 21016
+names["Unkempt Robe"] = 21007
+names["Neophyte's Robe"] = 6119
+names["Novice's Robe"] = 6123
+names["Recruit's Robe"] = 23321
+names["QAEnchant Chest +15 Resilience"] = 29869
+names["Vestment of Summer"] = 34685
+names["QAEnchant Chest +6 Mana\5"] = 29870
+names["QAEnchant Chest +15 Spirit"] = 29871
+names["Apprentice's Robe"] = 6140
+names["CRobinson Plate Chest"] = 40220
+names["QAEnchant Chest +150 Health"] = 29874
+names["CRobinson Leather Chest"] = 40227
+names["Neophyte's Robe"] = 6098
+names["Black Tuxedo"] = 6834
+names["BT48 Mail Healer Chest3"] = 37450
+names["Boulderskin Breastplate"] = 12106
+names["Simple Black Dress"] = 10053
+names["Easter Dress"] = 7809
+names["Scroll of Enchant Chest - Health"] = 38782
+names["Unadorned Chain Vest"] = 20919
+names["Dirty Leather Vest"] = 85
+names["Flimsy Chain Vest"] = 2656
+names["Light Magesmith Robe"] = 2110
+names["QAEnchant Chest +150 Mana"] = 29873
+names["QR IC39 Mail Physical Chest3 - PH"] = 39069
+names["QR ZD25 Plate Physical Chest2 - PH"] = 39885
+names["DB49 Leather Physical Chest4"] = 38015
+names["BT59 Plate Physical Chest4"] = 37466
+names["BT52 Cloth Healer Chest2"] = 37281
+names["QR 10574 Cloth Mage Chest"] = 30920
+names["QR XXXX Paladin Chest"] = 25546
+names["Scroll of Enchant Chest - Defense"] = 38999
+names["Enchant Chest - Major Resilience"] = 35430
+names["Scroll of Enchant Chest - Exceptional Health"] = 38911
+names["Brindlethorn Tunic"] = 12104
+names["Scroll of Enchant Chest - Major Mana"] = 38867
+names["Scroll of Enchant Chest - Lesser Stats"] = 38824
+names["Cracked Leather Vest"] = 2127
+names["Tarnished Chain Vest"] = 2379
+names["Rusted Chain Vest"] = 2386
+names["Scraggy Leather Vest"] = 21014
+names["Frostmane Chain Vest"] = 2109
+names["Thin Cloth Armor"] = 2121
+names["Frayed Robe"] = 1380
+names["Frostmane Leather Vest"] = 2108
+names["Novice's Robe"] = 6139
+names["QAEnchant Chest +6 Stats"] = 29872
+names["Apprentice's Robe"] = 6116
+names["Recruit's Tunic"] = 20904
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

@@ -2164,6 +2164,84 @@ items[36144] = {id=36144,name="Ghrino Britches",source={ID=28840,SourceName="Ove
 items[39411] = {id=39411,name="Legguards of Guided Travel",source={ID=12547,SourceName="The Activation Rune",SourceType="Quest",DropChance="0",Zone="Un'Goro Crater"}}
 items[39457] = {id=39457,name="Zepik's Grounded Legplates",source={ID=12537,SourceName="Lightning Definitely Strikes Twice",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[39462] = {id=39462,name="Legplates of the Northern Expedition",source={ID=13342,SourceName="Not a Bug",SourceType="Quest",DropChance="0",Zone="Icecrown"}}
+items[43895] = {id=43895,name="Leggings of Silent Echoes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[15794] = {id=15794,name="Ripped Ogre Loincloth",source={ID=177681,SourceName="Gordunni Dirt Mound",SourceType="Container",DropChance="33.4",Zone="Feralas"}}
+items[10035] = {id=10035,name="Tuxedo Pants",source={ID=12089,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38278] = {id=38278,name="Haliscan Pantaloons",source={ID=50647,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30921] = {id=30921,name="QR 10637 Cloth Mage Legs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12107] = {id=12107,name="Whispersilk Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20918] = {id=20918,name="Unadorned Chain Leggings",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[42875] = {id=42875,name="Worg-hide Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27718] = {id=27718,name="Aldor Defender's Legplates",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20706] = {id=20706,name="Cenarion Reservist's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6835] = {id=6835,name="Black Tuxedo Pants",source={ID=113771,SourceName="Brightly Colored Egg",SourceType="Container",DropChance="2.3",Zone="Mulgore"}}
+items[37973] = {id=37973,name="DB51 Cloth Spell Legs3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38060] = {id=38060,name="DB51 Mail Physical Legs3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12105] = {id=12105,name="Pridemail Leggings",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24145] = {id=24145,name="Initiate's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6126] = {id=6126,name="Trapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[139] = {id=139,name="Brawler's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37321] = {id=37321,name="BT52 Leather Healer Legs2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25580] = {id=25580,name="QR 9867 Warrior Legs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2304] = {id=2304,name="Light Armor Kit",source={ID=6908,SourceName="Olaf",SourceType="Kill",DropChance="26.8",Zone="Uldaman"}}
+items[22745] = {id=22745,name="Bloodsail Pants",source={ID=22746,SourceName="Buccaneer's Uniform",SourceType="Container",DropChance="76.9",Zone="Unknown"}}
+items[52] = {id=52,name="Neophyte's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[120] = {id=120,name="Thug Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37285] = {id=37285,name="BT56 Cloth Spell Legs4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39] = {id=39,name="Recruit's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[40229] = {id=40229,name="CRobinson Leather Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44] = {id=44,name="Squire's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[48] = {id=48,name="Footpad's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23344] = {id=23344,name="Scout's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37951] = {id=37951,name="DB21 Cloth Healer Legs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38019] = {id=38019,name="DB54 Leather Physical Legs4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37448] = {id=37448,name="BT47 Mail Physical Legs3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37457] = {id=37457,name="BT55 Mail Physical Legs4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27719] = {id=27719,name="Aldor Leggings of Puissance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20924] = {id=20924,name="Sun Cured Pants",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[21017] = {id=21017,name="Shoddy Chain Pants",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[6121] = {id=6121,name="Recruit's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6124] = {id=6124,name="Novice's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20894] = {id=20894,name="Apprentice's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6131] = {id=6131,name="Trapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23350] = {id=23350,name="Battleworn Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6135] = {id=6135,name="Primitive Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6137] = {id=6137,name="Thug Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23478] = {id=23478,name="Recruit's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39037] = {id=39037,name="QR IC32 Leather Physical Legs3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38058] = {id=38058,name="DB49 Mail Healer Legs2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[194] = {id=194,name="Tattered Cloth Pants",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[209] = {id=209,name="Dirty Leather Pants",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[40222] = {id=40222,name="CRobinson Plate Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1395] = {id=1395,name="Apprentice's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[147] = {id=147,name="Rugged Trapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[153] = {id=153,name="Primitive Kilt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23477] = {id=23477,name="Squire's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39440] = {id=39440,name="Greaves of the Titan Protectorate",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37316] = {id=37316,name="HF28 Leather Physical Legs4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30934] = {id=30934,name="QR 10574 Leather Rogue Legs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25551] = {id=25551,name="QR XXXX Hunter Legs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25572] = {id=25572,name="QR 9863 Shaman Legs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24444] = {id=24444,name="Newly Weaved Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2120] = {id=2120,name="Thin Cloth Pants",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2126] = {id=2126,name="Cracked Leather Pants",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2381] = {id=2381,name="Tarnished Chain Leggings",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[2388] = {id=2388,name="Rusted Chain Leggings",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[20986] = {id=20986,name="Light Cloth Pants",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[3263] = {id=3263,name="Webbed Pants",source={ID=1505,SourceName="Night Web Spider",SourceType="Kill",DropChance="0.9",Zone="Tirisfal Glades"}}
+items[1366] = {id=1366,name="Ragged Leather Pants",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="3.9",Zone="Durotar"}}
+items[21013] = {id=21013,name="Scraggy Leather Pants",source={ID=15366,SourceName="Springpaw Cub",SourceType="Kill",DropChance="1.7",Zone="Eversong Woods"}}
+items[1378] = {id=1378,name="Frayed Pants",source={ID=1917,SourceName="Daniel Ulfman",SourceType="Kill",DropChance="5.1",Zone="Tirisfal Glades"}}
+items[2654] = {id=2654,name="Flimsy Chain Pants",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="3.4",Zone="Durotar"}}
+items[21006] = {id=21006,name="Unkempt Pants",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="2.1",Zone="Eversong Woods"}}
+items[6118] = {id=6118,name="Squire's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1396] = {id=1396,name="Acolyte's Pants",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[23213] = {id=23213,name="Scrapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20896] = {id=20896,name="Lookout's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20899] = {id=20899,name="Warder's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20902] = {id=20902,name="Recruit's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23471] = {id=23471,name="Rugged Trapper's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23474] = {id=23474,name="Recruit's Pants",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Triprunner Dungarees"] = 9624
 names["Heavy Armor Kit"] = 4265
@@ -4321,6 +4399,84 @@ names["Ghrino Britches"] = 36144
 names["Legguards of Guided Travel"] = 39411
 names["Zepik's Grounded Legplates"] = 39457
 names["Legplates of the Northern Expedition"] = 39462
+names["Leggings of Silent Echoes"] = 43895
+names["Ripped Ogre Loincloth"] = 15794
+names["Tuxedo Pants"] = 10035
+names["Haliscan Pantaloons"] = 38278
+names["QR 10637 Cloth Mage Legs"] = 30921
+names["Whispersilk Leggings"] = 12107
+names["Unadorned Chain Leggings"] = 20918
+names["Worg-hide Pants"] = 42875
+names["Aldor Defender's Legplates"] = 27718
+names["Cenarion Reservist's Pants"] = 20706
+names["Black Tuxedo Pants"] = 6835
+names["DB51 Cloth Spell Legs3"] = 37973
+names["DB51 Mail Physical Legs3"] = 38060
+names["Pridemail Leggings"] = 12105
+names["Initiate's Pants"] = 24145
+names["Trapper's Pants"] = 6126
+names["Brawler's Pants"] = 139
+names["BT52 Leather Healer Legs2"] = 37321
+names["QR 9867 Warrior Legs"] = 25580
+names["Light Armor Kit"] = 2304
+names["Bloodsail Pants"] = 22745
+names["Neophyte's Pants"] = 52
+names["Thug Pants"] = 120
+names["BT56 Cloth Spell Legs4"] = 37285
+names["Recruit's Pants"] = 39
+names["CRobinson Leather Pants"] = 40229
+names["Squire's Pants"] = 44
+names["Footpad's Pants"] = 48
+names["Scout's Pants"] = 23344
+names["DB21 Cloth Healer Legs"] = 37951
+names["DB54 Leather Physical Legs4"] = 38019
+names["BT47 Mail Physical Legs3"] = 37448
+names["BT55 Mail Physical Legs4"] = 37457
+names["Aldor Leggings of Puissance"] = 27719
+names["Sun Cured Pants"] = 20924
+names["Shoddy Chain Pants"] = 21017
+names["Recruit's Pants"] = 6121
+names["Novice's Pants"] = 6124
+names["Apprentice's Pants"] = 20894
+names["Trapper's Pants"] = 6131
+names["Battleworn Pants"] = 23350
+names["Primitive Kilt"] = 6135
+names["Thug Pants"] = 6137
+names["Recruit's Pants"] = 23478
+names["QR IC32 Leather Physical Legs3 - PH"] = 39037
+names["DB49 Mail Healer Legs2"] = 38058
+names["Tattered Cloth Pants"] = 194
+names["Dirty Leather Pants"] = 209
+names["CRobinson Plate Pants"] = 40222
+names["Apprentice's Pants"] = 1395
+names["Rugged Trapper's Pants"] = 147
+names["Primitive Kilt"] = 153
+names["Squire's Pants"] = 23477
+names["Greaves of the Titan Protectorate"] = 39440
+names["HF28 Leather Physical Legs4"] = 37316
+names["QR 10574 Leather Rogue Legs"] = 30934
+names["QR XXXX Hunter Legs"] = 25551
+names["QR 9863 Shaman Legs"] = 25572
+names["Newly Weaved Pants"] = 24444
+names["Thin Cloth Pants"] = 2120
+names["Cracked Leather Pants"] = 2126
+names["Tarnished Chain Leggings"] = 2381
+names["Rusted Chain Leggings"] = 2388
+names["Light Cloth Pants"] = 20986
+names["Webbed Pants"] = 3263
+names["Ragged Leather Pants"] = 1366
+names["Scraggy Leather Pants"] = 21013
+names["Frayed Pants"] = 1378
+names["Flimsy Chain Pants"] = 2654
+names["Unkempt Pants"] = 21006
+names["Squire's Pants"] = 6118
+names["Acolyte's Pants"] = 1396
+names["Scrapper's Pants"] = 23213
+names["Lookout's Pants"] = 20896
+names["Warder's Pants"] = 20899
+names["Recruit's Pants"] = 20902
+names["Rugged Trapper's Pants"] = 23471
+names["Recruit's Pants"] = 23474
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

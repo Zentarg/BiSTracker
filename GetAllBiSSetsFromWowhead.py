@@ -9,18 +9,27 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.service import Service as EdgeService
-from webdriver_manager.microsoft import EdgeChromiumDriverManager
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
 
-driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
+scriptName = "GetAllBiSSetsFromWowhead.py"
+driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
-SET_BASE_URL = "https://www.wowhead.com/wotlk/guide/classes/{class}/{spec}/{role}-bis-gear-"
+SET_BASE_URL = "https://www.wowhead.com/{version}/guide/classes/{class}/{spec}/{role}-bis-gear-"
 
 SET_URLS = {
-    "Pre-Raid p2": "pre-raid-pve-p2",
-    "PvE p2": "pve-phase-2",
-    "PvP s6": "pvp-arena-season-6"
+    "classic": {
+        "p4": "pve-phase-4",
+        "p4 ": "pve-phase-3" #For some reason they have both p3 and p4 urls for p4 sets
+    },
+    "wotlk": {
+        "Pre-Raid p2": "pre-raid-pve-p2",
+        "PvE p2": "pve-phase-2",
+        "PvP s6": "pvp-arena-season-6"
+    }
 }
-PLANNER_URL = "https://www.wowhead.com/wotlk/gear-planner/{setLink}"
+
+PLANNER_URL = "https://www.wowhead.com/{version}/gear-planner/{setLink}"
 
 GEAR_PLANNER_SET_START = "[center][h4]"
 GEAR_PLANNER_SET_END = "[\\\\/h4]"
@@ -34,21 +43,6 @@ GEAR_PLANNER_REGEX = re.compile('(gear-planner=).*?(?=])')
 ACTUAL_LINK = "BgFQFgBVEhUzMAMDIBAgE_MFBQUAACPwBfAfMDAxczlkMTFzOW0yMXh2NjMxdHM4NDFzeGQ1MXM4Z4FAmskA6jMAoaQgnGICAJ7ngyCaywDzsACcYoUAmeYAuxyGQJ7xANXQAJyZIJxIh0CaygDspQCceyCcYogAnycA1uiJAJ8eAPMwiiCayAD5GgCcYgsAnw4MAJjlDUCsHwCcYiCcmQ4AkWSPIKvUALo4AJyYkACZ-QDyzhIAnwo"
 
 SETS_TO_GET = [
-    {
-        "class": "death-knight",
-        "spec": "blood",
-        "role": "tank"    
-    },
-    {
-        "class": "death-knight",
-        "spec": "frost",
-        "role": "dps"    
-    },
-    {
-        "class": "death-knight",
-        "spec": "unholy",
-        "role": "tank"    
-    },
     {
         "class": "druid",
         "spec": "balance",
@@ -191,9 +185,31 @@ SETS_TO_GET = [
     },
 ]
 
+WRATH_EXTRA_SETS_TO_GET = [
+    {
+        "class": "death-knight",
+        "spec": "blood",
+        "role": "tank"    
+    },
+    {
+        "class": "death-knight",
+        "spec": "frost",
+        "role": "dps"    
+    },
+    {
+        "class": "death-knight",
+        "spec": "unholy",
+        "role": "tank"    
+    }
+]
+
 def find_gear_planner_links(pageUrl):
-    content = requests.get(pageUrl).content
-    print(pageUrl)
+    page = requests.get(pageUrl)
+    if (page.status_code == "404"):
+        print(pageUrl, "404, skipping")
+        return "404"
+    print(pageUrl, "200, continuing")
+    content = page.content
     links = []
 
     if (GEAR_PLANNER_SET_START in str(content)):
@@ -226,15 +242,18 @@ def find_gear_planner_links(pageUrl):
 
     return links
 
-def get_sets_for_spec(classString, spec, role):
+def get_sets_for_spec(classString, spec, role, version):
     sets = {}
-    for key in SET_URLS:
-        url = SET_URLS[key]
+    for key in SET_URLS[version]:
+        url = SET_URLS[version][key]
         setUrl = SET_BASE_URL + url
-        setUrl = setUrl.replace("{class}", classString).replace("{spec}", spec).replace("{role}", role)
-        for setData in find_gear_planner_links(setUrl):
+        setUrl = setUrl.replace("{class}", classString).replace("{spec}", spec).replace("{role}", role).replace("{version}", version)
+        links = find_gear_planner_links(setUrl)
+        if (links == "404"):
+            continue
+        for setData in links:
             name = setData['name']
-            gearPlannerUrl = PLANNER_URL.replace("{setLink}", setData['link'])
+            gearPlannerUrl = PLANNER_URL.replace("{setLink}", setData['link']).replace("{version}", version)
 
             driver.get(gearPlannerUrl)
             rows = driver.find_elements(By.CLASS_NAME, "listview-row")
@@ -263,7 +282,10 @@ def get_sets_for_spec(classString, spec, role):
             
             for row in rows:
                 a = row.find_element(By.TAG_NAME, "a").get_attribute("href")
-                slotName = row.find_element(By.XPATH, "td[5]").text
+                if (version == "wrath"):
+                    slotName = row.find_element(By.XPATH, "td[5]").text
+                elif (version == "classic"):
+                    slotName = row.find_element(By.XPATH, "td[4]").text
                 id = a.split("=")[1].split("/")[0]
                 
                 if (slotName == "Wrist"):
@@ -294,12 +316,12 @@ def get_sets_for_spec(classString, spec, role):
 
     return sets
         
-def get_all_sets():
+def get_all_sets(sets_to_get, version):
     allSets = {}
-    for setToGet in SETS_TO_GET:
+    for setToGet in sets_to_get:
         if not setToGet['class'] in allSets:
             allSets[setToGet['class']] = {}
-        sets = get_sets_for_spec(setToGet['class'], setToGet['spec'], setToGet['role'])
+        sets = get_sets_for_spec(setToGet['class'], setToGet['spec'], setToGet['role'], version)
         for set in sets:
             allSets[setToGet['class']][set] = sets[set]
             
@@ -329,20 +351,29 @@ def get_all_sets():
 
 def main(argv):
     outputFile = ''
-
+    version = 'wotlk'
     try:
-        opts, args = getopt.getopt(argv,"ho:",["ofile="])
+        opts, args = getopt.getopt(argv,"ho:v:",["ofile=", "version="])
     except getopt.GetoptError:
-        print(f'{scriptName} -o <outputfile>')
+        print(f'{scriptName} -o <outputfile> -v <wotlk|classic>')
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print(f'{scriptName} -o <outputfile>')
+            print(f'{scriptName} -o <outputfile> -v <wotlk|classic>')
             sys.exit()
         elif opt in ("-o", "--ofile"):
             outputFile = arg
+        elif opt in ("-v", "--version"):
+            version = arg
+        
 
-    allSetsLua = get_all_sets()
+    sets = SETS_TO_GET
+    if (version == "wotlk"):
+        sets.extend(WRATH_EXTRA_SETS_TO_GET)
+
+    print(version, sets)
+
+    allSetsLua = get_all_sets(sets, version)
 
 
     if (outputFile == ''):

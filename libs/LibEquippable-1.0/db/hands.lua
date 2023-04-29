@@ -2064,6 +2064,128 @@ items[42835] = {id=42835,name="Backhanded Grips",source={ID=13010,SourceName="Kr
 items[36150] = {id=36150,name="Pygmy Gloves",source={ID=31224,SourceName="Icefury",SourceType="Kill",DropChance="5.2",Zone="Icecrown"}}
 items[39378] = {id=39378,name="Ragged Leaf Grips",source={ID=12570,SourceName="Fortunate Misunderstandings",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[33416] = {id=33416,name="Frost-Worn Plate Gloves",source={ID=31224,SourceName="Icefury",SourceType="Kill",DropChance="5.2",Zone="Icecrown"}}
+items[44485] = {id=44485,name="Formula: Enchant Gloves - Armsman",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[38979] = {id=38979,name="Scroll of Enchant Gloves - Exceptional Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[50406] = {id=50406,name="Formula: Enchant Gloves - Angler",source={ID=26343,SourceName="Indu'le Fisherman",SourceType="Kill",DropChance="2.1",Zone="Dragonblight"}}
+items[20730] = {id=20730,name="Formula: Enchant Gloves - Healing Power",source={ID=15511,SourceName="Lord Kri",SourceType="Kill",DropChance="1.4",Zone="Ahn'Qiraj"}}
+items[44458] = {id=44458,name="Scroll of Enchant Gloves - Crusher",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37342] = {id=37342,name="Formula: Enchant Gloves - Greater Blasting",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11226] = {id=11226,name="Formula: Enchant Gloves - Riding Skill",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="5.1",Zone="Duskwood"}}
+items[38967] = {id=38967,name="Scroll of Enchant Gloves - Major Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37345] = {id=37345,name="Formula: Enchant Gloves - Greater Assault",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11205] = {id=11205,name="Formula: Enchant Gloves - Advanced Herbalism",source={ID=764,SourceName="Swampwalker",SourceType="Kill",DropChance="3.6",Zone="Swamp of Sorrows"}}
+items[51965] = {id=51965,name="Vigorous Handguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41091] = {id=41091,name="Hand-Mounted Pyro Rocket",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20727] = {id=20727,name="Formula: Enchant Gloves - Shadow Power",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="1.3",Zone="Ahn'Qiraj"}}
+items[51980] = {id=51980,name="Earthbound Handgrips",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33152] = {id=33152,name="Formula: Enchant Gloves - Superior Agility",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[51987] = {id=51987,name="Stalwart Grips",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11203] = {id=11203,name="Formula: Enchant Gloves - Advanced Mining",source={ID=674,SourceName="Venture Co. Strip Miner",SourceType="Kill",DropChance="2.7",Zone="Stranglethorn Vale"}}
+items[51960] = {id=51960,name="Vigorous Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51970] = {id=51970,name="Enumerated Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51979] = {id=51979,name="Earthbound Grips",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38953] = {id=38953,name="Scroll of Enchant Gloves - Precision",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28271] = {id=28271,name="Formula: Enchant Gloves - Precise Strikes",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[33153] = {id=33153,name="Formula: Enchant Gloves - Threat",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[50816] = {id=50816,name="Scroll of Enchant Gloves - Angler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20731] = {id=20731,name="Formula: Enchant Gloves - Superior Agility",source={ID=15299,SourceName="Viscidus",SourceType="Kill",DropChance="1.4",Zone="Ahn'Qiraj"}}
+items[11151] = {id=11151,name="Formula: Enchant Gloves - Herbalism",source={ID=4028,SourceName="Charred Ancient",SourceType="Kill",DropChance="2.7",Zone="Stonetalon Mountains"}}
+items[47103] = {id=47103,name="Rotting Handwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51973] = {id=51973,name="Enumerated Handwraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43936] = {id=43936,name="Battlesurgeon's Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28272] = {id=28272,name="Formula: Enchant Gloves - Major Spellpower",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[20728] = {id=20728,name="Formula: Enchant Gloves - Frost Power",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="1.4",Zone="Ahn'Qiraj"}}
+items[38990] = {id=38990,name="Scroll of Enchant Gloves - Armsman",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38951] = {id=38951,name="Scroll of Enchant Gloves - Expertise",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20729] = {id=20729,name="Formula: Enchant Gloves - Fire Power",source={ID=15544,SourceName="Vem",SourceType="Kill",DropChance="1.5",Zone="Ahn'Qiraj"}}
+items[38851] = {id=38851,name="Scroll of Enchant Gloves - Minor Haste",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11166] = {id=11166,name="Formula: Enchant Gloves - Skinning",source={ID=2558,SourceName="Witherbark Berserker",SourceType="Kill",DropChance="2.5",Zone="Arathi Highlands"}}
+items[11152] = {id=11152,name="Formula: Enchant Gloves - Fishing",source={ID=14276,SourceName="Scargil",SourceType="Kill",DropChance="1.8",Zone="Hillsbrad Foothills"}}
+items[30288] = {id=30288,name="Cenarion Warden's Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38933] = {id=38933,name="Scroll of Enchant Gloves - Major Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38827] = {id=38827,name="Scroll of Enchant Gloves - Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21012] = {id=21012,name="Scraggy Leather Gloves",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="1.7",Zone="Eversong Woods"}}
+items[38964] = {id=38964,name="Scroll of Enchant Gloves - Greater Assault",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38890] = {id=38890,name="Scroll of Enchant Gloves - Superior Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11150] = {id=11150,name="Formula: Enchant Gloves - Mining",source={ID=1054,SourceName="Dark Iron Demolitionist",SourceType="Kill",DropChance="2.6",Zone="Wetlands"}}
+items[35441] = {id=35441,name="Enchant Gloves - Major Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38934] = {id=38934,name="Scroll of Enchant Gloves - Assault",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16219] = {id=16219,name="Formula: Enchant Gloves - Greater Agility",source={ID=6201,SourceName="Legashi Rogue",SourceType="Kill",DropChance="1.0",Zone="Azshara"}}
+items[1377] = {id=1377,name="Frayed Gloves",source={ID=1916,SourceName="Stephen Bhartec",SourceType="Kill",DropChance="4.9",Zone="Tirisfal Glades"}}
+items[37485] = {id=37485,name="Clam Collector Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38960] = {id=38960,name="Scroll of Enchant Gloves - Gatherer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20726] = {id=20726,name="Formula: Enchant Gloves - Threat",source={ID=15275,SourceName="Emperor Vek'nilash",SourceType="Kill",DropChance="9.0",Zone="Ahn'Qiraj"}}
+items[38885] = {id=38885,name="Scroll of Enchant Gloves - Threat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35440] = {id=35440,name="Enchant Gloves - Major Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38931] = {id=38931,name="Scroll of Enchant Gloves - Blasting",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1422] = {id=1422,name="Worn Leather Gloves",source={ID=15637,SourceName="Withered Green Keeper",SourceType="Kill",DropChance="1.6",Zone="Eversong Woods"}}
+items[2119] = {id=2119,name="Thin Cloth Gloves",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2304] = {id=2304,name="Light Armor Kit",source={ID=6908,SourceName="Olaf",SourceType="Kill",DropChance="26.8",Zone="Uldaman"}}
+items[1368] = {id=1368,name="Ragged Leather Gloves",source={ID=1918,SourceName="Karrel Grayves",SourceType="Kill",DropChance="4.2",Zone="Tirisfal Glades"}}
+items[21005] = {id=21005,name="Unkempt Gloves",source={ID=15271,SourceName="Tender",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
+items[38020] = {id=38020,name="DB56 Leather Physical Gloves4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37273] = {id=37273,name="Crimson Keeper Mitts",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37455] = {id=37455,name="BT56 Mail Healer Gloves2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38936] = {id=38936,name="Scroll of Enchant Gloves - Major Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28273] = {id=28273,name="Formula: Enchant Gloves - Major Healing",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[38886] = {id=38886,name="Scroll of Enchant Gloves - Shadow Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35439] = {id=35439,name="Enchant Gloves - Blasting",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38887] = {id=38887,name="Scroll of Enchant Gloves - Frost Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38856] = {id=38856,name="Scroll of Enchant Gloves - Greater Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38800] = {id=38800,name="Scroll of Enchant Gloves - Mining",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38802] = {id=38802,name="Scroll of Enchant Gloves - Fishing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38161] = {id=38161,name="Soul-Trader's Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[42886] = {id=42886,name="Gloves of the Howling Peaks",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39813] = {id=39813,name="QR ZD25 Cloth Spell Glove2 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38017] = {id=38017,name="DB52 Leather Healer Glove",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38113] = {id=38113,name="DB42 Plate Healer Glove2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37296] = {id=37296,name="BT59 Cloth Spell Gloves4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37318] = {id=37318,name="BT55 Leather Physical Gloves4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38932] = {id=38932,name="Scroll of Enchant Gloves - Precise Strikes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38889] = {id=38889,name="Scroll of Enchant Gloves - Healing Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[187801] = {id=187801,name="Enchant Gloves - Threat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35438] = {id=35438,name="Enchant Gloves - Assault",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16244] = {id=16244,name="Formula: Enchant Gloves - Greater Strength",source={ID=9198,SourceName="Spirestone Mystic",SourceType="Kill",DropChance="6.5",Zone="Blackrock Spire"}}
+items[38850] = {id=38850,name="Scroll of Enchant Gloves - Riding Skill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38834] = {id=38834,name="Scroll of Enchant Gloves - Advanced Herbalism",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38836] = {id=38836,name="Scroll of Enchant Gloves - Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38801] = {id=38801,name="Scroll of Enchant Gloves - Herbalism",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5822] = {id=5822,name="Hedgeseed Gauntlets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28145] = {id=28145,name="Tranquillien Wraps",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[711] = {id=711,name="Tattered Cloth Gloves",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[714] = {id=714,name="Dirty Leather Gloves",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[20987] = {id=20987,name="Light Cloth Gloves",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[21018] = {id=21018,name="Shoddy Chain Gloves",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="1.0",Zone="Eversong Woods"}}
+items[29867] = {id=29867,name="QAEnchant Gloves +15 Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29868] = {id=29868,name="QAEnchant Gloves +26 Attack Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29863] = {id=29863,name="QAEnchant Gloves +20 Spell Damage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37286] = {id=37286,name="BT57 Cloth Healer Glove2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38985] = {id=38985,name="Scroll of Enchant Gloves - Greater Blasting",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35442] = {id=35442,name="Enchant Gloves - Major Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[187739] = {id=187739,name="Enchant Gloves - Superior Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38831] = {id=38831,name="Scroll of Enchant Gloves - Advanced Mining",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29864] = {id=29864,name="QAEnchant Gloves +15 Spell Hit Rating",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39106] = {id=39106,name="QR IC36 Plate Healer Glove - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39410] = {id=39410,name="Gauntlets of Rampant Destruction",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37324] = {id=37324,name="BT47 Leather Physical Gloves3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30963] = {id=30963,name="QR 10574 Plate Warrior Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25581] = {id=25581,name="QR 9867 Hunter Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38935] = {id=38935,name="Scroll of Enchant Gloves - Major Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35443] = {id=35443,name="Enchant Gloves - Spell Strike",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38888] = {id=38888,name="Scroll of Enchant Gloves - Fire Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38857] = {id=38857,name="Scroll of Enchant Gloves - Greater Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38823] = {id=38823,name="Scroll of Enchant Gloves - Skinning",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2125] = {id=2125,name="Cracked Leather Gloves",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[20917] = {id=20917,name="Unadorned Chain Gloves",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[20923] = {id=20923,name="Sun Cured Gloves",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[2385] = {id=2385,name="Tarnished Chain Gloves",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[2391] = {id=2391,name="Rusted Chain Gloves",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[2653] = {id=2653,name="Flimsy Chain Gloves",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="4.3",Zone="Azuremyst Isle"}}
+items[29866] = {id=29866,name="QAEnchant Gloves +10 Spell Crit Rating",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29862] = {id=29862,name="QAEnchant Gloves +35 Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40224] = {id=40224,name="CRobinson Plate Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40231] = {id=40231,name="CRobinson Leather Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14387] = {id=14387,name="Durability Gloves",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Jutebraid Gloves"] = 10654
 names["Gloves of the Fang"] = 10413
@@ -4121,6 +4243,128 @@ names["Backhanded Grips"] = 42835
 names["Pygmy Gloves"] = 36150
 names["Ragged Leaf Grips"] = 39378
 names["Frost-Worn Plate Gloves"] = 33416
+names["Formula: Enchant Gloves - Armsman"] = 44485
+names["Scroll of Enchant Gloves - Exceptional Spellpower"] = 38979
+names["Formula: Enchant Gloves - Angler"] = 50406
+names["Formula: Enchant Gloves - Healing Power"] = 20730
+names["Scroll of Enchant Gloves - Crusher"] = 44458
+names["Formula: Enchant Gloves - Greater Blasting"] = 37342
+names["Formula: Enchant Gloves - Riding Skill"] = 11226
+names["Scroll of Enchant Gloves - Major Agility"] = 38967
+names["Formula: Enchant Gloves - Greater Assault"] = 37345
+names["Formula: Enchant Gloves - Advanced Herbalism"] = 11205
+names["Vigorous Handguards"] = 51965
+names["Hand-Mounted Pyro Rocket"] = 41091
+names["Formula: Enchant Gloves - Shadow Power"] = 20727
+names["Earthbound Handgrips"] = 51980
+names["Formula: Enchant Gloves - Superior Agility"] = 33152
+names["Stalwart Grips"] = 51987
+names["Formula: Enchant Gloves - Advanced Mining"] = 11203
+names["Vigorous Gloves"] = 51960
+names["Enumerated Gloves"] = 51970
+names["Earthbound Grips"] = 51979
+names["Scroll of Enchant Gloves - Precision"] = 38953
+names["Formula: Enchant Gloves - Precise Strikes"] = 28271
+names["Formula: Enchant Gloves - Threat"] = 33153
+names["Scroll of Enchant Gloves - Angler"] = 50816
+names["Formula: Enchant Gloves - Superior Agility"] = 20731
+names["Formula: Enchant Gloves - Herbalism"] = 11151
+names["Rotting Handwraps"] = 47103
+names["Enumerated Handwraps"] = 51973
+names["Battlesurgeon's Gauntlets"] = 43936
+names["Formula: Enchant Gloves - Major Spellpower"] = 28272
+names["Formula: Enchant Gloves - Frost Power"] = 20728
+names["Scroll of Enchant Gloves - Armsman"] = 38990
+names["Scroll of Enchant Gloves - Expertise"] = 38951
+names["Formula: Enchant Gloves - Fire Power"] = 20729
+names["Scroll of Enchant Gloves - Minor Haste"] = 38851
+names["Formula: Enchant Gloves - Skinning"] = 11166
+names["Formula: Enchant Gloves - Fishing"] = 11152
+names["Cenarion Warden's Gloves"] = 30288
+names["Scroll of Enchant Gloves - Major Strength"] = 38933
+names["Scroll of Enchant Gloves - Agility"] = 38827
+names["Scraggy Leather Gloves"] = 21012
+names["Scroll of Enchant Gloves - Greater Assault"] = 38964
+names["Scroll of Enchant Gloves - Superior Agility"] = 38890
+names["Formula: Enchant Gloves - Mining"] = 11150
+names["Enchant Gloves - Major Spellpower"] = 35441
+names["Scroll of Enchant Gloves - Assault"] = 38934
+names["Formula: Enchant Gloves - Greater Agility"] = 16219
+names["Frayed Gloves"] = 1377
+names["Clam Collector Gauntlets"] = 37485
+names["Scroll of Enchant Gloves - Gatherer"] = 38960
+names["Formula: Enchant Gloves - Threat"] = 20726
+names["Scroll of Enchant Gloves - Threat"] = 38885
+names["Enchant Gloves - Major Healing"] = 35440
+names["Scroll of Enchant Gloves - Blasting"] = 38931
+names["Worn Leather Gloves"] = 1422
+names["Thin Cloth Gloves"] = 2119
+names["Light Armor Kit"] = 2304
+names["Ragged Leather Gloves"] = 1368
+names["Unkempt Gloves"] = 21005
+names["DB56 Leather Physical Gloves4"] = 38020
+names["Crimson Keeper Mitts"] = 37273
+names["BT56 Mail Healer Gloves2"] = 37455
+names["Scroll of Enchant Gloves - Major Healing"] = 38936
+names["Formula: Enchant Gloves - Major Healing"] = 28273
+names["Scroll of Enchant Gloves - Shadow Power"] = 38886
+names["Enchant Gloves - Blasting"] = 35439
+names["Scroll of Enchant Gloves - Frost Power"] = 38887
+names["Scroll of Enchant Gloves - Greater Agility"] = 38856
+names["Scroll of Enchant Gloves - Mining"] = 38800
+names["Scroll of Enchant Gloves - Fishing"] = 38802
+names["Soul-Trader's Gloves"] = 38161
+names["Gloves of the Howling Peaks"] = 42886
+names["QR ZD25 Cloth Spell Glove2 - PH"] = 39813
+names["DB52 Leather Healer Glove"] = 38017
+names["DB42 Plate Healer Glove2"] = 38113
+names["BT59 Cloth Spell Gloves4"] = 37296
+names["BT55 Leather Physical Gloves4"] = 37318
+names["Scroll of Enchant Gloves - Precise Strikes"] = 38932
+names["Scroll of Enchant Gloves - Healing Power"] = 38889
+names["Enchant Gloves - Threat"] = 187801
+names["Enchant Gloves - Assault"] = 35438
+names["Formula: Enchant Gloves - Greater Strength"] = 16244
+names["Scroll of Enchant Gloves - Riding Skill"] = 38850
+names["Scroll of Enchant Gloves - Advanced Herbalism"] = 38834
+names["Scroll of Enchant Gloves - Strength"] = 38836
+names["Scroll of Enchant Gloves - Herbalism"] = 38801
+names["Hedgeseed Gauntlets"] = 5822
+names["Tranquillien Wraps"] = 28145
+names["Tattered Cloth Gloves"] = 711
+names["Dirty Leather Gloves"] = 714
+names["Light Cloth Gloves"] = 20987
+names["Shoddy Chain Gloves"] = 21018
+names["QAEnchant Gloves +15 Strength"] = 29867
+names["QAEnchant Gloves +26 Attack Power"] = 29868
+names["QAEnchant Gloves +20 Spell Damage"] = 29863
+names["BT57 Cloth Healer Glove2"] = 37286
+names["Scroll of Enchant Gloves - Greater Blasting"] = 38985
+names["Enchant Gloves - Major Strength"] = 35442
+names["Enchant Gloves - Superior Agility"] = 187739
+names["Scroll of Enchant Gloves - Advanced Mining"] = 38831
+names["QAEnchant Gloves +15 Spell Hit Rating"] = 29864
+names["QR IC36 Plate Healer Glove - PH"] = 39106
+names["Gauntlets of Rampant Destruction"] = 39410
+names["BT47 Leather Physical Gloves3"] = 37324
+names["QR 10574 Plate Warrior Gloves"] = 30963
+names["QR 9867 Hunter Gloves"] = 25581
+names["Scroll of Enchant Gloves - Major Spellpower"] = 38935
+names["Enchant Gloves - Spell Strike"] = 35443
+names["Scroll of Enchant Gloves - Fire Power"] = 38888
+names["Scroll of Enchant Gloves - Greater Strength"] = 38857
+names["Scroll of Enchant Gloves - Skinning"] = 38823
+names["Cracked Leather Gloves"] = 2125
+names["Unadorned Chain Gloves"] = 20917
+names["Sun Cured Gloves"] = 20923
+names["Tarnished Chain Gloves"] = 2385
+names["Rusted Chain Gloves"] = 2391
+names["Flimsy Chain Gloves"] = 2653
+names["QAEnchant Gloves +10 Spell Crit Rating"] = 29866
+names["QAEnchant Gloves +35 Healing"] = 29862
+names["CRobinson Plate Gloves"] = 40224
+names["CRobinson Leather Gloves"] = 40231
+names["Durability Gloves"] = 14387
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

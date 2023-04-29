@@ -639,6 +639,86 @@ items[42133] = {id=42133,name="Battlemaster's Fury",source={ID=0,SourceName="",S
 items[47949] = {id=47949,name="Fervor of the Frostborn",source={ID=34445,SourceName="Liandra Suncaller",SourceType="Kill",DropChance="8.3",Zone="Trial of the Crusader"}}
 items[43837] = {id=43837,name="Softly Glowing Orb",source={ID=12898,SourceName="The Shadow Vault",SourceType="Quest",DropChance="0",Zone="Icecrown"}}
 items[46840] = {id=46840,name="Frostwolf Insignia Rank 7",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19024] = {id=19024,name="Arena Grand Master",source={ID=7838,SourceName="Arena Grandmaster",SourceType="Quest",DropChance="0",Zone="WotLK"}}
+items[4397] = {id=4397,name="Gnomish Cloaking Device",source={ID=3971,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[41121] = {id=41121,name="Gnomish Lightning Generator",source={ID=56469,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[40767] = {id=40767,name="Sonic Booster",source={ID=56466,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[49487] = {id=49487,name="Purified Onyxia Blood Talisman",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43555] = {id=43555,name="Deputy Pa'trolla Badge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10725] = {id=10725,name="Gnomish Battle Chicken",source={ID=12906,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[40865] = {id=40865,name="Noise Machine",source={ID=56467,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[49312] = {id=49312,name="Purified Onyxia Blood Talisman",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23835] = {id=23835,name="Gnomish Poultryizer",source={ID=30569,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23836] = {id=23836,name="Goblin Rocket Launcher",source={ID=30563,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[13503] = {id=13503,name="Alchemist's Stone",source={ID=17632,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23716] = {id=23716,name="Carved Ogre Idol",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35750] = {id=35750,name="Redeemer's Alchemist Stone",source={ID=47049,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10720] = {id=10720,name="Gnomish Net-o-Matic Projector",source={ID=12902,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10716] = {id=10716,name="Gnomish Shrink Ray",source={ID=12899,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4381] = {id=4381,name="Minor Recombobulator",source={ID=3952,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10645] = {id=10645,name="Gnomish Death Ray",source={ID=12759,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18858] = {id=18858,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[25994] = {id=25994,name="Rune of Force",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18834] = {id=18834,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[32492] = {id=32492,name="Ashtongue Talisman of Lethality",source={ID=23159,SourceName="Okuno",SourceType="Purchase",DropChance="100",Zone="Black Temple"}}
+items[20084] = {id=20084,name="Hunting Net",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10418] = {id=10418,name="Glimmering Mithril Insignia",source={ID=3321,SourceName="Did You Lose This?",SourceType="Quest",DropChance="0",Zone="WotLK"}}
+items[23714] = {id=23714,name="Perpetual Purple Firework",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18845] = {id=18845,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[10577] = {id=10577,name="Goblin Mortar",source={ID=12716,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[8703] = {id=8703,name="Signet of Expertise",source={ID=2765,SourceName="Expert Blacksmith!",SourceType="Quest",DropChance="0",Zone="WotLK"}}
+items[8663] = {id=8663,name="Mithril Insignia",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7506] = {id=7506,name="Gnomish Universal Remote",source={ID=9269,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[37561] = {id=37561,name="Touch of the Elements",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18849] = {id=18849,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[18854] = {id=18854,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[38079] = {id=38079,name="DB52 Physical Trinket6",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32493] = {id=32493,name="Ashtongue Talisman of Shadows",source={ID=23159,SourceName="Okuno",SourceType="Purchase",DropChance="100",Zone="Black Temple"}}
+items[34626] = {id=34626,name="Prototype Tonk Controller",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28798] = {id=28798,name="Badge of the Protector",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12805] = {id=12805,name="Orb of Fire",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10723] = {id=10723,name="Gnomish Ham Radio",source={ID=12904,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38078] = {id=38078,name="DB26 Physical Trinket3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32488] = {id=32488,name="Ashtongue Talisman of Insight",source={ID=23159,SourceName="Okuno",SourceType="Purchase",DropChance="100",Zone="Black Temple"}}
+items[35748] = {id=35748,name="Guardian's Alchemist Stone",source={ID=47046,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35751] = {id=35751,name="Assassin's Alchemist Stone",source={ID=47050,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[18850] = {id=18850,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[18851] = {id=18851,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[29592] = {id=29592,name="Insignia of the Horde",source={ID=12793,SourceName="Brave Stonehide",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[18852] = {id=18852,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[29593] = {id=29593,name="Insignia of the Alliance",source={ID=12781,SourceName="Master Sergeant Biggins",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[20525] = {id=20525,name="Earthen Sigil",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10587] = {id=10587,name="Goblin Bomb Dispenser",source={ID=12755,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[39819] = {id=39819,name="Bloodbinder's Runestone",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38526] = {id=38526,name="Binding of the Imprisoned Soul",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32491] = {id=32491,name="Ashtongue Talisman of Vision",source={ID=23159,SourceName="Okuno",SourceType="Purchase",DropChance="100",Zone="Black Temple"}}
+items[32489] = {id=32489,name="Ashtongue Talisman of Zeal",source={ID=23159,SourceName="Okuno",SourceType="Purchase",DropChance="100",Zone="Black Temple"}}
+items[18863] = {id=18863,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[18857] = {id=18857,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[38074] = {id=38074,name="DB59 Healer Trinket2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38076] = {id=38076,name="DB59 Physical Trinket5",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38077] = {id=38077,name="DB22 Spell Trinket2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38383] = {id=38383,name="Valonforth's Folly",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32486] = {id=32486,name="Ashtongue Talisman of Equilibrium",source={ID=23159,SourceName="Okuno",SourceType="Purchase",DropChance="100",Zone="Black Temple"}}
+items[32487] = {id=32487,name="Ashtongue Talisman of Swiftness",source={ID=23159,SourceName="Okuno",SourceType="Purchase",DropChance="100",Zone="Black Temple"}}
+items[37563] = {id=37563,name="BT57 Spell Trinket4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37578] = {id=37578,name="BT52 Spell Trinket3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35749] = {id=35749,name="Sorcerer's Alchemist Stone",source={ID=47048,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[25995] = {id=25995,name="Star of Sha'naar",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18846] = {id=18846,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[18864] = {id=18864,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[18853] = {id=18853,name="Insignia of the Horde",source={ID=12799,SourceName="Sergeant Ba'sha",SourceType="Purchase",DropChance="100",Zone="Orgrimmar"}}
+items[18856] = {id=18856,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[18859] = {id=18859,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[18637] = {id=18637,name="Major Recombobulator",source={ID=23079,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10727] = {id=10727,name="Goblin Dragon Gun",source={ID=12908,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10585] = {id=10585,name="Goblin Radio",source={ID=12722,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33046] = {id=33046,name="Insignia of PvP Pwn",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32490] = {id=32490,name="Ashtongue Talisman of Acumen",source={ID=23159,SourceName="Okuno",SourceType="Purchase",DropChance="100",Zone="Black Temple"}}
+items[25996] = {id=25996,name="Emblem of Perseverance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38075] = {id=38075,name="DB59 Spell Trinket3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32485] = {id=32485,name="Ashtongue Talisman of Valor",source={ID=23159,SourceName="Okuno",SourceType="Purchase",DropChance="100",Zone="Black Temple"}}
+items[18862] = {id=18862,name="Insignia of the Alliance",source={ID=12805,SourceName="Officer Areyn",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
 
 names["Hook of the Master Angler"] = 19979
 names["Rune of Duty"] = 21568
@@ -1271,6 +1351,86 @@ names["Battlemaster's Fury"] = 42133
 names["Fervor of the Frostborn"] = 47949
 names["Softly Glowing Orb"] = 43837
 names["Frostwolf Insignia Rank 7"] = 46840
+names["Arena Grand Master"] = 19024
+names["Gnomish Cloaking Device"] = 4397
+names["Gnomish Lightning Generator"] = 41121
+names["Sonic Booster"] = 40767
+names["Purified Onyxia Blood Talisman"] = 49487
+names["Deputy Pa'trolla Badge"] = 43555
+names["Gnomish Battle Chicken"] = 10725
+names["Noise Machine"] = 40865
+names["Purified Onyxia Blood Talisman"] = 49312
+names["Gnomish Poultryizer"] = 23835
+names["Goblin Rocket Launcher"] = 23836
+names["Alchemist's Stone"] = 13503
+names["Carved Ogre Idol"] = 23716
+names["Redeemer's Alchemist Stone"] = 35750
+names["Gnomish Net-o-Matic Projector"] = 10720
+names["Gnomish Shrink Ray"] = 10716
+names["Minor Recombobulator"] = 4381
+names["Gnomish Death Ray"] = 10645
+names["Insignia of the Alliance"] = 18858
+names["Rune of Force"] = 25994
+names["Insignia of the Horde"] = 18834
+names["Ashtongue Talisman of Lethality"] = 32492
+names["Hunting Net"] = 20084
+names["Glimmering Mithril Insignia"] = 10418
+names["Perpetual Purple Firework"] = 23714
+names["Insignia of the Horde"] = 18845
+names["Goblin Mortar"] = 10577
+names["Signet of Expertise"] = 8703
+names["Mithril Insignia"] = 8663
+names["Gnomish Universal Remote"] = 7506
+names["Touch of the Elements"] = 37561
+names["Insignia of the Horde"] = 18849
+names["Insignia of the Alliance"] = 18854
+names["DB52 Physical Trinket6"] = 38079
+names["Ashtongue Talisman of Shadows"] = 32493
+names["Prototype Tonk Controller"] = 34626
+names["Badge of the Protector"] = 28798
+names["Orb of Fire"] = 12805
+names["Gnomish Ham Radio"] = 10723
+names["DB26 Physical Trinket3"] = 38078
+names["Ashtongue Talisman of Insight"] = 32488
+names["Guardian's Alchemist Stone"] = 35748
+names["Assassin's Alchemist Stone"] = 35751
+names["Insignia of the Horde"] = 18850
+names["Insignia of the Horde"] = 18851
+names["Insignia of the Horde"] = 29592
+names["Insignia of the Horde"] = 18852
+names["Insignia of the Alliance"] = 29593
+names["Earthen Sigil"] = 20525
+names["Goblin Bomb Dispenser"] = 10587
+names["Bloodbinder's Runestone"] = 39819
+names["Binding of the Imprisoned Soul"] = 38526
+names["Ashtongue Talisman of Vision"] = 32491
+names["Ashtongue Talisman of Zeal"] = 32489
+names["Insignia of the Alliance"] = 18863
+names["Insignia of the Alliance"] = 18857
+names["DB59 Healer Trinket2"] = 38074
+names["DB59 Physical Trinket5"] = 38076
+names["DB22 Spell Trinket2"] = 38077
+names["Valonforth's Folly"] = 38383
+names["Ashtongue Talisman of Equilibrium"] = 32486
+names["Ashtongue Talisman of Swiftness"] = 32487
+names["BT57 Spell Trinket4"] = 37563
+names["BT52 Spell Trinket3"] = 37578
+names["Sorcerer's Alchemist Stone"] = 35749
+names["Star of Sha'naar"] = 25995
+names["Insignia of the Horde"] = 18846
+names["Insignia of the Alliance"] = 18864
+names["Insignia of the Horde"] = 18853
+names["Insignia of the Alliance"] = 18856
+names["Insignia of the Alliance"] = 18859
+names["Major Recombobulator"] = 18637
+names["Goblin Dragon Gun"] = 10727
+names["Goblin Radio"] = 10585
+names["Insignia of PvP Pwn"] = 33046
+names["Ashtongue Talisman of Acumen"] = 32490
+names["Emblem of Perseverance"] = 25996
+names["DB59 Spell Trinket3"] = 38075
+names["Ashtongue Talisman of Valor"] = 32485
+names["Insignia of the Alliance"] = 18862
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

@@ -1046,6 +1046,57 @@ items[42845] = {id=42845,name="Brunnhildar Runed Ring",source={ID=12900,SourceNa
 items[42812] = {id=42812,name="Commemorative K3 Expedition Ring",source={ID=12820,SourceName="A Delicate Touch",SourceType="Quest",DropChance="0",Zone="The Storm Peaks"}}
 items[39474] = {id=39474,name="Ring of Devoted Promises",source={ID=12624,SourceName="It Could Be Anywhere!",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[39481] = {id=39481,name="Signet of the Avenging Heart",source={ID=12611,SourceName="Returned Sevenfold",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
+items[52572] = {id=52572,name="Ashen Band of Endless Might",source={ID=24844,SourceName="A Change of Heart",SourceType="Quest",DropChance="0",Zone="WotLK Icecrown Citadel"}}
+items[52569] = {id=52569,name="Ashen Band of Might",source={ID=24815,SourceName="Choose Your Path",SourceType="Quest",DropChance="0",Zone="WotLK Icecrown Citadel"}}
+items[51992] = {id=51992,name="Tumultuous Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[52570] = {id=52570,name="Ashen Band of Greater Might",source={ID=24836,SourceName="A Change of Heart",SourceType="Quest",DropChance="0",Zone="WotLK Icecrown Citadel"}}
+items[49486] = {id=49486,name="Polished Dragonslayer's Signet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[52571] = {id=52571,name="Ashen Band of Unmatched Might",source={ID=24840,SourceName="A Change of Heart",SourceType="Quest",DropChance="0",Zone="WotLK Icecrown Citadel"}}
+items[49313] = {id=49313,name="Polished Dragonslayer's Signet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51991] = {id=51991,name="Turbulent Signet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22535] = {id=22535,name="Formula: Enchant Ring - Striking",source={ID=17518,SourceName="Ythyar",SourceType="Purchase",DropChance="100",Zone="Karazhan"}}
+items[9362] = {id=9362,name="Brilliant Gold Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38091] = {id=38091,name="Gold Eternium Band",source={ID=18756,SourceName="Haris Pilton",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35446] = {id=35446,name="Enchant Ring - Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34826] = {id=34826,name="Gold Wedding Band",source={ID=34863,SourceName="Bag of Fishing Treasures",SourceType="Container",DropChance="0.9",Zone="Unknown"}}
+items[37934] = {id=37934,name="Noble's Elementium Signet",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[4988] = {id=4988,name="Burning Obsidian Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33104] = {id=33104,name="Ring of Skill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28044] = {id=28044,name="Band of the Demon Stalker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7337] = {id=7337,name="The Rock",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[38090] = {id=38090,name="Sapphire Pinky Ring",source={ID=18756,SourceName="Haris Pilton",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[40687] = {id=40687,name="Flores' Lost Seal of Approval",source={ID=28086,SourceName="Sapphire Hive Wasp",SourceType="Kill",DropChance="0",Zone="Sholazar Basin"}}
+items[23717] = {id=23717,name="Pitted Gold Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38067] = {id=38067,name="DB14 Physical Ring2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25991] = {id=25991,name="Seamless Stone Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7340] = {id=7340,name="Flawless Diamond Solitaire",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[7341] = {id=7341,name="Cubic Zirconia Ring",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[7338] = {id=7338,name="Mood Ring",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[37952] = {id=37952,name="DB22 Healer Ring2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25990] = {id=25990,name="Smooth Soapstone Band",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10780] = {id=10780,name="Mark of Hakkar",source={ID=10773,SourceName="Hakkari Urn",SourceType="Container",DropChance="98.0",Zone="Unknown"}}
+items[7339] = {id=7339,name="Miniscule Diamond Ring",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[37967] = {id=37967,name="DB42 Spell Ring4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37533] = {id=37533,name="BT52 Physical Ring5",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[186683] = {id=186683,name="Formula: Enchant Ring - Stats",source={ID=19932,SourceName="Andormu",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[22537] = {id=22537,name="Formula: Enchant Ring - Healing Power",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35445] = {id=35445,name="Enchant Ring - Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30195] = {id=30195,name="QAEnchant Ring +20 Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33855] = {id=33855,name="Tarnished Silver Ring",source={ID=33857,SourceName="Crate of Meat",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[30193] = {id=30193,name="QAEnchant Ring +12 Spell Damage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38009] = {id=38009,name="DB42 Physical Ring4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22536] = {id=22536,name="Formula: Enchant Ring - Spellpower",source={ID=21643,SourceName="Alurmi",SourceType="Purchase",DropChance="100",Zone="Tanaris"}}
+items[7342] = {id=7342,name="Silver Piffeny Band",source={ID=2849,SourceName="Qixdi Goodstitch",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[41756] = {id=41756,name="Heart's Blood Signet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37532] = {id=37532,name="BT49 Spell Ring4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37531] = {id=37531,name="Circle of Frigid Wind",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31730] = {id=31730,name="Heirloom Signet of Convalescence",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25988] = {id=25988,name="Glowing Alabaster Ring",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22538] = {id=22538,name="Formula: Enchant Ring - Stats",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[35444] = {id=35444,name="Enchant Ring - Healing Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35447] = {id=35447,name="Enchant Ring - Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17000] = {id=17000,name="Band of the Wraith",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30197] = {id=30197,name="QAEnchant Ring +4 Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["The 1 Ring"] = 8350
 names["Seal of Wrynn"] = 2933
@@ -2085,6 +2136,57 @@ names["Brunnhildar Runed Ring"] = 42845
 names["Commemorative K3 Expedition Ring"] = 42812
 names["Ring of Devoted Promises"] = 39474
 names["Signet of the Avenging Heart"] = 39481
+names["Ashen Band of Endless Might"] = 52572
+names["Ashen Band of Might"] = 52569
+names["Tumultuous Ring"] = 51992
+names["Ashen Band of Greater Might"] = 52570
+names["Polished Dragonslayer's Signet"] = 49486
+names["Ashen Band of Unmatched Might"] = 52571
+names["Polished Dragonslayer's Signet"] = 49313
+names["Turbulent Signet"] = 51991
+names["Formula: Enchant Ring - Striking"] = 22535
+names["Brilliant Gold Ring"] = 9362
+names["Gold Eternium Band"] = 38091
+names["Enchant Ring - Stats"] = 35446
+names["Gold Wedding Band"] = 34826
+names["Noble's Elementium Signet"] = 37934
+names["Burning Obsidian Band"] = 4988
+names["Ring of Skill"] = 33104
+names["Band of the Demon Stalker"] = 28044
+names["The Rock"] = 7337
+names["Sapphire Pinky Ring"] = 38090
+names["Flores' Lost Seal of Approval"] = 40687
+names["Pitted Gold Band"] = 23717
+names["DB14 Physical Ring2"] = 38067
+names["Seamless Stone Band"] = 25991
+names["Flawless Diamond Solitaire"] = 7340
+names["Cubic Zirconia Ring"] = 7341
+names["Mood Ring"] = 7338
+names["DB22 Healer Ring2"] = 37952
+names["Smooth Soapstone Band"] = 25990
+names["Mark of Hakkar"] = 10780
+names["Miniscule Diamond Ring"] = 7339
+names["DB42 Spell Ring4"] = 37967
+names["BT52 Physical Ring5"] = 37533
+names["Formula: Enchant Ring - Stats"] = 186683
+names["Formula: Enchant Ring - Healing Power"] = 22537
+names["Enchant Ring - Spellpower"] = 35445
+names["QAEnchant Ring +20 Healing"] = 30195
+names["Tarnished Silver Ring"] = 33855
+names["QAEnchant Ring +12 Spell Damage"] = 30193
+names["DB42 Physical Ring4"] = 38009
+names["Formula: Enchant Ring - Spellpower"] = 22536
+names["Silver Piffeny Band"] = 7342
+names["Heart's Blood Signet"] = 41756
+names["BT49 Spell Ring4"] = 37532
+names["Circle of Frigid Wind"] = 37531
+names["Heirloom Signet of Convalescence"] = 31730
+names["Glowing Alabaster Ring"] = 25988
+names["Formula: Enchant Ring - Stats"] = 22538
+names["Enchant Ring - Healing Power"] = 35444
+names["Enchant Ring - Striking"] = 35447
+names["Band of the Wraith"] = 17000
+names["QAEnchant Ring +4 Stats"] = 30197
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

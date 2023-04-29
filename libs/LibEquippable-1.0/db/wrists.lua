@@ -1473,6 +1473,143 @@ items[42865] = {id=42865,name="Frost Hardened Bracers",source={ID=12886,SourceNa
 items[36370] = {id=36370,name="Magnataur Bracers",source={ID=30482,SourceName="Wrathstrike Gargoyle",SourceType="Kill",DropChance="0.7",Zone="Icecrown"}}
 items[39373] = {id=39373,name="Bracers of Rapid Death",source={ID=12592,SourceName="The Great Hunter's Challenge",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[33400] = {id=33400,name="Frigid Mail Bracers",source={ID=31225,SourceName="Plaguehoof",SourceType="Kill",DropChance="4.1",Zone="Icecrown"}}
+items[11225] = {id=11225,name="Formula: Enchant Bracer - Greater Stamina",source={ID=11346,SourceName="Hakkari Oracle",SourceType="Kill",DropChance="0.2",Zone="Stranglethorn Vale"}}
+items[11101] = {id=11101,name="Formula: Enchant Bracer - Lesser Strength",source={ID=3954,SourceName="Dalria",SourceType="Purchase",DropChance="100",Zone="Ashenvale"}}
+items[44498] = {id=44498,name="Formula: Enchant Bracer - Superior Spellpower",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44944] = {id=44944,name="Formula: Enchant Bracer - Major Stamina",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44484] = {id=44484,name="Formula: Enchant Bracers - Greater Assault",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44470] = {id=44470,name="Scroll of Enchant Bracer - Superior Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22530] = {id=22530,name="Formula: Enchant Bracer - Major Defense",source={ID=22822,SourceName="Ethereum Nullifier",SourceType="Kill",DropChance="1.9",Zone="Netherstorm"}}
+items[49916] = {id=49916,name="Lovely Charm Bracelet",source={ID=69531,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[37346] = {id=37346,name="Formula: Enchant Bracer - Expertise",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44947] = {id=44947,name="Scroll of Enchant Bracer - Major Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44815] = {id=44815,name="Scroll of Enchant Bracers - Greater Assault",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37326] = {id=37326,name="Formula: Enchant Bracers - Major Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37337] = {id=37337,name="Formula: Enchant Bracer - Greater Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34828] = {id=34828,name="Antique Silver Cufflinks",source={ID=34863,SourceName="Bag of Fishing Treasures",SourceType="Container",DropChance="1.0",Zone="Unknown"}}
+items[44559] = {id=44559,name="Pattern: Fur Lining - Fire Resist",source={ID=30921,SourceName="Skeletal Runesmith",SourceType="Kill",DropChance="0.4",Zone="Icecrown"}}
+items[44561] = {id=44561,name="Pattern: Fur Lining - Shadow Resist",source={ID=32349,SourceName="Cultist Shard Watcher",SourceType="Kill",DropChance="0.5",Zone="Icecrown"}}
+items[44563] = {id=44563,name="Pattern: Fur Lining - Arcane Resist",source={ID=32297,SourceName="Cult Researcher",SourceType="Kill",DropChance="0.1",Zone="Icecrown"}}
+items[16251] = {id=16251,name="Formula: Enchant Bracer - Superior Stamina",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="3.9",Zone="Duskwood"}}
+items[16246] = {id=16246,name="Formula: Enchant Bracer - Superior Strength",source={ID=7372,SourceName="Deadwind Warlock",SourceType="Kill",DropChance="1.4",Zone="Deadwind Pass"}}
+items[51962] = {id=51962,name="Vigorous Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44560] = {id=44560,name="Pattern: Fur Lining - Frost Resist",source={ID=32289,SourceName="Damned Apothecary",SourceType="Kill",DropChance="0.2",Zone="Icecrown"}}
+items[44562] = {id=44562,name="Pattern: Fur Lining - Nature Resist",source={ID=32290,SourceName="Cult Alchemist",SourceType="Kill",DropChance="0.2",Zone="Icecrown"}}
+items[51972] = {id=51972,name="Enumerated Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51989] = {id=51989,name="Stalwart Bands",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43097] = {id=43097,name="Fur Lining - Attack Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51981] = {id=51981,name="Earthbound Wristguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38817] = {id=38817,name="Scroll of Enchant Bracer - Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19447] = {id=19447,name="Formula: Enchant Bracer - Healing Power",source={ID=10856,SourceName="Argent Quartermaster Hasana",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[43848] = {id=43848,name="Bracers of Icy Resolve",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38987] = {id=38987,name="Scroll of Enchant Bracers - Greater Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6347] = {id=6347,name="Formula: Enchant Bracer - Minor Strength",source={ID=1726,SourceName="Defias Magician",SourceType="Kill",DropChance="0.4",Zone="Unknown"}}
+items[38898] = {id=38898,name="Scroll of Enchant Bracer - Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38937] = {id=38937,name="Scroll of Enchant Bracer - Major Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16218] = {id=16218,name="Formula: Enchant Bracer - Superior Spirit",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="7.3",Zone="Searing Gorge"}}
+items[38853] = {id=38853,name="Scroll of Enchant Bracer - Superior Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38997] = {id=38997,name="Scroll of Enchant Bracers - Greater Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22534] = {id=22534,name="Formula: Enchant Bracer - Spellpower",source={ID=19952,SourceName="Bloodmaul Geomancer",SourceType="Kill",DropChance="3.1",Zone="Blade's Edge Mountains"}}
+items[38971] = {id=38971,name="Scroll of Enchant Bracers - Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6375] = {id=6375,name="Formula: Enchant Bracer - Lesser Spirit",source={ID=11714,SourceName="Marosh the Devious",SourceType="Kill",DropChance="0.3",Zone="Darkshore"}}
+items[22533] = {id=22533,name="Formula: Enchant Bracer - Fortitude",source={ID=17803,SourceName="Coilfang Oracle",SourceType="Kill",DropChance="2.4",Zone="The Steamvault"}}
+items[38852] = {id=38852,name="Scroll of Enchant Bracer - Greater Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11204] = {id=11204,name="Formula: Enchant Bracer - Greater Spirit",source={ID=28822,SourceName="Scarlet Miner",SourceType="Kill",DropChance="0.1",Zone="Plaguelands: The Scarlet Enclave"}}
+items[26029] = {id=26029,name="Watchman's Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38968] = {id=38968,name="Scroll of Enchant Bracers - Exceptional Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38809] = {id=38809,name="Scroll of Enchant Bracer - Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4990] = {id=4990,name="Scorched Bands",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35427] = {id=35427,name="Enchant Bracer - Superior Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22532] = {id=22532,name="Formula: Enchant Bracer - Restore Mana Prime",source={ID=11980,SourceName="Zuluhed the Whacked",SourceType="Kill",DropChance="0.1",Zone="Shadowmoon Valley"}}
+items[38855] = {id=38855,name="Scroll of Enchant Bracer - Superior Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16214] = {id=16214,name="Formula: Enchant Bracer - Greater Intellect",source={ID=2642,SourceName="Vilebranch Shadowcaster",SourceType="Kill",DropChance="1.2",Zone="The Hinterlands"}}
+items[11223] = {id=11223,name="Formula: Enchant Bracer - Deflection",source={ID=989,SourceName="Banalash",SourceType="Purchase",DropChance="100",Zone="Swamp of Sorrows"}}
+items[38984] = {id=38984,name="Scroll of Enchant Bracer - Expertise",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38903] = {id=38903,name="Scroll of Enchant Bracer - Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35422] = {id=35422,name="Enchant Bracer - Major Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35424] = {id=35424,name="Enchant Bracer - Restore Mana Prime",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38899] = {id=38899,name="Scroll of Enchant Bracer - Major Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[26041] = {id=26041,name="Vigilant Vambraces",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31847] = {id=31847,name="QAEnchant Bracer +12 Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41759] = {id=41759,name="Shackles of Perpetual Friendship",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38897] = {id=38897,name="Scroll of Enchant Bracer - Brawn",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38846] = {id=38846,name="Scroll of Enchant Bracer - Greater Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20988] = {id=20988,name="Light Cloth Bracers",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[34716] = {id=34716,name="Silver Cufflinks",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38679] = {id=38679,name="Scroll of Enchant Bracer - Minor Health",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38064] = {id=38064,name="DB56 Mail Healer Bracer2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37400] = {id=37400,name="Whalehunter Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37472] = {id=37472,name="BT49 Plate Physical Bracer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30385] = {id=30385,name="QR XXXX Plate Spell Bracer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30954] = {id=30954,name="QR 10637 Mail Hunter Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25626] = {id=25626,name="QR 9922 Paladin Bracer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38901] = {id=38901,name="Scroll of Enchant Bracer - Restore Mana Prime",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38900] = {id=38900,name="Scroll of Enchant Bracer - Superior Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38882] = {id=38882,name="Scroll of Enchant Bracer - Healing Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38938] = {id=38938,name="Scroll of Enchant Bracer - Assault",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38881] = {id=38881,name="Scroll of Enchant Bracer - Mana Regeneration",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38842] = {id=38842,name="Scroll of Enchant Bracer - Deflection",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38832] = {id=38832,name="Scroll of Enchant Bracer - Greater Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38812] = {id=38812,name="Scroll of Enchant Bracer - Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11163] = {id=11163,name="Formula: Enchant Bracer - Lesser Deflection",source={ID=2381,SourceName="Micha Yance",SourceType="Purchase",DropChance="100",Zone="Hillsbrad Foothills"}}
+items[38803] = {id=38803,name="Scroll of Enchant Bracer - Lesser Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38797] = {id=38797,name="Scroll of Enchant Bracer - Lesser Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38793] = {id=38793,name="Scroll of Enchant Bracer - Lesser Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38783] = {id=38783,name="Scroll of Enchant Bracer - Lesser Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[26015] = {id=26015,name="Anchorite Neophyte's Cuffs",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38771] = {id=38771,name="Scroll of Enchant Bracer - Minor Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20916] = {id=20916,name="Unadorned Chain Bracers",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[20922] = {id=20922,name="Sun Cured Bracers",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[21003] = {id=21003,name="Unkempt Bracers",source={ID=15271,SourceName="Tender",SourceType="Kill",DropChance="1.9",Zone="Eversong Woods"}}
+items[1370] = {id=1370,name="Ragged Leather Bracers",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="3.8",Zone="Durotar"}}
+items[21019] = {id=21019,name="Shoddy Chain Bracers",source={ID=15372,SourceName="Springpaw Lynx",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[31848] = {id=31848,name="QAEnchant Bracer +4 All Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31849] = {id=31849,name="QAEnchant Bracer +12 Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31842] = {id=31842,name="QAEnchant Bracer +12 Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31843] = {id=31843,name="QAEnchant Bracer +24 Attack Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31844] = {id=31844,name="QAEnchant Bracer +30 Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31846] = {id=31846,name="QAEnchant Bracer +12 Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37279] = {id=37279,name="BT48 Cloth Spell Bracer3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38980] = {id=38980,name="Scroll of Enchant Bracers - Major Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[31845] = {id=31845,name="QAEnchant Bracer +15 Spell Damage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38120] = {id=38120,name="DB51 Plate Physical Bracer3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38122] = {id=38122,name="DB54 Plate Physical Bracer4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38063] = {id=38063,name="DB61Mail Physical Bracer3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37469] = {id=37469,name="BT57 Plate Healer Bracer2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37510] = {id=37510,name="Wristguards of Edification",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35426] = {id=35426,name="Enchant Bracer - Stats",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38902] = {id=38902,name="Scroll of Enchant Bracer - Fortitude",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35420] = {id=35420,name="Enchant Bracer - Brawn",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35421] = {id=35421,name="Enchant Bracer - Fortitude",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35423] = {id=35423,name="Enchant Bracer - Major Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[187737] = {id=187737,name="Enchant Bracer - Assault",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35425] = {id=35425,name="Enchant Bracer - Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22531] = {id=22531,name="Formula: Enchant Bracer - Superior Healing",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[24000] = {id=24000,name="Formula: Enchant Bracer - Superior Healing",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[38854] = {id=38854,name="Scroll of Enchant Bracer - Superior Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19446] = {id=19446,name="Formula: Enchant Bracer - Mana Regeneration",source={ID=10856,SourceName="Argent Quartermaster Hasana",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[38849] = {id=38849,name="Scroll of Enchant Bracer - Greater Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38829] = {id=38829,name="Scroll of Enchant Bracer - Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38811] = {id=38811,name="Scroll of Enchant Bracer - Lesser Deflection",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38777] = {id=38777,name="Scroll of Enchant Bracer - Minor Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38778] = {id=38778,name="Scroll of Enchant Bracer - Minor Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6344] = {id=6344,name="Formula: Enchant Bracer - Minor Spirit",source={ID=3859,SourceName="Shadowfang Ragetooth",SourceType="Kill",DropChance="0.1",Zone="Shadowfang Keep"}}
+items[38774] = {id=38774,name="Scroll of Enchant Bracer - Minor Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38768] = {id=38768,name="Scroll of Enchant Bracer - Minor Deflection",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24443] = {id=24443,name="Bracers of Shed Fur",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3596] = {id=3596,name="Tattered Cloth Bracers",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[3600] = {id=3600,name="Thin Cloth Bracers",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[1836] = {id=1836,name="Dirty Leather Bracers",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[2124] = {id=2124,name="Cracked Leather Bracers",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2384] = {id=2384,name="Tarnished Chain Bracers",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[2390] = {id=2390,name="Rusted Chain Bracers",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[3365] = {id=3365,name="Frayed Bracers",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.9",Zone="Durotar"}}
+items[21011] = {id=21011,name="Scraggy Leather Bracers",source={ID=15294,SourceName="Feral Tender",SourceType="Kill",DropChance="1.6",Zone="Eversong Woods"}}
+items[2651] = {id=2651,name="Flimsy Chain Bracers",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="4.3",Zone="Azuremyst Isle"}}
+items[30877] = {id=30877,name="QAEnchant Bracer +6 Mana\5 Sec",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3535] = {id=3535,name="Red Leather C03 Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3545] = {id=3545,name="Black Leather D02 Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3546] = {id=3546,name="Gray Leather D02 Bracers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Crystalline Cuffs"] = 14148
 names["Wrangler's Wristbands"] = 15331
@@ -2939,6 +3076,143 @@ names["Frost Hardened Bracers"] = 42865
 names["Magnataur Bracers"] = 36370
 names["Bracers of Rapid Death"] = 39373
 names["Frigid Mail Bracers"] = 33400
+names["Formula: Enchant Bracer - Greater Stamina"] = 11225
+names["Formula: Enchant Bracer - Lesser Strength"] = 11101
+names["Formula: Enchant Bracer - Superior Spellpower"] = 44498
+names["Formula: Enchant Bracer - Major Stamina"] = 44944
+names["Formula: Enchant Bracers - Greater Assault"] = 44484
+names["Scroll of Enchant Bracer - Superior Spellpower"] = 44470
+names["Formula: Enchant Bracer - Major Defense"] = 22530
+names["Lovely Charm Bracelet"] = 49916
+names["Formula: Enchant Bracer - Expertise"] = 37346
+names["Scroll of Enchant Bracer - Major Stamina"] = 44947
+names["Scroll of Enchant Bracers - Greater Assault"] = 44815
+names["Formula: Enchant Bracers - Major Spirit"] = 37326
+names["Formula: Enchant Bracer - Greater Stats"] = 37337
+names["Antique Silver Cufflinks"] = 34828
+names["Pattern: Fur Lining - Fire Resist"] = 44559
+names["Pattern: Fur Lining - Shadow Resist"] = 44561
+names["Pattern: Fur Lining - Arcane Resist"] = 44563
+names["Formula: Enchant Bracer - Superior Stamina"] = 16251
+names["Formula: Enchant Bracer - Superior Strength"] = 16246
+names["Vigorous Bracers"] = 51962
+names["Pattern: Fur Lining - Frost Resist"] = 44560
+names["Pattern: Fur Lining - Nature Resist"] = 44562
+names["Enumerated Bracers"] = 51972
+names["Stalwart Bands"] = 51989
+names["Fur Lining - Attack Power"] = 43097
+names["Earthbound Wristguards"] = 51981
+names["Scroll of Enchant Bracer - Strength"] = 38817
+names["Formula: Enchant Bracer - Healing Power"] = 19447
+names["Bracers of Icy Resolve"] = 43848
+names["Scroll of Enchant Bracers - Greater Stats"] = 38987
+names["Formula: Enchant Bracer - Minor Strength"] = 6347
+names["Scroll of Enchant Bracer - Stats"] = 38898
+names["Scroll of Enchant Bracer - Major Intellect"] = 38937
+names["Formula: Enchant Bracer - Superior Spirit"] = 16218
+names["Scroll of Enchant Bracer - Superior Spirit"] = 38853
+names["Scroll of Enchant Bracers - Greater Spellpower"] = 38997
+names["Formula: Enchant Bracer - Spellpower"] = 22534
+names["Scroll of Enchant Bracers - Striking"] = 38971
+names["Formula: Enchant Bracer - Lesser Spirit"] = 6375
+names["Formula: Enchant Bracer - Fortitude"] = 22533
+names["Scroll of Enchant Bracer - Greater Intellect"] = 38852
+names["Formula: Enchant Bracer - Greater Spirit"] = 11204
+names["Watchman's Bracers"] = 26029
+names["Scroll of Enchant Bracers - Exceptional Intellect"] = 38968
+names["Scroll of Enchant Bracer - Spirit"] = 38809
+names["Scorched Bands"] = 4990
+names["Enchant Bracer - Superior Healing"] = 35427
+names["Formula: Enchant Bracer - Restore Mana Prime"] = 22532
+names["Scroll of Enchant Bracer - Superior Stamina"] = 38855
+names["Formula: Enchant Bracer - Greater Intellect"] = 16214
+names["Formula: Enchant Bracer - Deflection"] = 11223
+names["Scroll of Enchant Bracer - Expertise"] = 38984
+names["Scroll of Enchant Bracer - Spellpower"] = 38903
+names["Enchant Bracer - Major Defense"] = 35422
+names["Enchant Bracer - Restore Mana Prime"] = 35424
+names["Scroll of Enchant Bracer - Major Defense"] = 38899
+names["Vigilant Vambraces"] = 26041
+names["QAEnchant Bracer +12 Stamina"] = 31847
+names["Shackles of Perpetual Friendship"] = 41759
+names["Scroll of Enchant Bracer - Brawn"] = 38897
+names["Scroll of Enchant Bracer - Greater Strength"] = 38846
+names["Light Cloth Bracers"] = 20988
+names["Silver Cufflinks"] = 34716
+names["Scroll of Enchant Bracer - Minor Health"] = 38679
+names["DB56 Mail Healer Bracer2"] = 38064
+names["Whalehunter Cuffs"] = 37400
+names["BT49 Plate Physical Bracer"] = 37472
+names["QR XXXX Plate Spell Bracer"] = 30385
+names["QR 10637 Mail Hunter Bracers"] = 30954
+names["QR 9922 Paladin Bracer"] = 25626
+names["Scroll of Enchant Bracer - Restore Mana Prime"] = 38901
+names["Scroll of Enchant Bracer - Superior Healing"] = 38900
+names["Scroll of Enchant Bracer - Healing Power"] = 38882
+names["Scroll of Enchant Bracer - Assault"] = 38938
+names["Scroll of Enchant Bracer - Mana Regeneration"] = 38881
+names["Scroll of Enchant Bracer - Deflection"] = 38842
+names["Scroll of Enchant Bracer - Greater Spirit"] = 38832
+names["Scroll of Enchant Bracer - Stamina"] = 38812
+names["Formula: Enchant Bracer - Lesser Deflection"] = 11163
+names["Scroll of Enchant Bracer - Lesser Intellect"] = 38803
+names["Scroll of Enchant Bracer - Lesser Strength"] = 38797
+names["Scroll of Enchant Bracer - Lesser Stamina"] = 38793
+names["Scroll of Enchant Bracer - Lesser Spirit"] = 38783
+names["Anchorite Neophyte's Cuffs"] = 26015
+names["Scroll of Enchant Bracer - Minor Stamina"] = 38771
+names["Unadorned Chain Bracers"] = 20916
+names["Sun Cured Bracers"] = 20922
+names["Unkempt Bracers"] = 21003
+names["Ragged Leather Bracers"] = 1370
+names["Shoddy Chain Bracers"] = 21019
+names["QAEnchant Bracer +4 All Stats"] = 31848
+names["QAEnchant Bracer +12 Strength"] = 31849
+names["QAEnchant Bracer +12 Intellect"] = 31842
+names["QAEnchant Bracer +24 Attack Power"] = 31843
+names["QAEnchant Bracer +30 Healing"] = 31844
+names["QAEnchant Bracer +12 Defense"] = 31846
+names["BT48 Cloth Spell Bracer3"] = 37279
+names["Scroll of Enchant Bracers - Major Spirit"] = 38980
+names["QAEnchant Bracer +15 Spell Damage"] = 31845
+names["DB51 Plate Physical Bracer3"] = 38120
+names["DB54 Plate Physical Bracer4"] = 38122
+names["DB61Mail Physical Bracer3"] = 38063
+names["BT57 Plate Healer Bracer2"] = 37469
+names["Wristguards of Edification"] = 37510
+names["Enchant Bracer - Stats"] = 35426
+names["Scroll of Enchant Bracer - Fortitude"] = 38902
+names["Enchant Bracer - Brawn"] = 35420
+names["Enchant Bracer - Fortitude"] = 35421
+names["Enchant Bracer - Major Intellect"] = 35423
+names["Enchant Bracer - Assault"] = 187737
+names["Enchant Bracer - Spellpower"] = 35425
+names["Formula: Enchant Bracer - Superior Healing"] = 22531
+names["Formula: Enchant Bracer - Superior Healing"] = 24000
+names["Scroll of Enchant Bracer - Superior Strength"] = 38854
+names["Formula: Enchant Bracer - Mana Regeneration"] = 19446
+names["Scroll of Enchant Bracer - Greater Stamina"] = 38849
+names["Scroll of Enchant Bracer - Intellect"] = 38829
+names["Scroll of Enchant Bracer - Lesser Deflection"] = 38811
+names["Scroll of Enchant Bracer - Minor Agility"] = 38777
+names["Scroll of Enchant Bracer - Minor Strength"] = 38778
+names["Formula: Enchant Bracer - Minor Spirit"] = 6344
+names["Scroll of Enchant Bracer - Minor Spirit"] = 38774
+names["Scroll of Enchant Bracer - Minor Deflection"] = 38768
+names["Bracers of Shed Fur"] = 24443
+names["Tattered Cloth Bracers"] = 3596
+names["Thin Cloth Bracers"] = 3600
+names["Dirty Leather Bracers"] = 1836
+names["Cracked Leather Bracers"] = 2124
+names["Tarnished Chain Bracers"] = 2384
+names["Rusted Chain Bracers"] = 2390
+names["Frayed Bracers"] = 3365
+names["Scraggy Leather Bracers"] = 21011
+names["Flimsy Chain Bracers"] = 2651
+names["QAEnchant Bracer +6 Mana\5 Sec"] = 30877
+names["Red Leather C03 Bracers"] = 3535
+names["Black Leather D02 Bracers"] = 3545
+names["Gray Leather D02 Bracers"] = 3546
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

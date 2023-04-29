@@ -1,6 +1,6 @@
 ## Interface: 30401
 
-## Title: BiS Tracker Dev
+## Title: BiS Tracker Dev Wrath
 ## Notes: Shows BiS items for every class, and where to get them.
 ## Author: Zentarg
 ## Version: 6.01
@@ -9,7 +9,7 @@
 
 embeds.xml
 
-data\BiSData.lua
+data\BiSData_Wrath.lua
 
 core\Init.lua
 core\Localization.lua

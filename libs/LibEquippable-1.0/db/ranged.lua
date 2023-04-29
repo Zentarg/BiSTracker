@@ -812,6 +812,36 @@ items[36640] = {id=36640,name="Scourge Crossbow",source={ID=33528,SourceName="Gu
 items[43873] = {id=43873,name="Frail Bone Wand",source={ID=13161,SourceName="The Rider of the Unholy",SourceType="Quest",DropChance="0",Zone="Icecrown"}}
 items[43918] = {id=43918,name="Shooter's Glory",source={ID=13275,SourceName="Time to Hide",SourceType="Quest",DropChance="0",Zone="Icecrown"}}
 items[36652] = {id=36652,name="Stocky Shotgun",source={ID=30697,SourceName="Putrid Colossus",SourceType="Kill",DropChance="1.1",Zone="Icecrown"}}
+items[5235] = {id=5235,name="Alchemist's Wand",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4110] = {id=4110,name="Master Hunter's Bow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38168] = {id=38168,name="DB22 Hunter Bow2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38201] = {id=38201,name="DB14 Spell Wand",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38185] = {id=38185,name="DB40 Bow3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38246] = {id=38246,name="Skull-forged Blunderbuss",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12468] = {id=12468,name="Chilton Wand",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2504] = {id=2504,name="Worn Shortbow",source={ID=1297,SourceName="Lina Stover",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[4111] = {id=4111,name="Master Hunter's Rifle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20980] = {id=20980,name="Warder's Shortbow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38204] = {id=38204,name="DB38 Spell Wand2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38205] = {id=38205,name="DB52 Healer Wand4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38166] = {id=38166,name="DB20 Gun",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[8179] = {id=8179,name="Cadet's Bow",source={ID=17279,SourceName="Venture Co. Gemologist",SourceType="Kill",DropChance="0.4",Zone="Azuremyst Isle"}}
+items[23347] = {id=23347,name="Weathered Crossbow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13289] = {id=13289,name="Egan's Blaster",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14394] = {id=14394,name="Durability Bow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39007] = {id=39007,name="QR IC41 Spell Wand - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38203] = {id=38203,name="DB38 Healer Wand2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12446] = {id=12446,name="Anvilmar Musket",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12447] = {id=12447,name="Thistlewood Bow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33604] = {id=33604,name="Plague Shooter",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12449] = {id=12449,name="Primitive Bow",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39008] = {id=39008,name="QR IC41Healer Wand - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38200] = {id=38200,name="DB50 Crossbow3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[12448] = {id=12448,name="Light Hunting Rifle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2505] = {id=2505,name="Polished Shortbow",source={ID=1297,SourceName="Lina Stover",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[20910] = {id=20910,name="Stiff Shortbow",source={ID=15289,SourceName="Raelis Dawnstar",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[2510] = {id=2510,name="Solid Blunderbuss",source={ID=1243,SourceName="Hegnar Rumbleshot",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[2508] = {id=2508,name="Old Blunderbuss",source={ID=5510,SourceName="Thulman Flintcrag",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
 
 names["Deadly Blunderbuss"] = 4369
 names["Accurate Scope"] = 4407
@@ -1617,6 +1647,36 @@ names["Scourge Crossbow"] = 36640
 names["Frail Bone Wand"] = 43873
 names["Shooter's Glory"] = 43918
 names["Stocky Shotgun"] = 36652
+names["Alchemist's Wand"] = 5235
+names["Master Hunter's Bow"] = 4110
+names["DB22 Hunter Bow2"] = 38168
+names["DB14 Spell Wand"] = 38201
+names["DB40 Bow3"] = 38185
+names["Skull-forged Blunderbuss"] = 38246
+names["Chilton Wand"] = 12468
+names["Worn Shortbow"] = 2504
+names["Master Hunter's Rifle"] = 4111
+names["Warder's Shortbow"] = 20980
+names["DB38 Spell Wand2"] = 38204
+names["DB52 Healer Wand4"] = 38205
+names["DB20 Gun"] = 38166
+names["Cadet's Bow"] = 8179
+names["Weathered Crossbow"] = 23347
+names["Egan's Blaster"] = 13289
+names["Durability Bow"] = 14394
+names["QR IC41 Spell Wand - PH"] = 39007
+names["DB38 Healer Wand2"] = 38203
+names["Anvilmar Musket"] = 12446
+names["Thistlewood Bow"] = 12447
+names["Plague Shooter"] = 33604
+names["Primitive Bow"] = 12449
+names["QR IC41Healer Wand - PH"] = 39008
+names["DB50 Crossbow3"] = 38200
+names["Light Hunting Rifle"] = 12448
+names["Polished Shortbow"] = 2505
+names["Stiff Shortbow"] = 20910
+names["Solid Blunderbuss"] = 2510
+names["Old Blunderbuss"] = 2508
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

@@ -502,6 +502,78 @@ items[36455] = {id=36455,name="Plated Bulwark",source={ID=31040,SourceName="Wrat
 items[42566] = {id=42566,name="Relentless Gladiator's Barrier",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[36456] = {id=36456,name="Icy Kite Shield",source={ID=33355,SourceName="Misguided Nymph",SourceType="Kill",DropChance="0.9",Zone="Ulduar"}}
 items[36454] = {id=36454,name="Domed Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16217] = {id=16217,name="Formula: Enchant Shield - Greater Stamina",source={ID=4229,SourceName="Mythrin'dir",SourceType="Purchase",DropChance="100",Zone="Darnassus"}}
+items[28282] = {id=28282,name="Formula: Enchant Shield - Major Stamina",source={ID=19663,SourceName="Madame Ruby",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[23530] = {id=23530,name="Felsteel Shield Spike",source={ID=29657,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[44455] = {id=44455,name="Scroll of Enchant Shield - Greater Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7967] = {id=7967,name="Mithril Shield Spike",source={ID=9939,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22540] = {id=22540,name="Formula: Enchant Shield - Shield Block",source={ID=17907,SourceName="Frost Wyrm",SourceType="Kill",DropChance="0.3",Zone="Unknown"}}
+items[38949] = {id=38949,name="Scroll of Enchant Shield - Resilience",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11168] = {id=11168,name="Formula: Enchant Shield - Lesser Block",source={ID=2572,SourceName="Drywhisker Kobold",SourceType="Kill",DropChance="0",Zone="Arathi Highlands"}}
+items[6042] = {id=6042,name="Iron Shield Spike",source={ID=7221,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11224] = {id=11224,name="Formula: Enchant Shield - Frost Resistance",source={ID=14890,SourceName="Taerar",SourceType="Kill",DropChance="6.0",Zone="Duskwood"}}
+items[12645] = {id=12645,name="Thorium Shield Spike",source={ID=16651,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[34415] = {id=34415,name="Crystaline Shard Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38954] = {id=38954,name="Scroll of Enchant Shield - Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25627] = {id=25627,name="QR 9922 Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38828] = {id=38828,name="Scroll of Enchant Shield - Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38861] = {id=38861,name="Scroll of Enchant Shield - Greater Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2362] = {id=2362,name="Worn Wooden Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38906] = {id=38906,name="Scroll of Enchant Shield - Shield Block",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16222] = {id=16222,name="Formula: Enchant Shield - Superior Spirit",source={ID=9447,SourceName="Scarlet Warder",SourceType="Kill",DropChance="0.3",Zone="Eastern Plaguelands"}}
+items[39012] = {id=39012,name="QR IC41 Tank Shield2 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38945] = {id=38945,name="Scroll of Enchant Shield - Major Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35448] = {id=35448,name="Enchant Shield - Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[187814] = {id=187814,name="Enchant Shield - Frost Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7748] = {id=7748,name="Forcestone Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11202] = {id=11202,name="Formula: Enchant Shield - Stamina",source={ID=2781,SourceName="Caretaker Weston",SourceType="Kill",DropChance="0.7",Zone="Arathi Highlands"}}
+items[2129] = {id=2129,name="Large Round Shield",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[33294] = {id=33294,name="Monster, Shield - Dragonflayer Tribesman",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29849] = {id=29849,name="QAEnchant Shield +18 Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39009] = {id=39009,name="QR IC41Healer Shield2 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38820] = {id=38820,name="Scroll of Enchant Shield - Lesser Block",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38787] = {id=38787,name="Scroll of Enchant Shield - Minor Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17183] = {id=17183,name="Dented Buckler",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[17184] = {id=17184,name="Small Shield",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[20911] = {id=20911,name="Light Guard",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[14393] = {id=14393,name="Durability Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20984] = {id=20984,name="Recruit's Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38907] = {id=38907,name="Scroll of Enchant Shield - Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22541] = {id=22541,name="Formula: Enchant Shield - Resistance",source={ID=15548,SourceName="Spectral Stallion",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
+items[187783] = {id=187783,name="Enchant Shield - Resilience",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22539] = {id=22539,name="Formula: Enchant Shield - Intellect",source={ID=18664,SourceName="Aged Dalaran Wizard",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[38905] = {id=38905,name="Scroll of Enchant Shield - Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38904] = {id=38904,name="Scroll of Enchant Shield - Tough Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38816] = {id=38816,name="Scroll of Enchant Shield - Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38792] = {id=38792,name="Scroll of Enchant Shield - Lesser Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1166] = {id=1166,name="Dented Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1200] = {id=1200,name="Large Wooden Shield",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[20913] = {id=20913,name="Medium Guard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[21021] = {id=21021,name="Battered Shield",source={ID=15271,SourceName="Tender",SourceType="Kill",DropChance="0.8",Zone="Eversong Woods"}}
+items[38805] = {id=38805,name="Scroll of Enchant Shield - Lesser Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2212] = {id=2212,name="Cracked Buckler",source={ID=6911,SourceName="Minion of Sethir",SourceType="Kill",DropChance="1.9",Zone="Teldrassil"}}
+items[23365] = {id=23365,name="Steel Rimmed Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2133] = {id=2133,name="Small Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11200] = {id=11200,name="Engineer's Shield 2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35449] = {id=35449,name="Enchant Shield - Major Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35450] = {id=35450,name="Enchant Shield - Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35451] = {id=35451,name="Enchant Shield - Shield Block",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38860] = {id=38860,name="Scroll of Enchant Shield - Vitality",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38843] = {id=38843,name="Scroll of Enchant Shield - Frost Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38839] = {id=38839,name="Scroll of Enchant Shield - Greater Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38791] = {id=38791,name="Scroll of Enchant Shield - Lesser Protection",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11081] = {id=11081,name="Formula: Enchant Shield - Lesser Protection",source={ID=3898,SourceName="Aligar the Tormentor",SourceType="Kill",DropChance="0.7",Zone="Darkshore"}}
+items[20912] = {id=20912,name="Large Shield",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[2211] = {id=2211,name="Bent Large Shield",source={ID=1918,SourceName="Karrel Grayves",SourceType="Kill",DropChance="6.5",Zone="Tirisfal Glades"}}
+items[2210] = {id=2210,name="Battered Buckler",source={ID=1917,SourceName="Daniel Ulfman",SourceType="Kill",DropChance="4.3",Zone="Tirisfal Glades"}}
+items[21022] = {id=21022,name="Weather Beaten Buckler",source={ID=15366,SourceName="Springpaw Cub",SourceType="Kill",DropChance="0.8",Zone="Eversong Woods"}}
+items[31265] = {id=31265,name="(Action Figure) Human Warrior Shield",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[876] = {id=876,name="Worn Wooden Buckler",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11199] = {id=11199,name="Engineer's Shield 1",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11201] = {id=11201,name="Engineer's Shield 3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29848] = {id=29848,name="QAEnchant Shield +5 Resistances",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29850] = {id=29850,name="QAEnchant Shield +12 Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29851] = {id=29851,name="QAEnchant Shield +15 Block Value",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Deadskull Shield"] = 3761
 names["Redbeard Crest"] = 12997
@@ -997,6 +1069,78 @@ names["Plated Bulwark"] = 36455
 names["Relentless Gladiator's Barrier"] = 42566
 names["Icy Kite Shield"] = 36456
 names["Domed Buckler"] = 36454
+names["Formula: Enchant Shield - Greater Stamina"] = 16217
+names["Formula: Enchant Shield - Major Stamina"] = 28282
+names["Felsteel Shield Spike"] = 23530
+names["Scroll of Enchant Shield - Greater Intellect"] = 44455
+names["Mithril Shield Spike"] = 7967
+names["Formula: Enchant Shield - Shield Block"] = 22540
+names["Scroll of Enchant Shield - Resilience"] = 38949
+names["Formula: Enchant Shield - Lesser Block"] = 11168
+names["Iron Shield Spike"] = 6042
+names["Formula: Enchant Shield - Frost Resistance"] = 11224
+names["Thorium Shield Spike"] = 12645
+names["Crystaline Shard Shield"] = 34415
+names["Scroll of Enchant Shield - Defense"] = 38954
+names["QR 9922 Shield"] = 25627
+names["Scroll of Enchant Shield - Stamina"] = 38828
+names["Scroll of Enchant Shield - Greater Stamina"] = 38861
+names["Worn Wooden Shield"] = 2362
+names["Scroll of Enchant Shield - Shield Block"] = 38906
+names["Formula: Enchant Shield - Superior Spirit"] = 16222
+names["QR IC41 Tank Shield2 - PH"] = 39012
+names["Scroll of Enchant Shield - Major Stamina"] = 38945
+names["Enchant Shield - Intellect"] = 35448
+names["Enchant Shield - Frost Resistance"] = 187814
+names["Forcestone Buckler"] = 7748
+names["Formula: Enchant Shield - Stamina"] = 11202
+names["Large Round Shield"] = 2129
+names["Monster, Shield - Dragonflayer Tribesman"] = 33294
+names["QAEnchant Shield +18 Stamina"] = 29849
+names["QR IC41Healer Shield2 - PH"] = 39009
+names["Scroll of Enchant Shield - Lesser Block"] = 38820
+names["Scroll of Enchant Shield - Minor Stamina"] = 38787
+names["Dented Buckler"] = 17183
+names["Small Shield"] = 17184
+names["Light Guard"] = 20911
+names["Durability Shield"] = 14393
+names["Recruit's Shield"] = 20984
+names["Scroll of Enchant Shield - Resistance"] = 38907
+names["Formula: Enchant Shield - Resistance"] = 22541
+names["Enchant Shield - Resilience"] = 187783
+names["Formula: Enchant Shield - Intellect"] = 22539
+names["Scroll of Enchant Shield - Intellect"] = 38905
+names["Scroll of Enchant Shield - Tough Shield"] = 38904
+names["Scroll of Enchant Shield - Spirit"] = 38816
+names["Scroll of Enchant Shield - Lesser Spirit"] = 38792
+names["Dented Buckler"] = 1166
+names["Large Wooden Shield"] = 1200
+names["Medium Guard"] = 20913
+names["Battered Shield"] = 21021
+names["Scroll of Enchant Shield - Lesser Stamina"] = 38805
+names["Cracked Buckler"] = 2212
+names["Steel Rimmed Buckler"] = 23365
+names["Small Shield"] = 2133
+names["Engineer's Shield 2"] = 11200
+names["Enchant Shield - Major Stamina"] = 35449
+names["Enchant Shield - Resistance"] = 35450
+names["Enchant Shield - Shield Block"] = 35451
+names["Scroll of Enchant Shield - Vitality"] = 38860
+names["Scroll of Enchant Shield - Frost Resistance"] = 38843
+names["Scroll of Enchant Shield - Greater Spirit"] = 38839
+names["Scroll of Enchant Shield - Lesser Protection"] = 38791
+names["Formula: Enchant Shield - Lesser Protection"] = 11081
+names["Large Shield"] = 20912
+names["Bent Large Shield"] = 2211
+names["Battered Buckler"] = 2210
+names["Weather Beaten Buckler"] = 21022
+names["(Action Figure) Human Warrior Shield"] = 31265
+names["Worn Wooden Buckler"] = 876
+names["Engineer's Shield 1"] = 11199
+names["Engineer's Shield 3"] = 11201
+names["QAEnchant Shield +5 Resistances"] = 29848
+names["QAEnchant Shield +12 Intellect"] = 29850
+names["QAEnchant Shield +15 Block Value"] = 29851
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

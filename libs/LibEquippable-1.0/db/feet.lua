@@ -1722,6 +1722,151 @@ items[39439] = {id=39439,name="Skeleton Smashers",source={ID=12561,SourceName="A
 items[39441] = {id=39441,name="Treads of Bound Life",source={ID=12617,SourceName="Exterminate the Intruders",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[39333] = {id=39333,name="Nimblefoot Moccasins",source={ID=12556,SourceName="Rhino Mastery: The Kill",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[33366] = {id=33366,name="Frost-Rimed Cloth Boots",source={ID=32772,SourceName="Skeletal Footsoldier",SourceType="Kill",DropChance="3.5",Zone="Icecrown"}}
+items[41118] = {id=41118,name="Nitro Boosts",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44491] = {id=44491,name="Formula: Enchant Boots - Tuskarr's Vitality",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[23824] = {id=23824,name="Rocket Boots Xtreme",source={ID=30556,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[44490] = {id=44490,name="Formula: Enchant Boots - Greater Assault",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[50287] = {id=50287,name="Boots of the Bay",source={ID=24803,SourceName="Kalu'ak Fishing Derby",SourceType="Quest",DropChance="0",Zone="WotLK"}}
+items[39006] = {id=39006,name="Scroll of Enchant Boots - Tuskarr's Vitality",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7189] = {id=7189,name="Goblin Rocket Boots",source={ID=8895,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35581] = {id=35581,name="Rocket Boots Xtreme Lite",source={ID=46697,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[16215] = {id=16215,name="Formula: Enchant Boots - Greater Stamina",source={ID=18338,SourceName="Highlord Kruul",SourceType="Kill",DropChance="14.6",Zone="Searing Gorge"}}
+items[37341] = {id=37341,name="Formula: Enchant Boots - Superior Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28279] = {id=28279,name="Formula: Enchant Boots - Cat's Swiftness",source={ID=15547,SourceName="Spectral Charger",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
+items[38986] = {id=38986,name="Scroll of Enchant Boots - Icewalker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22545] = {id=22545,name="Formula: Enchant Boots - Surefooted",source={ID=16472,SourceName="Phantom Stagehand",SourceType="Kill",DropChance="15.6",Zone="Karazhan"}}
+items[51963] = {id=51963,name="Vigorous Stompers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51982] = {id=51982,name="Earthbound Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51967] = {id=51967,name="Enumerated Sandals",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38966] = {id=38966,name="Scroll of Enchant Boots - Greater Fortitude",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10724] = {id=10724,name="Gnomish Rocket Boots",source={ID=12905,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[51990] = {id=51990,name="Stalwart Treads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44469] = {id=44469,name="Scroll of Enchant Boots - Greater Assault",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38961] = {id=38961,name="Scroll of Enchant Boots - Greater Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[45628] = {id=45628,name="Scroll of Enchant Boots - Lesser Accuracy",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43901] = {id=43901,name="QR IC34 Mail Physical Feet3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7969] = {id=7969,name="Mithril Spurs",source={ID=9964,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6836] = {id=6836,name="Dress Shoes",source={ID=49677,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[44449] = {id=44449,name="Scroll of Enchant Boots - Assault",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43985] = {id=43985,name="[UNUSED]Goblin Jumping Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28280] = {id=28280,name="Formula: Enchant Boots - Boar's Speed",source={ID=16174,SourceName="Greater Shadowbat",SourceType="Kill",DropChance="0.2",Zone="Karazhan"}}
+items[35299] = {id=35299,name="Formula: Enchant Boots - Cat's Swiftness",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="1.9",Zone="Magisters' Terrace"}}
+items[25679] = {id=25679,name="Comfortable Insoles",source={ID=32482,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38837] = {id=38837,name="Scroll of Enchant Boots - Minor Speed",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22544] = {id=22544,name="Formula: Enchant Boots - Dexterity",source={ID=18521,SourceName="Raging Skeleton",SourceType="Kill",DropChance="5.7",Zone="Auchenai Crypts"}}
+items[16220] = {id=16220,name="Formula: Enchant Boots - Spirit",source={ID=14887,SourceName="Ysondre",SourceType="Kill",DropChance="3.4",Zone="Duskwood"}}
+items[38862] = {id=38862,name="Scroll of Enchant Boots - Greater Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38844] = {id=38844,name="Scroll of Enchant Boots - Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40] = {id=40,name="Recruit's Boots",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[35298] = {id=35298,name="Formula: Enchant Boots - Vitality",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="2.6",Zone="Magisters' Terrace"}}
+items[5821] = {id=5821,name="Darkstalker Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38908] = {id=38908,name="Scroll of Enchant Boots - Vitality",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38976] = {id=38976,name="Scroll of Enchant Boots - Superior Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38944] = {id=38944,name="Scroll of Enchant Boots - Boar's Speed",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35400] = {id=35400,name="Enchant Boots - Dexterity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39067] = {id=39067,name="QR IC32 Mail Physical Feet2 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25970] = {id=25970,name="Shalassi Oracle's Sandals",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38909] = {id=38909,name="Scroll of Enchant Boots - Fortitude",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20895] = {id=20895,name="Apprentice's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34086] = {id=34086,name="Winter Boots",source={ID=44953,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[22744] = {id=22744,name="Bloodsail Boots",source={ID=22746,SourceName="Buccaneer's Uniform",SourceType="Container",DropChance="94.8",Zone="Unknown"}}
+items[34683] = {id=34683,name="Sandals of Summer",source={ID=26123,SourceName="Midsummer Supplier",SourceType="Purchase",DropChance="100",Zone="Ironforge"}}
+items[37420] = {id=37420,name="Sharkproof Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[36837] = {id=36837,name="Formula: 02 Enchanting Recipe Template (Good)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35419] = {id=35419,name="Enchant Boots - Vitality",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38863] = {id=38863,name="Scroll of Enchant Boots - Greater Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[210] = {id=210,name="Dirty Leather Boots",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[2304] = {id=2304,name="Light Armor Kit",source={ID=6908,SourceName="Olaf",SourceType="Kill",DropChance="26.8",Zone="Uldaman"}}
+items[11508] = {id=11508,name="Gamemaster's Slippers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[59] = {id=59,name="Acolyte's Shoes",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[33868] = {id=33868,name="Brewfest Boots",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[20903] = {id=20903,name="Recruit's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[140] = {id=140,name="Brawler's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34718] = {id=34718,name="Black Leather Shoes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37946] = {id=37946,name="DB14 Cloth Healer Feet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37972] = {id=37972,name="DB49 Cloth Healer Feet2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37474] = {id=37474,name="BT47 Plate Physical Boots3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37315] = {id=37315,name="BT59 Leather Physical Boots4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37433] = {id=37433,name="Layered Scale Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35297] = {id=35297,name="Formula: Enchant Boots - Boar's Speed",source={ID=24664,SourceName="Kael'thas Sunstrider",SourceType="Kill",DropChance="1.8",Zone="Magisters' Terrace"}}
+items[38943] = {id=38943,name="Scroll of Enchant Boots - Cat's Swiftness",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35399] = {id=35399,name="Enchant Boots - Cat's Swiftness",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22542] = {id=22542,name="Formula: Enchant Boots - Vitality",source={ID=23586,SourceName="Amani'shi Scout",SourceType="Kill",DropChance="0.2",Zone="Zul'Aman"}}
+items[16245] = {id=16245,name="Formula: Enchant Boots - Greater Agility",source={ID=14888,SourceName="Lethon",SourceType="Kill",DropChance="2.1",Zone="Duskwood"}}
+items[38807] = {id=38807,name="Scroll of Enchant Boots - Lesser Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6377] = {id=6377,name="Formula: Enchant Boots - Minor Agility",source={ID=3012,SourceName="Nata Dawnstrider",SourceType="Purchase",DropChance="100",Zone="Thunder Bluff"}}
+items[1374] = {id=1374,name="Frayed Shoes",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.8",Zone="Durotar"}}
+items[43] = {id=43,name="Squire's Boots",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[47] = {id=47,name="Footpad's Shoes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51] = {id=51,name="Neophyte's Boots",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[55] = {id=55,name="Apprentice's Boots",source={ID=18672,SourceName="Thomas Yance",SourceType="Purchase",DropChance="100",Zone="Unknown"}}
+items[121] = {id=121,name="Thug Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20900] = {id=20900,name="Warder's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33966] = {id=33966,name="Brewfest Slippers",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[39460] = {id=39460,name="Sabatons of the Rampaging Construct",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37468] = {id=37468,name="HF28 Plate Physical Boots4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37225] = {id=37225,name="Sweltering Sandals",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37284] = {id=37284,name="BT55 Cloth Spell Boots4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37317] = {id=37317,name="BT56 Leather Healer Boots2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38910] = {id=38910,name="Scroll of Enchant Boots - Surefooted",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35398] = {id=35398,name="Enchant Boots - Boar's Speed",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35418] = {id=35418,name="Enchant Boots - Surefooted",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37603] = {id=37603,name="Scroll of Enchant Boots - Dexterity",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38864] = {id=38864,name="Scroll of Enchant Boots - Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38819] = {id=38819,name="Scroll of Enchant Boots - Lesser Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11167] = {id=11167,name="Formula: Enchant Boots - Lesser Spirit",source={ID=6908,SourceName="Olaf",SourceType="Kill",DropChance="0.2",Zone="Uldaman"}}
+items[38810] = {id=38810,name="Scroll of Enchant Boots - Lesser Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38786] = {id=38786,name="Scroll of Enchant Boots - Minor Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6478] = {id=6478,name="Rat Stompers",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20985] = {id=20985,name="Light Cloth Shoes",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[23368] = {id=23368,name="Soft Leather Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[36839] = {id=36839,name="Formula: 04 Enchanting Recipe Template (Epic)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20915] = {id=20915,name="Unadorned Chain Boots",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[195] = {id=195,name="Tattered Cloth Boots",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[21010] = {id=21010,name="Scraggy Leather Boots",source={ID=15298,SourceName="Tainted Arcane Wraith",SourceType="Kill",DropChance="2.0",Zone="Eversong Woods"}}
+items[21020] = {id=21020,name="Shoddy Chain Boots",source={ID=15366,SourceName="Springpaw Cub",SourceType="Kill",DropChance="0.9",Zone="Eversong Woods"}}
+items[6122] = {id=6122,name="Recruit's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23349] = {id=23349,name="Battleworn Shoes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6127] = {id=6127,name="Trapper's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29854] = {id=29854,name="QAEnchant Boots +5 Snare Resist & +10 Hit Rating",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6138] = {id=6138,name="Thug Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23472] = {id=23472,name="Rugged Trapper's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29856] = {id=29856,name="QAEnchant Boots +12 Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23475] = {id=23475,name="Recruit's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29857] = {id=29857,name="QAEnchant Boots +12 Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40223] = {id=40223,name="CRobinson Plate Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40230] = {id=40230,name="CRobinson Leather Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[24146] = {id=24146,name="Initiate's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20898] = {id=20898,name="Lookout's Shoes",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38162] = {id=38162,name="Soul-Trader's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23348] = {id=23348,name="Scout's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29852] = {id=29852,name="QAEnchant Boots +9 Stamina & +8% Speed",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38066] = {id=38066,name="DB58 Mail Healer Feet2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22543] = {id=22543,name="Formula: Enchant Boots - Fortitude",source={ID=18317,SourceName="Ethereal Priest",SourceType="Kill",DropChance="2.7",Zone="Mana-Tombs"}}
+items[38830] = {id=38830,name="Scroll of Enchant Boots - Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2383] = {id=2383,name="Tarnished Chain Boots",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[20921] = {id=20921,name="Sun Cured Boots",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[30199] = {id=30199,name="QAEnchant Boots +4 Health & Mana\5",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[129] = {id=129,name="Rugged Trapper's Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39884] = {id=39884,name="QR ZD25 Mail Physical Feet2 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37979] = {id=37979,name="DB58 Cloth Spell Feet3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38018] = {id=38018,name="DB53 Leather Physical Feet3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38062] = {id=38062,name="DB54 Mail Physical Feet3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30965] = {id=30965,name="QR 10637 Plate Warrior Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[36840] = {id=36840,name="Formula: 01 Enchanting Recipe Template (Standard)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38974] = {id=38974,name="Scroll of Enchant Boots - Greater Vitality",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35417] = {id=35417,name="Enchant Boots - Fortitude",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6376] = {id=6376,name="Formula: Enchant Boots - Minor Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38785] = {id=38785,name="Scroll of Enchant Boots - Minor Stamina",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[36838] = {id=36838,name="Formula: 03 Enchanting Recipe Template (Superior)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2117] = {id=2117,name="Thin Cloth Shoes",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2123] = {id=2123,name="Cracked Leather Boots",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2389] = {id=2389,name="Rusted Chain Boots",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[21008] = {id=21008,name="Unkempt Shoes",source={ID=15298,SourceName="Tainted Arcane Wraith",SourceType="Kill",DropChance="1.7",Zone="Eversong Woods"}}
+items[1367] = {id=1367,name="Ragged Leather Boots",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="4.3",Zone="Azuremyst Isle"}}
+items[2650] = {id=2650,name="Flimsy Chain Boots",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="6.7",Zone="Azuremyst Isle"}}
+items[29853] = {id=29853,name="QAEnchant Boots +6 Agility & +8% Speed",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14384] = {id=14384,name="Durability Boots",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Pilgrim's Boots"] = 44788
 names["Spidersilk Boots"] = 4320
@@ -3437,6 +3582,151 @@ names["Skeleton Smashers"] = 39439
 names["Treads of Bound Life"] = 39441
 names["Nimblefoot Moccasins"] = 39333
 names["Frost-Rimed Cloth Boots"] = 33366
+names["Nitro Boosts"] = 41118
+names["Formula: Enchant Boots - Tuskarr's Vitality"] = 44491
+names["Rocket Boots Xtreme"] = 23824
+names["Formula: Enchant Boots - Greater Assault"] = 44490
+names["Boots of the Bay"] = 50287
+names["Scroll of Enchant Boots - Tuskarr's Vitality"] = 39006
+names["Goblin Rocket Boots"] = 7189
+names["Rocket Boots Xtreme Lite"] = 35581
+names["Formula: Enchant Boots - Greater Stamina"] = 16215
+names["Formula: Enchant Boots - Superior Agility"] = 37341
+names["Formula: Enchant Boots - Cat's Swiftness"] = 28279
+names["Scroll of Enchant Boots - Icewalker"] = 38986
+names["Formula: Enchant Boots - Surefooted"] = 22545
+names["Vigorous Stompers"] = 51963
+names["Earthbound Boots"] = 51982
+names["Enumerated Sandals"] = 51967
+names["Scroll of Enchant Boots - Greater Fortitude"] = 38966
+names["Gnomish Rocket Boots"] = 10724
+names["Stalwart Treads"] = 51990
+names["Scroll of Enchant Boots - Greater Assault"] = 44469
+names["Scroll of Enchant Boots - Greater Spirit"] = 38961
+names["Scroll of Enchant Boots - Lesser Accuracy"] = 45628
+names["QR IC34 Mail Physical Feet3 - PH"] = 43901
+names["Mithril Spurs"] = 7969
+names["Dress Shoes"] = 6836
+names["Scroll of Enchant Boots - Assault"] = 44449
+names["[UNUSED]Goblin Jumping Boots"] = 43985
+names["Formula: Enchant Boots - Boar's Speed"] = 28280
+names["Formula: Enchant Boots - Cat's Swiftness"] = 35299
+names["Comfortable Insoles"] = 25679
+names["Scroll of Enchant Boots - Minor Speed"] = 38837
+names["Formula: Enchant Boots - Dexterity"] = 22544
+names["Formula: Enchant Boots - Spirit"] = 16220
+names["Scroll of Enchant Boots - Greater Stamina"] = 38862
+names["Scroll of Enchant Boots - Agility"] = 38844
+names["Recruit's Boots"] = 40
+names["Formula: Enchant Boots - Vitality"] = 35298
+names["Darkstalker Boots"] = 5821
+names["Scroll of Enchant Boots - Vitality"] = 38908
+names["Scroll of Enchant Boots - Superior Agility"] = 38976
+names["Scroll of Enchant Boots - Boar's Speed"] = 38944
+names["Enchant Boots - Dexterity"] = 35400
+names["QR IC32 Mail Physical Feet2 - PH"] = 39067
+names["Shalassi Oracle's Sandals"] = 25970
+names["Scroll of Enchant Boots - Fortitude"] = 38909
+names["Apprentice's Boots"] = 20895
+names["Winter Boots"] = 34086
+names["Bloodsail Boots"] = 22744
+names["Sandals of Summer"] = 34683
+names["Sharkproof Boots"] = 37420
+names["Formula: 02 Enchanting Recipe Template (Good)"] = 36837
+names["Enchant Boots - Vitality"] = 35419
+names["Scroll of Enchant Boots - Greater Agility"] = 38863
+names["Dirty Leather Boots"] = 210
+names["Light Armor Kit"] = 2304
+names["Gamemaster's Slippers"] = 11508
+names["Acolyte's Shoes"] = 59
+names["Brewfest Boots"] = 33868
+names["Recruit's Boots"] = 20903
+names["Brawler's Boots"] = 140
+names["Black Leather Shoes"] = 34718
+names["DB14 Cloth Healer Feet"] = 37946
+names["DB49 Cloth Healer Feet2"] = 37972
+names["BT47 Plate Physical Boots3"] = 37474
+names["BT59 Leather Physical Boots4"] = 37315
+names["Layered Scale Boots"] = 37433
+names["Formula: Enchant Boots - Boar's Speed"] = 35297
+names["Scroll of Enchant Boots - Cat's Swiftness"] = 38943
+names["Enchant Boots - Cat's Swiftness"] = 35399
+names["Formula: Enchant Boots - Vitality"] = 22542
+names["Formula: Enchant Boots - Greater Agility"] = 16245
+names["Scroll of Enchant Boots - Lesser Agility"] = 38807
+names["Formula: Enchant Boots - Minor Agility"] = 6377
+names["Frayed Shoes"] = 1374
+names["Squire's Boots"] = 43
+names["Footpad's Shoes"] = 47
+names["Neophyte's Boots"] = 51
+names["Apprentice's Boots"] = 55
+names["Thug Boots"] = 121
+names["Warder's Boots"] = 20900
+names["Brewfest Slippers"] = 33966
+names["Sabatons of the Rampaging Construct"] = 39460
+names["HF28 Plate Physical Boots4"] = 37468
+names["Sweltering Sandals"] = 37225
+names["BT55 Cloth Spell Boots4"] = 37284
+names["BT56 Leather Healer Boots2"] = 37317
+names["Scroll of Enchant Boots - Surefooted"] = 38910
+names["Enchant Boots - Boar's Speed"] = 35398
+names["Enchant Boots - Surefooted"] = 35418
+names["Scroll of Enchant Boots - Dexterity"] = 37603
+names["Scroll of Enchant Boots - Spirit"] = 38864
+names["Scroll of Enchant Boots - Lesser Spirit"] = 38819
+names["Formula: Enchant Boots - Lesser Spirit"] = 11167
+names["Scroll of Enchant Boots - Lesser Stamina"] = 38810
+names["Scroll of Enchant Boots - Minor Agility"] = 38786
+names["Rat Stompers"] = 6478
+names["Light Cloth Shoes"] = 20985
+names["Soft Leather Boots"] = 23368
+names["Formula: 04 Enchanting Recipe Template (Epic)"] = 36839
+names["Unadorned Chain Boots"] = 20915
+names["Tattered Cloth Boots"] = 195
+names["Scraggy Leather Boots"] = 21010
+names["Shoddy Chain Boots"] = 21020
+names["Recruit's Boots"] = 6122
+names["Battleworn Shoes"] = 23349
+names["Trapper's Boots"] = 6127
+names["QAEnchant Boots +5 Snare Resist & +10 Hit Rating"] = 29854
+names["Thug Boots"] = 6138
+names["Rugged Trapper's Boots"] = 23472
+names["QAEnchant Boots +12 Agility"] = 29856
+names["Recruit's Boots"] = 23475
+names["QAEnchant Boots +12 Stamina"] = 29857
+names["CRobinson Plate Boots"] = 40223
+names["CRobinson Leather Boots"] = 40230
+names["Initiate's Boots"] = 24146
+names["Lookout's Shoes"] = 20898
+names["Soul-Trader's Boots"] = 38162
+names["Scout's Boots"] = 23348
+names["QAEnchant Boots +9 Stamina & +8% Speed"] = 29852
+names["DB58 Mail Healer Feet2"] = 38066
+names["Formula: Enchant Boots - Fortitude"] = 22543
+names["Scroll of Enchant Boots - Stamina"] = 38830
+names["Tarnished Chain Boots"] = 2383
+names["Sun Cured Boots"] = 20921
+names["QAEnchant Boots +4 Health & Mana\5"] = 30199
+names["Rugged Trapper's Boots"] = 129
+names["QR ZD25 Mail Physical Feet2 - PH"] = 39884
+names["DB58 Cloth Spell Feet3"] = 37979
+names["DB53 Leather Physical Feet3"] = 38018
+names["DB54 Mail Physical Feet3"] = 38062
+names["QR 10637 Plate Warrior Boots"] = 30965
+names["Formula: 01 Enchanting Recipe Template (Standard)"] = 36840
+names["Scroll of Enchant Boots - Greater Vitality"] = 38974
+names["Enchant Boots - Fortitude"] = 35417
+names["Formula: Enchant Boots - Minor Stamina"] = 6376
+names["Scroll of Enchant Boots - Minor Stamina"] = 38785
+names["Formula: 03 Enchanting Recipe Template (Superior)"] = 36838
+names["Thin Cloth Shoes"] = 2117
+names["Cracked Leather Boots"] = 2123
+names["Rusted Chain Boots"] = 2389
+names["Unkempt Shoes"] = 21008
+names["Ragged Leather Boots"] = 1367
+names["Flimsy Chain Boots"] = 2650
+names["QAEnchant Boots +6 Agility & +8% Speed"] = 29853
+names["Durability Boots"] = 14384
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

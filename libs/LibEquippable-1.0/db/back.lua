@@ -934,6 +934,118 @@ items[37048] = {id=37048,name="Shroud of Resurrection",source={ID=26687,SourceNa
 items[43925] = {id=43925,name="Shadow Vault Shawl",source={ID=12893,SourceName="Free Your Mind",SourceType="Quest",DropChance="0",Zone="Icecrown"}}
 items[36413] = {id=36413,name="Dyed Taffeta Cape",source={ID=24849,SourceName="Proto-Drake Rider",SourceType="Kill",DropChance="0.3",Zone="Utgarde Keep"}}
 items[39674] = {id=39674,name="Cloak of the Buzzing Swarm",source={ID=12573,SourceName="Making Peace",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
+items[44472] = {id=44472,name="Formula: Enchant Cloak - Greater Speed",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[11039] = {id=11039,name="Formula: Enchant Cloak - Minor Agility",source={ID=5800,SourceName="Marcus Bel",SourceType="Kill",DropChance="0.1",Zone="The Barrens"}}
+items[37349] = {id=37349,name="Formula: Enchant Cloak - Shadow Armor",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[37348] = {id=37348,name="Formula: Enchant Cloak - Haste",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44471] = {id=44471,name="Formula: Enchant Cloak - Mighty Armor",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[37333] = {id=37333,name="Formula: Enchant Cloak - Superior Nature Resistance",source={ID=32290,SourceName="Cult Alchemist",SourceType="Kill",DropChance="0.3",Zone="Icecrown"}}
+items[41111] = {id=41111,name="Flexweave Underlay",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37347] = {id=37347,name="Formula: Enchant Cloak - Titanweave",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[37334] = {id=37334,name="Formula: Enchant Cloak - Superior Shadow Resistance",source={ID=32349,SourceName="Cultist Shard Watcher",SourceType="Kill",DropChance="0.8",Zone="Icecrown"}}
+items[37332] = {id=37332,name="Formula: Enchant Cloak - Superior Frost Resistance",source={ID=32289,SourceName="Damned Apothecary",SourceType="Kill",DropChance="0.3",Zone="Icecrown"}}
+items[16224] = {id=16224,name="Formula: Enchant Cloak - Superior Defense",source={ID=12022,SourceName="Lorelae Wintersong",SourceType="Purchase",DropChance="100",Zone="Moonglade"}}
+items[44488] = {id=44488,name="Formula: Enchant Cloak - Wisdom",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[51994] = {id=51994,name="Tumultuous Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37331] = {id=37331,name="Formula: Enchant Cloak - Superior Fire Resistance",source={ID=30921,SourceName="Skeletal Runesmith",SourceType="Kill",DropChance="0.7",Zone="Icecrown"}}
+items[39003] = {id=39003,name="Scroll of Enchant Cloak - Greater Speed",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37330] = {id=37330,name="Formula: Enchant Cloak - Superior Arcane Resistance",source={ID=31702,SourceName="Frostbrood Spawn",SourceType="Kill",DropChance="1.3",Zone="Icecrown"}}
+items[10518] = {id=10518,name="Parachute Cloak",source={ID=12616,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[37335] = {id=37335,name="Formula: Enchant Cloak - Superior Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44457] = {id=44457,name="Scroll of Enchant Cloak - Major Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38973] = {id=38973,name="Scroll of Enchant Cloak - Spell Piercing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11206] = {id=11206,name="Formula: Enchant Cloak - Lesser Agility",source={ID=2246,SourceName="Syndicate Assassin",SourceType="Kill",DropChance="1.8",Zone="Alterac Mountains"}}
+items[51993] = {id=51993,name="Turbulent Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33149] = {id=33149,name="Formula: Enchant Cloak - Stealth",source={ID=17904,SourceName="Fedryen Swiftspear",SourceType="Purchase",DropChance="100",Zone="Zangarmarsh"}}
+items[44456] = {id=44456,name="Scroll of Enchant Cloak - Speed",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[53048] = {id=53048,name="Doomsday Message",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38993] = {id=38993,name="Scroll of Enchant Cloak - Shadow Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5387] = {id=5387,name="Enchanted Moonstalker Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35756] = {id=35756,name="Formula: Enchant Cloak - Steelweave",source={ID=24560,SourceName="Priestess Delrissa",SourceType="Kill",DropChance="8.0",Zone="Magisters' Terrace"}}
+items[187800] = {id=187800,name="Enchant Cloak - Subtlety",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39001] = {id=39001,name="Scroll of Enchant Cloak - Mighty Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20734] = {id=20734,name="Formula: Enchant Cloak - Stealth",source={ID=15543,SourceName="Princess Yauj",SourceType="Kill",DropChance="1.4",Zone="Ahn'Qiraj"}}
+items[38891] = {id=38891,name="Scroll of Enchant Cloak - Greater Fire Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28274] = {id=28274,name="Formula: Enchant Cloak - Spell Penetration",source={ID=20242,SourceName="Karaaz",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[38835] = {id=38835,name="Scroll of Enchant Cloak - Lesser Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39004] = {id=39004,name="Scroll of Enchant Cloak - Wisdom",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38978] = {id=38978,name="Scroll of Enchant Cloak - Titanweave",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22548] = {id=22548,name="Formula: Enchant Cloak - Major Resistance",source={ID=15547,SourceName="Spectral Charger",SourceType="Kill",DropChance="0",Zone="Karazhan"}}
+items[20736] = {id=20736,name="Formula: Enchant Cloak - Dodge",source={ID=15263,SourceName="The Prophet Skeram",SourceType="Kill",DropChance="1.3",Zone="Ahn'Qiraj"}}
+items[38825] = {id=38825,name="Scroll of Enchant Cloak - Greater Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20735] = {id=20735,name="Formula: Enchant Cloak - Subtlety",source={ID=15276,SourceName="Emperor Vek'lor",SourceType="Kill",DropChance="8.7",Zone="Ahn'Qiraj"}}
+items[20732] = {id=20732,name="Formula: Enchant Cloak - Greater Fire Resistance",source={ID=15419,SourceName="Kania",SourceType="Purchase",DropChance="100",Zone="Silithus"}}
+items[16216] = {id=16216,name="Formula: Enchant Cloak - Greater Resistance",source={ID=5259,SourceName="Atal'ai Witch Doctor",SourceType="Kill",DropChance="1.1",Zone="The Temple of Atal'Hakkar"}}
+items[28045] = {id=28045,name="Cloak of the Demon Stalker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38977] = {id=38977,name="Scroll of Enchant Cloak - Superior Shadow Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28277] = {id=28277,name="Formula: Enchant Cloak - Greater Shadow Resistance",source={ID=18870,SourceName="Voidshrieker",SourceType="Kill",DropChance="0.7",Zone="Netherstorm"}}
+items[20733] = {id=20733,name="Formula: Enchant Cloak - Greater Nature Resistance",source={ID=15419,SourceName="Kania",SourceType="Purchase",DropChance="100",Zone="Silithus"}}
+items[39300] = {id=39300,name="Spring Loaded Cloak Expander",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38858] = {id=38858,name="Scroll of Enchant Cloak - Greater Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11098] = {id=11098,name="Formula: Enchant Cloak - Lesser Shadow Resistance",source={ID=1014,SourceName="Mosshide Alpha",SourceType="Kill",DropChance="0.1",Zone="Wetlands"}}
+items[39828] = {id=39828,name="Punisher's Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37955] = {id=37955,name="DB26 Healer Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38256] = {id=38256,name="BTBlue Healer Cloak1",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38959] = {id=38959,name="Scroll of Enchant Cloak - Superior Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33148] = {id=33148,name="Formula: Enchant Cloak - Dodge",source={ID=21655,SourceName="Nakodu",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[38894] = {id=38894,name="Scroll of Enchant Cloak - Subtlety",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38939] = {id=38939,name="Scroll of Enchant Cloak - Spell Penetration",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1372] = {id=1372,name="Ragged Cloak",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="3.9",Zone="Durotar"}}
+items[34782] = {id=34782,name="Imbued Scourge Shroud",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37974] = {id=37974,name="DB52 Spell Cloak2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35876] = {id=35876,name="Talbuk Cape",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38255] = {id=38255,name="BTBlue Physical Cloak1",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38950] = {id=38950,name="Scroll of Enchant Cloak - Superior Frost Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38956] = {id=38956,name="Scroll of Enchant Cloak - Superior Nature Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39000] = {id=39000,name="Scroll of Enchant Cloak - Steelweave",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38893] = {id=38893,name="Scroll of Enchant Cloak - Stealth",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[187738] = {id=187738,name="Enchant Cloak - Stealth",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38895] = {id=38895,name="Scroll of Enchant Cloak - Dodge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33150] = {id=33150,name="Formula: Enchant Cloak - Subtlety",source={ID=17657,SourceName="Logistics Officer Ulrike",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[28276] = {id=28276,name="Formula: Enchant Cloak - Greater Arcane Resistance",source={ID=19796,SourceName="Eclipsion Archmage",SourceType="Kill",DropChance="1.0",Zone="Shadowmoon Valley"}}
+items[38941] = {id=38941,name="Scroll of Enchant Cloak - Greater Arcane Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35435] = {id=35435,name="Enchant Cloak - Major Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38915] = {id=38915,name="Scroll of Enchant Cloak - Major Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38826] = {id=38826,name="Scroll of Enchant Cloak - Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38806] = {id=38806,name="Scroll of Enchant Cloak - Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38795] = {id=38795,name="Scroll of Enchant Cloak - Lesser Shadow Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38789] = {id=38789,name="Scroll of Enchant Cloak - Minor Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22782] = {id=22782,name="Sin'dorei Cloak of Warding",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1429] = {id=1429,name="Patchwork Cloak",source={ID=15636,SourceName="Eversong Green Keeper",SourceType="Kill",DropChance="1.4",Zone="Eversong Woods"}}
+items[2644] = {id=2644,name="Loose Chain Cloak",source={ID=37214,SourceName="Crown Lackey",SourceType="Kill",DropChance="1.8",Zone="Elwynn Forest"}}
+items[21004] = {id=21004,name="Unkempt Cloak",source={ID=15367,SourceName="Felendren the Banished",SourceType="Kill",DropChance="2.5",Zone="Eversong Woods"}}
+items[1376] = {id=1376,name="Frayed Cloak",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.8",Zone="Durotar"}}
+items[2652] = {id=2652,name="Flimsy Chain Cloak",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="3.3",Zone="Durotar"}}
+items[30198] = {id=30198,name="QAEnchant Cloak +7 Resistances",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38254] = {id=38254,name="BTBlue Spell Cloak1",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38982] = {id=38982,name="Scroll of Enchant Cloak - Superior Arcane Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35436] = {id=35436,name="Enchant Cloak - Spell Penetration",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38892] = {id=38892,name="Scroll of Enchant Cloak - Greater Nature Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[187807] = {id=187807,name="Enchant Cloak - Greater Nature Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[187815] = {id=187815,name="Enchant Cloak - Greater Fire Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35432] = {id=35432,name="Enchant Cloak - Greater Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35434] = {id=35434,name="Enchant Cloak - Greater Shadow Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38940] = {id=38940,name="Scroll of Enchant Cloak - Greater Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38859] = {id=38859,name="Scroll of Enchant Cloak - Superior Defense",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3322] = {id=3322,name="Wispy Cloak",source={ID=1531,SourceName="Lost Soul",SourceType="Kill",DropChance="96.5",Zone="Tirisfal Glades"}}
+items[38969] = {id=38969,name="Scroll of Enchant Cloak - Superior Fire Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35437] = {id=35437,name="Enchant Cloak - Major Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33151] = {id=33151,name="Formula: Enchant Cloak - Subtlety",source={ID=17585,SourceName="Quartermaster Urgronn",SourceType="Purchase",DropChance="100",Zone="Hellfire Peninsula"}}
+items[35433] = {id=35433,name="Enchant Cloak - Greater Arcane Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38942] = {id=38942,name="Scroll of Enchant Cloak - Greater Shadow Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38914] = {id=38914,name="Scroll of Enchant Cloak - Major Armor",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38815] = {id=38815,name="Scroll of Enchant Cloak - Fire Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38784] = {id=38784,name="Scroll of Enchant Cloak - Lesser Fire Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38790] = {id=38790,name="Scroll of Enchant Cloak - Lesser Protection",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38775] = {id=38775,name="Scroll of Enchant Cloak - Minor Protection",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6345] = {id=6345,name="Formula: Imbue Cloak - Protection",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38770] = {id=38770,name="Scroll of Enchant Cloak - Minor Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2570] = {id=2570,name="Linen Cloak",source={ID=2387,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[3261] = {id=3261,name="Webbed Cloak",source={ID=1688,SourceName="Night Web Matriarch",SourceType="Kill",DropChance="79.0",Zone="Tirisfal Glades"}}
+items[29860] = {id=29860,name="QAEnchant Cloak +12 Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[14385] = {id=14385,name="Durability Cloak",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29858] = {id=29858,name="QAEnchant Cloak +15 Shadow Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29859] = {id=29859,name="QAEnchant Cloak +15 Arcane Resistance",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Spidersilk Drape"] = 45626
 names["Hillman's Cloak"] = 3719
@@ -1861,6 +1973,118 @@ names["Shroud of Resurrection"] = 37048
 names["Shadow Vault Shawl"] = 43925
 names["Dyed Taffeta Cape"] = 36413
 names["Cloak of the Buzzing Swarm"] = 39674
+names["Formula: Enchant Cloak - Greater Speed"] = 44472
+names["Formula: Enchant Cloak - Minor Agility"] = 11039
+names["Formula: Enchant Cloak - Shadow Armor"] = 37349
+names["Formula: Enchant Cloak - Haste"] = 37348
+names["Formula: Enchant Cloak - Mighty Armor"] = 44471
+names["Formula: Enchant Cloak - Superior Nature Resistance"] = 37333
+names["Flexweave Underlay"] = 41111
+names["Formula: Enchant Cloak - Titanweave"] = 37347
+names["Formula: Enchant Cloak - Superior Shadow Resistance"] = 37334
+names["Formula: Enchant Cloak - Superior Frost Resistance"] = 37332
+names["Formula: Enchant Cloak - Superior Defense"] = 16224
+names["Formula: Enchant Cloak - Wisdom"] = 44488
+names["Tumultuous Cloak"] = 51994
+names["Formula: Enchant Cloak - Superior Fire Resistance"] = 37331
+names["Scroll of Enchant Cloak - Greater Speed"] = 39003
+names["Formula: Enchant Cloak - Superior Arcane Resistance"] = 37330
+names["Parachute Cloak"] = 10518
+names["Formula: Enchant Cloak - Superior Agility"] = 37335
+names["Scroll of Enchant Cloak - Major Agility"] = 44457
+names["Scroll of Enchant Cloak - Spell Piercing"] = 38973
+names["Formula: Enchant Cloak - Lesser Agility"] = 11206
+names["Turbulent Cloak"] = 51993
+names["Formula: Enchant Cloak - Stealth"] = 33149
+names["Scroll of Enchant Cloak - Speed"] = 44456
+names["Doomsday Message"] = 53048
+names["Scroll of Enchant Cloak - Shadow Armor"] = 38993
+names["Enchanted Moonstalker Cloak"] = 5387
+names["Formula: Enchant Cloak - Steelweave"] = 35756
+names["Enchant Cloak - Subtlety"] = 187800
+names["Scroll of Enchant Cloak - Mighty Armor"] = 39001
+names["Formula: Enchant Cloak - Stealth"] = 20734
+names["Scroll of Enchant Cloak - Greater Fire Resistance"] = 38891
+names["Formula: Enchant Cloak - Spell Penetration"] = 28274
+names["Scroll of Enchant Cloak - Lesser Agility"] = 38835
+names["Scroll of Enchant Cloak - Wisdom"] = 39004
+names["Scroll of Enchant Cloak - Titanweave"] = 38978
+names["Formula: Enchant Cloak - Major Resistance"] = 22548
+names["Formula: Enchant Cloak - Dodge"] = 20736
+names["Scroll of Enchant Cloak - Greater Defense"] = 38825
+names["Formula: Enchant Cloak - Subtlety"] = 20735
+names["Formula: Enchant Cloak - Greater Fire Resistance"] = 20732
+names["Formula: Enchant Cloak - Greater Resistance"] = 16216
+names["Cloak of the Demon Stalker"] = 28045
+names["Scroll of Enchant Cloak - Superior Shadow Resistance"] = 38977
+names["Formula: Enchant Cloak - Greater Shadow Resistance"] = 28277
+names["Formula: Enchant Cloak - Greater Nature Resistance"] = 20733
+names["Spring Loaded Cloak Expander"] = 39300
+names["Scroll of Enchant Cloak - Greater Resistance"] = 38858
+names["Formula: Enchant Cloak - Lesser Shadow Resistance"] = 11098
+names["Punisher's Cloak"] = 39828
+names["DB26 Healer Cloak"] = 37955
+names["BTBlue Healer Cloak1"] = 38256
+names["Scroll of Enchant Cloak - Superior Agility"] = 38959
+names["Formula: Enchant Cloak - Dodge"] = 33148
+names["Scroll of Enchant Cloak - Subtlety"] = 38894
+names["Scroll of Enchant Cloak - Spell Penetration"] = 38939
+names["Ragged Cloak"] = 1372
+names["Imbued Scourge Shroud"] = 34782
+names["DB52 Spell Cloak2"] = 37974
+names["Talbuk Cape"] = 35876
+names["BTBlue Physical Cloak1"] = 38255
+names["Scroll of Enchant Cloak - Superior Frost Resistance"] = 38950
+names["Scroll of Enchant Cloak - Superior Nature Resistance"] = 38956
+names["Scroll of Enchant Cloak - Steelweave"] = 39000
+names["Scroll of Enchant Cloak - Stealth"] = 38893
+names["Enchant Cloak - Stealth"] = 187738
+names["Scroll of Enchant Cloak - Dodge"] = 38895
+names["Formula: Enchant Cloak - Subtlety"] = 33150
+names["Formula: Enchant Cloak - Greater Arcane Resistance"] = 28276
+names["Scroll of Enchant Cloak - Greater Arcane Resistance"] = 38941
+names["Enchant Cloak - Major Resistance"] = 35435
+names["Scroll of Enchant Cloak - Major Resistance"] = 38915
+names["Scroll of Enchant Cloak - Resistance"] = 38826
+names["Scroll of Enchant Cloak - Defense"] = 38806
+names["Scroll of Enchant Cloak - Lesser Shadow Resistance"] = 38795
+names["Scroll of Enchant Cloak - Minor Agility"] = 38789
+names["Sin'dorei Cloak of Warding"] = 22782
+names["Patchwork Cloak"] = 1429
+names["Loose Chain Cloak"] = 2644
+names["Unkempt Cloak"] = 21004
+names["Frayed Cloak"] = 1376
+names["Flimsy Chain Cloak"] = 2652
+names["QAEnchant Cloak +7 Resistances"] = 30198
+names["BTBlue Spell Cloak1"] = 38254
+names["Scroll of Enchant Cloak - Superior Arcane Resistance"] = 38982
+names["Enchant Cloak - Spell Penetration"] = 35436
+names["Scroll of Enchant Cloak - Greater Nature Resistance"] = 38892
+names["Enchant Cloak - Greater Nature Resistance"] = 187807
+names["Enchant Cloak - Greater Fire Resistance"] = 187815
+names["Enchant Cloak - Greater Agility"] = 35432
+names["Enchant Cloak - Greater Shadow Resistance"] = 35434
+names["Scroll of Enchant Cloak - Greater Agility"] = 38940
+names["Scroll of Enchant Cloak - Superior Defense"] = 38859
+names["Wispy Cloak"] = 3322
+names["Scroll of Enchant Cloak - Superior Fire Resistance"] = 38969
+names["Enchant Cloak - Major Armor"] = 35437
+names["Formula: Enchant Cloak - Subtlety"] = 33151
+names["Enchant Cloak - Greater Arcane Resistance"] = 35433
+names["Scroll of Enchant Cloak - Greater Shadow Resistance"] = 38942
+names["Scroll of Enchant Cloak - Major Armor"] = 38914
+names["Scroll of Enchant Cloak - Fire Resistance"] = 38815
+names["Scroll of Enchant Cloak - Lesser Fire Resistance"] = 38784
+names["Scroll of Enchant Cloak - Lesser Protection"] = 38790
+names["Scroll of Enchant Cloak - Minor Protection"] = 38775
+names["Formula: Imbue Cloak - Protection"] = 6345
+names["Scroll of Enchant Cloak - Minor Resistance"] = 38770
+names["Linen Cloak"] = 2570
+names["Webbed Cloak"] = 3261
+names["QAEnchant Cloak +12 Agility"] = 29860
+names["Durability Cloak"] = 14385
+names["QAEnchant Cloak +15 Shadow Resistance"] = 29858
+names["QAEnchant Cloak +15 Arcane Resistance"] = 29859
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

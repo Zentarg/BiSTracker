@@ -240,6 +240,7 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                     local item = Item:CreateFromItemID(value.id)
                     item:ContinueOnItemLoad(function()
                         local _,itemLink,_,_,_,_,_,_,_,itemTexture,_,_,_,_,_,_,_ = GetItemInfo(value.id)
+                        
                         local hasItem = BiSTracker:CharacterHasItem(value.id)
                         if (key ~= "Relic" or BiSTracker.SelectedClass == "Hunter") then
                             BiSTracker.MainFrame.Model:TryOn(itemLink)
@@ -252,6 +253,7 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                             BiSTracker.IsHoveringItemSlot = true
 
                             GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
+                            print(itemLink:gsub("|", ","))
                             GameTooltip:SetHyperlink(itemLink)
                             
                             AddSourceToTooltip(value)
@@ -616,7 +618,13 @@ end
 local function InitFullUI()
     InitFrame(BiSTracker.MainFrame, true, "BiS Tracker", 560, 300, "BiSTrackerSheet")
     
-    BiSTracker.MainFrame.frame:SetResizeBounds(300, 520)
+    if BiSTracker.MainFrame.frame.SetResizeBounds then -- WoW 10.0
+        print("Set Resize Bounds")
+        BiSTracker.MainFrame.frame:SetResizeBounds(300, 520)
+    else
+        print("Set Min Resize")
+        BiSTracker.MainFrame.frame:SetMinResize(300, 520)
+    end
 
     BiSTracker.MainFrame.LeftSlots = CreateSimpleGroup("list", 45, 0)
     BiSTracker.MainFrame.BottomSlots = CreateSimpleGroup("flow", 136, 45)
@@ -998,7 +1006,7 @@ function BiSTracker:InitUI()
     BiSTracker.MainFrame.TopLeftButtonGroup.Reload:SetCallback("OnClick", function()
         BiSTracker.MainFrame:UpdateSetDisplay()
     end)
-    BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport = CreateIcon(20, 20, 25, 25, "Interface\\AddOns\\BiSTracker\\assets\\importexport")
+    BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport = CreateIcon(20, 20, 25, 25, "Interface\\AddOns\\BiSTracker\\assets\\importexport.blp")
     BiSTracker.MainFrame.TopLeftButtonGroup.ImportExport:SetCallback("OnClick", function()
         if (BiSTracker.Serializer.GUI:IsVisible()) then
             BiSTracker.Serializer.GUI:Hide()

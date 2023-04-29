@@ -1936,6 +1936,147 @@ items[39385] = {id=39385,name="Helm of the Ancient Horn",source={ID=12617,Source
 items[39428] = {id=39428,name="Faceguard of Flawless Aim",source={ID=12592,SourceName="The Great Hunter's Challenge",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[39436] = {id=39436,name="Insect-Filtering Faceguard",source={ID=12534,SourceName="The Sapphire Queen",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[38387] = {id=38387,name="Grizzled Hat",source={ID=50972,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[44149] = {id=44149,name="Arcanum of Torment",source={ID=32538,SourceName="Duchess Mynx",SourceType="Purchase",DropChance="100",Zone="Icecrown"}}
+items[45998] = {id=45998,name="Battered Jungle Hat",source={ID=46007,SourceName="Bag of Fishing Treasures",SourceType="Container",DropChance="0.2",Zone="Unknown"}}
+items[44159] = {id=44159,name="Arcanum of Burning Mysteries",source={ID=32287,SourceName="Archmage Alvareaux",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[50369] = {id=50369,name="Arcanum of the Stalwart Protector",source={ID=30431,SourceName="Veteran Crusader Aliocha Segard",SourceType="Purchase",DropChance="100",Zone="Icecrown"}}
+items[50367] = {id=50367,name="Arcanum of Torment",source={ID=32538,SourceName="Duchess Mynx",SourceType="Purchase",DropChance="100",Zone="Icecrown"}}
+items[50368] = {id=50368,name="Arcanum of Burning Mysteries",source={ID=32287,SourceName="Archmage Alvareaux",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44150] = {id=44150,name="Arcanum of the Stalwart Protector",source={ID=30431,SourceName="Veteran Crusader Aliocha Segard",SourceType="Purchase",DropChance="100",Zone="Icecrown"}}
+items[50370] = {id=50370,name="Arcanum of Blissful Mending",source={ID=32533,SourceName="Cielstrasza",SourceType="Purchase",DropChance="100",Zone="Dragonblight"}}
+items[44152] = {id=44152,name="Arcanum of Blissful Mending",source={ID=32533,SourceName="Cielstrasza",SourceType="Purchase",DropChance="100",Zone="Dragonblight"}}
+items[19972] = {id=19972,name="Lucky Fishing Hat",source={ID=8221,SourceName="Rare Fish - Keefer's Angelfish",SourceType="Quest",DropChance="0",Zone="WotLK"}}
+items[46349] = {id=46349,name="Chef's Hat",source={ID=31031,SourceName="Misensi",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[50372] = {id=50372,name="Arcanum of the Savage Gladiator",source={ID=32564,SourceName="Logistics Officer Silverstone",SourceType="Purchase",DropChance="100",Zone="Borean Tundra"}}
+items[44742] = {id=44742,name="Mechanized Snow Goggles",source={ID=61483,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[49715] = {id=49715,name="Forever-Lovely Rose",source={ID=36296,SourceName="Apothecary Hummel",SourceType="Kill",DropChance="3.5",Zone="Shadowfang Keep"}}
+items[10504] = {id=10504,name="Green Lens",source={ID=12622,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[44647] = {id=44647,name="Violet Hat",source={ID=29702,SourceName="Chameli Banaphash",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44803] = {id=44803,name="Spring Circlet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40895] = {id=40895,name="Gnomish X-Ray Specs",source={ID=56473,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[44702] = {id=44702,name="Arcanum of the Savage Gladiator",source={ID=32565,SourceName="Gara Skullcrush",SourceType="Purchase",DropChance="100",Zone="Borean Tundra"}}
+items[44741] = {id=44741,name="Mechanized Snow Goggles",source={ID=61482,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[44648] = {id=44648,name="Purple Turban",source={ID=29702,SourceName="Chameli Banaphash",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[50373] = {id=50373,name="Arcanum of the Savage Gladiator",source={ID=32565,SourceName="Gara Skullcrush",SourceType="Purchase",DropChance="100",Zone="Borean Tundra"}}
+items[34827] = {id=34827,name="Noble's Monocle",source={ID=34863,SourceName="Bag of Fishing Treasures",SourceType="Container",DropChance="1.1",Zone="Unknown"}}
+items[4385] = {id=4385,name="Green Tinted Goggles",source={ID=3956,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[46860] = {id=46860,name="Whimsical Skull Mask",source={ID=34382,SourceName="Chapman",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44740] = {id=44740,name="Mechanized Snow Goggles",source={ID=61481,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10542] = {id=10542,name="Goblin Mining Helmet",source={ID=12717,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4368] = {id=4368,name="Flying Tiger Goggles",source={ID=3934,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[7997] = {id=7997,name="Red Defias Mask",source={ID=450,SourceName="Defias Renegade Mage",SourceType="Kill",DropChance="4.5",Zone="Westfall"}}
+items[38089] = {id=38089,name="Ruby Shades",source={ID=18756,SourceName="Haris Pilton",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[44701] = {id=44701,name="Arcanum of the Savage Gladiator",source={ID=32564,SourceName="Logistics Officer Silverstone",SourceType="Purchase",DropChance="100",Zone="Borean Tundra"}}
+items[46735] = {id=46735,name="Synthebrew Goggles",source={ID=66592,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[30721] = {id=30721,name="Spectrecles",source={ID=37700,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38506] = {id=38506,name="Don Carlos' Famous Hat",source={ID=28132,SourceName="Don Carlos",SourceType="Kill",DropChance="10.3",Zone="Unknown"}}
+items[23829] = {id=23829,name="Gnomish Battle Goggles",source={ID=30575,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23758] = {id=23758,name="Cogspinner Goggles",source={ID=30316,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23762] = {id=23762,name="Ultra-Spectropic Detection Goggles",source={ID=30318,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[48945] = {id=48945,name="Gnomish Thinking Cap",source={ID=67824,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23763] = {id=23763,name="Hyper-Vision Goggles",source={ID=30325,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23828] = {id=23828,name="Gnomish Power Goggles",source={ID=30574,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10543] = {id=10543,name="Goblin Construction Helmet",source={ID=12718,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[45860] = {id=45860,name="Crystal Tiara",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9653] = {id=9653,name="Speedy Racer Goggles",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10588] = {id=10588,name="Goblin Rocket Helmet",source={ID=12758,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[43887] = {id=43887,name="QR IC34 Leather Physical Head3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20561] = {id=20561,name="Flimsy Male Dwarf Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[10545] = {id=10545,name="Gnomish Goggles",source={ID=12897,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10726] = {id=10726,name="Gnomish Mind Control Cap",source={ID=12907,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10503] = {id=10503,name="Rose Colored Goggles",source={ID=12618,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21525] = {id=21525,name="Green Winter Hat",source={ID=18732,SourceName="Grandmaster Vorpil",SourceType="Kill",DropChance="11.4",Zone="Shadow Labyrinth"}}
+items[42885] = {id=42885,name="Mountaineer's Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37444] = {id=37444,name="Wavekeeper's Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30719] = {id=30719,name="Spectrecles",source={ID=37602,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[4373] = {id=4373,name="Shadow Goggles",source={ID=3940,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[21524] = {id=21524,name="Red Winter Hat",source={ID=17862,SourceName="Captain Skarloc",SourceType="Kill",DropChance="36.0",Zone="Old Hillsbrad Foothills"}}
+items[41112] = {id=41112,name="Mechanized Snow Goggles",source={ID=56465,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23839] = {id=23839,name="Foreman's Reinforced Helmet",source={ID=30566,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[23761] = {id=23761,name="Power Amplification Goggles",source={ID=30317,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10782] = {id=10782,name="Hakkari Shroud",source={ID=10773,SourceName="Hakkari Urn",SourceType="Container",DropChance="98.5",Zone="Unknown"}}
+items[15999] = {id=15999,name="Spellpower Goggles Xtreme Plus",source={ID=19794,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10501] = {id=10501,name="Catseye Ultra Goggles",source={ID=12607,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[12064] = {id=12064,name="Gamemaster Hood",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39364] = {id=39364,name="Hood of the Titan Defender",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16008] = {id=16008,name="Master Engineer's Goggles",source={ID=19825,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10502] = {id=10502,name="Spellpower Goggles Xtreme",source={ID=12615,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10499] = {id=10499,name="Bright-Eye Goggles",source={ID=12587,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33292] = {id=33292,name="Hallowed Helm",source={ID=23682,SourceName="Headless Horseman",SourceType="Kill",DropChance="7.0",Zone="Scarlet Monastery"}}
+items[14386] = {id=14386,name="Durability Hat",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37295] = {id=37295,name="HF28 Cloth Spell Head4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23838] = {id=23838,name="Foreman's Enchanted Helmet",source={ID=30565,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[10500] = {id=10500,name="Fire Goggles",source={ID=12594,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33969] = {id=33969,name="Purple Brewfest Hat",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[10506] = {id=10506,name="Deepdive Helmet",source={ID=12617,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20598] = {id=20598,name="Sturdy Male Undead Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34008] = {id=34008,name="Blix's Eyesight Enhancing Romance Goggles",source={ID=24495,SourceName="Blix Fixwidget",SourceType="Purchase",DropChance="100",Zone="Durotar"}}
+items[20567] = {id=20567,name="Flimsy Female Troll Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.7",Zone="Unknown"}}
+items[37994] = {id=37994,name="DB21 Leather Healer Head",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20568] = {id=20568,name="Flimsy Male Troll Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[38163] = {id=38163,name="Soul-Trader's Head Wrap",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43486] = {id=43486,name="Mohawk Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38038] = {id=38038,name="DB21 Mail Healer Head",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30949] = {id=30949,name="QR 10574 Mail Hunter Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33047] = {id=33047,name="Belbi's Eyesight Enhancing Romance Goggles",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[20565] = {id=20565,name="Flimsy Female Human Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[33968] = {id=33968,name="Blue Brewfest Hat",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[20569] = {id=20569,name="Flimsy Female Orc Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[20562] = {id=20562,name="Flimsy Female Dwarf Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.7",Zone="Unknown"}}
+items[33105] = {id=33105,name="Budd's Guise of Zul'aman",source={ID=42540,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[39039] = {id=39039,name="QR IC36 Leather Physical Head3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41758] = {id=41758,name="Blood-Bond Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38016] = {id=38016,name="DB51 Leather Physical Head4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38021] = {id=38021,name="DB57 Leather Healer Head2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38065] = {id=38065,name="DB57 Mail Healer Head2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38123] = {id=38123,name="DB56 Plate Healer Head2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37473] = {id=37473,name="BT48 Plate Healer Head2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20584] = {id=20584,name="Sturdy Female Gnome Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20585] = {id=20585,name="Sturdy Female Human Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34007] = {id=34007,name="Sturdy Male Draenei Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20586] = {id=20586,name="Sturdy Female Night Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20597] = {id=20597,name="Sturdy Male Troll Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20587] = {id=20587,name="Sturdy Female Orc Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20593] = {id=20593,name="Sturdy Male Human Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34004] = {id=34004,name="Sturdy Female Draenei Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4393] = {id=4393,name="Craftsman's Monocle",source={ID=3966,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20566] = {id=20566,name="Flimsy Male Human Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[40218] = {id=40218,name="CRobinson Plate Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33967] = {id=33967,name="Green Brewfest Hat",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[40225] = {id=40225,name="CRobinson Leather Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20570] = {id=20570,name="Flimsy Male Orc Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[20392] = {id=20392,name="Flimsy Female Gnome Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[35233] = {id=35233,name="Multiphase Spectrographic Goggles",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20572] = {id=20572,name="Flimsy Male Tauren Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[20573] = {id=20573,name="Flimsy Male Undead Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[20574] = {id=20574,name="Flimsy Female Undead Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[20564] = {id=20564,name="Flimsy Male Night Elf Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[38119] = {id=38119,name="DB49 Plate Physical Head3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30935] = {id=30935,name="QR 10637 Leather Rogue Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25571] = {id=25571,name="QR 9863 Druid Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20591] = {id=20591,name="Sturdy Male Dwarf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33864] = {id=33864,name="Brown Brewfest Hat",source={ID=23710,SourceName="Belbi Quikswitch",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[40389] = {id=40389,name="Vic's Emergency Diving Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34082] = {id=34082,name="Diving Helm",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4491] = {id=4491,name="Goggles of Gem Hunting",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38525] = {id=38525,name="Jailor's Padded Cover",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20594] = {id=20594,name="Sturdy Male Night Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34005] = {id=34005,name="Sturdy Female Blood Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20595] = {id=20595,name="Sturdy Male Orc Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34006] = {id=34006,name="Sturdy Male Blood Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20596] = {id=20596,name="Sturdy Male Tauren Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20588] = {id=20588,name="Sturdy Female Tauren Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20589] = {id=20589,name="Sturdy Female Troll Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20590] = {id=20590,name="Sturdy Female Undead Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20592] = {id=20592,name="Sturdy Male Gnome Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20583] = {id=20583,name="Sturdy Female Dwarf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20391] = {id=20391,name="Flimsy Male Gnome Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.8",Zone="Unknown"}}
+items[34000] = {id=34000,name="Flimsy Female Blood Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20571] = {id=20571,name="Flimsy Female Tauren Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.7",Zone="Unknown"}}
+items[34001] = {id=34001,name="Flimsy Female Draenei Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34002] = {id=34002,name="Flimsy Male Blood Elf Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34003] = {id=34003,name="Flimsy Male Draenei Mask",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20563] = {id=20563,name="Flimsy Female Night Elf Mask",source={ID=20393,SourceName="Treat Bag",SourceType="Container",DropChance="1.7",Zone="Unknown"}}
 
 names["Blood Elf Bandit Mask"] = 23909
 names["Humbert's Helm"] = 4724
@@ -3865,6 +4006,147 @@ names["Helm of the Ancient Horn"] = 39385
 names["Faceguard of Flawless Aim"] = 39428
 names["Insect-Filtering Faceguard"] = 39436
 names["Grizzled Hat"] = 38387
+names["Arcanum of Torment"] = 44149
+names["Battered Jungle Hat"] = 45998
+names["Arcanum of Burning Mysteries"] = 44159
+names["Arcanum of the Stalwart Protector"] = 50369
+names["Arcanum of Torment"] = 50367
+names["Arcanum of Burning Mysteries"] = 50368
+names["Arcanum of the Stalwart Protector"] = 44150
+names["Arcanum of Blissful Mending"] = 50370
+names["Arcanum of Blissful Mending"] = 44152
+names["Lucky Fishing Hat"] = 19972
+names["Chef's Hat"] = 46349
+names["Arcanum of the Savage Gladiator"] = 50372
+names["Mechanized Snow Goggles"] = 44742
+names["Forever-Lovely Rose"] = 49715
+names["Green Lens"] = 10504
+names["Violet Hat"] = 44647
+names["Spring Circlet"] = 44803
+names["Gnomish X-Ray Specs"] = 40895
+names["Arcanum of the Savage Gladiator"] = 44702
+names["Mechanized Snow Goggles"] = 44741
+names["Purple Turban"] = 44648
+names["Arcanum of the Savage Gladiator"] = 50373
+names["Noble's Monocle"] = 34827
+names["Green Tinted Goggles"] = 4385
+names["Whimsical Skull Mask"] = 46860
+names["Mechanized Snow Goggles"] = 44740
+names["Goblin Mining Helmet"] = 10542
+names["Flying Tiger Goggles"] = 4368
+names["Red Defias Mask"] = 7997
+names["Ruby Shades"] = 38089
+names["Arcanum of the Savage Gladiator"] = 44701
+names["Synthebrew Goggles"] = 46735
+names["Spectrecles"] = 30721
+names["Don Carlos' Famous Hat"] = 38506
+names["Gnomish Battle Goggles"] = 23829
+names["Cogspinner Goggles"] = 23758
+names["Ultra-Spectropic Detection Goggles"] = 23762
+names["Gnomish Thinking Cap"] = 48945
+names["Hyper-Vision Goggles"] = 23763
+names["Gnomish Power Goggles"] = 23828
+names["Goblin Construction Helmet"] = 10543
+names["Crystal Tiara"] = 45860
+names["Speedy Racer Goggles"] = 9653
+names["Goblin Rocket Helmet"] = 10588
+names["QR IC34 Leather Physical Head3 - PH"] = 43887
+names["Flimsy Male Dwarf Mask"] = 20561
+names["Gnomish Goggles"] = 10545
+names["Gnomish Mind Control Cap"] = 10726
+names["Rose Colored Goggles"] = 10503
+names["Green Winter Hat"] = 21525
+names["Mountaineer's Helm"] = 42885
+names["Wavekeeper's Helm"] = 37444
+names["Spectrecles"] = 30719
+names["Shadow Goggles"] = 4373
+names["Red Winter Hat"] = 21524
+names["Mechanized Snow Goggles"] = 41112
+names["Foreman's Reinforced Helmet"] = 23839
+names["Power Amplification Goggles"] = 23761
+names["Hakkari Shroud"] = 10782
+names["Spellpower Goggles Xtreme Plus"] = 15999
+names["Catseye Ultra Goggles"] = 10501
+names["Gamemaster Hood"] = 12064
+names["Hood of the Titan Defender"] = 39364
+names["Master Engineer's Goggles"] = 16008
+names["Spellpower Goggles Xtreme"] = 10502
+names["Bright-Eye Goggles"] = 10499
+names["Hallowed Helm"] = 33292
+names["Durability Hat"] = 14386
+names["HF28 Cloth Spell Head4"] = 37295
+names["Foreman's Enchanted Helmet"] = 23838
+names["Fire Goggles"] = 10500
+names["Purple Brewfest Hat"] = 33969
+names["Deepdive Helmet"] = 10506
+names["Sturdy Male Undead Mask"] = 20598
+names["Blix's Eyesight Enhancing Romance Goggles"] = 34008
+names["Flimsy Female Troll Mask"] = 20567
+names["DB21 Leather Healer Head"] = 37994
+names["Flimsy Male Troll Mask"] = 20568
+names["Soul-Trader's Head Wrap"] = 38163
+names["Mohawk Mask"] = 43486
+names["DB21 Mail Healer Head"] = 38038
+names["QR 10574 Mail Hunter Helm"] = 30949
+names["Belbi's Eyesight Enhancing Romance Goggles"] = 33047
+names["Flimsy Female Human Mask"] = 20565
+names["Blue Brewfest Hat"] = 33968
+names["Flimsy Female Orc Mask"] = 20569
+names["Flimsy Female Dwarf Mask"] = 20562
+names["Budd's Guise of Zul'aman"] = 33105
+names["QR IC36 Leather Physical Head3 - PH"] = 39039
+names["Blood-Bond Helm"] = 41758
+names["DB51 Leather Physical Head4"] = 38016
+names["DB57 Leather Healer Head2"] = 38021
+names["DB57 Mail Healer Head2"] = 38065
+names["DB56 Plate Healer Head2"] = 38123
+names["BT48 Plate Healer Head2"] = 37473
+names["Sturdy Female Gnome Mask"] = 20584
+names["Sturdy Female Human Mask"] = 20585
+names["Sturdy Male Draenei Mask"] = 34007
+names["Sturdy Female Night Elf Mask"] = 20586
+names["Sturdy Male Troll Mask"] = 20597
+names["Sturdy Female Orc Mask"] = 20587
+names["Sturdy Male Human Mask"] = 20593
+names["Sturdy Female Draenei Mask"] = 34004
+names["Craftsman's Monocle"] = 4393
+names["Flimsy Male Human Mask"] = 20566
+names["CRobinson Plate Helm"] = 40218
+names["Green Brewfest Hat"] = 33967
+names["CRobinson Leather Helm"] = 40225
+names["Flimsy Male Orc Mask"] = 20570
+names["Flimsy Female Gnome Mask"] = 20392
+names["Multiphase Spectrographic Goggles"] = 35233
+names["Flimsy Male Tauren Mask"] = 20572
+names["Flimsy Male Undead Mask"] = 20573
+names["Flimsy Female Undead Mask"] = 20574
+names["Flimsy Male Night Elf Mask"] = 20564
+names["DB49 Plate Physical Head3"] = 38119
+names["QR 10637 Leather Rogue Helm"] = 30935
+names["QR 9863 Druid Helm"] = 25571
+names["Sturdy Male Dwarf Mask"] = 20591
+names["Brown Brewfest Hat"] = 33864
+names["Vic's Emergency Diving Helm"] = 40389
+names["Diving Helm"] = 34082
+names["Goggles of Gem Hunting"] = 4491
+names["Jailor's Padded Cover"] = 38525
+names["Sturdy Male Night Elf Mask"] = 20594
+names["Sturdy Female Blood Elf Mask"] = 34005
+names["Sturdy Male Orc Mask"] = 20595
+names["Sturdy Male Blood Elf Mask"] = 34006
+names["Sturdy Male Tauren Mask"] = 20596
+names["Sturdy Female Tauren Mask"] = 20588
+names["Sturdy Female Troll Mask"] = 20589
+names["Sturdy Female Undead Mask"] = 20590
+names["Sturdy Male Gnome Mask"] = 20592
+names["Sturdy Female Dwarf Mask"] = 20583
+names["Flimsy Male Gnome Mask"] = 20391
+names["Flimsy Female Blood Elf Mask"] = 34000
+names["Flimsy Female Tauren Mask"] = 20571
+names["Flimsy Female Draenei Mask"] = 34001
+names["Flimsy Male Blood Elf Mask"] = 34002
+names["Flimsy Male Draenei Mask"] = 34003
+names["Flimsy Female Night Elf Mask"] = 20563
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

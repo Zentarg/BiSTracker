@@ -368,6 +368,68 @@ items[36470] = {id=36470,name="Gilded Scepter",source={ID=31225,SourceName="Plag
 items[36468] = {id=36468,name="Glistening Star",source={ID=29885,SourceName="Mildred the Cruel",SourceType="Kill",DropChance="16.6",Zone="The Storm Peaks"}}
 items[42539] = {id=42539,name="Relentless Gladiator's Grimoire",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 items[36472] = {id=36472,name="Carved Rod",source={ID=32492,SourceName="Frostbrood Matriarch",SourceType="Kill",DropChance="20.0",Zone="Icecrown"}}
+items[6295] = {id=6295,name="15 Pound Mud Snapper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34484] = {id=34484,name="Old Ironjaw",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13917] = {id=13917,name="103 Pound Mightfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34486] = {id=34486,name="Old Crafty",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16967] = {id=16967,name="Feralas Ahi",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27516] = {id=27516,name="Enormous Barbed Gill Trout",source={ID=33844,SourceName="Barrel of Fish",SourceType="Container",DropChance="19.1",Zone="Unknown"}}
+items[6364] = {id=6364,name="32 Pound Catfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13887] = {id=13887,name="52 Pound Redgill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27515] = {id=27515,name="Huge Spotted Feltail",source={ID=33844,SourceName="Barrel of Fish",SourceType="Container",DropChance="17.8",Zone="Unknown"}}
+items[16768] = {id=16768,name="Furbolg Medicine Pouch",source={ID=11555,SourceName="Gorn One Eye",SourceType="Purchase",DropChance="100",Zone="Felwood"}}
+items[44678] = {id=44678,name="Wine Glass",source={ID=32337,SourceName="Christi Stockton",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[13905] = {id=13905,name="29 Pound Salmon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44679] = {id=44679,name="Red Wine Glass",source={ID=32337,SourceName="Christi Stockton",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[43327] = {id=43327,name="Stratholme Lily",source={ID=31021,SourceName="Sophie Aaren",SourceType="Purchase",DropChance="100",Zone="The Culling of Stratholme"}}
+items[44731] = {id=44731,name="Bouquet of Ebon Roses",source={ID=23953,SourceName="Prince Keleseth",SourceType="Kill",DropChance="2.7",Zone="Utgarde Keep"}}
+items[46861] = {id=46861,name="Bouquet of Orange Marigolds",source={ID=34382,SourceName="Chapman",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[43886] = {id=43886,name="QR IC34 Healer Offhand - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44802] = {id=44802,name="Egg Basket",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13371] = {id=13371,name="Father Flame",source={ID=175245,SourceName="Father Flame",SourceType="Container",DropChance="100.0",Zone="Blackrock Spire"}}
+items[6310] = {id=6310,name="19 Pound Catfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3421] = {id=3421,name="Simple Wildflowers",source={ID=8766,SourceName="Forest Ooze",SourceType="Kill",DropChance="0",Zone="Azshara"}}
+items[6309] = {id=6309,name="17 Pound Catfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22206] = {id=22206,name="Bouquet of Red Roses",source={ID=23953,SourceName="Prince Keleseth",SourceType="Kill",DropChance="2.8",Zone="Utgarde Keep"}}
+items[39147] = {id=39147,name="113 Pound Swordfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3419] = {id=3419,name="Red Rose",source={ID=10952,SourceName="Marauding Skeleton",SourceType="Kill",DropChance="41.6",Zone="Eastern Plaguelands"}}
+items[39832] = {id=39832,name="QR ZD26 Spell Offhand - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34140] = {id=34140,name="Dark Iron Tankard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23844] = {id=23844,name="Nolkai's Lantern",source={ID=23846,SourceName="Nolkai's Box",SourceType="Container",DropChance="98.5",Zone="Unknown"}}
+items[6292] = {id=6292,name="10 Pound Mud Snapper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6294] = {id=6294,name="12 Pound Mud Snapper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2410] = {id=2410,name="Smoky Torch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[7297] = {id=7297,name="Morbent's Bane",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13902] = {id=13902,name="18 Pound Salmon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6311] = {id=6311,name="22 Pound Catfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13906] = {id=13906,name="32 Pound Salmon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13914] = {id=13914,name="70 Pound Mightfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13915] = {id=13915,name="85 Pound Mightfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[34829] = {id=34829,name="Ornate Drinking Stein",source={ID=34863,SourceName="Bag of Fishing Treasures",SourceType="Container",DropChance="1.0",Zone="Unknown"}}
+items[13901] = {id=13901,name="15 Pound Salmon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13885] = {id=13885,name="34 Pound Redgill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11522] = {id=11522,name="Silver Totem of Aquementas",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3424] = {id=3424,name="Bouquet of Black Roses",source={ID=1302,SourceName="Bernard Gump",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[33014] = {id=33014,name="Fine Poking Stick",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13903] = {id=13903,name="22 Pound Salmon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13904] = {id=13904,name="25 Pound Salmon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13916] = {id=13916,name="92 Pound Mightfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13886] = {id=13886,name="37 Pound Redgill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6899] = {id=6899,name="Warlock Orb 35",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[8626] = {id=8626,name="Blue Sparkler",source={ID=8116,SourceName="Ziggle Sparks",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[23691] = {id=23691,name="Corrupted Mark of the Lightbringer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[6653] = {id=6653,name="Torch of the Dormant Flame",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3423] = {id=3423,name="Bouquet of White Roses",source={ID=1302,SourceName="Bernard Gump",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[6363] = {id=6363,name="26 Pound Catfish",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33012] = {id=33012,name="Terokkar Lilac",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13882] = {id=13882,name="42 Pound Redgill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13883] = {id=13883,name="45 Pound Redgill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[13884] = {id=13884,name="49 Pound Redgill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3420] = {id=3420,name="Black Rose",source={ID=1302,SourceName="Bernard Gump",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[3422] = {id=3422,name="Beautiful Wildflowers",source={ID=1302,SourceName="Bernard Gump",SourceType="Purchase",DropChance="100",Zone="Stormwind City"}}
+items[8625] = {id=8625,name="White Sparkler",source={ID=8116,SourceName="Ziggle Sparks",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[8624] = {id=8624,name="Red Sparkler",source={ID=8116,SourceName="Ziggle Sparks",SourceType="Purchase",DropChance="100",Zone="Stranglethorn Vale"}}
+items[3675] = {id=3675,name="Burnt Out Torch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Darkmoon Flower"] = 19295
 names["Stitches' Femur"] = 3360
@@ -729,6 +791,68 @@ names["Gilded Scepter"] = 36470
 names["Glistening Star"] = 36468
 names["Relentless Gladiator's Grimoire"] = 42539
 names["Carved Rod"] = 36472
+names["15 Pound Mud Snapper"] = 6295
+names["Old Ironjaw"] = 34484
+names["103 Pound Mightfish"] = 13917
+names["Old Crafty"] = 34486
+names["Feralas Ahi"] = 16967
+names["Enormous Barbed Gill Trout"] = 27516
+names["32 Pound Catfish"] = 6364
+names["52 Pound Redgill"] = 13887
+names["Huge Spotted Feltail"] = 27515
+names["Furbolg Medicine Pouch"] = 16768
+names["Wine Glass"] = 44678
+names["29 Pound Salmon"] = 13905
+names["Red Wine Glass"] = 44679
+names["Stratholme Lily"] = 43327
+names["Bouquet of Ebon Roses"] = 44731
+names["Bouquet of Orange Marigolds"] = 46861
+names["QR IC34 Healer Offhand - PH"] = 43886
+names["Egg Basket"] = 44802
+names["Father Flame"] = 13371
+names["19 Pound Catfish"] = 6310
+names["Simple Wildflowers"] = 3421
+names["17 Pound Catfish"] = 6309
+names["Bouquet of Red Roses"] = 22206
+names["113 Pound Swordfish"] = 39147
+names["Red Rose"] = 3419
+names["QR ZD26 Spell Offhand - PH"] = 39832
+names["Dark Iron Tankard"] = 34140
+names["Nolkai's Lantern"] = 23844
+names["10 Pound Mud Snapper"] = 6292
+names["12 Pound Mud Snapper"] = 6294
+names["Smoky Torch"] = 2410
+names["Morbent's Bane"] = 7297
+names["18 Pound Salmon"] = 13902
+names["22 Pound Catfish"] = 6311
+names["32 Pound Salmon"] = 13906
+names["70 Pound Mightfish"] = 13914
+names["85 Pound Mightfish"] = 13915
+names["Ornate Drinking Stein"] = 34829
+names["15 Pound Salmon"] = 13901
+names["34 Pound Redgill"] = 13885
+names["Silver Totem of Aquementas"] = 11522
+names["Bouquet of Black Roses"] = 3424
+names["Fine Poking Stick"] = 33014
+names["22 Pound Salmon"] = 13903
+names["25 Pound Salmon"] = 13904
+names["92 Pound Mightfish"] = 13916
+names["37 Pound Redgill"] = 13886
+names["Warlock Orb 35"] = 6899
+names["Blue Sparkler"] = 8626
+names["Corrupted Mark of the Lightbringer"] = 23691
+names["Torch of the Dormant Flame"] = 6653
+names["Bouquet of White Roses"] = 3423
+names["26 Pound Catfish"] = 6363
+names["Terokkar Lilac"] = 33012
+names["42 Pound Redgill"] = 13882
+names["45 Pound Redgill"] = 13883
+names["49 Pound Redgill"] = 13884
+names["Black Rose"] = 3420
+names["Beautiful Wildflowers"] = 3422
+names["White Sparkler"] = 8625
+names["Red Sparkler"] = 8624
+names["Burnt Out Torch"] = 3675
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

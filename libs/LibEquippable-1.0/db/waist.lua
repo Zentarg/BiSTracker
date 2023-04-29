@@ -1600,6 +1600,51 @@ items[39432] = {id=39432,name="Belt of Misconceptions",source={ID=12570,SourceNa
 items[39437] = {id=39437,name="Belt of Trapped Lightning",source={ID=12537,SourceName="Lightning Definitely Strikes Twice",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[39455] = {id=39455,name="Cracked Nest Stabilizer",source={ID=12532,SourceName="Flown the Coop!",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[39377] = {id=39377,name="Toenail Belt",source={ID=12556,SourceName="Rhino Mastery: The Kill",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
+items[40776] = {id=40776,name="Personal Electromagnetic Pulse Generator",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51978] = {id=51978,name="Earthbound Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51968] = {id=51968,name="Enumerated Wrap",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51971] = {id=51971,name="Enumerated Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51964] = {id=51964,name="Vigorous Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51977] = {id=51977,name="Earthbound Girdle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51959] = {id=51959,name="Vigorous Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51985] = {id=51985,name="Stalwart Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43938] = {id=43938,name="Belt of Rising Hope",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[23825] = {id=23825,name="Nigh Invulnerability Belt",source={ID=30570,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[37278] = {id=37278,name="BT47 Cloth Healer Belt2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[1369] = {id=1369,name="Ragged Leather Belt",source={ID=16518,SourceName="Nestlewood Owlkin",SourceType="Kill",DropChance="5.3",Zone="Azuremyst Isle"}}
+items[21009] = {id=21009,name="Scraggy Leather Belt",source={ID=15271,SourceName="Tender",SourceType="Kill",DropChance="1.7",Zone="Eversong Woods"}}
+items[37511] = {id=37511,name="Crucible Waistguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4951] = {id=4951,name="Squealer's Belt",source={ID=3229,SourceName="\"Squealer\" Thornmantle",SourceType="Kill",DropChance="96.8",Zone="Mulgore"}}
+items[3363] = {id=3363,name="Frayed Belt",source={ID=3101,SourceName="Vile Familiar",SourceType="Kill",DropChance="4.8",Zone="Durotar"}}
+items[22743] = {id=22743,name="Bloodsail Sash",source={ID=22746,SourceName="Buccaneer's Uniform",SourceType="Container",DropChance="92.3",Zone="Unknown"}}
+items[1835] = {id=1835,name="Dirty Leather Belt",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[38061] = {id=38061,name="DB53 Mail Physical Waist3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37210] = {id=37210,name="Seafarer Cinch",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[10721] = {id=10721,name="Gnomish Harm Prevention Belt",source={ID=12903,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[20914] = {id=20914,name="Unadorned Chain Belt",source={ID=15292,SourceName="Faraden Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[21002] = {id=21002,name="Unkempt Belt",source={ID=15294,SourceName="Feral Tender",SourceType="Kill",DropChance="1.8",Zone="Eversong Woods"}}
+items[24442] = {id=24442,name="Mail Belt of the Silverpine",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38738] = {id=38738,name="QR IC32 Cloth Spell Waist3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38125] = {id=38125,name="DB58 Plate Physical Waist4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30289] = {id=30289,name="Cenarion Warden's Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25582] = {id=25582,name="QR 9867 Druid Moonkin Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20989] = {id=20989,name="Light Cloth Belt",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[24227] = {id=24227,name="Soft Leather Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38285] = {id=38285,name="Soul-Trader's Waistband",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40221] = {id=40221,name="CRobinson Plate Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40228] = {id=40228,name="CRobinson Leather Belt",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39107] = {id=39107,name="QR IC39 Plate Physical Waist3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37451] = {id=37451,name="BT49 Mail Physical Belt3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2380] = {id=2380,name="Tarnished Chain Belt",source={ID=1104,SourceName="Grundel Harkin",SourceType="Purchase",DropChance="100",Zone="Dun Morogh"}}
+items[2649] = {id=2649,name="Flimsy Chain Belt",source={ID=1916,SourceName="Stephen Bhartec",SourceType="Kill",DropChance="3.8",Zone="Tirisfal Glades"}}
+items[21015] = {id=21015,name="Shoddy Chain Belt",source={ID=15273,SourceName="Arcane Wraith",SourceType="Kill",DropChance="1.1",Zone="Eversong Woods"}}
+items[37323] = {id=37323,name="BT48 Leather Physical Belt3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37453] = {id=37453,name="BT59 Mail Physical Belt4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20920] = {id=20920,name="Sun Cured Belt",source={ID=15291,SourceName="Jainthess Thelryn",SourceType="Purchase",DropChance="100",Zone="Eversong Woods"}}
+items[2122] = {id=2122,name="Cracked Leather Belt",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[2387] = {id=2387,name="Rusted Chain Belt",source={ID=2116,SourceName="Blacksmith Rand",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[3595] = {id=3595,name="Tattered Cloth Belt",source={ID=2113,SourceName="Archibald Kava",SourceType="Purchase",DropChance="100",Zone="Tirisfal Glades"}}
+items[3599] = {id=3599,name="Thin Cloth Belt",source={ID=190,SourceName="Dermot Johns",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 
 names["Deviate Scale Belt"] = 6468
 names["Keller's Girdle"] = 2911
@@ -3193,6 +3238,51 @@ names["Belt of Misconceptions"] = 39432
 names["Belt of Trapped Lightning"] = 39437
 names["Cracked Nest Stabilizer"] = 39455
 names["Toenail Belt"] = 39377
+names["Personal Electromagnetic Pulse Generator"] = 40776
+names["Earthbound Girdle"] = 51978
+names["Enumerated Wrap"] = 51968
+names["Enumerated Belt"] = 51971
+names["Vigorous Belt"] = 51964
+names["Earthbound Girdle"] = 51977
+names["Vigorous Belt"] = 51959
+names["Stalwart Belt"] = 51985
+names["Belt of Rising Hope"] = 43938
+names["Nigh Invulnerability Belt"] = 23825
+names["BT47 Cloth Healer Belt2"] = 37278
+names["Ragged Leather Belt"] = 1369
+names["Scraggy Leather Belt"] = 21009
+names["Crucible Waistguard"] = 37511
+names["Squealer's Belt"] = 4951
+names["Frayed Belt"] = 3363
+names["Bloodsail Sash"] = 22743
+names["Dirty Leather Belt"] = 1835
+names["DB53 Mail Physical Waist3"] = 38061
+names["Seafarer Cinch"] = 37210
+names["Gnomish Harm Prevention Belt"] = 10721
+names["Unadorned Chain Belt"] = 20914
+names["Unkempt Belt"] = 21002
+names["Mail Belt of the Silverpine"] = 24442
+names["QR IC32 Cloth Spell Waist3 - PH"] = 38738
+names["DB58 Plate Physical Waist4"] = 38125
+names["Cenarion Warden's Belt"] = 30289
+names["QR 9867 Druid Moonkin Belt"] = 25582
+names["Light Cloth Belt"] = 20989
+names["Soft Leather Belt"] = 24227
+names["Soul-Trader's Waistband"] = 38285
+names["CRobinson Plate Belt"] = 40221
+names["CRobinson Leather Belt"] = 40228
+names["QR IC39 Plate Physical Waist3 - PH"] = 39107
+names["BT49 Mail Physical Belt3"] = 37451
+names["Tarnished Chain Belt"] = 2380
+names["Flimsy Chain Belt"] = 2649
+names["Shoddy Chain Belt"] = 21015
+names["BT48 Leather Physical Belt3"] = 37323
+names["BT59 Mail Physical Belt4"] = 37453
+names["Sun Cured Belt"] = 20920
+names["Cracked Leather Belt"] = 2122
+names["Rusted Chain Belt"] = 2387
+names["Tattered Cloth Belt"] = 3595
+names["Thin Cloth Belt"] = 3599
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

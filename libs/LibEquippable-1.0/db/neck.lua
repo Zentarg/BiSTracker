@@ -743,6 +743,35 @@ items[45207] = {id=45207,name="Necklace of Stolen Skulls",source={ID=33553,Sourc
 items[43849] = {id=43849,name="Chain of the Sovereign",source={ID=12893,SourceName="Free Your Mind",SourceType="Quest",DropChance="0",Zone="Icecrown"}}
 items[45154] = {id=45154,name="Necklace of Valiant Blood",source={ID=33307,SourceName="Corporal Arthur Flew",SourceType="Purchase",DropChance="100",Zone="Icecrown"}}
 items[36440] = {id=36440,name="Gold Clasped Chain",source={ID=29809,SourceName="Son of Hodir",SourceType="Kill",DropChance="25.0",Zone="The Storm Peaks"}}
+items[34249] = {id=34249,name="Hula Girl Doll",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[51996] = {id=51996,name="Tumultuous Necklace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[49485] = {id=49485,name="Sparkling Onyxia Tooth Pendant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44392] = {id=44392,name="Necklace of Permeation",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51995] = {id=51995,name="Turbulent Necklace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44390] = {id=44390,name="Venomous Pendant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[49314] = {id=49314,name="Sparkling Onyxia Tooth Pendant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44391] = {id=44391,name="Cast Steel Choker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44389] = {id=44389,name="Curative Necklace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27944] = {id=27944,name="Talisman of True Treasure Tracking",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[42856] = {id=42856,name="Frosthowl Amulet",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[9333] = {id=9333,name="Tarnished Silver Necklace",source={ID=128403,SourceName="Shallow Grave",SourceType="Container",DropChance="18.5",Zone="Alterac Valley"}}
+items[37544] = {id=37544,name="Drakebone Necklace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20645] = {id=20645,name="Nature's Whisper",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16009] = {id=16009,name="Voice Amplification Modulator",source={ID=19819,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[27978] = {id=27978,name="Soap on a Rope",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[28043] = {id=28043,name="Demon Stalker Pendant",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27940] = {id=27940,name="Marvelous Madstone of Immortality",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[27992] = {id=27992,name="Infallible Tikbalang Ward",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[37976] = {id=37976,name="DB54 Healer Neck2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27982] = {id=27982,name="Charm of Potent and Powerful Passions",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[38069] = {id=38069,name="DB57 Physical Neck3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37549] = {id=37549,name="BT49 Healer Neck2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27976] = {id=27976,name="Polished Pendant of Edible Energy",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[27941] = {id=27941,name="Compassionate Critter's Friend",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[27945] = {id=27945,name="Shark's Tooth of Bona Fide Fluidic Mobility",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[16787] = {id=16787,name="Amulet of Draconic Subversion",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37997] = {id=37997,name="DB26 Spell Neck2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[27979] = {id=27979,name="Stone of Stupendous Springing Strides",source={ID=19227,SourceName="Griftah",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
 
 names["Scout's Medallion"] = 20442
 names["Sentinel's Medallion"] = 20444
@@ -1479,6 +1508,35 @@ names["Necklace of Stolen Skulls"] = 45207
 names["Chain of the Sovereign"] = 43849
 names["Necklace of Valiant Blood"] = 45154
 names["Gold Clasped Chain"] = 36440
+names["Hula Girl Doll"] = 34249
+names["Tumultuous Necklace"] = 51996
+names["Sparkling Onyxia Tooth Pendant"] = 49485
+names["Necklace of Permeation"] = 44392
+names["Turbulent Necklace"] = 51995
+names["Venomous Pendant"] = 44390
+names["Sparkling Onyxia Tooth Pendant"] = 49314
+names["Cast Steel Choker"] = 44391
+names["Curative Necklace"] = 44389
+names["Talisman of True Treasure Tracking"] = 27944
+names["Frosthowl Amulet"] = 42856
+names["Tarnished Silver Necklace"] = 9333
+names["Drakebone Necklace"] = 37544
+names["Nature's Whisper"] = 20645
+names["Voice Amplification Modulator"] = 16009
+names["Soap on a Rope"] = 27978
+names["Demon Stalker Pendant"] = 28043
+names["Marvelous Madstone of Immortality"] = 27940
+names["Infallible Tikbalang Ward"] = 27992
+names["DB54 Healer Neck2"] = 37976
+names["Charm of Potent and Powerful Passions"] = 27982
+names["DB57 Physical Neck3"] = 38069
+names["BT49 Healer Neck2"] = 37549
+names["Polished Pendant of Edible Energy"] = 27976
+names["Compassionate Critter's Friend"] = 27941
+names["Shark's Tooth of Bona Fide Fluidic Mobility"] = 27945
+names["Amulet of Draconic Subversion"] = 16787
+names["DB26 Spell Neck2"] = 37997
+names["Stone of Stupendous Springing Strides"] = 27979
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

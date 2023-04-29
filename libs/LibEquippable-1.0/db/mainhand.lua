@@ -643,6 +643,168 @@ items[42819] = {id=42819,name="Maker's Touch",source={ID=12872,SourceName="Norga
 items[43917] = {id=43917,name="Ritualist's Bloodletter",source={ID=13275,SourceName="Time to Hide",SourceType="Quest",DropChance="0",Zone="Icecrown"}}
 items[36693] = {id=36693,name="Serene Hammer",source={ID=31225,SourceName="Plaguehoof",SourceType="Kill",DropChance="4.1",Zone="Icecrown"}}
 items[43916] = {id=43916,name="Mace of the Final Command",source={ID=13275,SourceName="Time to Hide",SourceType="Quest",DropChance="0",Zone="Icecrown"}}
+items[44492] = {id=44492,name="Formula: Enchant Weapon - Berserking",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[46348] = {id=46348,name="Formula: Enchant Weapon - Blood Draining",source={ID=33113,SourceName="Flame Leviathan",SourceType="Kill",DropChance="3.9",Zone="Ulduar"}}
+items[44487] = {id=44487,name="Formula: Enchant Weapon - Mighty Spellpower",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[46027] = {id=46027,name="Formula: Enchant Weapon - Blade Ward",source={ID=33288,SourceName="Yogg-Saron",SourceType="Kill",DropChance="3.7",Zone="Ulduar"}}
+items[22559] = {id=22559,name="Formula: Enchant Weapon - Mongoose",source={ID=15687,SourceName="Moroes",SourceType="Kill",DropChance="8.2",Zone="Karazhan"}}
+items[16252] = {id=16252,name="Formula: Enchant Weapon - Crusader",source={ID=4494,SourceName="Scarlet Spellbinder",SourceType="Kill",DropChance="0.5",Zone="Western Plaguelands"}}
+items[44495] = {id=44495,name="Formula: Enchant Weapon - Black Magic",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[22551] = {id=22551,name="Formula: Enchant Weapon - Major Intellect",source={ID=20136,SourceName="Sunfury Researcher",SourceType="Kill",DropChance="1.0",Zone="Netherstorm"}}
+items[18259] = {id=18259,name="Formula: Enchant Weapon - Spellpower",source={ID=11982,SourceName="Magmadar",SourceType="Kill",DropChance="1.2",Zone="Molten Core"}}
+items[44494] = {id=44494,name="Formula: Enchant Weapon - Lifeward",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44496] = {id=44496,name="Formula: Enchant Weapon - Accuracy",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44467] = {id=44467,name="Scroll of Enchant Weapon - Mighty Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44493] = {id=44493,name="Scroll of Enchant Weapon - Berserking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41196] = {id=41196,name="Grand Spellstone",source={ID=47888,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[44945] = {id=44945,name="Formula: Enchant Weapon - Titanguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[5956] = {id=5956,name="Blacksmith Hammer",source={ID=66,SourceName="Tharynn Bouden",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[19449] = {id=19449,name="Formula: Enchant Weapon - Mighty Intellect",source={ID=12944,SourceName="Lokhtos Darkbargainer",SourceType="Purchase",DropChance="100",Zone="Blackrock Depths"}}
+items[6219] = {id=6219,name="Arclight Spanner",source={ID=7430,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[33307] = {id=33307,name="Formula: Enchant Weapon - Executioner",source={ID=23574,SourceName="Akil'zon",SourceType="Kill",DropChance="12.4",Zone="Zul'Aman"}}
+items[37344] = {id=37344,name="Formula: Enchant Weapon - Icebreaker",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[44486] = {id=44486,name="Formula: Enchant Weapon - Superior Potency",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[11207] = {id=11207,name="Formula: Enchant Weapon - Fiery Weapon",source={ID=9024,SourceName="Pyromancer Loregrain",SourceType="Kill",DropChance="39.5",Zone="Blackrock Depths"}}
+items[37339] = {id=37339,name="Formula: Enchant Weapon - Giant Slayer",source={ID=32514,SourceName="Vanessa Sellers",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[2901] = {id=2901,name="Mining Pick",source={ID=66,SourceName="Tharynn Bouden",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[38918] = {id=38918,name="Scroll of Enchant Weapon - Major Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37343] = {id=37343,name="Formula: Enchant Weapon - Exceptional Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18260] = {id=18260,name="Formula: Enchant Weapon - Healing Power",source={ID=11988,SourceName="Golemagg the Incinerator",SourceType="Kill",DropChance="1.2",Zone="Molten Core"}}
+items[43987] = {id=43987,name="Scroll of Enchant Weapon - Black Magic",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37329] = {id=37329,name="Formula: Enchant Weapon - Exceptional Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22555] = {id=22555,name="Formula: Enchant Weapon - Major Spellpower",source={ID=22242,SourceName="Bash'ir Spell-Thief",SourceType="Kill",DropChance="3.8",Zone="Blade's Edge Mountains"}}
+items[19445] = {id=19445,name="Formula: Enchant Weapon - Agility",source={ID=11557,SourceName="Meilosh",SourceType="Purchase",DropChance="100",Zone="Felwood"}}
+items[38991] = {id=38991,name="Scroll of Enchant Weapon - Exceptional Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[46026] = {id=46026,name="Scroll of Enchant Weapon - Blade Ward",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38925] = {id=38925,name="Scroll of Enchant Weapon - Mongoose",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[46098] = {id=46098,name="Scroll of Enchant Weapon - Blood Draining",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16254] = {id=16254,name="Formula: Enchant Weapon - Lifestealing",source={ID=10499,SourceName="Spectral Researcher",SourceType="Kill",DropChance="2.7",Zone="Scholomance"}}
+items[38880] = {id=38880,name="Scroll of Enchant Weapon - Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38877] = {id=38877,name="Scroll of Enchant Weapon - Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44497] = {id=44497,name="Scroll of Enchant Weapon - Accuracy",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[44453] = {id=44453,name="Scroll of Enchant Weapon - Greater Potency",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2862] = {id=2862,name="Rough Sharpening Stone",source={ID=2660,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[41174] = {id=41174,name="Grand Firestone",source={ID=60220,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[44946] = {id=44946,name="Scroll of Enchant Weapon - Titanguard",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22557] = {id=22557,name="Formula: Enchant Weapon - Battlemaster",source={ID=20905,SourceName="Blazing Trickster",SourceType="Kill",DropChance="0.1",Zone="The Arcatraz"}}
+items[44466] = {id=44466,name="Scroll of Enchant Weapon - Superior Potency",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38963] = {id=38963,name="Scroll of Enchant Weapon - Exceptional Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35498] = {id=35498,name="Formula: Enchant Weapon - Deathfrost",source={ID=188191,SourceName="Ice Chest",SourceType="Container",DropChance="1.0",Zone="The Slave Pens"}}
+items[38884] = {id=38884,name="Scroll of Enchant Weapon - Mighty Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38838] = {id=38838,name="Scroll of Enchant Weapon - Fiery Weapon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16223] = {id=16223,name="Formula: Enchant Weapon - Icy Chill",source={ID=7524,SourceName="Anguished Highborne",SourceType="Kill",DropChance="1.6",Zone="Winterspring"}}
+items[16248] = {id=16248,name="Formula: Enchant Weapon - Unholy",source={ID=16810,SourceName="Bonechewer Backbreaker",SourceType="Kill",DropChance="4.2",Zone="Terokkar Forest"}}
+items[38948] = {id=38948,name="Scroll of Enchant Weapon - Executioner",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[18610] = {id=18610,name="Keen Machete",source={ID=14432,SourceName="Threggil",SourceType="Kill",DropChance="94.3",Zone="Teldrassil"}}
+items[28281] = {id=28281,name="Formula: Enchant Weapon - Major Healing",source={ID=21432,SourceName="Almaador",SourceType="Purchase",DropChance="100",Zone="Shattrath City"}}
+items[22561] = {id=22561,name="Formula: Enchant Weapon - Soulfrost",source={ID=15688,SourceName="Terestian Illhoof",SourceType="Kill",DropChance="8.5",Zone="Karazhan"}}
+items[38873] = {id=38873,name="Scroll of Enchant Weapon - Crusader",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38878] = {id=38878,name="Scroll of Enchant Weapon - Healing Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[17725] = {id=17725,name="Formula: Enchant Weapon - Winter's Might",source={ID=17726,SourceName="Smokywood Pastures Special Gift",SourceType="Container",DropChance="17.3",Zone="Unknown"}}
+items[38876] = {id=38876,name="Scroll of Enchant Weapon - Winter's Might",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22560] = {id=22560,name="Formula: Enchant Weapon - Sunfire",source={ID=16524,SourceName="Shade of Aran",SourceType="Kill",DropChance="8.2",Zone="Karazhan"}}
+items[33165] = {id=33165,name="Formula: Enchant Weapon - Greater Agility",source={ID=18255,SourceName="Apprentice Darius",SourceType="Purchase",DropChance="100",Zone="Deadwind Pass"}}
+items[38927] = {id=38927,name="Scroll of Enchant Weapon - Battlemaster",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[16250] = {id=16250,name="Formula: Enchant Weapon - Superior Striking",source={ID=9216,SourceName="Spirestone Warlord",SourceType="Kill",DropChance="3.1",Zone="Blackrock Spire"}}
+items[38879] = {id=38879,name="Scroll of Enchant Weapon - Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22558] = {id=22558,name="Formula: Enchant Weapon - Spellsurge",source={ID=25599,SourceName="Cataclysm Hound",SourceType="Kill",DropChance="0.1",Zone="Sunwell Plateau"}}
+items[22553] = {id=22553,name="Formula: Enchant Weapon - Potency",source={ID=20202,SourceName="Cragskaar",SourceType="Kill",DropChance="0.1",Zone="Netherstorm"}}
+items[19448] = {id=19448,name="Formula: Enchant Weapon - Mighty Spirit",source={ID=12944,SourceName="Lokhtos Darkbargainer",SourceType="Purchase",DropChance="100",Zone="Blackrock Depths"}}
+items[41192] = {id=41192,name="Greater Spellstone",source={ID=17727,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38972] = {id=38972,name="Scroll of Enchant Weapon - Lifeward",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38946] = {id=38946,name="Scroll of Enchant Weapon - Major Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22552] = {id=22552,name="Formula: Enchant Weapon - Major Striking",source={ID=20242,SourceName="Karaaz",SourceType="Purchase",DropChance="100",Zone="Netherstorm"}}
+items[41194] = {id=41194,name="Master Spellstone",source={ID=28172,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6041] = {id=6041,name="Steel Weapon Chain",source={ID=7224,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[41191] = {id=41191,name="Spellstone",source={ID=2362,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35461] = {id=35461,name="Enchant Weapon - Spellsurge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35455] = {id=35455,name="Enchant Weapon - Major Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38916] = {id=38916,name="Scroll of Enchant Weapon - Major Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38872] = {id=38872,name="Scroll of Enchant Weapon - Unholy Weapon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[19444] = {id=19444,name="Formula: Enchant Weapon - Strength",source={ID=12944,SourceName="Lokhtos Darkbargainer",SourceType="Purchase",DropChance="100",Zone="Blackrock Depths"}}
+items[11165] = {id=11165,name="Formula: Enchant Weapon - Lesser Elemental Slayer",source={ID=4347,SourceName="Noxious Reaver",SourceType="Kill",DropChance="0.2",Zone="Dustwallow Marsh"}}
+items[38243] = {id=38243,name="Ravaging Steelfist",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41195] = {id=41195,name="Demonic Spellstone",source={ID=47886,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[35452] = {id=35452,name="Enchant Weapon - Battlemaster",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38921] = {id=38921,name="Scroll of Enchant Weapon - Major Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41193] = {id=41193,name="Major Spellstone",source={ID=17728,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[6348] = {id=6348,name="Formula: Enchant Weapon - Minor Beastslayer",source={ID=37917,SourceName="Crown Thug",SourceType="Kill",DropChance="1.5",Zone="Silverpine Forest"}}
+items[38995] = {id=38995,name="Scroll of Enchant Weapon - Exceptional Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35458] = {id=35458,name="Enchant Weapon - Mongoose",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38871] = {id=38871,name="Scroll of Enchant Weapon - Lifestealing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38868] = {id=38868,name="Scroll of Enchant Weapon - Icy Chill",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41171] = {id=41171,name="Greater Firestone",source={ID=17952,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38821] = {id=38821,name="Scroll of Enchant Weapon - Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38139] = {id=38139,name="DB50 Healer Mace3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38988] = {id=38988,name="Scroll of Enchant Weapon - Giant Slayer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41173] = {id=41173,name="Fel Firestone",source={ID=60219,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38926] = {id=38926,name="Scroll of Enchant Weapon - Spellsurge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38920] = {id=38920,name="Scroll of Enchant Weapon - Potency",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35454] = {id=35454,name="Enchant Weapon - Major Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40773] = {id=40773,name="Master Firestone",source={ID=27250,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38870] = {id=38870,name="Scroll of Enchant Weapon - Superior Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38848] = {id=38848,name="Scroll of Enchant Weapon - Greater Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2057] = {id=2057,name="Pitted Defias Shortsword",source={ID=38,SourceName="Defias Thug",SourceType="Kill",DropChance="1.4",Zone="Elwynn Forest"}}
+items[20981] = {id=20981,name="Neophyte's Mace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37] = {id=37,name="Worn Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[945] = {id=945,name="Shadow Sword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29843] = {id=29843,name="QAEnchant Weapon +30 Intellect",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38159] = {id=38159,name="DB20 Slow Right Fist",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38179] = {id=38179,name="DB38 Slow Right Fist2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38923] = {id=38923,name="Scroll of Enchant Weapon - Sunfire",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38924] = {id=38924,name="Scroll of Enchant Weapon - Soulfrost",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38998] = {id=38998,name="Scroll of Enchant Weapon - Deathfrost",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35459] = {id=35459,name="Enchant Weapon - Potency",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38947] = {id=38947,name="Scroll of Enchant Weapon - Greater Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35453] = {id=35453,name="Enchant Weapon - Greater Agility",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35456] = {id=35456,name="Enchant Weapon - Major Spellpower",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35457] = {id=35457,name="Enchant Weapon - Major Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41169] = {id=41169,name="Firestone",source={ID=17951,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[11164] = {id=11164,name="Formula: Enchant Weapon - Lesser Beastslayer",source={ID=14222,SourceName="Araga",SourceType="Kill",DropChance="0.7",Zone="Alterac Mountains"}}
+items[38813] = {id=38813,name="Scroll of Enchant Weapon - Lesser Beastslayer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41170] = {id=41170,name="Lesser Firestone",source={ID=6366,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38794] = {id=38794,name="Scroll of Enchant Weapon - Lesser Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38780] = {id=38780,name="Scroll of Enchant Weapon - Minor Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3239] = {id=3239,name="Rough Weightstone",source={ID=3115,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[1384] = {id=1384,name="Dull Blade",source={ID=2952,SourceName="Bristleback Quilboar",SourceType="Kill",DropChance="1.2",Zone="Mulgore"}}
+items[25] = {id=25,name="Worn Shortsword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[20977] = {id=20977,name="Recruit's Shortsword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[32952] = {id=32952,name="QAEnchant Weapon Spellsurge",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33022] = {id=33022,name="Brewfest Mug 2008 (Filled, F)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29837] = {id=29837,name="QAEnchant Weapon +81 Healing",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[33315] = {id=33315,name="QAEnchant Weapon Executioner",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29840] = {id=29840,name="QAEnchant Weapon Soulfrost",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29841] = {id=29841,name="QAEnchant Weapon Sunfire",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29842] = {id=29842,name="QAEnchant Weapon +40 Spell Damage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29845] = {id=29845,name="QAEnchant Weapon +20 Strength",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[42764] = {id=42764,name="Krolmir",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[187740] = {id=187740,name="Enchant Weapon - Mighty Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38883] = {id=38883,name="Scroll of Enchant Weapon - Mighty Spirit",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[41172] = {id=41172,name="Major Firestone",source={ID=17953,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[2481] = {id=2481,name="Peon Sword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[2054] = {id=2054,name="Trogg Hand Axe",source={ID=1718,SourceName="Rockjaw Raider",SourceType="Kill",DropChance="1.8",Zone="Dun Morogh"}}
+items[2055] = {id=2055,name="Small Wooden Hammer",source={ID=80,SourceName="Kobold Laborer",SourceType="Kill",DropChance="1.6",Zone="Elwynn Forest"}}
+items[2485] = {id=2485,name="Splintered Board",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3293] = {id=3293,name="Deadman Cleaver",source={ID=1917,SourceName="Daniel Ulfman",SourceType="Kill",DropChance="1.8",Zone="Tirisfal Glades"}}
+items[3294] = {id=3294,name="Deadman Club",source={ID=1918,SourceName="Karrel Grayves",SourceType="Kill",DropChance="3.3",Zone="Tirisfal Glades"}}
+items[20979] = {id=20979,name="Warder's Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[36] = {id=36,name="Worn Mace",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38965] = {id=38965,name="Scroll of Enchant Weapon - Icebreaker",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35460] = {id=35460,name="Enchant Weapon - Soulfrost",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[35462] = {id=35462,name="Enchant Weapon - Sunfire",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38917] = {id=38917,name="Scroll of Enchant Weapon - Major Striking",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38840] = {id=38840,name="Scroll of Enchant Weapon - Demonslaying",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[11208] = {id=11208,name="Formula: Enchant Weapon - Demonslaying",source={ID=5283,SourceName="Nightmare Wanderer",SourceType="Kill",DropChance="0.2",Zone="The Temple of Atal'Hakkar"}}
+items[38814] = {id=38814,name="Scroll of Enchant Weapon - Lesser Elemental Slayer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38779] = {id=38779,name="Scroll of Enchant Weapon - Minor Beastslayer",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4965] = {id=4965,name="Bloodhoof Hand Axe",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[3262] = {id=3262,name="Putrid Wooden Hammer",source={ID=1890,SourceName="Rattlecage Skeleton",SourceType="Kill",DropChance="1.9",Zone="Tirisfal Glades"}}
+items[3295] = {id=3295,name="Deadman Blade",source={ID=1919,SourceName="Samuel Fipps",SourceType="Kill",DropChance="0.9",Zone="Tirisfal Glades"}}
+items[29838] = {id=29838,name="QAEnchant Weapon Battlemaster",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29839] = {id=29839,name="QAEnchant Weapon Mongoose",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[948] = {id=948,name="Nature Sword",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[997] = {id=997,name="Fire Sword of Crippling",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[29844] = {id=29844,name="QAEnchant Weapon +7 Damage",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Instant Poison"] = 6947
 names["Shadow Oil"] = 3824
@@ -1279,6 +1441,168 @@ names["Maker's Touch"] = 42819
 names["Ritualist's Bloodletter"] = 43917
 names["Serene Hammer"] = 36693
 names["Mace of the Final Command"] = 43916
+names["Formula: Enchant Weapon - Berserking"] = 44492
+names["Formula: Enchant Weapon - Blood Draining"] = 46348
+names["Formula: Enchant Weapon - Mighty Spellpower"] = 44487
+names["Formula: Enchant Weapon - Blade Ward"] = 46027
+names["Formula: Enchant Weapon - Mongoose"] = 22559
+names["Formula: Enchant Weapon - Crusader"] = 16252
+names["Formula: Enchant Weapon - Black Magic"] = 44495
+names["Formula: Enchant Weapon - Major Intellect"] = 22551
+names["Formula: Enchant Weapon - Spellpower"] = 18259
+names["Formula: Enchant Weapon - Lifeward"] = 44494
+names["Formula: Enchant Weapon - Accuracy"] = 44496
+names["Scroll of Enchant Weapon - Mighty Spellpower"] = 44467
+names["Scroll of Enchant Weapon - Berserking"] = 44493
+names["Grand Spellstone"] = 41196
+names["Formula: Enchant Weapon - Titanguard"] = 44945
+names["Blacksmith Hammer"] = 5956
+names["Formula: Enchant Weapon - Mighty Intellect"] = 19449
+names["Arclight Spanner"] = 6219
+names["Formula: Enchant Weapon - Executioner"] = 33307
+names["Formula: Enchant Weapon - Icebreaker"] = 37344
+names["Formula: Enchant Weapon - Superior Potency"] = 44486
+names["Formula: Enchant Weapon - Fiery Weapon"] = 11207
+names["Formula: Enchant Weapon - Giant Slayer"] = 37339
+names["Mining Pick"] = 2901
+names["Scroll of Enchant Weapon - Major Intellect"] = 38918
+names["Formula: Enchant Weapon - Exceptional Agility"] = 37343
+names["Formula: Enchant Weapon - Healing Power"] = 18260
+names["Scroll of Enchant Weapon - Black Magic"] = 43987
+names["Formula: Enchant Weapon - Exceptional Spirit"] = 37329
+names["Formula: Enchant Weapon - Major Spellpower"] = 22555
+names["Formula: Enchant Weapon - Agility"] = 19445
+names["Scroll of Enchant Weapon - Exceptional Spellpower"] = 38991
+names["Scroll of Enchant Weapon - Blade Ward"] = 46026
+names["Scroll of Enchant Weapon - Mongoose"] = 38925
+names["Scroll of Enchant Weapon - Blood Draining"] = 46098
+names["Formula: Enchant Weapon - Lifestealing"] = 16254
+names["Scroll of Enchant Weapon - Agility"] = 38880
+names["Scroll of Enchant Weapon - Spellpower"] = 38877
+names["Scroll of Enchant Weapon - Accuracy"] = 44497
+names["Scroll of Enchant Weapon - Greater Potency"] = 44453
+names["Rough Sharpening Stone"] = 2862
+names["Grand Firestone"] = 41174
+names["Scroll of Enchant Weapon - Titanguard"] = 44946
+names["Formula: Enchant Weapon - Battlemaster"] = 22557
+names["Scroll of Enchant Weapon - Superior Potency"] = 44466
+names["Scroll of Enchant Weapon - Exceptional Spirit"] = 38963
+names["Formula: Enchant Weapon - Deathfrost"] = 35498
+names["Scroll of Enchant Weapon - Mighty Intellect"] = 38884
+names["Scroll of Enchant Weapon - Fiery Weapon"] = 38838
+names["Formula: Enchant Weapon - Icy Chill"] = 16223
+names["Formula: Enchant Weapon - Unholy"] = 16248
+names["Scroll of Enchant Weapon - Executioner"] = 38948
+names["Keen Machete"] = 18610
+names["Formula: Enchant Weapon - Major Healing"] = 28281
+names["Formula: Enchant Weapon - Soulfrost"] = 22561
+names["Scroll of Enchant Weapon - Crusader"] = 38873
+names["Scroll of Enchant Weapon - Healing Power"] = 38878
+names["Formula: Enchant Weapon - Winter's Might"] = 17725
+names["Scroll of Enchant Weapon - Winter's Might"] = 38876
+names["Formula: Enchant Weapon - Sunfire"] = 22560
+names["Formula: Enchant Weapon - Greater Agility"] = 33165
+names["Scroll of Enchant Weapon - Battlemaster"] = 38927
+names["Formula: Enchant Weapon - Superior Striking"] = 16250
+names["Scroll of Enchant Weapon - Strength"] = 38879
+names["Formula: Enchant Weapon - Spellsurge"] = 22558
+names["Formula: Enchant Weapon - Potency"] = 22553
+names["Formula: Enchant Weapon - Mighty Spirit"] = 19448
+names["Greater Spellstone"] = 41192
+names["Scroll of Enchant Weapon - Lifeward"] = 38972
+names["Scroll of Enchant Weapon - Major Healing"] = 38946
+names["Formula: Enchant Weapon - Major Striking"] = 22552
+names["Master Spellstone"] = 41194
+names["Steel Weapon Chain"] = 6041
+names["Spellstone"] = 41191
+names["Enchant Weapon - Spellsurge"] = 35461
+names["Enchant Weapon - Major Intellect"] = 35455
+names["Scroll of Enchant Weapon - Major Spirit"] = 38916
+names["Scroll of Enchant Weapon - Unholy Weapon"] = 38872
+names["Formula: Enchant Weapon - Strength"] = 19444
+names["Formula: Enchant Weapon - Lesser Elemental Slayer"] = 11165
+names["Ravaging Steelfist"] = 38243
+names["Demonic Spellstone"] = 41195
+names["Enchant Weapon - Battlemaster"] = 35452
+names["Scroll of Enchant Weapon - Major Spellpower"] = 38921
+names["Major Spellstone"] = 41193
+names["Formula: Enchant Weapon - Minor Beastslayer"] = 6348
+names["Scroll of Enchant Weapon - Exceptional Agility"] = 38995
+names["Enchant Weapon - Mongoose"] = 35458
+names["Scroll of Enchant Weapon - Lifestealing"] = 38871
+names["Scroll of Enchant Weapon - Icy Chill"] = 38868
+names["Greater Firestone"] = 41171
+names["Scroll of Enchant Weapon - Striking"] = 38821
+names["DB50 Healer Mace3"] = 38139
+names["Scroll of Enchant Weapon - Giant Slayer"] = 38988
+names["Fel Firestone"] = 41173
+names["Scroll of Enchant Weapon - Spellsurge"] = 38926
+names["Scroll of Enchant Weapon - Potency"] = 38920
+names["Enchant Weapon - Major Healing"] = 35454
+names["Master Firestone"] = 40773
+names["Scroll of Enchant Weapon - Superior Striking"] = 38870
+names["Scroll of Enchant Weapon - Greater Striking"] = 38848
+names["Pitted Defias Shortsword"] = 2057
+names["Neophyte's Mace"] = 20981
+names["Worn Axe"] = 37
+names["Shadow Sword"] = 945
+names["QAEnchant Weapon +30 Intellect"] = 29843
+names["DB20 Slow Right Fist"] = 38159
+names["DB38 Slow Right Fist2"] = 38179
+names["Scroll of Enchant Weapon - Sunfire"] = 38923
+names["Scroll of Enchant Weapon - Soulfrost"] = 38924
+names["Scroll of Enchant Weapon - Deathfrost"] = 38998
+names["Enchant Weapon - Potency"] = 35459
+names["Scroll of Enchant Weapon - Greater Agility"] = 38947
+names["Enchant Weapon - Greater Agility"] = 35453
+names["Enchant Weapon - Major Spellpower"] = 35456
+names["Enchant Weapon - Major Striking"] = 35457
+names["Firestone"] = 41169
+names["Formula: Enchant Weapon - Lesser Beastslayer"] = 11164
+names["Scroll of Enchant Weapon - Lesser Beastslayer"] = 38813
+names["Lesser Firestone"] = 41170
+names["Scroll of Enchant Weapon - Lesser Striking"] = 38794
+names["Scroll of Enchant Weapon - Minor Striking"] = 38780
+names["Rough Weightstone"] = 3239
+names["Dull Blade"] = 1384
+names["Worn Shortsword"] = 25
+names["Recruit's Shortsword"] = 20977
+names["QAEnchant Weapon Spellsurge"] = 32952
+names["Brewfest Mug 2008 (Filled, F)"] = 33022
+names["QAEnchant Weapon +81 Healing"] = 29837
+names["QAEnchant Weapon Executioner"] = 33315
+names["QAEnchant Weapon Soulfrost"] = 29840
+names["QAEnchant Weapon Sunfire"] = 29841
+names["QAEnchant Weapon +40 Spell Damage"] = 29842
+names["QAEnchant Weapon +20 Strength"] = 29845
+names["Krolmir"] = 42764
+names["Enchant Weapon - Mighty Spirit"] = 187740
+names["Scroll of Enchant Weapon - Mighty Spirit"] = 38883
+names["Major Firestone"] = 41172
+names["Peon Sword"] = 2481
+names["Trogg Hand Axe"] = 2054
+names["Small Wooden Hammer"] = 2055
+names["Splintered Board"] = 2485
+names["Deadman Cleaver"] = 3293
+names["Deadman Club"] = 3294
+names["Warder's Axe"] = 20979
+names["Worn Mace"] = 36
+names["Scroll of Enchant Weapon - Icebreaker"] = 38965
+names["Enchant Weapon - Soulfrost"] = 35460
+names["Enchant Weapon - Sunfire"] = 35462
+names["Scroll of Enchant Weapon - Major Striking"] = 38917
+names["Scroll of Enchant Weapon - Demonslaying"] = 38840
+names["Formula: Enchant Weapon - Demonslaying"] = 11208
+names["Scroll of Enchant Weapon - Lesser Elemental Slayer"] = 38814
+names["Scroll of Enchant Weapon - Minor Beastslayer"] = 38779
+names["Bloodhoof Hand Axe"] = 4965
+names["Putrid Wooden Hammer"] = 3262
+names["Deadman Blade"] = 3295
+names["QAEnchant Weapon Battlemaster"] = 29838
+names["QAEnchant Weapon Mongoose"] = 29839
+names["Nature Sword"] = 948
+names["Fire Sword of Crippling"] = 997
+names["QAEnchant Weapon +7 Damage"] = 29844
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

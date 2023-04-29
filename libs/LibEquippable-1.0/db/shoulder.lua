@@ -1900,6 +1900,50 @@ items[42834] = {id=42834,name="Mantle of Long Winter",source={ID=12986,SourceNam
 items[36369] = {id=36369,name="Magnataur Pauldrons",source={ID=30482,SourceName="Wrathstrike Gargoyle",SourceType="Kill",DropChance="0.7",Zone="Icecrown"}}
 items[39451] = {id=39451,name="Pauldrons of the Silent Mist",source={ID=12558,SourceName="Dreadsaber Mastery: Ready to Pounce",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
 items[39323] = {id=39323,name="Scrap-Hide Spaulders",source={ID=12558,SourceName="Dreadsaber Mastery: Ready to Pounce",SourceType="Quest",DropChance="0",Zone="Sholazar Basin"}}
+items[44133] = {id=44133,name="Greater Inscription of the Axe",source={ID=32540,SourceName="Lillehoff",SourceType="Purchase",DropChance="100",Zone="The Storm Peaks"}}
+items[44135] = {id=44135,name="Greater Inscription of the Storm",source={ID=32540,SourceName="Lillehoff",SourceType="Purchase",DropChance="100",Zone="The Storm Peaks"}}
+items[50335] = {id=50335,name="Greater Inscription of the Axe",source={ID=32540,SourceName="Lillehoff",SourceType="Purchase",DropChance="100",Zone="The Storm Peaks"}}
+items[50336] = {id=50336,name="Greater Inscription of the Crag",source={ID=32540,SourceName="Lillehoff",SourceType="Purchase",DropChance="100",Zone="The Storm Peaks"}}
+items[50338] = {id=50338,name="Greater Inscription of the Storm",source={ID=32540,SourceName="Lillehoff",SourceType="Purchase",DropChance="100",Zone="The Storm Peaks"}}
+items[50337] = {id=50337,name="Greater Inscription of the Pinnacle",source={ID=32540,SourceName="Lillehoff",SourceType="Purchase",DropChance="100",Zone="The Storm Peaks"}}
+items[44136] = {id=44136,name="Greater Inscription of the Pinnacle",source={ID=32540,SourceName="Lillehoff",SourceType="Purchase",DropChance="100",Zone="The Storm Peaks"}}
+items[44134] = {id=44134,name="Greater Inscription of the Crag",source={ID=32540,SourceName="Lillehoff",SourceType="Purchase",DropChance="100",Zone="The Storm Peaks"}}
+items[51969] = {id=51969,name="Enumerated Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51984] = {id=51984,name="Stalwart Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51961] = {id=51961,name="Vigorous Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51966] = {id=51966,name="Vigorous Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43902] = {id=43902,name="QR IC34 Plate Physical Shoulder2 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51983] = {id=51983,name="Stalwart Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51998] = {id=51998,name="Vigorous Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51974] = {id=51974,name="Enumerated Shoulderpads",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51975] = {id=51975,name="Earthbound Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51997] = {id=51997,name="Stalwart Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[51976] = {id=51976,name="Earthbound Shoulderguards",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[43878] = {id=43878,name="Mantle of Unholy Power",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22967] = {id=22967,name="Icy Scale Spaulders",source={ID=15931,SourceName="Grobbulus",SourceType="Kill",DropChance="9.9",Zone="Naxxramas"}}
+items[22968] = {id=22968,name="Glacial Mantle",source={ID=15931,SourceName="Grobbulus",SourceType="Kill",DropChance="10.0",Zone="Naxxramas"}}
+items[22073] = {id=22073,name="Deathmist Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25967] = {id=25967,name="Eagle Crested Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39071] = {id=39071,name="QR IC36 Mail Physical Shoulder3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22016] = {id=22016,name="Beastmaster's Mantle",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40219] = {id=40219,name="CRobinson Plate Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38286] = {id=38286,name="Soul-Trader's Pauldrons",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37386] = {id=37386,name="Ruby Heart Spaulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39042] = {id=39042,name="QR IC39 Leather Physical Shoulder3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38121] = {id=38121,name="DB53 Plate Healer Shoulder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37470] = {id=37470,name="BT56 Plate Physical Shoulders4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25968] = {id=25968,name="Shalassi Sentry's Epaulets",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39879] = {id=39879,name="QR ZD25 Leather Physical Shoulder2 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38022] = {id=38022,name="DB58 Leather Physical Shoulder4",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38052] = {id=38052,name="DB42 Leather Healer Shoulder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[22101] = {id=22101,name="Pauldrons of The Five Thunders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[40226] = {id=40226,name="CRobinson Leather Shoulders",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[4728] = {id=4728,name="Twain's Shoulder",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38742] = {id=38742,name="QR IC39 Cloth Spell Shoulder3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[39103] = {id=39103,name="QR IC32 Plate Physical Shoulder3 - PH",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37975] = {id=37975,name="DB53 Cloth Spell Shoulder3",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37977] = {id=37977,name="DB56 Cloth Healer Shoulder2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[30287] = {id=30287,name="Mantle of Arcane Mastery",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Cloaked Shoulderpads"] = 39895
 names["Darkcloth Shoulders"] = 39894
@@ -3793,6 +3837,50 @@ names["Mantle of Long Winter"] = 42834
 names["Magnataur Pauldrons"] = 36369
 names["Pauldrons of the Silent Mist"] = 39451
 names["Scrap-Hide Spaulders"] = 39323
+names["Greater Inscription of the Axe"] = 44133
+names["Greater Inscription of the Storm"] = 44135
+names["Greater Inscription of the Axe"] = 50335
+names["Greater Inscription of the Crag"] = 50336
+names["Greater Inscription of the Storm"] = 50338
+names["Greater Inscription of the Pinnacle"] = 50337
+names["Greater Inscription of the Pinnacle"] = 44136
+names["Greater Inscription of the Crag"] = 44134
+names["Enumerated Shoulders"] = 51969
+names["Stalwart Shoulderpads"] = 51984
+names["Vigorous Shoulderguards"] = 51961
+names["Vigorous Spaulders"] = 51966
+names["QR IC34 Plate Physical Shoulder2 - PH"] = 43902
+names["Stalwart Shoulderguards"] = 51983
+names["Vigorous Spaulders"] = 51998
+names["Enumerated Shoulderpads"] = 51974
+names["Earthbound Shoulders"] = 51975
+names["Stalwart Spaulders"] = 51997
+names["Earthbound Shoulderguards"] = 51976
+names["Mantle of Unholy Power"] = 43878
+names["Icy Scale Spaulders"] = 22967
+names["Glacial Mantle"] = 22968
+names["Deathmist Mantle"] = 22073
+names["Eagle Crested Pauldrons"] = 25967
+names["QR IC36 Mail Physical Shoulder3 - PH"] = 39071
+names["Beastmaster's Mantle"] = 22016
+names["CRobinson Plate Shoulders"] = 40219
+names["Soul-Trader's Pauldrons"] = 38286
+names["Ruby Heart Spaulders"] = 37386
+names["QR IC39 Leather Physical Shoulder3 - PH"] = 39042
+names["DB53 Plate Healer Shoulder"] = 38121
+names["BT56 Plate Physical Shoulders4"] = 37470
+names["Shalassi Sentry's Epaulets"] = 25968
+names["QR ZD25 Leather Physical Shoulder2 - PH"] = 39879
+names["DB58 Leather Physical Shoulder4"] = 38022
+names["DB42 Leather Healer Shoulder"] = 38052
+names["Pauldrons of The Five Thunders"] = 22101
+names["CRobinson Leather Shoulders"] = 40226
+names["Twain's Shoulder"] = 4728
+names["QR IC39 Cloth Spell Shoulder3 - PH"] = 38742
+names["QR IC32 Plate Physical Shoulder3 - PH"] = 39103
+names["DB53 Cloth Spell Shoulder3"] = 37975
+names["DB56 Cloth Healer Shoulder2"] = 37977
+names["Mantle of Arcane Mastery"] = 30287
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

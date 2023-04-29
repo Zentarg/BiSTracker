@@ -13,7 +13,7 @@ ZoneUrl = 'https://www.wowhead.com/wotlk/zone='
 SCRIPT_START = "var tabsRelated"# = new Tabs({parent: WH.ge('jkbfksdbl4')"#, trackable: 'Item'});"
 DATA_START = 'data:'
 
-path = './AllItems'
+path = './AllItems/MissingItems'
 
 class Item:
     def __init__(self, id, name, dropID, sourceName, sourceType, dropChance, zone):
@@ -88,7 +88,7 @@ def truncate(n, decimals=0):
 
 def GetItem(itemID, itemName = ''):
     if (itemID == 0):
-        return Item(itemID, itemName, 0, "", False, False, 0, False, 0, 0, "")
+        return Item(itemID, itemName, 0, "", "Unknown", 0, "")
     data_container = None
     url = URL + str(itemID)
     page = requests.get(url)

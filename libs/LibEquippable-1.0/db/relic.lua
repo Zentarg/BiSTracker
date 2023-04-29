@@ -258,6 +258,8 @@ items[51507] = {id=51507,name="Wrathful Gladiator's Totem of Indomitability",sou
 items[42577] = {id=42577,name="Hateful Gladiator's Idol of Tenacity",source={ID=31864,SourceName="Xazi Smolderpipe",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
 items[42575] = {id=42575,name="Savage Gladiator's Idol of Steadfastness",source={ID=31865,SourceName="Zom Bocom",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
 items[42595] = {id=42595,name="Savage Gladiator's Totem of the Third Wind",source={ID=31865,SourceName="Zom Bocom",SourceType="Purchase",DropChance="100",Zone="Dalaran"}}
+items[46978] = {id=46978,name="Totem of the Earthen Ring",source={ID=66747,SourceName="",SourceType="Recipe",DropChance="0",Zone=""}}
+items[38683] = {id=38683,name="Sigil of the Dark Rider (OLD)",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
 
 names["Idol of Perspicacious Attacks"] = 38365
 names["Sigil of the Frozen Conscience"] = 40822
@@ -509,6 +511,8 @@ names["Wrathful Gladiator's Totem of Indomitability"] = 51507
 names["Hateful Gladiator's Idol of Tenacity"] = 42577
 names["Savage Gladiator's Idol of Steadfastness"] = 42575
 names["Savage Gladiator's Totem of the Third Wind"] = 42595
+names["Totem of the Earthen Ring"] = 46978
+names["Sigil of the Dark Rider (OLD)"] = 38683
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)

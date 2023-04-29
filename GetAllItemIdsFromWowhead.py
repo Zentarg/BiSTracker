@@ -40,21 +40,21 @@ SLOTS = [
 
 LEVEL_RANGES = [
     {
-        'min_level': 1,
-        'max_level': 25
+        'min_level': 0,
+        'max_level': 0
     },
-    {
-        'min_level': 26,
-        'max_level': 50
-    },
-    {
-        'min_level': 51,
-        'max_level': 75
-    },
-    {
-        'min_level': 76,
-        'max_level': 100
-    },
+    # {
+    #     'min_level': 26,
+    #     'max_level': 50
+    # },
+    # {
+    #     'min_level': 51,
+    #     'max_level': 75
+    # },
+    # {
+    #     'min_level': 76,
+    #     'max_level': 100
+    # },
 ]
 
 def scrape_item_page(pageUrl):

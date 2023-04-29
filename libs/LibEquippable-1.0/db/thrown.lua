@@ -118,6 +118,13 @@ items[39138] = {id=39138,name="Deadly Razordarts",source={ID=13321,SourceName="R
 items[36724] = {id=36724,name="Frozen Throwing Blades",source={ID=16167,SourceName="Bony Construct",SourceType="Kill",DropChance="1.0",Zone="Naxxramas"}}
 items[43188] = {id=43188,name="Razor-sharp Ice Shards",source={ID=12868,SourceName="Sirana Iceshriek",SourceType="Quest",DropChance="0",Zone="The Storm Peaks"}}
 items[36721] = {id=36721,name="Dragon's Teeth",source={ID=34193,SourceName="Clockwork Sapper",SourceType="Kill",DropChance="0.2",Zone="Ulduar"}}
+items[28408] = {id=28408,name="Broken Silver Star",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[38167] = {id=38167,name="DB21 Thrown",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[37534] = {id=37534,name="BT56 Thrown2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25871] = {id=25871,name="Standard Thrown Weapon",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[28979] = {id=28979,name="Light Throwing Knife",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
+items[38192] = {id=38192,name="DB55 Thrown2",source={ID=0,SourceName="",SourceType="Unknown",DropChance="0",Zone=""}}
+items[25861] = {id=25861,name="Crude Throwing Axe",source={ID=151,SourceName="Brog Hamfist",SourceType="Purchase",DropChance="100",Zone="Elwynn Forest"}}
 
 names["Throat Piercers"] = 29584
 names["Heavy Throwing Dagger"] = 29009
@@ -229,6 +236,13 @@ names["Deadly Razordarts"] = 39138
 names["Frozen Throwing Blades"] = 36724
 names["Razor-sharp Ice Shards"] = 43188
 names["Dragon's Teeth"] = 36721
+names["Broken Silver Star"] = 28408
+names["DB21 Thrown"] = 38167
+names["BT56 Thrown2"] = 37534
+names["Standard Thrown Weapon"] = 25871
+names["Light Throwing Knife"] = 28979
+names["DB55 Thrown2"] = 38192
+names["Crude Throwing Axe"] = 25861
 
 LE:RegisterDBItems(items)
 LE:RegisterNameDBItems(names)
