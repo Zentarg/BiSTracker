@@ -3,7 +3,7 @@
 ## Title: BiS Tracker Dev Vanilla
 ## Notes: Shows BiS items for every class, and where to get them.
 ## Author: Zentarg
-## Version: 6.01
+## Version: 6.02
 ## SavedVariablesPerCharacter: BiS_Settings
 ## SavedVariables: BiSTrackerDB
 
