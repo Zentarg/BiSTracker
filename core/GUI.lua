@@ -253,7 +253,6 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                             BiSTracker.IsHoveringItemSlot = true
 
                             GameTooltip:SetOwner(BiSTracker.MainFrame.Slots[key].frame, "ANCHOR_RIGHT")
-                            print(itemLink:gsub("|", ","))
                             GameTooltip:SetHyperlink(itemLink)
                             
                             AddSourceToTooltip(value)
@@ -619,10 +618,8 @@ local function InitFullUI()
     InitFrame(BiSTracker.MainFrame, true, "BiS Tracker", 560, 300, "BiSTrackerSheet")
     
     if BiSTracker.MainFrame.frame.SetResizeBounds then -- WoW 10.0
-        print("Set Resize Bounds")
         BiSTracker.MainFrame.frame:SetResizeBounds(300, 520)
     else
-        print("Set Min Resize")
         BiSTracker.MainFrame.frame:SetMinResize(300, 520)
     end
 
