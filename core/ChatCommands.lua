@@ -3,29 +3,37 @@ BiSTracker:RegisterChatCommand("bst", "ChatCommand")
 
 BiSTracker.ChatCommands = {}
 
-BiSTracker.ChatCommands.HelpList = {
-    Help = {
-        Command = "/BST Help",
-        Description = "Shows this list"
-    },
-    ToggleMinimapButton = {
-        Command = "/BST ToggleMinimapButton",
-        Description = "Toggles the minimap button"
-    },
-    TMB = {
-        Command = "/BST TMB",
-        Description = "Short for /BST ToggleMinimapButton"
-    },
-    Options = {
-        Command = "/BST Options",
-        Description = "Opens the BiSTracker Options window"
+local L
+
+BiSTracker.ChatCommands.HelpList = {}
+
+function BiSTracker:InitChatCommands()
+    L = BiSTracker.L[BiSTracker.Settings.Locale]
+    BiSTracker.ChatCommands.HelpList = {
+        Help = {
+            Command = "/BST Help",
+            Description = L["Shows this list"]
+        },
+        ToggleMinimapButton = {
+            Command = "/BST ToggleMinimapButton",
+            Description = L["Toggles the minimap button"]
+        },
+        TMB = {
+            Command = "/BST TMB",
+            Description = L["Short for /BST ToggleMinimapButton"]
+        },
+        Options = {
+            Command = "/BST Options",
+            Description = L["Opens the BiSTracker Options window"]
+        }
     }
-}
+end
+
 
 function BiSTracker.ChatCommands:Help() 
-    BiSTracker:Print("|c00ffff00Version " .. BiSTracker.Version .. " commands:")
-    BiSTracker:Print("|cffffff00/BiSTracker: |cffffffffToggles the BiSTracker window")
-    BiSTracker:Print("|cffffff00/BST: |cffffffffShort for /BiSTracker")
+    BiSTracker:Print(L["|c00ffff00Version "] .. BiSTracker.Version .. L[" commands:"])
+    BiSTracker:Print(L["|cffffff00/BiSTracker: |cffffffffToggles the BiSTracker window"])
+    BiSTracker:Print(L["|cffffff00/BST: |cffffffffShort for /BiSTracker"])
     for key, value in pairs(BiSTracker.ChatCommands.HelpList) do
         BiSTracker:Print("|cffffff00" .. value.Command .. ": |cffffffff" .. value.Description)
     end

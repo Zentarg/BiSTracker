@@ -1,28 +1,33 @@
 BiSTracker = LibStub("AceAddon-3.0"):NewAddon("BiSTracker", "AceConsole-3.0", "AceEvent-3.0", "AceSerializer-3.0")
 BiSTracker.AceGUI = LibStub("AceGUI-3.0")
-local ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
-    type = "data source",
-    text = "BiSTracker",
-    icon = "Interface\\Addons\\BiSTracker\\Assets\\icon",
-    OnClick = function(Tip, button)
-        if button == "LeftButton"  then
-            BiSTracker:ToggleMainFrame()
-        elseif button == "RightButton" then
-            BiSTracker:ToggleOptions()
-        end
-    end,
-    OnTooltipShow = function(Tip)
-        if not Tip or not Tip.AddLine then
-            return
-        end
-        Tip:AddLine("BiSTracker")
-        Tip:AddLine("|cffffff00Left click:|r Toggle BiSTrackers main window", 1, 1, 1)
-        Tip:AddLine("|cffffff00Right click:|r Toggle BiSTrackers options window", 1, 1, 1)
-    end,
-})
+local L
+local ldb
 local icon = LibStub("LibDBIcon-1.0")
 
 
+local function InitMinimapButton()
+    ldb = LibStub("LibDataBroker-1.1"):NewDataObject("BiSTracker", {
+        type = "data source",
+        text = "BiSTracker",
+        icon = "Interface\\Addons\\BiSTracker\\Assets\\icon",
+        OnClick = function(Tip, button)
+            if button == "LeftButton"  then
+                BiSTracker:ToggleMainFrame()
+            elseif button == "RightButton" then
+                BiSTracker:ToggleOptions()
+            end
+        end,
+        OnTooltipShow = function(Tip)
+            if not Tip or not Tip.AddLine then
+                return
+            end
+            Tip:AddLine("BiSTracker")
+            Tip:AddLine(L["|cffffff00Left click:|r Toggle BiSTrackers main window"], 1, 1, 1)
+            Tip:AddLine(L["|cffffff00Right click:|r Toggle BiSTrackers options window"], 1, 1, 1)
+        end,
+    })
+    
+end
 
 
 function BiSTracker:ToggleMainFrame()
@@ -33,7 +38,7 @@ function BiSTracker:ToggleMainFrame()
     end
 end
 
-BiSTracker.Version = 3.3
+BiSTracker.Version = 5.01
 
 BiSTracker.SelectedClass = ""
 BiSTracker.SelectedSetName = ""
@@ -41,33 +46,27 @@ BiSTracker.CurrentClass = ""
 BiSTracker.IsHoveringItemSlot = false
 
 BiSTracker.Item = {
-    ID = 0,
-    Obtain = {
-        NpcID = 0,
-        NpcName = "",
-        Kill = false,
-        Quest = false,
-        QuestID = 0,
-        Recipe = false,
-        RecipeID = 0,
-        DropChance = 0,
-        Zone = ""
+    id = 0,
+    name = "",
+    source = {
+        ID=0,
+        SourceName="",
+        SourceType="",
+        DropChance="",
+        Zone=""
     }
 }
 BiSTracker.Item.__index = BiSTracker.Item
-function BiSTracker.Item:New(id, npcID, npcName, kill, quest, questID, recipe, recipeID, dropchance, zone)
+function BiSTracker.Item:New(id, name, sourceID, sourceName, sourceType, dropChance, zone)--npcID, npcName, kill, quest, questID, recipe, recipeID, dropchance, zone)
     local self = setmetatable({}, BiSTracker.Item)
-    self.ID = id
-    self.Obtain = {}
-    self.Obtain.NpcID = npcID
-    self.Obtain.NpcName = npcName -- LEGACY
-    self.Obtain.Kill = kill
-    self.Obtain.Quest = quest
-    self.Obtain.QuestID = questID
-    self.Obtain.Recipe = recipe
-    self.Obtain.RecipeID = recipeID
-    self.Obtain.DropChance = dropchance
-    self.Obtain.Zone = zone
+    self.id = id
+    self.name = name
+    self.source = {}
+    self.source.ID = sourceID
+    self.source.SourceName = sourceName
+    self.source.SourceType = sourceType
+    self.source.DropChance = dropChance
+    self.source.Zone = zone
     return self;
 end
 
@@ -141,19 +140,53 @@ function BiSTracker.Set:New (name, head, neck, shoulder, back, chest, shirt, tab
     return self
 end
 
-function ItemIsObtainType(val, type)
-    return val.Obtain.Type and type or false
+function GetV1ItemObtainType(val)
+    if (val.Obtain.Type == "By Killing") then
+        return "Kill"
+    elseif (val.Obtain.Type == "By Quest") then
+        return "Quest"
+    elseif (val.Obtain.Type == "By Profession") then
+        return "Profession"
+    end
 end
-function GetItemFromOldDataSlot(slot)
-    return BiSTracker.Item:New(slot.itemID, 0, slot.Obtain.Method, ItemIsObtainType(slot, "By Killing"), ItemIsObtainType(slot, "By Quest"), 0, ItemIsObtainType(slot, "By Profession"), 0, slot.Obtain.Drop, slot.Obtain.Zone)
+function GetItemFromV1DataSlot(slot)
+    local item = BiSTracker.Item:New(0, "", 0, "", "Kill", "0", "")
+    if (slot == nil) then
+        return item
+    end
+    return BiSTracker.Item:New(slot.itemID, "", 0, slot.Obtain.Method, GetV1ItemObtainType(slot), slot.Obtain.Drop, slot.Obtain.Zone)
+end
+
+function GetItemFromV2DataSlot(slot)
+    local item = BiSTracker.Item:New(0, "", 0, "", "Kill", "0", "")
+    if (slot == nil) then
+        return item
+    end
+
+    if (slot.Obtain.Kill) then
+        item = BiSTracker.Item:New(slot.ID, "", slot.Obtain.NpcID, slot.Obtain.NpcName, "Kill", slot.Obtain.DropChance, slot.Obtain.Zone)
+    elseif (slot.Obtain.Quest) then
+        item = BiSTracker.Item:New(slot.ID, "", slot.Obtain.QuestID, slot.Obtain.NpcName, "Quest", slot.Obtain.DropChance, slot.Obtain.Zone)
+    elseif (slot.Obtain.Recipe) then
+        item = BiSTracker.Item:New(slot.ID, "", slot.Obtain.RecipeID, slot.Obtain.NpcName, "Recipe", slot.Obtain.DropChance, slot.Obtain.Zone)
+    else
+        item = BiSTracker.Item:New(slot.ID, "", 0, "", "Unknown", "0", "")
+    end
+
+    return item
 end
 
 
 function BiSTracker:Init()
-    if type(BiS_Settings) ~= "table" or BiS_Settings.CustomSpecsData == nil then
+
+    if type(BiS_Settings) ~= "table" then
         BiS_Settings = {}
         BiS_Settings.CustomSets = {}
         BiS_Settings.Version = BiSTracker.Version
+        BiS_Settings.Locale = "enUS"
+        if (BiSTracker.L[GetLocale()] ~= nil) then
+            BiS_Settings.Locale = GetLocale()
+        end
         BiSTracker.Settings = BiS_Settings
     else
         BiSTracker.Settings = BiS_Settings
@@ -163,44 +196,86 @@ function BiSTracker:Init()
                 for _, item in pairs(value) do
                     BiSTracker.Settings.CustomSets[key] = BiSTracker.Set:New(
                     key, 
-                    GetItemFromOldDataSlot(item.Head), 
-                    GetItemFromOldDataSlot(item.Neck), 
-                    GetItemFromOldDataSlot(item.Shoulder), 
-                    GetItemFromOldDataSlot(item.Cloak), 
-                    GetItemFromOldDataSlot(item.Chest), 
-                    GetItemFromOldDataSlot(item.Wrist), 
-                    GetItemFromOldDataSlot(item.Gloves), 
-                    GetItemFromOldDataSlot(item.Waist), 
-                    GetItemFromOldDataSlot(item.Legs), 
-                    GetItemFromOldDataSlot(item.Boots), 
-                    GetItemFromOldDataSlot(item.Ring1), 
-                    GetItemFromOldDataSlot(item.Ring2), 
-                    GetItemFromOldDataSlot(item.Trinket1), 
-                    GetItemFromOldDataSlot(item.Trinket2), 
-                    GetItemFromOldDataSlot(item.MainHand), 
-                    GetItemFromOldDataSlot(item.OffHand), 
-                    GetItemFromOldDataSlot(item.Ranged))
+                    GetItemFromV1DataSlot(item.Head), 
+                    GetItemFromV1DataSlot(item.Neck), 
+                    GetItemFromV1DataSlot(item.Shoulder), 
+                    GetItemFromV1DataSlot(item.Cloak), 
+                    GetItemFromV1DataSlot(item.Chest), 
+                    GetItemFromV1DataSlot(nil),
+                    GetItemFromV1DataSlot(nil),
+                    GetItemFromV1DataSlot(item.Wrist), 
+                    GetItemFromV1DataSlot(item.Gloves), 
+                    GetItemFromV1DataSlot(item.Waist), 
+                    GetItemFromV1DataSlot(item.Legs), 
+                    GetItemFromV1DataSlot(item.Boots), 
+                    GetItemFromV1DataSlot(item.Ring1), 
+                    GetItemFromV1DataSlot(item.Ring2), 
+                    GetItemFromV1DataSlot(item.Trinket1), 
+                    GetItemFromV1DataSlot(item.Trinket2), 
+                    GetItemFromV1DataSlot(item.MainHand), 
+                    GetItemFromV1DataSlot(item.OffHand), 
+                    GetItemFromV1DataSlot(item.Ranged))
                 end
             end
-            BiSTracker.Settings.CustomSpecsData = nil;
+            BiSTracker.Settings.CustomSpecsData = nil
+            BiSTracker.Settings.CustomSpecs = nil
             BiS_Settings = BiSTracker.Settings
+        elseif BiSTracker.Settings.Version < 4.5 then
+            for key, value in pairs(BiSTracker.Settings.CustomSets) do
+                BiSTracker.Settings.CustomSets[key] = BiSTracker.Set:New(
+                key,
+                GetItemFromV2DataSlot(value.Slots.Head),
+                GetItemFromV2DataSlot(value.Slots.Neck),
+                GetItemFromV2DataSlot(value.Slots.Shoulder),
+                GetItemFromV2DataSlot(value.Slots.Back),
+                GetItemFromV2DataSlot(value.Slots.Chest),
+                GetItemFromV2DataSlot(nil),
+                GetItemFromV2DataSlot(nil),
+                GetItemFromV2DataSlot(value.Slots.Wrists),
+                GetItemFromV2DataSlot(value.Slots.Hands),
+                GetItemFromV2DataSlot(value.Slots.Waist),
+                GetItemFromV2DataSlot(value.Slots.Legs),
+                GetItemFromV2DataSlot(value.Slots.Feet),
+                GetItemFromV2DataSlot(value.Slots.Finger),
+                GetItemFromV2DataSlot(value.Slots.RFinger),
+                GetItemFromV2DataSlot(value.Slots.Trinket),
+                GetItemFromV2DataSlot(value.Slots.RTrinket),
+                GetItemFromV2DataSlot(value.Slots.MainHand),
+                GetItemFromV2DataSlot(value.Slots.SecondaryHand),
+                GetItemFromV2DataSlot(value.Slots.Relic)
+                )
+            end
+        end
+        if (BiSTracker.Settings.Locale == nil) then
+            BiSTracker.Settings.Locale = "enUS"
+            if (BiSTracker.L[GetLocale()] ~= nil) then
+                BiS_Settings.Locale = GetLocale()
+            end
         end
         BiS_Settings.Version = BiSTracker.Version
     end
-
     local _,englishClass,_ = UnitClass("player")
 
     BiSTracker.CurrentClass = englishClass:lower():gsub("^%l", string.upper)
+    L = BiSTracker.L[BiSTracker.Settings.Locale]
+end
 
-    BiSTracker:InitUI()
+function BiSTracker:InitEquippableDB()
+    BiSTracker.ItemDB = LibStub and LibStub("LibEquippable-1.0", true)
 end
 
 function BiSTracker:OnInitialize()
+    BiSTracker:InitLocale()
+    BiSTracker:Init()
+
+    BiSTracker:InitChatCommands()
     BiSTracker.InitDB()
     BiSTracker:RegisterEvents()
-    BiSTracker:Init()
+    BiSTracker:InitUI()
     BiSTracker:InitImportExport()
     BiSTracker:InitOptions()
+    BiSTracker:InitEquippableDB()
+    InitMinimapButton()
     icon:Register("BiSTracker", ldb, self.db.profile.minimap)
 end
 

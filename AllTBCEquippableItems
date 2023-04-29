@@ -1,0 +1,392 @@
+{
+    "24259": {
+        "ID": "24259",
+        "Name": "Vengeance Wrap",
+        "Obtain": {
+            "NpcID": 0,
+            "NpcName": "",
+            "Kill": false,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": true,
+            "RecipeID": 31449,
+            "DropChance": 0,
+            "Zone": ""
+        }
+    },
+    "20073": {
+        "ID": "20073",
+        "Name": "Cloak of the Honor Guard",
+        "Obtain": {
+            "NpcID": 15127,
+            "NpcName": "Samuel Hawke (Purchase)",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "100",
+            "Zone": "Arathi Highlands"
+        }
+    },
+    "19085": {
+        "ID": "19085",
+        "Name": "Frostwolf Advisor's Cloak",
+        "Obtain": {
+            "NpcID": 13218,
+            "NpcName": "Grunnda Wolfheart (Purchase)",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "100",
+            "Zone": "Alterac Valley"
+        }
+    },
+    "20068": {
+        "ID": "20068",
+        "Name": "Deathguard's Cloak",
+        "Obtain": {
+            "NpcID": 15126,
+            "NpcName": "Rutherford Twing (Purchase)",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "100",
+            "Zone": "Arathi Highlands"
+        }
+    },
+    "28672": {
+        "ID": "28672",
+        "Name": "Drape of the Dark Reavers",
+        "Obtain": {
+            "NpcID": 16524,
+            "NpcName": "Shade of Aran",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "14.2",
+            "Zone": "Karazhan"
+        }
+    },
+    "28766": {
+        "ID": "28766",
+        "Name": "Ruby Drape of the Mysticant",
+        "Obtain": {
+            "NpcID": 15690,
+            "NpcName": "Prince Malchezaar",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "14.2",
+            "Zone": "Karazhan"
+        }
+    },
+    "28797": {
+        "ID": "28797",
+        "Name": "Brute Cloak of the Ogre-Magi",
+        "Obtain": {
+            "NpcID": 18831,
+            "NpcName": "High King Maulgar",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "14.1",
+            "Zone": "Gruul's Lair"
+        }
+    },
+    "29382": {
+        "ID": "29382",
+        "Name": "Blood Knight War Cloak",
+        "Obtain": {
+            "NpcID": 18525,
+            "NpcName": "G'eras (Purchase)",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "100",
+            "Zone": "Shattrath City"
+        }
+    },
+    "28777": {
+        "ID": "28777",
+        "Name": "Cloak of the Pit Stalker",
+        "Obtain": {
+            "NpcID": 17257,
+            "NpcName": "Magtheridon",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "12.5",
+            "Zone": "Magtheridon's Lair"
+        }
+    },
+    "27804": {
+        "ID": "27804",
+        "Name": "Devilshark Cape",
+        "Obtain": {
+            "NpcID": 17798,
+            "NpcName": "Warlord Kalithresh",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "4.1",
+            "Zone": "The Steamvault"
+        }
+    },
+    "3719": {
+        "ID": "3719",
+        "Name": "Hillman's Cloak",
+        "Obtain": {
+            "NpcID": 0,
+            "NpcName": "",
+            "Kill": false,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": true,
+            "RecipeID": 3760,
+            "DropChance": 0,
+            "Zone": ""
+        }
+    },
+    "28765": {
+        "ID": "28765",
+        "Name": "Stainless Cloak of the Pure Hearted",
+        "Obtain": {
+            "NpcID": 15690,
+            "NpcName": "Prince Malchezaar",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "14.2",
+            "Zone": "Karazhan"
+        }
+    },
+    "18510": {
+        "ID": "18510",
+        "Name": "Hide of the Wild",
+        "Obtain": {
+            "NpcID": 0,
+            "NpcName": "",
+            "Kill": false,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": true,
+            "RecipeID": 22927,
+            "DropChance": 0,
+            "Zone": ""
+        }
+    },
+    "27981": {
+        "ID": "27981",
+        "Name": "Sethekk Oracle Cloak",
+        "Obtain": {
+            "NpcID": 18473,
+            "NpcName": "Talon King Ikiss",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "7.1",
+            "Zone": "Sethekk Halls"
+        }
+    },
+    "28377": {
+        "ID": "28377",
+        "Name": "Sergeant's Heavy Cloak",
+        "Obtain": {
+            "NpcID": 12781,
+            "NpcName": "Master Sergeant Biggins (Purchase)",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "100",
+            "Zone": "Stormwind City"
+        }
+    },
+    "28378": {
+        "ID": "28378",
+        "Name": "Sergeant's Heavy Cape",
+        "Obtain": {
+            "NpcID": 12781,
+            "NpcName": "Master Sergeant Biggins (Purchase)",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "100",
+            "Zone": "Stormwind City"
+        }
+    },
+    "28660": {
+        "ID": "28660",
+        "Name": "Gilded Thorium Cloak",
+        "Obtain": {
+            "NpcID": 15688,
+            "NpcName": "Terestian Illhoof",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "37.5",
+            "Zone": "Karazhan"
+        }
+    },
+    "31329": {
+        "ID": "31329",
+        "Name": "Lifegiving Cloak",
+        "Obtain": {
+            "NpcID": 0,
+            "NpcName": "",
+            "Kill": false,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": 0,
+            "Zone": ""
+        }
+    },
+    "28570": {
+        "ID": "28570",
+        "Name": "Shadow-Cloak of Dalaran",
+        "Obtain": {
+            "NpcID": 15687,
+            "NpcName": "Moroes",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "25.0",
+            "Zone": "Karazhan"
+        }
+    },
+    "27892": {
+        "ID": "27892",
+        "Name": "Cloak of the Inciter",
+        "Obtain": {
+            "NpcID": 18667,
+            "NpcName": "Blackheart the Inciter",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "33.3",
+            "Zone": "Shadow Labyrinth"
+        }
+    },
+    "22990": {
+        "ID": "22990",
+        "Name": "Tranquillien Champion's Cloak",
+        "Obtain": {
+            "NpcID": 12225,
+            "NpcName": "Celebras the Cursed",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "5.1",
+            "Zone": "Maraudon"
+        }
+    },
+    "27878": {
+        "ID": "27878",
+        "Name": "Auchenai Death Shroud",
+        "Obtain": {
+            "NpcID": 18478,
+            "NpcName": "Avatar of the Martyred",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "10.3",
+            "Zone": "Auchenai Crypts"
+        }
+    },
+    "19086": {
+        "ID": "19086",
+        "Name": "Stormpike Sage's Cloak",
+        "Obtain": {
+            "NpcID": 13216,
+            "NpcName": "Gaelden Hammersmith (Purchase)",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "100",
+            "Zone": "Alterac Valley"
+        }
+    },
+    "28529": {
+        "ID": "28529",
+        "Name": "Royal Cloak of Arathi Kings",
+        "Obtain": {
+            "NpcID": 15687,
+            "NpcName": "Moroes",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "12.5",
+            "Zone": "Karazhan"
+        }
+    },
+    "30735": {
+        "ID": "30735",
+        "Name": "Ancient Spellcloak of the Highborne",
+        "Obtain": {
+            "NpcID": 18728,
+            "NpcName": "Doom Lord Kazzak",
+            "Kill": true,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": false,
+            "RecipeID": 0,
+            "DropChance": "14.3",
+            "Zone": "Unknown"
+        }
+    },
+    "24252": {
+        "ID": "24252",
+        "Name": "Cloak of the Black Void",
+        "Obtain": {
+            "NpcID": 0,
+            "NpcName": "",
+            "Kill": false,
+            "Quest": false,
+            "QuestID": 0,
+            "Recipe": true,
+            "RecipeID": 31438,
+            "DropChance": 0,
+            "Zone": ""
+        }
+    }
+}

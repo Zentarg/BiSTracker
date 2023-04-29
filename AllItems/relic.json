@@ -1,0 +1,1626 @@
+{
+    "23198": {
+        "name_enus": "Idol of Brutality",
+        "quality": 3,
+        "icon": "inv_relics_idolofferocity",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 15749,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22401": {
+        "name_enus": "Libram of Hope",
+        "quality": 3,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 57,
+            "sellprice": 15924,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29388": {
+        "name_enus": "Libram of Repentance",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23199": {
+        "name_enus": "Totem of the Storm",
+        "quality": 3,
+        "icon": "inv_relics_totemofrage",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 299000,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 15808,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28248": {
+        "name_enus": "Totem of the Void",
+        "quality": 3,
+        "icon": "spell_arcane_blast",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 27226,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27484": {
+        "name_enus": "Libram of Avengement",
+        "quality": 3,
+        "icon": "inv_misc_stonetablet_05",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 25260,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27917": {
+        "name_enus": "Libram of the Eternal Rest",
+        "quality": 3,
+        "icon": "inv_relics_libramoftruth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 68,
+            "sellprice": 24759,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23203": {
+        "name_enus": "Libram of Fervor",
+        "quality": 3,
+        "icon": "inv_relics_libramoftruth",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 354000,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 16043,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33509": {
+        "name_enus": "Idol of Terror",
+        "quality": 4,
+        "icon": "classic_ability_druid_demoralizingroar",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28064": {
+        "name_enus": "Idol of the Wild",
+        "quality": 2,
+        "icon": "spell_nature_spiritwolf",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "sellprice": 17536,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23197": {
+        "name_enus": "Idol of the Moon",
+        "quality": 3,
+        "icon": "inv_relics_idolofrejuvenation",
+        "screenshot": {},
+        "jsonequip": {
+            "avgbuyout": 404999,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 15690,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27886": {
+        "name_enus": "Idol of the Emerald Queen",
+        "quality": 3,
+        "icon": "spell_nature_natureresistancetotem",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 68,
+            "sellprice": 25617,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32387": {
+        "name_enus": "Idol of the Raven Goddess",
+        "quality": 3,
+        "icon": "inv-mount_raven_54",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "sellprice": 25096,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27815": {
+        "name_enus": "Totem of the Astral Winds",
+        "quality": 3,
+        "icon": "spell_unused",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 27126,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22395": {
+        "name_enus": "Totem of Rage",
+        "quality": 3,
+        "icon": "inv_relics_totemofrage",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 52,
+            "sellprice": 12973,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28523": {
+        "name_enus": "Totem of Healing Rains",
+        "quality": 4,
+        "icon": "spell_nature_giftofthewaterspirit",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 34866,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22398": {
+        "name_enus": "Idol of Rejuvenation",
+        "quality": 3,
+        "icon": "inv_relics_idolofrejuvenation",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 57,
+            "sellprice": 15755,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28592": {
+        "name_enus": "Libram of Souls Redeemed",
+        "quality": 4,
+        "icon": "inv_relics_libramofgrace",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 36949,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29390": {
+        "name_enus": "Everbloom Idol",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27744": {
+        "name_enus": "Idol of Ursoc",
+        "quality": 3,
+        "icon": "classic_ability_druid_demoralizingroar",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 25371,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23201": {
+        "name_enus": "Libram of Divinity",
+        "quality": 3,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 15925,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23200": {
+        "name_enus": "Totem of Sustaining",
+        "quality": 3,
+        "icon": "inv_relics_totemoflife",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 15867,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186054": {
+        "name_enus": "Communal Idol of Life",
+        "quality": 2,
+        "icon": "spell_nature_natureresistancetotem",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22396": {
+        "name_enus": "Totem of Life",
+        "quality": 4,
+        "icon": "inv_relics_totemoflife",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 25392,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22397": {
+        "name_enus": "Idol of Ferocity",
+        "quality": 3,
+        "icon": "inv_relics_idolofferocity",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 52,
+            "sellprice": 13067,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25644": {
+        "name_enus": "Blessed Book of Nagrand",
+        "quality": 3,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "sellprice": 23574,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28568": {
+        "name_enus": "Idol of the Avian Heart",
+        "quality": 4,
+        "icon": "inv_misc_thegoldencheep",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 36436,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22128": {
+        "name_enus": "Master Firestone",
+        "quality": 1,
+        "icon": "inv_misc_gem_bloodstone_02",
+        "screenshot": {},
+        "jsonequip": {
+            "firsplpwr": 30,
+            "maxcount": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22345": {
+        "name_enus": "Totem of Rebirth",
+        "quality": 3,
+        "icon": "inv_relics_totemofrebirth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 57,
+            "sellprice": 14620,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33945": {
+        "name_enus": "Gladiator's Idol of Resolve",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27518": {
+        "name_enus": "Ivory Idol of the Moongoddess",
+        "quality": 3,
+        "icon": "spell_arcane_arcane03",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 68,
+            "sellprice": 24770,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25643": {
+        "name_enus": "Harold's Rejuvenating Broach",
+        "quality": 3,
+        "icon": "inv_relics_idolofrejuvenation",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "sellprice": 23486,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186073": {
+        "name_enus": "Communal Totem of the Storm",
+        "quality": 2,
+        "icon": "spell_nature_manaregentotem",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25645": {
+        "name_enus": "Totem of the Plains",
+        "quality": 3,
+        "icon": "inv_relics_totemoflife",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "sellprice": 23660,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22400": {
+        "name_enus": "Libram of Truth",
+        "quality": 3,
+        "icon": "inv_relics_libramoftruth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 52,
+            "sellprice": 13208,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27544": {
+        "name_enus": "Totem of Spontaneous Regrowth",
+        "quality": 3,
+        "icon": "spell_nature_protectionformnature",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 25949,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33506": {
+        "name_enus": "Skycall Totem",
+        "quality": 4,
+        "icon": "spell_nature_callstorm",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24413": {
+        "name_enus": "Totem of the Thunderhead",
+        "quality": 3,
+        "icon": "spell_nature_lightning",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 63,
+            "sellprice": 22693,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33507": {
+        "name_enus": "Stonebreaker's Totem",
+        "quality": 4,
+        "icon": "spell_nature_earthquake",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186053": {
+        "name_enus": "Communal Idol of the Wild",
+        "quality": 2,
+        "icon": "spell_nature_spiritwolf",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28372": {
+        "name_enus": "Idol of Feral Shadows",
+        "quality": 3,
+        "icon": "ability_druid_healinginstincts",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 26350,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "24386": {
+        "name_enus": "Libram of Saints Departed",
+        "quality": 3,
+        "icon": "inv_misc_book_13",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 61,
+            "sellprice": 20872,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27947": {
+        "name_enus": "Totem of Impact",
+        "quality": 3,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 62,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186067": {
+        "name_enus": "Communal Book of Righteousness",
+        "quality": 2,
+        "icon": "inv_misc_book_13",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27984": {
+        "name_enus": "Totem of Impact",
+        "quality": 3,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 62,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23006": {
+        "name_enus": "Libram of Light",
+        "quality": 4,
+        "icon": "inv_relics_libramofgrace",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 25351,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32330": {
+        "name_enus": "Totem of Ancestral Guidance",
+        "quality": 4,
+        "icon": "spell_nature_giftofthewaterspirit",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 70,
+            "sellprice": 43943,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28355": {
+        "name_enus": "Gladiator's Idol of Tenacity",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27983": {
+        "name_enus": "Libram of Zeal",
+        "quality": 3,
+        "icon": "inv_relics_libramoftruth",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 62,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22646": {
+        "name_enus": "Master Spellstone",
+        "quality": 1,
+        "icon": "inv_misc_gem_sapphire_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [8043, "inv_jewelry_talisman_05"]
+            },
+            "cooldown": 180000,
+            "displayid": 8043,
+            "maxcount": 1,
+            "reqlevel": 66,
+            "sheathtype": 7,
+            "slotbak": 28,
+            "splcritstrkrtng": 20
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33505": {
+        "name_enus": "Totem of Living Water",
+        "quality": 4,
+        "icon": "spell_frost_summonwaterelemental",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33502": {
+        "name_enus": "Libram of Mending",
+        "quality": 4,
+        "icon": "inv_relics_libramoftruth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186071": {
+        "name_enus": "Communal Totem of Lightning",
+        "quality": 2,
+        "icon": "spell_arcane_blast",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13603": {
+        "name_enus": "Major Spellstone",
+        "quality": 1,
+        "icon": "inv_misc_gem_sapphire_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [8043, "inv_jewelry_talisman_05"]
+            },
+            "cooldown": 180000,
+            "displayid": 8043,
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sheathtype": 7,
+            "slotbak": 28,
+            "splcritstrkrtng": 14
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33510": {
+        "name_enus": "Idol of the Unseen Moon",
+        "quality": 4,
+        "icon": "spell_nature_sentinal",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30023": {
+        "name_enus": "Totem of the Maelstrom",
+        "quality": 4,
+        "icon": "spell_nature_earthbind",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 37156,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "29389": {
+        "name_enus": "Totem of the Pulsing Earth",
+        "quality": 4,
+        "icon": "inv_elemental_primal_earth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25667": {
+        "name_enus": "Idol of the Beast",
+        "quality": 3,
+        "icon": "ability_druid_challangingroar",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 64,
+            "sellprice": 18839,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186072": {
+        "name_enus": "Communal Totem of Restoration",
+        "quality": 2,
+        "icon": "inv_relics_totemoflife",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33503": {
+        "name_enus": "Libram of Divine Judgement",
+        "quality": 4,
+        "icon": "inv_relics_libramofgrace",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28065": {
+        "name_enus": "Libram of Wracking",
+        "quality": 2,
+        "icon": "inv_relics_libramoftruth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "sellprice": 17603,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186065": {
+        "name_enus": "Communal Book of Healing",
+        "quality": 2,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32257": {
+        "name_enus": "Idol of the White Stag",
+        "quality": 4,
+        "icon": "inv_qirajidol_alabaster",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 43930,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "5522": {
+        "name_enus": "Spellstone",
+        "quality": 1,
+        "icon": "inv_misc_gem_sapphire_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [8043, "inv_jewelry_talisman_05"]
+            },
+            "cooldown": 180000,
+            "displayid": 8043,
+            "maxcount": 1,
+            "reqlevel": 36,
+            "sheathtype": 7,
+            "slotbak": 28,
+            "splcritstrkrtng": 8
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30051": {
+        "name_enus": "Idol of the Crescent Goddess",
+        "quality": 4,
+        "icon": "inv_qirajidol_night",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 39317,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28296": {
+        "name_enus": "Libram of the Lightbringer",
+        "quality": 3,
+        "icon": "inv_misc_book_12",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 26052,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "30063": {
+        "name_enus": "Libram of Absolute Truth",
+        "quality": 4,
+        "icon": "inv_relics_libramoftruth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "sellprice": 38172,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27949": {
+        "name_enus": "Libram of Zeal",
+        "quality": 3,
+        "icon": "inv_relics_libramoftruth",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 62,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "25940": {
+        "name_enus": "Idol of the Claw",
+        "quality": 3,
+        "icon": "inv_relics_idolofferocity",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 64,
+            "sellprice": 23761,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27990": {
+        "name_enus": "Idol of Savagery",
+        "quality": 3,
+        "icon": "inv_relics_idolofferocity",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 62,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186066": {
+        "name_enus": "Communal Book of Protection",
+        "quality": 2,
+        "icon": "inv_relics_libramoftruth",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22399": {
+        "name_enus": "Idol of Health",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 25666,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "32368": {
+        "name_enus": "Tome of the Lightbringer",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 70,
+            "sellprice": 75000,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33504": {
+        "name_enus": "Libram of Divine Purpose",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "186052": {
+        "name_enus": "Communal Idol of Wrath",
+        "quality": 2,
+        "icon": "inv_misc_rune_10",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 58,
+            "sellprice": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "27989": {
+        "name_enus": "Idol of Savagery",
+        "quality": 3,
+        "icon": "inv_relics_idolofferocity",
+        "screenshot": {},
+        "jsonequip": {
+            "reqlevel": 62,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23005": {
+        "name_enus": "Totem of Flowing Water",
+        "quality": 4,
+        "icon": "inv_relics_totemoflife",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 25253,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "22402": {
+        "name_enus": "Libram of Grace",
+        "quality": 4,
+        "icon": "inv_relics_libramofgrace",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 25942,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28066": {
+        "name_enus": "Totem of Lightning",
+        "quality": 2,
+        "icon": "inv_relics_totemofrage",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "sellprice": 17669,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35021": {
+        "name_enus": "Brutal Gladiator's Idol of Tenacity",
+        "quality": 4,
+        "icon": "spell_nature_naturetouchgrow",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35104": {
+        "name_enus": "Brutal Gladiator's Totem of Indomitability",
+        "quality": 4,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35105": {
+        "name_enus": "Brutal Gladiator's Totem of Survival",
+        "quality": 4,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33078": {
+        "name_enus": "Merciless Gladiator's Totem of the Third Wind",
+        "quality": 4,
+        "icon": "spell_frost_summonwaterelemental",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33939": {
+        "name_enus": "Gladiator's Totem of Indomitability",
+        "quality": 4,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33948": {
+        "name_enus": "Gladiator's Libram of Vengeance",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28356": {
+        "name_enus": "Gladiator's Libram of Justice",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "23004": {
+        "name_enus": "Idol of Longevity",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 60,
+            "sellprice": 25159,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13700": {
+        "name_enus": "Greater Firestone",
+        "quality": 1,
+        "icon": "inv_misc_gem_bloodstone_02",
+        "screenshot": {},
+        "jsonequip": {
+            "firsplpwr": 17,
+            "maxcount": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35020": {
+        "name_enus": "Brutal Gladiator's Idol of Steadfastness",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35040": {
+        "name_enus": "Brutal Gladiator's Libram of Justice",
+        "quality": 4,
+        "icon": "inv_misc_book_07",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33842": {
+        "name_enus": "Vengeful Gladiator's Libram of Justice",
+        "quality": 4,
+        "icon": "inv_misc_book_07",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33843": {
+        "name_enus": "Vengeful Gladiator's Totem of the Third Wind",
+        "quality": 4,
+        "icon": "spell_frost_summonwaterelemental",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33941": {
+        "name_enus": "Vengeful Gladiator's Totem of Indomitability",
+        "quality": 4,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33944": {
+        "name_enus": "Vengeful Gladiator's Idol of Steadfastness",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33947": {
+        "name_enus": "Vengeful Gladiator's Idol of Resolve",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33950": {
+        "name_enus": "Vengeful Gladiator's Libram of Vengeance",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33077": {
+        "name_enus": "Merciless Gladiator's Libram of Justice",
+        "quality": 4,
+        "icon": "inv_misc_book_07",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33940": {
+        "name_enus": "Merciless Gladiator's Totem of Indomitability",
+        "quality": 4,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33949": {
+        "name_enus": "Merciless Gladiator's Libram of Vengeance",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "28357": {
+        "name_enus": "Gladiator's Totem of the Third Wind",
+        "quality": 4,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35106": {
+        "name_enus": "Brutal Gladiator's Totem of the Third Wind",
+        "quality": 4,
+        "icon": "spell_frost_summonwaterelemental",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33841": {
+        "name_enus": "Vengeful Gladiator's Idol of Tenacity",
+        "quality": 4,
+        "icon": "spell_nature_naturetouchgrow",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33938": {
+        "name_enus": "Vengeful Gladiator's Libram of Fortitude",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33943": {
+        "name_enus": "Merciless Gladiator's Idol of Steadfastness",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33508": {
+        "name_enus": "Idol of Budding Life",
+        "quality": 4,
+        "icon": "spell_nature_protectionformnature",
+        "screenshot": {},
+        "jsonequip": {
+            "maxcount": 1,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13699": {
+        "name_enus": "Firestone",
+        "quality": 1,
+        "icon": "inv_misc_gem_bloodstone_02",
+        "screenshot": {},
+        "jsonequip": {
+            "firsplpwr": 14,
+            "maxcount": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35019": {
+        "name_enus": "Brutal Gladiator's Idol of Resolve",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35041": {
+        "name_enus": "Brutal Gladiator's Libram of Vengeance",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33076": {
+        "name_enus": "Merciless Gladiator's Idol of Tenacity",
+        "quality": 4,
+        "icon": "spell_nature_naturetouchgrow",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33937": {
+        "name_enus": "Merciless Gladiator's Libram of Fortitude",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33946": {
+        "name_enus": "Merciless Gladiator's Idol of Resolve",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33952": {
+        "name_enus": "Merciless Gladiator's Totem of Survival",
+        "quality": 4,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "35039": {
+        "name_enus": "Brutal Gladiator's Libram of Fortitude",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33953": {
+        "name_enus": "Vengeful Gladiator's Totem of Survival",
+        "quality": 4,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33951": {
+        "name_enus": "Gladiator's Totem of Survival",
+        "quality": 4,
+        "icon": "spell_nature_slowingtotem",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 64,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33942": {
+        "name_enus": "Gladiator's Idol of Steadfastness",
+        "quality": 4,
+        "icon": "inv_relics_idolofhealth",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 1024,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13701": {
+        "name_enus": "Major Firestone",
+        "quality": 1,
+        "icon": "inv_misc_gem_bloodstone_02",
+        "screenshot": {},
+        "jsonequip": {
+            "firsplpwr": 21,
+            "maxcount": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "33936": {
+        "name_enus": "Gladiator's Libram of Fortitude",
+        "quality": 4,
+        "icon": "inv_relics_libramofhope",
+        "screenshot": {},
+        "jsonequip": {
+            "classes": 2,
+            "reqlevel": 70,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "13602": {
+        "name_enus": "Greater Spellstone",
+        "quality": 1,
+        "icon": "inv_misc_gem_sapphire_01",
+        "screenshot": {},
+        "jsonequip": {
+            "appearances": {
+                "0": [8043, "inv_jewelry_talisman_05"]
+            },
+            "cooldown": 180000,
+            "displayid": 8043,
+            "maxcount": 1,
+            "reqlevel": 48,
+            "sheathtype": 7,
+            "slotbak": 28,
+            "splcritstrkrtng": 11
+        },
+        "attainable": 0,
+        "flags2": 24580
+    },
+    "1254": {
+        "name_enus": "Lesser Firestone",
+        "quality": 1,
+        "icon": "inv_misc_gem_bloodstone_02",
+        "screenshot": {},
+        "jsonequip": {
+            "firsplpwr": 10,
+            "maxcount": 1,
+            "slotbak": 28
+        },
+        "attainable": 0,
+        "flags2": 24580
+    }
+}

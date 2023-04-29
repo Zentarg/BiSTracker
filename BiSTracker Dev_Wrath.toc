@@ -1,0 +1,25 @@
+## Interface: 30401
+
+## Title: BiS Tracker Dev Wrath
+## Notes: Shows BiS items for every class, and where to get them.
+## Author: Zentarg
+## Version: 6.01
+## SavedVariablesPerCharacter: BiS_Settings
+## SavedVariables: BiSTrackerDB
+
+embeds.xml
+
+data\BiSData_Wrath.lua
+
+core\Init.lua
+core\Localization.lua
+core\DB.lua
+core\ChatCommands.lua
+core\AceGUILayouts.lua
+core\Error.lua
+core\Item.lua
+core\Event.lua
+core\GUI.lua
+core\Options.lua
+
+core\ImportExport.lua

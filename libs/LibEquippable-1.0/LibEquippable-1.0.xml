@@ -1,0 +1,31 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+
+	<Script file="LibEquippable-1.0.lua"/>
+    <!-- Slots -->
+    <Script file="db\ammo.lua"/>
+    <Script file="db\back.lua"/>
+    <Script file="db\chest.lua"/>
+    <Script file="db\feet.lua"/>
+    <Script file="db\finger.lua"/>
+    <Script file="db\hands.lua"/>
+    <Script file="db\head.lua"/>
+    <Script file="db\heldinoffhand.lua"/>
+    <Script file="db\legs.lua"/>
+    <Script file="db\mainhand.lua"/>
+    <Script file="db\neck.lua"/>
+    <Script file="db\offhand.lua"/>
+    <Script file="db\onehand.lua"/>
+    <Script file="db\ranged.lua"/>
+    <Script file="db\relic.lua"/>
+    <Script file="db\shield.lua"/>
+    <Script file="db\shirt.lua"/>
+    <Script file="db\shoulder.lua"/>
+    <Script file="db\tabard.lua"/>
+    <Script file="db\thrown.lua"/>
+    <Script file="db\trinket.lua"/>
+    <Script file="db\twohand.lua"/>
+    <Script file="db\waist.lua"/>
+    <Script file="db\wrists.lua"/>
+
+</Ui>
