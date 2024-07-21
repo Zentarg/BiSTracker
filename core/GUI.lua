@@ -243,7 +243,11 @@ function BiSTracker.MainFrame:UpdateSetDisplay()
                         
                         local hasItem = BiSTracker:CharacterHasItem(value.id)
                         if (key ~= "Relic" or BiSTracker.SelectedClass == "Hunter") then
-                            BiSTracker.MainFrame.Model:TryOn(itemLink)
+                            if (key == "SecondaryHand") then
+                                BiSTracker.MainFrame.Model:TryOn(itemLink, "SECONDARYHANDSLOT")
+                            else
+                                BiSTracker.MainFrame.Model:TryOn(itemLink, "MAINHANDSLOT")
+                            end
                         end
                         BiSTracker.MainFrame.Slots[key]:SetImage(itemTexture)
                         BiSTracker.MainFrame.Slots[key]:SetCallback("OnEnter", function()
@@ -286,7 +290,7 @@ local function CreateLabel(text, centered, r, g, b, font)
     local o = BiSTracker.AceGUI:Create("Label")
     o:SetText(text)
     if (centered ~= nil and centered ~= false) then
-        o:SetJustifyH("TOP")
+        o:SetJustifyH("CENTER")
     end 
     if (font ~= nil) then
         o:SetFontObject(font)
