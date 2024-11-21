@@ -1,9 +1,9 @@
-## Interface: 11503
+## Interface: 11505
 
 ## Title: BiS Tracker Dev Vanilla
 ## Notes: Shows BiS items for every class, and where to get them.
 ## Author: Zentarg
-## Version: 6.03
+## Version: 6.04
 ## SavedVariablesPerCharacter: BiS_Settings
 ## SavedVariables: BiSTrackerDB
 
